@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2334"
+decided: "1955-04-13"
+citations: ["99 Ohio App. 524"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, P. J., and Hornbeck, J., concur."]
+parties: ["The Roudebush Realty Co., Appellee, v. Toby, Appellant."]
+source_url: "https://static.case.law/ohio-app/99/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1420544
+cites_cases: ["24 A. L. R., 1537", "28 A. L. R., 893", "70 A. L. R., 770", "82 Ohio App., 421"]
+---
+
+# Roudebush Realty Co. v. Toby
+
+## Majority (Wiseman, J.)
+
+Wiseman, J.
+This is an appeal on questions of law from a judgment rendered in favor of the plaintiff in the sum of $1,000 by the Municipal Court of Dayton, in an action in which plaintiff sued to recover a real estate broker’s commission.
+Plaintiff claims there was due it a commission of $1,000 on the sale of a residence, built and sold by the defendant, under a continuing written agreement entered into between the parties on August 5, 1952, whereby the defendant gave the plaintiff an exclusive agency to sell any or all residences which it may construct on lots of the Lotz Plat which was being developed by the plaintiff.
+Two residences constructed by the defendant on lots previously purchased by the defendant on the Lotz Plat were sold by the plaintiff under the exclusive agency agreement. In June 1953, the defendant purchased a third lot on the Lotz Plat through the plaintiff’s agency and constructed a residence thereon. The residence was partially completed in the latter part of September. About November 1, the residence was practically completed, althrough the type of heating unit was not definitely settled until November 30, 1953. During the months of October, November, December, and up until January 10, 1954, the plaintiff expended time, effort and money in advertising the property for sale, and did show it to numerous prospective purchasers during all this period. The residences on the Lotz Plat, which consisted of approximately 35 acres which had been subdivided into 75 lots, were of brick construction, ranch type, which sold for a price in excess of $30,000. Four other builders were constructing residences on the Lotz Plat. The two residences previously constructed by the defendant, which were sold by the plaintiff, were completed from four to seven months before a sale was made.
+The evidence shows that on November 14, 1953, the defendant purchased a hardware store, and on November 15, 1953, notified the plaintiff that unless the residence was sold before Roudebush went to Florida, he would take the sale out of plaintiff’s hands and give it to another agency. On December 10, 1953, Roudebush went to Florida, but the plaintiff’s agency, which is a large operation, employing many salesmen, continued to advertise and show the property in the absence of Roudebush, making an effort to sell the property until January 10, 1954. On January 9, 1954, by letter, the defendant notified the plaintiff that he desired to cancel and terminate the exclusive agency agreement dated August 5, 1952. On January 10, the defendant sold the property for $31,500. It is conceded that plaintiff was not the procuring cause of the sale. However, under an exclusive agency contract, the plaintiff would be entitled to a commission for any sale made by the defendant, unless the notice given by the defendant legally terminated the agency.
+The controversy arises over the. fact that the exclusive agency agreement did not provide for the duration of the contract, or when or how it could be terminated. The defendant contends that he could terminate the contract at will, or at any time before the property was actually sold by the plaintiff. The plaintiff contends that the contract could not be terminated until after the expiration of a reasonable time. In 11 Ohio Jurisprudence (2d), 447, 448, Section 195, the rule is stated as follows:
+“It is said that where the duration of a contract is indefinite, the general rule is that the contract is to be performed within a reasonable time. It is likewise frequently stated as a general rule that where no date is fixed for the commencement or completion of performance under a contract, the implication is that performance is to be commenced or completed within a reasonable- time. It is also said that such a contract is so ‘ construed;’ that ‘the law implies that performance is to take place within a reasonable time and that the parties so intended and agreed;’ or that the contract is to be performed within a reasonable time, such being the presumed intent of the parties to be drawn from the entire instrument. However, the rule does not arise contrary to the manifest intention of the parties. ’ ’
+See, also, 12 American Jurisprudence, 860, Section 305.
+In 8 American Jurisprudence, 1006, Section 35, it is stated:
+“ Although there is some authority for the proposition that the mere lapse of a reasonable time is not, as a matter of law, in itself sufficient to work a termination of the employment of a broker, the rule generally adopted is that if the contract of employment is silent as to its duration the broker is deemed to be given only a reasonable time within which to accomplish the object of his agency. What is a reasonable time is obviously dependent upon the facts and circumstances of each particular case and is generally a question of fact for the jury unless there is no dispute as to the facts.”
+In 11 Ohio Jurisprudence (2d), 449, Section 195, it is stated:
+“If a contract fails to specify the time of its duration, the law implies a reasonable time. ’ ’
+In support of this principle of law, reference is made to Richter v. First National Bank of Cincinnati, Trustee, 82 Ohio App., 421, 80 N. E. (2d), 243, where the facts are somewhat similar, except that in the cited case the defendant had given no notice of termination of the contract. In that case the land to be sold was suitable for industrial development. The court held that in view of the difficulty in selling this type of property, which moves slowly on the market, a sale made by the defendant more than five years after the exclusive agency was granted was made at a time when plaintiff was entitled to a commission, in view of the fact that no notice of termination had been given. The fourth paragraph of the syllabus is as follows:
+‘ ‘ Where a real estate broker, having been authorized to sell a tract of land and promised a commission on all sales, performs services and sells several parcels, of such real estate, the owner is estopped from terminating said authority before the expiration of a reasonable time. The service performed constitutes the consideration for the owner’s promise, or operates as an estoppel based on the inducement of the services by his promise.”
+While we find no case in Ohio deciding the precise question presented here, what case law there is in Ohio indicates that the Ohio courts have rejected the “at will” theory and have subscribed to the “reasonable time” theory. For annotations on this subject see 24 A. L. R., 1537, 1547, and 28 A. L. R., 893;
+In the instant case, the plaintiff had sold two residences previously built by the defendant on the Lotz Plat. Plaintiff expended time, effort and money in an attempt to sell the third residence, which is in question. The exclusive agency agreement was continuing in legal effect and applied to this residence the moment defendant began to construct the residence for sale.
+In such cases, what is a reasonable time is a question of fact. Bach v. Friden Calculating Mach. Co. (C. C. A., 6, 1946), 155 F. (2d), 361. In view of the fact that high priced homes which sold in excess of $30,000 were constructed on the plat and the difficulty in finding a purchaser for this type of residence, the length of time taken to sell the two residences previously constructed, and the time of year, we cannot say that the trial court erred in finding that a reasonable time had not expired at the time the defendant revoked the agreement.
+By reason of the extensive services of plaintiff, mutuality or consideration is not lacking, and defendant was estopped to revoke the agreement before the expiration of a reasonable time. 24 A. L. R., 1537, 1560. The notice of cancellation does . not deprive the plaintiff of his commission.
+The judgment of the trial court can be sustained by the application of the proper principles of law to the facts as above stated. However, we cannot overlook the faot that there was evidence properly admitted of an oral agreement between the parties respecting the duration of the exclusive agency. The trial court does not mention this evidence in its opinion; nor do counsel make note of it in their briefs. Clarence Roudebush, on cross-examination, testified as follows:
+“Q. Examine this agreement further, Mr. Roudebush, can you tell me where in that agreement is any termination date? A. There is no termination date but the understanding was— “Def: I object to the ‘understanding.’
+“Plf: I don’t see why.
+■ “Judge: I think the evidence will—
+“(Argument)
+“Judge: Overruled.
+“Plf: Exceptions. A. Our understanding was until sold.
+“Q. When was this understanding arrived at?
+“Judge: So the record may be clear, when was this understanding entered into between you and Mr. Toby? A. Whenever Mr. Toby came in and we sold him lots we entered into that agreement which was to apply to any lots he bought in that plat.
+‘ ‘ Q. WTien was the understanding that this agreement was to continue until the lot was sold? A. At the time the agreement was made.”
+This evidence was undisputed. The defendant was not interrogated with respect to this oral agreement. It is well established in the Ohio law that contracts of the character of this one may rest partly in parol and partly in writing. The admission of parol evidence, in such instances, does not violate the parol evidence rule. 17 Ohio Jurisprudence, 523, 524, 525, Section 425. In this case the exclusive agency agreement was drawn by a layman and was a mere memorandum in character, showing on its face that it was incomplete.
+“If the writing is incomplete on its face, as where it is a mere memorandum omitting essential elements, parol or extrinsic evidence is admissible to show the omitted portions of the contract.” 70 A. L. R., 770.
+“Where the verbal agreement is not inconsistent with, but supplementary to, the written agreement, parol evidence is admissible.” 17 Ohio Jurisprudence, 525, Section 425.
+If the exclusive agency did not expire until each of the properties was sold, as shown by parol evidence, the notice of cancellation was of no legal effect, and the plaintiff would be entitled to a commission.
+Defendant’s motions for judgment upon the evidence, and for a new trial, were properly overruled. The judgment is not contrary to law. There being no error in the record prejudicial to the rights of the defendant, the judgment is affirmed.
+Judgment affirmed.
+Miller, P. J., and Hornbeck, J., concur.
