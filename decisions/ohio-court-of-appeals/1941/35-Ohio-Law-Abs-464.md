@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 412"
+decided: "1941-12-15"
+citations: ["35 Ohio Law Abs. 464"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GEIGER, FJ. & HORNBECK, J., concur."]
+parties: ["YOUNG v GENERAL AMERICAN LIFE INSURANCE COMPANY"]
+source_url: "https://static.case.law/ohio-law-abs/35/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1708312
+cites_cases: ["120 Conn., 60", "179 Atl. 535", "50 A L. R. 1276", "82 N. H. 543"]
+---
+
+# Young v. General American Life Insurance
+
+## Majority (By BARNES, J.)
+
+OPINION
+By BARNES, J.
+The above entitled cause is now being determined as an error proceeding by reason of plaintiff’s appeal on questions of law from the judgment of the Court of Common Pleas of Miami County, Ohio.
+The trial court sustained defendant’s general demurrer to plaintiff’s petition and the plaintiff, not desiring to plead further, dismissed the action on the ground that the petition did not state a cause of action.
+Within statutory time plaintiff perfected his appeal to this Court. The sole and only question for our determination is the sufficiency of plaintiff’s petition. The petition is lengthy and therefore we will not set it out in its entirety, but merely so much of the pertinent facts as will disclose the legal question involved.
+Plaintiff alleges that she is the widow of Harry E. Young, a beneficiary under a certain life insurance policy issued by the defendant company to said Harry E. Young on the 1st day of April, 1934. A copy of the policy is attached to the petition, marked Exhibit “A”, and through an amendment there is also attached what is termed a master policy, marked Exhibit “B”. The corporate entity and the business of the defendant are alleged.
+Plaintiff says that on or about the 1st day of April, 1934, while said decedent was employed with The J. Fred Smith Packing Company of Columbus, Ohio, in consideration of the payment of one and three . one-hundredths (1-3/100) dollars per month said defendant issued to said decedent, Harry E. Young, said insurance policy as attached, known and designated as a group life policy: that under the insurance agreement said Harry E. Young paid 60c per month on said premium and the employer paid the balance thereof; that the said decedent and said employer continued to pay the premiums on said insurance each and every month, and that said policy was paid up to March 1, 1939.
+Plaintiff further alleges that said decedent terminated his employment with said J. Fred Smith Packing Company on the 18th day of February, 1939, and died on the 7th day of March, 1939. Plaintiff further alleges that under the terms of said policy said decedent, in case of termination of his employment, was entitled to have issued to him, without evidence of insurability, on application made to the company within thirty-one days of said termination of his employment and upon payment of the premium applicable to the class of risks to which he belonged and to the form and amount of the policy at his then attained age, a policy of life insurance in any one of the forms customarily issued by said company, except term insurance, in an amount not to exceed life insurance protection under the said group life policy at the time of such termination.
+Plaintiff further alleges that the said company immediately upon the death of said decedent was notified of said death and that said company on the 9th day of March, 1939, denied liability under said policy.
+It is further alleged that on the 17th day of March. 1939, the plaintiff ten-dered to the defendant company at its .home office in St. Louis said monthly premium of one and three one-hundredths dollars to cover the March payment and also made application to the said company for the issuance of a straight life policy upon said decedent or any other type policy applicable to said decedent at the time of his death, and further demanded that said company determine the premium upon said policy and advise this plaintiff so that she could pay the same; that at the same time said plaintiff advised- said company of the age of said decedent which was forty-nine years, so that said company had all information necessary to issue said converted policy.
+It is further alleged that the defendant company returned the proffered premium and refused to issue a converted policy and refused to calculate and advise the plaintiff of the amount of premium due upon such policy so that she could tender the same.
+Plaintiff further alleges that in accordance with the terms of said poilcy, she is entitled to have issued to her a converted policy in the same amount as the group life policy in the sum of $1000.00, and that she is entitled to collect from said company under said converted policy the said sum of $1000 less the said necessary premium upon said converted policy.
+Plaintiff prays that upon hearing of said cause the defendant be required to issue a converted policy in accordance with the terms of his contract and to calculate the premium necessary for said conversion, so that the plaintiff may pay the same and that she have judgment against the said defendant for the sum of $1000.nn with interest, less the premium payable on said converted policy and for all other and further relief.
+Counsel for appellee on page 2 of their brief quote from the master policy and the certificate as it relates to termination of insurance and reads as follows:
+“(a) The insurance.of any employee upon cessation of employment with the employer for any reason shall terminate as of- the last day of the policy month during which the employee is employed by the employer;”
+and the following from .the certificate;
+“The insurance represented by this certificate shall cease on the last day of the policy month for which the employee last makes the required premium contribution permitted by the terms of said policy.”
+From the above quoted portions of the master policy and the certificate, it is manifest that decedent’s insurance protection ended on the 28th day of February, 1939.
+Notwithstanding the termination of the insurance protection under the policy, on February 28, 1939, there was granted to the decedent a privilege of conversion and continuance of insurance protection. Again on page 2 of appellee’s brief this provision of -the certificate is quoted and reads as follows:
+“The employee shall in case of the termination of employment for any reason whatsoever, be entitled to have issued to him by the company, without evidence of insurability, upon application to the company made within thirty-one days after the termination of his insurance, and upon payment of the premium a police of insurance”, etc.
+The conversion provision contained in the policy follows the provisions of §9426-2 GC, which in substance provides that every group insurance policy and certificate shall contain such provision. Counsel for appellant argue that this requirement as’ contained in the above section of the General Code is analogous to §9420 GC. The latter section in substance provides that all life insurance policies shall contain a grace period of one month for the payment of overdue premiums.
+This latter provision is contained in the policy under consideration in the instant case. We are unable to .conclude that the two sections above referred to are analogous. It is true that each refers to provisions that must be contained within certain policies, but the provisions are separate and distinct. In other words, the grace periods provided under §9420 GC, are not synonymous with the conversion privileges provided under §9426-2 GC. No question is raised of any default in the payment of premiums through which could be invoked the provisions of §9420 GC.
+There was a failure on the part of the decedent to convert, as was his privilege under the terms of the policy and certificate, and all included therein by virtue of the mandatory requirements of §8426-2 GC. The effect of the grace period is to keep the policy alive, whereas the conversion rights do not keep the policy alive except for the single purpose of conversion, if exercised within the thirty-one day period.
+Under the grace provision nothing is required to be done by the insured or the beneficiary. Under the plain provision of this grace period the liability provisions of the policy are continued for the additional grace period.
+Under the conversion privileges the liability provisions of the policy and certificate are not continued except to the last day of the month in which the employment was discontinued, which in the instant case would be February 28th. The conversion.right is a privilege to be exercised by the employee as he may wish. If he desires to convert, he has thirty-one days within which to do so. If he does not desire to convert, the privilege expires at the expiration of thirty-one days from the termination of the liability under the master policy and the certificate, which in the instant case would be February 28th. The decedent in. the instant case failed to exercise the privilege for a conversion. The pertinent question now .presented is whether or not the beneficiary had such, right after the death of her husband. We are forced to the conclusion, upon principle as well as upon decided cases, that the beneficiary would have no such right. The very language of the policy relative to conversion demands affirmative action on the part of employee Whose employment is discontinued.
+We aré referred’ to two cases, both of which are on all fours with the instant case. While these two cases are not decisions by Ohio courts, yet because of their soundness in reasoning we think, in the interest of stability of the law, the Ohio courts should follow the same conclusions. In both cases liability is denied. The first case is that of Duval v Metropolitan Life, 82 N. H. 543, (50 A L. R. 1276). The second case is that of Aetna Life v Catchings, 75 Fed. (2nd), 628. We do not deem it necessary to further quote from or comment upon these two cases, except to say that they are analogous to the instant case and are determinative on its issues adversely to the appellant.
+Counsel for plaintiff-appell ant cites and comments upon the following cases:
+John Hancock Mutual Life Ins. Co. v Gwinn Milling Co., 24 Abs 315;
+Hinkler v Equitable Life Assur. Soc. of the U. S., 28 Abs 435;
+Emerick v Connecticut Gen. Life Ins. Co., 120 Conn., 60 (179 Atl. 535).
+We have very carefully examined each one of these authorities and are unable to find that they lend any aid in determining the ultimate question in the case at bar.
+Counsel for appellee refers us to the case of Thull v Equitable Life Assurance Society, 40 Oh Ap 486, which apparently is in conflict with the Emerick case, supra.
+We have had before us the very able and well ■ considered opinions of the trial court and in addition to what we have said we not only affirm his judgment, but agree with his reasoning.
+Judgment affirmed and costs in this Court adjudged against the plaintiff-appellant.
+Cause remanded for collection of costs and further proceedings according to law.
+GEIGER, FJ. & HORNBECK, J., concur.
