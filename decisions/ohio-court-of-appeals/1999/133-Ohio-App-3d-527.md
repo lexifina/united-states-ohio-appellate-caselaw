@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-980782"
+decided: "1999-05-28"
+citations: ["133 Ohio App. 3d 527"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doan, P.J., Painter and Winkler, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. MILHOUSE, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/133/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 138534
+cites_cases: ["392 U.S. 1", "508 U.S. 366", "618 N.E.2d 162", "67 Ohio St.3d 405"]
+---
+
+# State v. Milhouse
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellant, Jacquay Milhouse, appeals his conviction for possession of cocaine in violation of R.C. 2925.11(A), contending that the trial court erred in overruling his motion to suppress evidence, because the police had no right to conduct a “pat-down” search of his person under the totality of the circumstances. Following oral argument, the parties have, at our request, filed supplemental memoranda on the issue of whether the search exceeded the permissible scope of a “pat-down” search. The following facts are undisputed.
+A Cincinnati police officer and his partner stopped Milhouse’s vehicle after it suddenly pulled to the curb in front of their cruiser without providing a signal. The officers initiated a traffic stop, we assume, for the traffic violation. As the officers exited from their cruiser, for safety reasons, they continued to observe the occupants of the stopped car. There was no testimony that anything occurred at that point to cause the officers to question their safety. In fact, one officer testified that at that point it was an ordinary, routine traffic stop. The testifying officer approached the driver of the car, Milhouse, and asked if he had a driver’s license. Milhouse responded, “No.” The officer was unable to clarify at the hearing whether Milhouse’s response indicated that the license was not on him or that he was not a licensed driver. Milhouse also responded that he had no identification on him. The officer noticed that Milhouse was wearing loose clothing and testified that “[p]rior to me taking him back to my vehicle I wanted to pat him down and obviously he did not have ID and so I did not want him to run from me.” At that point, the officers had not asked Milhouse for his name and had not verified the identity of the two passengers. The testifying officer asked Milhouse to step from the vehicle, which he did. The officer stated that he then did the pat-down for weapons. He described his next interactions with Milhouse in this manner:
+“At that time as he stepped out I turned him away from me and still had the driver’s door open into the lane of traffic. I kept him pinned into that area because obviously I did not know who he was and I did not want him to run from me without me getting some sort of ID on him. I started to pat him down and reached around the front and felt for the possible shoulder holster for people who carry guns and I started working my way down his waist. I went down the outside of his body and I came down the inside of his legs. As I started working my way up and before I got to the crotch area I felt something along the inseam of my right hand. There was a solid object.”
+The ball-shaped object was one to one and one-half inches in diameter. Milhouse claimed that it was part of his body. When the officer initially felt the object, he was not sure precisely what it was, describing it only as a “solid object.” The officer continued his search and grabbed the object to see if it was part of Milhouse’s body. Milhouse did not respond, and the object crumbled a bit. The officer testified that he knew the object was not a weapon and that he assumed that it was cocaine. It was. The officer described Milhouse as “very cooperative” throughout the pat-down, but unresponsive to the officer’s questions. The officer placed Milhouse in the patrol car after removing the cocaine from his underwear.
+Milhouse challenges the trial court’s failure to properly identify the law to be applied to the undisputed facts. Thus, we must determine, as a matter of law, whether the facts satisfy the applicable legal standard governing the search.
+Milhouse contests the officer’s search of his person after he exited from his vehicle at the officer’s request. Milhouse defines the search as a pat-down conducted under the auspices of Terry v. Ohio, and argues that the police officer was not justified in frisking him for weapons because there was no evidence that the officers feared for their safety. A Terry pat-down or frisk involves “a reasonable search for weapons for the protection of the police officer, where he has reason to believe that he is dealing with an armed and dangerous individual, regardless of whether he has probable cause to arrest the individual for a crime.”
+The state argues that because the police had a lawful reason to detain Milhouse and place him in the cruiser, they had the right to pat him down for their protection. Thus, the state argues that the pat-down was justifiable under Terry as it has been interpreted by the Ohio Supreme Court in State v. Evans. In State v. Evans, the Ohio Supreme Court held legitimate a pat-down search of a defendant prior to his placement in a patrol car, where the officer wanted to verify the existence of a driver’s license and to ascertain the identity of a car owner. We conclude from this record that it was not unreasonable for the police officer to decide to detain Milhouse, an unlicensed driver, in the cruiser in order to prevent Milhouse from fleeing while the officer verified his identity, nor was a pat-down for weapons prior to such placement unreasonable.
+Accepting the legitimacy of the pat-down, we must ascertain whether the pat-down for weapons went beyond the permissible scope of Terry. The purpose of a Terry pat-down is to determine whether a person is carrying a weapon, not to discover evidence of a crime. Thus, if a police officer goes beyond what is necessary to make a weapons determination, the search has exceeded the permissible bounds of Terry.
+In Minnesota v. Dickerson, however, the United States Supreme Court recognized a “plain feel” exception to the warrant requirement of the Fourth Amendment. It held that if, during a lawful Terry pat-down of a person’s clothing, a police officer feels an object whose contour or mass makes its incriminating character as contraband immediately apparent, and the officer has a lawful right of access to the object, the officer is entitled to seize the object. The police officer, however, is not allowed to manipulate the object to ascertain its identity.
+The Ohio Supreme Court has amplified upon the extent of a Terry search as it applies to “feeling” a weapon. It has stated that Terry allows an officer who “discovers an object on the suspect’s person which the officer, through his or her sense of touch, reasonably believes could be a weapon, [to] seize the object as long as the search stays within the bounds of Terry v. Ohio.” “ ‘If the object felt is hard, then the question is whether its “size or density” is such that it might be a weapon.’ ” If the officer knows or reasonably should know that the object is not a weapon, but could contain a weapon, its removal is not necessarily authorized by the “plain feel” exception to the warrant requirement of the Fourth Amendment.
+Under the facts presented in this case, where the officer felt a ball-shaped object, one and one-half inches in diameter, in Milhouse’s crotch area, we do not believe that the officer could have reasonably believed that the object was a weapon. Further, the officer’s testimony belies the fact that it was immediately apparent that the object was contraband. It was only after squeezing and breaking the object that he determined that it was crack cocaine.
+Thus, we reverse the trial court’s judgment and remand this case for further proceedings consistent with this decision.
+Judgment reversed and cause remanded.
+Doan, P.J., Painter and Winkler, JJ., concur.
+. Terry v. Ohio (1968), 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889.
+. Terry v. Ohio, supra, at 27, 88 S.Ct. at 1883, 20 L.Ed.2d at 909.
+. State v. Evans (1993), 67 Ohio St.3d 405, 618 N.E.2d 162.
+. See Minnesota v. Dickerson (1993), 508 U.S. 366, 113 S.Ct. 2130, 124 L.Ed.2d 334; State v. Evans, supra.
+. Minnesota v. Dickerson, supra.
+. State v. Evans, supra, at 416, 618 N.E.2d at 171.
+. State v. Evans, supra, at 415, 618 N.E.2d at 171, quoting 3 LaFave, Search and Seizure (2 Ed. 1987) 523, Section 9.4(c).
+. Id at 416, 618 N.E.2d at 171.
