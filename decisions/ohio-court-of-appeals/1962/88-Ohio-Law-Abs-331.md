@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+docket: "812"
+decided: "1962-01-20"
+citations: ["88 Ohio Law Abs. 331"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Hunsicker and Doyle, JJ., of the Ninth District, and Skeel, J., of the Eighth District, sitting by designation in the Seventh District.)", "Hunsicker, P. J., and Doyle, J., concur."]
+parties: ["Coughlin, Plaintiff-Appellant, v. Campbell, d. b. a., Amos Campbell Dry Cleaning Shop, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/88/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1808819
+cites_cases: ["158 Ohio St., 1", "68 Ohio App., 467", "83 Ohio St., 339"]
+---
+
+# Coughlin v. Campbell
+
+## Majority (Skeel, J.)
+
+Skeel, J.
+This appeal comes to this court on questions of law from a judgment entered by direction upon motion at the end of the presentation of all of the plaintiff’s evidence. The action is founded on a claim of negligence.
+The defendant was the proprietor of a laundry and dry cleaning business conducted at 112 South Main Street, Columbiana, Ohio. The defendant employed his father-in-law (Mr. Billups) part-time as a handy man in the conduct of his cleaning business. He (the father-in-law) was furnished a work bench with some tools in the basement of the defendant’s laundry and dry cleaning establishment. Mr. Billups also had tools of his own which he kept on the work bench.
+The record shows that the ground floor of the defendant’s store had an entrance on Main Street which was used by customers. A service counter was located in the front of the store. There was a rear entrance from a parking lot which entrance way led into that part of the storeroom where the dry cleaning and laundry machinery was located. There is some evidence that one or two of the plaintiff’s witnesses had, on occasions, used the rear door in delivering for defendant’s services laundry or goods for dry cleaning.
+There is a stairway leading to the basement located in that part of the storeroom where the machinery for cleaning and laundry is located. This part of the storeroom, and particularly the basement, was not usually frequented by others than the defendant and his employees. The basement was used for storage purposes and to house machinery used by the defendant.
+The defendant knew that his father-in-law had on one or two occasions refinished some old furniture at the request of the owners, the doing of such work in no way being done in connection with his part-time employment by the defendant. In fact, before this kind of work was performed for others, he had finished two pieces of furniture for his daughter and this defendant. The record justifies the conclusion that finishing furniture was Billups’ avocation or hobby. For a period of over six months (besides the finishing work he performed for his daughter) he refinished only three tables, two being for the plaintiff, and his total compensation for the work done did not exceed fifty or sixty dollars for that period of time. There is absolutely no showing that this defendant did anything more than to passively permit his father-in-law to pursue his hobby at the work bench when he was not otherwise working at his part-time job.
+On the day of the accident, the plaintiff had been informed that the table he had asked Billups to refinish was completed and ready for delivery. He and his wife drove their station-wagon to the rear door of the defendant’s dry cleaning establishment. The defendant was then at work with some of the dry cleaning or washing machinery. The record shows the following :
+“Q. Now, Mr. Coughlin let’s get back to the time of the accident, tell us in your own words what happened from the time you pulled up to the back door until you fell?
+“A. I pulled up to the back, stepped out of the station wagon, Amos was over by the motors. I says is your father-in-law here, and he says, well I will see. There was a lot of noise, maybe Amos didn’t hear me; I says well I want to pick up the table then, and he started down the steps and I followed him. Of course, I was back about as far as from here to the railing from where Amos was (about 15 feet). He had already made that juke in the stairway and was walking out on the cement floor by the time I made the turn in the stairway and started down. So I hit that slime, my feet flew in the air. I tried to turn myself, I got half way around, landed on my left side, my elbow.
+“Q. So all these machines were running and making a lot of noise when you talked to Amos?
+“A. That’s right.
+“Q. Amos was pretty busy that day?
+“A. Yes, he was.
+“Q. From one machine to the other?
+“A. Yes, he is always busy.
+“Q. You don’t know whether or not Amos heard you when you said, 1 am here to pick up the table?
+“A. I do not.
+‘ ‘ Q. Then you say the next thing was Amos started to walk away and go downstairs?
+“A. That’s right.
+“Q. You were following a distance from where you are sitting to the rail here?
+“A. About that distance.
+“Q. Would it be fair to say it is about fifteen feet?
+“A. I would say.”
+And on cross-examination, he testified:
+“Q. Now then on August 7th when you arrived at the back door of the cleaning establishment did you call out from your automobile and tell him you were there, that he might know that you were coming in?
+“A. No, I did not, I got out of the automobile, my wife stayed in the automobile, I got out. I walked to the back door, I said to Amos, is your father-in-law here.
+“Q. And what did he say to you?
+“A. Amos says, I will see. So like I said, there was a lot of noise with the motors running, I says, well I will pick up the table, my wife and I will pick up the table. So Amos started down the steps and I was possibly fifteen feet behind and I started down after him to pick up the table.”
+The foregoing testimony clearly shows that on the day plaintiff was injured the defendant did not invite him to go into the basement nor under the surrounding circumstances could an implied invitation be considered as established. The status of the plaintiff while then on the defendant’s premises was that of licensee. He was there for his own purposes wholly disassociated from any business activity of the defendant and in a place on defendant’s premises to which defendant’s business visitors were not invited. Such fact must have been clearly apparent to the plaintiff as was shown by his testimony above quoted. If it be the contention of the plaintiff that because the defendant continued to control, or perhaps more correctly stated, never relinquished control of any part of his premises, including the area where the work bench was located, and that because he permitted his father-in-law to do certain work for others in that area, that if under such circumstances persons for whom work was being done by Mr. Billups found their way to the work bench area to inspect the work, they did so at the express or implied invitation of the defendant, such contention is completely destroyed by the plaintiff’s testimony. When the plaintiff inquired of the defendant if his father-in-law was in, his (the defendant’s) answer was, “I will see.” He immediately left his work, going down the basement stairs with no indication that the plaintiff was invited to follow. The plaintiff said that the noise of the machinery was so great he could not say whether his statement that he would follow was heard by the defendant or that the defendant knew that the plaintiff was, in fact, following him, winding his way through the dangers of operating machinery as indicated by the “noise of the motors, ’ ’ and down into the basement where, by the surrounding physical facts, therje could be no assumption on the part of the plaintiff that business visitors were invited. In fact, just the opposite must have been perfectly evident to the plaintiff.
+The cases cited by the plaintiff are distinguishable on the facts. In the case of Stackhouse v. Close, 83 Ohio St., 339, the plaintiff was injured by the fall of a passenger elevator after attending a meeting in a third floor lodge room in a building owned by the defendant. The only issue in the case was whether by the lease of the building to his lessee, the lessor, by such lease, retained sufficient possession to be liable to a business visitor or invitee of the lessee, such person using the premises and its facilities as intended when injured because of the negligent maintenance of such facilities. The court said in the syllabus:
+“1. A lessor of a building out of possession and control is not liable to the tenant or other person rightfully on the premises for their condition, in the absence of deceit or of any agreement or liability created by statute.
+‘ ‘ 2. Where a lessor reserves in the lease the right to direct and supervise any alterations made by the tenant, and alterations are made with the knowledge of lessor by which parts of the building leased are converted into a room or place for the meeting of a lodge or other association of persons for any of the purposes named in Section 4238-1, Revised Statutes, the lessor and lessee are both liable under that section, if such alteration is in the construction, arrangement or means of egress dangerous to the health or lives of persons so assembled.”
+In the case of Brown v. Cleveland Baseball Co., 158 Ohio St., 1, the ball club rented its ball park to the Cleveland Rams for a football game. The football association constructed some temporary spectator stands whicb, when occupied by the plaintiff and others, fell and plaintiff was injured. The fourth paragraph of the syllabus provides:
+“Where a lessor has not substantially relinquished to his lessee all occupation of and control over a portion of the leased premises and where such lessor has actually exercised his right of occupation of or control over such portion, such lessor is under the duty to exercise ordinary care with respect to the condition of such portion and that duty extends to invitees of the lessee.”
+Here again, the plaintiff was using the premises as intended. He clearly had an invitation to occupy a seat on the temporary bleachers. The only question presented was whether or not, under the undisputed facts, the ball company retained sufficient possession of the ball park to be liable for the negligent construction of the temporary bleachers as distinguished from cases where the lessee has complete control of the premises leased to the exclusion of the landlord.
+Also, in the case of Weigel v. Cottage Bldg. & Loan Co., 68 Ohio App., 467, the landlord furnished his tenants a place in the basement for washing clothes. All of the tenants were afforded the privilege of using such room so its possession was clearly retained by the landlord. The means of ingress and egress to the laundry room was through a furnace room where, because of pits in the floor, the plaintiff was caused to fall. The court stated in the first paragraph of the syllabus:
+“Where a lessor retains control of a part of the demised premises he owes a duty to persons lawfully upon that part of the premises as invitees of lessees of other parts of the premises to exercise ordinary care to have the same in a reasonably safe condition. ’ ’
+In all of these cases, the right of the injured party to frequent that part of the premises where he was injured is not in question.
+Under the undisputed facts in this case, the defendant had not relinquished possession of his premises or any part of them to his father-in-law. But this fact does not mean that any legal duty can be established as owing from the defendant to one who might employ the services of the father-in-law to guard against hazards created by the normal nse of his premises in furtherance of his business that might be encountered where such person is attempting to go to parts of the premises where the defendant’s business visitors and others are clearly not invited. The plaintiff must have been considered as a licensee and the duty of the defendant for his safety not to willfully cause him injury.
+For the foregoing reasons, the judgment of the trial court is affirmed.
+Hunsicker, P. J., and Doyle, J., concur.
