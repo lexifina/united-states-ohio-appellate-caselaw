@@ -1,0 +1,64 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-971041"
+decided: "1999-01-29"
+citations: ["132 Ohio App. 3d 113"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doan, P.J., and Painter, J., concur separately."]
+parties: ["GAFFNEY, Appellant, v. MENRATH; Gaffney et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/132/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 101904
+cites_cases: ["1998 WL 906601", "268 U.S. 510", "321 U.S. 158", "36 Ohio St.3d 213", "38 Ohio St.3d 149", "406 U.S. 205", "450 N.E.2d 1140", "455 U.S. 745", "5 OBR 481", "5 Ohio St.3d 217", "522 N.E.2d 563", "527 N.E.2d 286", "574 N.E.2d 1055", "61 Ohio St.3d 319", "626 N.E.2d 82", "678 So.2d 1271", "679 N.E.2d 1109", "68 Ohio St.3d 250", "720 So.2d 510", "79 Ohio St.3d 130", "855 S.W.2d 573"]
+---
+
+# Gaffney v. Menrath
+
+## Majority (Marianna Brown Bettman, Judge.)
+
+Marianna Brown Bettman, Judge.
+Plaintiff-appellant Michael Gaffney appeals the order of the domestic relations court adopting the magistrate’s decision to grant grandparent visitation to his parents, Eugene and Marjorie Gaffney. He brings one assignment of error.
+When Gaffney and Elizabeth Menrath were divorced in April 1992, Gaffney was designated the residential parent of the couple’s two minor children. Pursuant to an agreement reached by the parties, Menrath was granted visitation with the children. The grandparents enjoyed frequent and regular visitation with the children until 1995, when Gaffney remarried and created a blended family consisting of his children and those of his new wife. The parties agree that after Gaffney’s remarriage, the relationship between Gaffney and the grandparents became strained. Gaffney testified that the relationship deteriorated because his parents did not accept his decision to remarry or to include his stepchildren in family outings. The relationship between Gaffney and the grandparents further deteriorated in 1996 when Gaffney decided not to attend a family Easter function. Following that incident, the grandparents had infrequent visitation and interaction with the children. When the grandparents did have visitation, it was because Menrath shared her visitation time with the grandparents. Despite reconciliation attempts, Gaffney and the grandparents neither reconciled nor reached a mutually satisfactory agreement about visitation.
+Pursuant to R.C. 3109.051(B)(1), in December 1996, the grandparents filed a motion for grandparent visitation. The magistrate granted the motion, and the domestic relations court adopted the magistrate’s findings, with slight modifications. It is from this entry that Gaffney appeals.
+In his sole assignment of error, Gaffney contends that the domestic relations court erred in granting visitation to the grandparents. Specifically, Gaffney argues that the order impermissibly impinges upon his common-law and constitutional rights of parental autonomy, is not in the best interest of the children, and violates public policy. While Gaffney’s assignment of error is not well taken, it is far from frivolous, as the grandparents would have us declare. Because his arguments are interrelated, we consider them together.
+Gaffney correctly asserts that, at common law, grandparents had no right of access to, or constitutional right of association with, their grandchildren. Nevertheless, the Ohio General Assembly, an acknowledged source of public policy, has clearly spoken on this issue. The legislature has created a statutory right of grandparent visitation.
+Initially, the General Assembly authorized nonparent visitation by permitting visitation rights to “any person” having an interest in the welfare of the child. Since Whitaker, the legislature has amended the Revised Code to include grandparents explicitly and has provided the mechanism for their visitation. R.C. 3109.051(B)(1) and (D)(1) through (15). Additionally, statutes authorizing such visitation presuppose that contact between grandparents and grandchildren is in the children’s best interest.
+Grandparent visitation undeniably imposes upon parental authority to some extent. The kinds of problems caused by this are ably articulated by Judge Doan in his concurrence. The question before us in this case is whether this infringement is permissible.
+There is a federal constitutional basis upon which parental autonomy can be asserted. In Santosky v. Kramer, the United States Supreme Court ac-knowlédged that parents have a fundamental liberty interest in the “care, custody, and management” of their children. In the application of the parental-autonomy doctrine on the state level, we recognize that a few states have interpreted their state constitutions to restrict grandparent visitation to situations where there is harm to a child or parental fitness is challenged. It is significant to us, however, that neither Hawk nor Beagle addressed the issue of grandparent visitation in the context of divorce, which is the circumstance now before us. As the court observed in Hawk, for example, “We note that the state has a stronger argument for court intervention to protect the extended family when the nuclear family has been dissolved.”
+This case deals with visitation after a divorce. In Ohio, grandparent visitation is authorized in three circumstances: (1) in divorce, dissolution, legal separation, or annulment proceedings; (2) where the parent of the child is deceased; and (3) where the child is born to an unmarried mother, and the father has either acknowledged paternity of the child or been determined to be the child’s father in an action brought under R.C. Chapter 3111. Therefore, once Gaffney and Menrath divorced, R.C. 3109.051(B) was properly invoked. The legislature has clearly spoken in this circumstance; Gaffney’s parental authority has not been impermissibly infringed. Like it or not, once there is a divorce, the state is involved in one’s personal affairs.
+Gaffney argues, however, that R.C. 3109.051 was incorrectly applied by the court below. Gaffney asks us to hold R.C. 3109.051 applicable only in situations where the visitation interests of the parents of the nonresidential parent have been adversely threatened. He argues that where the visitation dispute is between grandparents and their own child, the courts should not be involved. Thus, under this reasoning, R.C. 3109.051 would be implicated in only two situations: (1) where the paternal grandparents are not permitted visitation by the maternal residential parent, or (2) where the maternal grandparents are not permitted visitation by the paternal residential parent. We reject this argument because the legislature could have, but did not, make this the stated policy. Each set of grandparents has the right to invoke this statute. Gaffney’s argument is premised on the assumption that a residential parent will not deny or inhibit the visitation rights of his or her own parents. Yet that is exactly what happened here.
+Last, Gaffney argues that the order granting grandparent visitation is not in the best interest of his children.
+Before grandparent visitation is granted, three criteria must be met under R.C. 3109.051(B)(1): (1) a grandparent must file a motion seeking visitation, (2) the court must determine that the grandparent has an interest in the welfare of the child, and (3) the court must determine that the granting of the visitation rights is in the best interest of the child. Relevant factors for the trier of fact in ascertaining the best interest of the child are found in R.C. 3109.051(D)(1) through (15). Since the trial court has discretion in determining whether to grant visitation, an abuse of discretion must be shown in order for an appellate court to reverse the trial court’s judgment. Thus, the trial court’s judgment must be unreasonable, arbitrary, or unconscionable to merit reversal.
+The magistrate and the trial court reviewed and carefully considered each of the best-interest factors found in R.C. 3109.051(D)(1) through (15). We decline to disturb their findings. We also hold that in addition to these statutory factors, in deciding whether to grant grandparent visitation, the trial court must consider the extent to which the autonomy of either parent may be undermined, and the impact on the then existing family situation. We believe that the strong constitutional protection afforded the right to rear one’s children compels this conclusion. Our review of the record persuades us that the court did very carefully consider all of the statutory factors and those mandated by our holding today as well. Therefore, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Doan, P.J., and Painter, J., concur separately.
+. We have sua sponte removed this case from the accelerated calendar.
+. The children’s mother, Elizabeth Menrath, is not a party to this appeal.
+. This court has considered and overruled the grandparents' motion for determination of frivolous conduct.
+. In re Martin (1994), 68 Ohio St.3d 250, 253, 626 N.E.2d 82, 85.
+. In re Whitaker (1988), 36 Ohio St.3d 213, 215, 522 N.E.2d 563, 566.
+. Id. at 216, 522 N.E.2d at 567.
+. (1982), 455 U.S. 745, 753, 102 S.Ct. 1388, 1395-1396, 71 L.Ed.2d 599, 606.
+. See, e.g., Hawk v. Hawk (Tenn.1993), 855 S.W.2d 573 (holding unconstitutional that part of Tennessee's statute that permitted court-ordered grandparent visitation in an intact nuclear family with married parents whose fitness was unchallenged. This type of statute is known as a "wide-open” visitation statute. A survey of criticisms of this type of statute is found at 855 S.W.2d at 577, fin. 1); Beagle v. Beagle (Fla.1996), 678 So.2d 1271 (state must first establish parental unfitness or significant harm to the child before court-ordered grandparent visitation can be considered).
+. Hawk, 855 S.W.2d at 580, fn. 10.
+. See In re Adoption of Ridenour (1991) 61 Ohio St.3d 319, 328, 574 N.E.2d 1055, 1063.
+. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 5 OBR 481, 450 N.E.2d 1140.
+. See Pierce v. Society of Sisters (1925), 268 U.S. 510, 534-535, 45 S.Ct. 571, 573-574, 69 L.Ed. 1070, 1077-1078; Prince v. Massachusetts (1944), 321 U.S. 158, 166, 64 S.Ct. 438, 442, 88 L.Ed. 645, 652-653; Wisconsin v. Yoder (1972), 406 U.S. 205, 207, 92 S.Ct. 1526, 1541-1542. 32 L.Ed.2d 15. 20-21.
+
+## Concurrence (Doan, Presiding Judge,)
+
+Doan, Presiding Judge,
+concurring.
+I agree with the opinion in all respects and write separately only to underscore what I perceive to be the underlying impetus for this litigation.
+My perception is that there can be an arguable sociological downside to the public policy inherent in the grandparent-visitation statute. The problem is that strain and stress can impinge upon second or subsequent marriages where children of previous marriages are being blended into a new family unit (generally a desirable policy), and where grandparents who are granted visitation rights choose not to accept the fact or desirability of the new unit. The grandparents’ actions and attitudes could thus create a contrary or interfering influence on the knitting process of the newly formed family unit. That could be unwitting or contrived, and have unsettling consequences. This downside, while not specifically recognized in the legislation, could, in a given case, ultimately result in detriment to the best interests of the child.
+I recognize this problematic aspect of modern culture, but do not find the factual evidence in this case to reflect such detriment, nor do I find a clear challenge to the constitutionality of R.C. 3109.051. ,
+. See Von Eiff v. Azicri, (Fla.1998), 720 So.2d 510.
+
+## Concurrence (Painter, Judge,)
+
+Painter, Judge,
+concurring.
+I concur, with the understanding that the court has expressed no opinion on the constitutionality of R.C. 3109.051(B)(1). As this issue was not raised by the parties in the court below, I believe it is discretionary whether we consider it at all. Because the parties here have not adequately raised or briefed the issue, we should consider the issue waived for purposes of this appeal.
+. In re M.D. (1988), 38 Ohio St.3d 149, 527 N.E.2d 286; Hill v. Urbana (1997), 79 Ohio St.3d 130, 679 N.E.2d 1109; Upper Valley Med. Ctrs. v. Reinhart (Dec. 31, 1998), Miami App. No. 98-CA-12, unreported, 1998 WL 906601 (Grady, J., dissenting) ("[t]he general rule that error which was not raised in the trial court may not be raised for the first time on appeal is not absolute. Further, while it is binding on the parties, it is not binding on the court. Therefore, an appellate court may, in its discretion, consider an error that was not raised in the proceedings before the trial court when an exception to the general waiver doctrine is demonstrated”).
