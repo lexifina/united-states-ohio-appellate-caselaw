@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1916-02-07"
+citations: ["26 Ohio C.C. Dec. 357", "25 Ohio C.C. (n.s.) 118"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, Jones and Gorman, JJ.", "Jones, E. H., and Gorman, JJ., concur."]
+parties: ["Charles McCune et al. v. Hannah Hartnett Larkin."]
+source_url: "https://static.case.law/ohio-cc-dec/26/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1658339
+cites_cases: ["117 U. S. 389", "117 U. S., 389", "27 Ohio St. 110", "27 Ohio St., 110", "34 N. E. Rep. 734", "49 Ohio St. 374", "49 Ohio St., 374", "7 C. C., 338", "7 R. 338"]
+---
+
+# McCune v. Larkin
+
+## Majority (JONES, O. B., J.)
+
+JONES, O. B., J.
+The real question to be determined in this ease is to whom the real estate of William H. Seymour passed by descent. He died without issue, after the death of his wife. The brother of his wife by the full blood claimed to be the sole owner. The three half-sisters and the son of a deceased half-sister claimed to each be entitled to a share with this brother in this inheritance. All of said relatives of the deceased wife claim under the provisions of Sec. 8576 G. C., which casts the descent upon the heirs of the wife only on the entire failure of heirs of her husband under the three pre'ceeding sections of the General Code.
+The court below found that the defendant in error was the grandchild of a sister of the mother of William H. Seymour, and was his only living heir at law, and next of kin. The record develop es an interesting inquiry into the family history of William H. Seymour, and shows the descendants of his maternal grandparents, Jerry and Kate Murphy of Kilbruin Parish, County of Cork, Ireland. Plaintiff is clearly shown to be thq sole survivor of this branch of the Murphy family. As the entire Murphy family of County Cork must be eliminated before any of the parties to the suit, other than defendant in erroi-, could establish an interest in this property, the improbability of their success is manifest. In our opinion the findings of fact as made by the court are fully sustained by the evidence.
+Numerous objections were made as to the admission of evidence. The rule as to the admission of hearsay evidence to established pedigree is stated in 2 Jones, Evidence Sec. 312, in which is found the following language:
+“The law resorts to hearsay evidence in cases of pedigree, upon the ground of the interest in the declarations of the person from whom the descent is made out, and their consequent interest in knowing the connections of the family. The rule of admission is therefore restricted to the declarations of deceased persons who were related by blood or marriage to the person, and therefore interested in the succession in question. From necessity, in cases of pedigree hearsay evidence is admissible. But this rule is limited to the members' of the family, who may be supposed to have known the relationship which existed in its different branches. The declarations of these individuals, they being dead, may be given in evidence to prove pedigree; and so is reputation’ which is the hearsay of those who may be supposed to have known the fact, handed down from one to another, evidence. As evidence of this description inust vary by the circumstances of each ease, it is difficult, if not impracti-. cable, to deduce from the books any precise and definite rule on the subject. It is not every statement or tradition in the ■ family that can be admitted in evidence. The tradition must be from persons having such a connection with the party to whom it relates that it is natural and likely, from their domestic habits and connections, that they are speaking the truth, and that they could not be mistaken”
+It is also well stated in the opinion of the court in Fulkerson v. Holmes, 117 U. S. 389, 397, as follows:
+“The proof to show pedigree forms a well settled exception to the rule which excludes hearsay evidence. This exception has been recognized on the ground of necessity; for as in inquiries respecting relationship or descent, facts must often be proved which occurred many years, before the trial, and were known to but few persons, it is obvious that strict inforcement in such cases of the rules against hearsay evidence would frequently occasion a failure of justice. * * * Traditional evidence is, therefore, admissible. The rule is that declarations of deceased persons who were de jure, related by blood or marriage to the family in question may be given in evidence in matters of pedigree. A qualification of the rule is that before a declaration can be admitted in evidence, the relationship of the declarant with the family must be established by some proof independent of the declaration itself. But it is evident that but slight proof of the relationship will be required, since the relationship of the declarant with the family might be as difficult to prove as the very fact in controversy.”
+We fail to find any error prejudicial to plaintiffs in error regarding the admission of evidence.
+It is also urged that the court erred in refusing the demand of plaintiff below for a jury trial.
+It was practically conceded by the parties that the party having title to the land must be considered as in possession of it, a receiver having been oppointed by the court to care for the property until the determination of the title. The action was brought as an action for partition. Partition is a civil action not triable by a jury. McRoberts v. Lockwood, 49 Ohio St. 374 [34 N. E. Rep. 734]; Swihart v. Swihart, 4 Circ. Dec. 624 (7 R. 338.) The fact that the title of plaintiff was' denied by the answer did not oust the court of jurisdiction. Perry v. Richardson, 27 Ohio St. 110. The answer and erosspetition of Hannah Hartnett Larkin was in the nature of an action to quiet title, which is a civil action under the code, in which the parties are not entitled to a jury. Under the pleadings, therefore, it was not error in the trial court to refuse the demand for a jury. Nor do we find any other errors to the prejudice of plaintiff in error.
+Judgment affirmed.
+Jones, E. H., and Gorman, JJ., concur.
