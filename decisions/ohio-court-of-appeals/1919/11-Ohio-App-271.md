@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1919-06-27"
+citations: ["11 Ohio App. 271", "30 Ohio C.A. 166"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dunlap, P. J., and Vickery, J., concur."]
+parties: ["Di Cicco v. The Industrial Commission of Ohio."]
+source_url: "https://static.case.law/ohio-app/11/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 900949
+---
+
+# Di Cicco v. Industrial Commission
+
+## Majority (Washburn, J.)
+
+Washburn, J.
+Plaintiff, John Di Cicco, appealed to the common pleas court of Cuyahoga county from a decision or order of the Industrial Commission of Ohio, said to have been made on May 22, 1918, denying him the right to continue to participate in the industrial insurance fund of the state of Ohio.
+A jury was sworn, but the case was tried on statements of counsel, one question only being submitted to and determined by the court, which directed a verdict for the defendant, and that controlling question was: Where an injured employe is receiving compensation under the Workmen’s Compensation Act, on account of impairment of earning capacity, is the Industrial Commission justified in determining that such impairment ceases when the employe succeeds in earning as much as he was earning at the time of his injury, although such success is due to an abnormal increase in wages and it is admitted that but for such injury he would earn twice as much as he is able to earn in his injured condition?
+In other words, if his actual earnings are compared with his earnings at the time of injury, his earning capacity is not impaired, but if his actual earnings are compared with what he could earn if he had not been injured, then1 his earning capacity is still impaired. Section 1465-80, General Code, which entitles him to compensation, provides as follows:
+“In case of injury resulting in partial disability, the employe shall receive sixty-six and two-thirds per cent, of the impairment of his earning capacity during the continuance thereof, not to exceed a maximum of twelve dollars per week, or a greater isum in the aggregate. than thirty-seven hundred and fifty dollars.”
+It is contended that plaintiff’s earning capacity, but for the injury, is fixed by his average weekly wage at the time of injury, and is not variable, and that as soon after the injury as he is again able to earn the same wages there is then no impairment of his earning capacity; that the standard of comparison is money, without reference to its increased or decreased purchasing value, and that the commission can not take into consideration any enhancement in his earning capacity due to natural conditions, such as his becoming older or more experienced, or the fact that' owing to changed industrial conditions he could but for the injury earn much more than he was earning at the time of his injury, or any other circumstance which accounts for an increase in his earning power in spite of the handicap of his injury.
+This seeming unjust conclusion is based upon the provisions of Section 1465-84, which provides:
+“The average weekly wage of the injured person at the time of the injury shall be taken as the basis upon which to compute the benefits.”
+It seems plain to us that this section has no application to a case of an award of compensation.
+In the Workmen’s Compensation Law a very clear distinction is made between “compensation” and “benefits.” The statutes provide for the payment of money in case of death and the payment in such case is spoken of as “benefits.” (Sections 1465-82 and 1465-83, General Code.) Other sections of the. statutes refer to money paid to the injured employes who do not die of their injuries, and in such cases the payment is spoken of as “compensation.” (Sections 1465-78, 1465-79, 1465-80 and 1465-81, General Code.) In the former class of cases, benefits, Section 1465-84 applies, and the award is on the fixed basis of the average weekly wage at the time of the injury.
+In the latter class of cases, compensation, the basis is not fixed and invariable. One circumstance which may vary the basis in compensation cases is provided for in Section 1465-85, which is as follows:
+“It [If] it is established that the injured employe was of such age and experience when injured as that under natural conditions his wages would be expected to increase, the fact may be considered in arriving at his average weekly wage.”
+'This distinction between “benefits” and “compensation” is further shown by the amendment of Section 1465-87. That section provided for commutation of “benefits” and was amended to provide for commutation of “compensation” or “benefits.” No other material change was made by this amendment.
+That the basis in “compensation” cases was not intended to be fixed and invariable is apparent not only from the specific provisions of Section 1465-85, quoted above, but the very object and purpose of the law is to make good to the injured employe a certain proportion of the loss he suffers in his earning power by the handicap of his injury. The use of the term earning “capacity” indicates that. 'His “capacity” can not be ascertained without taking into consideration the conditions surrounding him; nor can it be ascertained whether or not his earning capacity has been impaired without taking into consideration what he could earn under those conditions if he was not in a crippled or injured condition.
+Moreover, the income of the Industrial Commission is based upon the payroll of- the state for six--month periods, and varies with the increase or decrease of wages, and the commission is authorized to make awards for compensation for impairment of earning capacity for short periods of time, and has a continuing jurisdiction and great power and a wide latitude in fixing compensation. It can safely carry out the spirit and intent of the law and compensate for real loss of “capacity” to earn.
+Where a real and substantial injury prevents an employe from earning what he could have earned if he had not been injured, his earning capacity has been impaired. A fund has been provided to compensate him for that loss, and, his common-law rights having been taken away, he is entitled to a liberal construction of the law which is said to have been passed for his special benefit.
+The courts can not control or supervise the awards of the commission, but the law does provide that when the commission denies the right of a claimant to participate in the fund, or “to-continue to participate in such fund,” he may appeal to the -court to determine whether or not he has such right. That was done in this -case, and while the record is very unsatisfactory it shows that the plaintiff was refused the right to continue to participate in the fund because of an interpretation of the law which we hold to be erroneous.
+There is a hint in the rather loose statement of counsel to the effect that there was a commutation of plaintiff’s compensation, which possibly precludes him from an appeal; but the answer raises no such issue, and the suggestion in the statement is not definite enough to enable a court to pass upon that question, and, moreover, it was not presented to the court, both parties desiring a ruling upon the interpretation of the statutes upon the question of earning capacity. Where an injured employe has been a participant in the fund, and continued participation is denied him, a general denial only .to his petition on appeal is not fair to him nor the court. What has occurred and is a matter of record should be admitted if pleaded, and if not pleaded, and it constitutes a defense, it should be set forth in the answer.
+For error in rendering judgment against plaintiff, the judgment is reversed and the cause remanded.
+Judgment reversed, and cause remanded.
+Dunlap, P. J., and Vickery, J., concur.
