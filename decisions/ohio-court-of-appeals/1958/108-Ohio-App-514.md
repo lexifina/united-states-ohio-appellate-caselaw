@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "8497"
+decided: "1958-12-08"
+citations: ["108 Ohio App. 514"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matthews, J., concurs.", "Long, L, not participating."]
+parties: ["McShane, d. b. a. McWess Realty Co., Appellee, v. Keiser, d. b. a. The William H. Keiser Co., Appellant."]
+source_url: "https://static.case.law/ohio-app/108/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1436486
+cites_cases: ["10 Ohio St., 148", "20 Ohio, 231"]
+---
+
+# McShane v. Keiser
+
+## Majority (Hildebrant, P. J.)
+
+Hildebrant, P. J.
+This appeal on questions of law comes directly from the Municipal Court, wherein the plaintiff • recovered a money judgment for one-half a real estate commission, claiming to have been a co-operating broker with the defendant.
+There is no bill of exceptions. However, the trial court made separate findings of fact and conclusions of law, and the sole question before this court is as to the sufficiency of the findings to sustain the judgment.
+As an appellate court, we are required to indulge a presumption of regularity and propriety to the judgment below, in the absence of error prejudicial to the appellant requiring modification or reversal.
+It follows that this appeal must be resolved from a study of the findings and judgment entered thereon.
+The trial court made the following findings of fact and conclusions of law:
+“This cause came on for hearing on the 26th day of March, 1958, before the Honorable Daniel C. Handley, Judge of the Municipal Court of Cincinnati, and the jury being waived by the parties, was submitted on the pleadings and evidence and the court found the issues in favor of the plaintiff and awarded judgment against the defendant in the sum of four hundred and thirty-seven dollars and fifty cents ($437.50).
+“And it further appearing that the defendant herein requested the court to separately state its findings of fact and conclusions of law, the court therefore states its findings of fact as follows:
+“The facts as adduced from the evidence developed by the plaintiff are: (1) That the defendant, William H. Keiser, d. b. a. William H. Keiser Co., is, and was at the time alleged in petition filed in this cause, a realtor engaged in selling real estate in the greater Cincinnati area; that said defendant had an exclusive agency contract to sell certain real estate located at 1803 Garden Lane, Cincinnati, Ohio, said property being owned by a Mr. and Mrs. Stanley Hannan; that defendant advertised said property by placing a ‘for sale’ sign upon it; (2) that one William Jackson, a salesman employed by the plaintiff, while showing other property in the vicinity to a client, Mrs. Charles Adams, drove past the Garden Lane property, and Mrs. Adams, having expressed a desire to see the property, said Jackson contacted defendant’s office by telephone, speaking to a saleswoman, one Virginia Thompson, and an appointment was made for Jackson to show the prospect through the premises.
+“ (3) That the selling price of eighteen thousand, nine hundred and fifty and 00/100 ($18,950) dollars, was given to Jackson and defendant’s saleswoman, Thompson, indicated the willingness of her office to ‘co-operate.’
+“ (4) That, pursuant to said appointment, Jackson did take Mrs. Adams, only, through the Hannan property.
+“ (5) That, thereafter, Mrs. Adams contacted another saleslady at defendant’s office, one Kay Havlis, to inquire if the Hannan property had been sold, and upon being informed that it had not, arrangements were made by said Kay Havlis to show both Mr. and Mrs. Adams through the property, which was done. Negotiations were continued by said Kay Havlis and Mr. Keiser, defendant, resulting in the signing of an agreement by Adams and Hannan for the sale of said property for seventeen thousand, five hundred and 00/100 ($17,500) dollars. The transaction was finally consummated approximately thirty (30) days later.
+“It was further developed from the evidence offered by the defendant, as follows:
+“1. That Havlis, of defendant’s office, spoke to Mrs. Adams regarding this property on June 7, 1957, prior to making of appointment by Jackson, of plaintiff’s office (Exhibit 2), however, Mrs. Adams said she could not remember this.
+“2. At no time was the name of the prospect, Mrs. Adams, given to defendant, or his agents, either before or after Jackson showed the property.
+“3. Neither plaintiff or his agent contacted Mrs. Adams again, or attempted to obtain an offer from them, or negotiate a purchase of the Hannan property.
+“And as its conclusions of law upon the above facts, the court finds that the plaintiff through his agent, materially, substantially and directly aided in bringing about the sale, and that pursuant to the general custom in this locality with reference to the division of commissions between co-operating brokers, the court finds that the plaintiff is entitled to one-half of the commission of eight hundred and seventy-five dollars ($875), and judgment is rendered for the plaintiff and against the defendant in the sum of four hundred and thirty-seven dollars and fifty cents ($437.50) and the costs of this action.”
+The burden of proof is upon the plaintiff and one of the essential ultimate facts to be proved and found by the court is that the parties agreed to become co-operating brokers in this sale.
+We glean from the text of 53 American Jurisprudence, 794 et seq., Section 1139 et seq., that findings of fact should be definite and certain and sufficient in themselves, without inferences or comparisons, or balancing or weighing of evidence. It is stated that findings of fact should be findings of ultimate facts upon which the law must determine the rights of the parties, rather than evidentiary facts. It is further stated that if the findings of fact leave some material fact undetermined, such issue of fact will be regarded as not proved by the party having the burden of proof. If the finding be silent as to an essential fact, the presumption is the fact did not exist.
+In 31 Ohio Jurisprudence (2d), 528, Section 41, it is stated: “ * * * and no judgment can be rendered upon a finding of facts which are in the nature of evidence only, and are not, in law, conclusive upon the question at issue.”
+In Ohio, as far back as Leach v. Church, Admr., 10 Ohio St., 148, it was held in the syllabus:
+“Upon the trial of an issue of fact, a special verdict should find facts to which the law gives a determinate effect, conclusive of the issue.
+“No judgment can be rendered upon a finding of facts which are in the nature of evidence only, and are not, in law, conclusive upon the question at issue. ’ ’
+In that case, the plaintiff dealt with a partnership which was dissolved and accepted a note from the defendant, and the question was whether the individual’s note was given, and received, in satisfaction of the indebtedness of the firm. The court found that Kagy said to the plaintiff “that said note was given to show the balance due to said plaintiff; and that said A. A. Kagy said he had money enough to pay, and would pay, it in a few days; and plaintiff afterward asked A. A. Kagy for the same, but did not get it. The court further find, that said note still remains unpaid, and that said plaintiff brought it into court and offered to cancel and give up the same.”
+In its opinion, the court said:
+“The main question presented by the pleadings was, whether a certain note, executed by A. A. Kagy alone, and given by him to the plaintiff, was so given and accepted by the plaintiff, in satisfaction and discharge of a pre-existing debt due to the plaintiff from the firm of A. A. and T. A. Kagy. This was a question of fact, and while it remained open, no final judgment, upon the merits, could properly be rendered in the case. But instead of finding either way upon this question of fact, the District Court found that certain things were done and said, by and between the parties, which might tend, more or less strongly, to prove this main point in the case. A certain amount of evidence, tending, perhaps, to prove a fact, was found, without any finding upon the fact itself. The question of law, as to the judgment to be rendered, could not, as we have said, be raised, until this question of fact was determined. And the deduction or inference to be drawn from the evidence thus found by the court, is a conclusion of fact — not of law. To the facts thus found, the law has not, by repeated adjudications given a fixed determinate effect. They are still matter of evidence only, proper to be weighed and considered by a jury, but not, in law, conclusive upon the issue.
+“The special finding of facts being thus imperfect, the judgment founded thereon will be reversed, and the cause remanded to the District Court for a new trial. ’ ’
+In Lessee of Blake v. Davis, 20 Ohio, 231, it is stated in the syllabus:
+“To authorize a judgment upon a special verdict, all the [acts essential to the right of the party in whose favor judgment is to be rendered must be found by the jury — finding evidence sufficient prima facie to establish such facts is not sufficient. ’ ’
+In the body of the opinion, at page 248, the following appears :
+“But a majority of this court are of opinion that a judgment could not, in any event, be rendered for the plaintiff, upon the special verdict found in the case. There are not facts enough found by the jury to enable them to do so. Without the deeds sought to be presumed, it is conceded the plaintiff could not recover. The jury alone are authorized to presume them. This is not done; but a state of facts is found, from which it is claimed such presumptions may be raised. This is but the finding of evidence by the verdict, which is clearly insufficient. The rule is thus stated by Gould: ‘If, in a special verdict, the jury find only the evidence of a material fact, instead of the fact itself, or otherwise omit to find upon such a fact either way; no judgment can be rendered upon the finding for either party; since a matter of fact, essential to a determination of the cause, is left unascertained by the verdict,’ as if in trover the jury find the loss of the goods, the finding by defendant, and refusal to deliver them upon demand; and he gives this reason: ‘For the conversion, which is the gist of the action, is neither found nor denied by it; the demand and refusal being only prima facie evidence of a conversion.’ Gould’s Pleading, 525.”
+Applying the foregoing principles to the instant case, it appears that the finding on the essential fact of agreement to become co-operating brokers, which is “and defendant’s sales woman, Thompson, indicated the willingness of her office to ‘co'operate,’ ” is not a finding of the ultimate fact of agreeing to divide commissions, but evidentiary only, so that the deduction or inference therefrom is one of fact — not of law- — and thus imperfect and insufficient to support the judicial act of the court in entering judgment.
+The judgment is reversed and the cause remanded for a new trial.
+Judgment reversed.
+Matthews, J., concurs.
+Long, L, not participating.
