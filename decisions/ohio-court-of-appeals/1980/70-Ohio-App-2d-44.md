@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "80 AP-22"
+decided: "1980-08-14"
+citations: ["70 Ohio App. 2d 44"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside and Moyer, JJ., concur."]
+parties: ["Bancinsurance Corporation, Appellant, v. Daugherty, Admr., et al. Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/70/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6699976
+cites_cases: ["118 Ohio App. 415"]
+---
+
+# Bancinsurance Corp. v. Daugherty
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+Appellee Barbara C. Sawyer was allegedly injured on August 9, 1974, while employed by Equity Resources Corporation, now known as Bancinsurance Corporation. On the date of the injury, the employer was amenable to the provisions of the Ohio Workers’ Compensation Act, but had failed to comply with the Act. Sawyer filed a claim for compensation with the Bureau of Workers’ Compensation on March 29,1976. On July 1,1976, Bancinsurance Corporation (hereinafter Bancinsurance) became a complying employer by paying into the state insurance fund the premiums then due. Bancinsurance contested Sawyer’s claim before the bureau; but, her claim was allowed and she was found to be totally disabled and entitled to receive compensation.
+By a notice of appeal filed on October 11, 1978, Banc-insurance sought to appeal to the Court of Common Pleas of Franklin County pursuant to R. C. 4123.519. The Court of Common Pleas found that there was no right of appeal on the basis that an employer who is not in compliance with the Workers’ Compensation Act at the time of a claimant’s injury has no right to appeal under R. C. 4123.519, even though the employer is in compliance at the time of appeal.
+Bancinsurance, in its sole assignment of error, asserts that the ruling of the trial court was erroneous and that their appeal should have been heard on the merits.
+R. C. 4123.75, effective January 17, 1977 (see 136 Ohio Laws 1170-1171), provides that an employee whose employer has failed to comply with the Workers’ Compensation Act may file an application with the Industrial Commission for compensation, which application shall be heard and determined in like manner as other claims. In the event of entitlement to an award, the claim is required to be paid promptly from the Statutory Surplus Fund, and the commission is required to institute proceedings to recover from the employer any such moneys. Particularly pertinent is the following language, which was added to R. C. 4123.75 by the January 17, 1977 amendment:
+“Appeals and payment in a contested claim are governed by the provisions of Chapter 4123 of the Revised Code that generally govern appeals to a regional board of review, the industrial commission, and the courts. * * * ”
+R. C. 4123.519 permits an employer to appeal decisions, such as rendered in this case, to the Court of Common Pleas of the appropriate county. Further, there are no restrictions in R. C. 4123.519 upon the right of an employer, who was not in compliance with the Workers’ Compensation Act at the time of injury, to appeal. Thus, the General Assembly, by amending R. C. 4123.75, has provided a right of appeal to the Court of Common Pleas by a noncomplying employer.
+Appellee Administrator relies, primarily, upon the case of the Suez Co. v. Young (1963), 118 Ohio App. 415, which held that a noncomplying employer had no right of appeal to the Court of Common Pleas in a workers’ compensation case.
+Even if Suez was decided correctly, which we need not consider, the subsequent amendment of R. C. 4123.75 in 1977, specifically providing that appeals in a contested claim against a noncomplying employer “ * * * are governed by the provisions of [R. C.] Chapter 4123 * * * that generally govern appeals to * * * courts * * * ,” has changed that decision. None of the reasons given in Suez, for holding that a noncomplying employer does not have a right of access to the Court of Common Pleas, are now applicable.
+In Suez, the court first noted that R. C. 4123.75 was silent with respect to the right of a noncomplying employer to appeal to the Court of Common Pleas. As previously noted, the General Assembly has now specifically provided for such an appeal. In Suez, the court noted that the legislature could have specifically provided for an appeal in R. C. 4123.75 if it intended to give such right of appeal. Such provision has now been inserted in the law.
+Secondly, the court, in Suez, reasoned that, since an employer has a right to contest the validity of the claim when sued by the state under R. C. 4123.75, there should be no right of appeal by the employer from the decision of the Industrial Commission, as an employer is entitled to only one review. While it is true, under current R. C. 4123.75, that the commission is required to institute proceedings to recover, from the noncomplying employer, any moneys paid from the surplus fund so that a second action may be necessary, which proceedings are not necessary in the instance of a complying employer, there are not two independent rights of review. Any facts which are litigated in the court action pursuant to R. C. 4123.519 are deemed to be finally determined by the doctrine of collateral estoppel in a subsequent action against the employer to recover moneys paid from the surplus fund.
+Thirdly, the Suez court, supra, at 422, found that it would be unfair to delay payment of claims to the employee of a noncomplying employer pending appeal because “ * * * pending such appeal the injured employee is not afforded payments and is compelled to assume the burden of the appeal. * * * ” The subsequent amendment to R. C. 4123.75 in 1977 has remedied this defect by providing that payment of the claim shall be made promptly from the Statutory Surplus Fund.
+Hence, the result in Suez has been changed by the subsequent amendment of R. C. 4123.75 in 1977, which amendment specifically provides for appeals by a noncomplying employer to the courts — which includes appeals under R. C. 4123.519— and which amendment also eliminates the policy reasons advanced in support of the Suez decision.
+Appellee Administrator finally argues that giving the noncomplying employer a right of appeal to the Court of Common Pleas would eliminate the alternative remedy given an employee of a noncomplying employer to bring a common law-action against the employer pursuant to R. C. 4123.77, in which the employer may not avail himself of certain common law defenses. R. C. 4123.77 provides, as pertinent, as follows:
+“Employers * * * who fail to comply with section 4123.35 of the Revised Code are not entitled to the benefits of sections 4123.01 to 4123.94, inclusive, of the Revised Code, during the period of such noncompliance, * * *.”
+The alternative right of an employee of a noncomplying employer to maintain a common law action rather than pursue a workers’ compensation claim is a substantive right which vests at the time of the injury and is unaffected by subsequent compliance by the employer with the Workers’ Compensation Act. The provision in R. C. 4123.77 providing for the loss of the benefits of R. C. 4123.01 through 4123.94 to a noncomplying employer during his period of noncompliance refers to the protection against a common law action and to common law defenses, rather than to the procedure to be utilized in the processing of a workers’ compensation claim in the event that the employee chooses to pursue his claim through the Bureau of Workers’ Compensation.
+Appellant’s assignment of error is sustained. The judgment of the Court of Common Pleas of Franklin County is reversed and the cause is remanded to that court for further procedure consistent with this decision.
+Judgment reversed and cause remanded.
+Whiteside and Moyer, JJ., concur.
