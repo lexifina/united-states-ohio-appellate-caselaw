@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "45528 and 45725"
+decided: "1983-04-18"
+citations: ["9 Ohio App. 3d 106"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Patton, C.J., and Parrino, J., concur."]
+parties: ["Golick, Appellee, v. Golick, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/9/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707984
+---
+
+# Golick v. Golick
+
+## Majority (Corrigan, J.)
+
+Corrigan, J.
+The appellant, Kenneth Golick, and the appellee, Rosemary Golick, were married on October 10,1954, and have three children. On October 31, 1980, the appellee filed a complaint for divorce, alleging that the appellant was guilty of gross neglect and extreme cruelty. The appellant counterclaimed for divorce on the same grounds. The ap-pellee was awarded temporary alimony and child support. On November 10,1981, the appellee filed a “Motion for Leave to File an Amended Reply to Cross-Complaint” in which she admitted that she was guilty of gross neglect and extreme cruelty. The appellant did not object.
+Hearings were held before a referee on January 27, 28, February 2, and 4, 1982. At those hearings, evidence was presented that the appellant had made $34,500 in 1978, $34,600 in 1979, $42,000 in 1980 and $40,500 in 1981. He testified that he had been employed by the same company for twelve years. The appellee had been working since March 1981, and she testified that she hoped to earn $14,000 or $15,000 a year. She testified that she had no retirement benefits. The owner of the company the appellant worked for testified that the appellant had a profit-sharing plan worth $53,145 as of December 31, 1980, and that distribution would take place upon retirement, permanent disability, death or employment termination.
+There was also evidence that the parties owned three pieces of real property. The appellant testified that the marital home was worth $90,000 to $105,000. The appellee testified that it was worth $90,000. There is no mortgage on the house. However, the appellant asserted at trial that he borrowed $10,000 from his parents and $5,000 from an aunt in order to buy the home. The two other pieces of property were single homes that the parties rented to third parties. The appellee testified that the home on Montrose Avenue was worth $48,000, while the appellant testified it was worth $41,000. The property had a $31,809 mortgage as of December 1981. The appellant testified that the property located at West 150th Street was worth $53,000. The appellee stated that it was worth $60,000. As of January 1, 1982, the mortgage was $41,926.
+There was evidence that the parties owned stocks and bonds worth $18,760 and a boat valued at $10,000. The appellant testified that he borrowed $6,000 from his father to buy the boat, and that he still owes $4,000. The appellee testified only $2,000 was owed. The father is dead and the appellant’s mother testified that she did not know the balance of the loan. The parties also owned a camper worth approximately $1,500. The appellee testified that the marital furniture was worth $2,000. The appellant stated that its replacement value was between $10,000 and $15,000, but he did not testify as to its current value.
+After hearing all the evidence, the referee recommended that the appellee be awarded the marital home and that the appellant be awarded the other two homes owned by the parties. The referee recommended that the furnishings in the marital home be awarded to the appellee and that the appellant be awarded the boat with all its encumbrances, the camper and the stocks and bonds. He also recommended that the appellant contribute as additional alimony $4,500 towards the appellee’s legal expenses. His recommendation was that the appellee be forced to waive any rights she may have in the appellant’s profit-sharing plan. The referee found that the appellant’s ar-rearage for temporary alimony was $3,816 and he recommended that the ar-rearage be reduced to judgment. Two of the parties’ children had chosen to live with the appellee so the trial court recommended that the appellant pay $70 per week as child support. One of the children chose to live with the appellant. The trial court approved the referee’s recommendations and journalized them on April 19, 1982.
+After the divorce was granted, the child who was living with the appellant moved to the appellee’s home. The child support was modified to $55 per child per week. The appellant filed a motion to modify the child support, asserting that there had been a substantial decrease in his earnings. The court ruled that the motion would be “held in abeyance.”
+On July 12, 1982, the appellee filed a motion for appointment of receiver to sell stock that had been awarded to the appellant in order to satisfy judgments she had against the appellant. The motion was granted. * * *
+In his final assignment of error, the appellant argues that the trial court committed error when it appointed a receiver to sell his stocks and bonds. There is no merit in this assignment of error.
+R.C. 2735.01 provides, in part:
+“A receiver may be appointed by the supreme court or a judge thereof, the court of appeals or a judge thereof in his district, the court of common pleas or a judge thereof in his county, or the probate court, in causes pending in such courts respectively, in the following cases:
+* *
+“(C) After judgment, to carry the judgment into effect;
+“(D) After judgment, to dispose of the property according to the judgment, or to preserve it during the pendency of an appeal, or when an execution has been returned unsatisfied and the judgment debtor refuses to apply the property in satisfaction of the judgment; * * *.”
+Subsections (C) and (D) of R.C. 2735.01 deal with the appointment of a receiver only after the parties have appeared before the court and an adjudication has been made as to their rights. After notice to the appellant the receiver was appointed here at the request of the appellee in an attempt to collect judgments she had received for past alimony and child support the appellant obviously had not paid. No stays had been sought on the judgments. The appellee served the appellant with her motion for appointment of a receiver. The appellant acknowledged the service, and while the record does not reflect that the court actually set the motion for hearing, counsel for appellant claims a court scheduler told him a hearing had been scheduled. When he appeared he learned that the receiver had been already appointed and the stock sold.
+Admittedly, the use of a receivership is a harsh remedy for a court to impose in domestic relations cases to protect the interests of a spouse and to enforce its judgments. Circumstances, however, may dictate such action in particular cases. It cannot be argued that the appointment of a receiver was beyond the trial court’s inherent powers or outside the broad discretion of R.C. 3105.18 to make equitable divisions of marital property. The protracted litigation and the evidence already before the court as to the parties, the property, and the unsatisfied judgments obviated the necessity for a hearing.
+While a less drastic measure may have afforded sufficient protection for the spouse and the children in her custody, we cannot say as a matter of law that the trial court abused its discretion in appointing a receiver and ordering the sale of the stock without a hearing. The proceeds were equitably distributed and the costs involved, as well as any loss due to the forced sale, were properly assessed against the appellant for his failure to make the support payments previously ordered by the court.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Patton, C.J., and Parrino, J., concur.
