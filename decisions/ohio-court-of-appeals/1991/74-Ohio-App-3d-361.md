@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-900499, C-900500"
+decided: "1991-05-29"
+citations: ["74 Ohio App. 3d 361"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gorman, P.J., Doan and Klusmeier, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. EYER, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/74/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1475040
+cites_cases: ["444 U.S. 85", "475 F.2d 977"]
+---
+
+# State v. Eyer
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Konnie Eyer (“appellant”) brings these appeals from her convictions, following pleas of no contest in the Hamilton County Municipal Court, of two misdemeanor offenses: carrying a concealed weapon (R.C. 2923.12[A]) and gambling (R.C. 2915.02[A][2]). Each offense is a misdemeanor of the first degree based on the record before this court.
+The sole assignment of error advanced by the appellant is that “[t]he trial court erred in failing to grant defendant-appellant’s motion to suppress because law enforcement had no authority to search appellant’s property.” In explication of the assigned error, the appellant contends that the law enforcement officers had no authority to search her purse because the search exceeded the scope of the search warrant. We disagree and affirm the judgment of the trial court.
+On November 3, 1989, a judge of the Hamilton County Municipal Court issued a search warrant to the Sheriff of Hamilton County commanding him to search the premises known as the Fraternal Order of Eagles, Madisonville Aerie No. 2195, any common places, and any persons therein and to seize any cocaine or drug paraphernalia, gambling devices or paraphernalia, and any money or records associated with drug trafficking or gambling.
+Pursuant to the warrant, officers went to the specified premises and, by using the bell or buzzer at the front door, indicated their intent to enter the locked building. Someone inside admitted them and the search ensued. The appellant was inside the building when the officers entered. When she had entered the hall, the appellant had placed her purse on a bar seat and subsequently had moved three to five seats away from her purse. The appellant testified that she did not know how the purse containing the knife, betting slips, and cash was identified as her property. She did not remember if she was asked about ownership of the purse. The officer who searched the purse testified that the appellant admitted ownership of the purse and did not object when the officer asked appellant if she minded if the purse was checked.
+In oral argument, counsel for the-appellant stated that the thrust of the motion to suppress was not that the warrant was invalid, but that the search exceeded the scope of the warrant. The appellant relies primarily on the holding of Ybarra v. Illinois (1979), 444 U.S. 85, 100 S.Ct. 338, 62 L.Ed.2d 238.
+That case is inapposite to the facts of the instant case. Some of the factual differences are that Ybarra involved a warrant authorizing the search of a public tavern and only a specifically named individual; the warrant in the case on review authorized the search of a private club and all persons therein, and no individual was specifically named. The present case involves the search of an item located within the premises, while Ybarra was concerned with the search of a person. Further, in the Ybarra case the searching officers relied on an Illinois statute as authority for the search of those present in the tavern; Ohio has no similar statute. The majority opinion in Ybarra stated the question before that court as “whether the application of this statute to the facts of the present case violated the Fourth and Fourteenth Amendments.” Ybarra v. Illinois, supra, at 87, 100 S.Ct. at 340, 62 L.Ed.2d at 243. The Supreme Court concluded that the search of Ybarra and the seizure of what was in his pocket contravened the Fourth and Fourteenth Amendments because the Illinois statute upon which the officer relied did not define a substantive criminal offense under state law, but purported instead to authorize the police in some circumstances to make searches and seizures without probable cause and without search warrants. The court noted that it had held such statutes invalid without hesitation.
+As previously noted, in the case on review the officers had been issued a search warrant authorizing the search of the premises and the persons present in the premises. The appellant does not assert the invalidity of the warrant, but contends that because the search exceeded the scope authorized by the warrant, the case must be judged as if there had been no warrant.
+Even if we assume that the search warrant was ineffective to authorize the search of persons present in the premises, an issue which we need not decide, we believe that the search of appellant’s purse was lawful as having been within the undisputed scope of the warrant to search the premises. In State v. Jones (Nov. 26, 1980), Hamilton App. No. C-790797, unreported, we held that a search warrant for certain premises fairly embraced the search of a purse belonging to and located next to a woman who was present in the premises. Similarly, in United States v. Johnson (C.A.D.C.1973), 475 F.2d 977, the court held that the scope of a premises search warrant included a purse belonging to a visitor to the premises. The court in Johnson noted that the purse was not being “worn” by the defendant and thus did not constitute an extension of her person, and that the items described in the warrant could easily be concealed in a purse. Id. at 979.
+In the present case, the appellant testified that her purse was located several feet away from her when it was found and searched. Thus, she was not “wearing” the purse and there is no issue presented concerning a search of the appellant’s person or an extension thereof. Further, in view of the nature of the contraband described in the warrant, it was reasonable for the police to believe that the items sought could have been concealed in the appellant’s purse.
+Accordingly, based upon the circumstances presented in this case, we determine that the warrant to search the specified premises authorized the search of the appellant’s purse, and that the motion to suppress was properly overruled.
+The single assignment of error is overruled and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Gorman, P.J., Doan and Klusmeier, JJ., concur.
+. For clarity, we have paraphrased a portion of the warrant. We believe our paraphrase is correct and the only reasonable interpretation of that portion of the warrant which, reproduced verbatim, is as follows:
+" * * * command you in the name of the State of Ohio, with the necessary and proper assistance to enter, in the night time, into the premises located at 4730 Whetsel Avenue, Hamilton County, Cincinnati, Ohio 45227, a multi story white brick and wood structure known specifically] as The Fraternal Order of Eagles Madisonville Aerie #2195, any common places and any persons therein, [sic ] in the county aforesaid, and there diligently search for the goods, chattels, or articles, to-wit: Cocaine, a Schedule II Controlled substance; packaging materials; paraphernalia for the use, sale or resale of said contraband; U.S. currency associated with the sale or resale of said contraband; gambling devices; games or schemes of chance; gambling paraphernalia; U.S. currency associated with gambling or wagering; records of gambling or wagering. * * * ”
+. Ill.Rev.Stat., Chapter 38, Section 108-9 (1975), which provides in full:
+"In the execution of the warrant the person executing the same may reasonably detain to search any person in the place at the time:
+"(a) To protect himself from attack, or
+"(b) To prevent the disposal or concealment of any instruments, articles or things particularly described in the warrant."
