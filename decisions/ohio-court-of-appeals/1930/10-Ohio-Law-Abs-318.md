@@ -5,6 +5,7 @@ citations: ["10 Ohio Law Abs. 318"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["PETTIFORD v YELLOW SPRINGS (Village)"]
 source_url: "https://static.case.law/ohio-law-abs/10/cases/0318-02.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -14,4 +15,11 @@ cites_cases: ["176 NE 587"]
 
 # Pettiford v. Yellow Springs
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+PETTIFORD v YELLOW SPRINGS (Village)
+Ohio Appeals, 2nd Dist, Greene Co
+Decided April 30, 1930
+For full opinion see 176 NE 587; 38 Oh Ap 310 (Oh Bar 7-14-31).
