@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1919-11-20"
+citations: ["30 Ohio C.A. 407"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Metcalfe, P. J., and Pollock, J., concur."]
+parties: ["In the Matter of the Establishment of the Boundary Line Between Wills Township and Center Township in Guernsey County, Ohio."]
+source_url: "https://static.case.law/ohio-ca/30/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1611329
+cites_cases: ["15 Ohio 65", "16 O. S., 523", "26 O. S., 364", "32 O. S., 194", "38 O. S., 523", "44 O. S., 209", "8 O. S., 354", "82 O. S., 315"]
+---
+
+# In re the Establishment of the Boundary Line between Wills Township & Center Township
+
+## Majority (Farr, J. Johnson, J., Swan, J.,)
+
+Farr, J.
+This is a proceeding .in error, prosecuted here to reverse the judgment of the court of common pleas of this county.
+The action in the court below was an appeal from the finding or award of the county commissioners to whom application was made to establish the boundary line between Wills and Center townships, this county. A hearing was had as provided by statute and a finding made by the county commissioners from which an appeal was sought to be perfected to the court of common pleas of Guernsey county where a motion was made to dismiss for want of jurisdiction, which motion was sustained by the court of common pleas and the cause is here upon the question of the right of appeal from the finding of the county commissioners. Among the related sections of the General Code is Section 3248 which provides that:
+“When a boundary line between townships is in dispute the commissioners of the county in which the townships are situated, upon application of the trustees of one of such townships, and upon notice in writing to the trustees of such civil township or Townships, and on thirty days public notice printed in a newspaper published within the county, shall establish such boundary line, and make a record thereof in a book kept for that purpose.”
+The foregoing relates to the duties of county commissioners in case application be made to establish a disputed boundary line between townships; however, it is not the duty of the commissioners in this regard which is of primary importance here, but the right of appeal from their finding. If such right obtains in favor of either party it is under favor of Section 2461 General Code, which provides as follows:
+‘ ‘ 2461. A person aggrieved by the decision of the county commissioners in any case, may appeal within fifteen days thereafter, i j the next court of common pleas, notifying the commissioners of such appeal at least ten days before the time of trial. The notice shall be in writing, and delivered personally to the commissioners, or left with the auditor of the county. At its next session, the court shall hear and determine the appeal, which decision shall be final.”
+This section has been the subject of considerable discussion, and there are numerous adjudications under it beginning with the early judicial history of the state, a number of which it is not necessary to discuss in determining the issue here. A case well upon the point and fairly decisive of the issue in the instant case is Commissioners of Belmont County v. Zeigelhofer, 38 O. S., 523.
+This case arose over a contract awarded by the county commissioners for tearing down and rebuilding a protecting wall on a county road. After the completion of the wall, and the re'fusal of payment of the balance claimed to be due by the contractor, suit was brought before a justice of the peace to recover the same. From a judgment against the commissioners they appealed to the court of commoii pleas, where a motion to dismiss was made for want of jurisdiction for the reason that plaintiff’s exclusive remedy was an appeal from the action of the commissioners in refusing to allow and order the claim paid. Section 18 of an act establishing boards of county commissioners and prescribing their duties (1 S.&C., 247), which was then in force, is almost identical with' above Section 2461, General Code. It was held as follows:
+“Where a claim against a county, which must be allowed by the commissioners before it can be paid, is founded exclusively on a statute, the remedy by appeal provided by Section 18 of “an act establishing boards of county commissioners and prescribing their powers and duties (1 S. & C., 247) is exclusive; but where such a claim is founded upon a contract, which the commissioners are authorized to make, and they refuse to perform such contract, or disallow the claim, the remedy by appeal and the summary proceedings provided for by said section, is cumulative merely, and the claimant is entitled to have his action thereon against the county by due course of law, in any court of competent jurisdiction.”
+The foregoing, therefore, fixes the right of appeal in such cases.
+Johnson, J.,
+in passing upon the above case reviews practically every important related case beginning with Commissioners v. Robb (Wright, 48), similar as to facts to the Belmont county case, and it was not held that an appeal was an exclusive remedy; the same case is found in 5, Ohio, 491; Paine v. Commissioners (Wright, 471) is discussed and a like conclusion reached; likewise Shepherd v. Commissioners of Darke County, 8 O. S., 354, where it was sought to enforce a claim by a county recorder against the commissioners for making a new general index to the records of the county, and for which it was provided that recorders should receive such compensation as the commissioners shall deem reasonable and just.
+Swan, J.,
+in the opinion at page 357 observes as follows:
+“Whenever the board of commissioners are authorized to allow or reject claims against the county, the party aggrieved may appeal. ’ ’
+But what was actually held is that:
+“Where a claim against the county is of such a nature that but for the statute no right of action at common law would exist on the claim, the remedy prescribed by the statute must be pursued, and no cumulative remedy exists.”
+The principle established in Shepherd’s case was re-affirmed in State ex rel Gerke v. Commissioners, 26 O. S., 364, which applied to a claim for attorney’s services in prosecuting suits for the county treasurer for the collection of taxes.
+And in his summary of the foregoing Johnson, J. in Commissioners v. Zeigelhofer, at page 528, declares the rule of construction in such cases to be as follows:
+“These cases rest upon the well settled rule of construction, and where, by statute, a liability is created, and a specific remedy is given, it is exclusive, but when a specific remedy is given for an existing right of action for which there is a remedy by due course of law, the new remedy is merely cumualtive, unless it clearly appears to be the intention of the Legislature, that it be to the exclusion of the existing remedy. Commissioners v. Bank, 32 O. S., 194, 201; Darling v. Peck, 15 Ohio 65; State v. Orr, 16 O. S., 523; Sedgwick on Statute Law, 341-345; Hardcastle on Rules of Con., 163-169.”
+And the foregoing fairly determines the issue here. In the cases considered it will be observed that when it was a question of liability on contract the right of appeal was held to be cumulative in character.
+In the instant case the duties of the board of commissioners are defined by statute. Impliedly they might call, and in the instant case they did summon and hear, numerous witnesses. They determined the question at issue as a tribunal, although it is urged that they performed merely administrative duties; that they did not render a judgment and had no authority or jurisdiction to do so; that if they had, their act would have been coram non judice. However, they made a finding upon the issue, and it would be drawing a very fine distinction, under the provisions of above Section 2461, G. C., to hold that there was no right of appeal; that the finding of the board is final and conclusive, especially in so important a matter as establishing a boundary line between townships, wherein, if an error be made, it must remain so for all time. Such was not the legislative intent.
+It is urged, however, that there are numerous adjudications under the above Section 2461, holding that there was no right of appeal. An examination of these eases discloses that they are practically all different as to facts and in Kendig v. Commissioners, 82 O. S., 315 at page 322, Price, J., declares the rule to be that:
+“No appeal is given from the decision of the trustees or commissioners to a court in which the owner may have his compensation determined by a jury.”
+And in connection with his discussion of Section 896 R. S., now Section 2461, General Code, the case of Hendershot v. State, 44 O. S., 209, is also discussed which is somewhat helpful.
+It was also properly observed in the Belmont county case at page 529:
+“When such a contract is made within the scope of the authority conferred, the obligations arising thereform, are to be determined by common law principles, in the absence of statutory provisions to the contrary. The right is not founded on a statute, but on a contract made by a quasi corporation.”
+But such is not the ease here, nor is there a jury issue. The jurisdiction of the commissioners as provided in this statute was invoked by the application of the township trustees of the township applying for the establishment of the boundary line, and the board having made its finding the statute prescribing the right of appeal as well as the right of action in the board of county commissioners, appeal lies from the award of the commissioners to the court of common pleas.
+Therefore, the judgment of the court below is reversed, and exception noted.
+Metcalfe, P. J., and Pollock, J., concur.
