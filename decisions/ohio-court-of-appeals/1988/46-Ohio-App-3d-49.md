@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "E-87-24"
+decided: "1988-02-26"
+citations: ["46 Ohio App. 3d 49"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Resnick, P.J., Handwork and Glasser, JJ., concur."]
+parties: ["Roesch et al., Appellants and Cross-Appellees, v. Bray et al., Appellees and Cross-Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/46/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709880
+cites_cases: ["1 Ohio Law Abs. 834", "111 Ohio St. 551", "146 N.E. 64", "26 Ohio Dec. 529", "35 Ohio C.D. 244", "406 N.E. 2d 124", "50 Ill. App. 3d 429", "6 Ohio Law Abs. 136", "84 Ill. App. 3d 710"]
+---
+
+# Roesch v. Bray
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause is before the court on an appeal from a judgment rendered by the Erie County Court of Common Pleas.
+Appellants filed a timely notice of appeal asserting the following as their sole assignment of error:
+“The court erred in restricting the plaintiffs’ award to consequential damages. The court failed to include the expectancy damage amount, suffered by the plaintiffs, in the judgment.”
+Appellees filed a cross-appeal asserting the following as their sole assignment of error:
+“The court erred in awarding the plaintiffs damages for the costs of holding the property for resale and interest upon the cash which would have been generated from the breached contract.”
+On August 18, 1982, appellants, John C. and L. Janie Roesch, entered into a written contract for the sale of appellants’ home located at 516 Lincoln Avenue, Huron, Ohio, with ap-pellees, Harry H. and Carol L. Bray. Approximately five days after the contract was entered into, appellees informed appellants that they would not be able to perform on the contract.
+Prior to the breach of the contract, appellants had entered into a contract to purchase another home in Huron. Appellee Harry H. Bray, father of appellant L. Janie Roesch, had encouraged appellants to purchase other real estate in order that he and his wife could move into the property located on Lincoln Avenue.
+The contract entered into between appellants and appellees provided for a purchase price of $65,000, $45,000 to be paid at the time of closing and $20,000 to be paid upon the sale of ap-pellees’ home with no interest to be charged on said amount.
+Due to the breach of the contract to purchase by appellees, appellant John Roesch borrowed $65,000 from a third party at sixteen percent interest in order to meet his obligations under the contract for the purchase of his new home. Appellants ultimately resold the property located on Lincoln Avenue in August 1983 for $63,500.
+On November 26, 1985, the trial court granted appellants’ motion for partial summary judgment on the issue of breach of contract. The issue of damages was tried before a referee. The referee recommended an award of money damages in the amount of $9,163.06. Said amount included payments for utilities, insurance, real estate taxes, yard maintenance, advertising, and interest on the $45,000 that was payable to appellants from appel-lees at the proposed closing date, at the rate of sixteen percent interest. The trial judge adopted the referee’s report, allowing for interest on the amount awarded at the rate of ten percent from the date of the breach.
+Appellants now contend that the trial court erred in failing to award damages for the difference between the contract price agreed to by ap-pellees and the resale price of the home in August 1983. Appellants state that they realized “net proceeds” in the amount of $52,149.20 from the sale of the property. However, appellees contend that the actual purchase price of the home in August 1983 was $63,500; and, therefore, the maximum amount that appellants are entitled to recover in addition to what has been awarded is $1,500 plus interest.
+Generally, under Ohio law, when a purchaser defaults upon a contract for the sale of real estate, the seller may recover the difference between the contract price and the market value of the property at the time of the breach. See 54 Ohio Jurisprudence 2d (1962) 731, Vendor and Purchaser, Section 181; 77 American Jurisprudence 2d (1975) 616, Vendor and Purchaser, Section 491; McCarty v. Lingham (1924), 111 Ohio St. 551, 146 N.E. 64, paragraph three of the syllabus.
+In the case sub judice, the trial court held that there was no evidence introduced to establish the market value of the Lincoln Avenue property at the time of the breach. The trial court further concluded that the ultimate sale price of the home received one year after the breach of the contract and upon different terms should not be admitted as evidence of the market value at the time of breach.
+It has been held that when the sale of real estate after a breach of contract is made “* * * within a reasonable time and at the highest price obtainable after the breach, [it] is evidence of the market value on the date of the breach. Kemp [v. Gannett (1977)], 50 Ill. App. 3d 429, 431.” Gryb v. Benson (1980), 84 Ill. App. 3d 710, 712, 406 N.E. 2d 124, 126.
+At the time of appellees’ breach in the instant case, the housing market was moving rather slowly since interest rates were very high. Therefore, it would not be unreasonable to assume that the resale price tendered in August 1983 was the best indicator of the market value of the home in 1982. Furthermore, we cannot conclude that the resale of the home one year after appellees’ breach was unreasonable due to the market condition. It is also apparent that the resale price obtained by appellants, $63,500, was, in fact, very close to the purchase price offered by appellees. That is, the eventual sale price in 1983 is a measure of the value of the property in August 1982, and this value is most favorable to appellees. Based on the evidence before us, we conclude that the resale price is as “* * * favorable a bid as the value of the property will admit of. * * *” Lucke v. Eisenstadt (1914), 17 Ohio N.P. (N.S.) 209, 211, 26 Ohio Dec. 529, 531, reversed on other grounds sub norm. Eisenstadt v. Lucke (1915), 35 Ohio C.D. 244, 25 Ohio C.C.(N.S.) 225 (sale at public auction rather than sale on the open market).
+Based on the foregoing, we conclude that appellants are entitled to the benefit of their bargain: the contract price less the actual resale price. We further conclude that the resale price is $63,500, rather than $52,149.20. The latter figure represents the “net proceeds” of the sale. The actual purchase price of the home, however, is $63,500. It would be contrary to established law to award appellants the difference between the 1982 contract price, not adjusted for expenses, and the 1983 contract price adjusted for expenses.
+Accordingly, we find appellants’ sole assignment of error well-taken.
+Appellees argue in their cross-appeal that the trial court erred in awarding appellants damages for the costs of holding the property until resale and for interest on the $45,000.
+The Ohio courts have not considered in great detail what additional losses may be compensated for in the way of damages pursuant to a breach of a real estate contract. Generally, damages on a breach-of-contract action are limited to losses that are reasonably to be expected as a probable result of the breach. See Roegge v. Wertheimer (Super. Ct. 1923), 1 Ohio Law Abs. 834; and Dudock v. Alexander (App. 1928), 6 Ohio Law Abs. 136.
+In the case sub judice, the damages awarded by the trial court include maintenance and utility expenses for several months, plus certain costs for resale. However, to allow recovery for expenses of this kind could lead to harsh consequences. Such expenses “* * * could mount indefinitely to unlimited amounts if [the sellers] * * * failed to use, rent or resell their property. * * *” Kauder v. Thompson (May 9, 1986), Montgomery App. No. 9265, unreported, at 11. Therefore, we conclude that these expenses are incidental to ownership. Although appellees might have been able to foresee that certain expenses would be incurred in maintaining the property until future resale, the duration and extent of those expenses could only be speculated upon. Were we to hold otherwise, a breaching party could be subjected to liability for similar expenses for months or even years on end.
+Accordingly, appellees’ sole cross-assignment of error is found to be well-taken.
+On consideration whereof, the court finds substantial justice has not been done the parties complaining, and the judgment of the Erie County Court of Common Pleas is reversed. Pursuant to App. R. 12(B), we hereby enter judgment in favor of appellants in the amount of $1,500 plus ten percent interest from the date of the breach. This cause is remanded to said court for execution of judgment. It is ordered that appellants and appellees pay the court costs of this appeal equally.
+Judgment accordingly.
+Resnick, P.J., Handwork and Glasser, JJ., concur.
