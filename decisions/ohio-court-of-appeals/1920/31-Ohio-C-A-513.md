@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1920-12"
+citations: ["31 Ohio C.A. 513"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pollock and Farr, JJ., concur."]
+parties: ["The City of Steubenville, Ohio, v. The Steubenville, East Liverpool & Beaver Valley Traction Company."]
+source_url: "https://static.case.law/ohio-ca/31/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1612595
+cites_cases: ["1 O. S., 563", "1 O. S., 591", "1 O. S., 603", "1 O. S., 622", "16 How., 369", "18 How., 380", "218 U. S., 438", "219 U. S., 467", "221 U. S., 400", "4 Wheat., 122", "4 Wheat., 578", "76 O. S., 309", "98 O. S., 320"]
+---
+
+# City of Steubenville v. Steubenville, East Liverpool & Beaver Valley Traction Co.
+
+## Majority (Metcalfe, J.)
+
+Metcalfe, J.
+This ease is in this .court on appeal. The action is brought for a mandatory injunction to require the defendant to carry out the provisions of an ordinance granting a franchise to the defendant to use the streets of Steubenville to operate its cars, and including in that franchise a requirement on the part of the defendant to carry the local mail carriers of the city of Steubenville upon its cars, while on duty within the city limits, free of charge.
+This contract was entered into several years ago by the predecessor of the present company, and has been carried out by the original grantor and its successors for a number of years since the granting of the franchise. But, some time ago the company came to the conclusion that in carrying out the provisions of this franchise that it was violating Section 516 of the General Code of Ohio, which prohibits railroads, and interurban and electric railroads from carrying certain persons free.
+The provisions of the statute is that,
+‘ ‘ No railroad company, owning or opérating a railroad, wholly or partly within this state, shall, directly or indirectly issue or give a free ticket, free pass, or free transportation for passengers, except to its employees and their families,”
+and others, specifically named. The only respect in which it-is claimed that tire mail carriers of the city were not included iix.this contract is in the exception “to railway mail service employees.” Evidently that does not refer to mail carriers in the city. They are not working on a railway. They have no connection with railway mail service.' They only ride upon the cars .of the company the same as any other passengers in going about their business of delivering mail within the city limits. So we think there is no question but what the carrying of mail carriers is as much prohibited as any others not particularly mentioned in the statute.
+The only question in this case is, as we view it, whether or not the franchise which was granted to the company and under which it is operating is a contract within the meaning of the laws and the Constitution of the United States, which prohibits any state from passing a law impairing the obligation of a contract, and of Section 28, of Art. 2, of the Constitution of Ohio, which embodies the same provision. This contract having been made prior to the passage of Section 516, does that statute impair the obligation of an existing contract? That'is the question which- we have to deal with here.
+It is insisted in this case that the recent decision by the Supreme Court of the United States in the case of Railroad Company v. Mottley, 219 U. S., 467, governs this case.
+In the Mottley ease the defendant in error, Mottley and.-his wife were passengers upon a train of the, Louisville & Nashville Railroad which came into collision-with another train and they received some injuries. In the settlement of the matter it was agreed by the railroad company to grant Mr. Mottley and his wife free passage for their natural lives over the Louisville & Nashville Railroad and its connections. The company lived up to the contract faithfully for a number of years, until the-passage of the United States Statute forbidding railroad- companies from carrying certain persons upon their trains on passes- and giving them free transportation.
+The Supreme Court held that this contract could not.be enr forced, and that it was obnoxious to the provisions of the statute'. The court say:
+•“The power of Congress to regulate commerce .among tlm states and with foreign nations is complete and unrestricted except by limitations in the Constitution itself, and extends to rendering impossible the enforcement by suit of contracts between carriers and shippers although valid when- made.-”- M ,
+That is to say the contract between the Louisville & Nashville Railroad and Mr. Mottley was a valid contract when it. was- ma.de but the legislation of the United States with regard to .passes upon the railroads rendered the enforcement of that contract-absolutely impossible. ...
+This is under the provisions of the Constitution of the.United States relating to interstate commerce. It will be observed that the Constitution of the United States does not prohibit Congress from passing a law impairing the obligations of a contract. Of course it does not follow that Congress can enact a law generally declaring void all contracts.
+It does mean that the inhibition against passing laws inpairing the obligations of contracts does not rest upon Congress but upon the states. -So that where the necessities of the case, require, as it is held that they do in the regulation of interstate commerce, that the legislation shall render a contract void or shall prohibit its performance or make its performance impossibly, then Congress has the power to pass such legislation. ■ • ■ ■
+But it-is a different.proposition ip legislation enacted by a state. The language of the Constitution (Art. 1, Sec. 10) is “No state shall * * * pass any • * * * law impairing the obligation of contracts.” The doctrine that the charter of a corporation is a contract was first held in Dartmough College v. Woodward, 4 Wheat., 578, and although resisted somewhat in this state, in some of the earlier cases as< applying to certain bank charters, which provided for certain rules of taxation therein. (See De Bolt v. Trust Co., 1 O. S., 563; Bank v. De Bolt, 1 O. S., 591; Knoup v. Piqua Bank, 1 O. S., 603; Toledo Bank v. Toledo, 1 O. S., 622.) It is now too thoroughly established in the. law of this state and of the United States to be open to question. Piqua Bank v. Knoup, 16 How., 369; Bank v. De Bolt, 18 How., 380; Sturges v. Crowwingshield, 4 Wheat., 122; Fisher v. New Orleans, 218 U. S., 438,
+But, it is urged that the ordinance of a municipality does not come within the same rule in as much as the ordinance is not the charter of a corporation but only a grant of power to do pertain things within the municipality. The ordinance in question grants to the company certain privileges and the company as part of the consideration for that grant agrees to carry the city’s mail carriers -free. It is mot easy to see why such a transaction is not a contract, and we think the weight of authority clearly establishes the fact that it is.
+In City v. Gas Company, 76 O. S., 309, where the city passed an ordinance granting certain rights to the gas company the court say:
+“When the gas company accepts the terms of said ordinance according to law, and takes possession of and occupies-the streets, etc., under said grant, such accepted ordinance becomes a valid contract between the parties.”
+And in Grank Trunk & Western Ry. Co. v. R. R. Commission of Indiana, 221 U. S., 400, it is said:
+“A legislative act by an instrumentality of the state exercising delegated authority is of the same force as if made by the legislature and is a law of the state within the meaning of the contract clause of the Constitution.”
+And very recently the Supreme Court in City of Cincinnati v. Public Utilities Commission, 98 O. S., 320, where an ordinance had been granted by the city of Cincinnati to gas and electric companies granting privileges in the city the court said:
+“A contract such as above described, which it passes in full compliance with authority expressly conferred, is protected by the provisions of See. 10, Art. 1, Federal Constitution that no state shall pass any law impairing the obligation of contracts.”
+We see no distinction between the decided cases and the instant case. The obligation imposed on the company by the provisions of the ordinance in question is a contract obligation which can not be impaired by the provisions of Sec. 516, G-. C., and hence the relief prayed for must be granted.
+Pollock and Farr, JJ., concur.
