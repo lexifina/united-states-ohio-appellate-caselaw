@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1844"
+decided: "1931-02-27"
+citations: ["9 Ohio Law Abs. 601"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PARDEE, PJ, and FUNK, J, concur."]
+parties: ["HABERKOST v PARRY"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895823
+---
+
+# Haberkost v. Parry
+
+## Majority (WASHBURN,' J)
+
+WASHBURN,' J
+The defendants have urged several reasons why a court of equity should not grant to plaintiff the relief sought, but it will ,be necessary to nqtice but, one of said reasons.
+It is claimed that specific performance should not be granted because the plaintiff' does not offer to convey “a good marketable title in fee simple” as she agreed to do in said contract.
+The legal title to the premises which pifa intiff agreed to convey is in a trustee, and plaintiff does not offer to have her husband join in the conveyance of said premises to the defendants.
+Upon the evidence in this case the court would be justified in finding that plaintiff chd her husband, while living separate apd spart, conveyed, by warranty deed, the promises in question to the First Trust & Savings Bank; Trustee, there being nothing in the deed concerning the trust except the word “trustee” after the name of the grantee. There is mo provision empowering the grantee to convey title the same as if it had the equitable as well as the legal title to. the premises.
+It further appears in the evidence that plaintiff and her husband are still husband and wife, although living separate and apart, and that the husband has refused to join in a deed to defendants or quit-claim any interest he may have in said premises to the defendants.
+Plaintiff offers a deed from the trustee warranting against “claims and demands by, from, through or under the trustee,” and a warranty deed signed by the plaintiff.
+If nothing further was shown in the evidence, it is apparent that the plaintiff does not offer a title such as she agreed to give, because it does not appear that the husband is not a beneficiary of the trust or that hé may not have a dower interest in said property.
+To clear up that situation, plaintiff offered in evidence a receipt which she testified the husband signed before the making of said trust deed and in which he agreed to relinquish to plaintiff any claim he might have in said property, “including dower interest or otherwise,” and a trust agreement, not signed by the husband, bearing the same date q,s the trust deed and signed by plaintiff and said trustee, in which said trustee agreed to hold the title tq said premises m trust for plaintiff and dispose of the same in accordance with the instructions of plaintiff.
+Such evidence, supplemented by the evidence of the plaintiff, if uncontradicted by the husband, would warrant a holding that the husband has" no present interest in said premises by way of dower or otherwise; but if the title remains as it is until the death of plaintiff, the husband would have a dower interest.
+The husband is not a party to this suit, and of course would not be bound by any finding in this case that he has no present interest in said premises or that he would have no dower if the trustee conveyed said premises to the defendants.
+The situation, then, is that the plaintiff, who is asking specific performance, offers deeds which, in view of the fact that she has a husband, do not convey a title free and clear of any claim by him, but she offers evidence which, if available to the defendants and found to be true in a suit brought by the husband, would enable the defendants to successfully defend their title against the husband, who is unwilling to renounce any claim to said premises.
+What ought a court of equity to do when asked to grant the extraordinary remedy of specific performance under such circumstances?
+Such remedy is usually said to rest in the discretion of the court, but it is settled that it is a judicial discretion, in the exercise of which the court is bound by certain definite and well-ascertained rules, among which is the rule that a. purchaser shall not be compelled by a decree of a court of equity to accept a 'doubtful title.
+“The rule is now well settled that equity will not compel an unwilling purchaser to accept a doúbtful title which will expose him to the expense and hazard of litigation. It will not force him to buy a lawsuit. He need not take the title unless it is marketable — i. e., merchantable — free from any defect that will affect its value' in the eye of subsequent purchasers from- the vendee. ‘That may be a good title in law which a court of equity in the exercise of its discretionary power will not force on an unwilling purchaser.’ ‘Every purchaser should have a title which shall enable him not only to hold his land, but to hold it in peace, and if he wishes to sell it, to be reasonably sure that no flaws or doubt will come up to disturb its marketable value.’ ‘But a threat or even the possibility of a contest, will not be sufficient. The doubt must be considerable and rational, such as would and ought to induce a prudent man to pause and hesitate; not based on captious, frivolous, and astute niceties, but such as to produce real bona fide hesitation in the mind of the chancellor.’ * * *
+“Where the question is* one of the doubtful construction of an instrument in the chain of title, also, the court should not impose, its opinion upon the purchaser, since its decision would not be res adjudica ta; and the court should be even more cautious where the title depends upon the existence of a doubtful fact, resting for its .proof upon parol evidence.”
+5 Pomeroy’s Equity Jurisprudence (2nd e*) Secs. 2223 and 2226.
+Not every title is unmarketable which depends upon proof of facts to support it; there doubtless are cases where the facts are so conclusively proved that a verdict contrary thereto would not be allowed to stand in a court of law, and where the circumstances are such that there is no reasonable ground for apprehending that they cannot in like manner be proven again at any time when necessary for the protection of the purchaser; but we do not regard this as such a case; we do not know what the husband has to say about these transactions except that he refuses to relinquish any claim.
+The deed to the trustee which the husband signed, had, in and of itself, no more effect upon his interest in said property than the same deed which was signed by plaintiff had upon her interest, and the husband is not a party to the trust agreement, ’ so plaintiff’s contention that her husband has no interest in said property depends upon an agreement which she says she had with him, and while, in Substantiation of her testimony, she produces a receipt which she testifies was signed by her husband and which is quite convincing, still, her testimony and said receipt would be necessary in defending • the title as against her husband, and if they should be unavailable at a later date, the consequences to the holder of the title might be serious; the trustee not having power to convey except in accordance with the trust, and the trust not being defined in the deed or a separate instrument signed by the husband, it would be necessary for the holder of the title to preserve said receipt and be able to defend it against any claims made in reference thereto by the husband.
+The plaintiff chose the means employed to accomplish the purpose she desired; she could have accomplished her purpose by having the trust agreement signed by the husband or by having it set forth in the deed signed by him, or by a separation agreement, which could have been made an instrument in the chain of title; but by the means she did employ she made her title depend upon facts not shown in "the chain of title.
+Under such circumstances, when the husband, who would not be bound by our decree, is 'refusing to quit-claim and thus fully and unquestionably carry out the terms of the written receipt which the plaintiff says he signed, the burden of defending the title and preserving the evidence necessary to do so ought not to.be put upon the defendants.
+We think the trial court was right in this case when it gave the plaintiff an opportunity to obtain from her husband a quitclaim deed of all his interest in the premises to the defendants, and in dismissing plaintiff’s petition and denying specific 'performance upon plaintiff’s failure to do so.
+A decree may be drawn denying the relief sought, at the costs of the plaintiff.
+PARDEE, PJ, and FUNK, J, concur.
