@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4254"
+decided: "1947-12-01"
+citations: ["82 Ohio App. 96"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Carpenter, J., concurs.", "Stuart, J., not participating."]
+parties: ["Zywiczynski, Appellant, v. Zywiczynski, Appellee."]
+source_url: "https://static.case.law/ohio-app/82/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1391792
+cites_cases: ["128 A. L. R., 199", "42 N. E., 425", "53 Ohio St., 467", "68 Ohio App., 319"]
+---
+
+# Zywiczynski v. Zywiczynski
+
+## Majority (Conn, J.)
+
+Conn, J.
+On December 30, 1936, tbe (defendant, Agnes Zywiczynski, was awarded a judgment of divorce from tbe plaintiff, Henry Zywiczynski, on ber cross-petition,' and also awarded the exclusive right to occupy the premises owned jointly by the parties and in which they had previously resided, so long as she desired to reside therein, and during such occupancy pay all taxes and assessments and “keep said property in good condition of repair and pay for said repairs. ’ ’
+It was adjudged further that if the defendant desired to sell her undivided one-half interest in the reál estate she should first obtain the approval of the court that the price was fair and reasonable. Upon such sale being made, the net proceeds were to be divided equally between the parties.
+In the years following, motions to modify and show cause were considered by the trial court from time to time, and'on December 5, 1946, the defendant filed a motion for an order requiring plaintiff to pay one-half of the cost of a new furnace or, in lieu thereof, an order authorizing the deduction of such amount from plaintiff’s share of the proceeds upon, any sale of the property. In the motion, it was alleged that the furnace then in the residence property was old and beyond repair and that a new furnace constitutes .a capital improvement.
+On June 9, 1947, the trial court granted defendant’s motion and adjudged that plaintiff be required to pay one-half of the cost of a new furnace, to wit, $205.50, and that if he fails or refuses so to do, the defendant, her heirs or assigns, upon sale of the property, were to have “a credit of $205.50 in addition to defendant’s undivided half interest in said property. ’ ’
+From the judgment of the trial court, plaintiff has appealed to this court on questions of law.
+We will first consider the contention of defendant that the order appealed from is not a final order. Section 12223-2, G-eneral Code, provides that
+“* * * an order affecting a substantial right made in • a special proceeding * * * is a final order which may be reviewed, affirmed, modified or reversed ® * A”
+The appeal herein is taken from an order made in a special proceeding, which order directly affects the undivided one-half interest and legal right of plaintiff in the real estate jointly owned by the parties. This legal right so affected by the judgment appealed from is substantial and it appears that the contention of the defendant, therefore, is not well taken. Armstrong, Recr., v. Herancourt Brewing Co., 53 Ohio St., 467, 42 N. E., 425; In re Guardianship of Moyer, a Minor, 68 Ohio App., 319, 40 N. E. (2d), 695.
+Plaintiff seeks a reversal of the judgment of the trial court on two grounds: First, that the trial court did not have jurisdiction to enter the judgment, and, second, that the installation of a new furnace to take the place of the old is the exclusive obligation of defendant, which duty is imposed on her as incident to her occupancy of the premises as a residence.
+The question of jurisdiction appears to be answered by the terms of the judgment entry itself. The defendant is granted the exclusive occupancy of the residence property as long as she desires, with the obligation to “keep said property in good condition of repair and pay for said repairs, ’ ’ and also the ‘further duty to obtain approval of the court as to the selling price in event she desires to sell the property. Furthermore, the cause is expressly continued as. to alimony. Thus the court has retained not only jurisdiction of the subject matter, but also of the parties.
+The remaining question is not free from difficulty. Defendant contends that the installation of a new furnace is a capital improvement and relies chiefly on certain decisions of the Board of Tax Appeals. However, the rule in tax cases is not necessarily controlling in ascertaining or determining the obligation resting on defendant' in the instant case. Broadly speaking, the obligations of the defendant in respect to the care and preservation of the property are analogous to those of a tenant for life, circumscribed in the instant case by the provisions of the original judgment entry.
+Generally, it is the duty of the life tenant to make-such repairs as are necessary to preserve the property, prevent waste and where there is deterioration or decay, to restore the property to its original condition. We call attention to the following statement of the rule in 16 Ohio Jurisprudence, 437, Section 51:
+“The tenant for life is entitled to the full use and enjoyment of the property, the only restriction upon this use being that the estate of those who are to follow him in possession shall not be permanently diminished in value by his neglecting to do that which an ordinarily prudent person would do in the preservation of his own property, or by doing those things which are no.t necessary to the full enjoyment of the particular estate, and which have the effect permanently to diminish the value of the future., estate. ”
+The cases generally indicate that the term “repairs” and the term “improvements” are not capable of exact definition but in the application of these terms it appears that the former relates to the preservation of the property in its original condition, while the latter is applied where permanent changes are made enhancing the value of the premises. See annotation, 128 A. L. R., 199 and following pages.
+It may be inferred from the record before us that at the time defendant came into the exclusive possession of the premises, a decade or more ago, the dwelling house contained a furnace and that it was in reasonably good condition; also, that by reason of the subsequent use by defendant for the purpose of furnishing necessary heat for the residence occupied by her, it became defective and worn, and finally had to be replaced.
+We call attention to the American Law Institute’s Restatement of Property, 457, Section 139, Estates for Life, and the “criterion of preservation” on page 459, part of which we quote as follows:
+“c. Criterion, of preservation. Whether a specific repair or act of preservation is comprehended within the duty ‘to preserve the land and structures in a reasonable state of repair’ is a question of fact dependent upon the circumstances of each case. A repair or act of preservation is clearly within such duty whenever such repair or act is necessary to prevent a progressive deterioration of the land or structures or whenever the condition existing as a result of the failure to make such repair will amount to substantial deterioration of the land or structures from the condition in which such land and structures were at the time of the commencement of the estate for life. A repair necessary to make good ordinary wear and tear is not within this duty unless such repair is also within one of the two groups described in the next preceding sentence. * * *”
+The requirement that the defendant “keep said property in good condition of repair” is broader and more inclusive than the duty merely to make repairs. The former is related to the premises as a whole for use as a place of residence. The latter is more restrictive and relates to some condition of the property in particular which has become defective from use and which is restored to the condition in'which it originally existed or approximately so.
+“Good condition of repair” connotes that the tenant shall make such repairs and replacements from time to time as are reasonably necessary, in order to keep the property as a whole in a tenantable condition, and substantially in the condition it was in at the beginning of the tenancy.
+We conclude that by virtue of the duty resting on defendant to protect and preserve the legal interest of plaintiff in the property during the period of its oecupáncy by her, and by virtue of the provisions of the original judgment of the trial court, expressly imputing to the defendant the duty to keep the property in good condition of repair, as a condition of her use and occupancy, there is imposed on her the obligation to replace the worn-out furnace by another one and pay the cost of same.
+Judgment reversed.
+Carpenter, J., concurs.
+Stuart, J., not participating.
