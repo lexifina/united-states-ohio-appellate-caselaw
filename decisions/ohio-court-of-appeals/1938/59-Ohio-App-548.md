@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1938-09-21"
+citations: ["59 Ohio App. 548"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnes, P. J., and Hornbeck, J., eoncur."]
+parties: ["Horlocker, Admr., Appellee, v. Saunders et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/59/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1356856
+cites_cases: ["12 N. E., 321", "132 Ohio St., 21", "132 Ohio St., 322", "154 N. E., 163", "22 Ohio App., 295", "3 N. E., 532", "43 Ohio St., 462", "45 Ohio St., 108", "54 Am. Rep., 819"]
+---
+
+# Horlocker v. Saunders
+
+## Majority (Geiger, J.)
+
+Geiger, J.
+This cause had its inception in a petition against the defendants brought by the administrator of the estate of S. J. Moloney, deceased, wherein it was sought to recover from the defendants, Parker S. Saunders, and Laura Saunders, his wife, certain securities formerly belonging to S. J. Moloney, which plaintiff claimed as administrator of his estate, but which defendants asserted had been given to Laura Saunders by the decedent prior to his death as a gift causa mortis. In the trial a jury was waived and the court determined the issues in favor of the plaintiff and ordered the property delivered to the administrator.
+The matter to be determined by this court is whether the circumstances surrounding the alleged transaction and the action of the decedent constituted a valid gift causa mortis. Was this gift consummated before his death? The securities spoken of were in the lock box in the name of the decedent at the Huntington National Bank. On Tuesday morning- before his death, a Mr. Hennick, an old friend of many years standing, was present at the house as a solicitous and interested caller. The decedent then was suffering from his illness but was of sound mind. At that time the decedent expressed a wish that Mr. Saunders and Mr. Hennick go to the bank and get the securities'. He did not say why he wanted them.
+It will serve no good purpose to go into extensive analysis of the law touching gifts, inter vivos and causa mortis, but we may state briefly a few principles. To constitute a gift causa mortis the thing given must have been the donor’s, given when he is in peril of death or under apprehension of death from an existing malady, and possession must be delivered to the donee or some one for his use with intention to vest title. As to gifts causa mortis and inter vivos, there is no difference in-the character of the delivery, and an attempted gift which does not vest the donee with present title is ineffectual in either event. An essential element is that the title shall immediately vest in the donee. The policy of our law does not favor gifts causa mortis. As an essential to a valid gift the delivery of the subject-matter must occur with the relinquishment of ownership by the donor.
+The articles in question in this case, being corporate stock, may be subject to gifts without assignment or endorsement, but to make effective gifts of such objects there must be an intention to give and delivery. To support such a gift clear and convincing evidence is required. Acceptance by the donee of a gift will be presumed and this presumption prevails where the gift is delivered to a third person. A completed gift' is created where the evidence shows delivery of the property to a third person under circumstances manifesting an intention to vest immediate title in the donee and relinquishment of all control over the property.
+“Where a delivery is thus made to a third person the question whether the gift was thereby completed without actual delivery to the donee depends entirely upon whether the person to whom the property is delivered receives it as the donors’ agent or as trustee for the donee. And this is to be determined from the intention of the donor. * * 28 Corpus Juris, 639, Section 30, quoted in Streeper, Admr., v. Myers, 132 Ohio St., 322, at 326, 7 N. E. (2d), 554.
+The expression, “if anything happens to me,” used by donors has generally been interpreted as synonymous with “upon my death.”
+Sustaining these principles, see Gano v. Fisk, 43 Ohio St., 462, 3 N. E., 532, 54 Am. Rep., 819; Flanders v. Blandy, 45 Ohio St., 108, 12 N. E., 321; Van Pelt, Exr., v. King, 22 Ohio App., 295, 154 N. E., 163; Bolles v. Toledo Trust Co., 132 Ohio St., 21, 4 N. E. (2d), 917; Streeper, Admr., v. Myers, 132 Ohio St., 322, 7 N. E. (2d), 554; and the unreported case of Myers v. Streeper, opinion by Barnes, P. J., of this court, 1936, p. 454. This latter citation is the original opinion of the case reported in 132 Ohio St., 322, supra, and is a much more thoroughly considered opinion than that of the Supreme Court.
+As always, in cases such as this, the difficulty arises on the application of the facts to the legal principle. In the case at bar, the decedent, in sending his friend Saunders to the bank to obtain the securities, did not constitute him the agent of the donee, but made him his own agent. The fact that Mr. Saunders did not return the securities to Mr. Moloney, probably due to his extreme sickness, did not constitute Mr. Saunders the agent of his wife or trustee for her. Mr. Moloney still retained his dominion over the securities even though he delivered the key to Mr. Saunders with instructions to obtain the contents of the box. His statement to Mrs. Saunders, the donee, “Now, I want you to have Parker go over to the lock box and get the contents; if anything happens to me you are to have the contents of the box,” does not support the claim that Mr. Moloney thereby relinquished control over the securities and placed them in the possession of Mr. Saunders as trustee for his' wife, and is not in our judgment sufficient to support a gift causa mortis. It is unfortunate that Mr. Moloney did not carry out his evident intention of making Mrs. Saunders an object of his bounty by preparing a will to that effect. But we, as a court, can not do that which Mr. Moloney himself failed to do merely because it seems to be a happy solution to the distribution of his estate.
+The judgment of the court below will be affirmed.
+Judgment affirmed.
+Barnes, P. J., and Hornbeck, J., eoncur.
