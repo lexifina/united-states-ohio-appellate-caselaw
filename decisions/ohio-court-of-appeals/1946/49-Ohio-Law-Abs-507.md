@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3125"
+decided: "1946-10-09"
+citations: ["49 Ohio Law Abs. 507"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["NICHOLS, PJ, and CARTER, J, concur."]
+parties: ["ESPOSITO, Plaintiff-Appellee, v STAMBAUGH AUDITORIUM ASSN., INC., Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/49/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741380
+cites_cases: ["102 Oh St 271", "139 Oh St 194"]
+---
+
+# Esposito v. Stambaugh Auditorium Ass'n
+
+## Majority (By PHILLIPS, J.)
+
+OPINION
+By PHILLIPS, J.
+Defendant appeals on questions of law from a judgment of the court of common pleas overruling its motion for. judgment in its favor notwithstanding the verdict of the jury returned against it in plaintiff’s action to recover for personal injuries, which verdict the trial judge set aside on the ground of inadequacy.
+Defendant, The Henry H. Stambaugh Auditorium Association, Inc., is a non-profit corporation “formed for the purpose of establishing and maintaining an auditorium for exhibitions, conventions, public gatherings and recreational, charitable and educational activities, including amusements and lectures or courses of lectures upon science, music, art, philosophy, natural history, and subjects of general interest; and when necessary or convenient for the above named purpose, of acquiring by purchase, gift, devise or otherwise, lands and other real property, of constructing and maintaining buildings thereon and disposing of the same, of changing the site thereof, and of transferring its real and personal assets to the City of Youngstown at the discretion of said corporation’s Board of Trustees; of receiving and disposing of gifts and bequests of money and objects of scientific, educational, historical, artistic or natural cultural value; and of the doing of all things necessary or incident to the above named purpose, the same to be for the benefit of the people of the Mahoning Valley.”
+On March 11, 1945, the essential facilities of such auditorium building were rented to a private individual for a hillbilly show performance. Between 4:00 and 4:30 P. M. on that date an attendant employee of defendant directed plaintiff, who had paid the required admission fee to lessee and presented herself for admission, to go to a rear entrance to avoid the congestion between shows, where in turn a ticket collector, an employee of defendant, stationed there directed her to go elsewhere, which necessitated her descending a three step stairway which led to the ballroom dance floor. While in the act of descending that stairway, which she testified upon deposition she didn’t see but upon trial said she saw before she fell, plaintiff stumbled and fell on the top step “in the nosing,” of which there was a break about three inches long, fracturing her arm, allegedly because such stairway was not equipped with handrails or with non-slip treads as required by the provisions of §§1006 and 12600-21 GC, was obstructed and indae-quately lighted in violation of the provisions of §§12600-22 and 12600-35 GC, and because defendant failed to select or retain employees “to properly direct her to her seat,” and failed to exercise due care and to “remedy such defects.”
+Defendants contends that - “The Stambaugh Auditorium Association is a charitable institution”; that “the plaintiff at the time of her injury was a beneficiary of its objects and purposes”; and that “under the established law of Ohio a charitable institution is not liable in tort to a beneficiary of its objects.”
+“in our opinion there is not sufficient evidence to present a question for the determination of the jury as to whether defendant failed to exercise due care in the selection and retention of employees to properly direct or assist her to her seat, or that she was a visitor or invitee. On the contrary, there is evidence that satisfies us that at the time plaintiff was injured she was a beneficiary of the objects and purposes of defendant corporation and not a visitor or invitee.
+This conclusion brings us forthwith to a consideration of defendant’s other stated contentions. In the case of Palmer v Oiler, 102 Oh St 271, the supreme court defined a charitable institution and said “whatever is given for the love of God, or the love of your neighbor, in the catholic and universal sense, -given from these motives and to these ends, free from the stain or taint of every consideration that is personal, private or selfish” is a charitable gift.
+There is evidence that the Stambaugh Auditorium was erected “for the benefit of all of the people of the Mahoning Valley” regardless of race, creed or color, and is not a profit seeking organization; that plaintiff was a resident of the Ma-honing Valley when injured; that such auditorium is rented upon request for a consideration to various individuals and organizations who use it for the purpose of private gain, and that such considerations are used to maintain and operate it and employ help essential for that purpose, and if required by the terms of the rental lease to furnish ushers and doormen; that it has never made a profit, and upon occasion deficiencies in operating expenses have been contributed by members of the family of the donor, the late Hénry H. Stambaugh.
+Now plaintiff contends, and we agree, that “the immunity of eleemosynary institutions for liability for tort is not absolute under Ohio law but limited or qualified.
+“A charitable or eleemosynary institution is not liable for tortious injury except (1) when the injured person is not a beneficiary of the institution, and (2) when a beneficiary suffers harm as a result of failure on the part of the authorities of the institution to exercise due care in the selection or retention of an employee.” Cullen v Schmit, 139 Oh St 194.
+However, in this case we cannot agree with counsel for plaintiff that the fact that a charge was made for the use of the auditorium for purposes of private gain rendered the defendant a non-charitable institution.
+“Every charitable institution must have support — money either from the state, from gifts, or from its own earnings, or from all three. An institution supported exclusively from its own earnings may be a public charity, and it’s moneys, credits and its property exempt from taxation.” 7 O. Jur. p. 114, Sec. 3.
+“A church is not engaged in a commercial enterprise and does not lose its character as a charitable institution when, following and in connection with a religious service, it offers religious articles for sale and uses any difference between the cost and sale price thereof for religious purposes.” Cullen v Schmit, supra.
+Applying the law applicable to the facts of this case thereto we conclude that the Henry H. Stambaugh Auditorium Association, Inc., is a charitable institution of which objects and purposes plaintiff was a beneficiary at the time she was injured, and that in this case it was not liable in tort to the plaintiff, and accordingly the trial judge should have sustained defendant’s motion for judgment in its favor notwithstanding the verdict of the jury against it.
+Coming now to enter the judgment which the judge of the court of common pleas should have rendered upon the evidence, such motion is sustained and final judgment is entered for the defendant.
+NICHOLS, PJ, and CARTER, J, concur.
