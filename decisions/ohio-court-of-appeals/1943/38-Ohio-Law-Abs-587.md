@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "18936"
+decided: "1943-02-01"
+citations: ["38 Ohio Law Abs. 587"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LIEGHLEY, P.J., and SKEEL, J., concur."]
+parties: ["DEIBEL, Plaintiff-Appellant v KREISS, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/38/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716600
+cites_cases: ["21 Oh St, 485", "92 Oh St, 287", "96 Oh St 19"]
+---
+
+# Deibel v. Kreiss
+
+## Majority (By MORGAN, J.)
+
+OPINION
+By MORGAN, J.
+The plaintiff brought this action against the defendant in the Municipal Court of Cleveland. In his petition he alleged that he entered into a written agreement with the defendant, by which the plantiff.' as attorney at lav/ agreed to file an action to contest the will of the defendant’s mother, Mary Kreiss, deceased, and that he was ’go receive as a fee “a sum of money representing twenty-five per cent of the recovery made” for the defendant. In the event the will would not be set aside no fee was to be paid. The agreement continued:
+“and for the same consideration the second party hereby assigns to the first party a twenty-five percent undivided interest in his said cause of action or actions and in the recovery that may be made and first party shall have an equitable lien of said twenty-five percent thereon to secure said fee.”
+Plaintiff further alleged that by his'efforts the will was set aside in the action brought for that purpose; that it was agreed by the parties that on the basis of all the assets of the estate, as then known to exist, plaintiff’s fee should be $750.00 which was paid. That since that time additional assets of the estate of Mary Kreiss have been discovered of the value of $4646.80 and that under his agreement the plaintiff is entitled to twenty-five percent of said amount, or $1161.70 for which he asks judgment with interest.
+Defendant filed his answer admitting the contract of employment but denying that the plaintiff is entitled to any additional fee and he alleges that the payment of $750.00 was “in full accord and satisfaction” of any claim by the plaintiff for fees under the said agreement.
+The defendant was the only child and heir of his mother, Mary Kreiss, who died leaving a will giving the defendant no part of her estate. This v/ill was set aside in the action in which the defendant was represented by the plaintiff.
+The estate of Mary Kreiss as inventoried consisted of real estate valued by the appraisers at $3500.00 and deposits in two banks. After the payment of all debts and court costs the amount of cash remaining was $608.10. Defendant claimed that the real estate was valued too high in the inventory and plaintiff and defendant agreed to value the real estate at $3000.00 as a basis for determining plaintiff’s fee under his contract. On the basis of 25 Vó of the assets the plaintiff would have been entitled to receive a fee of $902.10. Defendant testified that the plaintiff made an “allowance on his fee and settled for $750.00.” The plaintiff’s evidence was to the same effect.
+Before the trial of the will case, the defendant told the plaintiff that he believed that his mother had a deposit at a third institution, The West Side Savings & Loan Association, which was not included in the inventory of her estate. The plaintiff then consulted with Mr. Mach who was then acting as attorney for the executor of the estate and advised Mr. Mach that the defendant believed that his mother when she died had a deposit with the said Association. Mr. Mach replied that “if there was, we would get it.” It is undisputed that Mr. Mach then went to the office of The Savings & Loan Association and inquired of an officer whether Mary Kreiss had a deposit in that institution. Mr. Mach was informed that she had no such deposit. He then wrote a letter to the plaintiff in which he stated that “investigation showed there was no money deposited in The West Side Savings' & Loan Association,” in the name of Mary Kreiss. The plaintiff accepted thé statement as correct and made no further effort to locate such deposit.
+After the will was set aside the defendant was appointed administrator of his mother’s estate, d. b. n. Neither plaintiff nor defendant, at the time, made any further investigation as to the possible existence of other assets. Plaintiff prepared and filed for the administrator his final account which was duly approved and the defendant was discharged, as administrator.
+The defendant not being satisfied with the result of previous investigations, employed Mr. Gunning as attorney and Mr. Gunning and defendant together went to the office of the West Side Savings & Loan Association, made the same inquiry and received the same answer. Mr. Gunning then suggested that possibly the name, Mary Kreiss, was not spelled correctly on the deposit card. This resulted in the discovery of the card in the company’s files showing a deposit of $4646.80 in the name of “Mary Kriess” at an address which was the same as the residence of “Mary Kreiss” the defendant’s mother, when living. It thus became evident that the deposit in fact belonged to defendant’s mother and that the mistake in the spelling of the name was caused by transposing the letters “ei” in the surname “Kreiss.”
+It is not disputed that at the time the parties agreed on the fee of $750.00 to be paid plaintiff for his services, neither had, any knowledge of the deposit in The West Side Savings & Loan Association and both believed that there was no such deposit. Also that the agreement fixing plaintiff’s fee at $750.00 was reached by the plaintiff “throwing off” or making an “allowance” from the amount due him by the terms of the employment contract.
+The question to be decided in this case is not whether the plaintiff would have been bound by an “accord and satisfaction” if no additional assets in the estate had been discovered. Ail of the cases cited by the defendant’s counsel in brief and on argument have borne only on that question. Even if in a proper case it were held that the payment of the $750.00 fee was by way of accord arid satisfaction, it is our opinion that the judgment in this case should be reversed for the reason that an accord and satisfaction, based on the mutual mistake of the parties as to material facts which constituted the basis of the accord, can be rescinded by either party.
+Williston on Contracts, Vol. 5, page 4383:
+“Where a mistake as to the quantity, quality or characteristics of the subject of a bargain is due to a mutual mistake regarding some means or measures which the parties took for fixing the quantity, quality or value of the performance rendered by one party it seems clear that there may be a rescission.”
+See also Pomeroy’s Equity Jurisprudence (5th Ed.) Vol. 3, page 326; Black on Rescission (2nd Ed.) Sec. 132; Boehm v Yanquell et, 15 Cir. Ct., 454.
+The rule that contracts may be avoided or rescinded for mutual mistake applies to cases of accord and satisfaction. See Hamilton County Mutual Fire Insurance Company v Rosenbaum, 34 Oh Ap, 453, first syllabus:
+“Mutual mistake will avoid accord and satisfaction.”
+It is not necessary to bring an action for rescission of the contract before proceeding in an action at law. See Taylor v Brown et, 92 Oh St, 287 at page 298.
+Accordingly, it is not necessary for the plaintiff in this case to make any tender of the amount that he has already received for his fee. Williston on Contracts, Vol. 5, page 4290:
+“And one who attempts to rescind a transaction on the ground of fraud, mistake, or otherwise, is not bound to restore that which he has received by virtue thereof, when in any event he is entitled to retain it as indisputably his own. whatever may be the fate of Ihis effort to rescind the transaction.”
+See also, Miller v Woods, 21 Oh St, 485, syllabus 2; Kelley v Hazzard, 96 Oh St 19, at page 25.
+When the will of Mary Kreiss was set aside, her son, the defendant, became the owner of her deposit in The West Side Savings & Loan Association, subject to plaintiff’s claim, and the assignment to him of a twenty-five per cent interest in the recovery. The recovery of this deposit for plaintiff’s benefit was then complete. That plaintiff did not discover the deposit was not due to any culpable negligence on his part as he had a right to rely on the information which he obtained from the attorney for the executor of the estate before the will was set aside.
+It does not follow, however, that the plaintiff is entitled to recover twenty-five percent of $4640.80 as prayed for in bis petition.
+The evidence discloses that eighty-five percent of this amount is now an insured deposit. The other fifteen percent is in the form of stock of The West Side Savings & Loan Association, having a par value of $10.00 per share. The evidence discloses that the reasonable market value of the stock was and is less than half of its par-value. ¡
+Furthermore, the plaintiff, on the basis of his information as to the value of the estate, consented to accept as his fee less than the twenty-five percent of the recovery provided for in the contract. Whether or not this arrangement involved a modification of the contract of employment, is a matter which we are not called upon to decide.
+It is our opinion that the payment of the $750.00 fee, even if it be held to have been an accord and satisfaction, does not bind the plaintiff, and for the reasons given in this opinion, the judgment is reversed and the cause remanded for a new trial. Exceptions noted.
+LIEGHLEY, P.J., and SKEEL, J., concur.
