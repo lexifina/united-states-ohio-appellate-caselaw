@@ -1,7 +1,7 @@
 ---
 court: "Ohio Court of Appeals"
 decided: "1930-04-14"
-citations: ["40 Ohio App. 557", "11 Ohio Law Abs. 441"]
+citations: ["40 Ohio App. 557"]
 reporter: "ohio-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
