@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "50519"
+decided: "1986-06-30"
+citations: ["33 Ohio App. 3d 220"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jackson, P.J., and Nahra, J., concur."]
+parties: ["Biskupich, Appellant, v. Westbay Manor Nursing Home, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/33/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711230
+cites_cases: ["17 O.O. 3d 267", "19 OBR 261", "19 OBR 85", "19 OBR 90", "19 Ohio App. 3d 19", "19 Ohio App. 3d 25", "19 Ohio St. 3d 100", "20 O.O. 3d 388", "20 OBR 146", "20 Ohio App. 3d 113", "23 OBR 260", "23 Ohio St. 3d 100", "344 N.E. 2d 118", "409 N.E. 2d 253", "423 N.E. 2d 105", "45 Ohio St. 2d 249", "456 N.E. 2d 1262", "482 N.E. 2d 969", "482 N.E. 2d 988", "483 N.E. 2d 150", "484 N.E. 2d 1367", "491 N.E. 2d 1114", "63 Ohio App. 2d 87", "66 Ohio St. 2d 459", "74 O.O. 2d 415", "8 OBR 347", "8 Ohio App. 3d 256"]
+---
+
+# Biskupich v. Westbay Manor Nursing Home
+
+## Majority (Ann McManamon, J.)
+
+Ann McManamon, J.
+Plaintiff, Barbara G. Biskupich (“Biskupich”), appeals from a summary judgment granted in favor of defendant, West-bay Manor Nursing Home (“West-bay”).
+Biskupich sued Westbay for breach of an employment contract. The breach, Biskupich claims, arose when Westbay confronted Biskupich with four written deficiency notices and told her to resign or be fired. All the notices were given at one meeting, three days after Biskupich had administered improper medication to a diabetic patient at Westbay. She had never received any prior notices of deficiency, either oral or written. Biskupich contends that Westbay’s actions violated its duly to terminate her employment for “just cause,” as well as its duty to follow a progressive disciplinary procedure featured in its employee manual.
+Westbay moved for summary judgment, alleging that the only agreement between the parties was an employment-at-will contract, freely terminable by employer or employee. Attached in evidentiary support of the motion was the deposition testimony of Biskupich.
+Biskupich opposed the motion, with portions of the employee manual attached. The trial court granted Westbay’s motion, and Biskupich’s sole assignment of error herein challenges this ruling.
+In determining whether a genuine issue of material fact exists for purposes of our review of the summary judgment in this case, it is necessary to clarify the state of the law with respect to employment contracts.
+There can be no question but that Ohio adheres to the employment-at-will doctrine. Phung v. Waste Management, Inc. (1986), 23 Ohio St. 3d 100, 23 OBR 260, 491 N.E. 2d 1114. That doctrine holds that “either party [employer or employee] * * * may terminate the employment relationship for any reason which is not contrary to law.” Mers v. Dispatch Printing Co. (1985), 19 Ohio St. 3d 100, 103, 19 OBR 261, 263, 483 N.E. 2d 150, 153.
+However, it is axiomatic that, if the parties so choose, they are free to enter into employment contracts which are not at-will, but which provide specific terms regarding, e.g., duration of employment or conditions for discharge. Thus, an employment contract will be presumed to be at-will unless there are “facts and circumstances which indicate that the agreement is for a specific term.” Henkel v. Educational Research Council (1976), 45 Ohio St. 2d 249, 74 O.O. 2d 415, 344 N.E. 2d 118, syllabus.
+Accordingly, the threshold question of fact in any employment contract case is identification of the type of contract contemplated by the parties. If it is at-will, then either party is free to terminate the relationship at any time. If, however, facts and circumstances surrounding the employment relationship suggest that it is other than at-will, the trier of fact must consider “any * * * fact which may illuminate the question * * * in order to determine the agreement’s explicit and implicit terms concerning discharge.” Mers, supra, at paragraph two of the syllabus. Moreover, even where all the elements of a contract are not present, promissory estoppel is available to employees who have relied to their detriment on representations by the employer, when “the employer should have reasonably expected its representation to be relied upon by its employee.” Id. at paragraph three of the syllabus.
+Clearly, the terms and representations in an employee manual are relevant facts properly considered in determining the nature of the agreement between employer and employee, or whether the doctrine of promissory estoppel is applicable. Mers, supra; Jones v. East Center for Community Mental Health, Inc. (1984), 19 Ohio App. 3d 19, 19 OBR 85, 482 N.E. 2d 969; Brown v. Otto C. Epp Memorial Hospital (1984), 19 Ohio App. 3d 25, 19 OBR 90, 482 N.E. 2d 988. Moreover, when the employer is responsible for drafting the contents of an employee manual, its terms will be strictly construed against the employer. Bolling v. Clevepak Corp. (1984), 20 Ohio App. 3d 113, 20 OBR 146, 484 N.E. 2d 1367.
+In this context, we note that in the deposition testimony of Biskupich, she referred to the existence of an employee manual, as well as its progressive disciplinary feature, which guaranteed that termination would follow only after three separate instances of misconduct and three attendant “write-ups.” Construing this language most strongly against Westbay, it follows that Biskupich could reasonably have concluded that her job was secure as long as she avoided three such occurrences. That the employee manual existed raised the genuine issue of whether the employment-at-will presumption had been rebutted. That she was terminated after 'only one instance of misconduct raised the genuine issues of whether the contract, if any, had been breached, or, alternatively, whether promissory estoppel was applicable.
+Nevertheless, Westbay contends that summary judgment was appropriate because Biskupich never properly opposed its motion with evidentiary material. As we have noted, in Biskupich’s response, she simply attached selected portions of the employee manual, without any affidavit certifying that it was a true copy. In pertinent part, Civ. R. 56(C) provides:
+“* * * Summary judgment shall be rendered forthwith if the pleading, depositions, answers to interrogatories, written admissions, affidavits, transcripts of evidence in the pending case, and written stipulations of fact, if any, timely filed in the action, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. No evidence or stipulation may be considered except as stated in this rule. A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom, that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor.* * *”
+Clearly, an uncertified copy of an employee manual is not a form of documentary evidence specified in Civ. R. 56(C).
+The proper procedure for introducing evidentiary matter not specifically authorized by Civ. R. 56(C) is to incorporate it by reference in a properly framed affidavit pursuant to Civ. R. 56(E). See, e.g., State, ex rel. Corrigan, v. Seminatore (1981), 66 Ohio St. 2d 459, 467, 20 O.O. 3d 388, 393, 423 N.E. 2d 105, 111 (“The requirement of Civ. R. 56[E] that sworn or certified copies of all papers referred to in the affidavit be attached is satisfied by attaching the papers to the affidavit, coupled with a statement therein that such copies are true copies and reproductions.”). Moreover, while it is correct that a court, in its discretion, may consider other documents than those specified in Civ. R. 56(C) if there is no objection, Brown v. Insurance Co. (1978), 63 Ohio App. 2d 87, 17 O.O. 3d 267, 409 N.E. 2d 253, there is no requirement that a court do so. Thus, unless there is some indication to the contrary, it will not be presumed that a court considered matters which were prima facie improper simply because the court was free to do so, for this would presume irregularity by the court.
+We nevertheless find that West-bay’s motion was itself insufficient, and the burden of opposing the motion under Civ. R. 56(C) never properly shifted to Biskupich. The reason for this is that the deposition testimony attached to Westbay’s motion raised the genuine issue of whether the parties intended their contractual relationship to be at-will, or whether the progressive disciplinary procedure guaranteed that Biskupich would remain employed as long as she did not engage in three separate instances of misconduct. For example, the following was contained in the deposition:
+“Q. And you have, indicated that only after practical steps toward rehabilitation [had been taken] and if the employee failed he would be terminated?
+“A. Yes, sir.
+“Q. That wasn’t in the contract, was it?
+“A. In the procedure manual, if you did something wrong, didn’t show up for work, it stated after three write-ups you would see these write-ups before you were terminated, you would sign them and be given fair warning.
+“Q. But that wasn’t part of an employment contract? You indicated that the procedural manual was only procedural?
+“A. I would say that the procedural manual also contained rules for the employment, in my mind. * *
+“Q. Did she indicate that you thought you were employed for a continuous term and you could only be terminated according to the terms of the procedural manual?
+“A. I said at the time, do you want to know what I said?
+“Q. Sure.
+“A. I said they couldn’t fire me because they didn’t have just cause and I wasn’t notified of these write-ups at all, and may I say one other thing? << * * *
+“Q. You did get notice why you were fired on the day you were terminated.
+“A. I think they did not follow their procedure manual.
+“Q. Is there a contract between you and the nursing home?
+“Q. I believe the procedural manual is a legal document. That’s to my knowledge, I may be wrong.”
+Accordingly, even though Bisku-pich did not properly bring the employee manual to the court’s attention, the court was aware of its progressive disciplinary procedure by way of the deposition attached to West-bay’s motion. Westbay therefore failed to meet the movant’s burden of showing that there was no genuine issue of material fact and, despite Biskupich’s ineffective response, summary judgment should have been denied. Rodger v. McDonald’s Restaurants of Ohio, Inc. (1982), 8 Ohio App. 3d 256, 8 OBR 347, 456 N.E. 2d 1262.
+Biskupich’s assignment of error is well-taken.
+The judgment of the trial court is reversed and the cause is remanded.
+Judgment reversed and cause remanded.
+Jackson, P.J., and Nahra, J., concur.
+In her reply brief, Biskupich asserts that the court had before it Westbay’s answers to interrogatories propounded by Biskupich. However, the record does not reflect that any answers to interrogatories were “timely filed in the action” pursuant to Civ. R. 56(C).
