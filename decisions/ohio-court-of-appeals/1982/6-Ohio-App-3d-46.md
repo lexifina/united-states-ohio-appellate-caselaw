@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "44026"
+decided: "1982-05-10"
+citations: ["6 Ohio App. 3d 46"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PRYATEL, C.J., and Day, J., concur."]
+parties: ["Ostendorf-Morris Company, Appellant, v. Slyman et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/6/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711264
+cites_cases: ["10 Ohio St. 2d 230", "100 Ohio St. 403", "107 Ohio App. 133", "164 Conn. 75", "178 S.E. 2d 524", "18 Ohio Law Abs. 73", "211 Va. 534", "219 A. 2d 657", "219 S.W. 98", "221 Mo. App. 1056", "296 S.W. 263", "316 A. 2d 759", "39 O.O.2d 366", "41 Ohio Law Abs. 505", "421 Pa. 448", "46 O.O. 63", "54 Ohio St. 2d 279", "567 S.W. 2d 441", "71 Ohio Law Abs. 364", "8 O.O.2d 19", "8 O.O.3d 261", "89 Ohio App. 301"]
+---
+
+# Ostendorf-Morris Co. v. Slyman
+
+## Majority (Markus, J.)
+
+Markus, J.
+Plaintiff-broker appeals from a judgment for defendants-sellers on broker’s claim for a commission on the sale of commercial real estate. Broker asserts that the trial court’s verdict and judgment were against the manifest weight of the evidence. We find that the trial court’s decision is supported by competent, credible evidence, so we affirm.
+The evidence in this non-jury trial shows that the sale property was owned by Mr. and Mrs. Slyman and Mr. Carrino. Mr. Fox, a salesman for plaintiff-broker, first contacted Mr. Slyman to inquire about leasing some real property unrelated to this case. Both Slyman and Fox were highly experienced real estate salesmen. During that first conversation, Fox learned that sellers owned and were planning to develop the real property involved here. Fox then called buyer, one of his then-existing contacts who might be interested in the property.
+Buyer said he was interested, so Fox called Slyman to ask if the property was for sale, because he knew a prospective purchaser. When Slyman said the property could be sold, Fox arranged a luncheon meeting where he introduced buyer to sellers Slyman and Carrino, and they discussed possible terms of sale. Fox also arranged and attended a second meeting at which buyer and sellers discussed the prospective sale.
+During the next several months, buyer and sellers continued their negotiations without any participation by broker, despite Fox’s efforts to stay involved. The sale was ultimately completed approximately seven months after the first meeting between buyer and sellers.
+Broker argues that the evidence shows an implied contract in which sellers agreed to pay broker a commission. The trial court found there was no express or implied contract that broker would act for or on behalf of sellers or would receive any sales commission from the sellers. In so ruling, the trial court evaluated conflicting testimony about the history of the transaction.
+Fox testified that Slyman authorized him to quote a price for the property and agreed to pay him $5,000 per acre as commission, before he introduced seller to buyer. Fox further stated that he advised sellers not to lower their asking price after buyer made an oral offer to purchase at the first meeting.
+Slyman testified that he told Fox the price he wanted for the property, but denied hiring him or ever agreeing to pay him any commission. According to Sly-man, buyer did not make an oral offer at the first meeting, and Fox never gave him advice about the negotiations. Slyman said he thought Fox had been hired by buyer.
+Buyer testified that Fox sought to act as an intermediary between buyer and sellers, because broker expected a commission from sellers if the sale was completed. Buyer also testified that Fox and sellers quibbled over the amount of commission at the second meeting and that $5,000 per acre was mentioned. However, both sellers and Fox denied there was any mention of commissions at the second meeting.
+A real estate broker may recover commissions for the sale of property only by reason of an express or implied contract. Suter v. Farmers Fertilizer Co. (1919), 100 Ohio St. 403; Hoke v. Marcis (1955), 71 Ohio Law Abs. 364. An implied contract may be created when a seller authorizes the broker to produce a buyer under circumstances which should reasonably cause the owper to believe he will be expected to compensate the broker for those services. Weinstein v. Newman (1951), 89 Ohio App. 301 [46 O.O. 63]; Kaufman v. Smith (1934), 18 Ohio Law Abs. 73.
+Broker has the burden of proving that the brokerage employment contract existed. See Suter v. Farmers Fertilizer Co., supra, at 408; Kaufman v. Smith, supra, at 76. A contract is not established by evidence that the broker was the procuring cause of the sale and introduced the buyer to the seller. See Foreman v. Reynolds (1944), 41 Ohio Law Abs. 505; accord Kohn v. Cohn (Mo. App. 1978), 567 S.W. 2d 441, 446; Korzendorfer Realty, Inc. v. Hawkes (1971), 211 Va. 534, 178 S.E. 2d 524, 526. Nor does a broker’s request for information about a seller’s price and seller’s response to that request create an implied employment contract. Tenbusch v. L. K. N. Realty Co. (1958), 107 Ohio App. 133, 139-140 [8 O.O.2d 19],
+The trial court has broad discretion to determine the credibility of witnesses and the weight to be given the evidence. State v. DeHass (1967), 10 Ohio St. 2d 230 [39 O.O.2d 366]. A reviewing court will not reverse a judgment as being against the weight of the evidence when the judgment is supported by some competent, credible evidence concerning all essential elements of the case. C. E. Morris Co. v. Foley Construction Co. (1978), 54 Ohio St. 2d 279 [8 O.O.3d 261].
+Both Slyman and Carrino testified they did not know broker was acting on their behalf and never agreed to hire broker or pay it any commission. That testimony constitutes competent, credible evidence that there was no implied employment contract. Consequently, we cannot say the trial court acted improperly in ruling that broker had failed to demonstrate sellers’ liability. Broker is not entitled to the quantum meruit value of its services, in the absence of an express or implied agreement to pay for those services. See Kaufman v. Smith, supra, at 75-76.
+Slyman and Fox both gave opinion evidence about custom and practice for real estate transactions in this community. Broker offered additional expert testimony that an experienced realtor like Slyman should have known the custom that a seller must pay the broker’s fee. That testimony was not sufficient by itself to establish an implied contract, particularly when it was contradicted by other evidence.
+We agree with the remarks of the Missouri appellate court in Kohn v. Cohn, supra, at 447:
+“Plaintiff’s theory of recovery based on the affidavits of his fellow real estate brokers — to the effect that the custom in the real estate industry in the St. Louis area is that when a real estate broker is ‘involved’ in the sale or lease of property, the vendor is the party responsible for all real estate commissions — is unavailing to him and is dissonant with the prevailing law. A custom which is contrary to established principles of law will not be given recognition. The effect of a custom upon contractual obligations is dependent upon the existence of an actual contract between the parties. A custom is not a substitute for a contract; thus, it may not be invoked to create a contract where none exists. Leonard v. Dougherty, 221 Mo. App. 1056, 296 S.W. 263 (1927); Piper v. Allen, 219 S.W. 98 (Mo. App. 1920). Unless a valid contract is first shown, any evidence relating to custom or usage is immaterial and irrelevant to establish contract liability. 21 Am. Jur. 2d Customs and Usages § 21 (1965). We have previously held that no contract of agency existed between plaintiff and defendant. The evidence of custom cannot counteract this fatal defect.”
+Moreover, both Slyman and the plaintiffs expert witnesses said the buyer sometimes pays the broker’s commission. According to Slyman’s testimony, which the trial court apparently believed, Fox’s conduct indicated he could have well been acting as the buyer’s agent and could well have expected buyer to pay plaintiff-broker for its services. See Foreman v. Reynolds, supra, at 509; see, also, Walsh v. Turlick (1972), 164 Conn. 75, 316 A. 2d 759; In re Coho (1966), 421 Pa. 448, 219 A. 2d 657.
+For the foregoing reasons, the trial court’s findings were supported by sufficient evidence.
+The judgment is affirmed.
+Judgment affirmed.
+PRYATEL, C.J., and Day, J., concur.
+Plaintiff presents the following claimed errors:
+“1. The judgment is not sustained by the evidence and is against the manifest weight of the evidence.
+“2. The judgment is contrary to law.”
