@@ -1,0 +1,74 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3195"
+decided: "1947-11-06"
+citations: ["52 Ohio Law Abs. 97"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CARTER, PJ, NICHOLS, J, concur in judgment."]
+parties: ["DUNLEAVY, Plaintiff-Appellee, v DEFRANGIA, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/52/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1749265
+cites_cases: ["131 Oh St 52", "24 Oh St 133", "4 Ohio 5"]
+---
+
+# Dunleavy v. Defrangia
+
+## Majority (By PHILLIPS, J.)
+
+OPINION
+By PHILLIPS, J.
+Defendant appeals on questions of law from a judgment of the court of common pleas entered upon an unanimous jury verdict for plaintiff, a minor aged 7 years, in his action, brought by his mother as his next friend, to recover damages for personal injuries allegedly sustained as the result of defendant’s negligence in the operation of his automobile in an easterly direction on Rigby Street, about 7:00 o’clock on the night of November 20, 1945, into collision with plaintiff, who was crossing from the northerly to the southerly side of Jackson Street, which intersects Rigby Street at right angles within the corporate limits of the city of Youngstown.
+The parties to. the action are the only eye witnesses as to the time, place and manner in which plaintiff was struck.
+In spite of his youth plaintiff’s testimony that he was crossing from the northerly to the southerly side of Rigby Street in line with an extension of the easterly sidewalk line of Jackson Street, at a time when the traffic light at which he looked before crossing and which he was facing was green, and had reached the southerly half of Rigby Street, when he was struck by a black car traveling east on Rigby Street, which did not stop in obedience to the traffic signal, and which dragged him, was unshaken and apparently believed by the jury.
+Defendant, aged forty-seven years, testified that the brakes of his automobile were in good condition, and his bright lights which he was using were adjusted to shine “straight ahead”; that he stopped at the intersection of Rigby and Jackson Streets in obedience to a traffic signal; that at the time he struck plaintiff he was driving “an average of twelve to fifteen miles an hour” in an easterly direction on Rigby Street, about three or four feet from the southerly curb thereof; that at the speed he was driving and under the conditions existing on a dry highway at the time he struck plaintiff, whom he did not see until “the very instant” his car struck him, and whose head he thought was a football “out there”, his automobile could be stopped within a distance of ten or twelve feet; that he applied his brakes immediately upon seeing plaintiff, who at that time was “about seventy-five feet” east of the extension of the easterly sidewalk line of Jackson Street; that after striking plaintiff his car skidded “some ten or fifteen feet”, “something like that”; that plaintiff’s body was wedged under the left front wheel of his car, and two Jackson Street pedestrians, whose names he did not ascertain, assisted him in lifting plaintiff from the highway and laying him on the park strip on the southerly side of Rigby Street.
+“Big heavy marks” situated about nine or ten feet north of the south curb line of Rigby Street, extending ten or twelve feet in an easterly direction from the extension of the easterly sidewalk line of Jackson Street as testified to by a police officer, support plaintiff’s testimony that he was struck on the extension of the easterly line of the easterly sidewalk of Jackson Street and that he was “dragged”.
+The trial judge permitted plaintiff’s mother to testify on redirect examination over defendant’s objection as follows:—
+“Q. Had you ever, Mrs. Young, talked with Dan about crossing the street there, with the traffic light?
+“A. Yes sir.
+“Mr. Carlyle: I object, if the Court, please.
+“The Court: Merely the fact that she had talked to him.
+“Mr. Nicholson: That is all.
+“Q. Had you gone to the intersection there, on a number of occasions, with him?
+“A. Many times.
+“Q. And, on those occasions, did you have any talk with Dan about crossing the street?
+“Mr. Carlyle: I object, if the Court, please.
+“Mr. Nicholson: I am only asking whether she did.
+“The Court: Merely the fact, yes or no.
+“A. Yes.
+“Mr. Nicholson: That is all.”
+Counsel for defendant contends that by permitting her to thus testify the trial judge “may just as well have permitted! plaintiff’s mother to have testified to what she said to him. The implication was obvious and was intended to dispel any inference that plaintiff was or could be guilty of negligence”, and that by permitting such testimony he erred prejudicially to defendant. Whatever the implication was, or might have been, the fact is that the trial judge by the testimony introduced did not permit plaintiff’s mother to testify to or the substance of any conversation with plaintiff.
+We find no error prejudicial to defendant in this assigned ground of error as urged by his counsel.
+At the request of counsel for plaintiff the. trial judge charged the jury in writing before argument the following propositions of law “separately and not as a series”:—
+“The Court charges the jury as a matter of law in this case that at the time this collision occurred, there was in full force and effect in the state of Ohio as a part of the Uniform Traffic Act, §6307-45 GO, which provides that it shall be the duty of.the operator of any motor vehicle to yield the right of way to pedestrians lawfully crossing the roadway within any crosswalk, which would include cross-walks at any intersecting streets, and if you find from all the evidence in this case that Daniel Dunleavy, at the time of the collision, was lawfully crossing on Jackson Street at this intersection, then it would be the duty of the defendant, in operating his motor vehicle, to yield to him the right of way at said intersection, and in such situation, if the defendant failed to do so, he would be guilty of negligence as a matter oflaw.” (1)
+“(2). The court charges you that it was the duty of the • defendant, Emedio DeFrangia, when operating his motor vehicle one hour after sundown and until one hour before sun-up, to have his motor vehicle equipped in front with two headlights with a distribution of lights directed high enough and of sufficient intensity to reveal persons, vehicles and substantial objects upon the highway at a safe distance in advance of the moving vehicle, and if you find from all the evidence that said vehicle at the time of said collision was not so lighted then such failure on the part of the defendant would be negligence as a matter of law, and if you further find that the failure on the part of the defendant to have the required lights on his vehicle was the proximate cause of this collision, and whatever injuries you find plaintiff sustained, then your verdict should be for the plaintiff.”
+Now defendant’s counsel contends that while the charges as submitted “may be correct in the abstract” nevertheless they are “misleading and confusing”, charge one “for the reason that it presupposes only that the plaintiff was crossing at a crosswalk and would be applicable then, and only then. Assuming, as we think the greater weight of the evidence shows, that plaintiff was not • crossing at the crosswalk the charge is objectionable and misleading”; number two because “it does not take, into consideration the fact that the law, as given therein, is not applicable if the plaintiff suddenly moved into the path of defendant’s automobile”;' and both charges because “coupled with the court’s general charge was so ambiguous as to confuse rather than enlighten the jury”.
+Charge No. 1 is based upon §6307-45 GC, and was material and applicable to this case only in the event the jury found from all the evidence that at the time plaintiff was struck he was crossing Jackson Street when he had a lawful right to.cross it.
+It is observed that in response to the request of defendant’s counsel the trial judge charged the provisions of §6307-48 GC, which fully covered the law applicable to plaintiff’s conduct, if the jury found he was crossing at a place other than the intersection or where he could lawfully cross. Neither charge No. 1 nor No. 2 are abstract. On the contrary in our opinion both are plain, distinct and unambiguous statements of the law founded upon and applicable to the case made before the jury by the pleadings and the evidence.
+In his general charge to the jury the trial judge said:—
+“We do not drive motor vehicles on public streets because of any inherent right we have to do so, although sometimes you have people act as though they have that sort of right.”
+Now counsel for defendant contends that “the implication seems to be that the court was incensed, and, of course, that impression was conveyed to the jury, creating a prejudice in the minds of the jury against the defendant who was at the time the accident occurred the operator of a motor vehicle. Furthermore, we think the right of every person to use a public highway is inherent.”
+There is nothing in the bill of exceptions submitted to us indicating “that the court was incensed”, nor if he was that any impression he had favorable or unfavorable to either party was conveyed to the' jury.
+Counsel for’ defendant also claim that the trial judge erred to his prejudice by charging the jury in his general charge that:—
+“If you do not find by that degree of proof that the plaintiff himself was contributorily negligent, and such failure a proximate cause of his injury, and have found that the defendant was negligent by the proper degree of proof, and such negligence the proximate cause of plaintiff’s injury, the plaintiff can recover.”
+The particular indictment of the trial judge with reference to this phase of his charge is that “throughout the entire charge the trial court emphasized over and over again the duty that the law cast upon the defendant in the operation of his automobile and in connection therewith used the word ‘negligence’, but when charging upon plaintiff’s contributory negligence the word ‘failure’ was substituted”.
+We have read the general charge of the court carefully and in its entirety and observe that the trial judge used the language of which complaint is made interchangeably with reference to both parties and charged fully, fairly, and we believe correctly upon the issue of. contributory negligence.
+It is our opinion that substantial justice has been done between the parties in this case and even though the trial judge erred in his general charge to the jury in the respects-charged, under our conclusion we would not reverse the judgment of the trial court.
+Further, it is observed that the trial judge granted the suggestion of defendant’s counsel for amplification of his charge and <at the conclusion thereof in response to the question of the trial judge “is that all” responded “that is all” indicating his satisfaction with the general charge as then given.
+We can not conclude, as counsel for defendant urges we should, that the verdict of the jury is against the manifest weight of the evidence properly submitted to the jury briefly outlined herein.
+In support of his motion for a new trial defendant offered the affidavit of Frank MacPhee who stated inter alia therein that:—
+“* * * he saw the Defendant, Emedio DeFrangiá, drive past on Rigby Street proceeding from west to east at about ten to fifteen miles per hour.
+“* » * that he observed the Defendant stop at the- intersection as he had the red light.
+“* * * that he observed the Defendant start across the intersection with the green light.
+“* * * that he did not see the collision involving the Plaintiff and the Defendant’s car, but that he became immediately aware of the happening of the collision, and that he proceeded to the scene of the accident and observed that the Plaintiff had come into collision with Defendant’s car at a point approximately fifty (50) feet east of the intersection and on the Defendant’s or the south half of Rigby Street.
+“* * * that he learned of the result of the trial herein, and it was not until after the trial that he contacted the Defendant for the first time and informed the Defendant that he had been a witness to the accident.”
+In defendant’s affidavit likewise offered in support of his motion for a new trial he stated inter alia “that since the trial of said cause he, for the first time, discovered an eye witness to the happening of said accident”, and that in the event of a new trial that witness (Frank MacPhee) will “Corroborate” him in his testimony in respects not necessary to state herein.
+It is the claim of defendant’s counsel as urged in this assigned ground of error that “the court erred in overruling defendant’s motion for a new trial on the ground of newly discovered evidence.”
+From the affidavit of would-be witness MacPhee we can not conclude that his testimony would be such as to probably change the result if a new trial were granted; and while it is material to the issues in our opinion it merely impeaches, contradicts and is cumulative to the other evidence offered upon trial; and while defendant states by affidavit that such witness and the testimony he would give upon retrial was discovered since trial we are of opinion that in the exercise of due diligence defendant could have discovered this witness and ascertained to what he would testify before trial. See §11576 GC, subdivision 7; Ludlows Heirs v Park, 4 Ohio 5; 30 O. Jur., New Trial, Section 43, Page 73; Railroad v Long, 24 Oh St 133; Sheen v Kubiac, 131 Oh St 52.
+While MacPhee’s “testimony might have induced a different verdict, we fail to see why with the same diligence that unearthed” witness MacPhee after the trial, or the rendition of an adverse verdict, the witness could not have been found in time for trial. See Traction Co. v Kelly, 5 Ohio Nisi Prius (n. s.) 444.
+It is apparent to us that if defendant had used any diligence while in the vicinity of the place where and at the time when his automobile struck plaintiff he would have known about and could have ascertained the name of witness MacPhee and to what he would testify if he was there as well as the names of the pedestrian witnesses on Jackson Street, whom he testified assisted him in taking plaintiff “from under” the left front wheel of his automobile.
+Obviously in our opinion the trial judge did not err tc defendant’s prejudice in overruling his motion for a new trial on the ground of newly discovered evidence nor on any of the other grounds assigned by counsel for defendant orally or by brief.
+The judgment of the court of common pleas is affirmed.
+CARTER, PJ, NICHOLS, J, concur in judgment.
