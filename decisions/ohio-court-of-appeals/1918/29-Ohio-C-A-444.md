@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1918-10-10"
+citations: ["29 Ohio C.A. 444"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Powell, J., and Shields, J., concur."]
+parties: ["State of Ohio, ex rel Henry C. Keller, v. Board of Education of the Licking County School District."]
+source_url: "https://static.case.law/ohio-ca/29/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1609411
+---
+
+# State ex rel. Keller v. Board of Education
+
+## Majority (I-Iouck, J.)
+
+I-Iouck, J.
+This is a proceeding in error, and is here from the common pleas court of Licking county. The suit is one in mandamus, in which the plaintiff in error here was the relator below. In the lower court trial was had, and the petition of the relator was dismissed. The pleadings, admissions and proof disclose the following facts: That the board of education of the Licking county school district has capacity to sue and be sued under the laws of Ohio; that Henry O. Keller is a citizen of Licking county, Ohio, residing in Eden township, and is the father of three children, of the ages of eight, ten and thirteen years, and that they live with him; that his residence is more than two and one-half miles from the nearest school house in said Eden township school district; that said children are all below the high school grade; that there is a school in the Mary Ann township school district nearer to the residence of the said Henry C. Keller than the nearest school in the Eden township school district, where he resides, namely, what is known as the Rocky Fork school, and that said children are now attending that school, which is more than two miles from the residence of said Keller; that the relator, on the 20|th day of December, 1915, made a demand on the board of education of the Eden township school district to transport his children to and from said Rocky Fork school, which it refused, and has neglected and failed to do; that on the-day of August, 1917, the relator, in writing, made a demand on the board of education of the Licking county school district to provide transportation for said children to and from said Rocky Fork school, which it refused, and has failed and neglected to do.
+Under these facts and the law, was the relator entitled to a writ of mandamus against the board of education of the Licking county school district, compelling it to transport the children of said Keller to and from said Rocky Fork school? If this inquiry is answered in the affirmative, then the judgment below must be reversed, otherwise affirmed.
+Counsel for the plaintiff in error urge, in their written brief and in oral argument, that under Sections 7735, General Code, and 7731, General Code (107 Ohio Laws, p. 625), that the relator is entitled to the relief sought in his petition.
+The first section reads:
+“When pupiis live more than one and one-half miles from the school to which they are assigned in the district in which they - reside, they may attend a nearer school in the same district, or if there be none nearer therein, then the nearest school in another school, district, in all grades below the high school, in which eases the board of education of the district in which they reside must pay the. tuition of such pupils, without an -agreement to that effect”. * * *
+A careful reading of the language thus used fully convinces us that the provisions of this section of our school law have no application to the conceded facts in the case now under review. The purpose and intention of our Legislature in enacting the above statute is clear and manifest from the language employed, namely: “When pupils live more than one and- one-half miles from the school to which they are assigned in the district in which they reside,” etc.
+In such cases the board of education must pay the tuition. In the present ease the children reside more than one and one-half miles from a school in the Eden township school district, the one in which they reside.' Therefore, if Rocky Fork school is the nearest to them, they are at liberty to attend that school, and their tuition must be paid by the Eden township school district to the Mary Ann township school district.
+This section of the’statute makes no reference to the subject of transportation of pupils, and has, as we view it, no application to the facts in the instant case.
+The rule is well known that courts have no function of legislation. They can not supply or take from the language used in an act of the Legislature, and thereby change the plain meaning of the language contained therein, and by so doing read something into the law which was not intended. The Legislature must be understood to mean and intend what it has plainly expressed in the language used, and the intent to be ascertained and enforced is the intent expressed in the words of the statute.
+The relator further relied upon the provisions of Section 7731, General Code, which reads:
+“In all rural and village school districts where pupils live more than two miles from the nearest school the board of education shall provide transportation for such pupils to and from such school. The transportation for pupils living less than two miles from the school house by the nearest practicable route for travel accessible to such pupils shall be optional with the board of education. When transportation of pupils is provided the conveyance must pass within one-half mile of the residence of such pupils or the private entrance thereto. When local boards of education neglect or refuse to provide transportation for pupils, the county board of education shall provide such transportation and the cost thereof shall be charged against the local school district.”
+The provisions of the above section of our school code require boards of education of rural and village school districts to transport pupils residing in such, districts, who live more than two miles from the nearest school, to the nearest school in the district in which they reside. It does not require such boards of education to transport pupils outside of the district in which they live. Therefore, we hold that the provisions of the section of the school code just referred to are not applicable to and have no bearing upon the facts in the case at bar.
+Where a relator seeks a peremptory writ of mandamus, his right to same must.be founded on a clear legal claim, and the natural justice of it must be apparent, and the facts alleged by the relator must be clearly proved, or the writ must be refused. Applying this rule to the ease under review, we find the relator has not made out a ease, under the facts and law, which would entitle him to the relief sought in his petition, and that a peremptory writ in mandamus was properly refused by the common pleas court.
+Judgment affirmed.
+Powell, J., and Shields, J., concur.
