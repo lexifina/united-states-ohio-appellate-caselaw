@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "13085"
+decided: "1987-11-04"
+citations: ["38 Ohio App. 3d 37"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["George and Cacioppo, JJ., concur."]
+parties: ["In re Guardianship of Schumacher."]
+source_url: "https://static.case.law/ohio-app-3d/38/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713110
+cites_cases: ["145 Ohio St. 82", "19 O.O. 506", "2 OBR 104", "2 Ohio App. 3d 92", "30 O.O. 301", "32 Ohio Law Abs. 553", "440 N.E. 2d 1203", "5 Ohio Supp. 16", "60 N.E. 2d 676"]
+---
+
+# In re Guardianship of Schumacher
+
+## Majority (Baird, P.J.)
+
+Baird, P.J.
+This came on before the court upon the appeal from the order of the probate court appointing a guardian for Marian Schumacher. We reverse.
+On September 12, 1986, John Schumacher made application for the appointment of a guardian for his mother, Marian Schumacher. Mr. Schumacher alleged that his mother was incompetent due to advanced age and physical and mental infirmity. At that time, eighty-nine-year-old Marian Schumacher was hospitalized following a stroke. Mrs. Schumacher had lived with another son, Lee Schu-macher, for a number of years. Lee Schumacher opposed the appointment. After an investigation by the probate court investigator, the referee found that Marian Schumacher properly had been served with notice and that the probate court had jurisdiction. The referee found that the five children of Mrs. Schumacher disagreed as to her need for a guardian and that there was antagonism and distrust in the family. The referee found that the doctor’s statement accompanying the application indicated that Mrs. Schumacher was in need of a guardian. The referee concluded that appointment of a guardian was necessary due to the mental incapacity of Mrs. Schumacher. Marian Schumacher filed objections to the referee’s report, particularly to the existence of a doctor’s statement allegedly filed with the application.
+On February 5, 1987, the case came on for hearing in the probate court. Marian Schumacher maintained that there was no evidence upon which the referee could have found incompetence. On February 6, 1987, one day after the hearing, the court, sua sponte, and without notice, subpoenaed the medical records from Mrs. Schu-macher’s hospitalization. On February 25, 1987, the court affirmed the referee’s report and appointed a guardian of the person and estate of Mrs. Schu-macher. Mrs. Schumacher appeals.
+Assignment of Error I
+“The trial court erred when it found that the proposed ward was properly served by personal service.”
+R.C. 2111.04 provides that in the appointment of a guardian of an incompetent, notice shall be served by personal service upon the person for whom appointment is sought. R.C. 2111.04(B)(1). The appellant apparently maintains that the report of the court investigator does not show that she received the application personally. The investigator’s report reads as follows:
+“On September 12, 1986 I personally served a copy of the notice [of] hearing for application for appointment of guardian over Marian Schu-macher. The notice was served at Akron General Medical Center on the 3100 Unit in her room. The son, Dr. Lee Schumacher, was also present during service of the notice.
+((Ht * *
+“During the attempt to serve Marian Schumacher with the notice, Dr. Lee Schumacher, the son, refused [to permit] the investigator to privately talk with the patient. He was very adament [sic] about staying in the room and in fact threatened to call his attorney whom [sic] allegedly advised him that he [had] a right to be there. This investigator suggested calling Referee George Wertz at Probate Court. After this investigator and Dr. Lee Schu-macher spoke with Referee George Wertz, it was determined that the notice would be served while Dr. Schumacher was present as long as he did not interfere with the process.”
+The referee found that personal service had been accomplished. The appellant filed objections to the referee’s report as to the evidentiary matters but did not object to the service. Moreover, at the hearing, the appellant recited that the investigator testified that she had served the appellant; the appellant specifically did not object at that time.
+From the record on appeal, it is clear that Mrs. Schumacher was personally served as is required by statute. Appellant’s first assignment of error is not well-taken.
+Assignment of Error II
+“The court abused its discretion and violated due process when finding it lacked medical evidence to support appointment of a guardian; it, without notice to the proposed ward or others, obtained medical records by subpoena subsequent to the hearing and relied thereon in rendering its decision without providing notice, hearing, or confrontation to the proposed ward.”
+The trial court in its order appointing a guardian stated:
+“The Court, having heard oral arguments, having reviewed the case record, subpoenaed Akron General Medical Center records pertaining to the ward, Marian Schumacher.
+“Upon review of said medical records and a review of the Referee’s Report, the Court hereby affirms the Report of the Referee appointing Joel Aberth Guardian of the Person and Estate of Marian Schumacher. Said affirmation is based upon the finding that the ward is an incompetent person and, by virtue of this incompetentcy [sic], is in need of a Guardian of both the Person and Estate. Said appointment is in the best interest of the ward.”
+It is clear that the court relied upon the evidence it subpoenaed after the hearing in order to affirm the report of the referee. It is undisputed that the appellant received no notice that the court intended to take additional evidence pertaining to Mrs. Schumacher’s competency.
+We must note that the record certified to this court does not contain the doctor’s statement referred to by the referee. Additionally, appellant’s objections to the referee’s report evidence that appellant was not made aware of the doctor’s statement allegedly filed with the court. Accordingly, the only doctor’s analysis directly pertaining to Mrs. Schumacher’s competence is contained in the records subpoenaed by the court.
+It is clear that the court could have appointed a physician to examine Mrs. Schumacher. R.C. 2111.031. The question before us is whether the court can base its determination of incompetency on medical records subpoenaed sua sponte without any notice to the alleged incompetent ward.
+We are mindful of the fact that the appointment of a guardian is not an adversary proceeding. In re Clendenning (1945), 145 Ohio St. 82, 30 O.O. 301, 60 N.E. 2d 676. However, it is a proceeding which binds all the world and is not subject to habeas corpus. Id. The imposition of an involuntary guardianship should be treated as an extremely serious matter as it deprives the proposed ward of his or her rights to any and all but the most meaningless legal or financial decisions. In re Guardianship of Corless (1981), 2 Ohio App. 3d 92, 94, 2 OBR 104, 107, 440 N.E. 2d 1203, 1206. Basic due process considerations require that the alleged incompetent have meaningful notice of the taking of additional evidence. The person making the application for appointment of a guardian has the burden of establishing the fact that a guardian should be appointed. See, generally, 53 Ohio Jurisprudence 3d (1984), Guardian and Ward, Section 48. While the focus of this proceeding is the best interests of the proposed ward, those interests are not served by the consideration of evidence and the determination of incompetency apparently based on that evidence, without any kind of notice to the proposed ward.
+The Court of Appeals for Butler County in In re Guardianship of Corless, supra, has announced minimum procedural requirements to be followed in the appointment of a guardian. While we need not reach the efficacy of those minimum requirements, we find the court’s reasoning instructive:
+“* * * Once a guardian has been appointed, the ward can no longer direct the disposal of his own property, create legal relations, enter contracts, or transact any other business. While he or she may remain physically unconfined, mentally there is almost total confinement. * * *” Id. at 96, 2 OBR at 109, 440 N.E. 2d at 1207.
+The Corless court also required a medical examination of the proposed ward to be conducted by an independent source appointed by the court. While we assume that this is the kind of medical evaluation that the trial court was seeking herein, we cannot approve its method. Where the probate court, in the exercise of its sound discretion, with an appreciation of the consequences of the appointment of a guardian, determines that additional medical evidence is necessary, it should give notice and an opportunity to be heard to the proposed ward. Nothing less can be considered to be the process which is due. Within this broad framework, the court may determine the character and extent of the additional medical evidence, either by required examination, or otherwise. See, generally, In re Joyce (P.C. 1940), 32 Ohio Law Abs. 553, 19 O.O. 506, 5 Ohio Supp. 16.
+Accordingly, the appellant’s second assignment of error is well-taken. The judgment of the trial court is reversed and the cause is remanded for a determination consistent with this opinion.
+Judgment accordingly.
+George and Cacioppo, JJ., concur.
