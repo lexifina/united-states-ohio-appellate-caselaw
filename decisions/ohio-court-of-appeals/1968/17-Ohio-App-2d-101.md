@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9029"
+decided: "1968-12-17"
+citations: ["17 Ohio App. 2d 101"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Teoop, J., concurs."]
+parties: ["Rousculp, Appellee, v. Rousculp, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/17/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708314
+cites_cases: ["143 Ohio St. 105", "201 U. S. 562", "317 U. S. 287", "7 Ohio 238", "76 U. S. 108", "83 Ohio St. 265"]
+---
+
+# Rousculp v. Rousculp
+
+## Majority (Duffey, P. J.)
+
+Duffey, P. J.
+This is an appeal from a judgment of the Common Pleas Court of Franklin County, Division of Domestic Relations, awarding the appellee custody of children, support and property division, and declaring valid a previously rendered decree of divorce granted by a German court.
+Appellant and appellee were married in 1950 and have three children. Appellant has been employed in Germany since 1961. In 1965, appellee left Germany and returned to the United States with the children. In late 1966, appellant filed an action for divorce in a German court. No personal jurisdiction was obtained over appellee by the German court.
+In December 1966, and while the German case was pending, appellee filed an action for divorce in the Common Pleas Court of Franklin County, Division of Domestic Relations. Appellant was then present in Franklin County and was personally served with process. Appellee has fulfilled all residence requirements under Ohio law.
+In May 1967, the German court granted appellant a divorce. In November 1967, the Ohio case came on for hearing. Appellee withdrew her prayer for divorce. The court declared the German divorce valid and recognized the German decree, awarded custody of the children to appellee, ordered support, and granted $3,500 “as alimony * * * in lieu of all property rights.”
+Appellant contends that the parties were validly divorced by the German decree and, therefore, no divorce could be granted in Ohio. See Cooper v. Cooper (1836), 7 Ohio 238 (part II). On this basis appellant contends that alimony, custody and property division could not he granted as ancillary to a divorce. Appellant further contends that an action for alimony only requires proof of one of the specified grounds listed in Section 3105.17, Bevised Code, and such proof must be corroborated as required by Section 3105.11, Bevised Code. On this record, appellant therefore contends that the court lacked authority to enter its order.
+A decree by a court of a sister state or a foreign court having proper personal jurisdiction of both parties should be binding on the parties — and in the case of a sister state must be accorded full faith and credit. See Gilbert v. Gilbert (1911), 83 Ohio St. 265. However, in the present case, it is clear that the German court never obtained personal jurisdiction of appellee.
+In Slapp v. Slapp (1944), 143 Ohio St. 105, the wife filed an action for alimony only in Ohio. While the action was pending, the husband obtained a Nevada divorce without personal jurisdiction of the wife. The court held that if the wife proved the grounds for divorce she could be awarded alimony.
+The present statutes of Ohio reflect the court’s position in Slapp. Section 3105.18, Bevised Code, permits a court to grant alimony “at the time of the decree.” The authority is ancillary to the granting of a divorce under Section 3105.01, Bevised Code, or granting a decree for alimony only under Section 3105.17, Bevised Code.
+Appellee has not established a ground for a decree of alimony only. Six grounds are provided for in paragraphs (A) through (F) of Section 3105.17, Bevised Code. Section 3105.11, Bevised Code, requires that a judgment for divorce or for alimony shall not be granted upon the testimony or admissions of a party unsupported by other evidence. Appellee was the sole witness. The only fact which is corroborated in any way is the fact of the German divorce. The fact that one party has obtained a divorce without personal jurisdiction should, in our opinion, be grounds upon which the other party may seek alimony and other relief. Unfortunately, that is not, at present, provided for by Section 3105.17, Bevised Code. Accordingly, we agree that that statute could not serve as a basis for the court’s order in this case.
+The grounds for divorce are set forth in Section 3105.01, Revised Code. The commonly known grounds are found in paragraphs (A) through (I). Because of the requirement of corroborating evidence, we must find that appellee did not establish any of those grounds.
+However, paragraph (J) of the statute provides a unique ground which apparently has not before been relied upon in a reported Ohio case. The pertinent provisions are:
+“The Court of Common Pleas may grant divorces for the following causes:
+l Í # * #
+“ (J) Procurement of a divorce without this state, by a husband or wife, by virtue of which the party who procured it is released from the obligations of the marriage, while such obligations remain binding upon the other party.”
+If the German decree is sufficient to make the provision applicable, the appellee has established a ground for divorce. The court would then have jurisdiction under Slapp to grant a divorce or, in any event, to grant alimony and other relief. In our opinion, paragraph (J) of Section 3105.01, Revised Code, applies.
+Under present principles of American divorce law, and particularly in view of the “full faith and credit” provision of the United States Constitution, the provision of paragraph (J) seems anomalous. Present law recognizes marriage as a status which can be the basis of “in rein” jurisdiction irrespective of a lack of personal or “in per-sonam” jurisdiction. Simply put, one spouse may be validly divorced by a court even though no personal jurisdiction is obtained over the other spouse. In the case of a court of a sister state in this country, such a decree must be accorded full faith and credit. Williams v. North Carolina (1942), 317 U. S. 287. (Decrees with respect to custody and alimony made without personal jurisdiction are not entitled to recognition and are not protected under full faith and credit.)
+Thus, under present day law, it is difficult to envision a situation in which one party is released from an obligation which remains binding upon the other. The proposition is conceivable only on the premise that the in rem decree was by the court of a foreign nation, as here, and that the Ohio courts would refuse to recognize the German decree as valid. To refuse recognition to a foreign divorce which was granted on the same jurisdictional grounds held adequate for an American court would be, in our opinion, most undesirable. However, if the Ohio statute is interpreted in the historical context of the law as it was at the time the statute was enacted, its meaning and applicaion to this case is clear.
+The decision in Cooper v. Cooper (1836), 7 Ohio 238 (part II), was that Ohio courts could not grant a divorce if a divorce had been validly granted elsewhere. Arguably, that decision is more simplistic than realistic. In any event, it antedated and probably led to the adoption of the predecessor of paragraph (J) of Section 3105.01, Revised Code. The present provision is substantially identical to that first adopted in 1853. 51 Ohio Laws 377.
+In 1853, there was much doubt concerning the validity of divorces granted in one state as applied in another state of the United States. It was not until 1869, some sixteen years after the Ohio statute, that the United States Supreme Court held that a divorce based on domicile and personal jurisdiction of both spouses was conclusive and binding not only in the state where granted but in sister states as well. Cheever v. Wilson (1869), 76 U. S. 108.
+The application of full faith and credit to a decree made without personal jurisdiction of both parties remained in serious dispute. The issue was resolved in 1906 by a decision against recognition. In Haddock v. Haddock (1906), 201 U. S. 562, the Supreme Court declared that New York need not give recognition to a Connecticut degree based on residence and domicile of the husband, but without personal jurisdiction of the wife. Thus, under Haddock, the Connecticut husband was released from his marriage obligations by a decree valid in Connecticut, but his wife in New York remained bound. The result in Haddock fits squarely within paragraph (J) of Section 3105.01, Revised Code.
+Haddock demonstrates the legal premises in the minds of tlie Ohio General Assembly in adopting the amendment of 1853. While Haddock was eventually overruled by Williams v. North Carolina (1942), 317 U. S. 287, it provides an understanding of the factual situation which the General Assembly was attempting to describe in the statute. The apparent ineptness of the statutory language is understandable in the context of the legal premises of 1853. It is a description of a divorce granted one spouse by a foreign state based on domicile or residence, but without obtaining personal jurisdiction of the other spouse. The change in the American constitutional concept of “full faith and credit” should not affect the application of the statute, either as applied to a divorce of a sister state or a foreign nation.
+Accordingly, in our opinion, appellee established a ground for divorce under Section 3105.01 (J), Revised Code, by her testimony and the corroborating evidence of the German decree. A ground for divorce having been established, the court had the power under Section 3105.18, Revised Code, and other statutes to grant the relief in this case.
+The judgment of the Common Pleas Court will be affirmed.
+Judgment affirmed.
+Teoop, J., concurs.
+
+## Dissent (PIeebebt, J.,)
+
+PIeebebt, J.,
+dissenting. A reading of the German decree and the trial court’s findings shows that the conditions of paragraph (J) of Section 3105.01, Revised Code, have not been met. While the facts of this case may illuminate a deficiency in our present divorce laws, the correction of that situation is the function of the General Assembly.
