@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-840953"
+decided: "1985-11-27"
+citations: ["26 Ohio App. 3d 139"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Black, P.J., KlusmeieR and Hildebrandt, JJ., concur."]
+parties: ["Birmingham Fire Insurance Company et al., Appellants, v. River Downs Race Track et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/26/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6714029
+cites_cases: ["12 Ohio St. 3d 1", "17 Ohio App. 2d 136", "34 Ohio St. 2d 161", "46 O.O.2d 172", "63 O.O.2d 262"]
+---
+
+# Birmingham Fire Insurance Co. v. River Downs Race Track
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal from the Court of Common Pleas of Hamilton County.
+On May 19, 1978, a fire of undetermined origin occurred at River Downs Race Track in Hamilton County, Ohio, causing damage to the stable area and injury and death to horses kept therein. Appellants, owners of the horses and their insurance carriers, filed a complaint on May 10, 1980 alleging, inter alia, that tbe fire was due to the negligence of the appellees, the owners and operators of the race track, in failing to maintain a suitable stable area and stalls for the horses racing at the track. In count two of the complaint, appellants alleged that appellees permitted the defective condition of the stable area to continue, which constituted cruelty to animals in violation of R.C. 1717.01, thereby making appellees negligent per se.
+During the next four years, the parties engaged in discovery, including the taking of the deposition of one Joseph Berring by the appellees on July 14, 1983. Berring, who was superintendent of maintenance for River Downs until March 1978, testified that in his opinion the barns that burned had been in a hazardous condition due to bad wiring and a roof that was in disrepair. Berring farther testified that he informed River Downs’ management of such conditions.
+On August 10, 1984, appellees filed a motion for summary judgment. On September 27, 1984, appellants filed a motion to amend their complaint by in-terlineation, in order to add a claim that the appellees’ acts or omissions amounted to intentional, willful and/or wanton misconduct. The court granted appellees’ motion for summary judgment as to the claim alleging cruelty to animals, as evidenced by its entry of October 31, 1984. Then, on November 21, 1984, the. court overruled appellants’ motion to amend the complaint and granted appellees’ motion for summary judgment as -to the remainder of appellants’ claims.
+From the judgment of the court below appellants bring this timely appeal in which they assert two assignments of error. We choose to address first appellants’ second assignment of error, in which they urge that it was an abuse of discretion for the trial court not to grant the motion to amend the complaint by interlineation. We find appellants’ assertion to be compelling.
+As we noted above, appellants moved to amend the complaint more than four years after it was filed, in order to. allege intentional, willful and/or wanton misconduct on the part of ap-pellees.
+Appellees cite our decision in Somermeier v. First Natl. Bank of Cincinnati (1968), 17 Ohio App. 2d 136 [46 O.O.2d 172], in support of their position that the trial court correctly overruled the motion to amend the complaint. In Somermeier, the defendant-appellant sought leave to file an amended answer and cross-petition during the hearing on the plaintiff-appellee’s motion for summary judgment. The trial court overruled the motion for leave to amend and we affirmed, holding that the trial court’s refusal to allow an amended answer and cross-petition to be filed was not an abuse of discretion, where all of the parties were aware that the court was to consider the motion for summary judgment at the hearing. Id. at 139.
+At first glance, Somermeier appears to be dispositive of the appellants’ second assignment of error. However, we are of the opinion that that case is distinguishable from the cause sub judice, as at the time we rendered our decision in Somermeier, the Ohio Rules of Civil Procedure were not in effect. They did not become effective until July 1, 1970. Civ. R. 86(A).
+Civ. R. 15, which provides for amended and supplemental pleadings, states in pertinent part:
+“(A) Amendments. A party may amend his pleading once as a matter of course at any time before a responsive pleading is served or, if the pleading is one to which no responsive pleading is permitted and the action has not been placed upon the trial calendar, he may so amend it at any time within twenty-eight days after it is served. Otherwise a party may amend his pleading only by leave of court or by written consent of the adverse party. Leave of court shall be freely given when justice so requires. A party shall plead in response to an amended pleading within the time remaining for response to the original pleading or within fourteen days after service of the amended pleading, whichever period may be the longer, unless the court otherwise orders.”
+The Ohio Supreme Court found Civ. R. 15 to be applicable in the case of Hoover v. Sumlin (1984), 12 Ohio St. 3d 1. In Hoover, one of the defendants, an Ohio township '(Randolph), filed a motion to amend its answer in order to allege the affirmative defense of the statute of .limitations approximately one year and eight months after it was named as a defendant in an amended complaint. The trial court allowed the amendment, but then sustained plaintiffs’ motion to strike the affirmative defense; the court of appeals reversed. In affirming the court of appeals, the Supreme Court stated:
+“* * * Although the grant or denial of such leave is within the sound discretion of the trial court, where the defense is tendered timely and in good faith, and no reason is apparent or disclosed for denying leave, the denial of leave to file such an amended pleading or the subsequent striking of a defense from an amended pleading is an abuse of discretion. * * *” Id. at 5-6 (citing Peterson v. Teodosio [1973], 34 Ohio St. 2d 161, 175 [63 O.O.2d 262]).
+The Supreme Court further cited Peterson for the proposition that one of the purposes of the Civil Rules is to effect the resolution of cases upon their merits, not on pleading deficiencies. The court observed that pleadings are simply a means to that end. Hoover, supra, at 5.
+The Supreme Court in Hoover, supra, at 4, also remarked that the possibility of waiver makes it incumbent upon both of the parties and their counsel to plead all defenses as early as possible. The court then observed that “the language of Civ. R. 15(A) favors a liberal amendment policy and a motion for leave to amend should be granted absent a finding of bad faith, undue delay or undue prejudice to the opposing party. * * *” (Citations omitted.) Id. at 6.
+We conclude that Hoover is dispositive of appellants’ second assignment of error. For the reasons discussed above, the second assignment of error is sustained.
+For their first assignment of error, appellants contend that “[t]he trial court erred as a matter of law in granting the motion'for summary judgment of the defendants-appellees. ”
+Civ. R. 56 mandates in pertinent part:
+“(C) * * * Summary judgment shah be rendered forthwith if * * * there is no genuine issue as to any material fact and * * * the moving party is entitled to judgment as a matter of law. * * * A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom, that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor. * * *”
+In light of our holding under appellants’ second assignment of error, we cannot say with certainty upon the current state of the record before us that there is no genuine issue as to any material fact or that appellees are entitled to judgment as a matter of law. Appellants’ first assignment of error is sustained.
+The judgment of the court below of November 21, 1984 is reversed and the case is remanded for further proceedings in accordance with this decision and law.
+Judgment reversed and cause remanded.
+Black, P.J., KlusmeieR and Hildebrandt, JJ., concur.
+Appellees argue that the denial of the motion to amend the complaint was proper, especially since it was filed more than four years after the filing of the complaint. We note, however, that the appellees’ motion for summary judgment was filed approximately one month prior to the motion to amend.
