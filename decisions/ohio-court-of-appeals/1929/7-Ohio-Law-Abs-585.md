@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 9584"
+decided: "1929-03-11"
+citations: ["7 Ohio Law Abs. 585"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan and Levine, JJ, concur."]
+parties: ["NAT SIGN CORP v MACCAR CLEVE SALES CORP"]
+source_url: "https://static.case.law/ohio-law-abs/7/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1631998
+cites_cases: ["166 Wis. 215", "235 U. S. 16"]
+---
+
+# Nat Sign Corp. v. Maccar Cleve Sales Corp.
+
+## Majority (VICKERY, PJ.)
+
+VICKERY, PJ.
+Now the record shows that this contract was made in Indiana, at least it was not binding upon either party until it had been approved in the Indiana office at Kokomo, Indiana. It is perfectly manifest that it was within the contemplation of both parties that the performance of the contract was to take place in Ohio, but in our judgment it does not make much difference where the contract was made, whether in Ohio or whether in Indiana, for it is conceded that the plaintiff company is a foreign corporation, and has no office or place to do business, nor has it complied with the above cited statute in procuring a license to do business in Ohio, and so the sole queston, as already stated, to be determined is, was the business or work that was contemplated by this contract upon the part of the plaintiff company for the defendant, doing business or performing work in Ohio?
+At first blush one would think it was simnly the selling of material by a foreign corporation to be delivered in Ohio, and if so, it would be only interstate commerce and would not be subject to the statutes of Ohio, but .upon examination is that the fact? Here, as a matter of fact, there was no sale whatever. It was a contract for service, for advertising the products or the business of the defendant company, and all of that was to be performed in Ohio. Now the method of doing that was, of course, first the exercise of interstate commerce, or, rather, the use of interstate commerce in transporting the goods into Ohio, and if the matter had stopped there and the plaintiff had simply sold the goods to be taken care of by the consignee in Ohio, there would be no question but what it would be interstate commerce only, and the auestion involved here could not arise. It makes no difference where the contract was made, it would still be interstate commerce, and the contract could be enforced wherever service could be obtained upon the parties. Here it contemplated upon the part of the plaintiff below, plaintiff in error her, the keeping of a crew of men, and it makes no difference whether they were imported from Indiana, or whether they were residents in Ohio. They were on the payroll of the foreign corporation and performed work for the foreign corporation, and so far as this contract is concerned the entire work was to be and was performed in Ohio, and I have spoken of a sale, and I have likewise spoken of the fact that in the instant case there was no sale, it being a contract to perform service in erecting these signs and keeping them in order for the full period of the contract, to-wit, three years.
+It is amazing to find how many decisions there are upon this question. Browning vs. Waycross, 235 U. S. 16, (1913).
+Phoenix Nursery Company vs. Trostel, 166 Wis. 215, (1917).
+We recognize the fact that nursery stock might be sold from New York State, we will say, and shipped into Ohio, and the fact that it was shipped into Ohio would not make it doing work or business in Ohio. That would still be interstate commerce, but when, as in the Wisconsin case, they undertake to perform services and work in relation thereto which would run over quite a period of time in replanting the trees and seeing that they had a successful growth, it is more than a mere sale from one State into another. In this case the court says that it is not proper that courts should permit people to derive the benefits from a contract and then hold them not liable for the price of the same. The policy of the law is against that, but where there is a positive statute declaring such contracts void, the courts have no option but to enforce the law.
+A. H. Andrews Co. vs. Colonial Theatre Company, 283 Federal, page 471, (1922).
+Where there is nothing more involved than mere ordinary labor and not any particular skill, or where there is something remaining to be done after the machine is installed, such as keeping it in order and keeping the title to it, it is work in the consignee’s state so that it would be prohibited by the laws of that state.
+An examination of the various authorities that are cited by the plaintiff in error in this case shows that most, if not all, of the cases relate to sales of property by a corporaton in one state to a consignee in another state, where there is nothing to be done, except in particular cases where the goods are to be set up, but the title is to .pass and the consignor has nothing more to do to it. I say, an examination of the cases and authorities cited by the plaintiff in his brief will throw most, if not all, of the cases into this category, and no one questions but what a foreign corporation may sell goods in Ohio without complying with the law in Ohio compelling it to be registered or to take out a license. Such a corporation is not doing business in Ohio within the meaning of the law.
+It is said in this case that the men who performed the work for this foreign corporation are a crew of men that move from place to place and live in hotels. To us it does not seem to make any difference who the men are or where they come from. They are on the payroll of the foreign corporation and they surely are performing labor for the foreign corporation, not only in installing these signs, but in maintaining them. In other words, this corporation has contracted to put up these signs and to furnish service to the defendant company for the full period of three years. Now that is not interstate commerce. It becomes a matter of local concern and it comes within the provisions of the Ohio law.
+We think, therefore, that under the law of Ohio, the plaintiff company not having complied with the statutes of Ohio, the contract is void and it has no right to maintain a suit upon it, and we think the court below was right in its decision, and not finding any error in the record, the judgment will be affirmed.
+Sullivan and Levine, JJ, concur.
