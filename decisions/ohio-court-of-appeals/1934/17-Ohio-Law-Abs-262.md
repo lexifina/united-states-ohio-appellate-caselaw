@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-04-06"
+citations: ["17 Ohio Law Abs. 262"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FARR and LYNCH, JJ, concur in the judgment."]
+parties: ["LIEBENTHAL v MOSS"]
+source_url: "https://static.case.law/ohio-law-abs/17/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657190
+---
+
+# Liebenthal v. Moss
+
+## Majority (By ROBERTS, J.)
+
+OPINION
+By ROBERTS, J.
+This is an error proceeding in this court seeking the reversal of a judgment of' the Court of Common Pleas of this county entered upon a verdict rendered in favor of defendant in error by a jury in the sum of $300.00. The defendant in error, Ralph Moss, entered the employ of Farr’s Clothes, or was employed by the plaintiff in error on the 7th day of February, 1931, as a manager and salesman of a clothing store, located on the first floor of the Tod House in this city. He continued to serve in that capacity until the 5th of May, 1933. Shortly after that date he brought this action. By the conceded terms of a verbal contract, he was to receive wages at the rate of $45.00 per week, when the contract was originally entered into. Later, by subsequent agreement, his wages were reduced-to $40.00, and again to $32.50 per week. There is no question involved in this case but what the wages as originally and subsequently agreed to between the parties were fully paid. It is contended on the part of Moss, the defendant in error, that in addition to this stated salary he was to receive a commission upon the amount received for sales of different classes or different priced merchandise. It is not necessary to read or repeat this schedule of prices, which he claims is right and commission was based upon. It is sufficient to say that based upon the terms of the verbal contract, as he states it, and as claimed by him, he was entitled to commission in the sum of $800.83, and for the recovery of that sum this action was brought and prosecuted.
+It is denied on the part of Liebenthal that the contract was so entered into. It is admitted that there was some provision for a commission, contingent upon the amount of sales and the profits of the business being such as to so justify, and it is further claimed in that behalf that the business during the employment of Mr. Moss was a losing venture and continually lost money and there was no actual profit.
+There was introduced in evidence in this case a letter, reading as follows, over the printed letter head of The Modern Tailoring Company, dated Cleveland, Ohio, May 22nd, 1931:
+“Farr’s Clothes,
+1 & 3 Market Street,
+Youngstown, Ohio.
+Dear Mr. Moss: As per our conversation, I am enclosing you our check for $100.00. This is applied against your commission account, providing your volume of business for the year warrants you a commission.”
+Then follows another paragraph concerning another subject, and signed, “Very truly yours, The Modern Tailoring Company.”
+It is not contended but what this letter was written by Liebenthal - and was enclosed with a check signed by him for this company, payable to Mr. Moss, in the sum of $100.00. The payment of this check at this time and the writing of this letter, was to some extent corroborated by Moss, upon the proposition that there was a provision in the contract that he was to receive a commission. It is, however, not- inconsistent with the proposition that' the payment of the commission may have been contin-.gent, because there is such a reservation in the language of the letter.
+The verdict of the jury was for $300.00. It is contended that this verdict should not have ,-been accepted, that it shows clearly under, the. conditions involved that it could not have been arrived at by the jury under the evidence in this case; that is, there is no dispute concerning the record which was kept by Moss of the amount of sales of different kinds and different amounts kept by him, as he claims, for the purpose of preserving a record to determine the amount of his commission, and under that uncon-, tradicted statement or account, if his contention be true, he would be entitled to $800.83. The verdict of the jury was $300.00; therefore, it is urged that the verdict is inconsistent with the evidence and does not respond to the contention of either side. However, this court can not say that there was evidence in the case that would justify the jury in returning a verdict for the larger amount, and if the jury returned the verdict, as it did in fact, for a lesser amount, that would not be prejudicial to Liebenthal. The amount of 'the verdict, therefore, does not constitute prejudicial error.
+There is something of an issue raised in this case as to whether Liebenthal was the real party in interest, whether - the action should not have been prosecuted against' the Modern Tailoring Company. It seems to have been the successor of a former corporation, in which name this concern did business known as Farr’s Clothes. That corporation was abandoned in some way and simply the trade term of Farr’s Clothes was retained in the business.
+This court, after a consideration of the evidence, which is not very voluminous in this case, is not able to say that the verdict is against the manifest weight of the evidence so far as Liebenthal being a proper person is concerned. He is the man who employed Moss, whether for himself Or for this corporation. He was the man who managed the business. He was the man who, when importuned by Moss to pay something on his commission, sent a check for $100.00, which would be a rather inconsistent and unusual thing for an em-ployer to do, so long as it was undetermined, and not knowing, so far as he asserts, whether there would be any commission to which Moss would be entitled or not, and even that proposition was subject to some evidence which would indicate to Liebenthal as to whether or not a commission was being earned and whether Moss would be entitled to it if that be the fact; -and that is this record which was kept' indicated the kind and quantity of clothes - and the price for which they were selling; Mr. Liebenthal, being the head of this concern, and its manager, and presumably knowing the cost of these goods, the over head -and other ' expenses, could determine with considerable accuracy whether or not from time to time the business was being operated at a profit such as would justify, under the terms of the contract, if thus construed, to the payment of his commission.
+The weight of the evidence is largely to be determined upon the construction given to the testimony of these two parties. It is sufficient to say, in conclusion, that this court is not able to say that the verdict of the jury, returned as it was in favor of Moss, was so against the decided and manifest weight of the evidence as to constitute prejudicial and reversible error. The judgment of the Court of Common Pleas is therefore affirmed.
+Judgment affirmed.
+FARR and LYNCH, JJ, concur in the judgment.
