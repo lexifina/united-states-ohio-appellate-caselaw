@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "15362"
+decided: "1992-04-22"
+citations: ["81 Ohio App. 3d 325"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reece and Cook, JJ., concur."]
+parties: ["The STATE of Ohio, Appellant, v. DANIEL, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/81/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1676495
+cites_cases: ["111 S.Ct. 2382", "392 U.S. 1", "466 U.S. 210", "565 N.E.2d 1271", "57 Ohio St.3d 86"]
+---
+
+# State v. Daniel
+
+## Majority (Quillin, Presiding Judge.)
+
+Quillin, Presiding Judge.
+The state appeals from the trial court’s order which suppressed evidence of a handgun seized by a police officer from appellee, Michael R. Daniel. We reverse.
+On July 16, 1991, Akron Police Officer Scott Williams was patrolling the area around Grace Park. At approximately 10:15 p.m., Williams observed Daniel sitting on the steps outside a church adjacent to the park. While advising a passing motorist that he ought to move along because this is a high crime area, Williams projected his voice so that Daniel might hear the warning as well. Daniel remained seated outside the church.
+Officer Williams approached Daniel and asked him where he lived and why he was in this area. After Daniel answered that he had no reason for being there, Williams asked him to show some identification. Just as Daniel reached into the pocket of his leather jacket, it occurred to Williams that Daniel was dressed too warmly for the seventy-five-degree weather. Williams immediately suspected that Daniel was wearing the jacket to conceal a weapon, and Daniel appeared to be reaching for the weapon at that very moment. Williams ordered Daniel to stop and remove his hand from the jacket.
+Williams then asked Daniel whether he was carrying any weapons. Daniel responded that he was not. Williams patted down Daniel’s outer clothing, and felt what appeared to be a gun. Williams asked Daniel what was in his pocket. Daniel then admitted it was a gun. Williams reached into Daniel’s pocket and pulled out a loaded .32 caliber handgun.
+Daniel was charged with carrying a concealed weapon, R.C. 2923.12. Daniel moved to suppress evidence of the handgun, alleging that it had been obtained through an illegal search and seizure. Following a hearing on this issue, the trial court granted Daniel’s motion to suppress.
+The state appeals, and as its sole assignment of error says:
+“The trial court committed error when it suppressed the evidence in this case.”
+The trial court found a Fourth Amendment violation here because it determined that the totality of the circumstances did not justify an investigative stop of Daniel. According to the trial court, the investigative stop occurred when Williams questioned Daniel and requested identification. We disagree with the court’s conclusion that Williams had stopped or seized Daniel at this point.
+A personal interaction between a police officer and a citizen is not necessarily a seizure of the person. A “seizure” occurs only where the officer, through force or a show of authority, has restrained the liberty of a person. INS v. Delgado (1984), 466 U.S. 210, 215, 104 S.Ct. 1758, 1762, 80 L.Ed.2d 247, 255. Police questioning, by itself, is unlikely to result in a Fourth Amendment violation. The fact that most people do respond to a police request, without being told they are free not to respond, does not eliminate the consensual nature of the response. Id. at 216, 104 S.Ct. at 1762, 80 L.Ed.2d at 255. There is no Fourth Amendment “seizure” of a person unless the circumstances of the encounter are so intimidating that a reasonable person would have believed he was not free to leave if he had not responded. Id.
+No seizure occurs where a police officer asks questions of an individual and asks to examine his identification, so long as the officer does not convey the message that compliance with the requests is required. Florida v. Bostick (1991), 501 U.S. -, -, 111 S.Ct. 2382, 2387, 115 L.Ed.2d 389, 400. The court must consider all the circumstances surrounding the encounter to determine whether the police conduct would have communicated to the reasonable person that the person was not free to decline the officer’s requests or otherwise terminate the encounter. Id., 501 U.S. at ---, 111 S.Ct. at 2388-2389, 115 L.Ed.2d at 401-402.
+The only witness at the suppression hearing was Officer Williams. According to his testimony, he merely asked Daniel a few questions and asked him to produce identification. Williams did not use any words or actions to compel Daniel to comply with his requests. A reasonable person would have interpreted Williams's questions as requests, not orders. There is nothing in the record to support a conclusion to the contrary. Thus, Daniel had not been seized at that point.
+A seizure did occur when Daniel reached into his jacket pocket and Williams ordered him to stop and remove his hand from his jacket. A police officer may stop and investigate unusual behavior, when he reasonably concludes that an individual is engaged in criminal activity. State v. Andrews (1991), 57 Ohio St.3d 86, 87, 565 N.E.2d 1271, 1272. An objective and particularized suspicion must be based on a totality of the surrounding circumstances. Id. These circumstances are to be viewed through the eyes of the reasonable and prudent police officer on the scene who must react to events as they unfold. Id. at 87-88, 565 N.E.2d at 1272-1274.
+Officer Williams was well acquainted with the Grace Park area. He knew it to be a high-crime area, and he knew that there had been several robberies recently. Daniel sat alone on the church steps at 10:15 at night. The church was closed, and Daniel admitted he had no reason to be there. It was a seventy-five-degree night, yet Daniel was wearing a leather jacket. As Williams testified, he concluded that Daniel was probably trying to conceal something. He could not imagine any other reason for Daniel to be dressed the way he was. When Daniel reached into his jacket, it appeared that he could be reaching for a weapon. We believe that these facts support Williams’s reasonable suspicion that Daniel was carrying a concealed weapon. Thus, this stop did not violate the Fourth Amendment.
+When a police officer has a reasonable suspicion that the individual whose behavior he is investigating at close range is armed and dangerous, he may conduct a limited pat-down frisk for concealed weapons. See Terry v. Ohio (1968), 392 U.S. 1, 27, 88 S.Ct. 1868, 1883, 20 L.Ed.2d 889, 909. This standard is also an objective one based on the totality of the circumstances. Id.
+As we noted above, Williams reasonably concluded that Daniel was carrying a concealed weapon. It was also reasonable for Williams to suspect that Daniel was armed and dangerous. During Williams’s brief investigation of the situation, based on his experience and training, he concluded that the only reason Daniel would be wearing a leather jacket on a warm night was to conceal something, such as a weapon.
+We need not decide whether a pat-down frisk of Daniel would have been justified if Daniel had not reached into his jacket. The totality of the circumstances in this case includes the significant fact that Daniel did make a move for what Williams reasonably suspected was a weapon. This situation falls squarely within the reasoning of the Terry court. Here, we have “a policeman who in the course of an investigation had to make a quick decision as to how to protect himself and others from possible danger, and took limited steps to do so.” Terry, supra, at 28, 88 S.Ct. at 1883, 20 L.Ed.2d at 910. It was reasonable for Williams to conduct the limited pat-down frisk for weapons to provide for his own safety. See Andrews, supra, 57 Ohio St.3d at 89, 565 N.E.2d at 1274. The assignment of error is sustained.
+The judgment of the trial court is reversed.
+Judgment reversed.
+Reece and Cook, JJ., concur.
