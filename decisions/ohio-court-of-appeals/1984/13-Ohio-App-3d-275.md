@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "83AP-558"
+decided: "1984-01-17"
+citations: ["13 Ohio App. 3d 275"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside, P.J., and McCormac, J., concur."]
+parties: ["Spitzer et al., Appellants, v. Dytronics Company, Inc. et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/13/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708397
+cites_cases: ["112 Misc. 2d 692", "158 Cal. Rptr. 535", "277 Pa. Super. 47", "431 So. 2d 499", "445 F. Supp. 311", "450 F. Supp. 919", "600 F.2d 671", "97 Cal. App. 3d 56"]
+---
+
+# Spitzer v. Dytronics Co.
+
+## Majority (Reilly, J.)
+
+Reilly, J.
+Plaintiffs appeal from the trial court’s dismissal of their action on the basis of lack of jurisdiction over the subject matter.
+Plaintiffs were employed by Dytron-ics Company, Inc. (hereinafter “Dytronics”), in the industrial products line. Dytronics adopted a profit sharing plan for its employees in 1969. Plaintiffs were participants in this plan. In 1978, this plan was amended in order to meet the requirements of the Employee Retirement Income Security Act (hereinafter “ERISA”). One of the requirements imposed by ERISA was that an employee’s interest in a plan must vest and be paid to that employee upon the full or partial termination of the plan. The Dytronics plan contained such a provision in Section 12.2, which reads as follows:
+“In the event of a complete discontinuance of the Company’s contributions or a partial or full termination of the Plan by the Company, the assets in affected Participants’ Accounts under the Plan shall thereupon become non-forfeitable and vest in and be forthwith paid or transferred to the affected Participants, retired Participants, or Beneficiaries, as their interests may appear; * *
+Dytronics sold its industrial products line to Rochester Instrument Systems, Inc. (hereinafter “Rochester”) in 1979. Plaintiffs were among eight employees who transferred their employment to Rochester pursuant to the sale of this division. There were twenty-five Dytronics employees participating in the plan prior to the sale.
+Plaintiffs’ action sought recovery of their full profit sharing account balances, alleging that the transfer of employment of eight of the twenty-five participants in the plan caused a partial termination, which caused their shares to vest. They also assert a claim for damages established by alleged fraudulent representations associated with the transfer of employment to Rochester. The complaints name as defendants Dytronics, the plan itself, the Huntington National Bank as trustee of the plan, two individuals who were both administrators of the plan and officers of Dytronics, and Rochester. Subsequently, the claims against Rochester were settled and Rochester was dismissed from the action.
+Defendants moved for dismissal for lack of subject matter jurisdiction after the case was set for trial. The court granted defendants’ motion by entry of February 17, 1983. Subsequently, the court determined that this dismissal and other dismissals by stipulation terminated the entire case.
+Plaintiffs assert one assignment of error:
+“The Trial Court erred in its decision to dismiss the case for lack of subject matter jurisdiction.”
+Plaintiffs’ assignment of error is well-taken. The trial court based its dismissal on the premise that ERISA provides for the almost exclusive enforcement of rights under its provisions in the federal courts. The court concluded that all of plaintiffs’ claims were matters within the exclusive jurisdiction of the federal courts, and, consequently, dismissed the case.
+Before addressing the scope of state court jurisdiction over pension and profit sharing plans under ERISA, it is apparent from the record that plaintiffs had asserted a claim against some defendants based on alleged fraudulent misrepresentations, which claim does not appear to have been resolved prior to the trial court’s dismissal entered on February 17. In this claim, plaintiffs alleged that they incurred expenses in finding new employment after Rochester moved the industrial products line out of the Columbus, Ohio area. They asserted that the officers of Dytronics had fraudulently induced them to transfer their employment to Rochester with the assurances that they would receive their entire plan account balance and that Rochester was committed to remaining in the Columbus area. Since a part of this claim appears to be based on common-law fraud, it was error for the trial court to dismiss it solely on the basis of federal preemption of pension and profit sharing plan jurisdiction.
+Moreover, state courts are given jurisdiction concurrent with the federal courts over a part of pension and profit sharing plan regulations. Jurisdiction over matters involving pension and profit sharing plans under ERISA is provided in Section 1132(e)(1), Title 29, U.S. Code, which states:
+“Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this sub-chapter brought by the Secretary or by a participant, beneficiary, or fiduciary. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under subsection (a)(1)(B) of this section.”
+Subsection (a)(1)(B) provides:
+“(a) A civil action may be brought —
+“(1) by a participant or beneficiary —
+"* * *
+“(B) to recover benefits due to him under the terms of his plan, to enforce his rights under the terms of the plan, or to clarify his rights to future benefits under the terms of the plan[.]”
+Therefore, the issue is whether plaintiffs seek to recover benefits under the terms of their plan.
+This question appears to be one of first impression in Ohio, and thus no Ohio cases have been cited by the parties or found by this court which have dealt with the jurisdictional provisions of ERISA. Further, the reported decisions from other jurisdictions and from the federal courts are not fully reconcilable with one another. Nevertheless, there emerges from those actions which construe the preemption provisions of ERISA a pattern which provides some guidance in this case.
+The reported cases are in almost full accord that an action against a trustee or administrator of a plan which is based strictly on a breach of a fiduciary duty is within the exclusive federal jurisdiction. Thus, in Goldberg v. Caplan (1980), 277 Pa. Super. 47, 419 A.2d 653, the Superior Court of Pennsylvania held that the Pennsylvania state courts were without jurisdiction to consider a petition for removal of a trustee of a plan subject to ERISA. That court held that the scope of federal preemption in the area precluded state court actions which sought to regulate the conduct of trustees in the administration of the plan. See, also, Central States, Southeast & Southwest Areas Health & Welfare Fund v. Old Security Life Ins. Co. (C.A. 7, 1979), 600 F.2d 671.
+Similarly, the court in Guthrie v. Dow Chemical Co. (S.D. Tex. 1978), 445 F. Supp. 311, held that an action to have a portion of a plan declared illegal was not one to recover under the terms of the plan. Hence, the state court from which removal was sought in Guthrie did not have jurisdiction over the claim.
+In contrast is the case of In re Marriage of Lionberger (1979), 97 Cal. App. 3d 56, 158 Cal. Rptr. 535. There the court determined that the preemption of ERISA did not preclude a state court from acting in regard to a pension, subject to ERISA, when dividing the property of a marriage upon its termination. Such an action, the court held, does not relate to and is thus not included in federal regulation of any pension benefit plan. See, also, Stone v. Stone (N.D. Cal. 1978), 450 F. Supp. 919.
+Thus, it becomes clear that the preemption of state law by ERISA is directed toward laws related to the regulation of employee benefits plans. The court in Goldberg, supra, at page 54, noted that the goal of Congress in preempting state laws relating to employee benefit plans was to protect the trustees of such plans from inconsistent state and federal regulations. Where, however, an employee seeks to recover benefits due under a plan, “as in a typical contract action,” state courts are given jurisdiction concurrent with the federal courts. Young v. Sheet Metal Workers’ Internatl. Assn. Production Workers Welfare Fund (1981), 112 Misc. 2d 692, 447 N.Y. Supp. 2d 798, 803. See, also, Hoffman v. Chandler (Ala. 1983), 431 So. 2d 499. In Hoffman, the Supreme Court of Alabama held that the state courts had subject matter jurisdiction even though the plaintiff had filed an amended complaint naming the individual trustees as defendants and alleging “fiduciary impropriety.” The court held that the action remained one to recover under the plan, despite the naming of the individual trustees as defendants.
+Plaintiffs’ action herein is to recover benefits under the plan. It remains such an action even though a court must apply provisions of ERISA and the Internal Revenue Code (Title 26, U.S. Code) to determine plaintiffs’ right to relief. As noted by the court in Hoffman, supra, at page 504, the danger of subjecting trustees to the threat of conflicting and inconsistent regulation is not present in an action such as the one herein.
+Accordingly, the judgment of the trial court is reversed and the cause is remanded for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Whiteside, P.J., and McCormac, J., concur.
