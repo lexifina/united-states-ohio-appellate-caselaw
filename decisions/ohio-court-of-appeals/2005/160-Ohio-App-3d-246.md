@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "04AP-1122"
+decided: "2005-03-31"
+citations: ["160 Ohio App. 3d 246"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P.J., and Petree, J., concur."]
+parties: ["WOODWARD, Appellant, v. OHIO DEPARTMENT OF MENTAL RETARDATION & DEVELOPMENTAL DISABILITIES, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/160/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1174344
+cites_cases: ["2000 WL 1847799", "2003 WL 22136279", "2003-Ohio-4903", "2005-Ohio-1514", "21 OBR 266", "21 Ohio St.3d 1", "451 N.E.2d 1196", "487 N.E.2d 285", "6 OBR 221", "6 Ohio St.3d 162", "702 N.E.2d 70", "84 Ohio St.3d 100"]
+---
+
+# Woodward v. Ohio Department of Mental Retardation & Developmental Disabilities
+
+## Majority (Sadler, Judge.)
+
+Sadler, Judge.
+{¶ 1} Plaintiff-appellant, Phyllis E. Woodward, appeals from the decision and judgment entry of the Franklin County Court of Common Pleas granting the motion to dismiss filed by appellee, Ohio Department of Mental Retardation & Developmental Disabilities. For the reasons set forth below, we affirm the judgment of the trial court.
+{¶ 2} Appellant was employed by appellee as a volunteer coordinator and assigned to Apple Creek Developmental Center. On January 11, 2002, appellant was notified that her position with appellee was being abolished. On January 25, 2002, appellant filed an appeal to the State Personnel Board of Review (“SPBR”). On May 17, 2002, SPBR dismissed the appeal, finding it to be untimely filed.
+{¶ 3} Appellant appealed from the order of dismissal by SPBR to the Wayne County Court of Common Pleas on May 31, 2002. On November 22, 2002, that court reversed SPBR’s order and remanded the matter for a full hearing on the abolishment of appellant’s position. On September 17, 2003, the Ninth District Court of Appeals vacated the judgment of the Wayne County Court of Common Pleas and held that the lower court’s judgment was void for lack of jurisdiction and held that pursuant to R.C. 119.12, an appeal from an order issued by SPBR could be filed only in Franklin County. Woodward v. Ohio Dept. of Mental Retardation & Developmental Disabilities, Apple Creek Developmental Ctr., Wayne App. No. 023CA0070, 2003-Ohio-4903, 2003 WL 22136279.
+{¶ 4} On October 10, 2003, appellant filed a notice of appeal from the May 17, 2002 SPBR order in the Franklin County Court of Common Pleas. Appellee filed a motion to dismiss asserting lack of subject matter jurisdiction. The trial court granted appellee’s motion to dismiss. The court applied R.C. 119.12, which provides:
+Any party desiring to appeal shall file a notice of appeal with the agency setting forth the order appealed from and the grounds of his appeal. A copy of such notice of appeal shall also be filed by appellant with the court. Unless otherwise provided by law relating to a particular agency, such notices of appeal shall be filed within fifteen days after the mailing of the notice of the agency’s order as provided in this section.
+(Emphasis added.)
+{¶ 5} Citing Nibert v. Ohio Dept. of Rehab. & Corr. (1998), 84 Ohio St.3d 100, 101, 702 N.E.2d 70, the trial court held that failure to file the instant appeal from the order of SPBR within the 15 days prescribed by R.C. 119.12 constituted a jurisdictional defect requiring a dismissal of the appeal. The trial court further addressed appellant’s argument that the saving statute in R.C. 2305.19 should be applied and found such argument to be without merit.
+{¶ 6} Appellant timely filed a notice of appeal and sets forth the following two assignments of error for our review:
+I. The trial court committed prejudicial error in holding that the time limit for an appeal of a decision of the State Personnel Board of Review to the Court of Common Pleas for Franklin County contained in Revised Code Section 119.12 is jurisdictional in nature and precludes an otherwise properly-filed appeal.
+II. The trial court committed prejudicial error in holding that Revised Code Section 2305.19 is not applicable to an appeal of a decision of the State Personnel Board of Review.
+{¶ 7} In her first assignment of error, appellant argues that the 15-day time limit for an appeal to be filed in the Franklin County Court of Common Pleas from a decision rendered by SPBR is not jurisdictional in nature. Rather, appellant argues that the requirement is simply a-venue provision. This assertion by appellant is inconsistent with the well-settled law in Ohio that “[t]he failure to file a copy of the notice of appeal within the fifteen day appeal as set forth in R.C. 119.12 deprives the common pleas court of jurisdiction over the appeal.” Nibert, supra, 84 Ohio St.3d at 101, 702 N.E.2d 70.
+{¶ 8} R.C. 119.12 requires that an appeal from an order of SPBR be filed in the Franklin County Court of Common Pleas within 15 days from the mailing of the agency’s order. SPBR dismissed appellant’s appeal on May 17, 2002. The filing of a notice of appeal in the Franklin County Court of Common Pleas did not occur until October 10, 2003. It is clear that this notice of appeal was filed well outside the statutory 15 days. We find on the authority of Nibert that the trial court appropriately determined that the Franklin County Court of Common Pleas lacked jurisdiction to hear the appeal herein because it was untimely filed. Appellant’s first assignment of error is overruled.
+{¶ 9} In her second assignment of error, appellant argues that the saving statute as prescribed in R.C. 2305.19 should apply to decisions of SPBR, thus saving this appeal from the jurisdictional defect. In her brief, appellant cites the following portion of R.C. 2305.19:
+In an action commenced or attempted to be commenced, if in due time a judgment for plaintiff is reversed, or if the plaintiff fails otherwise than upon the merits, and the time limited for the commencement of such action at the date of reversal or failure has expired, the plaintiff * * * may commence a new action within one year after such date.
+{¶ 10} Appellant cites the case of Reese v. Ohio State Univ. Hosp. (1983), 6 Ohio St.3d 162, 6 OBR 221, 451 N.E.2d 1196, in support of her position that R.C. 2305.19 would apply to the appeal from an order of SPBR. As Reese involves a wrongful death complaint and not an appeal from an administrative agency, it can readily be distinguished from the instant facts. Thus, we find appellant’s reliance on Reese to be misplaced.
+{¶ 11} Appellant further relies on the case of Lewis v. Connor (1985), 21 Ohio St.3d 1, 21 OBR 266, 487 N.E.2d 285. In Lewis, the Ohio Supreme Court found that the saving statute applies to workers’ compensation complaints filed in the common pleas court. Appellant argues that the administrative action in Lewis is analogous to an appeal from an SPBR decision and should be followed here.
+{¶ 12} In Schmieg v. Ohio State Dept. of Human Serv. (Dec. 19, 2000), Franklin App. No. 00AP-561, 2000 WL 1847799, this court previously examined Lewis and found it to be “an exception to the general rule based on the unique procedures associated with an appeal from the Industrial Commission.” Id., 2000 WL 1847799, at *8. In Schmieg, we reviewed an appeal from a judgment of the Franklin County Common Pleas Court that granted a motion to dismiss filed by the Ohio Department of Human Services, now Ohio Department of Job and Family Services. We held that R.C. 2305.19 does not apply to administrative appeals, which are more akin to an appeal and not procedurally initiated by the filing of a complaint in common pleas court.
+{¶ 13} Unlike appeals involving the right to participate in a workers’ compensation case, an appeal from a decision rendered by SPBR occurs when a notice of appeal is filed in the common pleas court. Therefore, an appeal from an SPBR decision is more akin to an appeal and not the initiation of a standard civil action. Therefore, we follow the rationale in Schmieg and find that the saving statute does not apply to this appeal. In conclusion, the common pleas court properly concluded that R.C. 2805.19 is not applicable to the decision of the SPBR. Therefore, we overrule appellant’s second assignment of error.
+{¶ 14} For the foregoing reasons, appellant’s first and second assignments of error are overruled, and the judgment of the Franklin County Court of Common Pleas is affirmed.
+Judgment affirmed.
+Brown, P.J., and Petree, J., concur.
