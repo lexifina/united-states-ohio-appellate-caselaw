@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7700"
+decided: "1975-08-06"
+citations: ["48 Ohio App. 2d 325"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Betsuneman and HunsieKiüR/.JJ.-,-concur."]
+parties: ["Bell et al., Appellants, v. Coen et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/48/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709236
+cites_cases: ["158 Ohio St. 362", "316 F. 2d 787", "319 F. 2d 56", "400 U. S. 846", "420 F. 2d 1270", "8 A. L. R. 2d 77"]
+---
+
+# Bell v. Coen
+
+## Majority (Mahoney, P. J.)
+
+Mahoney, P. J.
+This is an appeal from a judgment of - the Court of Common Pleas dismissing the complaint and -striking the amended complaint of the plaintiffs for damages for alleged negligence causing the stillbirth of their child and for negligence with regard to the mother. The court also granted summary judgment to Dr. Sophia Coen. The court found the action was not commenced within the time provided by law, and was not brought by a .personal representative of the decedent. We affirm tlie summary judgment as to Dr. Coen upon the amended complaint but reverse the trial court in its dismissal of the amended complaint as to the remaining defendants.
+This action was filed on July 29, 1974, by Wilda and Malachi Bell as plaintiffs against two doctors, two nurses, an intern, and Barberton Citizens Hospital. The complaint alleged that Wilda Bell entered the hospital on August 12, 1972, under the care of Dr. Sophia Coen, M. D. and Richard Yoder, M. D. “to be delivered of child.” Plaintiffs allege their child, Malcolm Alphonzo Bell, was stillborn as a. result of the defendants’ negligence. They also claim that (1) there was a lack of “informed consent” as to the delivery with a resulting unlawful use of force upon the mother’s body; (2) they have incurred medical and funeral expenses; and (3) Wilda has suffered pain, shock, fright, mental anguish, fear and outrage for which they seek compensatory and punitive damages.
+All defendants filed motions to dismiss the complaint. The court ruled that the one year statute of limitations had run on the malpractice claims against the doctors. As to the remaining defendants, the court held the complaint was for wrongful death but failed since it was not brought by a personal representative of the decedent.
+Following these written findings, without leave of court, and before the court’s findings were “formalized” into a judgment entry, the plaintiffs filed their amended complaint on November 19, 1974, showing the appointment of Malachi Bell as the administrator of the estate of the stillborn infant. To the amended complaint, the defendants, except Dr. Coen, again filed motions to dismiss. She moved for summary judgment, supported by an affidavit claiming she had not seen the plaintiff, Wilda Bell, from July 27, 1972, until August 16, 1972, which was after the stillbirth and that the physician-patient relationship ended on September 28, 1972. The plaintiffs’ counter-affidavit did not contest the fact that Dr. Coen was not present during the operation but asserts that the physician-patient relationship continued until August 18,1973.
+Plaintiffs urge ten assignments of error. Those raise the following issues:
+A. Did the plaintiffs have a right to amend their complaint without leave of court under Civ. R. 15(A)?
+B. If they could amend, could they also add the personal representative as a party without leave of court?
+C. If they could add the party, does the “relation-back” doctrine under Civ. R. 15(C) apply?
+D. Did the court err in granting summary judgment in favor of Sophia Coen?
+Issue A
+The plaintiffs contend that they had a right to amend their complaint without leave of court until a responsive pleading was filed under Civ. R. 15(A). Defendants argue that the finding dismissing the complaint annuls the right to amend, even if the “finding” had not been reduced to a judgment entry. We hold there is an absolute right to amend the complaint at any time before a responsive pleading is filed. We further hold that the right to amend without leave of court expires when the original complaint is dismissed. Ohio case law is silent on whether a complaint may be amended between the time of a finding dismissing the complaint and its actual formalization into a judgment entry. Unlike the case of Swan v. Board of Higher Education of New York (C. A. 2, 1963), 319 F. 2d 56, we regard the formalizing of the entry under Ohio Civ. R. 58 as more than a ministerial act. Breier v. Northern California Bowling Proprietor’s Assn. (C. A. 9, 1963), 316 F. 2d 787, suggests it may even be error not to grant a leave to amend in the order dismissing the complaint. Kauffman v. Moss (C. A. 3, 1970), 420 F. 2d 1270, cert. denied 400 U. S. 846, emphasizes the liberality of discretion to be applied in granting leaves to amend the complaint. We believe that this liberality in the construction of Civ. R. 15(A) is within the spirit of our Civ. R. 1(B), which provides:
+“These rules shall be construed and applied to effect just results by eliminating delay, unnecessary expense and all other impediments to the expeditious administration of justice.”
+Justice abhors the loss of causes of action by pure technicalities. Since the finding was not a final order dismissing the case, we hold that the complaint may be amended anytime before the actual judgment entry.
+Issue B
+We hold that the addition of the name of, Malachi Bell as administrator, coupled with his designation as a beneficiary and father of the deceased, does not invoke Civ. R. 21, requiring leave of court. That rule contemplates adding or dropping a party to the complaint as originally filed. Civ. R. 15(A), as applied here, concerns the amendment of a complaint by a new pleading adding a nominal party.
+Issue G
+We concur with the trial court’s finding that the original complaint attempted to state a cause of action for wrongful death. The beneficiaries were parties and the defendants were the same in the amended complaint. They were well aware of the claims against them and were not prejudiced in their defense by the amendment. The court’s reason for dismissing the cause as to the Hospital, Bubner, Dollinger, Pacheco, and Yoder was that the personal representative did not bring the action. The amended complaint remedies that deficiency by adding the nominal party. There is no change in the cause of action. See, Annotation, 8 A. L. R. 2d 77, 78; Kyes v. Penn Rd. Co. (1952), 158 Ohio St. 362. It served to correct a formality and no more. The “relation-back” doctrine of Civ. R. 15(C) is, therefore, applicable.
+Accordingly, we determine that the “relation-back” of the amended complaint to July 29, 1974, permits causes of action to be maintained against the Hospital, Bubner, Dollinger, and Pacheco for wrongful death as to Malcolm Alphonzo Bell and negligence as to Wilda Bell. The two year statutes of limitation of R. C. 2125.02 and R. C. 2305.10 are applicable. This is on the theory that the plaintiffs must prove agency between Dr. Pacheco and the Hospital.
+As to Dr. Yoder, R. C. 2305.11, the one year malpractice statute, expired as to the claims of Wilda Bell against him on August 11, 1973. The burden is on the complainant to set forth facts which show a different or continuing relationship or a later date when her cause of action for malpractice was discovered. Neither the original nor the amended complaint indicates any facts to support complainant Wilda Bell’s continuation of a physician-patient relationship with Dr. Yoder beyond August 12, 1972. This is the date she claims the assault occurred. However, the wrongful death action as to Malcolm Alphonzo Bell also arose on August 12, 1972, and the action was properly commenced as to Dr. Yoder on that cause within the two year period under R. C. 2125.02.
+Issue D
+We hold that the court correctly granted summary judgment to Dr. Sophia Coen on the causes of action set forth in the amended complaint. The affidavits filed under Civ. B. 56 clearly show that there is no genuine issue of fact. The acts of negligence complained of by Wilda Bell were conduct occurring in the hospital on August 12, 1972. Dr. Coen’s affidavit is undisputed that she did not see Wilda Bell between July 27 and August 18 and was not even at the hospital at the time in question prior to or during the stillbirth of Malcolm on August 12. She could not have been negligent or guilty of malpractice at the time alleged.
+Summary
+Applying our findings on the issues to the assignments ■of error, we sustain number 8 and overrule number 9. The first seven assignments are rendered moot by the filing of the amended complaint. The election to amend constituted an abandonment of the original complaint. Assignment number 10 is also overruled as B. C. 2125.04 is not applicable here.
+Accordingly, we affirm the court’s judgment as to Dr. Sophia Coen and reverse the judgment as to the remaining defendants. We remand this cause for further proceedings as to those remaining defendants on the cause, of action for the wrongful death, of Malcolm Alphonzo Bell. We further remand the case for further proceedings on Wilda Bell’s negligence )claim for bodily injury against the Hospital, Bubrier, Dollinger, and Pacheco, but not as to Dr. Yoder. ,
+Judgment accordingly.
+Betsuneman and HunsieKiüR/.JJ.-,-concur.
