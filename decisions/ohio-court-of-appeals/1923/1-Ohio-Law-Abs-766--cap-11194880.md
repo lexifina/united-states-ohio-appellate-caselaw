@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "4545"
 decided: "1923-09-24"
-citations: ["1 Ohio Law Abs. 766", "1 Ohio Law Abs. 733"]
+citations: ["1 Ohio Law Abs. 766"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
