@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "Nos 3051 & 3059"
 decided: "1940-08-26"
-citations: ["34 Ohio Law Abs. 432", "34 Ohio Law Abs. 433"]
+citations: ["34 Ohio Law Abs. 432"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,6 @@ parties: ["STATE ex BOSTWICK v MILLER, et"]
 source_url: "https://static.case.law/ohio-law-abs/34/cases/0432-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1706646
-cites_cases: ["12 O. C. C. 144", "18 Oh St 353", "22 O. N. P. 359", "8 O. N. P. 134"]
 ---
 
 # State ex rel. Bostwick v. Miller
