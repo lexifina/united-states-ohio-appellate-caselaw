@@ -1,0 +1,69 @@
+---
+court: "Ohio Court of Appeals"
+docket: "243"
+decided: "1970-02-02"
+citations: ["26 Ohio App. 2d 90"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, P. J., and Hlldebeant, J., concur."]
+parties: ["Noftsger Real Estate, Inc., Appellee, v. Berwangeb, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/26/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6704598
+cites_cases: ["13 Ohio Law Abs. 499", "14 Ohio St. 2d 31", "26 Ohio St. 334", "75 Ohio App. 277", "77 Ohio Law Abs. 581"]
+---
+
+# Noftsger Real Estate, Inc. v. Berwangeb
+
+## Majority (Hess, J.)
+
+Hess, J.
+This is an appeal upon questions of law from a judgment entered in favor of the plaintiff, appellee herein, following the granting of a motion for a directed verdict made by the plaintiff at the conclusion of all the evidence presented to a jury in the Court of Common Pleas of Clinton County. The parties will be referred to herein as they appeared in the Court of Common Pleas.
+The record discloses the plaintiff was a licensed real estate broker. On October 1, 1966, the defendant and his wife, co-owners of real estate, signed a contract giving the plaintiff exclusive right for a period of two months to procure a purchaser for their 360 acre farm for $150,000, or for such sum as would be agreeable to them. Pursuant to this contract, the plaintiff contacted W. H. Robinson who was interested in purchasing the farm.
+On November 19,1966, the plaintiff presented a signed written offer from Robinson to purchase the farm for $130,000. The offer to purchase for $130,000 was accompanied by a note dated November 19,1966; signed by Robinson; payable to the plaintiff-broker in the snm of $10,000; dne in sixty days; and containing the notation that it was a “deposit on Berwanger farm.” This offer was not accepted by the defendant and his wife.
+On November 21, 1966, the plaintiff presented an instrument without a signature to the defendant and his wife, entitled “Agreement of Purchase,” providing for the purchase of their farm for $145,000. The defendant and his wife signed the acceptance clause of this unsigned offer to purchase on the day it was presented to them. Later, on November 30, 1966, this same instrument was signed by W. H. Robinson after someone had changed the purchase price to $135,000. This transaction collapsed.
+Thereafter, on December 2, 1966, the plaintiff presented another “Agreement of Purchase” to the defendant and his wife without the signature of a purchaser. This purported agreement stipulated a purchase price of $137,500. It bears the date of December 2, 1966, and provides that a “$10,000 (note)” be deposited with the plaintiff-broker “as evidence of good faith.” The acceptance clause of this unsigned “Agreement of Purchase” was signed by the defendant on December 2, 1966, but his wife refused to sign the instrument. This “Agreement of Purchase” instrument provided as follows: “this offer shall be open for acceptance until midnight -and if not accepted and approved, the earnest money above mentioned shall be returned to the purchaser without any liability upon the part of the Agent to either party.” No date was inserted by the plaintiff or the defendant in the blank space following the word midnight.
+Ten days after the defendant signed the acceptance clause of the purported agreement to purchase, W. H. Robinson signed the offer to purchase. The same “$10,000 (note)” which was dated and tendered as earnest money by Robinson on his November 19, 1966 offer to purchase was accepted by the plaintiff as earnest money on the instrument dated December 2, 1966. The terms of the offer, or “Agreement of Purchase” dated December 2, 1966, when presented in evidence, were typewritten and printed with the exception of the words “sellers agree to have brush cleaned from woods,” which were handwritten. The record is silent as to who wrote those words or when they were written.
+Another pertinent provision of the alleged offer to purchase stipulates as follows: “if the purchaser defaults in the performance of any of the obligations imposed by the terms hereof, owner may at his option treat this contract as null and void and retain earnest money as liquidated damages. If owner does not perform his obligations under this contract within said time purchaser may at his option treat this contract as null and void and receive the return of earnest money.”
+The record includes the exclusive listing contract between the defendant and his wife as owners and the plaintiff as their broker. That contract provides :
+“We, the undersigned owners, in consideration of your agreement to list the herewith described property and to use your efforts, or the efforts of your agents, to find a purchaser of the same, do hereby grant you the exclusive right to sell or exchange our property known as the Preston and Mary Ann Berwanger [property] * * * for the sum of $150,000.00, or any other price, terms or exchange to which we may consent.”
+This listing contract was signed by the defendant and his wife. The evidence discloses the plaintiff knew the purchase price of $137,500 was not acceptable to Mary Ann Berwanger before he procured the signature of W. H. Robinson on December 12, 1966 to the offer to purchase.
+On these relevant facts, the trial court withdrew the case from consideration of the Jury and entered final judgment in favor of the plaintiff in the sum of $9,455.87, being-the commission claimed by the plaintiff, with interest.
+The defendant presents one assignment of error: ‘ ‘ The court below erred in granting a directed verdict for the plaintiff.”
+This assignment of error presents three questions: first, was the acceptance of the unsigned offer to purchase binding on the defendant when that offer to purchase provided it was to he accepted by midnight of the day it was signed by the defendant; second, did the listing contract signed by the co-owners of the farm require the plaintiff to procure the signature of a purchaser who was ready, willing and able to purchase the farm at a price agreeable to both owners before the plaintiff would be entitled to a commission; and third, did the plaintiff act in good faith when he failed to procure the signature of Mary Ann Ber-wanger to the acceptance clause dated December 2, 1966, in accordance with the terms of the exclusive listing contract?
+In considering the first question, it is not controverted that the plaintiff wrote the contract of purchase and presented it to the defendant for signature before it was signed by the purported purchaser.
+It is the contention of counsel for plaintiff that the defendant signed an offer to sell on December 2, 1966 and not an acceptance of an offer to purchase. The plaintiff testified: “this was an offer made by Mr. Berwanger. I had no reason to doubt that she (Mary Ann Berwanger) would accept it. Just two or three days before in their home she had indicated that if this was alright with him it was alright with her and I didn’t drive clear back down to Cynthiana to have her sign it which I am sure at that time she would have. It was probably neglect on my part but I had no reason to doubt but that she would sign it. ’ ’
+Plaintiff further testified:
+“Q. Who wrote out Exhibit No. 6 — the Agreement of December 2nd?
+“A. Who typed up that Agreement?
+“Mr. Johnson: Yes.
+“A. I wrote that Agreement, sir. Filled in the blanks on a regular contract.
+“Q. Did you do that in your office before he saw it?
+“A. Yes sir. And presented it to Mr. Berwanger at— I think it was Andersons.”
+The prospective purchaser, W. H. Robinson, testified:
+“Q. Did you make the offer or did Mr. Berwanger— do you recall?
+“A. I believe I made the offer and Mr. Noftsger took it to Mr. Berwanger and then came back to me and said it had been accepted.
+“Q. These dates indicate Mr. Berwanger signed on the 2nd of December and you signed on the 12th of December. Does that refresh your recollection any?
+“A. Yes, I am certain that I signed it at the same time Mr. Noftsger did.
+“Q. The offer would have been from Mr. Berwanger?
+“A. Yes. I am sure Mr. Noftsger and I discussed it in which * * * then this resulted in this written offer to Mr. Berwanger and Mr. Berwanger accepted it and then I signed my acceptance.
+“Q. To his offer?
+“A. Yes, on the same day.”
+If, as claimed by the plaintiff, the defendant in fact made an offer to sell the farm and the prospective purchaser accepted that offer, then that purchaser would have been bound by the time specified in the contract for its acceptance, which was midnight December 2, 1966.
+It is fundamental in contract law that an offer limited in time cannot be construed to charge the parties thereto after the time limit designated has expired. Longworth v. Mitchell, 26 Ohio St. 334; Van Cantfort v. Colmar Realty Co., 13 Ohio Law Abs. 499; Midland Properties Co. v. Union Properties Inc., 77 Ohio Law Abs. 581.
+The plaintiff contends the failure to fill in the blank space which appears after the word “midnight” in the contract left the alleged contract of sale signed by the defendant open for acceptance by the purported purchaser for a reasonable time. Reasonable time is a fact to be determined by the trier of the facts. Long v. Equitable Life Assurance Society, 75 Ohio App. 277. In the instant case, the record is devoid of any evidence tending to prove whether ten days was or was not a reasonable time. Therefore, it must be determined that the acceptance provision of the alleged contract will control.
+In the instant case, all the parties involved in this litigation lived within relatively close proximity. There is no evidence to support the contention that it was unreasonable to provide for the acceptance of the alleged offer by midnight on December 2, 1966. In fact, the plaintiff testified that the reason he did not present the instrument signed by Preston Berwanger to his wife and co-owner was that he assumed she would have signed it and he saw no necessity to drive “clear back down to Cynthiana to have her (Mary Ann Berwanger) sign it,” which, he stated, “I am sure at that time she would have.”
+It follows that if the defendant did sign an offer to sell the farm to W. H. Robinson, that offer failed for want of acceptance by the purchaser within the time required for him to accept the offer to sell, that is, by midnight December 2, 1966.
+We now consider the question of whether the exclusive listing contract signed by the owners of the farm and tiie plaintiff on October 1, 1966 required the plaintiff to procure a purchaser who was ready, willing and able to purchase the farm at a price agreeable to both owners before he would be entitled to a commission.
+The exclusive listing contract provides:
+“We, the undersigned owners, in consideration of your agreement to list the herewith described property and to use your efforts, or the efforts of your agents, to find a purchaser of the same, do hereby grant you the exclusive right to sell or exchange our property * * * for the sum of $150,000.00, or any other price, terms or exchange to which we may consent.” (Emphasis added.)
+This listing contract specifically required the plaintiff to procure a purchaser to buy the farm at a price agreeable to both the owners. The exclusive listing contract does not provide that a commission would be due the defendant when he procured the signature of one of the owners to an acceptance clause of an unsigned offer to purchase.
+The plaintiff’s claim for a commission is against Preston Berwanger only and he bases his right to recover on the case of Cincinnati M & M Realty, Inc., v. Uckotter, 14 Ohio St. 2d 31. The facts in the instant case are entirely different from that case. In U¿hotter, supra, the broker did not know until after the listing contract was executed that Uckotter’s sister was a co-owner. The broker performed his contract with Uckotter. The court in U¿hotter recognized the lack of knowledge on the part of the broker that there was another owner. The syllabus in that case states in part:
+“In the absence of knowledge to the contrary, the broker may assume that the part owner can and will complete the transaction.”
+In the instant case, the plaintiff obligated himself to be the agent of the owners. He knew before the prospective purchaser’s signature was procured that Mary Ann Ber-wanger would not be agreeable to selling the farm for $137,500. According to plaintiff’s own testimony, he assumed Mrs. Berwanger would have signed the instrument dated December 2, 1966. The plaintiff had no legal right to make such assumption as a basis to recover a commission from the defendant.
+In relation to the question of whether the plaintiff acted in good faith, the actions of the parties have been fully reviewed herein. Such review leaves some concern as to whether plaintiff was in fact representing the owners of the farm or acting as the agent of the purported purchaser. On the 3rd day of December, 1966, at the defendant’s home, and after the plaintiff had been advised by Mary Ann Berwanger that she would not sign the contract signed by her husband on December 2, 1966, the defendant testified the plaintiff told him: “Young man, you made your blister, now sit on it!” This statement was not denied.
+Having determined that the plaintiff failed to perform the conditions of the exclusive listing contract, and that he failed to procure a purchaser in accordance with the terms of the instrument signed by the defendant on December 2, 1966, it is not necessary to belabor the question of good faith on behalf of the plaintiff.
+The judgment of the Court of Common Pleas for Clinton Connty is reversed and final judgment is entered in favor of the defendant at the plaintiff’s costs.
+Judgment reversed.
+Shannon, P. J., and Hlldebeant, J., concur.
