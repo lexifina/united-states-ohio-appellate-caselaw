@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-03-30"
+citations: ["17 Ohio Law Abs. 621"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PARR and ROBERTS, JJ, concur in the judgment."]
+parties: ["RUFFALO et v WISHKA"]
+source_url: "https://static.case.law/ohio-law-abs/17/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657475
+cites_cases: ["124 Oh St, 12"]
+---
+
+# Ruffalo v. Wishka
+
+## Majority (By LYNCH, J.)
+
+OPINION
+By LYNCH, J.
+This is a proceeding in error from the Court of Common Pleas of this county. The plaintiffs in error were defendants in the court below. This cause was originally instituted in the Municipal Court of the City of Youngstown, being an action for money only. The case was tried in said Municipal Court on June 6, 1933, without a jury., and judgment was rendered therein against plaintiffs in error and in favor of the defendant in error on that date. On June 8th, 1933, the second day after the trial, plain tiff s'in error filed a motion for a new trial in said Municipal Court. It is conceded and also appears from the record that if the motion for a new trial was legally filed, the same was seasonably so filed. The record shows that the formal judgment entry was not filed in the Municipal Court until June 9th, 1933. Said motion for a new trial in that court was overruled on June 26th, 1933, and an appeal bond was duly filed by the plaintiffs in error in said last named court, the same being in due form, on July 6th, 1933, less than ten days after the rendition of said judgment. A proper transcript from said Municipal Court was duly filed in said Common Pleas Court. Thereafter defendant in error filed a motion in said Common Pleas Court, asking that said appeal be dismissed, for the claimed reason that such bond was not filed within the time fixed by law. The time in which an appeal bond must be filed to take a case from said Municipal Court to the Court of Common Pleas is prescribed by 81579-156 GC, which fixes the time for so doing “within ten days from the rendition of the judgment.”
+The Court of Common Pleas sustained said motion and dismissed the appeal, so the only question now presented for our determination is whether the said Court of Common Pleas was in error in finding and adjudging that the appeal bond was not filed within ten days from the rendition of the judgment in said Municipal Court.
+Sec 1579-160 GC, is a part of the.legislative act creating said Municipal Court, and reads, in part, as follows-:
+“Law governing Courts of Common Pleas applicable. Stay of execution. The law governing the Court of Common Pleas as to security for costs, motions for new trials, vacation or modification of judgment before and after terms, the referring of matters to a referee, the issuing of execution on orders for stay of execution, and the taking of depositions, shall be held to apply so far as applicable to the Municipal Court.”
+Sec 11578 GC, relative to the filing of motions for new trials in the Common Pleas Court, provides that the motion must be made, or filed, within three days after the verdict or decision is rendered.
+Sec 11599, GC, reads, in--part, as follows:
+“When a motion for a new trial is filed, then such judgment shall be entered only when the court has sustained such verdict by overruling the motion. Upon such overruling it shall immediately be entered.”
+Sec 11599 GC, has been construed by our Supreme Court in the case of Boedker v The Warren E. Richards Company, 124 Oh St, 12. The syllabus in this case reads as follows:
+“1. Where an action at law is submitted to the court, trial by jury being waived by the parties, the finding of the court is the equivalent of a verdict of a jury, and is to be governed ’by all statutes relating to verdicts.
+2. Under the provisions of §11599, GC, (§5826, Revised Statutes, - as amended in 1902, 95 O.L., 351), an entry of judgment in a- suit at law before the expiration of the three-day period within which a motion for a new trial may be filed, is ineffective to start the running of the limitation for filing a petition in, error.
+3. In the event a motion for a new trial is in fact filed within three days after the entry of judgment, the limitation within which a petition in error may be filed runs from the entry of the judgment upon the overruling of such motion for new trial.”
+In the case just cited, which is binding upon this court, it is held that in an action at law, insofar as the right to file motion for new trial is concerned, it is immaterial whether the .case was tried by a jury or by the court, and further, in our judgment, in the event a motion for new trial be filed before the expiration of the three-day period within which a motion for a new trial may be filed, the time within which to file an appeal bond would not commence to run until after such motion was either sustained or overruled by the court. By virtue of said §§1579-160, 11578 and 11579 GC, the time in which a motion for a new trial may -be filed in said Municipal Court, when a final judgment may be entered therein, and when the ten-day period in which ah appeal bond may be filed, in an action at law, whether trial by a jury or the Court, is the same as in a law action originally commenced in our Common Pleas Court, •
+Our Court of Appeals, Second District, has decided the identical question here -involved, as to whether the appeal bond in the instant case was filed in timé. This is the case of Columbus Railway, Power & Light Company v C. & Z. Furniture, Warehouse and Auction Company, 13 Ohio Law Abstract, 241. In that case the appeal bond was also challenged by a motion to dismiss the appeal. That was an action at law, tried in the Municipal Court of the City of Columbus. So far as the question heie involved is concerned, there is no difference between the legislative act creating the Municipal Court of the City of Columbus and the Municipal Court of the City of Youngstown. In the case so decided by the Court of Appeals of the Second District, the next day after the judgment was entered the defendant filed its motion for a new trial. Before said motion for new trial was decided by the court, the defendant filed an appeal bond with the clerk of the Municipal Court. Subsequent to the filing of such appeal bond, the motion for new trial was overruled. Under the appeal bond so filed, the case was appealed to the Court of Common Pleas of Franklin- County, ■whereupon the plaintiff in the action filed in said last named court, moved to dismiss the appeal on the ground that the appeal bond, given before a judgment was properly entered in said Municipal Court,--was premature. Said Court- of Appeals held, and we believe properly so, that said appeal bond was prematurely given.
+Some additional authorities have been cited by counsel for the parties in their respective briefs, all of which we have read, but we do not consider it necessary to discuss the- same in this opinion. For the reasons stated, in our judgment, the Court of Common Pleas was in error in sustaining the motion dismissing the appeal to that court, and the judgment of the Court of Common Pleas is reversed and this cause is remanded to said court for further proceedings according to law.
+Judgment reversed.
+PARR and ROBERTS, JJ, concur in the judgment.
