@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "50898"
+decided: "1987-02-23"
+citations: ["36 Ohio App. 3d 136"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stillman, P.J., and Mitrovich, J., concur."]
+parties: ["Marran, Exrx., Appellee, v. Sawchyn, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/36/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713339
+cites_cases: ["104 F.R.D. 21", "14 OBR 133", "14 Ohio App. 3d 118", "155 Ohio St. 149", "44 O.O. 140", "454 N.E. 2d 976", "470 N.E. 2d 263", "7 OBR 229", "7 Ohio App. 3d 182", "787 F. 2d 580", "98 N.E. 2d 39"]
+---
+
+# Marran v. Sawchyn
+
+## Majority (Wilkowski, J.)
+
+Wilkowski, J.
+Before the court is an appeal from the Cuyahoga County Court of Common Pleas, wherein judgment was rendered against defendant-appellant, Ivan Sawchyn, for $4,750 plus interest and costs.
+On July 9, 1981, in a separate case and judgment entry between the same two parties, plaintiff-appellee (lessee) agreed to vacate the specified premises upon payment of $4,000, plus the $750 security deposit, by the defendant-appellant (lessor). The payment of said amount, pursuant to a promissory note, was to be made in equal monthly installments of $160. Upon default by defendant, plaintiff filed suit for judgment on the note. Defendant counterclaimed for damages based upon plaintiff’s failure to leave the premises in good condition.
+While the ensuing action was pending, plaintiff-appellee, Carl Markan, died on January 13, 1984. Four days later a suggestion of death in the form of a death certificate was filed pursuant to Civ. R. 25(E). Subsequently, on April 25, 1984, Virginia Markan was appointed executrix of her husband Carl’s estate; and two days later, on April 27, 1984, she filed a motion to be substituted as a party-plaintiff in the pending action. After the trial court denied defendant’s motion to dismiss the action on the basis of failure to substitute a party within the ninety days, the case proceeded to trial with judgment subsequently rendered in favor of plaintiff.
+Defendant sets forth as his first assignment of error:
+“The trial court erred in allowing Virginia Markan to be appointed substitute plaintiff.”
+Defendant contends the substitution of Virginia Markan on behalf of her deceased husband was made after a period of ninety days and, therefore, was improper pursuant to Civ. R. 25 (A)(1). Essentially, the argument is that the motion for substitution was made after a period of ninety days from the date that the suggestion of death was filed with the court and, as such, substitution was improper and the case should have been dismissed. We disagree.
+Civ. R. 25(A)(1) states, in pertinent part:
+“(A) Death
+“(1) If a party dies and the claim is not thereby extinguished, the court shall, upon motion, order substitution of the proper parties.* * * Unless the motion for substitution is made not later than ninety days after the death is suggested upon the record by service of a statement of the fact of the death as provided herein for the service of the motion, the action shall be dismissed as to the deceased party.”
+Civ. R. 6(B) states, in pertinent part:
+“Time: extension. When by these rules or by a notice given thereunder or by order of court an act is required or allowed to be done at or within a specified time, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if request therefor is made before the expiration of the period originally prescribed or as extended by a previous order, or (2) upon motion made after the expiration of the specified period permit the act to be done where the failure to act was the result of excusable neglect; but it may not extend the time for taking any action under Rule 50(B), Rule 59(B), Rule 59(D) and Rule 60(B), except to the extent and under the conditions stated in them.”
+Reading the foregoing rules in the conjunctive, rather than the disjunctive, clearly leads to the conclusion that the ninety-day period of time provided in Civ. R. 25(A)(1) may be extended after the expiration of time where the failure to act was a result of excusable neglect. The ninety-day period of time was not meant to serve as an absolute bar, but rather, may be extended under the terms and provisions of Civ. R. 6. A similar result has been reached in the federal court system. Cf. 7C Wright, Miller & Kane, Federal Practice and Procedure (1986), Section 1955, at 542-549; Blair v. Beech Air craft Corp. (D.C. Pa. 1984), 104 F.R.D. 21, affirmed (C.A. 3, 1986), 787 F. 2d 580.
+In this case, the record indicates that on April 25, 1984, Virginia Mark-an was appointed executrix of her husband’s estate ninety-nine days after the suggestion of death was filed with the court. Two days later, a motion to substitute the party-plaintiff was filed. We find the trial court’s decision permitting the substitution to be an appropriate exercise of its discretion. The length of time was reasonable, and defendant has set forth no prejudice. Further, the delay in Virginia Mark-an’s appointment constitutes grounds for the extension of time. Accordingly, there is no error in the trial court’s determination. The first assignment of error is found to be not well-taken.
+Defendant’s second assignment of error provides:
+“The trial court erred in not granting defendant’s motion for a new trial because the verdict was based on false testimony.”
+In the proceedings below, defendant filed a motion for a new trial after the judgment had been entered alleging that a witness’s testimony was false. Civ. R. 59 sets forth the basis for granting a motion for new trial. In considering a motion for new trial, the trial court must exercise its discretion in determining whether a new trial is warranted under the circumstances. An appellate court, when reviewing that decision, may reverse only where it finds an abuse of discretion. The reviewing court is not to substitute its judgment for that of the trial court. Verbon v. Pennese (1982), 7 Ohio App. 3d 182, 7 OBR 229, 454 N.E. 2d 976.
+In Tanzi v. New York Central R.R. Co. (1951), 155 Ohio St. 149, 153, 44 O.O. 140, 142, 98 N.E. 2d 39, 42, the Ohio Supreme Court stated the following rule for granting new trials where the movant claims that false testimony was given:
+“* * * A witness is required to take an oath before giving his testimony and is subject to prosecution for perjury if he gives false testimony. Furthermore, juries have the duty to detect and disregard false testimony. Finally, in the event that a jury does not detect and disregard false testimony, the trial court and the Court of Appeals [both have] a clear duty to grant a new trial on the weight of the evidence where it appears probable that a verdict is based upon false testimony.”
+In this case, defendant claims the record indicates that a key witness’s testimony consisted of false statements. In reviewing the record, we conclude to the contrary. Although the testimony may at times have been inconsistent and contradictory, there is insufficient basis for a determination that it was false. If apparent contradictions by witnesses justified a new trial, courts would be besieged with motions for new trials because such evidence is found in almost every trial.
+Summarizing, defendant has failed to establish the probability that the verdict was based upon false testimony. Accordingly, the second assignment of error is found to be not well-taken.
+The third assignment submitted states:
+“The court erred in giving a confusing jury instruction as to defendant’s counterclaim.”
+Defendant challenges the trial court’s jury instruction. This assignment of error is, likewise, overruled. Clearly, during the trial proceedings, every opportunity was given to correct the jury charge. Defendant failed to do so. Further, upon reviewing the instruction, we do not find it so inconsistent with the evidence given that it unduly prejudiced the defendant.
+The fourth assignment of error provides:
+“The trial court erred in granting plaintiff interest at ten percent per an-num from the date of judgment.”
+This assignment advances that the judgment entry should not have provided interest to plaintiff on the amount of the judgment. It is argued that under the provisions of R.C. 1343.02 and 1343.03, no interest should have been awarded, that there was an express written agreement between the parties so stating, and that, according to the aforementioned Revised Code sections, the interest allocated was inappropriate. As the court stated in Hosford v. Automatic Control Systems, Inc. (1984), 14 Ohio App. 3d 118, 14 OBR 133, 470 N.E. 2d 263, at paragraph two of the syllabus:
+“Upon issuance of a judgment, principal and interest become merged and no distinction can be made as between amounts originally attributable to principal and those attributable to interest. The amount reflected in the judgment then becomes subject to the accrual of statutory interest.”
+Under the foregoing decision, plaintiff was entitled to a judgment on the promissory note, with the subsequent award of interest on the judgment.
+We disagree with defendant’s position. Defendant argues that since the promissory note contained a specific provision which held that no interest was to be calculated on the promissory note, then no interest can be awarded on the judgment. In support of his position, defendant cites R.C. 1343.01 et seq.
+The provisions of the foregoing-mentioned Revised Code Chapter are not applicable to defendant’s argument. The provisions of R.C. 1343.01 et seq. concern the trial court’s determination as to the amount of interest which would be appropriate as a measure of damages, and not as a subsequent determination of interest to be calculated on the payment of the judgment itself. Said differently, the provisions of R.C. 1343.01 et seq. concern the calculation of damages available to the nondefaulting party. This chapter then places limitations as to the reasonable amount of interest which is available on a promissory note. The interest calculated thereon constitutes the measure of damages available to the party. It does not place a restriction on the subsequent assessment of interest on the judgment itself. Accordingly, defendant’s argument has no applicability, is without merit and found not well-taken.
+Upon due consideration, this court finds substantial justice has been done the party complaining and the judgment of the Cuyahoga County Court of Common Pleas is affirmed. This cause is remanded to said court for assessment of costs. Costs to appellant.
+Judgment affirmed.
+Stillman, P.J., and Mitrovich, J., concur.
+Stillman, P.J., retired, of the Eighth Appellate District; Wilkow-ski, J., of the Sixth Appellate District; and Mitrovich, J., of the Court of Common Pleas of Lake County, sitting by assignment in the Eighth Appellate District.
