@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-02-08"
+citations: ["44 Ohio App. 205"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Crow, J., concurs.", "Kinder, J., dissents."]
+parties: ["Cardosi v. Wise et al."]
+source_url: "https://static.case.law/ohio-app/44/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1331072
+---
+
+# Cardosi v. Wise
+
+## Majority (Klinger, J.)
+
+Klinger, J.
+This is a proceeding in error to reverse the judgment of the court of common pleas of Allen county, Ohio, entered on a verdict for the defendants in a suit in ejectment involving parts of in-lots Nos. 139, 140, 141 and 142 in the Original Plat of Lima, Ohio.
+The undisputed facts, proved by the evidence, documentary and oral, are, so far as material to an understanding of the case, as follows: Two tiers of inlots, sometimes later herein referred to as lots, each tier containing four inlots, are shown on the plat, bounded on the north by North street, on the east by Main street, on the south by Mulberry alley, and on the west by Elizabeth street; the west tier of these inlots are numbered 139, 140, 141 and 142, in which, as has been said, is the property sought to be recovered by plaintiff, No. 139, adjoining the south line of North street, and Nos. 140, 141 and 142, lying south of No. 139, in the order mentioned, so that No. 142 adjoins Mulberry alley. Between Main and Elizabeth streets, and extending southward from North street to Mulberry alley, and further southward, exists Cherry alley, shown by the plat, which alley has been in use as a public way more than forty years, within which period it has been improved by the city of Lima by paving and otherwise.
+The plat does not definitely locate Cherry alley by feet from either the east line of Elizabeth street or the west line of Main street, but does show it to be within lines abutting the west tier of lots, at the east ends thereof, and the east tier of lots, at the west ends of the latter, and apparently near if not at the center of the two tiers.
+The east tier of four lots will not be particularly referred to, other than to say that No. 138, at the north, is bounded, as has been stated, on the west by Cherry alley, on the north by North street, and on the east by Main street, and is fully occupied by three brick buildings extending to the limits of the alley and two streets mentioned, as such alley and two streets actually exist.
+The distance on North street, and on Elizabeth street and Cherry alley as those two thoroughfares now actually exist, is somewhat more than two hundred and six feet, and the distance from Cherry alley to Main street, as those two thoroughfares now exist, is somewhat more than two hundred and one feet. These measurements show a surplusage between Elizabeth street and Cherry alley, as those two thoroughfares now exist, of more than three feet, and a surplusage between Cherry alley and Main street of more than one foot. The plat shows both Cherry alley and Mulberry alley to be sixteen and a half feet wide, Elizabeth street to be sixty-six feet wide, and Main street, between North street and Mulberry alley, to be one hundred feet wide; all which widths are noted on the plat within the designations of the lines of said alleys and streets, respectively.
+The notes appearing on the plat, below the delineation of the several inlots and outlots and streets and alleys shown by the plat, state that all eight inlots within the two tiers mentioned hereinabove show a width of fifty feet and a depth of two hundred feet.
+When and by whom Main and Elizabeth streets and Cherry and Mulberry alleys were actually opened to the public is not proved by any evidence.
+Elizabeth Sanford owned the west tier of inlots Nos. 139, 140, 141 and 142, and conveyed portions thereof off the west ends to the Buckeye Pipe Line Company, the description of which parts is unimportant here; she, later, on the 27th day of February, 1909, conveyed to a predecessor in title of plaintiff, G-. E. Bluem, by metes and bounds, those portions of inlots Nos. 139, 140, 141 and 142, as follows: “Fifty (50) feet off of the east end of Inlots Number 139, 140, 141 and 142 in the Original Plat of Lima, Ohio.”
+By a like description plaintiff obtained title to said east fifty feet of said inlots, on August 8, 1927, from a successor in title of said G-. E. Bluem, and it is in virtue of that title that plaintiff claims ownership of the premises in controversy, which is a strip three and a half feet wide on North street, extending in a southerly direction to the north line of Mulberry alley, said strip being at the latter line one foot, seven and a half inches wide.
+The defendants are Julius Wise and Charles Killen, who acquired title to those portions of inlots Nos. 139, 140, 141 and 142 subsequently to the conveyances to the Buckeye Pipe Line Company and G-. E. Bluem, the title of said Wise and Killen being described so as to specifically embrace all said four inlots not theretofore conveyed to the Buckeye Pipe Line Company and G. E. Bluem.
+Soon after G-. E. Bluem became owner of the fifty feet to which plaintiff succeeded in title, Bluem built a storeroom fronting on North street, with vehicle guards at the east, to the west line of Cherry alley as the same had theretofore been paved by municipal proceeding, the building being fifty feet and a fraction of an inch wide; and, as believed by Bluem, according to his testimony, the building with the vehicle guards was wholly on the fifty feet he intended to acquire. That building, with the vehicle guards, at the time plaintiff acquired title was in the same condition as built by Bluem.
+The record in this court, including the bill of exceptions, is quite voluminous, and many assignments of error are laid by plaintiff in error, Victor Cardosi, who was the plaintiff below. Those assignments have to do with the admission and exclusion of evidence, charges given at the request of defendant, and so forth.
+A motion for a directed verdict for defendants was made and overruled at the conclusion of plaintiff’s evidence, and a like motion was similarly disposed of at the conclusion of all the evidence.
+One of the grounds of those motions was that the evidence conclusively showed plaintiff to have fifty feet off the east ends of inlots 139, 140, 141 and 142.
+If there had been a conflict in the evidence on the question of the point where the east line of the fifty feet owned by plaintiff is located, the case should have been submitted to the jury, otherwise, at the conclusion of the evidence, the case rested solely on a question of law as to where such east line is.
+A plat of lands into parcels known as lots, with public thoroughfares or ways known as streets and alleys, is to be interpreted as any other instrument would be pertaining to real estate, such as a deed, mortgage, and the like.
+Such question is, as a general rule, for the court, especially when complete and unambiguous. Elliott, Roads and Streets (4th Ed.), vol. 1, Sections 130 and 131, which authority is in line with the rule universally announced by text-writers and courts.
+That course and distance must give way to monuments in describing lands and tenements is a rule too thoroughly established, and too universal, to require citation of authority.
+A lot, an inlot, or an outlot, may be a monument; lines on a plat may be monuments; objects mentioned in a conveyance or on a plat may also be monuments.
+Applied to the case at bar, the line on the plat, at the east of Elizabeth street, and the line on the plat, at the west of Cherry alley, must be regarded as monuments; and those lines — under the doctrine that monuments control course and distance, or that course and distance give way to monuments, as the rule is sometimes stated — the figures appearing in the notes on the plat showing the lots to be two hundred feet easterly and westerly, must yield to the actuality of the distance between Elizabeth street and Cherry alley, whatever it may be.
+It was the manifest intention of the dedicator that both the west and east tiers of lots should extend to Cherry alley.
+If Elizabeth and Main streets and Cherry and Mulberry alleys were, or any of them were, actually opened when the dedication by plat was made by the dedicator, the latter and his privies became bound by the location, wherever it was, as to lines or measurements on the plat.
+There being, as we have said, no proof showing when and by whom the actual openings or opening to the public were made, it must be presumed either that the dedicator himself opened them, or that the officers of the municipality did so rightfully; that is, with his sanction. In other words, there is a presumption that all those thoroughfares are where the dedicator and the municipality fixed them, and dedicator’s privies are bound as he would be.
+It is as probable that Main street or Elizabeth street was erroneously placed as to the plat as it is that Cherry and Mulberry alleys were erroneously placed where they are.
+The motion to direct a verdict for defendants should have been sustained, and judgment entered accordingly, and therefore it is unnecessary to determine whether the court erred or whether it did not in the other procedural steps at the trial.
+Judgment accordingly.
+Crow, J., concurs.
+Kinder, J., dissents.
