@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1940-09-09"
+citations: ["67 Ohio App. 248"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nichols, P. J., and Carter, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Partanen, Appellant."]
+source_url: "https://static.case.law/ohio-app/67/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368249
+---
+
+# State v. Partanen
+
+## Majority (Phillips, J.)
+
+Phillips, J.
+An affidavit was filed against Charles Partanen in the Municipal Court of Painesville, charging him with unlawfully selling intoxicating liquor in that city without a license.
+Subsequently he was arrested and arraigned, pleaded not guilty, was thereafter tried, found guilty, fined and sentenced to six months imprisonment in the county jail, by Honorable Irene Lennon, acting for a three-day period as judge of that court in the stead and by appointment of the Honorable Charles P. Baker, Jr., the duly elected judge of that court. Prom that judgment he appealed to the Court of Common Pleas of Lake county, which court affirmed the judgment of the Municipal Court.
+Prom the judgment of the Court of Common- Pleas he- appeals to this court on questions of law, contending that the provisions of the Municipal Court Act . of Painesville, authorizing the judge thereof to appoint a substitute during his absence, is unconstitutional in that it violates the provisions of Section 10, Article IV of the Constitution of Ohio, that “all judges, other than those provided for in this Constitution, shall be elected by the electors of the judicial district for which they may be created, * * that Irene Lennon was not one of the judges provided for in the Constitution, and accordingly he was denied his legal right to be taken before a court or magistrate and be informed of the charge against him in accordanee with the provisions of Section 13433-1, General Code; that he did not waive trial by jury in writing as provided in Section 13433-10, General Code, which was a- legal right guaranteed to him notwithstanding the provisions of Section 13424-1, General Code, that, “In prosecutions before a magistrate, when imprisonment is a part of the punishment, if a trial by jury is demanded, the magistrate, not less than three days nor more than five days before the time fixed for trial, shall certify to the clerk of the Court of Common Pleas of the county that such prosecution is pending before him. Failure to demand a jury as in this section provided, shall be deemed a waiver of the same”; which he claims is in conflict with Section 13433-10, General Code.
+That by reason of all of the foregoing he has been deprived of his constitutional right of trial by a jury in accordance with law, in violation of the due process of law clauses of the Constitutions of the United States and the state of Ohio.
+Finally he contends that'the judgment of the lower court is against the manifest weight of the evidence, that the corpus delicti of the crime was the sale of intoxicating liquor without a license, and the evidence in support thereof was incompetent and erroneously admitted.
+Presented then for consideration and determination is the serious and important question whether the Legislature can authorize the judge of the Municipal Court of Painesville to temporarily appoint a substitute to act in his stead during his absence or incapacity to act.
+Coming forthwith to a consideration of that question it is observed that Section 18, Article IV of the Constitution provides :
+“The several judges of the Supreme Court, of the Common Pleas, and of such other courts as may be created, shall, respectively, have and exercise such power and jurisdiction, at chambers, or otherwise, as may be directed by law. ’ ’
+In our opinion this section of the Constitution disposes of the principal question presented.
+The power to appoint a substitute, during his absence, was conferred upon Judge Baker, the duly elected judge of the Municipal Court of Painesville, by the provisions of Section 1579-1073, General Code, a section of the act which created that court, and which so far as pertinent provides:
+“Whenever the incumbent of any office created by this act shall be temporarily absent or incapacitated from acting, the judge shall appoint a substitute who shall have all the qualifications required of the incumbent of the office. Such appointee shall serve until the return of the regular incumbent or until his incapacity ceases. * *
+In 37 Ohio Jurisprudence, 342, Section 50, it is stated:
+“Under the principle of the separation of sovereign powers, the legislative or general lawmaking power of the state is vested in the state Legislature. Indeed, the Constitution of Ohio expressly confers the legislative power of the state upon the General Assembly. This legislative power granted to the General Assembly is restrained and limited only by constitutional provisions. Accordingly, such of its acts as are passed in the exercise of legislative power and without transcending any limitation which the Constitution places upon the exercise of that power are valid.”
+It is not disputed that the act creating the Municipal Court of Painesville was passed in the proper exercise of the legislative power conferred upon the Legislature by the Constitution, and a careful study of Section 1579-1073, General Code, fails to disclose any manner in which it transcends any limitation which the Constitution places upon the power expressly conferred upon the Legislature.
+The portion of Section 10, Article IV of the Constitution which provides that “all judges, other than those provided for in this Constitution, shall be elected by the electors of the judicial district for which they may be created,” obviously pertains to the election of a judge and not to temporary substitution of an acting judge for the duly elected judge thereof, and has no application here.
+Likewise, Section 13, Article IV of the Constitution which provides that, “In case the office of any judge shall become vacant, before the expiration of the regular term for which he was elected, the vacancy shall be filled by appointment by the Governor, until a suecessor is elected and qualified; and such successor shall be elected for the unexpired term, at the first annual election that occurs more than thirty days after the vacancy shall have happened,” pertains to the manner of filling a vacancy in the office of judge, and likewise has no application here.
+This observation is so clear to us that we believe it is useless to devote further time to the question.
+Accordingly by virtue of the legislative power conferred upon it by Section 18, Article IV of the Constitution, the Legislature had the right and power to direct the manner of appointment of a substitute judge of the Municipal Court of Painesville and confer that power and jurisdiction upon the duly elected judge thereof, by an act of that body, which created that court, by virtue of the language embodied therein “shall, respectively, have and exercise such power and jurisdiction # * as may be directed by law,” and
+Section 1579-1073, General Code, in our opinion in no manner transcends any -limitation which the Constitution places upon the exercise of the legislative power conferred, and we so hold.
+"We come now to consider the claimed conflict between Sections 13424-1 and 13433-10 of the General Code, which provide respectively as follows:
+“In prosecutions before a magistrate, when imprisonment is a part of the punishment, if a trial by jury is demanded, the magistrate, not less than three days nor more than five days before the time fixed for trial, shall certify to the clerk of the Court of Common Pleas of the county that such prosecution is pending before him. Failure to demand a jury as in this section provided, shall be deemed a waiver of the same.”
+“* * * If the offense charged is a misdemeanor, and the accused in a writing subscribed by him and filed before or during the examination, waive a jury and submit to be tried by tbe magistrate, he may render final judgment.”
+Tbe act creating tbe Municipal Court of Painesville makes provision in Section 1579-1048, General Code, for trial by jury and tbe provisions thereof are controlling, and we deem it unnecessary to a determination of this case to pass upon any claimed conflict between Sections 13424-1 and 13433-10, General Code.
+Section 1579-1048, General Code, provides:
+“All causes in tbe Municipal Court, both civil and criminal, shall be tried to tbe court, unless a jury be demanded in writing by a party entitled to tbe same. Tbe time for making a demand for a jury in civil cases may be fixed and limited by rule of court. In all criminal cases, in which tbe accused is entitled to a jury trial, a demand for a jury trial must be made by the accused before tbe court shall proceed to inquire into tbe merits of tbe cause, otherwise a jury shall be deemed to be waived and tbe cause shall be tried by tbe court.”
+There is no evidence before us that defendant made written demand for trial by jury before the judge of tbe Municipal Court proceeded to inquire into tbe merits of bis case as provided by Section 1579-1048, General Code, and in accordance with tbe provisions thereof, by failing to make written demand to be tried by a jury, be waived tbe right to trial by jury and submitted to trial by tbe court, whom we have held was a legal magistrate.
+It follows therefore that our bolding is that defendant was tried and convicted according to law, and that there has been no violation of the due process of law clauses of tbe Constitutions of tbe United States or state of Ohio.
+We find no error prejudicial to tbe rights of tbe defendant in tbe admission of evidence as to tbe corpus delicti of tbe crime.
+We have carefully read and weighed tbe evidence in this case, and have had no difficulty arriving at the conclusion that the judgments of the Municipal Court and the Court of, Common Pleas are not against the manifest weight of the evidence.
+It follows from what we have said that the judgment of the lower court must be and hereby is affirmed.
+Judgment affirmed.
+Nichols, P. J., and Carter, J., concur.
