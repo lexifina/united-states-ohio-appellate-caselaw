@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-05-22"
+citations: ["45 Ohio App. 321"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sherick, P. J., and Montgomery, J., concur."]
+parties: ["Ocean Accident & Guarantee Corp., Ltd., v. Schmitkin et al."]
+source_url: "https://static.case.law/ohio-app/45/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336768
+cites_cases: ["29 Ohio St., 351"]
+---
+
+# Ocean Accident & Guarantee Corp. v. Schmitkin
+
+## Majority (Lemert, J.)
+
+Lemert, J.
+In the court below Blanche E. Schmit kin, having previously obtained a judgment for $3,00( against one Louis Schumann, which judgment was un paid, brought a direct action against the Ocean Acci dent & Guarantee Corporation, Limited, plaintiff in error, under the provisions of Section 9510-4 of the General Code. This case was tried to the court below and a jury, plaintiff recovering a verdict upon which judgment was later entered. Thereupon the plaintiff in error brought these proceedings in error, and makes the two following claims:
+1. The judgment against it should be reversed and final judgment entered in its favor.
+2. If not entitled to final judgment in its favor, then that the judgment be reversed and the cause remanded for a new trial on account of errors committed by the trial court. Plaintiff in error issued to defendant in error Louis Schumann an automobile liability policy containing the following agreement:
+“The Ocean Accident and Guarantee Corporation, Limited, herein called the Company, in consideration of the premium herein provided, and of the Declarations forming a part hereof, and subject to the exclusions and conditions hereinafter contained, does hereby agree * * * as follows:
+“(1) To pay all sums which the Assured shall become liable to pay as damages (either direct or consequential) imposed by law for personal bodily injuries (including death at any time resulting therefrom) caused as the result of the ownership, maintenance or use of any automobile described in said Declarations, but not exceeding the limits of insurance expressed in paragraph 9 of the Declarations.”
+As to the exclusions above mentioned, the policy on its face provided as follows: “While any automobile described herein is operated by any person whose age is less than the age limit fixed by law, or under the age of sixteen years in any event.”
+The automobile covered by the policy herein was a Ford roadster ownd by Schumann and usd by him in his grocery business on West Tuscarawas avenue, Canton, Ohio. He had in his employ a young man by the name of William Parry, who worked for him on Saturdays, and who occasionally delivered groceries in the truck. On Saturday afternoon, May 18, 1929, Parry was told by his employer, Schumann, to make some deliveries and then to take some rubbish to the dump. In the course of his deliveries William Parry encountered his friend, Wilbur Ohalfant, a boy who was fifteen years and four months old on the day in question. As a result of this meeting, Wilbur Ohalfant got onto the truck and Parry allowed him to drive. Ohalfant took his. place behind the wheel and had driven about a half mile when an accident occurred. While making a turn from McKinley avenue, which runs north and south, to Tuscarawas avenue, which runs east and west, he failed to straighten the car up after it got into Tuscarawas avenue, and it continued to turn and ran up over the south curb of Tuscarawas avenue and injured the plaintiff, Mrs. Schmitkin, and two other people.
+The defendant’s answer alleges, and the plaintiff’s reply admits, the following:
+“1. That no insurance was granted by the policy while any automobile described therein was operated by any person whose age was less than the age limit fixed by law, or under the age of sixteen years in any event.
+“2. That at the time of the accident Wilbur Chalfant was under the age of sixteen years.
+“3. That Section 61 of the ordinances of Canton, Ohio, was in full force and effect and provided as follows: ‘No, person under the age of sixteen years shall operate, drive or propel any automobile or motorcycle on any thoroughfare in the city nor shall anyone being the owner or person in charge of an automobile or motorcycle permit anyoiie under the age of sixteen years to operate or drive the said vehicle on any public highway within said city.’
+“4. That Section 13002 of the General Code of Ohio provided that 'No child under the age of sixteen years shall be employed, permitted or suffered to work in any capacity * * * in operating any automobile, motor ear, or truck.’ ”
+So that the only point in controversy between plaintiff and defendant in the court below was whether under the evidence this Ford truck at the time of the accident was or was not being operated by Wilbur Chalfant, who admittedly was under the legal age limit of sixteen years.
+The record discloses that Chalfant operated the Ford truck without any interference or assistánce from Parry during the half mile covered before the accident. This is undisputed. At or about the time the accident happened, and at about the time the car got over the curbing and onto the sidewalk, the record discloses that Parry reached over and grabbed hold of the steering wheel and so changed the course of the car as to cause it to collide with Mrs. Schmitkin. There is some controversy in the record as to who was exactly controlling the car at the time of the accident. As to this contention there was much evidence both pro and con as to who produced the dangerous situation which brought about and produced the injury. This was a question for the jury, under proper instructions from the court, so that the simple and clear-cut question was presented to the jury, and the jury having decided that question in favor of the defendant in error we are unable to say from an examination of the whole of the testimony in the record that the verdict of the jury was not warranted. It was for the jury to say, under all the evidence and circumstances before it, whether the turning of the steering whéel by Parry after the car had gotten up onto the curbing or sidewalk, and was in a situation where injury to pedestrians was practically inevitable, whether that terminated Chalfant’s operation of the car and transferred its operation to Parry. This was for the jury to find and determine.
+As to the second ground of error relating to the trial court’s refusal to permit the plaintiff in error the right to open and close the argument, as requested by it, we find that under the pleadings and the issues as made up in this case, together with the stipulations contained in the record, the court in its holding on this matter committed no error, as disclosed by the record.
+As to the third ground of error presented in brief and argument, that is, in the cross-examination of Parry as a witness, with reference to his theft of an automobile, we find that in Webb v. State, 29 Ohio St., 351, it was held:
+“The impeachment of the credit of a witness by showing that he has made statements at other times contradictory of his testimony given on the trial, does not lay the foundation for sustaining him by proof of his reputation for truth.
+“Evidence can not be given to prove an infamous crime against a witness, of which he has not been convicted, for the purpose of impeaching his credit; yet, where the question as to whether the witness is guilty of such crimes becomes the legitimate subject of inquiry on the trial, his reputation for truth may be proved, to rebut the imputation of guilt which the evidence makes against him. ’ ’
+And at page 358 of Webb v. State, White, J., says: “At common law, conviction of such a crime rendered the party infamous and wholly unworthy of credit. Now, by statute, the competency of the party as a witness is restored; but his conviction may still be shown for the purpose of affecting his credibility. The effect of such conviction is to impeach the character "of the witness as a man of truth, and where the record of the conviction is used to impeach a witness, his reputation for truth may be proved to rebut its effect. ’ ’
+Prom an examination of the whole of the record we find no error therein, and the finding and judgment of the court below will he affirmed.
+Judgment affirmed.
+Sherick, P. J., and Montgomery, J., concur.
