@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6585"
+decided: "1945-11-13"
+citations: ["77 Ohio App. 291", "45 Ohio Law Abs. 93"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hildebrant, P. J., Matthews and Ross, JJ., concur in the syllabus, opinion and judgment."]
+parties: ["Laurens et al., Appellants, v. Jenney’s, Inc., Appellee."]
+source_url: "https://static.case.law/ohio-app/77/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1382254
+---
+
+# Laurens v. Jenney's, Inc.
+
+## Majority (Hildebrant, P. J.)
+
+Hildebrant, P. J.
+This is an action for damages for the value of a fur coat bailed to defendant by the plaintiff Laurens for summer, storage. The defendant offered no evidence and the court instructed the jury to return a verdict limiting liability to the valuation of $100, fixed by plaintiff Laurens in the storage receipt. Plaintiff (Laurens) claims to be entitled to recover the entire value and appeals on questions of law.
+Plaintiff (Laurens) claims the action to be one for a conversion of the coat by defendant and that the-court erred in instructing a verdict for the limited liability — first, because under the facts such limitation was not provided for in the contract; and, second, that this is a case of conversion by the bailee, hence, the limitation as to value does not apply.
+The parties are in substantial accord on the statement of the case in plaintiffs’ brief, which is as follows :
+“On November 15, 1943, G-abriella Laurens owned a black persian lamb fur coat having a reasonable value of $900,- and was entitled to immediate possession thereof.
+“On May 1, 1943, she had placed the coat in storage with Jenney’s, Inc., declaring a value of $100 for storage purposes.' The coat was accepted for storage by Jenney’s, Inc., subject to certain conditions and provisions set forth in the storage receipt. The agreement, among other things, provided that if the goods stored were to be delivered to any other person than the owner, it would only be upon the written and signed order of the owner accompanied by the receipt duly endorsed, and that the delivery of goods to the person named or the delivery of the goods to any address given by said owner, would be considered conclusively a delivery of the goods- shipped to the owner personally.
+“The agreement further provided that in case the property stored was to be shipped, the responsibility of .Jenney’s, Inc., would cease upon delivery of the article to the express company'or other carrier, ,and Jenney’s, Inc., would declare to the express company or other carrier for insurance purposes while in transit, the value shown by the schedule unless otherwise instructed by the owner.
+£ ‘ On November 15, 1913, contrary to the instructions of Oabriella Laurens, who had ordered the coat held for her call, Jenney’s, Inc., turned the coat over to United Parcel Service, Inc., for delivery to her, but the coat was never delivered, to her by United Parcel Service, Inc., nor was it delivered to her when she made demand for it at Jenney’s, Inc.”
+In addition, the record shows that plaintiff (Lauren's) telephoned to defendant her intention to store the coat and delivered it to the United Parcel Service, Inc., acting for defendant, for storage and requested the minimum value of $100 for storage purposes be'placed thereon, for which the minimum charge of $3 was made; that she called personally at defendant’s store, instructing that the coat be taken out of storage and held for delivery to her on personal call. In disregard of that instruction, defendant attempted to deliver the coat to her by means of the United Parcel Service, Inc., and the same was lost. Plaintiff Laurens further testified she was satisfied to have the coat taken from defendant for delivery back by the United Parcel Service, Inc., at the same $100 valuation, and had she known of defendant entrusting it to United Parcel Service, Inc., for delivery she would have made no objection.
+Pertinent provisions of the storage receipt agreement are:
+“Jenney’s, Inc., 8 W. Fourth street, Cincinnati, for and in consideration of the storage and insurance charges herein accepts the above named article or articles for storage upon the terms and conditions stated herein, as follows: * * *
+“V. In no event shall the liability of the company for any articles mentioned in the schedule above exceed the agreed valuation as stated therein. In case of partial loss, the liability shall be in proportion to said' agreed valuation. The agreed valuation appearing in said schedule above, as fixed by the owner of said articles, his agent or servant shall be binding and conclusive on the owner. * * #
+“VIII. * * * Goods will be delivered to the owner named herein, or his or her authorized agent upon surrender of this receipt.
+• “If the goods stored are to be delivered to any other person than the owner, it shall only be upon the written and signed order of the owner accompanied by this receipt duly endorsed, and the delivery of the goods to the person named, or the delivery of the goods at any address given by said owner shall be considered conclusively a delivery of the goods to said owner personally. In case the property stored is to be shipped, the responsibility of the company ceases upon delivery of the article or articles to the express company or other carrier and Jenney’s, Inc., will declare to the express company or other carrier for insurance purposes while in transit, the value shown by the schedule unless otherwise instructed by the owner.”
+It seems to the court that plaintiffs’ conception of the use of the word “delivery” both in paragraph VIII of the storage receipt and in Sections 8465 and 8466, General Code, cited in argument, fails to be accurate. As used in the receipt and the Code, it contemplates a delivery terminating the bailment and concluding the responsibility of bailee, and under the receipt, it states that’ the responsibility ceases. However, defendant does not argue against responsibility for the declared value, but only against a greater liability. When the manager of the storage department took the coat from storage, had it then been passed to another employee for inspection and wrapping, that procedure too could be described as a delivery from one employee to another, but still among the employees and agents of defendant. When plaintiff Laurens turned the coat over to United Parcel Service, Inc., for storage with defendant, can there he any doubt that it was in possession of defendant through its employee or agent? Following the above conception, it is clear that the coat never left the possession of defendant through its employees or agents. Under such circumstances, it is obvious that the theory of conversion to own use, doing away with the limited liability, must fail. The violation of plaintiffs’ instructions to hold the coat until personally called for indicates a failure to communicate the same along the usual line of handling such transactions in defendant’s organization, hence, may be considered as negligence fixing liability according to contract. But handing to another employee or agent for local transportation to redeliver to plaintiff Laurens, certainly cannot be a conversion contemplated by the law, ignoring the limited liability in such cases.
+The legality of the contract limiting the liability is established, so that no discussion on that point is deemed necessary.
+The judgment is, therefore, affirmed.
+Judgment affirmed.
+Hildebrant, P. J., Matthews and Ross, JJ., concur in the syllabus, opinion and judgment.
