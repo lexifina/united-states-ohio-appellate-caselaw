@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "23511"
+decided: "1956-01-12"
+citations: ["102 Ohio App. 561"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Skeel and Hurd, JJ., concur."]
+parties: ["United States Fire Ins. Co. et al., Appellants, v. Phil-Mar Corporation et al., Appellees; National Ins. Co. of Hartford, Appellant."]
+source_url: "https://static.case.law/ohio-app/102/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1425893
+cites_cases: ["166 Ohio St., 85", "244 U. S., 12"]
+---
+
+# United States Fire Ins. v. Phil-Mar Corp.
+
+## Majority (Kovachy, P. J.)
+
+Kovachy, P. J.
+This is an appeal on questions of law from the Common Pleas Court where the trial court granted a motion for a directed verdict in favor of the defendant-appellee, Phil-Mar Corporation, and against the plaintiffs-appellants, defendant-appellant National Fire Insurance Company of Hartford, and codefendants-appellees in a jury trial at the close of defendant’s case. The essential facts are as follows:
+The J. Spang Baking Company, a corporation, by written ■indenture, leased two contiguous industrial buildings to Phil-Mar, which manufactures lamps and lamp shades, for a term of five years commencing on May 1,1948. On November 2, 1949, these buildings were substantially damaged by fire. The fire originated in Phil-Mar’s lacquer spraying department while its maintenance man was in the process of repairing with an acetylene torch part of the lamp shade spinning mechanism. The insurance companies that had insured Spang against fire made payments to Spang in the aggregate amount of $100,281 for the loss thus occasioned. Of this sum, $70,445.34 was paid by the companies in this action, which comprise the plaintiffs-appellants and defendant-appellant Automobile Insurance Company of Hartford, Connecticut, a corporation. Since the institution of this appeal, however, the Hanover Fire Insurance Company, Fidelity-Phenix Fire Insurance Company of New York, and Philadelphia Fire & Marine Insurance Company, which had paid a total of $17,404.14, have withdrawn from this appeal, reducing the amount now claimed by the remaining insurance companies as their contributions toward the total insurance paid to $53,041.20.
+The cause of action in the petition is grounded on claims of negligence of Phil-Mar, which directly and proximately caused the damages suffered by Spang, and rights of subrogation to the rights of Spang against Phil-Mar to the extent of monies paid to Spang by each insurer under insurance policies issued by them.
+While the assignments of errors by appellants number three, the one following is chiefly relied upon by them:
+“The court erred in granting the motion by the defendantappellee, Phil-Mar Corporation, at the close of the evidence, to instruct the jury to return a verdict against the appellants in favor of the defendant-appellee Phil-Mar Corporation.”
+Phil-Mar concedes for the purpose of this appeal:
+1. That the fire was caused by its own negligence;
+2. That the insurers are subrogated pro tanto to any right of recovery which Spang might have had against Phil-Mar for the fire loss at the time of its settlement with the insurers; and
+3. That a tenant is liable to its landloard for injuries to the reversion caused by the tenant’s negligence provided, of course, the landlord and tenant had not made a valid agreement to the contrary.
+It is elementary that the rights of the insurers against Phil-Mar cannot rise higher than the rights of Spang against Phil-Mar since the insurers, as subrogees, in contemplation of law, stand in the place of Spang, and succeed to whatever rights Spang may have in the matter. It necessarily follows, therefore, that the insurers have a right of recovery against Phil-Mar only if such right be vested in Spang.
+The juridical relation of Spang and Phil-Mar, as concerns their rights and obligations one to the other, was declared iu the written lease executed by them. This was prepared on the standard “Full Covenant” 42D form of the Ohio Legal Blank Company, to which were added typewritten provisions and a separate agreement, also in writing, which was incorporated into the lease by express terms.
+Phil-Mar’s lamp and lamp shade manufacturing business involved the use of highly inflammable materials such as lacquers, thinners, oils, plastics, etc. It was a much more hazardous operation from the standpoint of likelihood of fire than the bakery which had previously been operated by Spang on the same premises. Because of this fact, the following provision was inserted on the first page of the lease:
+“In the event that the fire insurance rate on the building on the above demised premises shall be increased by reason of lessee’s occupancy thereof, over and above the fire rate fixed for the lessor’s previous use and occupancy thereof, then the lessee shall pay to the lessor the additional premium by reason of such increase in insurance rate for the unexpired portion of the term of the within lease on only so much of the principal amount of the fire insurance coverage on said building as does not exceed $75,000. Such additional premium shall be paid to the lessor upon its demand and upon its submission to the lessee of the proper evidences indicating such increase in rate.”
+At the time the lease was negotiated, Spang’s fire insurance rate was $0,925 per $100. Upon Phil-Mar’s occupancy of the buildings, the initial rate established by the insurers became $1,925. Phil-Mar paid its share of the premiums for the fire insurance coverage on these buildings as called for in this provision of the lease.
+The very fact that the lessee entered into this arrangement with the lessor in the lease was tantamount, in our opinion, to an understanding between them that the lessor would maintain adequate fire insurance protection on the property leased.
+The surrender clause of the lease, paragraph 4, contained in the fine print, reads as follows:
+“4. That lessee will deliver up and surrender to the lessor possession of the premises hereby leased upon the expiration of this lease or its termination in any way, in as good condition and repair as the same shall be at the commencement of said term (loss by fire and ordinary wear and decay only excepted) and deliver the keys at the office of lessor or lessor’s agent or to the janitor of said building.”
+What did the parties to the lease have in mind in the use of the expression “loss by fire * * * excepted”? This, it appears to us, is the critical question in the case. Did they intend that it include only fires started through pure accident and those by act of God or did they intend that it be an exculpatory clause releasing the lessee of any responsibility whether or not the fire was caused by its negligence ?
+Mr. Justice Holmes, in speaking for the court in North-German Lloyd v. Guaranty Trust Co., 244 U. S., 12, 24, 61 L. Ed., 960, 37 S. Ct., 490, said:
+“Business contracts must be construed with business sense, as they naturally would be understood by intelligent men of affairs. ’ ’
+In construing a lease the court attempts to ascertain and carry out the intention of the parties.
+Now the phrase “loss by fire” has a universally recognized connotation when used in a fire insurance policy. The usual and ordinary meaning therein is the damage resulting from fire caused by an act of God or, accidentally or negligently, by the hand of man. The person who insures his property against damage by fire knows that he is covered for any loss by fire regardless of the causation, deliberate purpose excepted. That is common knowledge.
+Since the parties to the lease knew that loss by reason of fire was covered by insurance, it seems reasonable to us to believe that Spang and Phil-Mar intended that the phrase “loss by fire” in the lease have the identical connotation that it has in an insurance policy. Such reasoning makes it patent that the phraseology “loss by fire * * * excepted” in the surrender clause was intended by the parties to mean that the lessee, in case of fire, even though due to its negligence, be absolved from “delivering up and surrendering the premises in as good condition and repair as it was at the commencement of the lease term.” This must be so for it would be unthinkable to believe that businessmen of intelligence would agree to share the financial burden of fire insurance on premises leased to them to house a highly hazardous manufacturing undertaking from a fire standpoint without expecting to enjoy the same immunity from personal liability for any fire occurring on the premises that the owner, who contracted with them for such participation in the payment of the premiums, himself would enjoy. The owner-lessor would be absolved from responsibility to an insurer of fire loss due to negligence. The lessee under those circumstances should likewise be.
+It is clear from the above that under the terms of the lease Spang had no cause of action against Phil-Mar for the fire that occurred on the property demised even though the same was due to Phil-Mar’s negligence and was directly and proximately caused by such negligence and that, consequently, no cause of action was made out against the plaintiffs-appellants and the defendant-appellant in this matter. We unanimously hold that the trial court did not err in granting the motion made by defendant-appellee, Phil-Mar Corporation, at the close of defendant’s evidence for an instruction that the jury return a verdict against appellants in favor of the defendant-appellee, Phil-Mar Corporation.
+See General Mills, Inc., v. Goldman, 184 P. (2d), 359.
+The judgment of the Common Pleas Court is accordingly affirmed.
+Judgment affirmed.
+Skeel and Hurd, JJ., concur.
