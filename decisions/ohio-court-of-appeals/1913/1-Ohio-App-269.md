@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1913-01-30"
+citations: ["1 Ohio App. 269"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Norris, J.; Pollock and Metcalfe, JJ., concurring."]
+parties: ["Bush v. Cole et al."]
+source_url: "https://static.case.law/ohio-app/1/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1832553
+cites_cases: ["50 Ohio St., 294", "64 Ohio St., 26", "68 Ohio St., 421", "76 Kans., 89"]
+---
+
+# Bush v. Cole
+
+## Majority
+
+Plaintiff in error, Florence Y. Bush, was plaintiff below and brought suit in the court of common pleas against Ray E. Cole and others to set aside two deeds. Plaintiff became of age July 24, 1902. Her first suit was brought March 18, 1905, and was dismissed for want of prosecution December 17, 1906. A second action was brought for the same purpose February 16, 1907. This was also dismissed for want of prosecution March 5, 1908, and on May 28, 1908, a third suit was brought to set aside the deeds in question. The statute of limitations was pleaded by the defendants and judgment thereon was rendered against the plaintiff in error.
+It is conceded that the last action was barred by the statute of limitations unless it comes within the saving clause of Section 4991, Revised Statutes (Section 11233, General Code), then in force. This section, so far as the question in this case arises, reads as follows:
+“In an action commenced, or attempted to be commenced, if in due time a judgment for the plaintiff be reversed, or if the plaintiff fails otherwise than upon the merits, and the time limited for the commencement of such action at the date of reversal or failure has expired, the plaintiff, or, if he dies and the cause of action survives, his representatives may commence a new action within one year after such date, and this provision applies to any claim asserted in any pleading by a defendant.”
+The limitation as to this class- of actions was four years. Stivens v. Summers, 68 Ohio St., 421,
+Was the second action, which was commenced February 16, 1907, more than four years after the plaintiff became of age, but within one year of the dismissal of the first action, an action brought in “due time,” as provided in Section 4991, Revised Statutes? Or, in other words, does that section authorize repeated new actions within one year after the discontinuance of the preceding action, or may a cause of action be kept alive and litigation prolonged indefinitely by plaintiff under that provision of the statue? We do not think so. We think within “due time” means an action brought within the original limitation of the statute of limitations ; that if the second action was not brought within that original limitation it is not brought within “due time” as embodied in that saving statute.
+This question was squarely before the supreme court of Kansas under a statute like our own in the case of Denton v. Atchison, 76 Kans., 89. The court in the opinion says:
+“The general periods of limitation are not changed by this provision, but it is intended to give a party who within the proper time brought an action which was disposed of otherwise than upon the merits after the statute of limitations had run a year of grace in which to reinstate his case and obtain a determination upon the merits. It is a substitute for the common law rule of ‘journeys account/ in which a plaintiff whose writ was abated for some matter of form which did not go to the merits might have a new writ within a reasonable time, computed by the number of days which the plaintiff must spend in journeying to reach the court. Under the rule of our statute, if the dismissal occurs after the time limit has expired the plaintiff has one year from that dismissal to bring a new action. To get the benefit of this extension two things are essential: First, the action must have been commenced within due time; and, second, there must have been a failure otherwise than upon the merits after the general limitation of time had expired. Only one year after such failure is given to bring a new action. A new action begun more than one year after such failure, whether it >was the second or third action, would be an enlargement of the time fixed by statute and would result in permitting the plaintiff to dismiss and reinstate at will and indefinitely. The statute is remedial, and should be liberally construed, with a view of carrying into effect the purpose of the legislature; but a liberal construction does not warrant an addition to the period fixed by statute.”
+The court cites many authorities in support of its opinion. We know of no authorities to the contrary. It seems to us no other interpretation can be given to this statute. We think it is supported by our own supreme court in the cases of Siegfried v. The N. Y., L. E. & W. Rd. Co., 50 Ohio St., 294, and P., C., C. & St. L. Ry. Co. v. Bemis, 64 Ohio St., 26.
+It should be noticed that the codifiers have changed the punctuation of this statute. Our supreme court has given it undoubtedly the correct punctuation. It might be further noticed that in the new Code the learned gentlemen, in Section 11233, General Code, have transposed the words and left the words in “due time” somewhat indefinite, at least as to their application. We think there is no error in the record and the judgment will be affirmed.
+Mr. W. C. Ong and Mr. Charles Lawyer, for plaintiff in error.
+Messrs. Munsell & Hall and Mr. H. E. Starkey, for defendants in error.
+Judgment affirmed.
