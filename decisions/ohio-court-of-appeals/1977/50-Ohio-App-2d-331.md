@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-75565"
+decided: "1977-03-02"
+citations: ["50 Ohio App. 2d 331"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, P. J., Palmer and Keefe, JJ., concur."]
+parties: ["Gerwin, Appellee, v. Clark, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/50/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1479560
+cites_cases: ["10 Ohio St. 498", "322 N. E. 2d 322", "412 F. 2d 202", "6 Ohio St. 1", "68 Ohio Op. 2d 146", "88 Ohio App. 520"]
+---
+
+# Gerwin v. Clark
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came to be heard upon the appeal; the transcript of the docket, journal entries and original papers from the Court of Common Pleas of Hamilton County; and the assignments of error, the briefs and arguments of counsel.
+On September 8, 1969, defendant-appellant entered into a written agreement with plaintiff-appellee to purchase an airplane business owned by the latter, consisting of Exeoutaire, Inc., and its wholly owned subsidiary,. Queen City Plying Service, Inc. The agreement provided that, as part of the consideration given in exchange for the sale, appellant would (1) indemnify the appellee for any loss suffered by the latter as a result of the corporations’ failure to pay an outstanding promissory note given to the Provident Bank; (2) effect a release of Joan E. Gerwin and Louis Nippert as co-guarantors on an aircraft lease obligation given by the corporations to the Central Trust Company; and (3) cause the corporation to redeem any common shares owned by the appellee upon the latter’s, resignation from the board of directors of Executaire, Inc.
+In January 1971, both corporations initiated bankruptcy proceedings, at the conclusion of which the Provident Bank obtained a personal judgment against the appellee for the balance due under the aforementioned promissory note. Appellee subsequently brought this action for breach of contract against appellant, alleging appellant’s refusal to indemnify appellee for the loss suffered by such judgment and to redeem appellee’s common shares following the latter’s resignation from the board of directors of Executaire, Inc. Appellant denied both claims, asserting the existence of an oral agreement between the two parties in April 1970, which rescinded the three recited terms of the original agreement in exchange for the employment of appellee as vice-president of Queen City Flying Services, Inc., and as president of a third corporation, Cincinnati Aircraft, Inc., for a salary of $30,000 per year. Appellee thereafter filed a motion for summary judgment with the trial court, denying the existence of any oral agreement and arguing that the introduction of any evidence thereof was precluded, under the parol evidence rule, by a written agreement between the parties in June 1970, which assertedly incorporated the subject matter of the alleged oral agreement and which made no reference to any release by appellee of appellant’s obligations under the original contract. The trial court granted the appellee’s motion, and entered judgment thereon in his favor, from which judgment this appeal was timely brought, presenting four assignments of error for review.
+Appellant, in his first two assignments, essentially challenges the trial court’s judgment as contrary to law, asserting that the existence and terms of the alleged oral contract created a genuine issue of material fact which was wrongfully excluded from the case by the trial court’s misapplication of the parol evidence rule, and which rendered disposition of the instant action by summary judgment improper under Civ. E. 56(C). We agree. While the parol evidence rule precludes the introduction of evidence of conversations or declarations which occur prior to or contemporaneous with a written contract and which attempt to vary or contradict terms contained in the writing, the rule does not bar evidence of a subsequent oral agreement which modifies a prior written agreement. Peck v. Beckwith (1860), 10 Ohio St. 498; Thurston v. Ludwig (1856), 6 Ohio St. 1. Thus, where, as here, evidence is offered to prove the existence of an oral agreement which rescinds a prior written contract or any provision thereof, such evidence is not inadmissible by virtue of the parol evidence rule and, if otherwise relevant and competent, must be considered by the trial court in its disposition of the issues before it. Thurston v. Ludwig, supra; Richland Builders, Inc., v. Thome (1950), 88 Ohio App. 520.
+Appellee’s contention that evidence of the April agreement nevertheless was properly excluded as parole evidence which varied the terms of the later June written agreement is unsupported by the record. The June agreement, which consists of a single stock purchase contract between the two parties, makes no mention of any of the employment arrangements which formed the basis of the alleged April agreement. Such an absence, from the later agreement, of any terms which are varied or contradicted by terms of the alleged oral agreement renders the parole evidence rule, as a tool to exclude pro of of the latter, inapplicable in the instant ease. Burns Bros. Plumbers, Inc., v. Groves Ventures Co. (C. A. 6, 1969), 412 F. 2d 202 (applying Ohio law); Florence v. Tri-State Savings and Loan Co. (1974), 68 Ohio Op. 2d 146, 322 N. E. 2d 322.
+We conclude that, in the instant case, evidence of the existence and terms of the alleged oral agreement created a genuine issue of fact which materially affected appellant’s liability under the original contract, and which was incapable of resolution by resort to summary judgment. Civ. E. 56(C). It follows that appellant’s first two assignments of error are, accordingly, well taken.
+Our disposition of the aforementioned assignments of error subsume, hi effect, the issue raised by the third assignment of error, permitting our overruling of that assignment, together with the fourth assignment of error, which we find to be without merit.
+The- judgment rendered below is hereby reversed, and the cause is remanded to the trial court for further proceedings consistent with this decision.
+Judgment reversed.
+Shannon, P. J., Palmer and Keefe, JJ., concur.
