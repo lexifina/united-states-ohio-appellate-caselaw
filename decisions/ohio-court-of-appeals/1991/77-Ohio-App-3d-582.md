@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "90-A-1525"
+decided: "1991-10-02"
+citations: ["77 Ohio App. 3d 582"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ford, P.J., and Basinger, J., concur.", "Randall L. Basinger, J., of the Putnam County Court of Common Pleas, sitting by assignment."]
+parties: ["The STATE of Ohio, Appellee, v. HOLMES, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/77/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1662556
+cites_cases: ["170 N.E. 594", "34 Ohio App. 174", "4 OBR 303", "4 Ohio App.3d 199", "447 N.E.2d 139", "652 F.2d 708"]
+---
+
+# State v. Holmes
+
+## Majority (Christley, Judge.)
+
+Christley, Judge.
+This is an appeal by appellant, Charles W. Holmes, from his conviction on three counts of aggravated trafficking in drugs, in violation of R.C. 2925.-03(A)(1) following a three-day trial. He was sentenced to three indefinite terms of three to fifteen years, with two of the terms to run concurrently and the third to run consecutively.
+Appellant’s convictions were predicated upon a series of three drug transactions in which he and a co-defendant allegedly sold cocaine to an informant for the Ashtabula County Narcotics Task Force. During each of the alleged deals, the informant wore a body transmitter which enabled other agents for the task force to record the conversations.
+At trial, the state was permitted to play excerpts of the recorded conversations to the jury. Before the first excerpt was played, counsel for the co-defendant moved that the entire tape of the three transactions be played for the jury. Upon noting that both counsel had the opportunity to review the tape before trial, the trial court overruled the motion to play the tape in its entirety, but did, in fact, admit the whole tape into evidence.
+In appealing his conviction to this court, appellant has assigned the following as error:
+“The Ashtabula County Court of Common Pleas erred to the prejudice of Charles W. Holmes when it allowed the State of Ohio to play for the jury only pre-selected portions of the tape recordings of the alleged drug transactions, the selection of what portions of the tapes to play being made solely by agents of the State of Ohio.”
+Under this sole assignment, appellant has advanced two arguments for consideration. First, appellant submits that once counsel for the co-defendant had made the request, the trial court was required under the Rules of Evidence to order the state to immediately play all of the recordings of the three transactions. Second, he contends that the trial court erred in permitting the state to decide which part of the recordings would be played for the jury. Neither of these arguments has merit.
+As appellant correctly notes, Ohio courts have long recognized the rule of completeness. This rule states that if one party moves to introduce parts of a document, the opposing party can request that the entire document be immediately submitted. Indus. Comm. v. Link (1929), 34 Ohio App. 174, 170 N.E. 594. The modern statement of this rule is set forth in Evid.R. 106:
+“When a writing or recorded statement or part thereof is introduced by a party, an adverse party may require him at that time to introduce any other part or any other writing or recorded statement which is otherwise admissible and which ought in fairness to be considered contemporaneously with it.” (Emphasis added.)
+As the Staff Note indicates, Evid.R. 106 is a rule of timing, which is primarily designed to avoid confusion on the part of the jury. This latter point was noted by the Ninth Appellate District in State v. Davis (1982), 4 Ohio App.3d 199, 201, 4 OBR 303, 304-305, 447 N.E.2d 139, 142: “Wresting a part of a body of expressions from its context may result in a misconception by some or all of the jury members that may linger even, if at a later point, relevant, omitted parts of that same body of statements are supplied.” We would note that the tapes were ultimately admitted and were available to the jury in their entirety.
+Notwithstanding its long history, the precedent on the rule of completeness is limited in this state. In applying rules similar to the one set forth in Evid.R. 106, other jurisdictions have held that a mere request on the part of the adverse party is not sufficient to warrant the immediate introduction of the entire document or statement. For example, in United States v. Walker (C.A.7, 1981), 652 F.2d 708, 710, the court quoted the federal counterpart to Evid.R. 106 and then stated:
+“This rule is circumscribed by two qualifications. The portions sought to be admitted (1) must be relevant to the issues and (2) only those parts which qualify or explain the subject matter of the portion offered by the opponent need be admitted.”
+Although this precedent is not binding upon this court, it must be emphasized that, unlike the federal rule, Ohio Evid.R. 106 specifically provides that the additional parts sought to be immediately introduced must be admissible into evidence. Moreover, the final phrase of Evid.R. 106 supports the proposition that the rule is only applicable to those additional parts which are relevant to the initial part of the statement.
+As to this latter point, this court would again note that the primary purpose of the rule is to avoid confusion on the part of the jury. If the additional parts are not relevant to the initial part, then the additional parts can be safely introduced during the adverse party’s case.
+Given these requirements it follows that the adverse party must do more than simply move for the introduction of the entire document. Instead, the adverse party has the burden of showing that the additional part is not only admissible, but relevant to the portion which the other party seeks to introduce, i.e., “ * * * and which ought in fairness to be considered contemporaneously with it.” Evid.R. 106.
+Likewise, should the court respond with an adverse blanket refusal, then there is some obligation on counsel to make a proffer specifying the relevant portions of the omitted material. This was not done.
+Again, it is important to note that the request was to play the recordings in their entirety. The introduction into evidence of the tapes themselves was not an issue.
+Once the motion for the playing of the remainder of the recordings had been made, the trial court asked whether counsel had had the opportunity to review the recordings. Both counsel for appellant and for the co-defendant answered in the affirmative. Notwithstanding this fact, neither counsel attempted to explain how the remainder of the recordings were relevant to the parts which the state sought to introduce. Under the facts available to the trial judge, he did not err in concluding that the Rules of Evidence did not require the actual playing of the remainder of the recordings.
+As to this point, appellant maintains that the trial court’s ruling essentially precluded him from introducing the rest of the recordings during the remainder of the trial. However, in overruling the motion, the court simply stated that it was not “a requirement to proceed to put on the tape recordings that may total two or three hours.” This statement does not support the conclusion that the court would have automatically denied appellant the opportunity to introduce relevant parts of remaining recordings, had appellant attempted to do so during the course of his testimony at trial. Instead, the statement implies that in the absence of a showing by appellant, the court did not believe that the rules required the playing of the entire recordings.
+We would also note that when counsel for the co-defendant had Ron Cerjan on cross-examination, other portions of the tape were solicited and allowed to be played. Thus, there was clearly not a blanket prohibition imposed concerning the playing of other portions of the tape.
+Even if there had been such a ruling, the adverse party has the burden of showing through a proffer that the additional part is admissible and that it is relevant to the portion which the other party seeks to introduce. This was not done.
+Also under his sole assignment, appellant asserts that the trial court erred in allowing the state to be the sole decider of which portions of the recordings would be introduced at trial. Without citing any authority for this proposition, appellant submits that by failing to inspect the recordings and then make an independent determination of which parts were relevant, the court improperly allowed the state to assume its role as the final arbiter of the admissibility of evidence.
+In making this argument, appellant appears to confuse the various roles which the state and the court play in a criminal prosecution. As a general rule, the court does not determine what evidence must be presented by the state. Instead, it merely determines the admissibility of the evidence which the state chooses to present.
+Evid.R. 106 does not alter this relationship. Once the state indicated which part of the recordings it was going to play in support of its case, the burden fell upon appellant to establish that other parts of the recordings were relevant to the portions selected by the state. The trial court was under no obligation to listen to the recordings until appellant made such a proffer. As stated previously, appellant failed to do so. Accordingly, his sole assignment of error is without merit.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Ford, P.J., and Basinger, J., concur.
+Randall L. Basinger, J., of the Putnam County Court of Common Pleas, sitting by assignment.
