@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1-89-41"
+decided: "1990-10-18"
+citations: ["69 Ohio App. 3d 844"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Evans and J. Thomas Guernsey, JJ., concur.", "J. Thomas Guernsey, J., retired, of the Third Appellate District, sitting by assignment."]
+parties: ["SIMMONS et al., Appellants, v. AMERICAN MOTORCYCLIST ASSOCIATION, Inc., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/69/cases/0844-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463511
+cites_cases: ["107 Ohio App. 435", "15 OBR 246", "15 Ohio St.3d 90", "159 N.E.2d 785", "36 Ohio St.3d 100", "364 N.E.2d 267", "4 O.O.3d 466", "457 N.E.2d 1185", "472 N.E.2d 1046", "50 Ohio St.2d 317", "522 N.E.2d 489", "53 Ohio St.3d 102", "559 N.E.2d 705", "8 O.O.2d 421", "9 OBR 28", "9 Ohio App.3d 27"]
+---
+
+# Simmons v. American Motorcyclist Ass'n
+
+## Majority (Shaw, Presiding Judge.)
+
+Shaw, Presiding Judge.
+Plaintiffs-appellants, Gregory Simmons and Eric Rausch, appeal the decision of the Court of Common Pleas of Allen County granting summary judgment in favor of defendants-appellees, American Motorcyclist Association, Inc., et al.
+The record shows that on June 28, 1986, plaintiff, Eric Rausch, was participating in a professional motorcycle race at the Allen County Fairgrounds in an event sanctioned by defendant, American Motorcyclist Association, Inc. At the time relevant herein, Rausch was riding a motorcycle owned by plaintiff, Gregory Simmons. During this race, another driver crashed his motorcycle on the back straightaway of the race track. As plaintiff, Rausch, was riding down the back stretch, he struck the downed motorcycle and received serious injuries.
+The essence of the plaintiffs’ claim is that there was a failure by the officials to warn plaintiff, Rausch, of the downed motorcycle. In their complaint, plaintiffs allege that this failure amounted to willful and wanton misconduct. The defendants moved for summary judgment which was granted by the trial court. Plaintiffs appeal the decision, asserting four assignments of error:
+“Assignment of Error No. 1
+“The trial court erred in concluding that the evidence, when construed most strongly in favor of [plaintiffs], failed to support a finding of wanton misconduct, because the question is one which must be submitted to a jury.
+“Assignment of Error No. 2
+“The trial court’s conclusion that the [plaintiffs] must prove intent, as defined by Van Fossen v. Babcock and Wilcox Co. [ (1988), 36 Ohio St.3d 100], in order to show that [defendants] engaged in wanton misconduct is contrary to law.
+“Assignment of Error No. 3
+“The trial court’s grant of summary judgment in favor of the defendants is contrary to law where the evidence, when construed most strongly in favor of the [plaintiffs], was sufficient for reasonable minds to conclude that the [defendants’] actions or failure to act constituted wanton misconduct.
+“Assignment of Error No. 4
+“The trial courts’ [sic] grant of summary judgment is contrary to law and against the manifest weight of the evidence where the [defendants] failed to present evidence to refute the claims of [plaintiffs].”
+In essence, plaintiffs have asserted one assignment of error and four reasons in support of it. Accordingly, we will address each of these arguments in determining the primary issue of whether the trial court erroneously granted the defendants’ motion for summary judgment.
+In reviewing the trial court’s decision to grant the motion for summary judgment, we must follow the standards set forth in Civ.R. 56(C) and determine if (1) any genuine issue as to any material fact remains to be litigated; (2) the moving party is entitled to judgment as a matter of law; and (3) it appears from the evidence that reasonable minds can come to but one conclusion, in viewing the evidence most strongly in favor of the party against whom the motion for summary judgment is made, and that conclusion is adverse to that party. Temple v. Wean United, Inc. (1977), 50 Ohio St.2d 317, 4 O.O.3d 466, 364 N.E.2d 267.
+A number of Ohio decisions have addressed the issues in the case before us. A participant in sporting activities can contract with the proprietor to relieve the proprietor from any damages or injuries he may cause, unless they are caused by willful or wanton misconduct. See French v. Special Services, Inc. (1958), 107 Ohio App. 435, 8 O.O.2d 421, 159 N.E.2d 785; and Cain v. Cleveland Parachute Training Ctr. (1983), 9 Ohio App.3d 27, 9 OBR 28, 457 N.E.2d 1185. The Ohio Supreme Court recently defined the terms “willful” and “wanton” in Thompson v. McNeill (1990), 53 Ohio St.3d 102, 559 N.E.2d 705. The court employed the term “reckless,” but its comments regarding recklessness also apply to willful and wanton misconduct. Id. at 104, 559 N.E.2d at 708, fn. 1. The definition adopted by the court was that of the Restatement of the Law 2d, Torts, which defines “recklessness” as follows:
+“The actor’s conduct is in reckless disregard of the safety of another if he does an act or intentionally fails to do an act which it is his duty to the other to do, knowing or having reason to know of facts which would lead a reasonable man to realize, not only that his conduct creates an unreasonable risk of physical harm to another, but also that such risk is substantially greater than that which is necessary to make his conduct negligent.” 2 Restatement of the Law 2d, Torts (1965) 587, Section 500.
+In applying the foregoing principles to the facts before us, we hold that summary judgment for defendants was appropriate. Both plaintiffs executed release agreements on the day of the accident which effectively relieved defendants from any negligence. In construing the evidence most strongly in favor of plaintiffs, the evidence shows only that one racer crashed his motorcycle, that the flagmen in the area of the crash were watching the race immediately prior to the crash rather than their designated area, and that no warning flags were thrown to warn plaintiff Rausch of the fallen motorcycle in his path.
+It is common knowledge among motorcycle racers that many racers fall or crash during races. Indeed, plaintiff Rausch had experienced numerous accidents and injuries during the course of his racing career. Nothing in the record shows that defendants’ actions recklessly, willfully or wantonly exposed plaintiffs to more danger than a motorcycle racer ordinarily faces in participating in a motorcycle race. At best, the evidence shows that the defendants were negligent. However, the parties conceded that an action in negligence is barred by the releases executed by plaintiffs. See French and Cain, supra. As a result, there was no genuine issue of material fact to be litigated, reasonable minds could come to but one conclusion, and defendants were entitled to judgment as a matter of law.
+It must be noted that in plaintiffs’ second assignment of error, plaintiffs allege that the trial court erred in concluding that, in order to maintain an action for willful or wanton misconduct, plaintiffs had to prove intent as defined in Van Fossen v. Babcock & Wilcox Co. (1988), 36 Ohio St.3d 100, 522 N.E.2d 489. However, in terms of the statutory standards set forth in Van Fossen, supra, this would require a deliberate intent to injure. See id. at 108, and R.C. 4121.80(G)(1). Moreover, even under the less stringent standards of Jones v. VIP Development Co. (1984), 15 Ohio St.3d 90, 15 OBR 246, 472 N.E.2d 1046, as explained in detail in the Van Fossen decision, it is clear that willful and wanton misconduct is still regarded as falling short of an intentional tort. Van Fossen, supra, 36 Ohio St.3d at 117, 522 N.E.2d at 504. See, also, 2 Restatement of the Law 2d, Torts (1965), at 590, Section 500, Comment f In any event, we are reluctant to apply either the Van Fossen or the Jones language too closely to the case before us inasmuch as those decisions are directed quite specifically to the Workers’ Compensation Act.
+Therefore, we believe the trial court erred in concluding, based upon the Van Fossen decision, that intentional misconduct must be proved in order to maintain an action for willful and wanton misconduct. Accordingly, and to that extent only, plaintiffs’ second assignment of error is well taken. However, based upon our previous discussion, the remaining assignments of error are overruled and the judgment of the court of common pleas is affirmed.
+Judgment affirmed.
+Evans and J. Thomas Guernsey, JJ., concur.
+J. Thomas Guernsey, J., retired, of the Third Appellate District, sitting by assignment.
