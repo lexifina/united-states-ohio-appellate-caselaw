@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5796"
+decided: "1940-07-01"
+citations: ["32 Ohio Law Abs. 79"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAMILTON, PJ., MATTHEWS & ROSS, JJ., concur."]
+parties: ["STATE ex STRAIN v HOUSTON"]
+source_url: "https://static.case.law/ohio-law-abs/32/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1701227
+cites_cases: ["17 OO 356"]
+---
+
+# State ex rel. Strain v. Houston
+
+## Majority (BY THE COURT:)
+
+OPINION
+BY THE COURT:
+This is an original action in this court, seeking a writ of mandamus to compel the chief of the fire department of the city of Cincinnati to arrange and schedule the hours of the members of the fire department to conform with §17-la GC, as amended in 1939. By the amended section it is provided that:
+“It shall be the duty of the chief of the fire department of each city to divide the uniform force into not less than two platoons, and the said chief shall not keep a platoon of the uniform force on duty more than twenty-four consecutive hours, except in cases of extraordinary emergency, after which the platoon serving twenty-four hours shall be allowed to remain off duty for at least twenty-four consecutive hours. Each individual member of the platoon in addition to receiving a minimum of twenty-four hours off duty in each period of forty-eight hours shall receive an additional period of twenty-four consecutive hours off duty in each period of fourteen days. The chief of the fire department shall arrange the schedule .of working hours to comply with the provisions of this section. In each city all employees of the fire department shall be given not less than two weeks leave of absence annually, with full pay. The provisions of this section relating to the off duty periods shall not apply to any city that may have adopted or may hereafter adopt the eight hour regulation for its fire department, but the provisions relating to the two weeks leave of absence shall apply thereto.”
+The respondent admits that he is not complying with the provisions of this statute, but challenges the right of the relator to a writ to compel compliance, because (1) the statute is an invasion of the city’s power of local self-government conferred by Art. XVIII of the Constitution, (2) he is a municipal officer subordinate to the city manager and the director of public safety, who are controlled in such matters by the city council, and that he was acting in conformity to the municipal ordinances and the directions of his superior officers and had no authority to do otherwise, (3) the subject is general and as the law in terms applies only to cities, it lacks the uniform operation throughout the state required oy §26 of Art. .II of the Constitution, (4) that it is an arbitrary exercise of power, and (5) that the relator is not charged with the enforcement of §17-la, and has no capacity to maintain this action.
+In City of Cincinnati v Gamble, 17 OO 356, and its two companion cases, Nos. 5773, 5774 and 5775 upon the docket of this court, we have stated fully our views upon the proper construction of §§3 and 7 of Art. XVIII of the Constitution, and shall not reiterate them here. This statute, we believe, is an unconstitutional attempt on the part of the General Assembly to impose its will upon cities as to the functioning of purely municipal officers. •
+The municipal rules and regulations relating to the mode and manner in which the members of the fire department shall perform the duties of their positions are not “local police, sanitary and other similar regulations” within the meaning of those terms as used in §3, but are an exercise of the power of local self-government under §7 of Art. XVIII of the Constitution, conferring upon municipalities the power to frame and adopt a charter for its own government, to exercise the powers of local self government.
+Sec. 17-la GC, is not a general law in exercise of police, sanitary or other similar power, to which a local municipal ordinance must yield. It is not a substantive law, but rather an attempt to enact an administrative code or rule to control the discretion of the incumbent of the municipal 'offices created under authority of §7 of Art. XVIII. By giving to municipalities the power to frame and adopt a charter the people necessarily included the power to control the agencies created by the charter. It is the kind of regulation an officer charged with a general duty would be empowered to make in the absence of any specific author iza cion. It is not a law in the strict primary sense. It is not confined in its origin to the lawmaking department. It falls within the category of rules that may be promulgated by the executive and judicial as well as the legislative department. In 11 Am. Jur. 955, it is said: “The authority to make rules and regulations to carry out an express legislative purpose or to effect the operation, and enforcement of a law is not an exclusively legislative power, but is rather administrative in its nature.” It is an essential incident to all offices. The power to create the office includes the power to confer upon the incumbent the exercise of his faculties in the discharge of the duties imposed upon him. This necessarily includes an orderly arrangement of the office facilities, and when the performance of the duties of the office are distributed among subordinates, a judicious exercise of the power conferred upon the incumbent requires that he prescribe rules and regulations to govern the time and manner of service by subordinates.
+As the people by §7 of Art. XVIII of the Constitution have conferred upon each municipality the power to adopt its own form of government and the agencies to perform the functions of local self-government, an authority in the General Assembly to determine the mode and manner in which the agencies should perform the functions of local self government would be inconsistent with the grant of the power to municipalities contained in §7 of Art. XVIII, and that an attempt so to do is unconstitutional.
+Having reached this conclusion, it is unnecessary to pass upon the other contentions of the respondent.
+For these reasons, the petition for a peremptory writ is denied and the action dismissed.
+HAMILTON, PJ., MATTHEWS & ROSS, JJ., concur.
