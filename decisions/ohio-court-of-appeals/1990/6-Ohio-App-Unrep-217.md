@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. 57356"
+decided: "1990-08-02"
+citations: ["6 Ohio App. Unrep. 217"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STILLMAN, J., and McCRYSTAL, J., concur.", "Sitting by assignment, Judge Saul G. Stillman, Retired, Eighth District Court of Appeals.", "Sitting by assignment, Judge James L. McCrystal, Retired, Erie County Common Pleas Court."]
+parties: ["AFSCME v. Cleveland"]
+source_url: "https://static.case.law/ohio-app-unrep/6/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1618011
+cites_cases: ["11 Ohio St. 2d 141", "11 Ohio St. 3d 129", "12 Ohio St. 2d 516", "41 Ohio App. 3d 1", "423 U.S. 986", "45 Ohio St. 3d 347", "64 Ohio St. 2d 182"]
+---
+
+# AFSCME v. Cleveland
+
+## Majority (NAHRA, P.J.)
+
+NAHRA, P.J.
+The American Federation of State* County and Municipal Employees, appellee, brought an action in mandamus on behalf of one of its members, Joseph Trzebuckowski, against his employer, the City of Cleveland and its mayor, appellants. Appellee sought mandamus to force appellants to comply with an arbitrator's award for Trzebuckowski of back pay, benefits, and reinstatement ás a full-time employee. The trial court granted appellee's motion for summary judgment, and appellants timely appealed. We affirm the judgment of the trial court.
+In 1965, Trzebuckowski was hired by appellants as a full-time recreation instructor at one of the City's recreation centers, a bargaining unit job. Beginning in 1971, Trzebuckowski was also employed by the Cleveland school system as a full-time teacher He retained his full-time position as a recreation instructor by working evenings and weekends. In 1982, he assumed the responsibilities of Acting Assistant Manager.
+In 1983, a new Commissioner of Recreation was hired. The Commissioner offered Trzebuckowski a promotion to the job of Assistant Manager. The promotion did not provide a flexible schedule* but required regular hours in conflict with Trzebuckowski's full-time teaching job. On that basis, Trzebuckowski refused the promotion. The Commissioner then reduced Trzebuckowski to part-time status in his job as Recreation Instructor
+Trzebuckowski filed a grievance claiming that his reduction to part-time status violated the bargaining agreement between appellee and appellants. The grievance was sustained by an arbitrator, who ordered appellants to re-employ Trzebuckowski as a full-time employee, and also awarded Trzebuckowski back pay and benefits.
+Appellants offered Trzebuckowski full-time employment as a recreation instructorin a letter dated May 6, 1985. Appellants did not offer the old flexible schedule* but again required regular hours in conflict with Trzebuckowski's teaching job. The letter made no mention of back pay and benefits. Trzebuckowski declined the offer.
+Appellants also filed a motion in the Court of Common Pleas to vacate the arbitrator's award. The motion for vacation was overruled. Appellants appealed the dismissal of the motion to vacate which appeal was dismissed.
+Trzebuckowski sought to obtain appellants' compliance with the award with correspondence, which was unavailing. Appellee then filed an action in mandamus or alternatively for a preliminary or permanent injunction and damages. The trial court granted appellee's motion for summary judgment, and ordered appellants to reinstate Trzebuckowski as a full-time employee, and to pay him the value of lost benefits pursuant to the arbitrator's opinion and award. This appeal followed.
+I.
+Appellants' first assignment of error states: "THE LOWER COURT ERRED IN GRANTING PLAINTIFF'S MOTION FOR SUMMARY JUDGMENT WHERE PLAINTIFFS FAILED TO MOVE TO ENFORCE THE AWARD UNDER OHIO REV. CODE SEC. 2711.09 AND PLAINTIFFS WERE NOT ENTITLED TO JUDGMENT AS A MATTER OF LAW."
+Summary judgment is appropriate where the pleadings, depositions, affidavits, transcript^ etc show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. "A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom, that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor." Civ. R. 56.
+"For a writ of mandamus to issue, a relator must show (1) that he has a clear legal right to the relief prayed for, (2) that respondent is under a clear legal duty to perform the requested act, and (3) that there is the absence of a plain and adequate remedy in the ordinary course of law." State, ex rel. Aycock, v. Mowrey (1989), 45 Ohio St. 3d 347, 349. The court must determine* in its sound discretion, whether mandamus is warranted under all the circumstances State, ex rel. Pressley, v. Indus. Comm. of Ohio (1967), 11 Ohio St. 2d 141; State, ex rel. Williams, v. Belpre City School Dist. Bd. of Edn. (1987), 41 Ohio App. 3d 1.
+Appellee showed that Trzebuckowski has a clear legal right to the relief requested by virtue of the arbitrator's award, which granted him the same relief requested by appellee in its suit for mandamus to enforce the award. Arbitrator's awards are final and binding decisions Goodyear Tire & Rubber Co. v. Local Union No. 200 (1975), 12 Ohio St. 2d 516, 520, certiorari denied (1975), 423 U.S. 986. Furthermore, this award was upheld on review pursuant to appellants' motion to vacate the award, which was denied. Under the award, appellee is entitled to the relief requested here, and appellants are under a clear legal duty to perform the requested acts
+The last requirement for mandamus is the absence of a plain and adequate remedy in the ordinary course of law. Appellants argue that R.C. 2711.09 provided such a remedy, precluding mandamus in this casa
+However, we find that appellee had no plain and adequate remedy in the ordinary course of law. R.C. 2711.09 is not an ordinary remedy. Title 27 is specifically subtitled "Special Remedies". The courts of this state have concluded that other Title 27 remedies, including mandatory injunction and declaratory judgment, are extraordinary remedies which; standing alone, do not preclude mandamus. State, ex rel. Brown, v. City of Canton (1980), 64 Ohio St. 2d 182; State, ex rel. Fenske, v. McGovern (1984), 11 Ohio St. 3d 129.
+Even if R.C. 2711.09 were an ordinary remedy, it would not be adequate under the circumstances of this case Appellee seeks to compel appellants to comply with the arbitrator's award, which appellants have refused to do despite the final and binding nature of the award and despite appellants' failure to obtain vacation of the award. In Fenske, supra, the court determined that declaratory judgment was not an adequate remedy under the circumstances unless it was "coupled with ancillary relief in the nature of a mandatory injunction, since relator seeks to compel respondents ... to perform a specific act ...." Here, appellee also seeks to compel appellants to perform specific acta For five and a half years, appellants have failed to comply with the arbitrator's award. There is no indication that appellants would comply with this award upon its confirmation by the trial court, without ancillary relief compelling appellants' performance. Therefore, R.C. 2711.09 is not an adequate remedy under the circumstances
+The trial court did not err in granting appellee's motion for summary judgment. Appellants' first assignment of error is without merit.
+II.
+Appellants' second assignment of error reads as follows:
+"THE MOTION MUST BE DENIED WHERE PLAINTIFFS FAILED TO EXHAUST ADMINISTRATIVE AND CONTRACTUAL REMEDIES AND WERE THEREFORE NOT ENTITLED TO JUDGMENT AS A MATTER OF LAW."
+Under this assignment of error, appellants argue that appellee had two other potential legal remedies which also preclude mandamus. Appellants first argue that appellee could have filed a grievance to force appellants to comply with the award. However, appellee had already filed a grievance which resulted in the award. Appellants cite cases where the courts have refused to allow employees to circumvent mandatory arbitration required by their labor agreements by suing directly on the agreements. This argument is inapposite here, because appellee did not circumvent arbitration, but followed the proper contractual procedure in obtaining the arbitrator's award.
+Appellants also argue that appellee should have filed an unfair labor practice charge pursuant to R.C. 4117.11(A) (6), which provides that it is an unfair labor practice to establish a "pattern or practice of repeated failure to timely process grievances or requestsfor arbitration of grievances." However, appellee did not complain about how appellants conducted the grievance process, but rather about appellants’ refusal to comply with the arbitrator's award at the conclusion of the grievance procesa Appellants' second assignment of error is without merit.
+III.
+Appellants' third assignment of error reads as follows:
+"THE LOWER COURT ERRED IN GRANTING PLAINTIFF’S MOTION FOR SUMMARY JUDGMENT WHERE NO BASIS INDEPENDENT OF OHIO REV. CODE SEC. 2711.09 EXISTS THEREFORE."
+Appellants argue that appellee is not entitled to summary judgment because of the legal remedy pursuant to R.C. 2711.09, and because there is no other additional basis which entitles it to summary judgment. Appellee argues that it is entitled to summary judgment not only due to appellants' failure to comply with the arbitral award, but also due to appellants' breach of the bargaining agreement. According to appellees, appellants' noncompliance constituted a breach of the agreement, since the agreement provided for the speedy resolution of grievances.
+Since we have already determined that the trial court properly allowed mandamus despite R.C. 2711.09, appellants' argument that there is no other independent basis which would justify mandamus is moot. Appellants' third assignment of error is without merit.
+IV.
+Appellants’ fourth assignment of error reads as follows:
+"THE LOWER COURT ERRED IN GRANTING PLAINTIFF'S MOTION FOR SUMMARY JUDGMENT WHERE THERE EXIST ISSUES AS TO MATERIAL FACTS."
+Appellants argue that they attempted to comply with the arbitrator's award when they offered Trzebuckowski full-time employment by letter dated May 6, 1985. According to appellants, this offer raises issues as to the material fact of their compliance with the award, which precludes summary judgment.
+Appellants' May 6,1985 letter does not comply with the arbitrator's award. The letter makes no mention of back pay and benefits, arid does not restore Trzebuckowski's work hours. The award clearly indicated that appellants were required to continue to accommodate Trzebuckowski's full-time teaching schedule, just as they had in the past. Appellants' fourth assignment of error is without merit.
+Judgment affirmed.
+STILLMAN, J., and McCRYSTAL, J., concur.
+Sitting by assignment, Judge Saul G. Stillman, Retired, Eighth District Court of Appeals.
+Sitting by assignment, Judge James L. McCrystal, Retired, Erie County Common Pleas Court.
