@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 10700"
+decided: "1930-04-28"
+citations: ["8 Ohio Law Abs. 610"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vickery, PJ, and Levine, J, concur."]
+parties: ["JANCHAR v CERKVENIK, et"]
+source_url: "https://static.case.law/ohio-law-abs/8/cases/0610-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1634362
+cites_cases: ["168 NE. 571", "45 Oh St 239", "71 A. 1129"]
+---
+
+# Janchar v. Cerkvenik
+
+## Majority (SULLIVAN, J.)
+
+SULLIVAN, J.
+In determining this question it is well enough to keep in mind as bearing upon the contention that oral proof is incompetent, that the loss or destruction of the instrument of writing or defendants’ refusal to produce it, in no manner affects the validity or force and effect of the instrument of writing, for whose existence the secondary proof was offered and rejected. This instrument of writing could only be invalidated by mutual consent, by cancellation, or the final discharge of its terms. Therefore it must be admitted that the loss of the instrument or the refusal to produce it, in no way affected the mutual obligations under the terms thereof and if there is a foundation for the contention of defendants’ able counsel, then the statute of frauds would bar a recovery in all cases where the instrument of writing w,as not produced at the trial, notwithstanding there might be no question as to its execution.
+It is well settled that the statute of frauds constitutes a rule of evidence. There can be no question about this and no issue can be taken against the proposition that the purpose of the statute of frauds was to secure the highest and most satisfactory species of evidence ,as was laid down in Crawford vs Edison, 45 Oh St 239 and in Cramer vs Patterson, 25 Oh Ap 130, as well as many other cases, and we are well aware of what Jones on Evidence says upon this question concerning the statute of frauds.
+Counsel for defendants quote from Jones Commentaries on Evidence, Second Edition, under chapter, “Statute of Frauds” as follows:
+“It will be observed that the statute does not affect the credibility or weight of testimony but absolutely excludes parol proof of a very large number of contracts. It is immaterial whether a large number of witnesses may have knowledge of the terms of a contract within this class or whether there are no witnesses to contpavert their statements. for the reason that these statements are denied all efficacy as evidence.”
+We see nothing in this paragraph wherein the statute of frauds makes an exception to the rule that secondary evidence is admissible to prove a lost or destroyed instrument or one which is retained by an opposing party and who refuses to bring it into court, or who claims that it never existed. We think that the section which is quoted to support the contention of the defendants relates only to such cases where, as against the statute of frauds, recovery is sought by oral proof alone notwithstanding the provision of the statute which requires evidence in writing.
+In the case at bar, when secondary evidence was offered, its purpose was to prove a written contract and the substance of the terms thereof and that this was sufficient to constitute a memorandum in writing under the claims of the petition and the proof, we think there can be no question, under the same reasoning which this court has advanced in other cases where a mere memorandum in an escrow as to a brokerage agreement was declared a memorandum in writing, notwitstanding there was no original contract as in the case at bar, executed by the parties or the parties to be charged therewith for the payment of the commission.
+The proffer of secondary proof was noc to prove an oral contract but to show within the statute of frauds that there was a contract for the brokerage in writing and this secondary proof brought into existence as a legal entity in the trial below, in our judgment the written document itself in one of the two ways that is provided for furnishing evidence of a written contract.
+The fallacy of defendants’ contention we think Ties in the theory that the secondary evidence was incompetent because its ultimate result was to show a verbal contract, whereas the prime purpose of such evidence was to restore the instrument of writing which was executed by the parties for the payment of brokerage, providing the services were performed under the terms of the agreement. These views we entertain are consistent with that theory of the rule of evidence that a document can be restored for the consideration of the court during the trial of an issue by evidence that it is lost or destroyed and by testimony as to the substance of its nrovisions. We know of no ruling that would make an exception as to the statute of frauds because the best evidence of which the nature of the case is susceptible is the rule which must be followed and in this sense the so-called evidence in the case at bar is not secondary evidence but primary evidence, because it is the best evidence under the record of which the nature of the case is susceptible.
+Defendants, to bear out their contention, submit the case of Warner & Co. vs Brua, decided June 17, 1929 by the Court of Appeals of Hamilton County, reported in 168 NE. 571. Its applicability is claimed because it is asserted that under the evidence in the case at bar the services for which brokerage is sought, had been fully performed before the execution of the instrument upon which recovery is sought. We copy from page 571 of Warner supra:
+“The law of Ohio reqiures a promise to pay commission for the sale of real estate to be in writing before an action can be maintained therefor. The situation then here is that the parties had performed all the services without any promise in writing and then sought at the time of the presentation of the contracts signed by the purchasers to bring themselves within the law by adding the promises in writing. The general rule is that past consideration will not support a promise. After the signing of the promises plaintiffs did nothing toward procuring buyers or toward the sale of the property. All this work had been done prior thereto. The facts bring the cases within the rule laid down in the case of Shields vs Sterrar, 77 N. J. Laws 404, 71 A. 1129. * * * There being no supporting consideration for the written promise to pay commissions the judgments (for the defendants) will be affirmed.”
+We do not think this case is the controling law in the case at bar.
+Holding these views the judgment of the lower court is hereby reversed for error in refusing to hear testimony and in sustaining the motion for judgment for defendants, and the cause is remanded for further proceedings .according to law.
+Vickery, PJ, and Levine, J, concur.
