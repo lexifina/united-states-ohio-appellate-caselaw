@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 615"
+decided: "1934-03-19"
+citations: ["17 Ohio Law Abs. 155"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KLINGER, J, concurs.", "CROW, PJ, dissents."]
+parties: ["ZIMMERMAN et v HAWISHER et"]
+source_url: "https://static.case.law/ohio-law-abs/17/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657231
+cites_cases: ["122 Oh St 242"]
+---
+
+# Zimmerman v. Hawisher
+
+## Majority (By GUERNSEY, J.)
+
+OPINION
+By GUERNSEY, J.
+It is contended by the defendants (plaintiffs in error) that under the terms of said written agreement the plaintiffs were not entitled to personal judgment against the defendants for the balance owing on such purchase price, but were only entitled to declare said agreement void and to enter into possession of said premises, retaining the payments made on the purchase price, as liquidated damages for the non-performance of said agreement on the part of the defendants.
+The defendants (plaintiffs in error) rely on the case of Stuber et v Mackenzie et, which was decided by this court on May 4, 1928, and which was, on February 6, 1929, affirmed by the Supreme Court in the case of Mackenzie et v Stuber et, reported in 119 Oh St at page 588. The second subdivision of the syllabus of the case in the Supreme Court reads as follows:
+“Where liquidated damages are provided for in a contract as compensation for a breach on the part of one party to the contract, such contract provides the measure of damages and no further recovery may be had by the complaining party.”
+The clauses of the contract in controversy in the cases last mentioned, upon which such decisions were based, were, as shewn by the opinion of this court, as follows:
+“It is expressly agreed by and between the parties to this agreement that if any one of said installments or the interest accrued thereon, shall not be paid within one month after falling due, then all of said installments remaining unpaid shall at once become due and payable at the election of the first party.”
+“In such event said second party agrees to yield up to said first party quiet and peaceful possession of said real estate, and the payments and improvements on said real estate shall be taken and considered as a fair rental for the use and occupation of said real estate and as liquidated and stipulated damages for the breach of this contract on the part of the second party and shall not be accounted for by said first party.”
+In the Mackenzie case the action was for personal judgment for the purchase price, and for foreclosure of the lien of the contract.
+At the time the action was brought, a large portion of the purchase price was not then due except as it might be declared due under the first clause of the contract above mentioned, and the vendor had exercised his option to declare all the balance of the monthly payments due and payable, and brought suit for the entire balance of the purchase price, with interest, and the decisions in that case were in effect a holding that under the two clauses' of the contract mentioned, where the vend- or exercised his option to declare all unpaid installments of purchase price due, his remedy on the contract was limited to the provisions of the second clause above quoted. And as the provisions of the second clause provided only for the yielding by the vendee of the possession of said real estate and that the payments and improvements on said real estate should b£ taken and considered as a fair rental for the use and occupation of said real estate and as liquidated and stipulated damages for the breach of the contract on the part of the vendee, the vendor was not entitled to personal judgment against the vendee for the entire purchase price.
+Prom the decision of the Supreme Court, it appears that the vendee offered to surrender the possession of the premises to the vendor upon the exercise of said option to accelerate such payments by the vendor. And it was stated in the opinion, that by reason of such offer of the vendee, the vendor was not entitled to foreclosure, apparently on the theory that equity looks upon that as done which should be done, and the tender of the possession of said premises which the vendor was required to accept under the clauses of the contract above referred to, as being effective in merging the entire estate in the vendor so that there remained no interest of the vendee which could be foreclosed.
+In the case at bar, the entire purchase price of the premises was due at the time the petition was filed, and consequently there was no occasion for the plaintiffs to exercise their option to accelerate the due dates of payment, and there was no provision of the contract limiting the remedy of plaintiffs in case they exercised such option.
+In the absence of any clause relating to the remedy of the vendor under the land contract, it is clear that he would be entitled to the remedies ordinarily available to a vendor to enforce his rights under such contract, including a right of action for the purchase price upon default in payment and tender of a deed and the right to foreclose his lien secured by the contract.
+In the contract in the case at bar, the only provision as to remedy is contained in the clause starting with the words “In case default should be made by the party of the second part,”’and this clause gives the vendor the right, if he so elect, to treat the contract as henceforth void in case of default by the vendee, and to reenter upon said premises at any time after such default. The clause further provides that in ease the vendor makes such election he shall be entitled to certain other rights, including the right to retain the payments made by the vendee, as¡ stipulated damages for non-performance. If the vendor had made the election provided for in this clause, his remedy would be limited to the rights given him under the clause in case of such election. He would not be entitled to personal judgment against the vendee for the purchase price but would only be entitled to retain the payments made on the purchase price, as liquidated damages. The vendor in this case did not make such election. On the other hand, his bringing the action in the manner be brought it, is an affirmance of the contract.
+The remedy provided for in the contract is optional and is cumulative to the remedies ordinarily had by a vendor under such form of contract. As the vendor did not exercise his option under the contract, he is not limited to the remedy therein provided in case of the exercise of such option, and has a right to all the remedies he would have where no special provision is made as to remedy, including the right to bring action for the purchase price upon tender of deed.
+The remedy adopted by the vendor, which was an action for the purchase price upon tender of a deed, is in strict compliance with the rule laid down by the Supreme Court in the case of The Will-O-Way Development Company v Mills, 122 Oh St 242, the Supreme Court in that case having decided that a vendor in contract for sale of land, may in addition to other remedies to which he is entitled, bring action for balance of purchase price on tender of deed. Such being the case, the plaintiffs were entitled to the relief given them by the lower court.
+Holding these views, the judgment of the lower court is affirmed.'
+KLINGER, J, concurs.
+CROW, PJ, dissents.
+
+## Dissent (By CROW, PJ.)
+
+DISSENTING OPINION
+By CROW, PJ.
+In my opinion, the Mackenzie case in 119 Oh St at page 588 is decisive of this case, and the Will-O-Way case in 122 Oh St at page 242 is not at all applicable.
+The latter case had but one point, namely, whether in an action to recover the purchase money, it was necessary to allege tender of a deed by the seller, which point was raised by a demurrer. The contract went no further than to bind the- seller to convey, and the buyer to pay the purchase money a portion of which had been paid, and the suit sought recovery of the balance.
+The case makes no allusion to any provision in the contract, for any remedy by the seller, and we therefore assume there was none.
+In the Mackenzie case the contract of sale gave to the seller the right of election whereunder the sellér could accelerate the time of payment of the installments so that all would become due within one month after default in the payment of any installment, and also gave to the seller another right, namely, to declare the contract of sale void Upon failure to pay the purchase money or any part, or the interest, taxes and assessments, in pursuance of the contract.
+.Mackenzie, the seller, elected to accelerate the time of payment, which was the exercise of one of the two rights we have mentioned, and sued for both personal judgment and foreclosure of the contract of sale.
+Though the words of the contract in the Mackenzie case and in the instant case, are not the same, the substance of both contracts is similar in the particular that the seller might retake the property, in which event the buyer would surrender possession, and the payments which had been made should be regarded by the parties as stipulated damages for the breach. In neither the Mackenzie case nor the case at bar, did the buyer attempt to enforce the right to retake the property, which right was in the Mackenzie case, and is in the instant case, the only right the seller had under the provisions of the contract of sale. There was not in the Mackenzie case, and there is not in this case, any question as to the reasonableness of the stipulation for the liquidated damages.
+The distinction from the Mackenzie cáse which is attempted to be made in the majority opinion in the instant case, because of the exercise of one of the two rights the seller had, namely, the right to accelerate the payment, is, in my opinion, not at all valid because it, did no more than to make the right of the seller to whatever damages he had, accrue earlier than it would have accrued but for the exercise of the option, and did not destroy or otherwise affect the right of the seller to pursue the remedy fixed by .the parties to the contract, that is, the right to retake -the property which as we have said was the only remedy the contract established.
+The crux of the decision in the Mackenzie case is that where, the contract itself provides the remedy, the remedy so provided is exclusive.
+Another case applying that principle is New York Central Railroad Company v City of Bucyrus, 126 Oh St page 558, syllabus 2.
+I therefore . hold that the judgment in the instant case should be reversed at costs of defendants in error, and final judgment entered for plaintiffs in error.
