@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5159"
+decided: "1962-05-02"
+citations: ["117 Ohio App. 238"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stevens, P. J., and Hunsicker, J., concur."]
+parties: ["Schick, Appellant, v. Nationwide Insurance Co., Appellee."]
+source_url: "https://static.case.law/ohio-app/117/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1449166
+cites_cases: ["142 Ohio St., 521", "160 Ohio St., 520"]
+---
+
+# Schick v. Nationwide Insurance
+
+## Majority (Doyle, J.)
+
+Doyle, J.
+We entertain this appeal from a judgment of the Court of Common Pleas of Summit County, in which it is claimed that the trial court committed prejudicial error in arresting the testimony of the litigants from the consideration of the jury and entering judgment for the defendant. The plaintiff in the court below is obviously the appellant here.
+The action was for the recovery of accidental death benefits under a policy of life insurance issued by the Farm Bureau Life Insurance Company upon the life of Yernon R. Schick, payable to his wife, Dorothy Elizabeth Schick, who instituted the suit and is the appellant here. The Nationwide Insurance Company appears as defendant in the trial court, and is the appellee in this court, for it is the successor to the Farm Bureau Life Insurance Company, and is obligated for the amounts due and payable under policies issued by the Farm Bureau Life Insurance Company.
+The regular life insurance benefit of $5,000 has been paid by the Insurance Company to the beneficiary. This action to rgcoyer additional benefits stents from the policy endorsement entitled “Agreement Providing for An Additional Insurance Benefit In Event of Death, by Accidental Means, as Limited and Provided Herein.”
+Insofar as pertinent to this appeal, the endorsement provides :
+“Benefit
+‘ ‘ The company agrees to pay $5,000, in one sum in addition to the amount otherwise payable according to the terms of this policy, to the beneficiary under the policy, immediately upon receipt at the company’s home office of proof of the death of the insured while the policy and this agreement are in full force and effect, as a result, directly and independently of all other causes, of bodily injuries caused solely by external, violent and' accidental means, as evidenced by a visible contusion or wound on the exterior of the body (except in the case of drowning ox-external injuries revealed by an autopsy), axxd that such death shall not have occurred (a) more than 90 days after the date of such injuries, or (b) as the result of or by the contribution of disease or bodily or mental infirmity or medical or surgical treatment therefor or infection of any nature unless such infection is incurred through an external visible wound sustained through violent and accidental means * * (Italics ours.)
+The deceased policyholder had beexx employed by the Gfougler Machine Company for a number of years, and on October 20, 1959, after the completion of his day’s work, he entered a lavatory in the factox-y, whereupoxx a newly installed swinging door crushed his right hand and fractured the fifth metacarpal bone. The injured hand was enclosed in a cast uxxtil October 27, 1959, when it was found that the fracture was not uniting. Attending doctors coxxcluded that open reduction surgery for the application of a Kirschner wire fixation was the necessary and proper procedure.
+On October 28, 1959, the surgery was completed at approximately 10 a. m., under a general anesthetic consisting of pentothal and nitrous oxide; at 12:30 p. m., his wife, upon visitation, found him in a coma with the left side of his face distorted; on October 29, 1959, Dr. Weinberger, a neurosurgeon of high repute, examined the patient and found him “slow, dull and torpid,” with “a half of the field of vision lost” and numbness on one side of his body, which, according to the doctor, “bespeaks a deep capsular lesion involving both motor and sensory nerves.” The patient lived through the following day (October 30, 1959) with no apparent improvement, and died on November 1, 1959. The certificate of death shows that death was caused by “cerebral infarction, due to thrombosis of the right internal carotid artery, due to atherosclerosis of internal carotid artery.”
+Further evidence points to the fact that, in 1957, Schick consulted Dr. Weinberger for numbness and lack of feeling on the left side of his body. Upon examination the doctor was of the opinion that it was caused by “the closing of a tiny blood vessel in his brain.” In the doctor’s opinion, “he recovered from that subsequently.” He continued to work at the plant, and in 1958 he “keeled over at work.” Upon further examination, Dr. Weinberger was of the opinion that “he had arteriosclerosis of the vessels of the brain.”
+Dr. Weinberger further testified to the effect of anesthetic on a person suffering from a cerebral vascular disease of the brain. He said:
+“ * * * a man who lives and works with marginal blood flow, * * * a blood flow with critical levels through the brain, # * any reduction below that critical level is likely to result in decreased oxygen to the tissues * * * [and] injuries to his blood vessels. When anesthetics are given to such an individual, living on a marginal level of the brain blood flow, * * * the systolic blood pressure will very often drop a little bit, which is just enough to prevent a proper head of pressure in the blood vessels of the brain. There are reductions in oxygen, [and] a damage in the blood that in an individual living on the critical blood levels can be disastrous. * * *”
+In answer to the question “* *■ * what occurred to produce his death at the time it occurred on November 1, 1959?” the doctor said:
+“He had a paralysis on one side of his body. He had a softening in his brain due in my opinion to complications of anesthesia, the effect of anesthesia.”
+In answer to the question “* * * do you have an opinion
+* * * as to the cause of the death of Vernon Schick?” the doctor testified:
+“My opinion is going to be a dynamic opinion as befits what this man had. Pie required an anesthetic agent for an accident which he had suffered, and from the consequences of this anesthetic he developed a softening of his brain from which he died. This is a sequence of serially related events that have to be seen as a moving series of events rather than as a static single incident.”
+The expert further said that he thought the patient would be alive “if he had not suffered the injury to his hand and had not required the treatment that was given to him. ’ ’
+He testified further, however, that, in considering the cause of death, he was thinking in terms of a serial sequence of events, a series of variables acting upon each other, and that arteriosclerosis was one of the variables acting upon the deceased.
+The following question and answer appears in connection with the above evidence:
+“Q. * * * Then arteriosclerosis is one of the various factors contributing to his death, along with the accidental injury and the anesthetic? A. That is right. That is correct.”
+From the evidence before us, it can be concluded only that Vernon Schick had suffered for several years prior to his death from a cerebral vascular disease, arteriosclerosis, and had suffered from other disabilities from time to time arising therefrom. A week or more prior to his death he suffered an accidental injury to his hand which required surgery, coupled with a general anesthetic. The anesthetic, acting upon the diseased condition of his body, became a contributing factor in a serial sequence of events to cause his death. Likewise, the ravages of arteriosclerosis became another contributing factor in the serial sequence which culminated in death.
+The cause of death in this case was essentially a fact to be established by medical science. The death certificate, signed by a doctor of medicine, that death was caused by cerebral infarction, due to thrombosis of the right internal carotid artery, which, in turn, was due to atherosclerosis of the internal carotid artery, is, under the Ohio statute, “prima-facie evidence * * * of the facts therein stated.” Section 3705.05, Revised Code. Perry v. Industrial Commission, 160 Ohio St., 520.
+The testimony of Dr. Weinberger, the sole medical witness, leaves no uncertainty but that in his opinion, based upon his personal knowledge of his patient, coupled with hospital rgcords, arteriosclerosis was “one of the various factors contributing to his [Vernon Schick’s] death.”
+From this uncontradicted evidence, we believe that reasonable minds could conclude only that disease contributed directly and proximately to the death of the insured, and that he did not die “as a result, directly and independently of all other causes, of bodily injuries caused solely by external, violent and accidental means.”
+It is reasonable to conclude, as a matter of law, that bodily disease, acting concurrently with the physical effects of the anesthesia, directly caused the death, and that each was a contributing factor thereto.
+We are of the opinion that Bridge v. Metropolitan Life Ins. Co., 142 Ohio St., 521, is persuasive authority for the conclusions reached. The second paragraph of the syllabus reads:
+“2. In an action upon an insurance policy which provides for the payment of an additional amount equal to the face amount of the policy for death resulting directly and independently of all other causes, from bodily injuries sustained solely through external, violent and accidental means and not caused or contributed to directly or indirectly or wholly or partially by disease or by bodily or mental infirmity, the plaintiff cannot recover such additional amount for death caused by a fracture of a femur sustained by insured in a fall, when reasonable minds can reach but one conclusion, namely, that arteriosclerosis and accompanying ailments contributed proximately and not merely remotely to produce the death, and a final judgment in the insurer’s favor is warranted.”
+There being no error prejudicial to the rights of the appellant, the judgment will be affirmed.
+Judgment affirmed.
+Stevens, P. J., and Hunsicker, J., concur.
