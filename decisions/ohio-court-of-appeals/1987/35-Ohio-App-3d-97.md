@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-860012"
+decided: "1987-03-18"
+citations: ["35 Ohio App. 3d 97"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Klusmeier, P.J., Black and Hildebrandt, JJ., concur."]
+parties: ["Stokes, Sheriff, Appellee, et al., v. St. Paul Fire & Marine Insurance Co.; Ferguson, Auditor, et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/35/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6693001
+---
+
+# Stokes v. St. Paul Fire & Marine Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon the appeal from the Court of Common Pleas of Hamilton County.
+The issue in this appeal concerns the propriety of certain expenditures of public funds by plaintiff-appellee Lincoln J. Stokes, Sheriff of Hamilton County (“the sheriff”). Finding that the challenged expenditures were proper, we affirm.
+In 1982, defendant-appellant Thomas E. Ferguson, Auditor of the state of Ohio (“the Auditor”), issued a report covering an audit of the sheriffs office for the period January 1979 through August 1981. The report contained findings for recovery of public funds totalling $4,634.52 against the sheriff and his sureties, for allegedly making improper expenditures from the Furtherance of Justice Fund. This fund, established pursuant to R.C. 325.071, provides a specified amount of money each year for expenses incurred by the county sheriff “in the performance of his official duties and in the furtherance of justice.”
+The largest of the findings for recovery was for $3,000 paid in the negotiated settlement of a claim made by one Willard Lewis, who was improperly held in the county jail for twenty-nine, days after the grand jury decided not to indict him. The remaining findings for recovery at issue in this appeal covered the sheriffs use of the Furtherance of Justice Fund to pay the expenses of three annual meetings of the Hamilton County Police Association and two annual meetings of the • Buckeye State Sheriffs’ Association.
+On December 21, 1982 the sheriff and his surety filed a complaint for declaratory judgment, seeking a declaration that these expenditures from the Furtherance of Justice Fund were lawful, proper and in accordance with R.C. 325.071. Based upon a stipulation of facts filed by the parties, .the trial court entered judgment in favor of the sheriff on his expenditures from the fund. In this appeal from that judgment, appellants Ferguson and Cele-brezze present the following single assignment of error:
+“The trial court erred in issuing a declaratory judgment invalidating the findings for recovery of public fund[s] issued by defendant-appellant Ferguson and declaring such expenditures by appellee Stokes to be valid.”
+Our research has revealed a paucity of judicial authority addressing the propriety of expenditures under the Furtherance of Justice Fund. However, with regard to the sheriffs use of the fund to provide for the expenses of the police and sheriffs’ associations meetings, we are guided by the parties’ stipulation of fact as to the purposes of these meetings. In that stipulation, the Auditor agreed that the police association meetings were held in order to exchange occupational information between police officers and agencies in Hamilton County, and to discuss law enforcement topics. Similarly, discussion at the sheriffs’ association meetings centered upon current legislation, pending problems, operations, and other law enforcement matters. Thus, given the undisputed educational purposes of these meetings, we are constrained to hold that the court below did not err in finding that the sheriff’s expenses for the meetings were incurred in the performance of his official duties and in the furtherance of justice. See R.C. 325.071.
+We next address the propriety of the sheriff’s payment of $3,000 from the Furtherance of Justice Fund to settle the claim of Willard Lewis. First, we note that the official duties of a county sheriff include preservation of the public peace, along with control of the county jail and all persons confined thereto. R.C. 311.07 and 341.01. In this case, Willard Lewis was incarcerated by the sheriff in the performance of those official duties. There is nothing in the record before us to indicate that the retention of Lewis following the grand jury’s decision not to indict him was anything but inadvertent. The $3,000 was paid pursuant to the negotiated resolution of the claim, which obviated the necessity of a lawsuit.
+For these reasons, we conclude that the trial court did not err in finding that when the sheriff paid the $3,000 settlement amount, he was acting in the performance of his official duties and in the furtherance of justice. Accordingly, we overrule the single assignment of error and affirm the judgment of the trial court.
+Judgment affirmed.
+Klusmeier, P.J., Black and Hildebrandt, JJ., concur.
+R.C. 325.071 reads in full:
+“There shall be allowed annually to the county sheriff, in addition to all salary and allowances otherwise provided by law, an amount equal to one half of the official salary allowed under section 325.06 of the Revised Code, to provide for expenses which may be incurred by him in the performance of his official duties and in the furtherance of justice. Upon the order of the county sheriff, the county auditor shall draw his warrant on the county treasurer, payable to the county sheriff or such other person as the order designates for such amount as the order requires; such amounts, not exceeding the amount provided by this section, to be paid out of the general fund of the county.
+“Nothing shall be paid under this section until the county sheriff has given bond to the state in an amount not less than his official salary, to be fixed by the court of common pleas or the probate court, with sureties to be approved by either of said courts, and such bond shall be conditioned that he will faithfully discharge all the duties enjoined upon him, and pay over all moneys received by him in his official capacity. Such bond, with the approval of such court of the amount thereof and sureties thereon, shall be deposited with the county treasurer.
+“The county sheriff shall annually, before the first Monday of January, file with the county auditor an itemized statement, verified by him as to the manner in which such fund has been expended during the current year, and shall if any part of such fund remains in his hands unexpended, forthwith pay such remainder into the county treasury.”
+The $3,000 was originally paid by the sheriff’s bonding company, defendant St. Paul Fire and Marine Insurance Company. St. Paul exercised its right of subrogation and was reimbursed by the sheriff from the Furtherance of Justice Fund.
+The surety (Cincinnati Insurance Company), defendant St. Paul and defendant Wayne F. Wilke, Hamilton County Treasurer, are not actively involved in this appeal. Auditor Ferguson and Anthony J. Celebrezze, Jr., Attorney General of the state of Ohio, are the appellants herein.
+The Ohio Attorney General has issued two formal opinions concerning the fund, neither of which is helpful to our analysis of this case. 1969 Atty. Gen. Ops. No. 60-090; 1967 Atty. Gen. Ops. No. 67-120.
+We note that one of appellants’ arguments is that payment of expenses for the meetings sub judice should be governed by R.C. 326.20, which provides in part as follows: “[e]xcept as otherwise provided by law, no elected county officer, and no deputy or employee of the county, shall attend, at county expense, any association meeting or convention, unless authorized by the board of the county commissioners.”
+We perceive that R.C. 325.071 is one of the exceptions contemplated by R.C. 325.20. Additionally, under the provisions of R.C. 325.071, the Furtherance of Justice Fund is comprised of an annual allotment of a specific amount of money for use by the county sheriff, to be distinguished from the provisions of R.C. 325.20 regarding general county funds.
