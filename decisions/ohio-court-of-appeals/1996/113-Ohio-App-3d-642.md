@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9-96-09"
+decided: "1996-08-23"
+citations: ["113 Ohio App. 3d 642"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Thomas F. Bryant and Evans, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. REESE, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/113/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 513250
+cites_cases: ["1992 WL 126090", "309 N.E.2d 897", "37 Ohio St.2d 157", "381 N.E.2d 184", "55 Ohio St.2d 261", "574 N.E.2d 492", "61 Ohio St.3d 259", "66 O.O.2d 351", "9 O.O.3d 401"]
+---
+
+# State v. Reese
+
+## Majority (Hadley, Presiding Judge.)
+
+Hadley, Presiding Judge.
+Defendant-appellant, Tomas M. Reese, appeals from a judgment of conviction and sentence entered by the Marion County Court of Common Pleas, following a jury trial which found appellant guilty of aggravated robbery, a violation of R.C. 2911.01(A)(1), with a firearm specification pursuant to R.C. 2941.141, and carrying a concealed weapon, a violation of R.C. 2923.12(A). The appellant contends that the trial court erred in denying his motion for an acquittal. For the reasons that follow, the judgment of the trial court is affirmed.
+The appellant’s convictions stem from a robbery of a Kentucky Fried Chicken Restaurant in Marion, Ohio, on October 16, 1995. Appellant entered through an unlocked back door to the restaurant before the restaurant had opened for business that day. Three employees were present at the time of the robbery, including Metta Hopkins, a coconspirator in the robbery. Hopkins, a cook who had been employed at the restaurant for only two weeks before the robbery (and who was a close friend of the appellant) was the person who unlocked the back door. The door was usually locked and was unlocked only moments before the robbery by Hopkins.
+Appellant pointed a gun at a crew person and smashed her head into a Coke cooler. Appellant then ordered the third employee, the store manager, to open the safe by holding the gun to her neck. After ordering the three employees to enter a cooler, the appellant left the restaurant with approximately $5,300 in cash.
+Immediately thereafter, appellant was seen running through an apartment complex near the restaurant by a resident of the complex. Later that day the appellant arrived at Hopkins’s apartment before Hopkins was scheduled to complete his shift at the restaurant. At that same time Hopkins asked to leave work, but was not permitted to do so.
+Hopkins’s roommate, Miquel Wright, contacted police several days after the robbery and reported that he saw appellant and Hopkins together at times after the robbery and that both Hopkins and appellant each had a large sum of money despite the fact that neither man had significant employment.
+Wright agreed to wear a wire and, through use of this device together with visual surveillance, the Marion Police Department learned that Hopkins had bought a car and planned to leave the state. Wright also saw appellant bring a gun into the residence and leave with it when Hopkins and appellant left in Hopkins’s car. Not having a license plate, appellant and Hopkins stole a plate, put it on the car and left Hopkins’s residence. The police then stopped and arrested the appellant and Hopkins. Under the passenger seat where appellant sat, police discovered a gun that was similar to the gun used in the robbery. Hopkins had $700 in cash. A subsequent search of appellant’s bedroom revealed $1,270 in cash. Appellant denies any involvement in the robbery.
+On October 25, 1995, appellant was indicted on one count of aggravated robbery with a firearm specification and one count of carrying a concealed weapon. On January 18, 19, and 22, 1996, the Marion County Court of Common Pleas held a jury trial. Appellant was found guilty on both counts of the indictment and the firearm specification. The trial court sentenced appellant to seven to twenty-five years in prison on the aggravated robbery conviction, consecutive to a three-year term of actual incarceration on the firearm specification, and consecutive to one year in prison on the carrying a concealed weapon conviction. Appellant is currently serving his sentence. From the judgment of conviction and sentencing the appellant brings this appeal.
+The appellant asserts one assignment of error for our review:
+“The trial court erred to the prejudice of defendant-appellant in denying his Criminal Rule 29 Motion for Acquittal.”
+At the close of the state’s case, the defendant moved for an acquittal pursuant to Crim.R. 29(A), which the trial court denied. The appellant submits on appeal that the trial court erred in overruling his motion for acquittal. In particular, the appellant contends that the evidence was not sufficient to send either charge to the jury, and, thus, cannot support the convictions.
+Crim.R. 29(A) provides:
+“The court on motion of a defendant or on its own motion, after the evidence on either side is closed, shall order the entry of a judgment of acquittal of one or more offenses charged in the indictment, information, or complaint, if the evidence is insufficient to sustain a conviction of such offense or offenses. The court may not reserve ruling on a motion for judgment of acquittal made at the close of the state’s case.”
+The Supreme Court of Ohio in State v. Bridgeman (1978), 55 Ohio St.2d 261, 9 O.O.3d 401, 381 N.E.2d 184, syllabus, held that “[p]ursuant to Crim.R. 29(A), a court shall not order an entry of judgment of acquittal if the evidence is such that reasonable minds can reach different conclusions as to whether each material element of a crime has been proved beyond a reasonable doubt.”
+In ruling on a motion for judgment of acquittal, the evidence must be viewed in a light most favorable to the government. Id. at 263, 9 O.O.3d at 402, 381 N.E.2d at 185. In order to overcome a Crim.R. 29(A) motion, the state must present some evidence in its case-in-chief addressing each element of the charge against the defendant from which reasonable minds might find beyond a reasonable doubt that the defendant committed the offense. State v. Whitaker (May 29, 1992), Hardin App. No. 6-91-16, unreported, 1992 WL 126090.
+The Supreme Court of Ohio held in State v. Jenks (1991), 61 Ohio St.3d 259, 574 N.E.2d 492, paragraph two of the syllabus:
+“The relevant inquiry [on appeal of a criminal conviction] is whether, after viewing the evidence in a light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime proven beyond a reasonable doubt.”
+The Jenks court applied this holding to both direct and circumstantial evidence, thereby overruling State v. Kulig (1974), 37 Ohio St.2d 157, 66 O.O.2d 351, 309 N.E.2d 897, which stated that, when an offense or elements of an offense are proved solely by circumstantial evidence, the evidence must be irreconcilable with any reasonable theory of innocence.
+The aggravated robbery statute, R.C. 2911.01(A)(1), provides:
+“(A) No person, in attempting or committing a theft offense, as defined in section 2913.01 of the Revised Code, or in fleeing immediately after such attempt or offense, shall do either of the following:
+“(1) Have a deadly weapon or dangerous ordnance, as defined in section 2923.11 of the Revised Code, on or about his person or under his control.”
+At trial, Vicki Smith and Rhoda Crawford testified that on October 16, 1995, the person who robbed the Kentucky Fried Chicken Restaurant had a gun which he pointed into the face and neck area of each employee, excluding Hopkins. The restaurant employees were forced to lie on the ground while Smith, at gunpoint, was ordered to empty the safe. Before the robber fled the scene with over $5,300 in cash, all three employees were forced to enter a cooler where they remained barricaded until Hopkins freed the group approximately five minutes later.
+Both Crawford and Smith identified the person who robbed the restaurant as a black man who wore a dark green sweatshirt, baggy pants and a bandana over his face. Appellant wore a dark green sweatshirt when he was arrested. Crawford described the robber as being between five foot eight inches and six feet in height and having hair braided from front to back. Appellant is a black man who is five foot ten inches in height and wore his hair in com rows (braided from front to back) at the time of arrest.
+A resident of a nearby apartment complex saw appellant running away from the general area of the restaurant through the complex shortly after the robbery. The resident knew of the robbery because he listened to a police scanner and heard the dispatch of officers to the restaurant.
+Hopkins’s roommate, Miquel Wright, contacted police regarding the large amount of cash Hopkins and appellant had after the robbery when neither man had significant employment. Additionally, Wright saw appellant carry the gun, later identified as a gun similar to the gun used in the robbery, into Wright and Hopkins’s apartment.
+The trial court’s decision denying appellant’s motion for acquittal was proper because “the evidence is such that reasonable minds can reach different conclusions as to whether each material element of a crime has been proved beyond a reasonable doubt.” Bridgeman, 55 Ohio St.2d 261, 9 O.O.3d 401, 381 N.E.2d 184, syllabus.
+The concealed weapons statute, R.C. 2923.12(A), provides:
+“(A) No person shall knowingly carry or have, concealed on his person or concealed ready at hand, any deadly weapon or dangerous ordnance.”
+The Marion Police Department discovered a loaded gun under the passenger seat of Hopkins’s automobile after arresting appellant and Hopkins. Appellant occupied the passenger seat. Appellant was the person who, only a short time before, had carried that same gun into Hopkins’s apartment. When he left with Hopkins in Hopkins’s automobile, he took the gun. The police stopped and arrested appellant moments later.
+After reviewing the record, the trial court’s decision denying appellant’s motion for acquittal was proper because “the evidence is such that reasonable minds can reach different conclusions as to whether each material element of a crime has been proved beyond a reasonable doubt.” Bridgeman, syllabus.
+The appellant’s sole assignment of error is overruled. Having found no error prejudicial to the appellant herein, in the particulars assigned and argued, we affirm the judgment of the trial court.
+Judgment affirmed.
+Thomas F. Bryant and Evans, JJ., concur.
