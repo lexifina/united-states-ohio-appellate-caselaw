@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1940-09-14"
+citations: ["67 Ohio App. 375"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Klinger, P. J., and Crow, J., concur."]
+parties: ["The Minster Loan & Savings Co., Appellant, v. Laufersweiler et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/67/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368220
+cites_cases: ["10 Ohio, 469", "19 Ohio St., 462", "2 Am. Rep., 413", "22 Am. Dec., 757", "22 F., 418", "36 Am. Dec., 103", "37 Ohio St., 583", "4 Ohio App., 468", "4 Ohio, 331"]
+---
+
+# Minster Loan & Savings Co. v. Laufersweiler
+
+## Majority (Guernsey, J.)
+
+Guernsey, J.
+The notice of appeal in this case prescribes an appeal upon questions of law and fact, but for the reasons hereinafter mentioned this court has determined that this is not a chancery case within the meaning of Section 6, Article IV of the Constitution, and is therefore not retriable upon the facts. The appeal is effective only as an appeal upon questions of law.
+This is an action by a corporation against certain of its former directors and other officers for damages alleged to have been caused by their negligent and unauthorized acts.
+‘ ‘ The liability of directors or officers to the corporation for damages caused by negligent or unauthorized acts rests upon the common-law rule which renders every agent liable who violates his authority or neglects his duty to the damage of his principal.” 13 American Jurisprudence, 944, Section 991.
+In such a case the corporation may sue at law or in equity as may be proper under the circumstances of the particular case. In an action at law the remedy may take the form of an action for damages, or of an action in assumpsit for money had and received; in equity it may take the form of a suit to compel an accounting, or to impress a trust on particular funds, or on corporate stock. 19 Corpus Juris Secundum, 215, Section 812.
+Whether an action by a corporation against its directors or officers is properly brought at law or in equity depends on the nature of the case; if the remedy at law is adequate the action is properly brought at law, or if the legal remedy is inadequate it is properly brought in equity. Actions to recover damages for tortious or negligent acts are within the jurisdiction of the law courts. Equity has jurisdiction over actions to compel an accounting by corporate officers for their acts in violation of duty or breach of trust, including actions in which an accounting is sought for misappropriation of corporate funds or property, for mismanagement of corporate affairs resulting in loss and waste of corporate assets, and for individual profits unlawfully received. 19 Corpus Juris Secundum, 215, Section 812.
+The instant action is one to recover damages for ultra vires and negligent, acts of corporate officers and does not involve accounting or other equitable relief, and is strictly an action at law, in which an appeal upon questions of law and fact does not lie. Being an action at law .plaintiff was entitled to a trial by jury, and if under the pleadings and the evidence a prima facie case for recovery on the part of the plaintiff was presented, the action of the lower court in refusing plaintiff’s demand for a jury trial and its further action in trying the cause without the intervention of a jury and rendering judgment therein in favor of defendants were both erroneous and prejudicial. On the other hand, if such a prima facie case was not presented, such actions were neither erroneous nor prejudicial. Whether such a ease was presented will be hereafter considered.
+The causes of action stated in the amended petition are causes of action at law for damages arising out of ultra vires acts and negligence, and fraud is not the ground or gist of the action.
+With a view to avoid the bar of the statute of limitations to the several causes of action pleaded, it is alleged in the amended petition “that the defendants knowingly, wilfully, and with intent to deceive or cover up and conceal their negligent, illegal and ultra vires acts and the loss incurred by their acts [conducted themselves] in such a manner that the stockholders and/or depositors did not, and could not, with the exercise of reasonable prudence, discover the same until on or about January 1, 1937.”
+Giving these allegations the most liberal construction, they simply amount to a plea that the defendants fraudulently concealed from the plaintiff, until the date mentioned, the several causes of action against them. Whether there is evidence tending to prove the facts upon which this plea is based, it is unnecessary to decide, since, if the plea is sustained by the evidence, it would not have the effect of enlarging the time for bringing the action under the provisions of Section 11224, General Code, as that section, prescribing that if the action be for fraud the cause thereof shall not accrue until the fraud is discovered, is by its terms made applicable only where fraud is the ground or gist of the action. Fee's Admr. v. Fee, 10 Ohio, 469, 36 Am. Dec., 103; Howk v. Minnick, 19 Ohio St., 462, 2 Am. Rep., 413; Andrews v. Dole, 1 Fed. Cas., 878, at 882; Amy v. City of Watertown, 22 F., 418.
+In their several answers the defendants plead generally that all the acts complained of in each and every cause of action in the amended petition are barred by the statute of limitations as set forth in the statutes of the state of Ohio. Under this plea the defendants are entitled to the benefit of any of the statutes of limitations applicable to the causes of action pleaded in the amended petition. The applicable statute is to be determined from the nature of the action.
+As hereinbefore stated, the liability of the defendants rests upon the common-law rule which renders every agent liable who violates his authority or neglects his duty to the damage of his principal.
+The alleged injuries to the rights of the plaintiff arise from the relationship of principal and agent and not on contract and are not enumerated in the sections of the General Code following Section 11224, the pertinent portion of which reads as follows:
+“An action for either of the following cases, shall be brought within four years after the cause thereof accrued: * * * 4. For an injury to the rights of the plaintiff not arising on contract nor hereinafter enumerated.”
+All the causes pleaded, therefore, come within the provisions of this section and pursuant to its terms are barred if not brought within four years after the accrual thereof. Marblehead Bank Co. v. Raridon, 4 Ohio App., 468.
+“Generally, it may be said that a cause of action accrues at the moment of a wrong, default, or delict by the defendant and the injury of the plaintiff, although the actual damage resulting therefrom may not be discovered until some time afterwards, if the injury, however slight, is complete at the time of the act.” 1 American Jurisprudence, 451, 452, Section 60.
+In the case of Kerns v. Schoonmaker, 4 Ohio, 331, 22 Am. Dec., 757, it is held in the syllabus that:
+“Statute of limitations commences to run so soon as the injurious act complained of is perpetrated, although the actual injury is subsequent, and could not immediately operate.”
+Applying these rules, it is clear that the causes of action for the ultra vires and negligent acts complained of accrued at the several times such acts were committed. Whether the causes of action were known or unknown to the plaintiff within the time limited by the statute is not material. Williams v. Pomeroy Coal Co., 37 Ohio St., 583; Howk v. Minnick, supra.
+As shown by the pleadings and the evidence, all the negligent and ultra vires acts complained of accrued prior to the year 1929, being more than four years prior to September 17,1937, the date the instant action was commenced, and action thereon is barred by the provisions of Section 11224, General Code, above set forth.
+As both under the pleadings and the proof all the causes of action pleaded in the amended petition were barred by the statute of limitations mentioned, the court did not err in refusing the demand for a jury trial, or in its judgment in favor of defendants, or in any of the other respects complained of in the assignments of error and argued in the briefs.
+Judgment affirmed.
+Klinger, P. J., and Crow, J., concur.
