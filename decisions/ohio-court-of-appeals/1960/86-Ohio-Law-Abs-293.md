@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6357"
+decided: "1960-07-19"
+citations: ["86 Ohio Law Abs. 293"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Gillen, P. J., Radcliff and Collier, JJ., of the Fourth District, sitting by designation in the Tenth District.)", "Gillen, P. J., and Radcliff, J., concur."]
+parties: ["BALL et, Plaintiffs-Appellees, v. REYNOLDSBURG (Village), Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/86/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804795
+cites_cases: ["127 Ohio St., 469", "152 Ohio St., 132", "189 N. E., 246"]
+---
+
+# Ball v. Reynoldsburg
+
+## Majority (Collier, J.)
+
+Collier, J.
+This action was instituted by the plaintiffs, Russell E. Ball and Dorothy Ball, against the Village of Rey-noldsburg in the Municipal Court of Columbus, seeking damages alleged to have been caused by the negligence of the defendant village in permitting an eight-inch sewer line which serviced their property to be over-loaded, thereby causing raw sewerage to back up in their basement on numerous occasions, resulting in damages to their property.
+Defendant’s answer consists of five separate defenses with which we are not concerned in this appeal except for certain admissions in the first defense.
+The case came on for trial before a jury and at the close of plaintiffs’ evidence in chief, the trial judge sustained a motion for a directed verdict in favor of the defendant and later overruled plaintiffs’ motion for a new trial. Plaintiffs appealed from that judgment on questions of law to the Common Pleas Court of Franklin County, Ohio. The Common Pleas Court reversed the judgment of the Municipal Court and remanded the case for a new trial. From that judgment the defendant has perfected its appeal on questions of law to this court.
+The assignment of errors raises the single question whether the record discloses evidence from which reasonable minds may reach different conclusions as to the proximate causation between the damages to plaintiffs’ property and defendant’s negligence in permitting the eight-inch sewer in the Village of Reynoldsburg to be overloaded. Hamden Lodge v. Ohio Fuel Gas Company, 127 Ohio St., 469, 189 N. E., 246. That is, whether the plaintiffs failed, as a matter of law, to make out a prima facie case. The law governing courts in Ohio in ruling on a motion for a directed verdict was established in the Hamden Lodge case, supra, as follows:
+(3) “Upon motion to direct a verdict the party against whom the motion is made is entitled to have the evidence construed most strongly in his favor. But if upon any essential issue, after giving the evidence such favorable consideration, reasonable minds can come to but one conclusion and that conclusion is adverse to such party, the judge should direct a verdict against him.”
+(4) “Where from the evidence reasonable minds may reach different conclusions upon any question of fact, such question of fact is for the jury. The test is not whether the trial judge would set aside a verdict on the weight of the evidence.”
+Construing the evidence adduced by the plaintiffs most strongly in their favor, together with the admissions in the answer, the factual situation may be summarized as follows: The Village of Reynoldsburg is a municipal corporation, the plaintiffs are residents of said village and their property is within the limits of the corporation; that plaintiffs’ dwelling was erected in 1952 and connected with the sewer line under Graham Road in the village; that this sewer line was adequate for drainage purposes until 1956, when two eight-inch sewer lines from the new development known as Maraber Heights, numbers one and two, were tapped into the Graham Road line; that this extra burden consisted of drainage from about one hundred and four dwellings and about thirty-eight acres of land; that since 1956, plaintiffs’ basement has been flooded with raw sewage on numerous occasions; that complaints were made to the mayor and council of the village and that the situation has not been corrected; that on the day of trial one of the plaintiffs testified there was eight inches of water in their basement; that the connections of the new sewers into the old sewer line were made with knowledge of the village engineer in charge of sanitary engineering.
+Defendant’s motion for a directed verdict in their favor was sustained by the trial court upon the ground that there was no evidence adduced by the plaintiffs to show any official acts by the officers of the village authorizing the overloading of the sewer which serviced plaintiffs’ dwelling; that the two eight-inch sewer lines from the new subdivisions were connected to the eight-inch sewer line in the village without official approval of the village officers; that the sewer connections and resulting overloading of ibe old line in the village which had been adequate before the extra burden was added, having been made without any proven official act of the village, the village was not liable for any damages plaintiffs may have sustained.
+It is true that the record fails to show any affirmative action by the village through any of its agents in regard to causing an extra burden on the old sewer line. But it is well established that such affirmative action is not always necessary in order to create liability against a municipal corporation. In a proper case a municipal corporation may be held liable in damages for its failure to act as well as for its affirmative acts. In Doud v. City of Cincinnati, 152 Ohio St., 132, 87 N. E. (2d), 243, it is held:
+“Where a municipal corporation uses and assumes the management and control of a sewer within the municipality, it is required to exercise reasonable diligence and care to keep the same in repair and free from conditions which will cause damage to private property; and the municipality’s failure in this respect makes it liable for damages caused by its negligence, in the same manner and to the same extent as a private person under the same circumstances.”
+In our opinion, once it was established there was an eight-inch sewer line under Graham Road in the village, which adequately serviced plaintiffs’ property, it is reasonable to infer that the municipal corporation was in control of the sewer. In' considering the evidence on a motion for a directed verdict, not only the facts admitted or established by the evidence, but any reasonable inferences that may be drawn therefrom are to be considered.
+While the evidence to establish plaintiffs’ case was not as clear as it might have been, construing it most strongly in favor of the plaintiffs, it was sufficient to establish a prima facie case.
+In our opinion, in considering this evidence, reasonable minds could easily reach different conclusions upon the facts adduced by the plaintiffs. The trial court erred in sustaining defendant’s motion for a directed verdict in its favor. The Common Pleas Court correctly reversed the judgment of the Municipal Court and remanded the case to that court for a new trial. Therefore, the judgment of the Common Pleas Court is affirmed.
+Judgment affirmed.
+Gillen, P. J., and Radcliff, J., concur.
