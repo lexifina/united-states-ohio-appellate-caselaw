@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+docket: "85AP-867"
+decided: "1986-05-22"
+citations: ["30 Ohio App. 3d 154"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reilly and Stillman, JJ., concur.", "Stillman, J., retired, of the Eighth Appellate District, assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution."]
+parties: ["Skerya v. Industrial Commission of Ohio et al."]
+source_url: "https://static.case.law/ohio-app-3d/30/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707201
+cites_cases: ["453 N.E. 2d 721", "6 OBR 531", "6 Ohio St. 3d 481"]
+---
+
+# Skerya v. Industrial Commission
+
+## Majority (Strausbaugh, J.)
+
+Strausbaugh, J.
+This is an original action in mandamus initially filed by relator on September 26, 1985, in the Eighth District Court of Appeals, requesting that that court issue a writ of mandamus ordering respondent, Industrial Commission of Ohio, to “specifically state the clear meaning of their [sic] findings in terms of the fact situation of this case, which evidence and only which evidence has been relied on to reach its findings and conclusions and to give a clear explanation stating the reasons why Relator is not entitled to the benefits requested * * On September 30, 1985, the Eighth District Court of Appeals rendered a journal entry transferring relator’s request for a writ of mandamus to this court. Based upon said transfer the instant action was filed in this court effective October 9, 1985. This court then referred the matter to a referee, pursuant to Civ. R. 53(C) and Section 13, Loc. R. 11 of the Tenth District Court of Appeals.
+On November 12,1985, respondent-employer, Ford Motor Company, filed a Civ. R. 12(B)(1) and (6) motion to dismiss based upon the contention that the complaint failed to state a claim upon which relief can be granted and upon the basis that this court lacks subject matter jurisdiction over the instant action, to which motion relator filed a response on December 12, 1985.
+On February 3, 1986, the referee filed a report finding that relator’s complaint, on its face, indicates that relator’s action is properly cognizable by a court of common pleas; and, based upon a finding that the common pleas court action is de novo in nature, the referee found well-taken respondent-employer’s motion to dismiss and recommended that this court sustain respondent-employer’s motion and dismiss relator’s complaint upon the basis that the complaint fails to state a claim upon which relief in mandamus can be granted and upon the further basis that this court does not have subject matter jurisdiction over the action in light of the denial by the Industrial Commission of relator’s right to participate in the workers’ compensation fund. On February 24,1986, relator filed an objection to the referee’s report along with a memorandum in support of relator’s objection. On March 5, 1986, respondent-employer filed a motion to strike relator’s objection to the referee’s report along with a memorandum in support of respondent-employer’s motion to strike relator’s objection. For the reason that respondent-employer fails to cite any prejudice to respondent-employer by the late filing of relator’s objection, respondent-employer’s motion to strike relator’s objection is overuled.
+In his objection to the referee’s report, relator argues that he has the right to know clearly and explicitly the evidentiary and legal basis for the decisions of the Industrial Commission and its agents, whether or not such orders are appealable under R.C. 4123.519.
+The Supreme Court in State, ex rel. Mitchell, v. Robbins & Myers, Inc. (1983), 6 Ohio St. 3d 481, 6 OBR 531, 453 N.E. 2d 721, set forth the rule that the Supreme Court will no longer search the commission’s file for “some evidence” to support an order of the commission not otherwise specified as a basis for its decision. In setting forth this rule, the Supreme Court held, in its ‘per curiam opinion at 484, 6 OBR at 534, 453 N.E. 2d at 724, that “[tjhis rule, however, has no application to commission orders which may be appealed under R.C. 4123.519, as the need is obviated due to de novo review in those cases.” Because of the de novo status afforded the review of the common pleas court, the findings made by the Industrial Commission become irrelevant. Therefore, upon consideration of the referee’s report, relator’s objection and memorandum, and respondent-employer’s memorandum in opposition to relator’s objection to referee’s report, relator’s objection to the referee’s report is overruled, and the report of the referee is approved and adopted by the court as its own. Accordingly, this court finds that relator’s complaint, on its face, indicates that relator’s action is properly cognizable by a court of common pleas and, based upon a finding that the common pleas court action is de novo in nature, this court finds well-taken respondent-employer’s motion to dismiss and dismisses relator’s complaint upon the basis that the complaint fails to state a claim upon which relief in mandamus can be granted and upon the further basis that this court does not have subject matter jurisdiction over the action in light of the denial by the Industrial Commission of relator’s right to participate in the workers’ compensation fund.
+Respondents’ motion to strike relator’s objection to referee’s report overruled; relator’s objection to referee’s report overruled; respondents’ motion to dismiss relator’s complaint in mandamus sustained and cause dismissed.
+Reilly and Stillman, JJ., concur.
+Stillman, J., retired, of the Eighth Appellate District, assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution.
