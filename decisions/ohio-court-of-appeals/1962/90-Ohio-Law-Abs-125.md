@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+docket: "26040"
+decided: "1962-09-06"
+citations: ["90 Ohio Law Abs. 125"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Fess, J., of the Sixth Appellate District, Brown, J., of the Seventh Appellate District, and Younger, J., of the Third Appellate District, sitting by designation in the Eighth Appellate District.)", "Brown and Younger, JJ., concur."]
+parties: ["Baker, Adoption, In re."]
+source_url: "https://static.case.law/ohio-law-abs/90/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1812548
+---
+
+# In re Baker
+
+## Majority (Fess, J.)
+
+Fess, J.
+This is an appeal on questions of law from a judgment by the Probate Court denying appellants’ petition to adopt Jean Kaye Baker. Petitioners are a Caucasian husband and his Japanese wife. The child was born out of wedlock and is the offspring of a mother of English descent and a Puerto Rican father.
+Shortly after its birth on March 24, 1960, upon application of its mother, the infant was surrendered to Children’s Services, a certified social agency, for permanent guardianship. Difficulty was encountered by the agency in placing the child in a foster home because of her mixed nationality background until she was placed in the home of the petitioners in October, 1960, when about one year old. The petitioner husband is a native American, 38 years old, a Korean War Veteran, with a good education, employed as a skilled machinist. Yoshiko Okuda Baker is a native born Japanese, 36 years old, reared in an educated family with two years of college education. Petitioners courted for over a year prior to their marriage in 1949. According to the family physician, the wife is unable to bear children. She became a naturalized citizen in 1954.
+Children’s Services is a fully accredited social service-organization, appointed by the Court as next friend pursuant to the provisions of Section 3107.04, Revised Code. As -such friend that organization made a thorough investigation into the suitability of the adoption, including inquiries into the phases thereof prescribed in detail in Section 3107-.06, Revised Code. The primary endeavor of an adoption agency, such as Children’s Services, is to find appropriate parents for children,
+■ — not to find children for applicants, Section VIII, Child Welfare Manual of Ohio, but although the focus of .welfare service is primarily on the child, the-interests of both natural and adoptive parents are unseparable from the needs of the child. As a result of the thorough investigation made by an accredited agency, usually placements of children are made in higher than average homes, thus assuring the child more than average care and education as well as prospect of inheritance.
+According to the social worker who investigated the case, the child’s adjustment and development in the home has been excellent and the child as well as the petitioners are -well and happy. References consulted during the investigation warmly approved the Bakers’ care of the child. Children’s Services, as the agency having permanent custody of the child, filed in the proceeding their answer and consent to the adoption. The agency regards the Bakers as loving, capable parents and unqualifiedly recommends that the adoption be granted. No appearances were had in opposition to the adoption.
+Notwithstanding the primary responsibility is bestowed upon the probate judge by the provisions of Chapter 3107, Revised Code, great weight should be accorded to the report and recommendation of the next friend.
+In denying the petition, the Probate Court in its opinion emphasizes that the import of the provisions of Sections 3107.09 and 3107.11, Revised Code, i's whether the best interests of the child will or will not be promoted by the adoption and that this is the criterion to guide the court in approving or denying adoption. With this we are in wholehearted agreement. The court also refers to subsection E of Section 3107.05, Revised Code, providing that “the next friend” appointed by the court to investigate and inquire as to the suitability of the adoption shall take “into account their respective racial, religious and cultural backgrounds. ’ ’ With this we also concur. Under ordinary circumstances a child should be placed in a family having the same racial, religious and cultural backgrounds, but such a placement is not precluded. In considering the best interests of the subject child, it should not be overlooked that we are dealing here with an unwanted waif whose father is unknown and whose mother is unable to provide a home with, the love and affection which might be accorded an illegitimate child. Prior to placing the child with the petitioners, five other couples seeking children declined to receive the child in their homes. As we view it, the only alternative, if the judgment be affirmed, is to have the child remain an illegitimate orphan to be reared in an institution. Orphanages are all well and good but they do not provide a real home with the attendant care, love and affection incident to the relation of parent and child. With all due respect for the learned trial judge’s conclusion, we differ therewith and are constrained to hold upon the record presented that the best interests of the child will be promoted by granting the petition for adoption. We, therefore, conclude that, the order denying adoption is unreasonable, unsupported by substantial evidence, and consequently contrary to law.
+Judgment reversed and cause remanded to the Probate Court with direction to grant the interlocutory petition for adoption and for such other proceedings at law as may be necessary in accordance with this opinion.
+Brown and Younger, JJ., concur.
