@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "88AP-810"
+decided: "1989-01-12"
+citations: ["59 Ohio App. 3d 28"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Young and Hooper, JJ., concur."]
+parties: ["Varnacini, Appellee, v. Registrar, Ohio Bureau of Motor Vehicles, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/59/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711853
+cites_cases: ["319 N.E. 2d 381", "322 N.E. 2d 634", "328 N.E. 2d 798", "40 Ohio App. 2d 313", "41 Ohio St. 2d 85", "42 Ohio St. 2d 341", "69 O.O. 2d 293", "70 O.O. 2d 169", "71 O.O. 2d 317"]
+---
+
+# Varnacini v. Registrar
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+Upon determining that appellee, Gregory Varnacini, had been denied his statutory right to effective counsel under R.C. 2935.20, a Franklin County Municipal Court referee recommended that appellee’s license not be suspended pursuant to R.C. 4511.191. The Franklin County Municipal Court adopted the referee’s report and rendered judgment accordingly.
+Appellant, Bureau of Motor Vehicles, appeals the judgment and raises the following assignment of error:
+“The trial court erred in overruling appellant’s objections to the referee’s report and adopting the referee’s finding that appellee did not refuse to take the alcohol test.
+“A. The trial court erred in finding that appellee was entitled to private consultation with his attorney pursuant to R.C. 2935.20 when such privacy was not requested.
+“B. The trial court erred in finding that appellee did not have effective communication with his attorney.”
+The referee’s report included the following findings of fact: A state trooper arrested appellee around 1:00 a.m. for operating a motor vehicle while under the influence of alcohol. Upon reaching the Grove City police station, the trooper read the notice-of-refusal form to appellee. Appellee asked for a chance to talk to his attorney before deciding whether to submit to a chemical test.
+The testimony of appellee and of the trooper concerning the telephone call was factually at odds. Significantly, appellee testified that the trooper interrupted every question ap-pellee posed to his attorney while the trooper testified that he did not interrupt the conversation. The attorney partly corroborated appellee’s testimony; he recalled at least four instances when appellee had to interrupt the conversation to converse with someone in the background. Additionally, the attorney testified that he believed the interruptions hindered ap-pellee’s understanding of the legal advice he was receiving. Appellee testified that talking with his attorney did not clear up any of his confusion regarding the test and that the interruptions were responsible for this outcome. Because of his continuing uncertainties about his proper course of action, appellee refused to submit to the test. The trooper asked appellee if he was knowingly refusing to take the test and appellee replied that he would do nothing without his attorney.
+The referee concluded that, by staying in the room and interrupting appellee’s conversation with his attorney, the trooper had denied ap-pellee his statutory rights to effective communication with his attorney in violation of R.C. 2935.20. The referee also found that appellee’s request to consult with his attorney had been made in good faith and had not caused an unreasonable delay. The referee recommended that appellee’s license not be suspended under R.C. 4511.191.
+This court will not reverse the trial court’s adoption of the referee’s report, absent a finding of prejudicial error. No prejudicial error exists when the record contains competent evidence which supports the trial court’s findings and judgment.
+R.C. 4511.191(A) provides that any person who operates a vehicle upon the public highways within the state is deemed to have consented to take a test to determine the content of alcohol and/or drugs in a person’s blood, breath, or urine if that person is arrested for operating a vehicle while under the influence of alcohol and/or a drug of abuse. R.C. 4511.191(C) requires that the arrested person be advised of the consequences of refusing to submit to a test. The advice must be in writing and read to the person. Id. Should a person refuse to submit to a test after having been informed of the consequences, the person’s license shall be suspended for one year. R.C. 4511.191(D).
+When an individual is arrested under R.C. 4511.191, R.C. 2935.20 and 2935.14 come into play. McNulty v. Curry (1975), 42 Ohio St. 2d 341, 71 O.O. 2d 317, 328 N.E. 2d 798; State v. Sargent (1975), 41 Ohio St. 2d 85, 70 O.O. 2d 169, 322 N.E. 2d 634. These two statutes provide statutory rights to contact and consult with counsel beyond comparable rights which the federal and Ohio Constitutions guarantee. Although R.C. 2935.14 does not apply to the facts of this case, R.C. 2935.20 does apply; it provides as follows:
+“After the arrest, detention, or any other taking into custody of a person, with or without a warrant, such person shall be permitted forthwith facilities to communicate with an attorney at law of his choice who is entitled to practice in the courts of this state, or to communicate with any other person of his choice for the purpose of obtaining counsel. Such communication may be made by a reasonable number of telephone calls or in any other reasonable manner. Such person shall have a right to be visited immediately by any attorney at law so obtained who is entitled to practice in the courts of this state, and to consult with him privately. No officer or any other agent of this state shall prevent, attempt to prevent, or advise such person against the communication, visit, or consultation provided for by this section.
+“Whoever violates this section shall be fined not less than twenty-five or more than one hundred dollars or imprisoned not more than thirty days, or both.”
+The Ohio Supreme Court has determined that, if law enforcement officers fail to comply with R.C. 2935.14 and 2935.20 when they arrest a person for driving while intoxicated, there can be no refusal to take a test pursuant to R.C. 4511.191. See McNulty, supra, at paragraph three of the syllabus. This court has required that the request to communicate with an attorney must be made in good faith and must not create an unreasonable delay in administering the chemical test. Siegwald v. Curry (1974), 40 Ohio App. 2d 313, 69 O.O. 2d 293, 319 N.E. 2d 381.
+The issue in this case is whether R.C. 2935.20 implicitly requires effective communication and, if so, whether appellee was provided effective communication with his attorney.
+Appellant asserts that R.C. 2935.20 requires nothing more than adequate facilities for communication with an attorney. Alternatively, appellant submits that effective communication is an objective determination and that appellee’s communication with his attorney was objectively effective. If R.C. 2935.20 were not read to require effective communication, it would emasculate the statute.
+Whether a person was provided the opportunity for effective communication with his attorney must be determined on a case-by-case basis. The referee based her finding of ineffective communication with counsel on the presence of the trooper in the room during the conversation and on the interruptions. The existence and the extent of the interruptions is disputed, but the credibility of witnesses is a matter for the trial court. A factual finding of the trial court which is supported by probative evidence in the record will not be disturbed on appeal. Thus, the unreasonable overt interference by the trooper, alone, sufficiently establishes that appellee was denied effective communication with his attorney. Cf. McNulty, supra, at 347, 71 O.O. 2d at 320, 328 N.E. 2d at 803; Sargent, supra, at 89-90, 70 O.O. 2d at 171, 322 N.E. 2d at 638; State v. Kucsma (Dec. 31, 1987), Lake App. No. 12-142, unreported; Null v. McCullion (July 13, 1984), Lucas App. No. L-84-051, unreported.
+Because the trial court’s judgment is valid solely on the finding that the interruptions actively interfered with ap-pellee’s right to effective counsel, it is unnecessary for us to decide whether appellee should have been accorded facilities for a private phone call.
+Appellant’s assignment of error is overruled. The judgment of the trial court is affirmed.
+Judgment affirmed.
+Young and Hooper, JJ., concur.
+James J. Hooper, J., of the Miami County Court of Common Pleas, sitting by assignment.
