@@ -1,0 +1,22 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1923-03-02"
+citations: ["1 Ohio Law Abs. 567"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PARISH BROS. v. THOMPSON et al"]
+source_url: "https://static.case.law/ohio-law-abs/1/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11185236
+---
+
+# Parish Bros. v. Thompson
+
+## Majority (POLLOCK, J.:)
+
+POLLOCK, J.:
+Epitomized Opinion
+Parish Brothers sued Thompson et al, members of Board of Education of Coitsville Township, to recover balance for constructing a school house. In the second trial Mahoning Common Pleas directed verdict for defendant, which is assigned as error. School Board had architect prepare plans and specifications for school house and advertised for bids. Parish Brothers’ bid was accepted and contract made by which they agreed to build the school house for K$53,953, subject to additions and deductions. Speci-cations provided basement to be a certain depth, nd further, in all cases to excavate sufficiently “so that no work rests on poor soil.” Rock was encountered in the excavation within the required depth for basement. In the first trial plaintiff recovered judgment, but the Courtof Appeals reversed the judgment on the ground that under the contract Parish Brothers were required to excavate to the required depth for basement without any addition. The contract further provided that the architect should supervise and direct the work, interpret the conditions of the contract and within a reasonable time make decisions of all claims of owner or contractor. In the second trial Parish Brothers called as witness the architect, who was allowed to construe contract as to excavation. Court of Appeals in affirming judgment held:
+1. Architect cannot construe this contract in court under the most liberal construction of his powers. This evidence was inadmissible..
+2. Under the contract, until the excavation exceeded required depth, there were no additions and therefore Parish Brothers are not entitled to additional compensation, even though rock was en‘ countered.
