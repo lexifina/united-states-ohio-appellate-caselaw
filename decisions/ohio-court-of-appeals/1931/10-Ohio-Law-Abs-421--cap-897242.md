@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "359"
 decided: "1931-04-24"
-citations: ["10 Ohio Law Abs. 421", "10 Ohio Law Abs. 348"]
+citations: ["10 Ohio Law Abs. 421"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
