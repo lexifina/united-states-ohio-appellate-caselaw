@@ -1,0 +1,26 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1913"
+citations: ["25 Ohio C.C. (n.s.) 270", "27 Ohio C.C. Dec. 428"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Voorhees, J., and Shields, J., concur."]
+parties: ["The Compton-Price Piano Co. v. Thomas C. Stewart and Lillian C. Stewart."]
+source_url: "https://static.case.law/ohio-cc-ns/25/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1603130
+cites_cases: ["100 N. E. Rep. 817", "87 O. S., 215", "87 Ohio St., 215"]
+---
+
+# Compton-Price Piano Co. v. Stewart
+
+## Majority (Powell, J.)
+
+Powell, J.
+This action was commenced before a justice of the peace to recover a judgment for a balance due upon certain notes executed by the defendants in error to the plaintiff in error, the amount of said notes being $276, exclusive of interest. A chattel mortgage had been given by the defendants to secure the payment of said notes. This chattel mortgage was given by the defendants upon a piano and other property; $22 was paid by the defendants upon the purchase price, $12 of which should have been credited upon the/notes, and the same was so credited. The piano was replevined by the plaintiff and sold for the sum of $105, which amount was also credited upon the notes, leaving a balance of $164.85, exclusive of interest, due and unpaid upon the notes from the. defendants to the plaintiff. The case was taken by appeal from the judgment of the justice of the peace to the court of common pleas, where pleadings were'filed setting up the respective claims of the parties, and at the trial in that court upon the appeal, the plaintiff, by his counsel, stated his case to the jury that had been impaneled to' try the same, together with the evidence by which he intended or expected to support the same. The defendants, by their counsel, then made a statement of their defense, upon which the court announced that he would direct a verdict for the defendant upon the theory that the evidence which the plaintiff intended to offer, as shown by the statement of its counsel, would not sustain a verdict in its favor, and the court did so direct a verdict without giving to plaintiff’s counsel any opportunity to explain or qualify the statement that had been made by him with reference to the evidence that he intended to introduce.
+The statement of counsel is a part of the trial of cases and is provided for by Section 11447 of the General Code.
+That the court may direct a verdict or arrest the case from the jury and enter a judgment of dismissal of plaintiff’s petition and for costs, after the opening statement of counsel for plaintiff has been made and before the introduction of any evidence in the case, has been held to be the law in the case of Cornell v. Morrison, 87 O. S., 215, but in such case it must appear that such statement gives in detail all the evidence plaintiff proposes to offer in support of the averments of his petition, and if such statement be challenged by opposite counsel or the court, fair opportunity must be given for it to be explained and qualified and for additions to be made thereto if any part of the evidence has been overlooked, and then if it be apparent that such qualifed statement does not state such facts which, if true, will sustain the material averments of the petition, it becomes the duty of the trial court to arrest the case from the jury and enter judgment, dismissing the petition and for costs.
+The record in this case discloses that the court below proceeded to direct a verdict without permitting any opportunity to plaintiff’s counsel to amend or qualify his statement to the jury, and without any opportunity to add to or explain any of the things stated by such counsel in such opening statement. The record does not show what such opening statement to the jury was, as the same was not taken down at the time it was made, but it does show that, after such statement was challenged by the court, counsel for plaintiff requested to be permitted to amend his statement, and the court refused to allow such amended statement to be made and no opportunity was given to qualify or explain the matters complained of. This, we think, was an unreasonable and arbitrary exercise of the authority of the court, and was such an abuse of its discretion as requires a reviewing court to set aside the verdict rendered upon such direction to the jury and to reverse the judgment rendered thereon.
+The record shows that the court, after such direction had been given, permitted an amended statement to be made, and the same was entered as a part of the bill of exceptions, and which we have examined. This amended statement sets out a cause of action which, if sustained by the proof, entitles plaintiff to recover judgment thereon; and plaintiff should have been permitted on the trial to submit the same, together with his evidence, under proper instructions from the court, to the jury for determination. The verdict of the jury so ordered will be set aside and the judgment of the court of common pleas will be reversed. The cause will be remanded to that court for a new trial and for such other proceedings as are authorized by law.
+Voorhees, J., and Shields, J., concur.
