@@ -1,0 +1,65 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3816"
+decided: "1955-11-18"
+citations: ["75 Ohio Law Abs. 589"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PHILLIPS, PJ, NICHOLS and GRIFFITH, JJ, concur."]
+parties: ["LEWIS, Plaintiff-Appellant, v. KNIGHT, Admrx., Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/75/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1788768
+cites_cases: ["131 Oh St 481", "136 Oh St 95", "16 O. O. 34"]
+---
+
+# Lewis v. Knight
+
+## Majority (Per CURIAM.)
+
+OPINION
+Per CURIAM.
+Plaintiff was injured on July 26, 1953, in a collision between an automobile in which she was riding and an automobile driven by defendant’s decedent, Wilbur Thomas Knight, who died on April 14, 1954.
+Frances Sarah Jane Knight was appointed administratrix of the estate of Wilbur Thomas Knight, Deceased, on April 29, 1954.
+On July 24, 1954, plaintiff filed with the administratrix a proof of claim for $5,000.00 for personal injury, property damage, expense and loss of time.
+On authority of §2117.11 R. C., paragraph 2, the defendant administratrix rejected plaintiff’s claim on July 29, 1954, within four months of the date of her appointment as administratrix.
+Within two months from the rejection of such claim, on September 10, 1954, plaintiff sued defendant administratrix in the court of common pleas for $55,000.00 in case numbered 144630 on the docket of that court. On December 21, 1954, the trial judge sustained defendant’s motion to strike the claim for $50,000.00 from plaintiff’s petition.
+On October 29, 1954, plaintiff filed her proof of claim for $50,000.00 for loss of earning capacity with defendant administratrix. This proof of claim was rejected by the administratrix on November 4, 1954, on authority of §2117.11, Paragraph 2, R. C.
+On December 31, 1954, plaintiff sued defendant administratrix in the court of common pleas in case number 145414 on the docket of that court for $50,000.00.
+In accordance with leave of the trial judge plaintiff filed an amended petition in case number 144630 on January 22, 1955, reducing the prayer of her petition to $5,000.00, and case number 144630 was continued until final determination of case number 145414.
+On March 4, 1955, defendant filed a motion to strike the petitions in both cases from the files. On March 11, 1955, a judge of the court of common pleas overruled those motions.
+On March 25, 1955, defendant filed a demurrer in case number 145414. The trial judge on May 16, 1955, sustained defendant’s demurrer in case number 145414 on authority of Pierce v. Johnson, 136 Oh St 95, 16 O. O. 34 (decided December 6, 1939). On plaintiff’s refusal to plead further the trial judge dismissed plaintiff’s action in case number 145414 on July 19, 1955, and entered final judgment dismissing plaintiff’s petition.
+On August 5, 1955, plaintiff appealed to this court on questions of law from the judgment entered in case number 145414, which is the only case with which we are concerned in this appeal.
+The sole ground of error assigned by plaintiff is that “the court of common pleas erred in sustaining the demurrer of defendant to the petition of plaintiff in case number 145414,” or as plaintiff phrases it by brief:—
+“The question presented is whether plaintiff’s claim for $50,000.00 in case No. 145414 is subject to the 4 month limitation on presentation of claims contained in §2117.06 R. C., or qualifies for the exemption for later filing contained in §2117.37 R. C., as a contingent claim.”
+In the opening paragraph of the opinion written in the case of Pierce v. Johnson, supra, the court said:—
+“The sole question presented by the demurrer is whether §10509-133 GC, fixing the period of limitation for the commencement of actions on claims disallowed by an executor or administrator, applies to unliquidated claims for damages arising out of tort.”
+Plaintiff claims that the demurrer to plaintiff’s petition in case number 145414 was sustained in error; that the case we review is clearly distinguished from the case of Pierce v. Johnson, supra.
+Plaintiff finds no fault with the holding in Pierce v. Johnson when it is applied to an unliquidated claim that could be and was filed within the four month period following the administratrix’s appointment, but claims an injustice appears when it is applied to tort claims that do not come into existence prior to the expiration of said four month period.
+By brief “plaintiff approves of the purpose of the probate statutes, heretofore listed and to which reference is made herein, designed to close estates of decedents with dispatch, but does not agree that their procedural advantage outweigh the substantive right of redressing legitimate injury arising out of tort.”
+Plaintiff’s contention is that her claim is a contingent claim, and that “if such claim is subject to the provisions of §2117.06 R. C. for presentation purposes then the application of such statute to such claims is unconstitutional by denying equal protection and due process of law to those injured claimants whose claims are not in existence at the expiration of such four month period, and that such application is against public policy,” and that in accordance with the provisions of §2117.06 R. C. “claims which are contingent need not be presented except as provided in §§2117.37 to 2117.42, inclusive, R. C.,” to which sections of the Revised Code counsel is referred.
+Defendant contends that:—
+“The question presented by this appeal for the determination by this Honorable Court is whether the plaintiff-appellant had presented her claim, one arising out of tort, to defendant-appellee as administratrix of the estate of Wilbur Thomas Knight within the time limits as set by the Ohio Revised Code sections regulating the probation of decedents’ estates. This question, of necessity, must be divided into two parts:
+“1. Was plaintiff-appellant a creditor within the meaning of §2117.06 JR. C.; or
+“2. Was plaintiff-appellant’s claim a contingent claim and not subject to the requirements of §2117.06 R. C., but governed by §2117.37 R. C.?”
+As applicable §2117.06 R. C. provides:—
+“All creditors having claims against an estate shall present their claims to the executor or administrator in writing, including claims arising out of contract, out of tort, on cognovit notes, or on judgments, whether due or not due, secured or unsecured, liquidated or unliquidated. All claims shall be presented within four months after the date of the' appointment of the executor or administrator. * *
+Further defendant contends that plaintiff, was a creditor within the provisions of §2117.06 R. C., even though, as alleged, her claim arose out of tort, and that it was her mandatory duty to present her claim to the administratrix within four months after her appointment as administratrix of decedent’s estate.
+In our opinion §2117.06 R. C. governs in the case under consideration. Plaintiff’s claim was not a contingent one governed by §2117.37 R. C., and her failure to present it to the administrator within the statutory four month period, or instituting suit thereon within two months from the date of receipt of actual notice of disallowance of such claim by the administrator, forever barred her claim.
+“A person having an unliquidated claim for damages arising out of tort is a creditor within the meaning of §10509-112 GC, requiring presentation of claims by creditors to the executor or administrator within a specified time.
+“An unliquidated claim for damages arising out of tort does not fall within the exception contained in §10509-112 GC, pertaining to contingent claims; and suit thereon must be instituted within two months from the date of receipt of actual notice of disallowance of such claim by the executor or administrator, or be forever barred under the provisions of §10509-133 GC.” Pierce v. Johnson, supra.
+In the body of the opinion written in Pierce v. Johnson, supra, the court said:—
+“In 21 American Jurisprudence, 582, Section 356, it is stated: ‘According to the ordinary acceptance of the term, a contingent claim is one where the liability depends upon some future event which may or may not happen, and which, therefore, makes it wholly uncertain whether there ever will be a liability.’ See also 11 Ruling Case Law, 205, Section 229.
+“A liability on an unliquidated claim for damages arising out of a tort does not depend for its creation upon the occurrence of some uncertain event in the future. On the contrary, such claim is, as of necessity it must be, based on the theory that the event, the tort, giving rise to liability, has already occurred, and that a cause of action has already accrued and is in existence. A claim thus grounded cannot be said to be contingent.”
+Plaintiff alleged inter alia that:—
+“As a result of the negligent, careless and unlawful acts of said decedent, as aforesaid, plaintiff says that she was thrown violently from said car to said pavement landing on the left side of her head and left shoulder, suffering therefrom among other injuries, a strained, sprained or dislocated shoulder. As a result of this shoulder injury she realized prior to September, 1954, that she was suffering from a subdeltoid bursitis and displaced presternum, but after August of 1954 she became aware of a progressively painful zone in her upper neck where the upper cervical vertebrae were sprained, and the neck muscles and ligaments pulled at their juncture with the base of the skull, which, when aggravated by the previously known injuries to her shoulder movement, has produced a more severely painful and progressively disabled condition than she could have foreseen with reasonable certainty prior thereto, that prior to her said injuries she was a strong, healthy, ablebodied woman capable of earning a good living in the practice of nursing, being a registered nurse, and earning from $70.00 to $84.00 per week, but due to said progressive disability she is much more substantially handicapped in her practice due to her inability to support or carry normal nursing loads with her left arm with the result that her services are much less in demand than those of able bodied nurses, and that she will consequently suffer from loss of earning capacity in the amount of $50,000.00, claim for which sum was presented to said defendant before the expiration of two months after the cause of action accrued, i. e. the discovery of the progressively disabled shoulder movement, and action commenced thereon within two months of the rejection of said claim, as authorized by §2117.37 R. C., said rejection becoming effective by said defendant’s failure to allow said claim within five days after demand for such allowance as provided for in §2117.11 R. C.”
+This was not an allegation sufficient to constitute a cause of action against defendant. She did not allege that she presented her claim to defendant before the expiration of two months after the cause of action accrued but “i. e. the discovery of the progressively disabled shoulder movement.”
+“A petition seeking judgment on a claim against the estate of a deceased person which fails to allege compliance with §10509-112 GC ("now §2117.06 R. C.), or the presentation of a claim pursuant to authorization by the Probate Court under the provisions of §10509-134 GC (now §2117.07 R. C.), does not state facts sufficient to constitute a cause of action.” Beacon Mutual Indemnity Co. v. Stalder, Jr., Admr., 95 Oh Ap 441.
+Also see National Ben Franklin Fire Ins. Co., et al, v. Woolcott, 86 Oh Ap 462, and Beach, Recr. v. Mizner, Exr., 131 Oh St 481.
+Now with reference to the claims of plaintiff of the harshness of §2117.06 R. C., and splitting of causes of action, it is remembered that with reference to the first of such claims it is said in Pierce v. Johnson, supra, as stated elsewhere herein, that an unliquidated claim for damages arising out of tort does not fall within the exception contained in §10509-112 GC (§2117.06 R. C.)
+Plaintiff states by brief that she presented her claim to defendant on October 29, 1954, six months and not within four months of the date defendant was appointed administratrix of decedent’s estate.
+With reference to the claim of splitting causes of action, we believe that by filing two separate actions for personal injuries arising out of the same collision that plaintiff is attempting to do indirectly what the trial judge instructed her not to do directly.
+Plaintiff’s claim for loss of earning capacity was not a contingent claim, and accordingly should have been presented to the administratrix of decedent’s estate within four months of her appointment as such personal representative. Plaintiff’s petition did not state a cause of action against defendant, and accordingly defendant’s demurrer thereto was well taken, and was rightly sustained by the trial judge.
+The judgment of the court of common pleas is affirmed.'
+PHILLIPS, PJ, NICHOLS and GRIFFITH, JJ, concur.
