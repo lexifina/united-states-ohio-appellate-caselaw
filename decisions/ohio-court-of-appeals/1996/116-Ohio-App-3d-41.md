@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "17836"
+decided: "1996-12-04"
+citations: ["116 Ohio App. 3d 41"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillin, P.J., and Baird, J., concur."]
+parties: ["The STATE of Ohio, Appellee, v. MURPHY, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/116/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1163196
+cites_cases: ["1983 WL 3994", "459 N.E.2d 532", "645 N.E.2d 69", "646 N.E.2d 821", "71 Ohio St.3d 630", "9 OBR 438", "9 Ohio St.3d 148", "96 Ohio App.3d 332"]
+---
+
+# State v. Murphy
+
+## Majority (Reece, Judge.)
+
+Reece, Judge.
+Teresa Murphy, appellant, appeals her conviction of vehicular homicide and speeding. We affirm.
+I
+On July 14, 1995, Murphy was traveling north on Cuyahoga Street. As Murphy approached the traffic signal at the intersection of Cuyahoga Street and West Tallmadge Avenue, the victim, Stephen House, age eight, was crossing the street against the light. Murphy, unable to stop her vehicle, struck House. House was taken to the hospital with fatal injuries.
+The police returned to the scene and conducted an accident investigation. Murphy’s speed was calculated at fifty-two m.p.h. in a thirty-five m.p.h. zone. The investigating officer based the speed determination on skid marks measuring one hundred forty feet. However, there was another set of skid marks at the scene measuring fifty-seven feet.
+On April 2, 1996, Murphy pleaded no contest to the charges of vehicular homicide, a first degree misdemeanor, and speeding, a minor misdemeanor. The prosecutor presented a statement of facts, incorporating the complaint and eyewitness accounts, to the court in order to establish the essential elements of the offenses charged. The court accepted Murphy’s plea of no contest and found her guilty, sentencing her to a one hundred eighty-day term of imprisonment, suspending one hundred sixty-five days and placing Murphy under house arrest.
+Murphy now appeals this conviction.
+II
+Murphy presents two assignments of error. The first assignment of error claims a violation of Murphy’s due process rights because the state failed to prove every element of the crime beyond a reasonable doubt. The second assignment of error pertains to a due process violation based on the court’s failure to sufficiently document the record regarding the finding of guilt.
+A
+“The evidence presented by the state was insufficient to establish, beyond a reasonable doubt, all of the essential elements of vehicular homicide, pursuant to Akron City Ordinances 135.02(A) or speeding, pursuant to Akron City Ordinances 73.20, thereby violating appellant Murphy’s due process right under the Fourteenth Amendment of the United States Constitution, and Article I, Sect. 16 of the Ohio Constitution.”
+While the court may consider an argument from the defendant that the facts, as explained by the state and admitted by the no contest plea, do not constitute the offense charged, the defendant, by pleading no contest, has waived the right “to present additional affirmative factual allegations to prove that [she] was not guilty.” State v. Gilbo (1994), 96 Ohio App.3d 332, 337, 645 N.E.2d 69, 72.
+Akron City Code 135.02(A) provides that “no person, while operating or participating in the operation of a motor vehicle * * * shall negligently cause the death of another.” Pursuant to Akron City Code 73.20(A), “no person shall operate a motor vehicle at a speed greater or less than is reasonable or proper, having due regard to the traffic, surface, and width of the street or highway and any other conditions, and no person shall drive any motor vehicle * * * at a greater speed than will permit him to bring it to a stop within the assured clear distance ahead.” The complaint against Murphy set forth a sufficient explanation of the circumstances necessary for the commission of the crimes charged. The prosecutor presented a statement on the record that Murphy was traveling at approximately fifty-two m.p.h. on Cuyahoga Street, which was verified by several witnesses. Also, Officer Glen McHenry of the Uniform Sub-Division Traffic Bureau Accident Reconstruction Unit confirmed by testimony that Murphy was traveling at a rate of fifty-two m.p.h. in a thirty-five m.p.h. zone.
+Because Murphy was traveling in excess of the speed limit, she could not avoid hitting House. House later died from his injuries. Review of the record indicates the prosecutor sufficiently established all elements of the offenses with which Murphy was charged. Although Murphy contends all elements were not proved because she disputes the speed at which the state claims she was traveling, by pleading no contest Murphy admitted the state’s claim of a speed of approximately fifty-two m.p.h. See Gilbo, supra. Murphy’s plea of no contest was correctly accepted by the court and a finding of guilty was appropriate.
+The first assignment of error is overruled.
+B
+“The trial court violated appellant Murphy’s due process right under the Fourteenth Amendment of the United States Constitution, and Article I, Sect. 16 of the Ohio Constitution, when it accepted a no contest plea as a finding of guilty without documenting the record with the circumstances it used in finding the defendant guilty of vehicular homicide.”
+Murphy maintains that the Supreme Court’s holding in Cuyahoga Falls v. Bowers (1984), 9 Ohio St.3d 148, 9 OBR 438, 459 N.E.2d 532, requires the trial court to read into the record the circumstances and reasons for finding her guilty. Murphy argues the trial court failed to state its reasoning on the record, and therefore, her conviction should be overturned.
+In Bowers, Bowers was charged with driving while under the influence and operating a motor vehicle without being in full or complete control. Bowers pleaded no contest and the court accepted the plea. The court then requested a computer printout of Bowers’s driving record. The officer’s report, accident report, and the chemical breath-test results were also in the case file. However, no explanation of circumstances, either by the court or the state, was made on the record. Thus, the record was silent as to what evidence, if any, the court considered in rendering a guilty verdict. The court found Bowers guilty and sentenced him to three days in jail, a thirty-day driver’s license suspension, and a $300 fine. Id., 9 Ohio St.3d at 149, 9 OBR at 438-439, 459 N.E.2d at 533-534.
+On appeal, Bowers claimed that R.C. 2937.07 gave him a substantive right to an explanation of circumstances. Additionally, Bowers argued that R.C. 2937.07 was not superseded by Crim.R. 11(B)(2). This court denied Bowers’s appeal and affirmed the conviction. Cuyahoga Falls v. Bowers (Mar. 2, 1983), Summit App. No. 10911, unreported, 1983 WL 3994.
+The Supreme Court reversed, holding that R.C. 2937.07 confers on the defendant a substantive right to an explanation of circumstances which is not superseded by Crim.R. 11(B)(2). Bowers, 9 Ohio St.3d at 150, 9 OBR at 439-440, 459 N.E.2d at 534-535. The Supreme Court, unwilling to presume the trial court reviewed the various documents contained in Bowers’s file, had no indication whether the guilty verdict was based on evidence supporting each of the elements of the crimes charged or whether the trial court made its finding of guilty in an unacceptable “perfunctory fashion.” Id. at 151, 9 OBR at 440-441, 459 N.E.2d at 535-536. The court then laid the foundation for requiring an explanation of circumstances, containing evidence such as the complaint, accident report, or the arresting officer’s report, to be used by the judge and placed on the record. Id. at 150-151, 9 OBR at 439-441, 459 N.E.2d at 534-536.
+Murphy’s narrow reading of Bowers as requiring the court to place on the record the circumstances and reasons underlying its finding of guilt is incorrect. Rather, Bowers stands for the broader proposition that an explanation of circumstances must be placed on the record; whether the court or the prosecutor recites the explanation into the record is immaterial. Our reading of Bowers is supported by the Supreme Court’s later decision in State v. Waddell (1995), 71 Ohio St.3d 630, 646 N.E.2d 821.
+In Waddell, Waddell pleaded no contest to crossing a divided roadway’s median. Id. at 630, 646 N.E.2d at 821. The arresting officer recited a statement of the facts into the record. After discounting an unsolicited statement by Waddell, the court found him guilty. Id. at 630, 646 N.E.2d at 821. The Fourth District Court of Appeals reversed Waddell’s conviction, holding that he was entitled to make a statement after the explanation of circumstances by the state pursuant to R.C. 2937.07. Id. The Supreme Court reversed, stating that the language of R.C. 2937.07 regarding a plea of no contest in a misdemeanor action is unambiguous: “a court need only consider the explanation of circumstances by the state before it passes judgment.” (Emphasis added.) Id. at 631, 646 N.E.2d at 821. The holding in Waddell does not require the trial court to read into the record its reasoning for finding the defendant guilty. Instead, the record must reveal an explanation of the circumstances by the state. Id.
+Unlike Bowers, in which there was a complete failure to put any explanation of circumstances on the record, in the present case, as in Waddell, the state set forth sufficient facts, incorporating the complaint and the testimony of Officer Glen McHenry, to support each of the essential elements of the crimes charged.
+The second assignment of error is overruled.
+Ill
+Murphy’s two assignments of error are overruled, and the convictions of vehicular homicide and speeding are affirmed.
+Judgment affirmed.
+Quillin, P.J., and Baird, J., concur.
