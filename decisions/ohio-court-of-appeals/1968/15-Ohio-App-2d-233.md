@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "409"
+decided: "1968-01-17"
+citations: ["15 Ohio App. 2d 233"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CRAwroRD, P. J., and Sherer, J., concur."]
+parties: ["Johnston, Appellee, v. Miller et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-2d/15/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6714342
+cites_cases: ["1 Ohio App. 2d 349", "175 Ohio St. 521", "176 Ohio St. 469", "30 Ohio Law Abs. 330", "35 Ohio Law Abs. 621", "80 Ohio St. 151"]
+---
+
+# Johnston v. Miller
+
+## Majority (Kerns, J.)
+
+Kerns, J.
+The plaintiff, appellee herein, Blanche Johnston, is the owner of an eighty-two acre tract of land and the defendants, appellants herein, Bennie and William Miller, are the owners of a two hundred eighteen acre tract of land located in Range Township, Madison County, Ohio. The two tracts of land face each other from opposite sides of Chrisman Road. A fifteen inch culvert connects road ditches which extend along the frontage of the two farms. The surface water which enters this culvert flows in a southerly direction to a natural waterway on the plaintiff’s land. The defendants took possession of their farm in March 1954, and, thereafter, proceeded to install an elaborate tiling system.
+In the present action, the plaintiff alleges that the drainage system installed by the defendants has concentrated, diverted and accelerated the flow of surface water from their land onto and across her land causing washout and erosion.
+Her amended petition sets forth two causes of action, one for damages and the other for a mandatory injunction.
+The first cause of action was tried to a jury which rendered a verdict on October 13, 1965, in favor of the plaintiff in the amount of $3,000. Judgment was entered upon the verdict on January 18, 1966, and, on January 28, 1966, the defendants moved for judgment notwithstanding the verdict and for a new trial. Both of these motions were overruled on April 11, 1967. On the same day, April 11. 1967, the trial court made separate findings of fact and conclusions of law and granted the equitable relief sought in the second cause of action.
+At the outset, we note that the appeal in this case has some novel procedural aspects. The notice of appeal recites that the appeal is on questions of law and questions of law and fact. As to the first cause of action, the parties have proceeded as upon questions of law, and, as to the second cause of action, the parties have proceeded as upon questions of law and fact.
+Although the joinder of legal and equitable causes of action has been recognized in Ohio for many years, there is no provision for separate appeals from the judgments entered upon each of such causes of action. Any appeal must now be directed to the entire case, and the determining factor as to whether an appeal is legal or equitable in nature is dependent upon the primary and paramount relief sought in the action. Section 2501.02, Revised Code; Hawkins v. Hawkins, 176 Ohio St. 469; Mories v. Hendy, 1 Ohio App. 2d 349.
+It is not always clear whether the “primary and paramount relief” sought in a particular case falls within the classes of actions set forth in Section 2501.02, Revised Code. See 16 Western Reserve Law Review 436. However, the present appeal is before this court upon the same evidence submitted in the trial court, and, after a review of the evidence thus presented, it appears that the usual distinction between a law appeal and a law and fact appeal, as it relates to our consideration of the evidence, will have no critical bearing upon the ultimate determination of this case. Furthermore, the defendants have set forth five specific assignments of error. Hence, this appeal may be treated as one on questions of law without prejudice to the rights of any party to the action.
+The first three assignments of error are: (1) that the trial court should have sustained defendants’ motion for a directed verdict at the close of plaintiff’s case; (2) that the court should have sustained the defendants’ motion for a directed verdict at the close of all the evidence; and (3) that the court should have sustained defendants’ motion for judgment notwithstanding the verdict.
+In view of the evidence presented in the trial court, and governed by the fundamental principles applicable to the defendants’ motions, we find no merit in any of these assignments of error.
+The fourth assignment of error, as stated by the defendants, is that “the court should not have entered an injunction requiring defendants to plug their drainage system.” This assignment of error, which likewise challenges the quantum and quality of the plaintiff’s evidence, will also be overruled. Upon this phase of the proceeding, our view of the evidence does not substantially differ from that of the trial court.
+The fifth assignment of error challenges the following language from the general charge of the trial court:
+“# * * £ke changed and additional systems installed by the defendant Miller Brothers cause additional quantities of water to be accelerated and concentrated on the Johnston land so as to be the proximate cause of the plaintiff’s claimed damages?
+<<* # #
+“If the upper owner creates an overflow or makes a greater overflow than formerly he incurs liability for the damage resulting therefrom. While the flow of surface water may be increased to a certain extent by a necessary and proper use of upper land an increase by the act of man of water which flows upon the lower land is an invasion of a right since the obligation in such case of the lower owner is to receive the natural flow of water as its comes from the heavens in the form of rain and snow. So the upper owner becomes liable to the lower owner if he diverts the flow of surface water from the upper land and greatly increases or accelerates the flow of surface water from his upper land and casts the same upon the lower owner though the manner in which the upper owner acts is reasonable. Between adjacent landowners the upper owner has no right to increase the total flow of water or to accelerate and concentrate such water into a small channel and precipitate such water upon the lower adjacent property.
+“So if you find by a preponderance of the evidence that the defendants, the Miller Brothers, have caused an additional amount of water to be discharged together with an accelerated and concentrated flow on the surface of the plaintiff Johnston’s land and that such condition caused the erosion and other damages, if such erosion and other damage you find, to the Johnston land, then your verdict should be in favor of Mrs. Johnston, the plaintiff.
+‘ ‘ Conversely, if you find no additional amount of water together with any acceleration and concentration of flow was caused to be discharged by the Millers, or, if you find no erosion or other damage, then your verdict would be in favor of the Miller Brothers, the defendants.”
+This charge was apparently extracted, in part at least, from the case of Strohm v. Molter, 30 Ohio Law Abs. 330, which involved city property, and the defendants argue that it is in direct conflict with statements of the Supreme Court in Mason v. Commrs. of Fulton County, 80 Ohio St. 151, which holds in substance that a land owner may in the reasonable use of his land drain the surface water into its natural outlet upon his own land and thus increase the volume and accelerate the flow without incurring liability from the owners of the lower lands.
+It is conceded that a lower owner must take the water which naturally flows from the upper owner, but the syllabus in the Mason case is not responsive to the evidence presented in the present case. More applicable here, in our opinion, is the following observation made by the court in that case (Mason v. Commrs. of Fulton County, 80 Ohio St. 151), at page 159:
+“It is well settled under the rule of both the common and the civil law that surface water cannot be collected into a ditch and discharged upon the lands of another, to his damage * *
+The case of McCoy v. Rankin, 35 Ohio Law Abs. 621, which is also cited by the defendants, likewise involved surface water that naturally flowed to the subservient estate.
+In the present ease, there is substantial evidence from which the jury could conclude that the surface water did not flow naturally from the defendants’ land, but was diverted and concentrated by the tiling system, and there is undisputed evidence that surface water was concentrated in an eight inch tile that emptied directly into the road ditch at the head of the culvert.
+An upper-land owner cannot lawfully increase the burden on lower lands by collecting surface water and discharging it in larger quantities at points other than those established by natural drainage. See Munn v. Horvits Co., 175 Ohio St. 521.
+We are of the opinion that any possibility of prejudice to the rights of the defendants from the general charge is completely diluted by three special instructions (1, 2 and 5) which were submitted to the jury by the trial court. These special instructions embody the principle enunciated in the Mason case and clarify that part of the general charge which has been questioned by the defendants.
+We find none of the assignments of error well made, and the judgment will, therefore, be affirmed.
+Judgment affirmed.
+CRAwroRD, P. J., and Sherer, J., concur.
