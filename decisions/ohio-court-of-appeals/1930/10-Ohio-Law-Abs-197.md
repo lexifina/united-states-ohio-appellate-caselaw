@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-05-30"
+citations: ["10 Ohio Law Abs. 197"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SULLIVAN, J, concurs.", "LEVINE, J, not participating."]
+parties: ["TUNDER v HOLLOWACH"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 896859
+---
+
+# Tunder v. Hollowach
+
+## Majority (VICKERY, PJ.)
+
+VICKERY, PJ.
+The main contention here is that, had this evidence contained in these affidavits been in the case when it was tried, the jury could not and would not have brought in a. verdict as they did. If we understand the rule as to newly discovered evidence, in order to reverse a trial court for overruling the motion the evidence must have been such that, had it been present, the verdict in all human probability would have been otherwise; that the jury could not have found for the plaintiff. That is the Theory upon which the courts of review can reverse a trial court, and it is the ‘only theory, and those affidavits must be something more than cumulative evidence.
+Now an examination of this record will show, that this question was raised and there was evidence to that effect in the trial, and it was proper evidence, because it bore upon the right to minimize the damages; but it does not defeat the right to recover if, in the case below, the evidence proved that the plaintiff in error, or defendant below, did debauch the wife and carnally knew her; and the husband, whether he left her or not, would still be entitled, to damages from the destroyer of .his home; and the evidence of future conduct between the husband and wife and the relations to eáeh other, would simply bear 'upon the amount which the plaintiff would "be entitled to recover.
+The right to recover is based upon invasion or violation of the defendant in error’s domestic rights, and this case must not be confounded with the ordinary alienation of . affections case where outsiders like the father or mother of a young married couple induce, by their influence or otherwise, the severing of the domestic relations between the married pair. In that case you have a pure alienation of affections case and that could be shown even though the parties afterwards made up and lived together again. A temporary alienation would give rise to a cause of action, and the extent of it would simply be important as to limiting the amount of damages a person was entitled to recover.
+'Now this is not that sort of a case and it cannot be made that sort of a'1 case merely because in the petition it is stated that the affections of the wife from her husband were .alienated. In this case it appears that after the husband had learned, perhaps through the neighbors or otherwise, about the relations that were existing between ' the plaintiff in error and his wife, he taxed 'his wife with her infidelity'and she stated that she had been criminally assaulted and ' that a rape had been committed upon her forcibly and against her will; and the affidavit charging the man with rape was sworn out and the man was arrested and taken before the police court, in which court, by a skillful cross-examination, the wife was made to admit that she had consented to the illicit relation and that there was no rape at all forcibly and against her will; and, inasmuch as she was over the age of consent, the criminal action must necessarily fail.
+When the husband first learned of the true relations between his wife and luei paramour, he separated himself from her and then it was that this action was brought.
+Now, they had children and this man had to support his children and, while living apart from his wife, he went there to the home where she was living, for the purpose of visiting and taking care of the children and, as a matter of fact, did not live with her nor is he living with her now.
+Assuming that he did live with his wife and cohabit with her afterwards, and supposing that he had forgiven the wife’s misconduct and sought to make the best of a bad situation, how did that expunge his right to recover for the criminal conversation with his wife? At best, it would simply go to minimize the damages. The evidence along that line was entirely proper, and there was' evidence in the trial that tended to show the after-relation between the husband and wife and these affidavits, although numerous, are nothing more than cumulative evidence and they are contradicted by affidavits of equal merit and value and as numerous, and the record is eloquent with the number of affidavits, both pro and con.
+Now, all these affidavits were before the court, and before we could reverse this case on the ground of newly discovered evidence, assuming it was proper to make this motion —and perhaps it was, but we are not passing upon this question — and assuming that these affidavits are true, and we know nothing to the contrary but what they are true, the trial judge had all this matter before him and we cannot say that he so far abused his discretion that we would be warranted in disturbing this judgment; nor can we say but that, if the evidence contained in all these affidavits on both sides had been introduced in the court below, the Jury might still have found for the plaintiff because the record seems to be conclusive upon the proposition that this illicit relation did exist between the defendant below and the wife of the plaintiff below. That being so, we cannot say that the court committed any error. We cannot say that the court abused his discretion. We cannot say that this newly discovered evidence was such that it would necessarily mean a judgment for the deféndant in the trial below.
+We, therefore, can come to no other conelusion but that there is no error in this record that would warrant us in disturbing pit, and the same will, therefore, be affirmed.
+SULLIVAN, J, concurs.
+LEVINE, J, not participating.
