@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "80AP-697"
+decided: "1981-08-06"
+citations: ["2 Ohio App. 3d 285"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reilly and Norris, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Perdue, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/2/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709355
+---
+
+# State v. Perdue
+
+## Majority (Whiteside, J.)
+
+Whiteside, J.
+Defendant-appellant, Robert A. Perdue, Sr., proceeding pro se, appeals from the judgment of the Franklin County Court of Common Pleas dismissing his motion for post-conviction relief. While defendant has not specifically and succinctly set forth an assignment of error, defendant’s contention apparently is that the trial court abused its discretion in failing to consider by conducting a full and complete hearing thereon his fourth petition for post-conviction relief.
+Although originally indicted upon some twenty counts, defendant entered a guilty plea to one count of rape and three counts of corruption of a minor, and a nolle prosequi was entered as to the remaining counts. Later, the trial court overruled defendant’s motion for withdrawal of a guilty plea. An appeal to this court resulted in an affirmance in a decision rendered September 13, 1977, in the unreported decision in State v. Perdue, case Nos. 77AP-284 and 77AP-285.
+Thereafter, defendant filed his first petition for post-conviction relief which was denied by the trial court, following which defendant filed a second and a third petition for post-conviction relief, both of which were overruled. Defendant appealed to this court from the denial of his third petition for post-conviction relief, resulting in a judgment of affirmance on March 25, 1980, in the unreported decision in State v. Perdue, case Nos. 80AP-18 and 80AP-33. Thereafter, defendant filed his fourth petition for post-conviction relief, raising a new issue not raised by the others, charging misconduct of the trial judge who had presided with respect to all the prior proceedings referred to above. At the same time, defendant filed a motion for disqualification of that judge supported by an affidavit making very serious charges. The trial judge voluntarily withdrew from the case. This is understandable and proper, inasmuch as one of the grounds upon which defendant sought post-conviction relief by his last petition therefor was “prejudice and bias of the judge,” with the allegations being more fully set forth in connection with the motion for disqualification.
+The case was assigned to another judge of the trial court who found that defendant’s petitions “are a rehash of allegations and claims of the defendant which had been previously adjudicated in this court,” and that “this court can find no good cause for entertaining the sue-cessive petitions for post-conviction relief which have been submitted by defendant.” Unfortunately, the trial court overlooked the fact that a new issue had been raised by the instant petition for post-conviction relief, namely, prejudice and bias on the part of the original trial judge who had made the determination with respect to all previous petitions, as well as in respect to the original acceptance of defendant’s guilty plea. This issue had not previously been raised or litigated, although many of the other issues concerning ineffective assistance of counsel raised by the petition had been raised and determined adversely to defendant by the trial court judge who defendant now contends is prejudiced and biased and against whom defendant makes serious accusations.
+As noted previously, the trial court judge against whom the accusations had been made has indicated that he is not prejudiced but did withdraw and step aside so that the cause could proceed.
+R.C. 2953.23(A) provides as follows:
+“Whether a hearing is or is not held, the court may, in its discretion and for good cause shown, entertain a second petition or successive petitions for similar relief on behalf of the petitioner based upon the same facts or on newly discovered evidence.”
+It lies within the sound discretion of the trial court whether to entertain a second or successive petition for post-conviction relief. However, where the trial judge who determined the prior petitions has voluntarily withdrawn from the case, rather than having a merit determination made upon defendant’s affidavit of disqualification, the petition becomes, for practical purposes, the first petition for the new trial judge to whom the matter has been assigned. It is not appropriate for the new judge under such circumstances merely to indicate that most of the issues have previously been determined by the judge who voluntarily withdrew from the case upon the filing of an affidavit of prejudice without first determining whether there be merit to the charge and contention that there was bias and prejudice on the part of that judge.
+In other words, rather than relying upon the prior determination by the judge who has withdrawn upon the filing of an affidavit of prejudice against him, the newly assigned trial judge must either determine the issues raised de novo or proceed to a determination of whether the original judge was in fact .biased and prejudiced and, if so, whether such bias and prejudice influenced the determinations made. Only if it be found that the original judge was not biased and prejudiced or that no bias and prejudice influenced his prior determinations is it appropriate under such circumstances for the newly assigned judge to refuse to consider the issues raised where the determinations were allegedly tainted because they were made by a judge who was biased and prejudiced.
+Under the circumstances involved, the trial court erred in dismissing the petition for post-conviction relief solely upon the ground that it was a successive petition raising some of the same issues that had previously been raised. Under the circumstances of this case, it is necessary that a more complete hearing be conducted, rather than essentially summarily dismissing the petition for post-conviction relief.
+For the foregoing reasons, the assignment of error is sustained; and the judgment of the Franklin County Court of Common Pleas dismissing defendant’s petition for post-conviction relief is reversed; and this cause is remanded to that court for further proceedings in accordance with law consistent with this decision.
+Judgment reversed and cause remanded.
+Reilly and Norris, JJ., concur.
