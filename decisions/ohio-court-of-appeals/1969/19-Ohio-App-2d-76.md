@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4816"
+decided: "1969-07-08"
+citations: ["19 Ohio App. 2d 76"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lynch, P. J., and O’Neill, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Vaughn, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/19/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6704860
+cites_cases: ["371 U. S. 471", "375 U. S. 85", "378 U. S. 52", "385 U. S. 293", "386 U. S. 18", "388 U. S. 218", "388 U. S. 263"]
+---
+
+# State v. Vaughn
+
+## Majority (Johnson, J.)
+
+Johnson, J.
+This is an appeal on questions of law from a conviction for armed robbery.
+Defendant and two accomplices, on September 20,1967, were engaged in an armed robbery of the Sparkle Market on Glenwood Avenue, Youngstown, Ohio. While the robbery was in process, the Police Department of the city of Youngstown was notified, and two police officers arrived on the scene as the defendant and one companion were leaving the store. The third accomplice was sitting behind the wheel of a car parked in the store parking lot with the motor running. Upon the arrival of the police cruiser he drove from the scene at a great rate of speed. The second accomplice opened fire on the police and made his escape on foot as the police returned his fire.
+The defendant, upon emerging from the store, had a loaded pistol in his pocket and was holding the store receipts in his hand. He started to run, when the store manager grabbed him from behind and dragged him back into the store and wrestled him to the ground, where he was disarmed by the two police officers and manacled. The entire incident was also observed by an assistant manager of the store and by two clerk cashiers who, at gun point, were ordered by defendant to turn over the store receipts.
+Defendant, immediately after his arrest, retained counsel for his defense, and this fact was known to the police on September 22, 1967, when a line-up was had wherein witnesses to the robbery appeared to identify the defendant. Counsel was not advised of the line-up, and did not appear. All identification witnesses who appeared at the trial appeared at the line-up where they identified the defendant.
+The defendant assigns as error the fact that “the court erred in failing to strike all of the evidence regards ing the identification of the defendant for the reason that the line-un was held by the police without the defendant’s counsel being present, or without the police having notified defendant’s counsel that the line-up would be held.”
+As authority for his position defendant cites two recent holdings of the United States Supreme Court: United States v. Wade, 388 U. S. 218, 18 L. Ed. 2d 1149, 87 S. Ct. 1926; and Gilbert v. California, 388 U. S. 263, 18 L. Ed. 2d 1178, 87 S. Ct. 1951.
+In the Wade case, the court said, at page 239:
+“We come now to the question whether the denial of Wade’s motion to strike the courtroom identification by the bank witnesses at trial because of the absence of his counsel at the lineup required, as the Court of Appeals held, the grant of a new trial at which such evidence is to be excluded. We do not think this disposition can be justified without first giving the government the opportunity to establish by clear and convincing evidence that the in-court identifications were based upon observations of the suspect other than the lineup identification. See Murphy v. Waterfront Commission, 378 U. S. 52. 79, n. 18. Where, as here, the admissibility of evidence of the lineup identification itself is not involved, a per se rule of exclusion of courtroom identification would be unjustified. * # *”
+At page 241, the court continues:
+“We think it follows that the proper test to be applied in these situations is that quoted in Wong Sun v. United States, 371 U. S. 471, 488, ‘ “[wjhether, granting establishment of the primary illegality, the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.” Maguire, Evidence of Guilt 221 (1959).’ See also Hoffa v. United States, 385 U. S. 293, 309. Application of this test in the present context requires consideration of various factors; for example, the prior opportunity to observe the alleged criminal act, * * *.”
+At page 242, the court continues:
+“On the record now before us we cannot make the determination whether the in-court identifications had an independent origin. * *
+Assuming for the purposes of the instant case that the absence of counsel at the lme-up was error in so far as the violation of the defendant’s rights under Article VI, Amendments, United States Constitution is concerned, an analysis of the record is required to determine whether that error was prejudicial in the conduct of his trial. We are not here involved with the application of a per se exclusionary rule, but rather, as we understand it, with the application of the tests laid down by our highest court in Wong Sun v. United States, 371 U. S. 471, 9 L. Ed. 2d 441, 83 S. Ct. 407.
+The record discloses that the facts concerning the lineup identification were first elicited on cross-examination of witness Carole J. Walski, who was one of the cashiers, ordered at gun-point to turn over her receipts to the defendant. Miss YValski, on direct examination, identified the defendant in the courtroom. On cross-examination the following transpired:
+“Q. 1 see. You have never seen Mr. Vaughn since that incident? A. I saw him — 1 had occasion to see him at the lineup. They had — the police had a lineup which I had to appear at.
+“Q. Could you tell us what happened when you got down to view this lineup? A. Yes, sir, I was — I had never seen a lineup before and I — I didn’t think I could identify him. I mean to myself, but the moment I saw him there was — there was absolutely no doubt in my mind that he was one of the men that were in the Market that night.”
+Subsequently, all other witnesses, either on direct or cross-examination, were questioned as to their identifications of the defendant at the line-up. None, other than witness Walski, entertained any doubts as to their ability to identify the defendant prior to their second observation at the line-up. And witness Walski was certain on the moment of observation.
+We are not here involved with a question of a line-up identification weeks or months after the crime was committed.
+We are not here involved with a fact situation which gave limited opportunity for the observation of the defendant in the commission of his deed. His victims, during the perpetration of the crime, were able to observe his every move at distances only a few feet from where they stood. He was captured “in the act” and taken into custody and disarmed after a struggle with the manager and two police officers.
+The record clearly indicates ample opportunity for identification independent of the police line-up.
+Even assuming an illegality in the failure to notify counsel of the fact of an impending line-up, we conclude that the opportunity for identification could not have been buttressed by observation at the line-up to an extent- which could have made this claimed error a prejudicial one.
+To reverse and remand this case for retrial, with directions to exclude the testimony of witnesses who attended the line-up merely because of the absence of defendant’s counsel at the line-up, appears to this court to be a travesty on the rights of the state. This is especially so when there is no claim of impropriety in the conduct of the line-up. itself. The testimony of the conducting officer clearly indicates that it was conducted in such a manner as to insure individual observation rather than group participation or discussion by those who attended.
+As was said by the United States Supreme Court in Chapman v. California, 386 U. S. 18, 17 L. Ed. 2d 705, 87 S. Ct. 824, at page 21:
+“We are urged by petitioners to hold that all. federal constitutional errors, regardless of the facts and circumstances, must always be deemed harmful. Such a holding, as petitioners correctly point out, would require an automatic reversal of their convictions and make further discussion unnecessary. We decline to adopt any such rule. All 50 States have harmless-error statutes or rules, and the United States long ago through its Congress established for its courts the rule that judgments shall not be reversed for ‘errors or defects which do not affect the substantial rights of the parties.’ 28 U. S. C. Section 2111. None of these rules on its face distinguishes between federal constitutional errors and errors of state law or federal statutes and rules. All of these rules, state or federal, serve a very useful purpose insofar as they block setting aside convictions for small errors or defects that have little, if any, likelihood of having changed the result of the trial. "We conclude that there may be some constitutional errors which in the setting of a particular case are so unimportant and insignificant that they may, consistent with the federal Constitution, be deemed harmless, not requiring the automatic reversal of the conviction.”
+For the Ohio harmless error rule see Section 2945.83, Revised Code.
+The court continued at page 24:
+“* * * We, therefore, do no more than adhere to the meaning of our Fahy case [Fahy v. Connecticut, 375 U. S. 85] when we hold, as we now do, that before a federal constitutional error can be held harmless, the court must be able to declare a belief that it was harmless beyond a reasonable doubt. While appellate courts do not ordinarily have the original task of applying such a test, it is a familiar standard to all courts, and we believe its adoption will provide a more workable standard, although achieving the same result as that aimed at in our Fahy case.”
+An examination of the entire record leads us to the inescapable conclusion that the errors herein complained of were harmless beyond a reasonable doubt, and, in accordance with that conclusion, the judgment of the trial court is, therefore, affirmed.
+Judgment affirmed.
+Lynch, P. J., and O’Neill, J., concur.
