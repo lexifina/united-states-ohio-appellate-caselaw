@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1916-06-19"
+citations: ["5 Ohio App. 421", "27 Ohio C.C. Dec. 585"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chittenden and Kinkade, JJ., concur."]
+parties: ["The State, ex rel. Hilt, Justice of the Peace, v. Renz, Clerk of Courts."]
+source_url: "https://static.case.law/ohio-app/5/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1836059
+cites_cases: ["2 Ohio St. 369", "2 Ohio St., 369", "93 Ohio St. 230"]
+---
+
+# State ex rel. Hilt v. Renz
+
+## Majority (Richards, J.)
+
+Richards, J.
+This is an original action in mandamus commenced in this court, the object of which is to compel the clerk of the court of common pleas of Lucas county to draw from the jury wheel 20 names of persons to serve as jurors in a certain prosecution before a justice of the peace in this county.
+The petition discloses that an affidavit has been filed before the relator, Raymond C. Hilt, as a justice of the peace, charging one E. H. Drink-water with an offense under Section 12475, General Code. That section prescribes a fine or imprisonment, or both, for whoever, with intent to defraud, sells, secretes, destroys, converts to his own use, or otherwise disposes of chattel property which has been given him in trust, or on deposit, or under an agreement to purchase on the installment plan, and prescribes a like penalty against whoever, with intent to defraud, removes the property beyond the county. The petition further avers that the defendant Drinkwater on being arraigned entered a plea of not guilty and demanded a jury, and that the relator fixed the time of trial and certified to the clerk of the court of common pleas the fact of such prosecution pending before him and demanded that the clerk certify a jury in said cause.
+The defendant, William F. Renz, has filed a general demurrer to the petition, and the only question to be decided is whether it is the duty of the clerk of courts, under the circumstances shown, to draw names of persons to serve as jurors.
+It is insisted on behalf of the relator that this duty is enjoined by virtue of the language of Section 13432, General Code, which reads as follows:
+“In prosecutions before a justice, police judge or mayor, when- imprisonment is a part of the punishment, if a trial by jury is not waived, the magistrate, not less than three days nor more than five' days before the time fixed for trial, shall certify to the clerk of the court of common pleas of the county that such prosecution is pending before him.”
+The section above quoted does not bestow, nor does it purport to bestow, any jurisdiction upon justices of the peace, police judges or mayors, but simply provides the method of procedure for obtaining a jury in cases in which such magistrates have final jurisdiction. In the case under consideration unless the justice of the peace has final jurisdiction he has no occasion to require the services of a jury, and no authority exists for causing the names of persons to serve as jurors to be drawn from the wheel. By final jurisdiction we mean, of course, the authority to try the defendant on the charge made against him, and to impose a penalty or acquit him, and not the mere authority to inquire into whether an offense has been committed, and discharge the defendant or bind him over to another court. The final jurisdiction given by statute to justices of the peace in criminal cases is specifically set forth in other sections of the statutes, particularly in Sections 13423, 1153, 4414, 4416, 4417, 12519, 12520, and others of the General Code. Under Section 13423, General Code, a large number of offenses are named over which justices of the peace, police judges and mayors are given final jurisdiction, and in numerous other instances throughout the statutes these magistrates are given jurisdiction over additional offenses, but nowhere is such final jurisdiction given to a justice of the peace to try a defendant and impose a penalty in a case where the charge is under Section 12475, General Code, unless the accused in writing duly waives a jury and submits to be tried by the magistrate, as provided by Section 13511, General Code.
+It is perfectly clear, therefore, that Section 13432, General Code, can apply only to a case where the officials therein named are given, by appropriate statutory enactment, final jurisdiction to try the accused, and said section can have no application to a prosecution under Section 12475, General Code. Manifestly the purpose of Section 13432, General Code, was to make operative all the statutory provisions conferring final jurisdiction of offenses upon the officials named in the section, where imprisonment may be a part of the punishment, and the section can relate only to that character of cases. To hold otherwise would be to decide that the codifying commission and the general assembly, in adopting its report and enacting the statute, had indirectly enlarged the jurisdiction of the officials named in this section so as to embrace all prosecutions where imprisonment is a part of the penalty. It is inconceivable that the general assembly had any such intent, in view of the fact that the jurisdiction of these officials is carefully stated in detail in various sections of the General Code, and that they have no jurisdiction except such as may be specially conferred by statute.
+Courts will not by construction extend the jurisdiction of a justice’s court beyond the plain language of the statute giving such jurisdiction. (McCleary v. McLain, 2 Ohio St., 369.) In analogy to what was said by the supreme court in In re Hesse, 93 Ohio St., at page 235, so I say here, if the general assembly had intended to amend the various statutes prescribing the jurisdiction of justices of the peace and to substitute in lieu thereof the general language used in Section 13432, General Code, it would have been easy to have done so in unequivocal language.
+It is true that a conclusion contrary to the one herein announced was reached by the probate court of Stark county in the case of State v. Pohlman, 13 N. P., N. S., 254, but we can not concur in either the conclusion or the reasoning of the court in that case.
+The conclusion which we have reached is in accordance with opinions given county prosecutors by the present attorney general of Ohio and by his predecessor in office.
+For the reasons given, we hold that the demurrer to the petition must be sustained and the petition dismissed.
+Petition dismissed.
+Chittenden and Kinkade, JJ., concur.
