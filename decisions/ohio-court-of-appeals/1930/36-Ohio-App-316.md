@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-04-21"
+citations: ["36 Ohio App. 316"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lemert and Roberts, JJ., concur.", "Judges Sherick and Lemert, of the Fifth Appellate District, and Judge Roberts, of the Seventh Appellate District, sitting by designation in the Eighth Appellate District."]
+parties: ["Simpson v. Industrial Commission of Ohio."]
+source_url: "https://static.case.law/ohio-app/36/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321585
+---
+
+# Simpson v. Industrial Commission
+
+## Majority (Sherick, J.)
+
+Sherick, J.
+Error is prosecuted to this court from the court of common pleas of Cuyahoga county, wherein the court sustained a motion to arrest the evidence from the jury at the conclusion of the plaintiff’s case, and directed a verdict in favor of the Industrial Commission, the defendant below, defends ant in error here.
+On April 26, 1922, the plaintiff, Thomas Simpson, then a minor of the age of 18 years, was employed by the Torbenson Axle Company, and, while engaged in his regular work on that day, he suffered an accident at a hand saw and lost the thumb and first finger of one hand. At the time he was earning $15 per week. He was totally disabled for eight weeks.
+' Shortly after the accident, plaintiff signed an application for compensation, which was filed with the Industrial Commission on May 15, 1922. The commission allowed the claim and paid the plaintiff’s medical expenses, and several warrants were issued and mailed to the plaintiff. Thereafter these installment vouchers were returned.
+About six months later, on November 11, 1922, the plaintiff’s father, as next friend, commenced an action on behalf of the plaintiff for damages as against the employer, alleging the violation of a lawful requirement. The answer filed in that case pleaded .the election by the plaintiff under the statute to seek compensation of the Industrial Commission, and asserted that the claim had therein been allowed. The reply thereto by the plaintiff was that he signed the application without knowing its contents, that it was not his free act and deed, and that his signature thereto was procured by fraud. It appears that at the time of trial of this case a settlement was effected, and that under date of February, 1924, an entry was made on the docket, ‘ ‘ Settled and Dismissed.” After term, in March, 1924, this entry was vacated, and an entry, “Dismissed without prejudice,” was placed upon the docket, which is the final entry in that case.
+Subsequently, and, in consummation of that settlement, the sum of $1,050 was paid by the employer to the attorneys of the plaintiff’s next friend. It is further developed that the plaintiff employee received this sum a year after he arrived at legal age, and that it has never been returned to the employer.
+The pleadings and facts in this action further disclose that on or about the 5th day of May, 1927, the Industrial Commission reconsidered its allowance of the plaintiff’s claim, and found that the claimant had been fully compensated by the employer for disability due to his injury, and ordered the claim closed. Application for a rehearing was- duly made, and on August 26, 1927, the commission held to its prior finding, from which appeal was presented to the court of common pleas.
+It was claimed in the trial court, and is here asserted by the commission, that the facts herein enumerated, as by it pleaded and proved, completely estop the plaintiff from a recovery for compensation against it.
+Several errors are complained of, but all are conceded to be embodied in the one question, whether or not under Section 1465-76, G-eneral Code, it was the intention of the Legislature to permit an injured employee to secure full compensation for his injury from his employer, and also from the Industrial Commission, under the law as it existed prior to July, 1925.
+Examination of that section as it then stood clearly indicates that the employee had the right to make his election as to whether he would seek compensation as against the employer or the commission. The very fact that he is-given the option is indicative of the legislative intent that the injured employee could not seek his remedy against both. But the claimant now presses the fact that he did elect to proceed against the commission, and that he is not bound by the acts and declarations of his next friend in and growing out of the action for damages against his employer by his next friend. With this we cannot agree, for the plaintiff admits that he has received the settlement made in that case, which was $1,050, and which is in fact more than he would have received from the. commission under the statute for full compensation for his injury. This sum he has not returned. It is well settled in law that the unauthorized act of an agent may be ratified by the principal, and it is equally true that one under age may, after becoming of age, ratify and be bound by his prior act, whether the same be done by himself or by some one else acting for him and on his behalf. And, by knowingly accepting full compensation for his injury after he became -of legal age, plaintiff ratified in every particular all the acts, statements, and representations made by his father, as next friend, just the same as if such were, his very own. It is aptly said in 21 Ruling Case Law, page 923: “If a principal elects to ratify any portion of an unauthorized transaction of his agent he must ratify the whole of it. He can not avail himself of such acts as are beneficial to him, and repudiate such as are detrimental. ” *
+In other words,- the plaintiff cannot accept the fruits of the acts and representations of his next friend, acting lawfully for him, as in this case, and now be heard to aver that the statements of his agent as contained in the reply filed in the damage action were false.
+We do not believe that it was the intention of the Legislature that an employee was to be twice compensated for his injury, but it was intended that he should be compensated by the state if he so elected. The act was intended as the employee’s shield and protection, but it was not meant to provide for a double recovery, or to place a premium on injury. To adopt the construction desired by plaintiff would work a wrong against the state and promote a practice that would encourage fraud.
+Finding no error in the action of the trial court, its judgment will be affirmed.
+Judgment affirmed.
+Lemert and Roberts, JJ., concur.
+Judges Sherick and Lemert, of the Fifth Appellate District, and Judge Roberts, of the Seventh Appellate District, sitting by designation in the Eighth Appellate District.
