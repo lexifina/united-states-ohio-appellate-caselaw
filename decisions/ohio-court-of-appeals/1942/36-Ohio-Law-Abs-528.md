@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3460"
+decided: "1942-06-03"
+citations: ["36 Ohio Law Abs. 528"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GEIGER, PJ„ & BARNES, J. concur."]
+parties: ["STATE v MILLER"]
+source_url: "https://static.case.law/ohio-law-abs/36/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1711017
+---
+
+# State v. Miller
+
+## Majority (By HORNBECK, J.)
+
+OPINION
+By HORNBECK, J.
+This is an appeal on questions of law from a sentence of defendant pronounced upon his conviction by a jury of the offense of robbery. After the verdict defendant filed his motion for a new trial, and the grounds of the motion are substantially carried into the assignment of errors in this Court.
+We will consider and discuss the errors assigned in their order of presentation in the briefs.
+FIRST ASSIGNMENT:
+The Court erred in its charge to the jury by invading its province.
+In the general charge, page 41, the trial Judge used the following language:
+“The crime may be committed in either of two ways: it may be done by force and violence or by putting in fear. the one from whom the property is taken.
+“By force and violence as here used is meant sufficient force to accomplish the taking of the property. It may be small or great, but it need only be sufficient force- to accomplish the taking of the property and overcome whatever resistance may be made by the owner of the property. This is actual force.
+“By putting in fear is meant the overcoming of the owner’s will to resist. That is known as constructive force. In this case the State claims and the testimony was that the force was actual.”
+It is claimed that the emphasized portion of the charge was prejudicially erroneous in that it invaded the province of the jury and stated as a fact that which was the subject of dispute, namely, whether or not there was any force employed by the defendant at the time that he secured the money from the prosecuting witness.
+If the trial judge did by his language preclude the jury from making determination of a disputed factual question, then clearly this was prejudicial error, because there was an issue clearly drawn, whether or not any force whatever was employed by the defendant to take the money from the prosecuting witness.
+It appears probable from a full consideration of the quoted portion of the charge that the Judge was saying to the jury that the State claims and the testimony offered on its behalf is that the force used by the defendant upon the prosecuting witness was actual as distinguished from putting her in fear, thus marking the distinction to be made between these two elements of the crime of robbery as defined in the Code. The language is inept, and no doubt was an inadvertence, the Court clearly meaning to make plain that the claim of the State and the testimony supporting its claim was that force was used to secure the money ' from the prosecuting Witness. But the Court said something other and further on the subject, which, in the light of the evidence, in our judgment, removes any prejudice that might have resulted by the use of the quoted and emphasized language. At page 44, after stating the reason for the admission of testimony as to certain relations which the defendant stated existed between him and the prosecuting witness, the Court further said:
+“Sh other words, we are not trying any charges of immorality or anything of that sort. We are trying a robbery case, and the testimony regarding their relationship is only to be considered by you as to whom this money belonged and on the question as to whether he took it from her by force and against her will or whether she permitted him to take it because it belonged to him.”
+Here the Court clearly stated the issue and permitted the jury to make the proper factual determination. In the light of the record, which conclusively discloses the principal controverted material element of the claimed robbery to have been whether or not the defendant used any force in taking the money from the prosecuting witness, his statement that she gave her purse to him voluntarily, and hers, that he used actual force, in conjunction with the whole charge, we are satisfied that the jury was not misled.
+Second assignment of error: The Court erred in its charge to the jury by leaving with it the impression that it would not be discharged until it agreed. Upon the motion for a new trial the defendant tendered affidavits of two members of the jury, identical in form, in which it was said that at the time The cause was • presented to them and at the time the affidavits were made, they were of the belief that the defendant was not guilty of robbery as charged in the indictment; that they so voted on the first and second ballots; that they would have continued to vote their opinion on the third ballot, which stood 12 to nothing for conviction and in subsequent ballots that might have been taken had they understood that they had the right to vote for acquittal despite the votes of their colleagues; that it was their understanding from the charge of the Court that all of the jurors must agree either on conviction or acquittal before they would be discharged; that it was because of that understanding that they reluctantly cast their vote with the majority. Upon the matter pertinent to the error assigned, the Court said:
+“In criminal cases the law requires that before a verdict can be rendered by you, all of you must agree on that verdict. You perhaps have sat in some civil cases in which nine or more can render a verdict, but in a criminal case the law requires that before you can render a verdict, you must all twelve of you agree upon that verdict.”
+Counsel for defendant interposed no exception to the charge as given, either special or general, and requested no different or additional instruction upon the subject. The charge does not say nor imply that the jury must reach a verdict before it will be discharged, but only that before it can return .a verdict, all of its members must concur therein. But it is urged that laymen as distinguished from lawyers might be misled into the belief stated by the affiants in their affidavit. If the rule be waived }that a verdict may not be impeached by the affidavit of the jurors as to the conduct of the jury during their deliberations, it would indeed be dangerous procedure to set aside a verdict upon an interpretation of the charge which the language employed will not properly permit. -
+The 3rd, 4th, and 5th assignments of error may be considered together, that the Court erred in overruling the motion of the defendant for a directed verdict at the close of the State’s case, the verdict is not sustained by sufficient evidence and is contrary to law and is manifestly against the weight of the evidence. An examination of the testimony is convincing that the Court did not err in overruling the motion of the defendant for a directed verdict, because clearly there was a factual question to be submitted to the jury as the evidence adduced by the State tended to support every material averment of the offense alleged; nor can it be said that the verdict was contrary to law, not supported by the evidence, nor manifestly against the weight thereof. The controversy in the main revolved around the testimony of the prosecuting witness and the defendant. If what the plaintiff said was true, clearly the offense of robbery was proven by the requisite degree of proof. The jury had the right to believe her statements in the light of all the circumstances appearing. The jury had the clear right to test the credibility of the witnesses and to determine the weight to be given their testimony. We find no abuse of that discretionary power and can not say that this verdict is manifestly against the weight of the evidence. We find no error assigned established.
+The judgment will be affirmed.
+GEIGER, PJ„ & BARNES, J. concur.
