@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 15741"
+decided: "1937-02-26"
+citations: ["24 Ohio Law Abs. 265"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KLINGER and GUERNSEY, JJ (3rd Dist) and HORNBECK, J, (2nd Dist) sitting by designation.", "KLINGER, PJ, and HORNBECK, J, concur."]
+parties: ["MAGNOLIA BLDG & INVESTMENT CO v SULZMAN"]
+source_url: "https://static.case.law/ohio-law-abs/24/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679407
+cites_cases: ["30 Oh St 436"]
+---
+
+# Magnolia Bldg & Investment Co. v. Sulzman
+
+## Majority (By GUERNSEY, J.)
+
+OPINION
+By GUERNSEY, J.
+This is an appeal on questions of law from a decision of the Municipal Court of Cleveland. The parties stand in this court in the same order in which they appeared in the Municipal Court and will therefore be referred to as the plaintiff and defendant respectively.
+The plaintiff, The Magnolia Building and Investment Company, filed its petition against the defendant. John M. Sulzman, Sheriff, in the Municipal Court alleging in substance:
+A foreclosure action was instituted in the Common Pleas Court of Cuyahoga County for the foreclosure of a mortgage on certain property therein described, said foreclosure action being known as the case of the State of Ohio v Material Realty Company et al, No. 412,452; that said foreclosure action went to a final decree and upon a sale of the said property by the defendant, John M. Sulzman, Sheriff, the plaintiff, The Magnolia Building & Investment Company purchased the same from the sheriff on or about June 3, 1935; that it paid as and for the purchase price of said property, the sum of Thirteen Thousand Five Hundred Dollars ($13,500.00); that the decree in said foreclosure action provided that “all'unpaid taxes and assessments” should be paid by the Sheriff upon a distribution of the funds; that on said date of sale, to-wit, June 3, 1935, the taxes for the year 1935 in the sum of Five Hundred and Nineteen Dollars and Thirty-seven cents ($519.37) were a lien on the property involved in said foreclosure action, which taxes the Sheriff did not pay, and which it was compelled to pay, and for the payment of which it requests reimbursement from the defendant.
+To this petition the defendant filed a general demurrer which was overruled by the Municipal Court and the defendant not desiring to plead further, judgment was entered in favor of the plaintiff, and it is from this judgment that the appeal is made.
+The question presented by the demurrer and the appeal is whether the defendant, John M. Sulzman, Sheriff, was, under the decree of the court in case No. 412452 in the Common Pleas Court, providing that “all unpaid taxes” should be paid by the sheriff upon a distribution of the proceeds arising from the sale of real estate in foreclosure in said case, required to pay the taxes for the year 1935 on the foreclosed premises, the sale on foreclosure having been had on June 3, 1935.
+The sections of the General Code pertinent to a consideration of this question, are §2583 GC providing in substance that it is the duty of the county auditor to prepare a tax list and duplicate of taxable real property in the several taxing districts therein before October 1st in each year, and that on said date he shall deliver a certificate thereof to the county treasurer for the collection of taxes thereon; §5671 GC providing in substance that the lien of the State for taxes shall attach to all real property as soon as assessed and that the lien attaches as to the current year’s taxes on the day preceding the second Monday in April in each year; and §5692 GC providing:
+“When land * * 4 or real estate is sold at judicial sale, the court shall order the taxes and penalties and interest thereon against such lands, to be discharged out of the proceeds of such sale.”
+Provisions of the Revised Statutes identical with the foregoing provisions were under consideration by the Supreme Court in the case of Hoglen & Houck v John Cohen et, 30 Oh St 436, in which it held:
+“1. Real estate sold at judicial sale, or by administrators, executors, guardians, or trustees, on or after the 1st day. of October, against which taxes stand legally charged upon the tax duplicate, such taxes, together with any penalty and interest thereon at the time of such sale, may, under §77 of the tax law of 1859 (C & C 1465), be ordered to be discharged out of the proceeds of such sale.
+“2. For the pupose of being so discharged, the taxes charged against the land become due and payable, within the meaning of the last clause of §77, on the 1st day of October, annually, that being the date on which the duplicate of taxes is required by law to be placed in the possession of the county treasurer; and this clause of §77 is not affected by the provisions of §53 (S & S 762, 763) that ‘the lien of the state for taxes shall attach on the day preceding the second Monday of April annually.”
+This decision has not been reversed and stands as the law on the subject of the payment of taxes on real estate by the sheriff in foreclosure proceedings, and unless the use of the word “unpaid” as descriptive 'of the taxes required to be paid by the sheriff out of the proceeds of the property under the decree of foreclosure imposes a duty different in character on the sheriff, it was not the duty of the sheriff under the foreclosure decree upon which the sale of June 3, 1935, was had to pay the taxes on the premises for the year 1935, which under the law were not placed upon the tax duplicate until October 1st, 1935, and he is not liable for the amount thereof, and the demurrer to the petition should have been sustained.
+We will therefore consider whether by the use of the word “unpaid” as descriptive of the taxes to be paid by the sheriff under the foreclosure decree a duty was imposed on the sheriff different in character than the duty imposed by the law as determined in the case of Hoglen <& Hauck v John Cohan et, supra.
+A judgment or decree speaks as of the time of its entry and in view of conditions then existing. Acts to be performed under a judgment or decree are ordinarily such acts as can be performed in praesenti.
+At the time the decree in question was entered, and sale had, the taxes in question had not been levied, and the amount thereof had not been determined and would not appear on the tax duplicate until almost four months thereafter, so that if the taxes in controversy had been covered by the decree it would have been impossible to make distribution until the taxes became due which would have been more than six months after the entry of the decree, and the sale of the premises. It is obvious that if such a departure from the ordinary procedure of immediately executing a decree of distribution had been contemplated, it should have been stated in the decree in unequivocal language.
+The word “unpaid” is more commonly and properly applied to a debt due than a debt undue, and may at least as well mean a debt due as undue. Words and Phrases, 1st Ed. Volume 8, page 7206.
+And in view of the time of the entry of the decree, the time of sale, the time of the determination of the amount of the taxes, and the rule ordinarily applicable to the payment of taxes by the sheriff on a decree of distribution in foreclosure, it is clear that the word “unpaid” as descriptive of the taxes to be paid by the Sheriff under the decree was used in the sdnse of “due” and did not include the taxes for the year 1935 subsequently levied.
+The petition therefore did not state a cause of action and the Municipal Court erred in overruling the demurrer; and the judgment of the Municipal Court for this reason will be reversed at the. costs of appellee and the cause remanded to the Municipal Court with instructions to sustain the demurrer and for further proceedings according to law.
+KLINGER, PJ, and HORNBECK, J, concur.
