@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "81AP-127"
+decided: "1982-03-25"
+citations: ["4 Ohio App. 3d 7"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside, P.J., and NoRRis, J., concur."]
+parties: ["City of Columbus, Appellee, v. Sullivan, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/4/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711337
+cites_cases: ["23 O.O.3d 98", "69 Ohio App. 2d 71"]
+---
+
+# City of Columbus v. Sullivan
+
+## Majority (Strausbaugh, J.)
+
+Strausbaugh, J.
+This is an appeal by defendant-appellant, Robert P. Sullivan, from a conviction in the Franklin County Municipal Court for the offense of driving a motor vehicle while under the influence of alcohol in violation of Columbus Traffic Code 2133.01.
+The record indicates that on February 2, 1981, the cause came on for jury trial.
+Prior to the commencement of trial the following discourse took place, as is reflected in pages 2-6 of the hearing transcript:
+“THE COURT: * * * Well, before we enter the plea of no contest, why don’t you go ahead and make your motion? I think we have already discussed it, but we will get it on the record.
+“MR. SERROTT: For the record, a no contest plea is predicated upon this court’s ruling thairthe defendant’s expert witness, Doctor Frajola, would be excluded from testifying as to the reliability and validity of urinalysis as a means of determining a defendant’s, or, in this case, Mr. Sullivan’s blood alcohol content.
+“As I understand it, the Court is basing its ruling on State versus Grimes, decided December 30,1980, by our Court of Appeals, 80 Appellate, 651 [sic], and that Doctor Frajola would be limited in testifying only as to this particular analysis and the mechanics of that analysis; that he would be prohibited from testifying as to urinalysis, urinalysis reliability and validity, in general, as a method of determining one’s blood alcohol content.
+“Therefore, on the indication of the Court that he would be excluded from testifying in that manner, the no contest plea is predicated on that ruling; and then I would have a proffer to make for the record.
+“THE COURT: Well, that’s basically correct. I wouldn’t let Doctor Frajola testify as to the familiarity with the mechanics of the test because I think Grimes says that, as a basis for qualifying him. But, granted, Grimes is different in the respect that it is an Intoxilyzer case, and this is urinalysis case, but in that, urinalysis, Intoxilyzer, and blood, the Department of Health Director sets the guidelines that must be followed. I think, as in Grimes, which was an Intoxilyzer, the Department of Health has recognized the urinalysis, and I think the way that the Court of Appeals opinion read, it would preclude testimony in this case.
+“I’m not sure I necessarily agree with that across the board, but the Court of Appeals has ruled on that. I don’t think I have any choice.
+“By way of proffer, you can proffer it orally, if you wish, well, part of it, I think you would be —
+“MR. SERROTT: Yes.
+“THE COURT: And the questions that you would have asked Doctor Fra-jola, I think by agreement, we will mark those and append those. There is no need to make a lengthy proffer on that. I think you would like to proffer as to Mr. Sullivan’s testimony.
+“MR. SERROTT: Yes.
+“THE COURT: I do overrule the motion, based on State versus Grimes.
+“MR. SERROTT: Okay. So then, for the record, it has been identified as, I believe, Defendant’s Exhibit A, and starting at part 23, there is a series of questions and answers, and had Doctor Fra-jola been permitted to testify, I would have asked him the question contained in Defendant’s Exhibit A, and his answers would have been what is typed there up through the end of that article, which is numbered pages 100 to 106.
+“In this particular case, the evidence would have demonstrated that the defendant Robert Sullivan had been drinking earlier in the evening, went home at eleven p.m., went to bed at eleven p.m., was awakened at approximately 3, 3:30 a.m., by a telephone call, did not urinate, got up, got into his car, and drove his automobile and was subsequently arrested, and then his urine was taken and tested.
+“Doctor Frajola would have testified that the actual blood alcohol content at that point in time would not have been accurately reflected in the urine test because of the fact that he had been asleep for four and a half hours and the blood had been filtered through his kidneys, and the alcohol content in his urine would have been higher than what was actually in his blood because of the time lapse.”
+Defendant brings the following two assignments of error:
+“1. The trial court committed prejudicial error to the defendant in excluding the testimony of the defense expert Doctor Walter Frajola. The exclusion of the proffered testimony denied the defendant his Fourteenth Amendment due process right to present evidence in his own behalf.
+“2. The ruling of the trial court, excluding the evidence of the unreliability of Mr. Sullivan’s urine sample effectively destroyed Mr. Sullivan’s presumption of innocence and unconstitutionally established an irrebuttable presumption that he was under the influence of alcohol.
+“A. The prosecution was, therefore, improperly relieved of its constitutional obligation to prove Mr. Sullivan guilty beyond a reasonable doubt of each and every element of the offense of operating a motor vehicle while under the influence of alcohol.”
+During oral argument before this court, a question was raised by the court which had only been tangentially and not seriously raised by the prosecution in their main brief concerning the question of whether a no contest plea on the day of trial preserves the defendant’s rights to appeal a ruling of the trial court excluding the testimony of an important defense witness.
+In the decision of this court in State v. Randle (1980), 69 Ohio App. 2d 71 [23 O.O.3d 98], the pretrial ruling was treated as having been preserved, but the question of whether or not it could be preserved was not raised. In the unreported decision of this court in State v. Watson (Aug. 27, 1981), No, 80AP-880, this court confronted the issue of whether a ruling preserved as part of a plea bargain could be raised on appeal. This court stated:
+“While there can be an appeal from a conviction following a no-contest plea, the issues that can be raised upon such an appeal are limited but, pursuant to Crim. R. 12(H), include a claim ‘that the trial court prejudicially erred in ruling on a pretrial motion, including a pretrial motion to suppress evidence.’ Crim. R. 12 (B) defines pretrial motion, and Crim. R. 12 (B)(3) specifically provides that ‘motions to suppress evidence * * * on the ground that it was illegally obtained’ must be raised before trial.
+“The motion or request by the prosecution herein involved was not a motion to suppress evidence but, instead, was a request that the trial court in advance rule upon the issue of admissibility of the evidence predicated upon its materiality and relevancy. * * * Here, the trial court prematurely made that determination, which could not appropriately be determined prior to trial. * * *”
+Watson stands for the proposition that a no contest plea does not preserve for appeal a court’s ruling on a pretrial motion which requests an advance ruling on the materiality and relevancy of evidence, because such a question is not a “* * * defense, objection, or request which is capable of determination without the trial of the general issue * * See Crim. R. 12(B). Hence, we conclude in this case that the defendant’s right to appeal the ruling of the trial court regarding the admissibility of Dr. Frajola’s testimony was not preserved for appeal pursuant to Crim. R. 12(H) as this was not a proper pretrial motion within Crim. R. 12(B).
+In Watson, the court reversed based on its conclusion that the plea bargain could not stand. The court stated in this regard:
+“* * * However, there was a misunderstanding in the trial court, and the plea bargain was negotiated upon the assumption that defendant could have this issue determined upon appeal, which would result in a reversal and remand for new trial if this court found in defendant’s favor upon the disputed issue of admissibility. While we cannot finally find in defendant’s favor upon that issue since it is dependent upon an exercise of discretion during the course of the trial predicated upon the materiality and relevancy of the impeachment evidence in light of the other evidence adduced at trial, the plea bargain was still predicated upon this erroneous basis. Thus, defendant has been deprived of part of his plea-bargain arrangement. Under such circumstances, defendant must be given an opportunity, if he wishes, to rescind the plea-bargain agreement and withdraw his no-contest plea to the lesser charge since the full plea bargain cannot be effected, which then would reinstate the original charge of the indictment and permit the trial to proceed as it would have proceeded in the absence of the trial court’s premature and erroneous ruling upon the admissibility of evidence.”
+In this case, the prosecution agreed to dismiss the other charges against the defendant for a plea of no contest to the charge of operating a motor vehicle while intoxicated. As was the case in Watson, the plea bargain and the trial court’s decision to accept the plea of no contest were premised on the erroneous conclusion that the issue regarding the admissibility of Dr. Frajola’s testimony would be decided on appeal. Based on Watson, we conclude that the preservation of the ruling was a part of the plea bargain and defendant must be given an opportunity to withdraw the plea and proceed to trial on the original charges, and to that extent we sustain the first assignment of error.
+In view of our ruling on the first assignment of error, it is unnecessary for us to rule on the constitutionality of the exclusion. Therefore, we overrule defendant’s second assignment of error.
+The judgment of the trial court is vacated and the cause is remanded for further proceedings in accordance with this opinion. When a ruling is made on the admissibility of Dr. Frajola’s testimony, we caution the trial court to carefully read the unreported decision of this court in State v. Grimes (Dec. 30, 1980), No. 80AP-651. Although Grimes prohibited any attack on the reliability of the Intox-ilyzer in general, it did not prohibit evidence attacking the administration and results of defendant’s specific test. See Grimes, pages 6, 7. In addition, a reading of Columbus Traffic Code 2133.01(C) may be helpful.
+Judgment vacated and cause remanded.
+Whiteside, P.J., and NoRRis, J., concur.
