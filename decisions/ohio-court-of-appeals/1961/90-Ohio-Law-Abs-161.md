@@ -1,0 +1,68 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2659"
+decided: "1961-12-27"
+citations: ["90 Ohio Law Abs. 161"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Younger, J., of the Third District, sitting by assignment in the Second District.)", "Crawford, P. J., concurs.", "Younger, J., dissenting."]
+parties: ["Daniels, Plaintiff-Appellee, v. Daniels, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/90/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1812475
+cites_cases: ["157 Ohio St., 319", "165 Ohio St., 462", "99 Ohio St., 143"]
+---
+
+# Daniels v. Daniels
+
+## Majority (Kerns, J.)
+
+Kerns, J.
+The judgment from which this appeal on questions of law is taken grants the plaintiff, Nancy M. Daniels, a divorce from the defendant, David C. Daniels, on the ground of extreme cruelty; gives the care, custody and control of their minor child, Deborah, to the plaintiff; orders the defendant to pay twenty dollars ($20.00) per week for the support of said child; and awards alimony to the plaintiff in the amount of twenty-four thousand dollars ($24,000.00).
+The judgment for divorce, custody, and support is not challenged upon appeal. The serious dispute is about alimony.
+The decree provides for alimony as follows:
+“The Court coming now to consideration of the prayer for alimony contained in the plaintiff’s Petition finds that on the issues joined by the pleadings, the plaintiff is entitled to an award of alimony.
+“IT IS, THEREFORE, ORDERED that the defendant pay to the plaintiff the sum of Twenty-four Thousand ($24,000.00) Dollars as alimony in such annual installments as may hereafter be determined by the Court when the defendant has completed his residency and after he has completed any military service that may be required of him in the Armed Forces of the United States upon the completion of his residency. The Court, for the purpose of making such Order, for the purpose of modifying the same and for the purpose of fixing the amount of the annual payment to liquidate the alimony award herein, does hereby retain jurisdiction of the case for such purpose.”
+When the parties to the action were married in December, 1953, both were nineteen years of age and students at Denison University. The marriage lasted about seven years. During the interim, both completed their educations, the plaintiff receiving a degree in business administration from Ohio State University in June, 1958, and the defendant receiving a degree in medicine from the same university in June, 1959. Their daughter, Deborah, was born on August 1, 1958, with a congenital heart defect necessitating more demanding care and surveillance than a normal child. At the time of trial, the defendant was serving his residency at Miami Valley Hospital specializing in obstetrics and gynecology and earning three hundred dollars ($300.00) per month.
+Although in school during most of their married life, each of the parties to the action earned and contributed six thous- and dollars ($6000.00) toward their maintenance and educations, the balance in financial support for the family coming from the plaintiff’s father who, according to the testimony of the defendant, contributed from sixteen to twenty thousand dollars to the marriage.
+At the time of the decree, neither of the parties to the action had much in the way of tangible assets, the award of alimony being based almost entirely upon the defendant’s future earning capacity in the medical profession.
+In the appeal to this court, seven errors have been assigned, some of which are not discussed, the majority of which are directed to the record generally, and all of which are argued collectively in the brief of the defendant.
+The first assignment of error questions the admissibility of certain evidence. At the trial, the plaintiff’s father was permitted to testify as to amounts which he contributed toward the marriage, and the defendant contends that such evidence was inadmissible.
+What bearing this evidence had upon the final decree cannot be determined absolutely from the record, but we cannot agree that it had no bearing whatsoever upon the issues in the case.
+In the allowance of alimony, the trial court was permitted to give due regard to property which came to the parties by their marriage. Section 3105.18, Revised Code. As heretofore noted, the principal asset of the marriage was the defendant’s education. The acquisition of this asset necessitated, in addition to the defendant’s own laudable ambition and intelligence, a certain amount of financial support.
+The uncontroverted evidence discloses that this support was furnished by the plaintiff’s father in order to relieve the defendant of his primary obligation of support and to permit him to pursue his education, and to conclude that the money so furnished, as now transposed into earning power, came to the parties other than “by their marriage” would be somewhat unrealistic. Obviously, if Doctor Daniels had married another woman, the plaintiff would not, through her father’s generosity, have provided the funds for his education or the support of another wife.
+In our opinion, the right to practice medicine, being in the nature of a franchise, constitutes property which the trial court had a right to consider in making the award of alimony. Accordingly, we find no merit in the defendant’s contention that the evidence bearing upon that issue was not admissible.
+The defendant also claims error in that the plaintiff’s mother, who has an extensive background in the field of education, was permitted to testify concerning the economic advantages of a college education and the potential earning power of one equipped with a medical degree. This testimony was generally to the effect that a general practitioner of medicine could be expected to earn an average of fifteen thousand dollars ($15,000.00) and a specialist eighteen thousand dollars ($18,-000.00) per year in the United States. At the trial, the defendant made no specific objection to this testimony. Nor did he move to strike the answers given.
+If the testimony was considered incompetent, a timely objection to its introduction should have been made. 39 Ohio Jurisprudence, 653, Section 78; 3 Ohio Jurisprudence (2d), 63, Section 203. But regardless, it does not appear that the defendant could have been prejudiced thereby. The testimony in question was apparently based upon information secured from a World Almanac, and although it was clearly hearsay and of .questionable value, it seems doubtful that said testimony, considered in its entirety, added anything to the common knowledge and experience of the trial court so as to materially affect the outcome of this case.
+The first assignment of error will therefore be overruled.
+The next five assignments of error, as set forth by the defendant, are as follows:
+2. That the trial court erred in refusing certain evidence offered by the defendant-appellant by which defendant-appellant was prevented from having a fair trial.
+3. That the alimony award to the plaintiff-appellee was contrary to the weight of the evidence, and is ambiguous.
+4. Irregularities permitted by the trial court in the proceedings of the court by which the defendant-appellant was prevented from having a fair trial.
+5. That the trial court erred in overruling defendant-appellant’s motion for a new trial.
+6. Other errors of law occurring at and during the trial.
+Upon further examination of the record, we are unable to find anything in support of these assignments of error which might justify a reversal of the judgment.
+The defendant apparently relies more heavily upon the seventh assignment of error which states “that the trial court’s decision and final order is contrary to law and manifestly against the weight of the evidence.” The following rules of law throw some light on this contention:
+“On an appeal on questions of law from a judgment of the Common Pleas Court awarding alimony to a wife where a divorce is granted because of the husband’s aggression, the Court of Appeals may not ordinarily substitute its judgment as to what it deems reasonable as an allowance of alimony for the judgment of the Common Pleas Court on that question.” Henry v. Henry, 157 Ohio St., 319.
+‘ ‘ There is no fixed rule for the determination of the amount of alimony; the amount to be awarded depends upon all of the relevant circumstances, in the light of which it must be just and reasonable. The determination of the amount rests in the sound discretion of the court.” 18 Ohio Jurisprudence (2d), 27, Section 101.
+“1. Where a decree for divorce is granted to a wife on account of the aggression of her husband, an allowance of alimony may be based on future personal earnings or wages of tbe husband. In such a case the court is not necessarily limited to a consideration of property in possession of the husband at time of decree.” Lape v. Lape, 99 Ohio St., 143, see also Gage v. Gage, 165 Ohio St., 462.
+In applying these rules to the evidence, the plaintiff testified to the effect that the cost of support for her and her child, including rent, utilities, clothes, food, medicines, etc., was about $195.00 per month. The child has a heart condition which requires digitalis and other medicines and restricts the mother’s ability to take outside employment. On the other hand, the defendant’s only financial asset is a medical degree which should, under normal circumstances, carry with it a high potential earning power. Since the defendant has a present right to practice medicine, the amount of $300.00 per month which he presently earns in residency is not fairly indicative of his “earning capacity” as that term is used in Section 3105.18, Revised Code.
+After comparing the factual patterns of numerous other alimony cases, we are satisfied that some courts would consider the award of alimony in this case conservative; others would consider it quite liberal. What constitutes a fair and equitable amount when based entirely upon future earnings is, by its very nature, difficult to ascertain, and this fact serves to point out the necessity for the broad discretion which the trial court has in such matters. This court may not interefere unless the award is so unreasonable and unconscionable as to constitute an abuse of discretion, and the mere fact that this court would have proceeded differently in making the award of alimony is not sufficient to justify a reversal in the absence of an abuse of discretion. Here the judgment awarding alimony in the amount of $24,000.00 is carefully framed to cope with the uncertainties of the future, and in our opinion, is neither against the weight of the evidence nor contrary to law. The seventh assignment of error will be overruled.
+We have examined each assignment of error and find none well made. The judgment will be affirmed.
+Crawford, P. J., concurs.
+Younger, J., dissenting.
+
+## Dissent (Younger, J.,)
+
+Younger, J.,
+dissenting. I am unable to concur with the majority opinion herein for two reasons.
+In the first place the money advanced by the plaintiff’s father for the educational purposes of his daughter and son-in-law — and which for a part time included such expenses for another daughter who lived with plaintiff and defendant — was purely a gift which he paid voluntarily and which at the time was not intended or expected to be repaid. In my opinion this is not “property which came to either by their marriage” (Section 3105.18, Revised Code). It can be considered as a favor or a generosity which any proud or fond parent would wish to bestow if able so to do. However, such money no longer exists as property. No promissory notes or bookkeeping were involved.
+Property is defined as follows:
+“4. The exclusive right to possess, enjoy and dispose of, a thing; ownership; in a broad sense, any valuable right or interest considered primarily as a source or element of wealth.
+“5. That to which a person has a legal title; thing owned; an estate, whether in lands, goods, money, or tangible rights, such as copyright, patent rights, etc.; anything, or those things collectively, in or to which a man has a right protected by law. (Webster)
+1 ‘ The right and interest which a man has in lands and chattels to the exclusion of others.
+‘ ‘ The sole and despotic dominion which one man claims and exercises over the external things of the world in total exclusion of the right of any other individual in the universe.” (Bouvier)
+My second reason for dissenting is that Section 3105.18, Revised Code, provides:
+‘ ‘ The court of common pleas may allow alimony as it deems reasonable to either party, having due regard to property which came to either by their marriage, the earning capacity of either and the value of real and personal estate of either, at the time of the decree.”
+In my opinion the comma preceding the last phrase ‘ ‘ at the time of the decree” makes everything preceding it affected by and governed by said phrase which would include “the earning capacity of either.” Since the earning capacity of the defendant at the time of the decree was admitted and found to be $300.00 per month an award of $24,000.00 is entirely speculative, and since in my opinion there is no evidence of probative value in the record to support such an award, it is an abuse of discretion. There is no certainty that the defendant will successfully complete his residency or internship or that he will become a specialist in obstetrics and gynecology.
