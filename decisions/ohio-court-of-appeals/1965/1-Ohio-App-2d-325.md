@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7791"
+decided: "1965-02-16"
+citations: ["1 Ohio App. 2d 325"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dttppy and Troop, JJ., concur."]
+parties: ["In re Severino."]
+source_url: "https://static.case.law/ohio-app-2d/1/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1455272
+cites_cases: ["147 A. L. R. 935", "174 Ohio St. 291", "174 Ohio St., 40", "383 Ill. 437", "50 N. E. 2d 517"]
+---
+
+# In re Severino
+
+## Majority (Bryant, P. J.)
+
+Bryant, P. J.
+Albert Severino has appealed on questions of law from a judgment of the court below denying his petition for a writ of habeas corpus. On February 10,1964, the Governor of Ohio issued his warrant to the Sheriff of Franklin County for the arrest of Severino and his surrender to an agent of the state of New York. This was pursuant to the demand by the state of New York for the extradition of Severino to serve two concurrent 5- to 10-year sentences in a New York prison imposed following Severino’s conviction of burglary, third degree, and grand larceny, first degree.
+Briefly, the facts are that Severino, prior to July 10, 1958, was serving an Ohio prison sentence imposed by an Ohio court for an offense committed in Ohio. Approximately six years remained to be served. In June 1958, a New York grand jury returned an indictment in two counts against Severino, the first charging burglary, third degree, and the second charging grand larceny, first degree, alleged to have taken place in Chautauqua County, New York, on April 27, 1958.
+On June 13, 1958, the state of New York made demand on the Governor of Ohio for the extradition of Severino, and on June 20,1958, the demand was honored and the Ohio Governor’s warrant was issued. On July 10, 1958, Severino was arrested on this warrant and immediately filed his petition for release by habeas corpus attacking the sufficiency of the Ohio Governor’s warrant. Both the Cuyahoga County Common Pleas Court and the Eighth Appellate District Court of Appeals, the latter by judgment on May 20, 1959, upheld the warrant and denied relief by habeas corpus.
+On August 11, 1959, the Governors of Ohio and New York, acting pursuant to the provisions of the Uniform Extradition Law (Chapter 2963, Revised Code of Ohio) (Section 832, New York Code of Criminal Procedure) signed a compact agreeing to the extradition of Severino from Ohio to New York before the conclusion of the Ohio sentence, then being served, upon condition that New York would return Severino “as soon as the prosecution in the state of New York is terminated.”
+It further appears:
+“L. That on September 2, 1959, said fugitive, Albert Anthony Severino, voluntarily agreed to return to New York state for the purpose of prosecution as more fully appears in a waiver signed by said Albert Anthony Severino on the 2nd day of September, 1959 at the city of Marion, state of Ohio, a copy of which is attached hereto and made a part of this application and marked ‘ Exhibit I. ’ ”
+Upon his return to Chautauqua County, New York, Severino appeared in court with two attorneys, first on September 8, 1959, when no action was taken; again on September 14, 1959, when he pleaded not guilty and the case was put on the trial list; again on September 21, 1959, when Severino, with counsel present and after admonition by the court, withdrew his not guilty plea and pleaded guilty; and finally on September 28, 1959, when he was given a 5- to 10-year sentence on the burglary charge, third degree, and a like sentence on the grand larceny charge, first degree, the sentences to be served concurrently.
+Thereafter, Severino was returned to Ohio to complete his term of imprisonment here. On December 23, 1963, Ohio prison officials notified the New York officials that Severino would be released on February 13, 1964. On January 30, 1964, the Governor of New York again issued extradition papers to the Governor of Ohio seeking the return of Severino to serve the two sentences imposed in New York in 1959.
+On February 10, 1964, Governor James A. Rhodes of Ohio honored the extradition demand of New York and issued his warrant to Sheriff Stacy Hall of Franklin County, Ohio, who arrested Severino and placed him in the Franklin County jail in preparation for delivering Severino to the agent of the state of New York.
+On February 13, 1964, Severino filed a petition in the Franklin County Common Pleas Court asking for release by writ of habeas corpus claiming his arrest and threatened-return to New York was illegal and that New York, by returning Severino to Ohio after his New York sentence in 1959, lost all right to his return.
+The court below overruled all objections interposed on behalf of Severino, approved the warrant issued by Governor Rhodes and denied Severino’s prayer for release by habeas corpus. It is from that ruling that Severino has appealed to this court.
+Counsel for Severino place considerable reliance upon a decision by the Supreme Court of Illinois in People, ex rel. Barrett, Atty. Genl., v. Bartley, Judge (1943), 383 Ill. 437, 50 N. E. 2d 517, 147 A. L. R. 935. It is true that in Bartley a prisoner was released from an Illinois prison, but a close ex-animation of the decision indicates that the court felt the earlier action by which the prisoner, one McLaughlin, was released had the effect of a pardon.
+There are several reasons why we are unable to follow the reasoning in Bartley. In 1943, when Bartley was decided, Illinois had not adopted the Uniform Extradition Law, and Illinois did not adopt it until 1955. Further, in Bartley the prisoner, McLaughlin, was released without conditions which are found in the Ohio-New York agreement.
+More important, the holding in Bartley has been expressly considered by the Supreme Court of Ohio, has been labeled by it as the minority view, and was expressly rejected by the Supreme Court of Ohio in a per curiam opinion in Heston v. Green, Supt. (1963), 174 Ohio St. 291. In course of the opinion, at pages 292-293, the court held as follows:
+“Petitioner cites and relies on a line of cases which hold that, where a convict is in custody under a conviction of a crime, the surrender of him to another sovereign for prosecution or imprisonment operates to preclude further punishment for the original conviction. See People, ex rel. Barrett, Atty. Genl., v. Bartley, Judge, 383 Ill. 437, and annotation, 147 A. L. B. 941. This, however, is the minority view. An examination of those cases shows no sound basis at law or under the Constitution to conclude that a release of a convict by one sovereign for prosecution for another crime or to serve a sentence for which crime the prisoner has already been convicted by another sovereign should constitute a waiver by the releasing sovereign of its rights to exact the full penalty.
+“Inasmuch as it is impossible for a person to be in two places at the same time, where one owes penalties to two separate sovereigns one sovereign must relinquish its claim and allow the other to exact its penalty first. Such relinquishment do.es not constitute a waiver of punishment but rather a mere delay in its execution. The order of punishment is a matter to be decided between the sovereigns and is a matter over which the convict has no control.
+“This court had a similar question before it in Guerrieri v. Maxwell, Warden, 174 Ohio St., 40. The court in that case said:
+“ ‘Therefore, where one has placed himself in the position of being wanted at the same time by two different sovereigns for the violation of penal statutes of both, it is a matter for the sovereigns to determine which shall first exact punishment from the offender, and not the offender. Under such circumstances it is the interested sovereigns who make the determination and the offender cannot complain of the order of his trials or punishment for such offenses. * * *
+“ “* * * The release by the state of one in its custody or under sentence by it to the federal government to serve a subsequently imposed federal sentence does not constitute a waiver by the state to carry into execution its previously imposed sentence after the termination of the federal sentence.’
+“The same underlying principles which applied in the Guerrieri ease are applicable here. The petitioner owed a debt to two sovereigns, each of which had an absolute right to require full satisfaction, and such penalty must be paid.”
+In light of the foregoing, the errors claimed on behalf of Severino, that New York waived its right to extradite him by returning him to Ohio in 1959, that the court below erred in holding that New York had a right to extradite Severino, and that the court below erred in construing the intent of the parties to the Governors’ agreement, are not well taken and must be overruled.
+For the reasons above set forth, both errors assigned are overruled, the judgment of the court below affirmed and the cause remanded.
+Judgment affirmed.
+Dttppy and Troop, JJ., concur.
