@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1466"
+decided: "1938-01-19"
+citations: ["26 Ohio Law Abs. 598"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK, J. concurs; BARNES, PJ, concurs in the judgment."]
+parties: ["HOOP v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/26/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685540
+cites_cases: ["1 Oh St, 62", "117 Oh St, 393", "18 Oh St, 47", "22 Oh St 405", "23 Oh St, 339", "37 Oh St, 191"]
+---
+
+# Hoop v. State
+
+## Majority (By GEIGER, J.)
+
+OPINION
+By GEIGER, J.
+This matter is now before the court upon notice of appeal on questions of law. The matter called to the court’s attention relates not to the trial of the case, but to the sentence imposed by the court, counsel for the defendant claiming that the court did not impose the sentence authorized by the statute. This is based, first,upon the claim that under the indictment on which the defendant was found guilty, he could have been sentenced only for one offense. The indictment contains twenty separate counts, ten of which charged the defendant below with stealing certain automobiles. The specific charge as to the theft of each automobile being:
+“Did steal a motor vehicle (then described) the property of (name of the owner) the owner thereof.”
+In the case of each automobile there follows a charge as a separate count that the defendant did “purposely and feloniously take, drive and operate a certain motor vehicle (describing the same and giving the name of the owner) without the consent of -, the owner thereof.” These two counts were repeated as to ten separate automobiles.
+Upon the trial, the jury brought in a verdict as follows:
+“We the jury jpon the issues joined in this ease, do find the defendant guilty as he stands charged in the indictment.”
+The indictment was returned under §13619 GC which provides in substance that whoever steals a motor vehicle or whoever purposely takes, drives or operates any motor vehicle, without the consent of the owner thereof, etc., shall for the first offense, be imprisoned in the penitentiary not less than one year nor more than twenty years and for each subsequent- offense not less than five years nor more than thirty years. None of the counts are for other than a first offense.
+It is claimed by counsel for defendant that the first and second offense charged, to-wit, stealing and operating without consent of the owner, are as a matter of fact but one act and that if a defendant be found guilty of stealing an automobile that must include the offense of operating the same without the consent of the owner. We do not believe that this is the correct interpretation of this statute. The statute embraces four offenses appropriately described, the first two covering the stealing, which usually includes the averment of taking and carrying away. While the indictments in this case as to the theft do not include the allegation "take and carry away”, yet such an allegation is probably necessarily included in the word “steal”.
+Sec 12447 GC defines larceny as “whoever steals anything of value is guilty of larceny.”
+However, it is quite plain that two separate offenses are charged against the defendant in relation to each automobile and that while twenty counts are included in the same indictment, that is permissible under §13437-3 GC, which provides in substance that an indictment may charge two or more different offenses connected together in their commission, or different statements of the same offense or two or more different offenses of the same class of crime or offenses under separate counts. The defendant may be convicted of any number of offenses charged, and each offense upon which the defendant is convicted must be stated in the verdict.
+A verdict of guilty was returned March 25. 1.937 to the effect, as before stated, “We the jm y upon the issues joined in this case do find the defendant guilty as he stands charged in the indictment.” On the same day, March 25, 1937, the court ordered and adjudged that the defendant be imprisoned and confined in the penitentiary and kept at hard labor for a period of ten to sixty years, with a minimum of ten years. Sentence on the first count, five to thirty years, on the second count, five to thirty years, to run consecutively. Five to thirty years on the third to twentieth counts to run concurrently with the second count.
+On March 25, 1937, the sheriff was ordered to convey the defendant to the State Penitentiary, which he did on March 26th. On March 26th, motion for new trial was filed and overruled. On June 1, 1937, the defendant was brought into court, arraigned and it was then ordered that the defendant be imprisoned and confined in the penitentiary or a period of-to --years, with a minimum of-years. Sentence, one to twenty years on each of the first ten counts to run consecutively. One to twenty years each on the second ten counts (i. e. from eleven to twenty, inclusive) to run concurrently with the tenth count.
+Counsel for the defendant has advanced the argument that all of the counts set up in the indictment could have been legally covered in one count, and he asserts that this should navo been done. He also advances the claim that the fact that twenty counts were set out does not change the situation from the standpoint of sentence, and for that purpose the series of offenses is one transaction and one crime for which one sentence should have been imposed!
+We have already pointed out that under §33437-3 GC, the indictment may charge two or more offenses of the same class. Examining the indictment we are of the opinion that all the offenses are in the same class. Whether or not they were “connected together in commission” would appear only from the evidence, which we do not have before us. But we can readily infer from the nature of the charges and their close commission in point of time that they were connected together in their commission.
+Counsel relies upon State v Hennessy, 23 Oh St, 339, where it is held:
+“Where several articles of property are stolen at the same time, the transaction being the same, the whole, although they belong to different owners, may be embraced in one count oí the indictment and the taking thereof charged as one offense.”
+It is claimed by counsel that under this authority the sentence for the entire twenty counts must be imposed as if the defendant had been found guilty of a single offense only.
+It will, however, be observed that the Court was dealing with the larceny of property, all of which was stolen “at the same time, the transaction being the same.” While the indictment in the instant case covers in its several counts offenses committed in close chronological proximity, yet they were not as a matter of fact committed at the same time and as a single transaction. This, of course, Is not true as to the two offenses alleged in connection with each automobile, one being for the theft and the other for the operation of the same automobile without the owner’s consent. At the first blush we might conclude that the defendant could be guilty at most of ten offenses rather than twenty.
+It will be observed, however, that the court in the Hennessy case was dealing with larceny of the property alone and further that the holding of the court was that the several articles may be embraced in one count. The decision of the court merely established a rule that was permissive and not mandatory. We are therefore of the opinion that counsel is not correct in his claim that the several counts constituted a single offense or that only a single sentence could be imposed.
+Counsel has erroneously asserted that Hoop was jointly indicted with another defendant. We do not find this to be the case. There does appear in the transcript an affidavit against Prank Gribsby and Wendell Hoop, charging that they did steal, take and carry away one car. This affidavit seems not to have been for any purpose other than fixing the bond.^ At least, the two are not jointly indicted.
+COULD THE COURT LEGALLY IMPOSE SENTENCES TO RUN CONSECUTIVELY?
+The sentence was “one to twenty years each on the first ten counts to run consecutively. One to twenty years each on the second ten counts (i. e. from eleven to twenty inclusive) to run concurrently with the tenth count.”
+In the case of Williams v State 18 Oh St, 47, it is held: .
+“Where a party is convicted at the same time, of several crimes, each punishable by imprisonment in the penitentiary, it is not error in sentencing the defendant, to make one term 01 imprisonment commence when another terminates.”
+The decision by Scott,' J., is instructive and should be read carefully. The above case is referred to in Pickett v State 22 Oh St 405. See Eldredge v State 37 Oh St, 191; Buck v State, 1 Oh St, 62.
+This matter is discussed at length in the case of Anderson v. Brown, 117 Oh St, 393, where it is held:
+“Where the record is silent as to whether two or more sentences of imprisonment or fines on the same individual are to be executed cumulatively, the presumption obtains that the''sentencing court intended that the prisoner should serve the full aggregate of all imprisonment * * »
+The opinion by Judge Kinkade quotes at large from Williams v State, supra, and might well be interpreted as denying authority to a court to impose a sentence on severai counts to run concurrently as is done in this' case as to the last ten counts. However, this matter is not before us and we are .not called upon, to determine the effect of the decision in Anderson v Brown. See also Bates v State, 27 Oh Ap, 391, [6 Abs 146] and Opinions of Attorney General, Vol II (1932) p 1208.
+Counsel asserts that to impose the sentence such as the Court did in this case would be to subject the defendant to cruel and unusual punishment.
+If the sentences were carried out in their maximum terms, they would aggregate more than 200 years, but through the parole and pardon system the defendant’s incarceration will no doubt be held within reasonable limits, sec 2166 GC — 2210 GC, et seq.
+It is claimed by- counsel that when the court re-sentenced the prisoner on June 21st he did not vacate the sentence passed on March 25th which was erroneous. Prom the record furnished by the Prosecuting Attorney it appears that the Court did state to the prisoner that the former sentence was incorrectly pronounced and is set aside and vacated.
+We perceive no error in the second sentence. and the objection of counsel being addressed to that alone, the appeal is dismissed and the cause remanded to the Common Pleas Court to carry into execution the sentences heretofore imposed.
+HORNBECK, J. concurs; BARNES, PJ, concurs in the judgment.
