@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5280"
+decided: "1955-06-13"
+citations: ["74 Ohio Law Abs. 234"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MILLER, PJ, HORNBECK and WISEMAN, JJ, concur.", "(FESS, J, of the Sixth District, GRIFFITH and NICHOLS, JJ, of the Seventh District, sitting by designation in the Second District.)", "GRIFFITH and FESS, JJ. concur."]
+parties: ["CARMIAUX, Plaintiff-Appellee, v. CARMIAUX, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/74/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1787540
+cites_cases: ["157 Oh St 319"]
+---
+
+# Carmiaux v. Carmiaux
+
+## Majority (By THE COURT. By NICHOLS, J.)
+
+OPINION
+By THE COURT.
+Submitted on motion of the defendant-appellant seeking an order for an award of expense money and counsel fees in connection with the prosecution of her appeal. The record discloses that the action was instituted as one for divorce, brought by the husband, plaintiffappellee. The wife answered by filing a general denial and cross-petition seeking only alimony. The court denied the husband a divorce and awarded the wife the sum of “$200.00 per month until such time as (she) is able to resume work.” The wife is appealing on questions of law from the award granting her alimony. The motion is supported by an affidavit signed by William E. Knepper, Attorney, who says that the wife has incurred an expense of $183.00 for the bill of exceptions in connection with the appeal and “has incurred and will incur counsel fees in an amount which affiant estimates will be approximately $350.00 in connection with the prosecution of the appeal.”
+Although it would appear that §3105.14 R. C., expressly authorizes such an allowance, it has been held that this section is in conflict with Article IV, Section 6 of the Ohio Constitution. See Smith v. Smith, 55 Abs 449, by this court in which we hold that the court did not have jurisdiction to grant temporary alimony. See also, Dann v. Dann, 71 Abs 110; Davis v. Davis, 41 Abs 189; Beach v. Beach, case No. 2319, Montgomery County, decided by this court on March 24, 1955, 71 Abs 115.
+The motion will be overruled.
+MILLER, PJ, HORNBECK and WISEMAN, JJ, concur.
+Decided January 23, 1956.
+(FESS, J, of the Sixth District, GRIFFITH and NICHOLS, JJ, of the Seventh District, sitting by designation in the Second District.)
+No. 5280.
+OPINION
+By NICHOLS, J.
+The plaintiff instituted this action for divorce in the Common Pleas Court of Franklin County, Ohio. The defendant answered denying the grounds stated in plaintiff’s petition, and filed her cross-petition praying for alimony only.
+Upon trial, the court dismissed plaintiff’s petition, the court “being of the opinion that plaintiff abandoned defendant without sufficient cause and without making adequate provision for her support,” as appears from the separate findings of law and fact made upon request therefor.
+Upon consideration of defendant’s cross-petition for alimony, and the evidence, the court awarded defendant “$200.00 per month until such time as she is able to resume work.” The plaintiff did not appeal from the dismissal of his petition and it follows that the parties remain husband and wife, with the obligation of the husband to support her, the evidence disclosing that he had abundant property and means so to do.
+From the decree as to alimony the defendant has appealed to this court on questions of law and assigns eight grounds upon which this court is asked “to award to defendant-appellant reasonable expense reimbursement, money to pay her attorney fees, and reasonable alimony out of the property of the plaintiff-appellee, or out of his future earnings, or both, or in the alternative, should remand this case to said Court of Common Pleas for a new trial” on the issue of alimony.
+An examination of the assigned grounds of error discloses that all relate to the refusal of the trial court to allow an award to plaintiff for her reasonable expense in defending, the action brought against her and for her sustenance during the pendency of the action, and to the claimed inadequacy of the award of alimony made upon final hearing, it being claimed that the award is unfair, unjust, unreasonable, against the manifest weight of- the evidence, and contrary to law, with all of which claims this court is in full accord after thorough consideration of the evidence, requiring a reversal of the judgment of the trial court and remand of the action for further proceedings according to law.
+Since the cause must be retried on the issue of alimony alone, no detailed recitation of the evidence is now required, it being sufficient to say that the record discloses evidence from the testimony of disinterested and reliable witnesses, as well as the admission of the plaintiff, that he is operating a successful auto service station in Columbus, from which his earnings have been not less than $4592.00 in 1949, $4470.21 in 1950, $4796.53 in 1951, $6708.00 in 1952, in which year he filed this action. The record further discloses the testimony of his own accountant that his income for federal income tax purposes was much larger than the amounts above set forth. The evidence also discloses an admission by him that he had invested $14,000.00 in the property; that he owned several automobiles, a lot in Canterbury Addition of the estimated value of $8000.00 upon which he planned to build a $25,000.00 to $30,000.00 residence; that he negotiated for the purchase of the apartment building in which he and his wife resided and offered to pay $32,500.00 in cash therefor, and also build the house in Canterbury, telling his wife it would cost $40,000.00 to build the house he wanted in Canterbury, and in August, 1952, when this action was brought there was a total of $16,000.00 in his savings account, which he then withdrew and retained at the time of the trial. There was no attempt on his part to seriously controvert the testimony above referred to. Indeed the evidence is susceptible of a finding of greater earnings of plaintiff than recited above.
+The evidence discloses Mrs. Carmiaux was a devoted wife, altogether without fault and helpful to him in his business, had earned since their marriage about $8000.00 as a school-teacher, a substantial portion of which she had contributed to the marriage; that at the insistance of Mr. Carmiaux she had quit teaching school in 1946, and helped on preparing statements and keeping books; that after her husband deserted her, her health was seriously impaired, as disclosed by the report of an examining physician appointed by the trial court.
+In the face of all this evidence and particularly in the light of her impaired physical condition, the trial judge awarded her alimony in the amount of $200.00 per month and that only “until such time as she is able to resume work.” Since there was no divorce, the trial court was not authorized to make a division of the property of the parties, nor is this court permitted so to do, but the trial court had the duty to award the defendant a fair, just and reasonable amount for her sustenance and expenses, taking into account the income and property of the husband, her accustomed station in life, the manner of living to which she was accustomed, her age (561 and her impaired health and physical condition, the court applying equitable principles, this the trial court failed to do, the order of that court indicating that when her health improved sufficiently to enable her to work she would be turned out without any obligation upon the part of the husband to support his wife out of his abundance of property and earning capacity.
+Nor do we find the allowance of $200.00 made by the trial court for her expenses, including attorney fees, is adequate for that purpose. We respectfully suggest to counsel for defendant that in requesting an allowance to defendant to pay attorney fees, evidence should be introduced disclosing the services rendered and the reasonable value thereof.
+Unfortunately, under the holding of the Supreme Court in Henry v. Henry, 157 Oh St 319, this court is not authorized to make the award which we believe is required by the evidence in this case, and our only prerogative (as well as our duty) being to reverse and remand, which is accordingly ordered.
+GRIFFITH and FESS, JJ. concur.
