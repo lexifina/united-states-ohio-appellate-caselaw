@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1504"
+decided: "1989-11-22"
+citations: ["65 Ohio App. 3d 368"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Homer E. Abele, J., concurs.", "Stephenson, J., concurs in judgment only."]
+parties: ["SALZGABER et al., Appellants, v. FIRST CHRISTIAN CHURCH et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/65/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1454891
+cites_cases: ["107 S.Ct. 277", "1984 WL 4228", "284 N.E.2d 183", "30 Ohio App.2d 200", "327 N.E.2d 753", "34 Ohio App.3d 42", "42 Ohio St.2d 242", "426 U.S. 696", "443 U.S. 595", "479 U.S. 885", "516 N.E.2d 244", "59 O.O.2d 316", "71 O.O.2d 223", "789 F.2d 392", "93 L.Ed.2d 253"]
+---
+
+# Salzgaber v. First Christian Church
+
+## Majority (Grey, Judge.)
+
+Grey, Judge.
+This is an appeal from the Ross County Common Pleas Court granting the defendants’ motions to dismiss for lack of subject matter jurisdiction.
+On November 1, 1983, the plaintiffs-appellants, Ralph and Nancy Salzgaber, entered into a contract of employment to serve as co-pastors of the First Christian Church of Chillicothe, Ohio. The contract provided that the “ministry shall be terminated upon ninety (90) days notice by either party.” In 1987, plaintiffs were discharged from their employment.
+On November 6, 1987, the plaintiffs filed a complaint in the Ross County Common Pleas Court asserting five causes of action arising out of their termination. The contract of employment and church constitution and bylaws were attached. The first and second causes of action allege breach of a written and oral contract and promissory estoppel against the First Christian Church of Chillicothe. The third cause of action alleges that two church members, Clark Alexander and Forrest Traylor, tortiously interfered with their employment contract. The fourth cause of action alleges that Alexander, Traylor, and the Christian Church in Ohio published defamatory remarks concerning their conduct of the ministry and financial misdealings as co-pastors. The fifth cause of action alleges intentional infliction of severe emotional distress by Alexander, Traylor and the First Christian Church when they caused checks drawn on the First Christian Church to be dishonored and caused plaintiffs to be removed from before the congregation by officers of the Chillicothe Police Department. Reverend Howard Ratcliff, regional pastor and president of the Christian Church in Ohio, was named as a defendant but not named in any cause of action.
+The defendants filed three Civ.R. 12(B) motions to dismiss for lack of subject matter jurisdiction. The motions were premised upon the constitutional prohibition of the establishment of or the interference with the free exercise of any religion.
+Based solely upon the complaint and attachments, the court sustained the motions to dismiss. From the judgment so entered, plaintiffs have filed a timely notice of appeal to this court setting forth a single assignment of error, as follows:
+“The trial court erred to the prejudice of the plaintiffs in granting the motions to dismiss, filed on behalf of the defendants, upon the finding that the court lacked jurisdiction to entertain the complaint.”
+In order for a court to dismiss a complaint for failing to state a claim upon which relief can be granted, pursuant to Civ.R. 12(B)(6), it must appear beyond a reasonable doubt from the allegations in the complaint that the plaintiff can prove no set of facts which when construed most favorably to the plaintiff would entitle him to relief. See Zuber v. Ohio Dept. of Ins. (1986), 34 Ohio App.3d 42, 516 N.E.2d 244; and O’Brien v. Univ. Community Tenants Union (1975), 42 Ohio St.2d 242, 71 O.O.2d 223, 327 N.E.2d 753.
+The Supreme Court of the United States has established the general rule that religious controversies are not a proper subject of civil court inquiry, and that civil courts must accept ecclesiastical decisions of church tribunals as it finds them. See Serbian Orthodox Diocese v. Milivojevich (1976), 426 U.S. 696, 96 S.Ct. 2372, 49 L.Ed.2d 151.
+In Matz v. Salem Church (Jan. 25, 1984), Ross App. No. 1028, unreported, 1984 WL 4228, we stated that:
+“This court will not get into questions of orthodoxy or doctrinal integrity * * * A civil court will adjudicate disputes within religious societies only to the extent the dispute affects the civil and property rights of the parties.”
+With these general principles in mind, we must examine each of appellants’ five causes of action.
+Appellants’ first and second causes of action allege breach of a written and oral contract and promissory estoppel against the First Christian Church of Chillicothe. Appellants allege that they were assured both orally and in writing that they would be retained as co-pastors for a period of seven to ten years and relied upon these representations to their detriment. Appellants further allege that they were terminated from their employment contract without “just cause” as set forth in the constitution and bylaws of the church.
+In Jones v. Wolf (1979), 443 U.S. 595, 99 S.Ct. 3020, 61 L.Ed.2d 775, the United States Supreme Court held that a state is constitutionally entitled to resolve disputes over the ownership of church property by adopting a “neutral principles of law” approach which relies on examination of the language of deeds, the terms of local church charters, state statutes governing the holding of church property, and the provisions in the constitution of the general church concerning the ownership and control of church property.
+However, in Hutchison v. Thomas (C.A.6, 1986), 789 F.2d 392, certiorari denied (1986), 479 U.S. 885, 107 S.Ct. 277, 93 L.Ed.2d 253, the United States Court of Appeals, Sixth Circuit, discussed the “neutral principles of law” approach in a case involving the forced retirement of a minister and stated:
+“The ‘neutral principles’ doctrine has never been extended to religious controversies in the areas of church government, order and discipline, nor should it be.”
+The question of “just cause” under either an oral or written contract necessarily concerns internal church discipline governed by ecclesiastical rule, custom, and law. The allegations in this portion of appellants’ first and second causes of action state no set of facts which when construed most favorably to appellants would entitle them to relief. The common pleas court lacks subject matter jurisdiction on this portion of the first and second causes of action.
+The contract on its face does state that the ministry shall be terminated upon ninety days’ notice by either party. This is a basic contract issue and does not involve any ecclesiastical decisions. The contract itself contains a fact, which when construed most favorably to appellants, would entitle them to relief. On this narrow question the common pleas court does retain subject matter jurisdiction. A cause of action does exist on the narrow question against the First Christian Church.
+Appellants’ third cause of action alleges that two church members, Alexander and Traylor, tortiously interfered with their employment contract. Alexander and Traylor were apparently church officers. At least one had the power to cause checks to be dishonored.
+According to the constitution and bylaws of the First Christian Church, officers, such as the chairperson, vice-chairperson, secretary-clerk, treasurer and financial secretary, comprise the General Board. If involuntary termination is deemed appropriate by the General Board, the board shall make appropriate recommendations to the congregation for its vote.
+Review of subjective judgments by religious officers and bodies, such as involuntary termination of co-pastors, necessarily requires inquiry into ecclesiastical matters. “Civil courts cannot constitutionally intervene in such a dispute. Hutchison v. Thomas, supra. The allegations in appellants’ third cause of action state no set of facts which when construed most favorably to the appellants would entitle them to relief. The common pleas court lacked subject matter jurisdiction on this cause of action.
+Appellants’ fourth cause of action alleges that Alexander, Traylor, and the Christian Church in Ohio published defamatory remarks concerning their conduct of the ministry and financial misdealings as co-pastors.
+One who falsely and without a privilege to do so publishes a slander which ascribes to another conduct, characteristics or a condition incompatible with the proper conduct of his lawful business, trade, or profession is liable to the other. See Landrum v. Dombey (1971), 30 Ohio App.2d 200, 59 O.O.2d 316, 284 N.E.2d 183.
+However, inquiry by a civil court into the truth or falsity of the statements by Alexander, Traylor, and the First Christian Church in Ohio would require review of subjective judgments made by religious officers and bodies concerning appellants’ conduct of the pastorage and financial misdealings. Inquiry would be ecclesiastical in nature and constitutionally prohibited. See Hutchison v. Thomas, supra.
+The allegations in appellants’ fourth cause of action state no set of facts which when construed most favorably to the appellants would entitle them to relief. The common pleas court lacked subject matter jurisdiction on this cause of action.
+Appellants’ fifth cause of action alleges intentional infliction of severe emotional distress by Alexander, Traylor and the First Christian Church when they caused checks drawn on the First Christian Church to be dishonored and plaintiffs to be removed from before the congregation by officers of the Chillicothe Police Department.
+As we have previously stated, we may not inquire into the propriety of appellants’ involuntary termination. Once appellants were terminated from employment, the First Christian Church could use any legal means to prevent them from gaining access to church property.
+The allegations in the fifth cause of action state no set of facts which when construed most favorably to appellants would entitle them to relief. The common pleas court lacked subject matter jurisdiction on this cause of action.
+The only issue not involving ecclesiastical matters, over which the common pleas court would retain jurisdiction, is the question of whether appellants were given ninety days’ notice by the First Christian Church prior to their termination.
+The cause is reversed and remanded on this narrow question for further proceedings according to law.
+Judgment reversed and cause remanded.
+Homer E. Abele, J., concurs.
+Stephenson, J., concurs in judgment only.
