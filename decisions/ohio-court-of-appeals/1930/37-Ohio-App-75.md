@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-05-20"
+citations: ["37 Ohio App. 75", "8 Ohio Law Abs. 442"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Middleton, P. J., and Blosser, J., concur."]
+parties: ["The Vulcan Corp. v. Hanzel."]
+source_url: "https://static.case.law/ohio-app/37/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1323091
+cites_cases: ["116 Am. St. Rep., 741", "21 A. L. R. 914", "21 A. L. R., 942", "75 O. S. 270", "75 Ohio St., 270", "78 O. S. 331", "78 Ohio St., 331", "79 N. E., 478", "85 N. E., 541"]
+---
+
+# Vulcan Corp. v. Hanzel
+
+## Majority (Mauok, J.)
+
+Mauok, J.
+Charles J. Hanzel filed his amended petition against the defendant, the Vulcan Corporation, for something over $8,000 claimed to be due him by defendant as the reasonable value of services performed by him as salesman and manager, and for expenses incurred by him in the performance of his duties. The defendant answered, denying generally. A jury was waived and recovery had by the plaintiff. This proceeding is to reverse that judgment.
+It is argued here that the judgment is not only opposed to the weight of the evidence, but that there is no evidence of a probative character to support the judgment. This court has no disposition to reverse the judgment as being opposed to the weight of the testimony if the testimony that was received was competent. Practically the only question then is whether the trial court erred in holding that the plaintiff was a competent witness.
+William J. Burke was until his death a large owner of the stock of the Vulcan Corporation, and was its general manager. Mr. Burke died prior to the trial of this case. The plaintiff’s testimony goes to conversations had by him with Mr. Burke by which he was employed by the corporation to perform the services for which he brings suit. The competency of the plaintiff’s testimony turns upon the interpretation to be given to Section 11495, General Code. That section provides that a party shall not testify when the adverse party is an executor or administrator of a deceased person, or defends under such deceased person. Mr. Burke’s estate is not a party to this proceeding nor does the Vulcan Corporation claim under him. He was only an officer and agent of the corporation.
+The plaintiff in error cites us to Section 789 of Jones’ Pocket Edition of Evidence, which supports the view that, where the agent who acted for a corporation principal in a transaction is dead, the opposite party cannot testify to that transaction. Mr. Jones is a Wisconsin lawyer, and that is the rule in Wisconsin, made.so by statute. In a more complete work by Mr. Jones, called “Commentaries on Evidence” (2d Ed.), this particular question is treated in a more extensive manner. In volume 5, Section 2258, of the larger work, he points out that in some jurisdictions a corporation is protected against the testimony of the adverse party to a transaction after the death of its agent who transacted that particular business, but “in other jurisdictions it is held, in the absence of express language in the statute extending the benefit of the disqualifying provisos to corporation principals whose agents have died, that there is no adequate reason for extending the protection of such provisos beyond the express language thereof and that a corporation principal is no more entitled to such protection than an ordinary or individual principal. ’ ’
+The plaintiff in error likewise cites us to Georgia authorities that seem to support its position. But the Georgia holdings proceed from a particular statute of that state.- A note in 21 A. L. R., 942, says:
+“With respect to agents of corporations, the Georgia statute prohibits the opposite party from testifying as to transactions had with an agent, since deceased, of the corporation,” etc.
+We find nothing in the authorities cited, therefore, that impels us to search beyond the law of Ohio as expressed in the statute quoted and in the opinions of our Supreme Court. As we have pointed out, the statute does not exclude this testimony by its terms. It is urged that a broader policy of exclusion than that expressed by the statute should be followed because of the admonition in the last sentence of Section 11495, General Code, that “when a case is plainly within the reason and spirit of the next three preceding sections, though not within the strict letter, their principles shall be applied.”
+This peculiar language has been frequently before the courts, but we find no instance in which the courts have employed this language to make incompetent a witness not made incompetent by the express language of the statute. The general purpose of the three statutes, which we are admonished to construe liberally, is not to render witnesses incompetent, but to render more parties competent to testify than were permitted to testify at common law. The general purpose of these statutes was to make all parties competent as witnesses, preserving such exceptions to competency as the Legislature saw fit. Judge Summers says of this language, in Cockley Milling Co. v. Bunn, Admx., 75 Ohio St., 270, 276, 79 N. E., 478, 480, 116 Am. St. Rep., 741, 9 Ann. Cas., 179:
+“It will be observed that the law is not that the exceptions are to be multiplied by judicial construction, but that the principles of the three sections shall be applied when a case, not within the letter, is plainly within their reason and spirit.”
+If this language has any operative effect at all, it must be that it requires that the three sections mentioned, having for their purpose the enabling of more people to testify than could testify at common law, should be liberally interpreted to accomplish the purpose of broadening and not narrowing .the field of competency.
+The Legislature having then provided generally that all parties to an action may testify, notwithstanding the common-law rule to the contrary, except so far as they are disqualified by some provision of the statute itself, we find no authority for holding that a party shall be excluded because the agent or officer of a corporation, with whom he had a transaction died after the claimed transaction took place. In Powell, Admx., v. Powell, Admx., 78 Ohio St., 331, 85 N. E., 541, 543, the court held that the power to exclude a witness turned upon the meaning of the word “party,” as used in the section referred to, and said that it was not a generic term covering litigants and witnesses, but that “the party referred to is a party to the action, and not one who may be interested in the results of the litigation; a party to the suit and so known on the record.”
+It is manifest that if Mr. Burke were living he could not be a party to this action, and that the real party, the Vulcan Corporation, cannot invoke any of the provisions of Section 11495.
+The judgment is affirmed.
+Judgment affirmed.
+Middleton, P. J., and Blosser, J., concur.
