@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "03CA008294"
+decided: "2004-01-21"
+citations: ["155 Ohio App. 3d 718"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Carr and Whitmore, JJ., concur."]
+parties: ["In re E.T."]
+source_url: "https://static.case.law/ohio-app-3d/155/cases/0718-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 639271
+cites_cases: ["141 Ohio App.3d 760", "1986 WL 8539", "1994 WL 725151", "2004-Ohio-196", "450 N.E.2d 1140", "5 OBR 481", "5 Ohio St.3d 217", "595 N.E.2d 436", "648 N.E.2d 908", "691 N.E.2d 264", "71 Ohio App.3d 789", "753 N.E.2d 277", "81 Ohio St.3d 312", "98 Ohio App.3d 487"]
+---
+
+# In re E.T.
+
+## Majority (Baird, Judge.)
+
+Baird, Judge.
+{¶ 1} Appellant, Christina Tucker, appeals from the judgment of the Lorain County Court of Common Pleas, Juvenile Division, which dismissed her motion for change of custody on the grounds of improper jurisdiction. We affirm.
+I
+{¶ 2} E.T. was born to appellant on October 31, 1988. In May 1999, Lorain County Children Services obtained custody of E.T. after she was declared a dependent child. Then, in September 2000, Daniel Matteson (“Matteson”), E.T.’s apparent biological father, obtained permanent custody. E.T. has resided with Matteson in Arizona since that time. The record indicates that appellant agreed, both verbally and in writing, to Matteson’s permanent custody in Arizona at that time. More than two years later, on May 2002, appellant filed a motion for change of custody seeking permanent custody of E.T.
+{¶ 3} Following that motion, in September 2002, the court filed a journal entry requiring Matteson to undergo genetic testing to determine whether he was actually E.T.’s biological father. The court ordered appellant to pay the cost of that testing, while permitting her the right later to petition the court for reimbursement of those costs from Matteson. Appellant appeals from the determination that she, a party previously declared indigent, should originally bear the costs of that testing. According to the record, Matteson, to date, has not yet had genetic testing done.
+{¶ 4} On December 9, 2002, Matteson filed a settlement statement outlining the contacts that E.T. currently has with Arizona. Then, in February 2003, he filed a motion to stay proceedings and dismiss for improper venue. He argued that, since all information and witnesses surrounding the child existed in Arizona, Ohio was an improper venue for this case. After a response by appellant, Matteson withdrew the motion without prejudice on March 26, 2003.
+{¶ 5} After entertaining the original motion to change custody for nearly a year, the trial court entered a judgment on May 15, 2003, stating that it either did not have jurisdiction over the case under R.C. 3109.22, or, in the alternative, that it chose not to exercise jurisdiction because Arizona was a more convenient forum under R.C. 3109.25. Appellant timely appeals, raising four assignments of error. For ease of discussion, we will address the first assignment of error last.
+II
+Assignment of Error II
+“The trial court erred in determining that it lacked jurisdiction pursuant to Section 3109.22 of the Ohio Revised Code.”
+{¶ 6} R.C. 3109.22(A)(1) provides:
+“No court of this state that has jurisdiction to make a parenting determination relative to a child shall exercise that jurisdiction unless * * * [t]his state is the home state of the child at the time of commencement of the proceeding, or this state had been the child’s home state within six months before commencement of the proceeding[.]”
+{¶ 7} The trial court held that the child did not live in the state at the time, or within six months of, the commencement of the proceeding. We disagree.
+{¶ 8} R.C. 3109.21(E) defines “home state” as “the state in which the child, immediately preceding the time involved, lived with the child’s parents, a parent, or person acting as parent, for at least six consecutive months.” While E.T. did live in Arizona with a parent for more than six consecutive months preceding appellant’s motion to change custody, E.T. did not live outside Ohio at the time the original child custody proceeding commenced in May 1999. At that time, E.T. had resided with her mother in Ohio for more than the requisite six consecutive months. It is clear under this statute that the court, therefore, could exercise jurisdiction in this case. See Howe v. Schulte (2001), 141 Ohio App.3d 760, 765, 753 N.E.2d 277. But this does not end our inquiry.
+Assignment of Error III
+“The trial court erred in determining that this court was an inconvenient forum.”
+{¶ 9} While the court may have continuing jurisdiction under R.C. 3109.22 to hear appellant’s motion for change of custody, R.C. 3109.25(A) permits a court to, in its discretion, “decline to exercise its jurisdiction * * * if it finds that it is an inconvenient forum to make a parenting determination under the circumstances of the case and that a court of another state is a more appropriate forum.” A court may, on its own motion, determine that the court is an inconvenient forum and dismiss the proceeding as long as the court transmits the relevant information to the clerk of court for the forum the court finds is more appropriate. See R.C. 3109.25(B), (E), and (H).
+{¶ 10} In making that determination, the court should consider whether it is in the interest of the child for the alternative state to assume jurisdiction, and may take into account all of the circumstances including (1) if another state is the child’s home state; (2) if another state has a closer connection to the child or his family; (3) whether substantive evidence related to the child’s present or future care, education, training, or personal relationships are more readily available in the other state; and (4) whether the parties have agreed to a separate, appropriate forum. R.C. 3109.25(C).
+{¶ 11} Given that the language of the statute is permissive, thus leaving the determination to the discretion of the trial court, we review the court’s judgment for an abuse of discretion. See Howe, 141 Ohio App.3d at 764, 753 N.E.2d 277; Conner v. Renz (Dec. 29, 1994), 4th Dist. Nos. 94CA1605 and 94CA1606, 1994 WL 725151; see, also, Fischer v. Fischer (July 30, 1986), 9th Dist. No. 2144, 1986 WL 8539. An abuse of discretion is more than an error or law or judgment, but rather implies that the court’s attitude was unreasonable, arbitrary, or unconscionable. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 219, 5 OBR 481, 450 N.E.2d 1140.
+{¶ 12} In this particular case, the record indicates that E.T. has resided in Arizona with her father since September 2000. E.T. attends school, plays softball, performs in her high school symphony band, enjoys extracurricular activities, and participates in local summer diversity programs in Arizona. Appellant approved the original grant of permanent custody to Matteson knowing that both Matteson and E.T. would reside in Arizona—this is not a case of a parent fleeing the jurisdiction with his or her child. The trial court considered the little information it had and determined that Arizona was a far more appropriate forum to determine any dispute regarding parental rights. Given that E.T. has now resided in Arizona for more than three consecutive years, we can hardly find that the trial court abused its discretion in choosing to decline jurisdiction in favor of a court that would have more direct access to all things concerning that child.
+{¶ 13} Appellant argues that Justis v. Justis (1998), 81 Ohio St.3d 312, 691 N.E.2d 264, dictates that the Ohio court must exercise jurisdiction because it has continuing exclusive jurisdiction. This is simply not what Justis stands for. Justis specifically held that “[u]nder [R.C. 3109.21] * * *, a state court that has rendered an initial custody decree has exclusive jurisdiction over the ongoing custody dispute if that state has continuing jurisdiction.” (Emphasis added). Justis, 81 Ohio St.3d at 318, 691 N.E.2d 264. Justis involved two states fighting for exclusive jurisdiction—the Ohio court chose not to relinquish jurisdiction. In this particular case, the court has decided to decline continuing jurisdiction in favor of a more appropriate forum. Justis, therefore, is inapplicable to the case at bar. See Howe, 141 Ohio App.3d at 766, 753 N.E.2d 277.
+Assignment of Error IV
+“The trial court erred in determining that this court was an inconvenient forum without an evidentiary hearing.”
+{¶ 14} Appellant next urges us to find that a trial court is required to hold an evidentiary hearing before finding that it is an inconvenient forum under R.C. 3109.25. Appellant alleges that the record does not contain enough evidence upon which the court could make a decision in this matter. We disagree.
+{¶ 15} While an evidentiary hearing may be preferable, failure to conduct a hearing is not necessarily error. Mayor v. Mayor (1991), 71 Ohio App.3d 789, 795-796, 595 N.E.2d 436; In re Skrha (1994), 98 Ohio App.3d 487, 648 N.E.2d 908. In this particular case, appellant does not contest that E.T. currently resides with Matteson in Arizona. Appellant also does not contest that E.T. has lived there for more than the three years immediately before these proceedings. Beyond the presence of her mother here in Ohio, there is no suggestion on the record to show any other significant connections with this state. The appellant does not suggest the existence of any evidence that would have led the court to any result other than the determination that Arizona, as the undisputed home state of the child for multiple years, is simply a more convenient forum in which to make a parental rights determination. Appellant’s fourth assignment of error is overruled.
+Assignment of Error I
+“The trial court erred in ordering genetic testing providing that the indigent appellant pay for same.”
+{¶ 16} Given our determination as to appellant’s second assignment of error, this assignment of error is moot. The trial court, in its discretion, relinquished jurisdiction in this case.
+Ill
+{¶ 17} We overrule appellant’s four assignments of error and affirm the judgment of the Lorain County Court of Common Pleas, Juvenile Division.
+Judgment affirmed.
+Carr and Whitmore, JJ., concur.
+. At the time of the original permanent custody order, the record does not indicate any dispute by appellant at the final hearing as to whether Matteson was the father. Appellant now alleges that Matteson may not be the father and that the other possible father has passed away and is unavailable for genetic testing.
+. R.C. 3109.22(A) requires that one of four different tests be satisfied before a court exercises jurisdiction. In this case, only the first possibility is relevant.
