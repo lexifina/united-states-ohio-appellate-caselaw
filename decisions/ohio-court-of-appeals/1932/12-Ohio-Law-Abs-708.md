@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 302"
+decided: "1932-02-29"
+citations: ["12 Ohio Law Abs. 708"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and KUNKLE, JJ, concur."]
+parties: ["FOOS ENGINE CO et v BLAKE"]
+source_url: "https://static.case.law/ohio-law-abs/12/cases/0708-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1642786
+---
+
+# Foos Engine Co. v. Blake
+
+## Majority (ALLREAD, J.)
+
+ALLREAD, J.
+The first claim made by counsel for the plaintiffs in error is that the Board of Appraisers and the Court of Common Pleas erred in assessing any sum of money in payment for the preferred stock.
+It is claimed that the preferred stock was not in controversy by the action of the company on September 29, 1927; that the only stock readjusted was the common stock, and that therefore there was no right to submit to said appraisers the preferred stock, and the appraisers had no right to assess the valuation thereof, and the court had no right to order the payment of the same assessed by the appraisers against the defendant company.
+We have carefully examined this question. We do not find in the record in the Court of Common Pleas that there was any objection as to the valuation by the appraisers of the preferred stock. The exact amount of preferred and common stock which Blake held was set forth in the petition and admitted in the answer. The appraisers appointed by the court evidently took the preferred stock by actual or virtual consent and assessed a valuation thereon. There was no objection to the assessment of such valuation before the trial court. No doubt the able counsel, there representing' the company and the receiver, felt that the readjustment of the common stock and the right of the common stockholders in the various meetings and in those of the board of directors of the company had some influence over the control and management of the preferred stock. In view, however, of this situation, we can not see any objection to the appraisement of the preferred stock and the order of the trial court in assessing the amount due on the preferred stock.
+The amount assessed for the preferred stock also for the common stock is objected to. This question was contested both before the appraisers and before the Court of Common Pleas. Upon a consideration of all the evidence offered we reach the conclusion that the assessment made for the preferred stock at par is justified in the record.
+As to the assessment made for the common stock, we think this is debatable. In .addition to the oral testimony there are two reports of Ernst & Ernst, expert auditors, and another report of Batelle & Batelle. The first Ernst report was made from the books of the company as a going concern. This report was made in March, before September 28th. The next report of Ernst and Ernst was in December following the date upon which the plaintiff was entitled to have his stock valued. The showing in the second report was not as good as that in the first report. By taking the two reports and bringing them down to the actual date upon which this assessment is to be made it reveals a condition of affairs supporting the finding of the appraisers’ commission and of the court. Batelle & Batelle were brought into the case some time later than the other audits and made an appraisal of the affairs of the company after the new officers had taken charge of its affairs. They then by a process of relating back to September 28, 1927, made an appraisal as of that date. Under the Batelle appraisement, if we are to assume that it is correct, there would be no justification of the amount of appraisal for the common stock. We are therefore called upon to determine as to which report of these expert accountants is the more credible in view of the evidence. If the Ernst & Ernst account is the more credible, and reflects the weight of the evidence then this judgment may stand. If on the other hand the Batelle expert accounting is the more credible in view of the evidence, and is accepted by this court, it would require a revision of these findings. Considering these expert accounts in connection with the evidence we reach the conclusion that the Ernst & Ernst account is based upon its finding that the Foos Engine Company was a going concern.
+The Batelle audit was made after the company had practically slowed down and was not as active as it had been originally. To this extent the Batelle audit is to be taken as one wherein the more doubtful assets of the company were properly appraised. We cannot escape the conclusion that the true basis of the affairs of the company are between those represented by the Ernst & Ernst audit and as represented by the Batelle audit. We have reached the conclusion that while the assessment made for the preferred stock must stand, yet the assessment made for the common stock should be reduced so as to provide for an appraisement of the common stock at the rate of $50.00 per share instead of $70.
+If the plaintiff in the court below, H. C. Blake, will consent to reduction of the amount of the appraisement and assessment upon the common stock so as to make the amount payable the sum of $50.00 per share the judgment as so modified will be affirmed. Otherwise the judgment must be reversed and cause remanded.
+It appears that a small portion of the stock of Blake had been deposited, and in the petition and also in the judgment provision was made for the redeeming of said stock under the ord'er of this court. We think this order was correct in this particular. If the plaintiff accepts the remittitur, based upon the reduction in the value of the common stock, a judgment may be rendered herein for the amount found due by this court. Judgment decree accordingly.
+HORNBECK and KUNKLE, JJ, concur.
