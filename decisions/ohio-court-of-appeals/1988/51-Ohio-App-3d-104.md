@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "88AP-216"
+decided: "1988-07-14"
+citations: ["51 Ohio App. 3d 104"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Strausbaugh and Bowman, JJ., concur."]
+parties: ["Evans Investment Company, Appellant, v. Limbach, Tax Commr., Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/51/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712832
+cites_cases: ["112 Ohio St. 306", "147 N.E. 513", "157 N.E. 2d 311", "169 Ohio St. 65", "8 O.O. 2d 33"]
+---
+
+# Evans Investment Co. v. Limbach
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+Evans Investment Company, appellant, appeals the decision of the Board of Tax Appeals denying its application for tax exempt status of real property titled in its name, which property is located at 50 West New England Avenue, Worth-ington, Ohio.
+Appellant asserts that the commissioner and the Board of Tax Appeals erred in finding that appellant was not entitled to the real estate tax exemption because appellant’s lease did not constitute a title transfer.
+On June 22, 1978, Evans Investment Company, an Ohio corporation, leased a parcel of land located at 50 West New England Avenue, Worth-ington, Ohio, to the Worthington Historical Society, a non-profit corporation which is tax exempt under Section 501(c)(3), Title 26, U.S. Code, for purposes of moving a historical structure to the premises tobe used for museum and historical library purposes. The initial term of the lease was from May 8, 1978 until December 31, 2000, unless terminated sooner by law or by the terms of the lease. At the end of the initial term, the lease shall be renewed automatically for subsequent successive twenty-year periods unless the historical society elects to terminate the lease. Terms of the lease required that the historical society, at its expense, move a historical building to the premises not later than December 31, 1978 and make improvements to the lot, including walks, lighting and landscaping. The historical society agreed to pay the sum of one dollar for each twelve-month period of the lease and, as additional rent, to pay all charges for utility services used on the premises, all real estate taxes and general and special assessments levied against the premises, and liability and property damage insurance. The lease provided that Evans Investment may, at its option, terminate the lease when any of the following conditions occur: (1) destruction of the historical building located on the premises if the lessee is unable to repair it within a reasonable time; (2) removal of the historical building from the premises; (3) failure to place a historical building on the premises by December 31,1978; or (4) discontinuance of the use of the historical building for a museum and historical library purposes.
+The application for a tax exempt status was filed by Evans Investment as the titled owner to the premises. However, as noted from the lease, the beneficiary of that status would be the Worthington Historical Society since it has the obligation of paying such taxes during the terms of the lease.
+Appellant seeks exemption of the property for tax purposes pursuant to R.C. 5709.12 and 5709.121. As pertinent, R.C. 5709.12 provides as follows:
+“(B) * * * Real and tangible personal property belonging to institutions that is used exclusively for charitable purposes shall be exempt from taxation. *'* *”
+R.C. 5709.121 defines “exclusive charitable use” in pertinent part as follows:
+“Real property and tangible personal property belonging to a charitable or educational institution * * * shall be considered as used exclusively for charitable or public purposes by such institution * * * if it is either:
+“(A) Used by such institution, * * * under a lease, sublease, or other contractual arrangement:
+“(1) As a community or area center in which presentations in music, dramatics, the arts, and related fields are made in order to foster public interest and education therein;
+“(2) For other charitable, educational, or public purposes[.]”
+The parties agree that if the Worthington Historical Society owned the fee simple of the property, the property would be exempt for tax purposes under these sections. Therefore, the issue is whether, for the purposes of the application of these sections, the Worthington Historical Society is considered the owner, i.e., whether the property “belonged” to it, because it possessed a lease which is renewable in twenty-year segments indefinitely at its option.
+Appellant relies upon the cases of Ralston Steel Car Co. v. Ralston (1925), 112 Ohio St. 306, 147 N.E. 513, and Carney v. Cleveland City School Dist. Pub. Library of Cuyahoga Cty. (1959), 169 Ohio St. 65, 8 O.O. 2d 33, 157 N.E. 2d 311, for the proposition that a real estate lease renewable forever shall be considered as real property held in fee for consideration of ownership purposes.
+In Ralston, the Supreme Court held that where the owner of real estate leases the same to another and to his heirs and assigns for a term of ninety-nine years renewable forever, the estate created by such instrument becomes a freehold estate in real property. In jRalston, the consideration was the dower interest in the property. The court noted the' common-law derivation for the classification of estates in real property and stressed the fact that there was a permanent lease which extended not only to the grantee but also to his heirs and assigns.
+In Carney, the lease was a ninety-nine year lease renewable for two such terms given to the public library for library use. The library was considered the owner of the property for the purposes of tax exemption. There was no discussion in the opinion about any conditions for termination of the lease. However, the Supreme Court, in deciding Carney based upon Ralston, stated as follows:
+“Although it is apparent that there is a clear distinction between a 99-year lease which is renewable forever and a 99-year lease which is renewable for two such terms, and we do not intend to extend the doctrine of the Ralston Steel Car case beyond the holding there, we do conclude, in line with the general thought behind that case and the statute considered therein, and from what we have said herein, that property held under a 99-year lease, renewable for two such terms, by an entity, which under the law is entitled to have its property exempt from taxation, is exempt from taxation to the same extent as property held in fee by such entity.” Id. at 69-70, 8 O.O. 2d at 36, 157 N.E. 2d at 314.
+Appellant seeks to extend the holdings of Ralston and Carney further by arguing that any lease renewable forever or indefinitely at the option of the lessee constitutes a permanent freehold to be given the same status as property held in fee. In our opinion, that extension of the Carney doctrine should not be made. Ninety-nine year leases renewable forever were given a special status at common law which status has carried over into the law of Ohio. However, leases of a shorter duration were not given that status, even at common law. If appellant’s argument is to be carried to its logical conclusion, a one-year lease renewable forever at the option of the lessee would create a fee simple interest in the lessee. Obviously, the shorter the term of lease, the less likely it is to be “permanent.” Moreover, there are provisions within the lease herein for termination of the lease. While those provisions are beyond the control of the lessor, nevertheless under some circumstances the lessor can elect to terminate the lease. The beneficial interest retained in the instant case by the lessor is arguably a greater interest than would be retained if the lease were a ninety-nine year lease renewable forever or for two terms. Hence, the Board of Tax Appeals did not err in finding that a tax exemption was not available because, for the purposes of the application of R.C. 5709.12 and 5709.121, the property belonged to the Evans Investment Company rather than the Worthington Historical Society.
+Appellant’s assignment of error is overruled, and the decision of the Board of Tax Appeals is affirmed.
+Decision affirmed.
+Strausbaugh and Bowman, JJ., concur.
