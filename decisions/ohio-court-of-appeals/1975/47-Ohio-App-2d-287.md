@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "74AP-215 and 75AP-226"
+decided: "1975-12-23"
+citations: ["47 Ohio App. 2d 287"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["StívAXJsjbauoh, P. J., and IIoumns, J., concur."]
+parties: ["City of Columbus, Appellant, v. Scott, Appellee."]
+source_url: "https://static.case.law/ohio-app-2d/47/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1476850
+cites_cases: ["262 F. 2d 392", "310 U. S. 296", "337 U. S. 1", "39 Ohio St. 2d 107", "403 U. S. 15", "405 U. S. 518"]
+---
+
+# City of Columbus v. Scott
+
+## Majority (Bexley, J.)
+
+Bexley, J.
+This is a consolidated appeal from a judgment of the Franklin County Municipal Court. The notice of appeal reads as follows:
+“Notice is hereby given that the city of Columbus, Plaintiff in the above-captioned case, hereby appeals to the Court of Appeals of Franklin County, Ohio, Tenth Appellate District, from the final order dismissing the complaint against the Defendant [pursuant to the sustaining of the Defendant’s pretrial motion to dismiss based on the uneonstitutionality of the municipal ordinance upon which it was predicated] on the 5th day of May, 1975.”
+The trial court aptly summarized the decision dismissing the complaint in the following part of the closing paragraph:
+“* * Since the ordinance’s standard is less than the Constitutional requirement, the ‘reckless’ portion of the ordinance must fall. It is an unconstitutional attempt to punish speech. The defendant is charged with conduct under the offending portion. The complaint must be dismissed. ’ ’
+The defendant was charged with violating Columbus Code 2307.04(B) (importuning), which reads in its entirety:
+“No person shall solicit a person to engage in sexual activity with the offender, when the offender knows such solicitation is offensive to the other person, or is reckless in that regard.”
+The record shows the complainant alleged that on November 9, 1974, defendant solicited him to engage in sexual activity “being reckless in knowing that such solicitation would be offensive” to complainant. The case was decided by the trial court entirely upon the motion to dismiss, and the complaint was dismissed.
+Subsequently, this appeal was filed, including the following assignment of error:
+“A municipal ordinance which prohibits the reckless offending of another person by a solicitation to engage in sexual activity, if authoritatively construed to apply to fighting words only, contains a constitutionally sufficient culpable mental state, and a complaint based on such ordinance should not have been dismissed' by the trial court on the grounds of a constitutionally insufficient culpable mental state. ”
+There is no contention by counsel for either party,, in. their uniformly well-written briefs, that the United States Supreme Court as well as the Ohio Supreme Court have plainly specified that free speech in this country is virtually unrestricted, excepting “obscenity” and “fighting words, ’ ’ as judicially determined. The present state .of the law is summarized by Justice Herbert in the majority opinion of Cincinnati v. Karlan (1974), 39 Ohio St. 2d 107, at pages 109-110:
+“A considerable line of United States Supreme Court cases has- consistently, and insistently, held that the utter-, ing of words which are ‘rude’ or ‘insulting’ may not be prohibited, ‘although vulgar or offensive.’ Id., at page 219. However, as . noted in the syllabus of our original Karlan, when the words of rudeness or insult reach a point where, they become ‘fighting words’ they may be regulated' by criminal statute and their utterance may be constitutionally punished.
+“As has been made abundantly clear by the United States Supreme Court, a criminal statute capable of punishing spoken words cannot stand constitutional muster unless ‘authoritatively construed’ by state courts to be inapplicable to speech which is protected by the First and Fourteenth Amendments. Lewis, supra, and cases cited.
+■ “The principal pull and haul between state courts and the high court has centered around a definition of ‘protect-, ed speech..’ However, there appears to be no room left for argument today. A majority of the United States Supreme Court has .said- that no matter how rude, abusive, offensive,' derisive, vulgar, insulting, crude, profane or opprobrious, spoken words may seem to be, their utterance may not be: made- a crime unless they are fighting words, as defined, by that tribunal. Furthermore,- the court has stated 'that those .descriptive .words in and of themselves are constitutionally overbroad and must be rendered unsusceptible of application- to protected speech by appropriate judicial. decision.”
+Furthermore, there is no question that whatever consenting adults may choose to do privately, in this area of human activity, is legal in Ohio at the present time. Moreover, as noted above, the United States Supreme Court lias consistently held that, regardless of taste, tradition, or common acceptance, free speech is protected unless it falls into the category of “fighting words.” Cantwell v. Connecticut (1940), 310 U. S. 296; Terminiello v. Chicago (1949), 337 U. S. 1; Cohen v. California (1971), 403 U. S. 15; Gooding v. Wilson (1972), 405 U. S. 518. The nub' of this case is that the ordinance makes a criminal offense of the social interrelationships and protected free speech rights of otherwise consenting adults. Additionally, the ordinance, in its present form, lacks definite standards and is constitutionally vague, as well as indefinite. It also involves two separate intentions: one, of the person using the words, and the other, of the individual hearing them.
+An ordinance may be enacted in this area to accomplish the same objectives within present constitutional standards. This, of course, is a legislative function, beyond present judicial determination, since the ordinance does not meet the standard of a carefully drawn proscription of protected speech and is susceptible of application to protected expression. It is possible to hold a word, clause, or part of an ordinance consitutional, and other parts void; hence, where a part of the ordinance is unconstitutional,' but may be separated from the other provision, the validity of the latter is unaffected.
+The trial court recognized this principle in the decision. Apparently, however, since the complaint was dismissed, and considering the notice of appeal quoted above, the trial court upheld the proposition specified in 10 Ohio Jurisprudence 2d'266, Constitutional Law, Section 186, that: “If the provisions of an act are interdependent and interwoven, the entire act must stand or fall together,'and where the provisions are dependent upon each other, the validity of one provision will vitiate all of the provisions.” The trial court, while suggesting that an instruction to the jury could save the ordinance from its constitutional prohibition, neverthcless, dismissed the action, and indicated, while not so stating categorically, that the provisions of the ordinances are interdependent. Its finding of uneonstitutionality is written in the decision as follows:
+“Even though the Columbus ordinance deals with invitations to engage in ‘ sexual activity, ’ the Constitutional problem is not solved in favor of the ordinance. Since sexual activity is illegal only under specific circumstances, and since the ordinance is not limited to illegal sexual activity, and since an invitation to sexual activity is not, necessarily, obscene, the ordinance is not limited by its own wording to ‘obscene’ speech. Cohen v. California, 403 U. S. 15, 20 (1971); Miller v. California, 413. U. S. 15, Part II (1972); Eastman Kodak Co. v. Hendricks (1958), 262 F. 2d 392.
+“In the same way in which invitations to engage in sexual activity are not, necessarily, obscene, those invitations are not, necessarily, fighting words. In fact those invitations could easily be classified as loving words.
+“This analysis would suggest that the ordinance is unconstitutional since it is not limited to fighting or obscene words.”
+We cannot hold these statements by the trial court to have been error. Thus, we find the trial court was correct in its determination that the ordinance in its present form is unconstitutional. Consequently, the assignment of error is not well taken and is overruled. For the foregoing reasons, the judgment Of the trial court is affirmed.
+Judgment affirmed.
+StívAXJsjbauoh, P. J., and IIoumns, J., concur.
