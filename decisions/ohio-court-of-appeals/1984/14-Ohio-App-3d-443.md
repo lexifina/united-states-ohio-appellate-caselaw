@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "83AP-758"
+decided: "1984-03-20"
+citations: ["14 Ohio App. 3d 443"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reilly and Norris, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Broadus, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/14/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709748
+cites_cases: ["6 Ohio St. 3d 420"]
+---
+
+# State v. Broadus
+
+## Majority (Whiteside, J.)
+
+Whiteside, J.
+Defendant, Harry D. Broadus, appeals from his conviction in the Franklin County Court of Common Pleas of carrying a concealed weapon and having a weapon under disability, both offenses involving the same weapon, and raises four assignments of error, as follows:
+“1. (A) The trial court erred and abused its discretion in limiting the scope of cross-examination of the state’s chief prosecuting witness thereby denying appellant a fair trial and due process of law as guaranteed by the Fourteenth Amendment to the United States Constitution.
+“(B) The trial court erred and abused its discretion in refusing to allow defense counsel to examine a defense witness on relevant evidence thereby depriving appellant of a fair trial and due procees of law as guaranteed by the Fourteenth Amendment to the United States Constitution.
+“2. The appellant’s convictions were against the manifest weight of the evidence and not supported by sufficient credible evidence.
+“3. The trial court erred in sentencing appellant on a firearm [sic] and to a three year period of actual incarceration on a firearm specification, in violation of R.C. 2941.25, the Fifth, Eighth and Fourteenth Amendments to the Constitution of the United States, and Article I, Sections 9 and 10 of the Constitution of the State of Ohio.
+“4. The appellant’s Fourteenth Amendment right to due process of law was violated when the trial court refused to instruct the jury pursuant to a request for a specific jury instruction when the requested instruction was appropriate and necessary and when the substance of the requested instruction was not included in the general charge.”
+The state has conceded error with respect to both branches of the first assignment of error. A review of the record indicates the appropriateness of the concession, inasmuch as the trial court did unduly restrict cross-examination of the state’s key witness, a police officer, with respect to possible bias of the witness against defendant, as well as testimony from another witness to the same effect. The first assignment of error is, therefore, well-taken.
+By the second assignment of error, defendant contends that the conviction is against the manifest weight of the evidence. There is no merit to this contention. The testimony of the state’s key witness, the police officer, is ample to support a conviction. The fact that there are inconsistencies in his testimony, including his referring to the weapon as being a six (rather than five) shot revolver, does not destroy the credibility of the witness. The trier of the fact could find that the officer was merely mistaken and otherwise believe his testimony. The second assignment of error is not well-taken.
+By the third assignment of error, defendant contends that he should have been convicted of only one offense pursuant to R.C. 2941.25(A), rather than of both carrying a concealed weapon in violation of R.C. 2923.12 and having a weapon under disability in violation of R.C. 2923.13. The two are not crimes of similar import and can be committed by the same conduct only when that conduct is coupled with other conduct. Thus, while both involve having a deadly weapon or dangerous ordnance, R.C. 2923.13 requires that the deadly weapon be a firearm. Furthermore, one carrying a weapon is in violation of R.C. 2923.13 only if he is under a disability as described in that statute, which includes having previously been convicted of a felony. Moreover, concealment of the weapon is not an element under R.C. 2923.13 but is the primary element under R.C. 2923.12. There can be a violation of R.C. 2923.12 only if the deadly weapon is concealed, irrespective of whether or not the person is under a disability. The offenses are different, and some different conduct must be involved, even though some of the conduct may be identical. Thus, the so-called Blockburger test mentioned in State v. Johnson (1983), 6 Ohio St. 3d 420, does not apply here. Defendant was properly sentenced for his violation of R.C. 2923.12, as well as his violation of R.C. 2923.13.
+Defendant’s other contention is that the enhanced-punishment provision of R.C. 2929.71 should not be applied for essentially the same reasons that he contends there should be no multiple punishment. R.C. 2929.71(A)(2) provides that a term of three years’ actual incarceration shall be imposed in addition to any other indefinite sentence imposed where “[t]he offender is also convicted of * * * a specification charging him with having a firearm on or about his person or under his control while committing the felony.” There is an exception made for violations of R.C. 2923.12, but not R.C. 2923.13. Clearly, R.C. 2929.71 applies, and R.C. 2941.25 does not apply, inasmuch as only enhanced punishment is involved, not conviction of a separate crime involving identical conduct. The legislative scheme has not been to make it a separate crime to commit a felony while having a firearm on or about one’s person but, rather, to enhance the punishment when that occurs, although requiring a factual determination that the person guilty of the felony did, in fact, have a firearm on or about his person at the time.
+Nevertheless, as to defendant’s constitutional contentions, no prejudice has occurred as of this point, since we find it necessary to remand the cause for a new trial upon the concession of the first assignment of error. Thus, the third assignment of error is not well-taken.
+Essentially the same is true of the fourth assignment of error, even though the trial court should give an instruction as requested to the effect that a police officer is not by virtue of that status deemed to be more credible than any other witness but, instead, his credibility and the weight to be given the testimony is to be judged upon the same standard as other witnesses. However, under the circumstances of this case, no prejudice could result from the refusal to give the requested special instruction since the trial court excluded the evidence that would have necessitated the instruction, which is the subject of the first assignment of error. Since the cause has been reversed and remanded for a new trial, and, since the only witnesses testifying were employed by the police department, we find no prejudicial error. The fourth assignment of error is not well-taken.
+For the foregoing reasons, the first assignment of error is sustained, and the second, third and fourth assignments of error are overruled; and the judgment of the Franklin County Court of Common Pleas is reversed, and this cause is remanded to that court for further proceedings in accordance with law consistent with this decision.
+Judgment reversed and cause remanded.
+Reilly and Norris, JJ., concur.
