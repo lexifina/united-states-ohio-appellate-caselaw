@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-05-26"
+citations: ["39 Ohio App. 136"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cushing, P. J., and Hamilton, J., concur."]
+parties: ["Caldwell & Taylor Corp. v. Nieberhelman et al., d. b. a. St. Bernard Battery & Tire Co."]
+source_url: "https://static.case.law/ohio-app/39/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1325430
+cites_cases: ["25 Ohio St., 580", "79 Ohio St., 469", "87 N. E., 1137"]
+---
+
+# Caldwell & Taylor Corp. v. Nieberhelman
+
+## Majority (Ross, J.)
+
+Ross, J.
+This cause is here on appeal from the court of common pleas of Hamilton county. The issues are presented by a petition, amended answer and reply.
+The petition alleges that the plaintiff is a corporation engaged in the blending, sale, and distribution of motor vehicle fuels, oils, and greases, and is the assignee of a lease in which defendants were lessees, which lease contained the following provisions:
+“And said lessees, for themselves, their executors, administrators and assigns, do hereby covenant and agree with the said lessor, its successors and assigns, that this lease is executed upon the express condition that the lessees, their agents, tenants, sub-lessees, successors or assigns, in the use and occupancy of said premises, will throughout said period operate a gasoline filling station thereon and in such operation will purchase the motor vehicle fuels, oils, greases, anti-freeze compound or other like merchandise usually sold by a gasoline filling station from the lessor or Caldwell and Taylor, Inc., their successors or assigns, to the exclusion of similar merchandise marketed or distributed by any other person, firm, or corporation.
+“Lessor further agrees to sell and deliver, or to cause to be sold and delivered to lessees motor vehicle fuels, oils, greases, anti-freeze compound or other like merchandise usually sold by a gasoline filling station and such as are described herein and as required under the terms hereof, to be purchased from lessor, at such times and in such quantities as the lessees in the conduct of their business may require and at prices which will conform to the estab-. lished prices for lessor’s products to their filling stations generally, effective at the.time of such deliveries. In the event lessor should be unable or fail to supply the merchandise herein referred to in the quantities required or within twenty-four (24) hours after the lessees shall have requested such deliveries, then and in such event the lessees may purchase merchandise from other persons, firms or corporations until the lessor or Caldwell and Taylor, Inc., shall be ready and able to resume sales and deliveries as herein provided. ’ ’
+The petition further alleges that the defendants, contrary to the provisions of the lease, are selling an Ethyl gas, a commodity not sold by plaintiff, but one sold by a competitor of plaintiff, from whom defendants purchase same, thereby causing plaintiff irreparable loss and injury, for which plaintiff has no adequate remedy at law, and against which continued acts plaintiff prays for an injunction.
+The amended answer admits the execution and text of the lease, and for a first defense interposes a general denial. As a second defense, the defendants allege that at the time the lease was executed the original lessors were distributors of a motor vehicle fuel, “Fleet Wing Ethyl,” which was one of the products .contemplated by the terms of the lease to be sold by the lessors and purchased by the lessees, and that the plaintiff, after succeeding to the rights of the original lessors, endeavored to substitute for “Fleet Wing Ethyl” “Sohio Ethyl,” and that such substitution was in violation of the terms of the lease, and that defendants, being unable to purchase “Fleet Wing Ethyl” from the plaintiff, were compelled, and under the terms of the lease authorized, to purchase the same elsewhere.
+The reply denies that the substitution is a breach of plaintiff’s contract.
+The evidence shows that the original lessors leased to the defendants a fully equipped filling station and the land where located, and that the lease contained the provisions above quoted and was assigned to the plaintiff, distributor of motor vehicle fuels and not the manufacturer thereof, who ceased to furnish to defendants “Fleet Wing Ethyl,” a fuel which the lessors were distributing at the time of the execution of the lease, and tendered in lieu thereof “Sohio Ethyl,” being a commodity similar to “Fleet Wing Ethyl,” and equally efficient as a motor vehicle fuel. The defendants refused to accept the substitution and purchased “Fleet Wing Ethyl” elsewhere from competitors of plaintiff, and sold the same in the filling station leased from plaintiff.’ The lease does not mention any particular fuel by name.
+A. B. Caldwell testified:
+“Q. I will ask you to tell his Honor whether or not Red Chief and Fleet Wing Ethyl are one and the same? A. Well, not the same name. They are both Ethyl gasolines sold under different trade names. Each company has a trade name in which they market their Ethyl gasoline, bearing in mind that Ethyl gasoline of one name is practically the same quality as Ethyl gasoline of another particular trade name, because the quality of this fuel is controlled and kept up to a certain standard by the Ethyl Gasoline Corporation, who are manufacturers of the ingredient that goes into the gasoline.
+“ Q. Is there any substantial difference in quality or operating efficiency between any of the Ethyls ?
+“Mr. Leeker: I object, I don’t think that is material.
+‘ ‘ The Court: I will permit him to answer.
+“Q. Yes or no? A. Well, I would say the quality would be so small, if any, between one Ethyl and another Ethyl gas that it would not make much difference in the performance of the internal combustion motor.”
+The relief sought in this proceeding is to prevent the defendants from using the premises and equipment of plaintiff, leased to the defendants, for the sale of a commodity not sold by plaintiff, but, on the contrary, a commodity purchased from a competitor.
+The lease definitely provides against such action on the part of the defendants, the lessees.
+It is not- claimed that the plaintiff has failed to furnish a commodity provided for in the lease, but that it has failed to furnish a certain type of commodity sold at the time the lease was entered into. It is claimed that the provision in the lease as to purchase and sale of commodities embraces only such types as were distributed by the lessors at the time the lease was executed. The lessors and their assignee were not manufacturers. They were and are merely distributors, and were known to be such by the defendants at the time the lease was executed. No trade-names or designation of types of fuels are used in the lease. The lease covers a period of ten years. It must have been apparent to all parties that the distributors might not be able to secure the identical commodity throughout the term of the lease. In order to do this it would have been necessary to secure the assurance of the manufacturer of these commodities, which it appears would have-been impracticable. The language of the lease in failing to definitely mention any particular type of commodity conforms to the conditions limiting the ability of the lessor. There is no foundation for the construction that the lease requires delivery of any particular type of fuel.
+We hold that the plaintiff is entitled to an injunction against the sale of a competitor’s commodity upon the leased premises, under authority of Stines v. Dorman, 25 Ohio St., 580, and in conformity with the reasoning and holding in Chris. Diehl Brewing Co. v. Konst, 12 C. C. (N. S.), 577, 20 C. D., 782, affirmed by the Supreme Court, Konst v. Chris. Diehl Brewing Co., 79 Ohio St., 469, 87 N. E., 1137.
+Injunction allowed.
+Cushing, P. J., and Hamilton, J., concur.
