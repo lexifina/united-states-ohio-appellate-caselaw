@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "826"
+decided: "1963-05-23"
+citations: ["93 Ohio Law Abs. 293"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["France and Brown, JJ., concur."]
+parties: ["City Loan and Savings Company, Plaintiff-Appellant, v. Ludwig et, Defendants-Appellees."]
+source_url: "https://static.case.law/ohio-law-abs/93/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816944
+---
+
+# City Loan & Savings Co. v. Ludwig
+
+## Majority (Donahue, P. J.)
+
+Donahue, P. J.
+This appeal was filed as one of law and fact. Appellant failed to file the necessary bond and the appeal was dismissed as to law and fact but retained on questions of law.
+Plaintiff-appellant, City Loan and Savings Company and defendant-appellee, Grace Rupert, were victims of an automobile dealer whose fast shuffling of titles and duplicate titles left a complicated mess, to say the least.
+This dealer took an order from Grace Rupert for a new car on November 18, 1960. On December 17, 1960, a car, as per order, was delivered to Mrs. Rupert, and paid for by her. At the same time she was given an invoice describing the car accurately and bearing the correct serial numbers. After a number of requests, Mrs. Rupert was given a title on February 3, 1961. She assumed that the title bore the correct serial number and found no reason to check it. In fact, it bore the serial of another car, the whereabouts and disposition of which do not appear in this case.
+Meanwhile, the manufacture’s title bearing the serial of the car in Mrs. Rupert’s possession was pledged to a bank. Later, yet, the dealer in one of his routine shenanigans, filed an affidavit showing that the original title to this car was lost and secured a duplicate title. He then conveyed, under this duplicate, the title to the ear in question to defendant Ludwig, who was one of his salesmen. The car was immediately mortgaged to plaintiff-appellant, who sent the dealer their check for $2,-068.23. It appear that one of this dealer’s regular routines was the conveying of titles to this salesman, with a mortgage. Mortgagee would pay the dealer, then the dealer would make the payments until the ear was otherwise disposed of. Thus he enlarged his own credit by utilizing that of his salesmen. Ludwig, of course, knew all about this arrangement and participated actively, if not financially. In this particular case, there is no evidence that Ludwig had actual knowledge that the title he received and mortgaged bore the serial of the car in Mrs. Eupert’s possession, and not of the car that he thought he was obtaining and which he was using. There is no evidence that appellant actually knew of the switch in titles at the time they advanced their money.
+However, when the dealer’s operation was blowing up, appellant appears to have dug up the facts swiftly. It took a cognovit judgment against Ludwig, made no effort to enforce its mortgage lien, but levied execution on the car shown in Ludwig’s title which they listed as in Mrs. Eupert’s possession.
+We should note the fact above, which the parties seem to overlook occasionally in their briefs and arguments, that appellant’s action here, was taking judgment on the note and then levying on the car which was listed in Ludwig’s name.
+Unimportant in this action, we believe, is the fact that the original manufacturer’s certificate was returned by the bank to the dealer at some point but its whereabouts is now unknown.
+Under the above facts situation, with a levy of execution under a judgment being made on a car which stands on the records in Ludwig’s name, but which is and has been in Mrs. Eupert’s possession, we believe it is fundamental that the creditor levying can rise no higher than the debtor. The creditor is not an innocent purchaser for value. His rights, insofar as the car is concerned, originate at the moment he levied execution.
+Section 4505.04, Eevised Code, is cited as controlling in this case. Under this section, which strictly regulates titles to automobiles, it has been held that the record title is the only evidence of ownership. This section was designed, we believe, to settle any questions arising between innocent purchasers, but has been interpreted to control all evidence of title. Therefore there is no question that if Ludwig and Mrs. Eupert were on otherwise equal footing Ludwig’s record title would control.
+Mrs, Eupert, having been brought into the case in the course of tbe levy of execution, filed a cross-petition, securing a temporary injunction, restraining the levy, and asking tbat ber title be corrected to show tbe serial number of tbe car tbat sbe bad in ber possession all along was tbe serial number shown on ber title. She alleged fraud.
+Mrs. Rupert unquestionably was an innocent purchaser for value. Sbe received tbe car she bad ordered, paid for it, and thought sbe bad title to it. Tbe fact tbat sbe did not was due to a clerical error to say tbe least. If this were all there were to tbe case, sbe would certainly be permitted to prevail in any action to correct ber title.
+As mentioned above, appellant’s rights rise no higher than Ludwig’s. What is bis position? Is be an innocent purchaser for value as was Mrs. Rupert, thus putting him on tbe same plane? Tbe record of title shows be purchaser a car from tbe dealer, bearing tbe serial of tbe car in Mrs. Rupert’s possession. He did not know or believe this to be so. He thought tbe deal was for an entirely different car. Appellant thought so, too. What Ludwig did know was tbat tbe deal was strictly a dummy deal. He did not intend to purchase tbe car. He entered the deal as a favor, or as part of bis job. If tbe car were sold tbe next day, be would have no voice in tbat sale. He bad no control of tbe car. He knew tbat tbe deal was intended to officially fool tbe finance company. Tbat company may quite possibly have known what tbe real deal was and, if so, was not as innocent as it seems. However, Ludwig did know tbat be was just a stand-in for tbe dealer and at tbe dealer’s convenience and for bis benefit. Tbe dealer was still tbe practical owner of tbe car.
+Therefore, any title tbe dealer would give to Ludwig would be tainted with bis own misdeeds. Tbe dealer’s knowledge of bis other machinations with titles would cloud any title be might give. He was charged with tbe knowledge tbat tbe title be gave to Mrs. Rupert was in error, whether tbat error was intentional or otherwise. Therefore, any attempt to transfer tbat title to bis dummy agent, Ludwig, would be a constructive fraud to say tbe least, and would not convey a valid title as against a completely innocent purchaser. And since Ludwig did not receive a valid title, no levy of execution could reach it. Appellee, Rupert, haying the only real claim, is entitled to the relief requested.
+The judgment of the Common Pleas Court must be and hereby is affirmed.
+France and Brown, JJ., concur.
