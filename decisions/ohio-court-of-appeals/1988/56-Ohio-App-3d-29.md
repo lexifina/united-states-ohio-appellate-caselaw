@@ -1,0 +1,60 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA-7542"
+decided: "1988-11-14"
+citations: ["56 Ohio App. 3d 29"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putman, J., concurs.", "Wise, J., concurs in judgment only."]
+parties: ["Brown, Appellant, v. Yothers, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/56/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709504
+cites_cases: ["21 Ohio St. 2d 21", "22 OBR 129", "22 Ohio St. 3d 94", "254 N.E. 2d 681", "377 N.E. 2d 794", "38 Ohio St. 2d 85", "488 N.E. 2d 877", "50 O.O. 2d 44", "55 Ohio St. 2d 27", "67 O.O. 2d 90", "9 O.O. 3d 16"]
+---
+
+# Brown v. Yothers
+
+## Majority (Hoffman, J.)
+
+Hoffman, J.
+This personal injury action arises out of an automobile accident which occurred on April 13,1986, involving plaintiff-appellant, Lisa K. Brown, who filed a complaint against defendant-appellee herein, Ruth E. Yothers, on July 18, 1986. According to appellant, as a result of the accident, she sustained head injuries, including a skull fracture and a permanent “bilateral” hearing loss. During the pendency of her action against Yothers, appellant sought a second medical opinion on the issue of whether any surgery was available to restore or improve her hearing.
+Brown sought this second opinion from a Dr. William Lippy of Warren, Ohio, who advised her that her hearing loss was permanent. However, this physician apparently also voluntarily opined that appellant’s loss of hearing was not causally related to the subject auto accident. The record is cloudy as to how appellee discovered that Dr. Lippy rendered his opinion on the causal relationship, but appellee attempted to depose Dr. Lippy and obtain office records related to his examination of Brown. Invoking the physician-patient privilege found in R.C. 2317.02(B), appellant objected to the proposed taking of the deposition, and it was cancelled. Likewise, none of the requested office records was provided to appellee. After being advised that the Lippy deposition had been rescheduled, appellant moved the trial court (Court of Common Pleas of Stark County) for a protective order to prohibit the deposition. After hearing the motion, the court ordered that the deposition should go forward. As a result of this order, appellant filed a complaint with this court of appeals for a writ of prohibition, then subsequently filed a notice of appeal of the trial court’s judgment denying her motion. The trial court stayed the deposition pending the outcome of the action for a writ of prohibition.
+By judgment entry filed May 23, 1988, this court denied plaintiff-relator Brown’s complaint for the writ, stating that “[w]e conclude that as to the non-waiver of the physician-patient privilege argument in the case at bar, relator has not demonstrated that the order was unauthorized by law.”
+After our entry cited supra, appellant then pursued her appeal to us and now raises the following single assignment of error:
+“The trial court erred in ordering the discovery deposition of appellant’s treating physician in the absence of a waiver of the physician-patient privilege.”
+The first issue requiring discussion is the “finality” of the trial court’s order allowing appellee to take the deposition. Appellee maintains that the order is not final and appealable and thus not subject to immediate appellate review, while appellant maintains the order is final and appealable. Both parties rely upon Humphry v. Riverside Methodist Hosp. (1986), 22 Ohio St. 3d 94, 22 OBR 129, 488 N.E. 2d 877, for their respective but opposing positions.
+Humphry involved Riverside Methodist Hospital’s appeal of a trial court order compelling disclosure of information regarding non-party patients. The court of appeals dismissed the appeal on “no final appealable order” grounds. In reversing the appeals court, the Supreme Court of Ohio found that the trial court’s order was a final and appealable order by applying the two-prong test contained in R.C. 2505.02. To meet that test, the subject order must “affect a substantial right” and must have been made in a “special proceeding.” Upon the authority of Humphry, this court determines that the instant trial court order is a final and appealable one and satisfies the two elements of the test noted supra.
+As in Humphry, the information sought to be used by appellee does certainly affect a substantial right, viz., nothing less substantial than privileged medical information which, as appellant has demonstrated, continues to be of a private and confidential nature existing only between her and her physician.
+As to the second element, the Humphry court stated as follows:
+“Discovery proceedings are not considered to be special proceedings because any harm from erroneous discovery has been held to be correctable upon appeal. Kennedy v. Chalfin (1974), 38 Ohio St. 2d 85 [67 O.O. 2d 90]. However, where the harm caused by the order cannot be corrected on appeal, there can be an exception to the general rule. * * *”
+We hereby determine that our instant situation, which involves the disclosure of confidential and private patient information, qualifies as “an exception to the general rule.”
+We now proceed to discuss the merits of the final order under review.
+This case involves only one issue:" Should appellant be permitted to invoke the protection of privilege as provided in R.C. 2317.02(B), or is appellee permitted to depose Dr. Lippy and procure office records related to his examination of appellant? There are only two avenues which would permit ap-pellee to obtain the confidential information she seeks: (1) plaintiffs waiver of privilege, or (2) via Civ. R. 16(6), a rule created in 1970 to ease and speed discovery as to medical reports and hospital records. As pointed out by appellant, Civ. R. 16(6) was promulgated after the Supreme Court of Ohio ruled as follows:
+“The rule of waiver of privilege may be adopted by legislative enactment. However, until such time as it is so adopted, a personal injury litigant does not waive the physician-patient privilege merely by filing his petition, and a court seeking to compel disclosure of personal medical records exceeds its jurisdiction.” (Emphasis added.) State, ex rel. Lambdin, v. Brenton (1970), 21 Ohio St. 2d 21, 24, 50 O.O. 2d 44, 46, 254 N.E. 2d 681, 683.
+Civ. R. 16 reads in pertinent part:
+“A court may adopt rules concerning pretrial procedure to accomplish the following objectives:
+it % ‡ ifc
+“(6) The exchange of medical reports and hospital records;
+“The producing by any party of medical reports or hospital records does not constitute a waiver of the privilege granted under Section 2317.02, Revised Code.”
+In other words, Civ. R. 16(6) is an exception to a general protection against being compelled to disclose confidential information. Absent a waiver, and obviously none took place in the case sub judice, appellee is entitled to obtain only medical reports and hospital records. Appellee has failed to provide this court with any authority demonstrating why she, in the instant case, should be permitted to expand the rule to discover information related to the Brown-Lippy examination.
+That Civ. R. 16(6) applies to hospital records and medical reports exclusively was capably argued to the trial court at the April 22,1988 protective order motion hearing. Appellant stated:
+“If * * * [appellee’s counsel] is simply going after the office records, then we have a single issue as to whether or not the Rule 16(6) language, saying that the exchange of medical reports and hospital records then is expanded by Ohio law to include a doctor’s office records, and that really seems to be the crux of our disagreement of whether or not that information is discoverable.”'(Emphasis added.)
+Appellee’s response to the single issue of whether she should benefit from the narrow provisions of Civ. R. 16(6) was, and continues to be, that the information obtained cannot be used at trial.
+Piv. R. 16(6) does not permit the disclosure of any and all privileged medical information on the basis that, although disclosed and obtained, the information cannot be used at trial. That approach effectively undercuts the policy forming the basis of the privilege, i.e., the reliance on the part of the holder of the privilege that there be no disclosure to anyone. One writer has succinctly stated that “ ‘[t]he privilege is that the confidential matter be not revealed, not that it be not used against the holder of the privilege or any other.’ ” Lempert & Saltzburg, A Modern Approach to Evidence (1977) 610.
+Additionally, appellant correctly points out that if the revised R.C. 2317.02(B) (said revised statute effective January 5, 1988) was the operating statute contained within Civ. R. 16(6) for purposes of her complaint and this appeal, the mere filing of the complaint would constitute a waiver and complete discovery (the variety desired by appellee herein) would be allowable. However, the instant case is controlled by Civ. R. 16(6) and that rule’s incorporation of the “old” R.C. 2317.02(B). Appellant maintains in her brief:
+“If the old R.C. § 2317.02(B) and Civ. R. 16(6) placed no limits on the discovery of privileged medical information, then why did the legislature address the issue? The case at bar is controlled by prior case law, and Civ. R. 16(6) as adopted back in 1970. These limitations on the exchange of medical information must be enforced.”
+Also, the “scope of discovery” has been set forth in the Ohio Civil Rules as follows:
+“Unless otherwise ordered by the court in accordance with these rules, the scope of discovery is as follows:
+“(1) In General. Parties may obtain discovery regarding any matter, not 'privileged, which is relevant to the subject matter * * *.” (Emphasis added.) Civ. R. 26(B).
+In addition to Civ. .R. 16(6), our resolution of the instant privilege issue turns on an analysis of State, ex rel. Floyd, v. Court of Common Pleas (1978), 55 Ohio St. 2d 27, 9 O.O. 3d 16, 377 N.E. 2d 794. This court takes exception to appellee’s distortion of Floyd’s holding. At page 7 of her brief, appellee paraphrases the Floyd, holding as follows:
+“In this case, the Court held that disclosure of plaintiff’s complete ‘medical package,’ including medical reports and hospital records, was necessary as it could lead to other admissible evidence.”
+The Supreme Court did not use the above words as appellee informs us it did. What the Supreme Court did order in Floyd was a denial of the requested writ of prohibition which, if granted, would have prevented defense counsel from “obtaining whatever hospital records might have been compiled upon the plaintiff.” (Emphasis added.) Floyd, supra, at 27, 9 O.O. 3d at 16, 377 N.E. 2d at 794.
+We emphasize the phrase “hospital records” to clarify what subject matter was at issue in Floyd. That it was plaintiff’s “complete medical package,” which might involve the taking of a deposition and office notations, is the invention of appellee herein, and not the subject matter of the Floyd case or court.
+The Floyd court applied Civ. R. 16(6) and ordered the exchange of hospital records as provided for in the rule. If hospital records were the object of the cause sub judice, then Floyd would be squarely applicable and we would invoke it without hesitation. To the contrary, the narrow and specific holding of the per curiam Floyd decision cannot be extrapolated to provide any more authority than what the Supreme Court sets forth.
+We conclude that Civ. R. 16(6) establishes only two exceptions to the statutory privilege embodied in R.C. 2317.02(B), viz., medical reports and hospital records. Appellee provided no authority to the court below, and none to us, that the rule should be expanded to include office records and the taking of a deposition.
+The sole assignment of error is sustained and the judgment of the Court of Common Pleas of Stark County is reversed.
+Judgment reversed.
+Putman, J., concurs.
+Wise, J., concurs in judgment only.
