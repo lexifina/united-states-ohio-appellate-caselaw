@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1935-06-03"
+citations: ["51 Ohio App. 354"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Overmyer and Carpenter, JJ., concur."]
+parties: ["Owens v. Fulton, Supt. of Banks."]
+source_url: "https://static.case.law/ohio-app/51/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1347190
+---
+
+# Owens v. Fulton
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+S. H. Squire, having succeeded Ira J. Fulton as Superintendent of Banks, has been substituted as defendant herein by order of court.
+The action is in this court on appeal by the defendant from a decree of the Court of Common Pleas finding that the trust estate of plaintiff has a general claim for $11,000 against the assets of The Ohio Savings Bank & Trust Company, now in process of liquidation by the defendant.
+The question first presented arises on a motion of the plaintiff to dismiss the appeal of the defendant for the reason that it was not perfected within thirty days after the rendition of the final decree of the Court of Common Pleas. The decree of that court was journalized on March 9, 1935. On April 12, thirty-four days after the rendition of that decree, the defendant filed a praecipe in the Court of Common Pleas directing the clerk thereof to transmit to the Court of Appeals a transcript of the entries, pleadings, etc., enumerated in Section 12236, General Code, which was done by the clerk on that day.
+The defendant, being an officer of the state, is excused by Section 348, General Code, from giving an undertaking when desiring to appeal to the Court of Appeals from an order or judgment of the Court of Common Pleas. This section now reads as originally enacted, April 6, 1859, 56 Ohio Laws, 240, except for formal changes made in a subsequent general revision of the statutes of Ohio. Its substance and effect are the same as when originally passed. The section reads in part:
+“No undertaking or security shall be required on behalf of the state or an officer thereof, in the prosecution or defense of any action, writ or proceeding.”
+This section does not require the giving of notice of an intention to appeal, nor does it provide how or within what time such appeal shall be perfected.
+Section 12236, General Code, provides that:
+“Forthwith, upon the perfecting of an appeal, the clerk of the common pleas court shall make a true transcript of docket and journal entries, including the final judgment in the cause, which, with the original pleadings and other papers he shall deliver at the office of the clerk of the court of appeals not later than the first day of its next term thereafter.”
+The next term of the Court of Appeals, after the entry of the final decree of the Court of Common Pleas, commenced on May 13.
+Section 12236, General Code, imposes no duty upon the clerk of the Court of Common Pleas to do anything thereunder until “the perfecting of an appeal,” whereupon he shall “forthwith” proceed as therein directed. Therefrom it follows that although neither a bond nor notice of intention to appeal is a prerequisite to an appeal by a state officer, nevertheless the clerk in some way must be advised of his desire to appeal before the clerk is called upon to act, and, until the clerk does act by the transmission to the Court of Appeals of the transcript, pleadings, etc., as provided by Section 12236, General Code, no appeal has been perfected.
+The claim of the defendant is that the thirty-day limitation provided by Section 12226, General Code, relates only to those required thereby to. give an undertaking to perfect an appeal, and that since Section 348, General Code, contains no such limitation, he is exempt therefrom; which is to say that there is no limitation of time within which the ‘ ‘ state or an officer thereof” is required to proceed on appeal to the Court of Appeals, and no method expressly provided as to how it shall be done. Prior to the amendments to the state Constitution adopted in 1912 appellate jurisdiction and the procedural steps incident thereto were statutory. Section 12226, General Code, as it now reads, post-dates the state Constitution as amended in 1912. The first similar statute was Section 2 of an act regulating appeals, passed March 23, 1852, and found in 50 Ohio Laws, 93. Since then the wording of this statute has been changed many times, as an examination of its legislative history will disclose. As amended April 25, 1904, 97 Ohio Laws, 394, the section, then numbered 5227, Revised Statutes, read:
+“A party desiring to appeal his cause to the circuit court shall, within thirty days after the judgment or order is entered on the journal of the court, give an undertaking with sufficient surety,” etc.
+By the codification of 1910, Section 5227, Revised Statutes, became Section 12226, General Code. As thus changed it differs only in that the Circuit Court becomes the Court of Appeals and the position therein of the word “shall” is changed. Section 12226, General Code, provides:
+“A party desiring to appeal his cause to the court of appeals within thirty, days after the judgment or order is entered on the journal of the court, shall give an undertaking,” etc.
+The present Ohio Constitution provides merely that Courts of Appeals shall have appellate jurisdiction in chancery cases, and unless the limitations fixed by Section 12226, General Code, apply to an appeal by the defendant, then, as he contends, there is no limitation of time within which he may proceed, although, if the constitutional provision is self-executing, a right of appeal exists. If this is the situation then the only apparent penalty attaching thereto would be that if execution were had on an adverse judgment or decree before an appeal was perfected an appeal would then be too late to be effective. In view of the peculiar change in Section 12226, General Code, in the transposition of the word “shall,” it would seem not a too specious interpretation of the statute to assume that the legislature had some purpose in mind in making it. As it now reads it does not say, as theretofore, that “a party desiring to appeal” shall, “within thirty days after the judgment or order is entered on the journal of the court, give an undertaking,” etc., but does say:
+“A party desiring to appeal his cause to the court of appeals within thirty days after the judgment or order is entered on the journal of the court, shall give,” etc.
+Although a state officer is excused from giving an undertaking as a prerequisite to an appeal to the Court of Appeals from a decree of the Court of Common Pleas, and is not required to give notice to the court of his intention to appeal, reason suggests that there should be some limitation of time within which such appeal must be perfected and that the General Assembly so intended. Section 348, General Code, relates only to the release of those designated therein from the obligation of giving “an undertaking or security.” Section 12226, General Code, is general in its terms so far as relates to the imposed limitation of time, and its obvious intent and object are to require any “party desiring to appeal his cause to the court of appeals within thirty days” to act within that time either by giving a bond, or, if exempt therefrom, by directing the clerk of the Court of Common Pleas to proceed in accordance with Section 12236, General Code.
+Construing these statutes together there seems to be no incongruity or injustice in the conclusion reached, and surely it accords with the long-established and well-recognized practice in that regard. The motion of the plaintiff is therefore granted.
+Motion to dismiss appeal granted.
+Overmyer and Carpenter, JJ., concur.
