@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+docket: "18686"
+decided: "1998-08-12"
+citations: ["129 Ohio App. 3d 346"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reece, J., concurs.", "Baird, P.J., dissents."]
+parties: ["In re DISSOLUTION OF MARRIAGE OF BRIGGS."]
+source_url: "https://static.case.law/ohio-app-3d/129/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 61000
+cites_cases: ["11 OBR 459", "11 Ohio App.3d 279", "1995 WL 434403", "1998 WL 46757", "465 N.E.2d 476", "602 N.E.2d 385", "619 N.E.2d 1030", "649 N.E.2d 880", "76 Ohio App.3d 482", "85 Ohio App.3d 273", "98 Ohio App.3d 748"]
+---
+
+# In re Dissolution of Marriage of Briggs
+
+## Majority (Dickinson, Judge.)
+
+Dickinson, Judge.
+Page A. Briggs (f.k.a. Page Wilson) has appealed from an order of the Summit County Common Pleas Court, Domestic Relations Division, that terminated the obligation of her former husband Douglas A. Wilson to pay spousal support. The trial court based its order upon its finding that Briggs was living in a state of cohabitation in violation of a condition of Wilson’s obligation to pay spousal support. Briggs has argued (1) that the trial court incorrectly determined that she was living in a state of cohabitation, and (2) that, even if she was living in a state of cohabitation, the trial court incorrectly terminated her spousal support. Wilson has cross-appealed from the trial court’s determination that his support obligation terminated on the date he filed his motion to terminate support rather than on the earlier date on which he became unemployed. This court reverses the order of the trial court because Briggs was not living in a state of cohabitation.
+I
+The parties were granted a dissolution of marriage on May 8, 1992. A separation agreement entered into by the parties was adopted by the trial court and merged into its final order. The separation agreement obligated Wilson to pay spousal support to Briggs at the rate of $9,231 every four weeks for ten years and at the rate of $4,154 every four weeks for five years thereafter. The agreement also provided:
+“Said spousal support shall terminate earlier only upon the Wife’s death, remarriage, or cohabitation.
+"* * *
+“In the event' Husband’s income from employment or self-employment, which is defined as salary and incentive compensation inclusive of amounts voluntarily deferred, is involuntarily reduced to less than $300,000.00 per year, his obligation to pay spousal support shall be reduced to 35% of such income.”
+On July 8, 1996, Wilson was involuntarily terminated by his employer and ceased making support payments to Briggs. On October 3, 1996, Wilson moved to terminate support, but he did so on the basis of Briggs’s alleged cohabitation with Rondall Woodall, a retired minister. Briggs moved for an order finding Wilson in contempt and for an order granting her judgment in the amount of all unpaid spousal support.
+During a hearing before a magistrate to consider the motions, Briggs testified on the issue of cohabitation, and Wilson testified on issues related to the termination of his employment. Following the hearing, the magistrate determined that Briggs was living in a state of cohabitation with Woodall. As a result of that finding, the magistrate recommended that the trial court grant Wilson’s motion to terminate spousal support as of October 3, 1996, the date on which Wilson filed his motion. The magistrate also determined that Wilson should be ordered to pay spousal support arrearages of $26,040.54.
+Both parties filed objections to the magistrate’s decision. The trial court overruled the objections and adopted the magistrate’s decision.
+II
+Briggs’s assignments of error are (1) that the trial court incorrectly determined that she was living in a state of cohabitation, and (2) that, even if she was living in a state of cohabitation, the trial court incorrectly terminated her spousal support. Specifically, she has argued that there was no evidence that she received support from, or provided support to, Woodall.
+A
+The trial court based much of its finding of cohabitation on a decision of the Sixth District Court of Appeals in which that court wrote that, when considering the issue of cohabitation, the trial court should look to three principal factors: “(1) an actual living together; (2) of a sustained duration; and (3) with shared expenses with respect to financing and day-to-day incidental expenses.” Moell v. Moell (1994), 98 Ohio App.3d 748, 752, 649 N.E.2d 880, 883. The Sixth District also recognized, however, that the trial court may consider other relevant criteria, including the behavior and intent of the parties. Id. Other criteria that may be considered include whether there was a common residence and whether the parties regarded themselves as having a marriage-type relationship. See Piscione v. Piscione (1992), 85 Ohio App.3d 273, 275-276, 619 N.E.2d 1030, 1031-1032. “Whether the parties have assumed obligations, including support, equivalent to those arising from a ceremonial marriage is a highly persuasive factor.” Moell, supra, at 752, 649 N.E.2d at 883.
+“Cohabitation” implies more than mere sexual relations between two parties. Thomas v. Thomas (1991), 76 Ohio App.3d 482, 485, 602 N.E.2d 385, 387. “ ‘Cohabitation,’ when used in a divorce decree as a condition for termination of spousal support, is used as a substitute for ‘remarriage.’ ” Gatto v. Gatto (July 19, 1995), Summit App. No. 17121, unreported, at 3, 1995 WL 434403. The condition is used to preclude an ex-spouse from eluding termination of spousal support as a consequence of remarriage, while obtaining the financial benefits of remarriage. See Taylor v. Taylor (1983), 11 Ohio App.3d 279, 280, 11 OBR 459, 460-461, 465 N.E.2d 476, 477-478.
+Deciding what constitutes cohabitation as it relates to the termination of spousal support involves a consideration of the rationale behind spousal support itself. See Thomas, 76 Ohio App.3d at 485, 602 N.E.2d at 387. Spousal support “is provided for the needed support of the ex-spouse and, if the ex-spouse is living with another person to the extent that the other person provides support or is supported, then the underlying need for [spousal support] is reduced or does not exist.” Id. In the legal sense, cohabitation implies that financial support is being provided by the new partner or for the new partner. Id. Without a showing of financial support, merely living with an unrelated member of the opposite sex is insufficient, in and of itself, to require termination of spousal support. Id.
+B
+In this case, Briggs testified that she met Woodall during May 1994. The two began dating during July or August 1994. During September 1994, Briggs traveled to Tucson, Arizona, with Woodall. During December 1995, she bought a town home there for which she paid $100,000 in cash from her own funds. She is the sole owner of the home, she is solely responsible for all utilities, and she pays all home-related expenses herself. She owns her own automobile and uses her own funds to pay for gasoline, insurance, and other automobile-related expenses. She is registered to vote only in Arizona.
+Woodall owns a home in Pennsylvania. For approximately six months a year, Briggs and Woodall reside at Briggs’s home in Tucson. During the other six months, they reside at Woodall’s Pennsylvania home. Woodall is solely responsible for all utilities and pays all expenses for his home himself. He owns a truck that he keeps in Pennsylvania, and he pays all truck-related expenses himself. He is registered to vote only in Pennsylvania.
+Woodall maintains a post office box in Tucson during the months he is there. Briggs has a separate mail box at Woodall’s Pennsylvania residence. Each has keys to the other’s home. They drive each other’s vehicles, but Briggs pays for gasoline for Woodall’s truck only whén she has driven it for her own purposes for a long distance and has depleted his fuel. Briggs pays for the majority of the groceries when the two are in Tucson. Woodall pays for the majority of the groceries when the two are in Pennsylvania.
+The two have an intimate relationship, but they have never held themselves out as being married. When they travel or go out together socially, they go “Dutch,” with each paying for his or her own plane tickets and other expenses. At restaurants, they request separate checks. When they are jointly billed, they make note of their respective charges and settle their accounts between themselves. Each uses his or her own last name.
+Briggs stated that she provides no financial support to Woodall and that he provides no financial support to her. None of the spousal support she receives from Wilson is used to support Woodall. Briggs and Woodall maintain separate bank accounts. Each has his or her own credit cards for which he or she is solely responsible. They are not beneficiaries of each other’s life insurance policies.
+C
+The evidence did not establish that Briggs was providing financial support to Woodall in an amount sufficient to establish cohabitation, or that he was providing such support to her. Neither party had assumed responsibility for the other’s financial obligations, nor had either party obtained the financial benefits of remarriage by their relationship. Whatever benefit Woodall may have received in the form of groceries supplied by Briggs when he was in Arizona, he repaid in kind when Briggs was in Pennsylvania. The result of their arrangement is functionally no different from that of roommates sharing daily living expenses, which this court has previously determined is insufficient to establish cohabitation. See Schrader v. Schrader (Jan. 21, 1998), Medina App. No. 2664-M, unreported, at 17-18, 1998 WL 46757. Moreover, Briggs and Woodall would have been responsible for their respective housing and automotive costs regardless of whether they resided with each other half of the year.
+Accordingly, the trial court’s determination that Briggs and Woodall were living in a state of cohabitation was against the manifest weight of the evidence. Briggs’s first assignment of error is sustained. In view of this court’s disposition of Briggs’s first assignment of error, her second assignment of error is moot and is overruled on that basis.
+Ill
+Wilson’s cross-assignment of error is that the trial court incorrectly terminated his spousal support obligation as of the date he filed his motion to terminate support rather than as of the earlier date upon which he became unemployed. He has essentially asked this court to assume that the trial court did not find cohabitation and determine the effect of his termination of employment upon his spousal support obligation as set forth in the parties’ separation agreement.
+Because the trial court terminated Wilson’s spousal support obligation on the basis of its finding that Briggs was cohabiting with Woodall, it did not address the issues raised by Wilson in his cross-assignment of error. Accordingly, it would be inappropriate for this court to consider those issues at this time. The trial court should consider this matter on remand. Wilson’s cross-assignment of error, therefore, is overruled.
+IV
+Briggs’s first assignment of error is sustained, and her second assignment of error is overruled. Wilson’s cross-assignment of error is overruled. The judgment of the trial court is reversed, and this cause is remanded for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Reece, J., concurs.
+Baird, P.J., dissents.
+. Briggs's assignments of error have been consolidated for ease of discussion.
+
+## Dissent (Baird, Presiding Judge,)
+
+Baird, Presiding Judge,
+dissenting.
+It seems clear to me that the evidence that each party supports the other for half the year is a sufficient basis for finding economic entanglement that rises to a level necessary to establish the essential element of cohabitation. I believe that this would be true even if there had been evidence that the support provided by each was equal to that provided by the other.
+Accordingly, I believe that the trial court ruling'was not against the weight of the evidence and I would affirm it.
