@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1916-03-06"
+citations: ["7 Ohio App. 49", "27 Ohio C.A. 398", "29 Ohio C.C. Dec. 277"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chittenden and Kinicade, JJ., concur."]
+parties: ["Ely v. Borck."]
+source_url: "https://static.case.law/ohio-app/7/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1839085
+cites_cases: ["101 N. E. 283", "103 N. E. 136", "107 N. E. 330", "108 N W., 98", "108 N. W. 98", "108 N. W. Rep., 98", "124 Mich. 230", "124 Mich., 230", "144 Mich. 667", "144 Mich., 667", "37 O. S., 49", "37 Ohio St. 49", "37 Ohio St., 49", "38 Vt. 25", "38 Vt., 25", "50 L. R. A. 129", "50 L. R. A., 129", "59 Minn. 329", "59 Minn., 329", "61 N. W. 328", "65 N. E. 613", "67 O. S., 53", "67 Ohio St. 53", "67 Ohio St., 53", "82 N. W. 887", "87 O. S., 401", "87 Ohio St. 401", "87 Ohio St., 401", "88 Am. Dec. 633", "88 Am. Dec., 633", "88 O. S., 447", "88 Ohio St. 447", "88 Ohio St., 447", "90 O. S., 183", "90 Ohio St. 183", "90 Ohio St., 183"]
+---
+
+# Ely v. Borck
+
+## Majority (Richards, J.)
+
+Richards, J.
+The action was brought in the common pleas .court by Frederick J. Borck against Edson Ely, to recover damages for slander, and resulted in a verdict and judgment in favor of the plaintiff for ,$200. The • slander chárged in the petition involved an accusation of larceny, and evidence was offe'red on behalf of the plaintiff to substantiate the charge.
+The defendant, in his answer, and on the witness stand, denied uttering the slanderous words, but the answer which he filed, said to have been prepared by himself, contained no allegations raising the question of privileged communication.
+The testimony offered by the plaintiff tended to show the utterance of slanderous words at the home of the defendant, and in' the presence only of the defendant, his wife, and the plaintiff. Immediately after these words were claimed to have been so uttered the plaintiff returned to his own home some seventy rods distant, and at once came back to the premises of the defendant, bringing with him, on this occasion, his hired man. The plaintiff claims that upon his arrival with his employe, the slanderous charge was repeated, without anything having been said by him. The defendant, Ely, testifies that when the plaintiff and his hired man came to his premises the second time the plaintiff said: “Tell us now what you said in the house; repeat what you said; accuse me of stealing chickens.” The charge upon which the action is founded is apparently based upon the words claimed to have been uttered on this occasion by the defendant.
+Because of the circumstances under which the plaintiff returned to the premises of the defendant, and because of the testimony above quoted, it is claimed that the words which were uttered on this occasion were invited or procured by the plaintiff, and that, therefore, an action for slander can not be based on them.
+The law with regard to founding an action for slander upon words which have been invited or procured to be uttered by the person claiming to be slandered, does not seem to be in serious doubt. While the cases are not uniform on that subject, the great preponderance of authority, as well as reason, is in favor of the proposition that an action of slander will not lie under such circumstances. (Irisk-American Bank v. Bader, 59 Minn., 329; 17 R. C. L., 320; Nott et al. v. Stoddard, 38 Vt., 25, 88 Am. Dec., 633; Konkle v. Haven et al., 144 Mich., 667, 108 N. W. Rep., 98, and Shinglemeyer v. Wright, 124 Mich., 230, 50 L. R. A., 129.) The court in the latter case say that the maxim volenti non fit injuria applies to alleged slanderous statements made, under such circumstances. A contrary doctrine is announced in the case of Rudd v. Cameron, 26 Ont. L. Rep., 154. That case, however, is annotated in 26 Amer. & Eng. Anno. Cases, 618, 620, and the cases upon this subject are gathered in the note to the case, in the course of which it is said that the holding of the reported case is not in harmony with the authorities.
+While we must, therefore, hold that the defense of privileged communication, or that the words uttered were invited or procured by the plaintiff, would be a sufficient defense, if pleaded and established by the evidence, it does not follow that the judgment rendered in this case should be reversed.
+The trial court did not charge the jury on this subject, and was not asked so to do, and the issue was not made by the pleadings. Under such circumstances it is not reversible error for the trial court to confine the charge to the issues as made by the pleadings.' It is true that the evidence above quoted went in without objection, and the court would have been justified in charging the jury on the issue thus made, under authority of many decisions rendered by the supreme court of this state; but, in the absence of any request to amend the pleadings, and in the absence of any request to charge on the subject, the omission to so charge can not now be urged as a ground for reversal. We call attention to Mehurin & Son v. Stone, 37 Ohio St., 49, where the court said that if evidence was admitted, without objection, on a defense not pleaded, it is not error for the court to confine the jury, in their consideration of the case, to the issue made by the pleadings. See also The Columbus Railway Co. v. Ritter, 67 Ohio St., 53, and State v. McCoy, 88 Ohio St., 447.
+The supreme court was announcing no new rule when it said in Palmer v. Humiston> 87 Ohio St., 401, that the issues of a case are defined by. and confined to the pleadings; and this elementary rule of pleading ought not to be lost sight of. Certainly, if the court in the instant case had seen fit to charge the jury on the subject of the alleged slanderous statements having been invited or procured, it would have been perfectly justified in so doing, as is stated in The Rayland Coal Co. v. McFadden, Administrator, 90 Ohio St., 183.
+The evidence which was introduced by the plaintiff was amply sufficient to carry the case to the jury, and the court would not have been justified in directing a verdict for the defendant.
+We find no error to the prejudice of the plaintiff in error, justifying a reversal, and the judgment will, therefore, be affirmed.
+Judgment affirmed.
+Chittenden and Kinicade, JJ., concur.
