@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1936-05-08"
+citations: ["55 Ohio App. 16"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Funk, P. J., and Stevens, J., concur."]
+parties: ["Levin, Appellant, v. Jacoby Bros., Inc., Appellee. (Two cases.)"]
+source_url: "https://static.case.law/ohio-app/55/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1353010
+cites_cases: ["10 Ohio Law Abs., 360", "118 Ohio St., 25", "126 N. E., 508", "127 Ohio St., 94", "130 Ohio St., 333", "130 Ohio St., 334", "16 Ohio Law Abs., 73", "16 Ohio St., 88", "160 N. E., 473", "187 N. E., 1", "199 N. E., 178", "199 N. E., 184", "200 N. E., 188", "23 Ohio St., 601", "41 N. E., 518", "51 Ohio App., 131", "53 Ohio St., 291", "81 Ohio St., 571", "85 Ohio St., 437", "91 N. E., 1135", "98 N. E., 1127", "99 Ohio St., 453"]
+---
+
+# Levin v. Jacoby Bros.
+
+## Majority (Washburn, J.)
+
+Washburn, J.
+These causes are before this court in relation to the granting of a motion for a new trial by the trial court in a cause to recover damages for personal injuries, and in which cause the jury returned a verdict in favor of appellant, Gertrude Levin, and against appellee, Jacoby Bros., Inc., in a substantial sum. The chronological order of events is as follows:
+June 27, 1935. Verdict returned.
+June 28, 1935. Motion for a new trial filed.
+July 13 and 25, 1935. Affidavits filed.
+July 26, 1935. Motion for a new trial heard on oral testimony and affidavits.
+August 2 and 29, 1935. Counter-affidavits filed.
+November 16, 1935. Trial judge notified counsel of his' decision to grant a new trial.
+January 3, 1936. Entry filed granting motion for a new trial; no particular ground therefor being specified.
+January 13, 1936. Motion to vacate entry granting motion for a new trial filed.
+January 23, 1936. Notice of appeal filed, which became case-No. 778 in this court.
+February 2, 1936. Motion to vacate granting of motion for a new trial, overruled.
+February 21, 1936. Motion that court “set forth in writing its reasons for sustaining the defendant’s motion for a new trial” filed.
+February 25, 1936. Motion to set forth reasons, overruled.
+March 9,1936. Notice of appeal filed, which became case No. 782 in this court.
+On April 8,1936, appellee filed in this court a motion in case No. 778, asking this' court for an order “dismissing the within appeal,” and a like motion in case No. 782, for the reason that the trial court’s' actions in sustaining appellee’s motion for a new trial, and in overruling appellant’s motion to vacate the prior order sustaining appellee’s motion for a new trial, respectively, do not constitute final orders from which appeals may be taken, and that therefore this court has no jurisdiction of the same.
+It should be noted that the new trial was not granted upon a petition filed at a succeeding term of court, but upon a motion filed within three days after the verdict was returned, and at the same term of court.
+The motion set forth all of the grounds specified in Section 11576, General Code, except No. 5 thereof, and in addition thereto many other so-called grounds, there being 27 in all. From the record it appears that there was a full hearing had, and that sufficient time elapsed for a careful consideration of the questions involved in the motion for a new trial.
+The record does not disclose any misconduct on the part of the trial court, as was the case in Webster v. Pullman Co., 51 Ohio App., 131, 200 N. E., 188. Furthermore, it should be kept in mind that in the instant case there is no'question involved as to the court’s action in overruling a motion for a directed verdict or a motion for judgment contra verdict, as there was in the cases of Hocking Valley Mining Co. v. Hunter, 130 Ohio St., 333, 199 N. E., 184, and Cincinnati Goodwill Industries v. Neuerman, 130 Ohio St., 334, 199 N. E., 178. The case at bar presents simply a question of error in the granting of a motion for a new trial which in no manner resulted in a final disposition of the case.
+It is, however, claimed in this case that, in the granting of the motion for a new trial, there was an abuse of discretion on the part of the trial court, and that, for that reason, the order granting the motion for a new trial is a final order and is reviewable.
+If by that claim is meant that a determination of the claim of abuse of discretion involves a review by this court of all of the proceedings of the trial court in the trial of the cause, the same as is required where a final judgment is under review, then it would be possible, in all cases where a motion for a new trial is granted, to have a review in this1 court by simply making the claim that there was an abuse of discretion, and thus nullify the rule announced in Conord v. Runnels, 23 Ohio St., 601, at page 602, wherein it was stated that “A motion for a new trial is addressed to the sound discretion of the court; and although it is well-settled law that error will lie, in a proper case, where a new trial has been refused, we know of no case in which it has been held to lie where a new trial has been allowed and had, and where the court had power to grant a new trial, and its order granting such new trial is not made ground of error by statutory provision. ’ ’
+Upon the first trial in that case, after the eourt had granted a motion for a new trial, a petition in error was filed to review such order, and the court announced that it was filed before any judgment had been entered in the case, “and was rightfully dismissed as' having been prematurely filed”; and in the syllabus of the case, that proposition was stated as follows:
+‘ ‘ 1. An order of eourt granting or overruling a motion to set aside the verdict of a jury and grant a new trial, is not a final judgment or order, for .the reversal of which a petition in error can be prosecuted before the final disposition of the case.”
+A like ruling was made in a case where the motion for a new trial was overruled: Young v. Shallenberger, 53 Ohio St., 291, 41 N. E., 518, fourth paragraph of the syllabus and in the opinion at page 300.
+A like ruling was made in the case of Neuzel v. Village of College Hill, 81 Ohio St., 571, 91 N. E., 1135, and also in the case of Horseman v. Horseman, 85 Ohio St., 437, 98 N. E., 1127. See also Continental Tr. & Sav. Bank v. Home Fuel & Gas Co., 99 Ohio St., 453, 126 N. E., 508.
+And in the case of Huff v. Pennsylvania Rd. Co., 127 Ohio St., 94, 187 N. E., 1, the journal entry in the Supreme Court is in part as follows:
+“It is ordered and adjudged by this court that the judgment of the said Court of Appeals be, and the same hereby is, reversed for error in overruling the motion to dismiss the error proceedings on the ground that the granting of the motion for new trial on the weight of the evidence was not a final order of the court of common pleas.”
+The last-mentioned case in the Supreme Court was followed in the case of Kuebler v. Monroe, 16 Ohio Law Abs., 73, decided July 3,1933, by tbe Court of Appeals of tbe First Appellate District.
+In the case of Iames v. Cincinnati Street Ry. Co., 10 Ohio Law Abs., 360, decided March 23, 1931, it was held that “The sole assignment of error being that the court below abused its discretion in granting a motion for a new trial, there is before the reviewing court nothing upon which error proceedings can be predicated,” and the motion to dismiss the petition in error was granted.
+In a criminal case of State v. Durbin, the defendant was tried and a verdict of guilty was returned. The trial judge granted the defendant’s motion for a new trial, and rendered an opinion in support of the ruling. The state claimed that the opinion misstated the facts in the record, and filed an application for a rehearing and offered to have a transcript of the testimony prepared; but the trial judge refused to permit such transcript to be prepared, and the state claimed that it was a gross abuse of discretion on the part of the trial judge to refuse to review a transcript of the testimony in order to correct his alleged misconception of the facts.
+A petition in error was filed, and the Court of Appeals of the Third Appellate District dismissed the petition in error, “for the reason that error proceedings do not lie from an order granting a new trial.”
+A motion to certify the record for review was filed in the Supreme Court on January 9, 1934, which became case No. 24573, and the Supreme Court, on February 14, 1934, overruled the motion to certify. The only question involved was whether the claim that there was a gross abuse of discretion rendered the order of the trial court granting a new trial reviewable on error, and the Court of Appeals decided that it did not, and the Supreme Court refused to review that holding.
+Before any of the cases hereinbefore referred to were decided, but after the adoption of the Civil Code, the Supreme Court recognized the common-law right of the trial court to grant a new trial for reasons not specified in the code as grounds for a new trial, and held that a request to exercise such right was addressed to the sound discretion of the trial court, and that “its action thereon is not subject to' review, upon error.” Ferguson v. Gilbert & Rush, 16 Ohio St., 88, paragraph 5 of the syllabus.
+As has been said, in the case at bar there is not involved any question as to an error of the court in not granting a motion for judgment at the close of all of the evidence, and there is nothing in the record indicating any misconduct, as distinguished from abuse of discretion, on the part of the trial judge in granting the motion, and we are clearly of the opinion that the fact that appellant claims an abuse of discretion does not render the order granting a motion for a new trial reviewable by this court, and that therefore the motion to dismiss the appeal in both cases on this docket should be granted.
+As has been intimated this conclusion is' not in conflict with the decision in the case of Webster v. Pullman Co., supra, where the court reversed the order granting the motion for a new trial for the gross misconduct of the trial court occurring during the time the motion for the new trial was being considered, although the Court of Appeals in its opinion in that case charitably referred to the conduct of the trial judge as an abuse of discretion.
+The case of Davis v. State, 118 Ohio St., 25, 160 N. E., 473, was not a case in which the trial court granted a motion for a new trial, and the language in the last paragraph of the opinion which makes reference to abuse of .discretion, must be considered as applicable to and having connection only with the facts of that case.
+Furthermore, if a claim of abuse of discretion, as distinguished from misconduct, on the part of the trial court in granting a motion for a new trial is reviewable by tbe Court of Appeals, we'-are of tbe opinion that tbe inquiry as to sucb abuse of discretion must be confined to tbe circumstances under wbicb tbe motion was beard and determined, and that sucb inquiry does not in any event involve a consideration by tbe Court of Appeals of tbe record of tbe proceedings of tbe trial court during tbe trial; and therefore, although we are fully satisfied with tbe conclusion we have indicated, we have nevertheless, in deference to tbe wishes of counsel for appellant, examined what is shown in tbe record relating to tbe proceedings of tbe court after tbe motion for a new trial was filed, and are unanimously of tbe opinion that no abuse of discretion is shown by sucb record.
+The trial court having exercised but not abused its discretion, claimed procedural errors in tbe exercise of sucb discretion are not prejudicial.
+Motions to dismiss appeals granted.
+Funk, P. J., and Stevens, J., concur.
