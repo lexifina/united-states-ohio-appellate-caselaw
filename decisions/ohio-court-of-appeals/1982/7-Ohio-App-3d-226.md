@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "82AP-115"
+decided: "1982-08-10"
+citations: ["7 Ohio App. 3d 226"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside, P.J., and McCormac, J., concur."]
+parties: ["In re Appeal of Woods."]
+source_url: "https://static.case.law/ohio-app-3d/7/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710768
+cites_cases: ["13 O.O.3d 158", "137 Ohio St. 13", "17 O.O. 303", "59 Ohio App. 2d 98"]
+---
+
+# In re Appeal of Woods
+
+## Majority (Norris, J.)
+
+Norris, J.
+This matter is before us on appellant Sandra Woods’ appeal from an order of the Court of Common Pleas of Franklin County affirming the order of the State Personnel Board of Review which affirmed the action of Woods’ employer in laying her off from her public employment.
+Woods and a co-worker, Mary Hornsby, were employed in 1978 by the Clermont County Board of Mental Retardation (“169 Board”) to serve in a classification called “Residential Shift Worker,” to perform the duties of houseparents for adult residents of the Clermont County Home for the Mentally Retarded. They worked different time shifts.
+Due to a steadily worsening financial picture, the Board of Mental Retardation apparently decided to hire a live-in houseparent and eliminate the need for two employees working in shifts, as an economy move. Sometime during the late summer of 1980, a person was hired to serve as a live-in houseparent. Subsequently, on August 11, 1980, Woods and Hornsby were interviewed for the houseparent position. On August 29, 1980, Woods received a letter from her appointing authority, dated August 25, 1980, advising her that her job as “General Activities Therapist” had been abolished and she was being laid off, effective September 11, 1980. Hornsby’s employment was also terminated. She appealed to the Personnel Board of Review.
+At the hearing before the hearing officer, the representative of the appointing authority conceded that the new houseparent performed the same duties that had been performed by Woods and Hornsby. Woods and Hornsby stipulated as correct an exhibit indicating that Woods had more retention points than Hornsby. Hornsby testified that the first she had heard of the title “General Activities Therapist” was when she received her layoff letter.
+The hearing officer’s report and recommendations includes this language:
+“CONCLUSIONS OF LAW
+“I find that the procedures contained within the Rules of the Director of Administrative Services for notice of a layoff were properly followed. I find that the 169 Board has properly established a sufficient lack of funds to justify the layoffs. I find that calling a person a General Activities Therapist and another person a houseparent does not affect the fact that both employees perform exactly the same duties. The two Appellants should have been allowed to bump into the houseparent job when they were laid off based upon which of them has the most retention points. The Appellants should be given an opportunity to choose whether they will bump into the position effective the date of their layoff.
+“IT IS, THEREFORE, RECOMMENDED that the action in laying off the Appellants be AFFIRMED but that they each be given an opportunity based on their retention points to bump into the houseparent job.”
+The Personnel Board of Review adopted the recommendation of its hearing officer. On appeal to the court of common pleas, the trial court found that the order of the State Personnel Board of Review was supported by reliable, substantial and probative evidence, and affirmed the order.
+Appellant raises two assignments of error:
+“1. The judgment of the Common Pleas Court affirming the order of the State Personnel Board of Review must be reversed because the Board’s order is not supported by reliable, probative and substantial evidence and is not in accordance with law.
+“2. The layoff of Appellant is invalid because:
+“(A) Appellant was replaced by another employee that [sic] she trained and who has less seniority than her [sic] and who now performs the same duties as did Appellant.
+“(B) Appellee did not obtain a certification of lack of funds or lack of work from the Director of Budget and Management or the Director of Administrative Services prior to Appellant’s layoff, which certification was a mandatory condition precedent to a valid layoff.
+“(C) Appellant was laid off from a position and classification to which she had been reclassified without notice to her or an opportunity to appeal the reclassification and reassignment.”
+Appellant’s arguments may be summarized as follows:
+(1) That, because the appointing authority’s attempt to reclassify her into the new position of General Activities Therapist was improper and void, she still held the position of Residential Care Worker, and any attempt to abolish General Activities Therapist positions and to lay off General Activities Therapists, did not affect her.
+(2) That her position was not abolished since the same duties belonging to her position were performed by the new employee.
+(3) That, because her position was not abolished, the action of the appointing authority must be treated as initiating a layoff and required certification of lack of funds from the appropriate state official in order for the layoff to be valid.
+While the first argument may have merit in a proper case, here, that argument was not raised before the Personnel Board of Review. Appellant attempted to raise the issue in the court of common pleas by obtaining leave of the court to present additional evidence on the failure of the appointing authority to properly reclassify her. Although the presentation of additional evidence is permitted in an appeal brought under R.C. 119.12, since the question before the court is whether or not the order of the agency should be affirmed, what is contemplated is the acceptance of additional evidence on an issue which was before the agency — not evidence which raises an issue which was not before the agency and therefore not the subject of its order. Accordingly, the issue of whether or not there was a reclassification and if so whether it was properly accomplished, is not before this court in this appeal.
+Appellant is correct in her second contention to the extent that the evidence before the Personnel Board of Review does not support a conclusion that both the positions of appellant and of Hornsby were abolished. A job is not abolished under circumstances where the appointing authority simply transfers that job’s duties to a new employee to perform. State, ex rel. Stine, v. McCaw (1940), 137 Ohio St. 13 [17 O.O. 303]. What the evidence does support is the conclusion that the jobs of Woods and Hornsby were merged or consolidated into one position in which the same duties were to be performed under slightly different conditions, and that the duties of that merged position were handed to a recently hired employee, and the merged position was given a new title. The result was that one position was abolished.
+We are cognizant that appellee’s version of the facts differs. That version — that a new position was created requiring substantially different duties and qualifications — is not supported by evidence in the record. The evidence is uncontro-verted that the new employee performed the same duties that had been performed by Woods and Hornsby, under a change of residence conditions.
+There was sufficient evidence to support the conclusion that the appointing authority acted properly in abolishing the one position in order to consolidate the two positions into one, in the interest of efficiency and economy.
+Appellant’s third argument is without merit, in view of our conclusion that there was sufficient evidence to support the conclusion that one position was properly abolished. Certification of lack of funds by the appropriate state official is not required in the event of a job abolishment. Howie v. Stackhouse (1977), 59 Ohio App. 2d 98 [13 O.O.3d 158].
+In summary, we conclude that the appointing authority was not permitted to hire a new employee and then proceed to abolish the jobs of both appellant and her co-worker and transfer the duties of their jobs to the new employee under the guise of creating a new position with a different classification. Because we have concluded that a new position was not in fact created, but that instead the positions of Woods and Hornsby were merged, appellant was entitled to perform the duties of the merged position (so long as she was willing to accept the live-in residential conditions of that merged position), because she had more retention points than her co-worker, Hornsby. Such a result does not require appellant to exercise any “bumping” rights — she had a right to the merged position at the outset.
+Accordingly, the assignments of error are sustained to the extent that the order of the Personnel Board of Review was not supported by reliable, substantial and probative evidence when it affirmed the action of the appointing authority in laying off appellant and impliedly approving the abolition of the positions of both appellant and Hornsby.
+The judgment of the court of common pleas is reversed, and this case is remanded to that court with instructions to vacate its previous order and to enter an order vacating the order of the Personnel Board of Review and remanding the case to the Personnel Board of Review, directing it to disaffirm appellant’s layoff and to conduct an evidentiary hearing to determine whether or not appellant was willing and prepared to accept the changed residential live-in condition of the merged position, and in the event that the evidence supports the conclusion that she was so willing and prepared, to then reinstate appellant’s employment in the merged position, effective September 11, 1980.
+Judgment reversed and case remanded with instructions.
+Whiteside, P.J., and McCormac, J., concur.
