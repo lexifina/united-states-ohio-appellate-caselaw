@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "15610"
+decided: "1992-12-02"
+citations: ["83 Ohio App. 3d 75"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cacioppo, P.J., and Cook, J., concur."]
+parties: ["MOORE, Appellant, v. MOORE, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/83/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1683442
+cites_cases: ["1987 WL 12227", "1992 WL 2942", "20 O.O.3d 318", "421 N.E.2d 1293", "44 Ohio St.3d 128", "450 N.E.2d 1140", "452 N.E.2d 1343", "49 Ohio St.3d 93", "5 OBR 481", "5 Ohio St.3d 217", "51 Ohio St.3d 64", "541 N.E.2d 597", "551 N.E.2d 172", "554 N.E.2d 83", "6 OBR 156", "6 Ohio App.3d 46", "66 Ohio St.2d 348"]
+---
+
+# Moore v. Moore
+
+## Majority (Reece, Judge.)
+
+Reece, Judge.
+Plaintiff-appellant, Charles Moore, appeals that portion of his divorce decree dividing property and awarding spousal support. We affirm.
+Charles and the defendant-appellee, Laverne Moore, were married for the second time November 28,'1987. Previously, the parties married in July 1975. That marriage ended in divorce on June 3, 1987. Moore v. Moore (June 3, 1987), Summit Dom.Rel. No. 86-10-2438, unreported, 1987 WL 12227. During the five months from the end of the first marriage to the beginning of the second, Laverne and Charles continued living together in the marital residence. No children were born as issue of the marriages.
+On January 15, 1992, trial was held. The court issued its findings of fact and conclusions of law in a final entry on February 7, 1992. Charles appeals, raising two assignments of error.
+Assignment of Error I
+“The trial court erred in finding that the Starlight Drive property and the Stanford Avenue property were marital property, and in ordering both properties sold.”
+At the end of the first marriage, the Moores had two properties: the marital residence on Starlight Drive owned by Charles and a property on Stanford Avenue in Twinsburg awarded to Laverne. Therefore, when the second marriage began, each spouse possessed one piece of separate property.
+During the second marriage, the parties altered their interests in the property. Each spouse granted an interest in his or her separate property to the other for his or her joint life, remainder to the survivor. Charles claims that the trial court incorrectly interpreted these deeds and converted the separate property to marital property. The court below found that the real estate was marital property because of the survivorship deeds and the parties’ intent.
+Charles correctly asserts that the properties were separate property at the beginning of the second marriage. However, spouses can change separate property to marital property based on actions during the marriage. R.C. 3105.171(A)(3)(a)(i) defines marital property as “all real and personal property that currently is owned by either or both of the parties, * * * and that was acquired by either or both of the parties during the marriage.”
+A trial court enjoys broad discretion in fashioning an equitable division of marital property and awarding spousal support. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 218, 5 OBR 481, 481, 450 N.E.2d 1140, 1141. Accordingly, a trial court’s decision on these issues will not be overturned absent an abuse of discretion. Id. An abuse of discretion involves more than an error of judgment; it implies that the domestic relations court’s attitude was unreasonable, arbitrary, or unconscionable. Id. at 219, 5 OBR at 482, 450 N.E.2d at 1142.
+The trial court’s decision was based on the deeds that were issued and its finding of the parties’ intent. Evaluating evidence and assessing credibility are primarily for the trier of fact. Ostendorf-Morris Co. v. Slyman (1982), 6 Ohio App.3d 46, 47, 6 OBR 156, 157, 452 N.E.2d 1343, 1345. When the spouses executed deeds granting the other spouse possession during their joint lives, the other spouse gained an interest in the property. Also the transferring spouse’s interest in the property changed. Thus, the trial court found that the two properties were marital property pursuant to R.C. 3105.171(A)(3)(a). Charles has not offered sufficient evidence to overturn the trial court’s discretion on this finding.
+Charles’ only argument that the properties should not have been ordered sold is that they were the spouses’ separate property. Based on the foregoing, we find that argument is without merit. Charles first assignment of error is overruled.
+Assignment of Error II
+“The trial court erred in awarding spousal support to the Wife in the amount of $500.00 per month for an indefinite period.”
+After the division of property is made, the trial court may consider whether an additional amount is appropriate and reasonable for spousal support and the time that support will be required. R.C. 3105.18.
+In determining whether spousal support is appropriate, a court shall be guided by the factors listed in R.C. 3105.18(C)(1). However, the amount of support is discretionary with the court. Holcomb v. Holcomb (1989), 44 Ohio St.3d 128, 130-131, 541 N.E.2d 597, 598-600.
+In this case, the trial court found that the second marriage lasted approximately four years. However, for spousal support purposes the court viewed this as a seventeen-year relationship, based on the parties’ earlier marriage in 1975. Charles asserts that the trial court had no statutory basis to consider the earlier marriage and also that the earlier marriage ended with a separation agreement in which the parties waived any claim for spousal support.
+We do not agree with Charles’ argument that this award of spousal support violates the separation agreement’s waiver of alimony. The trial court did not award spousal support for that marriage. Rather, it recognized the previous marriage as a factor in determining the spousal support to be awarded in this marriage. It is well within the trial court’s discretion to award spousal support for this marriage.
+There are two possible code sections which support the trial court’s decision to consider the first marriage in awarding spousal support. R.C. 3105.18(C) requires a court to consider certain factors when awarding spousal support. One of those factors is the duration of the marriage, R.C. 3105.-18(C)(1)(e). Also this statute contains a broad provision allowing a court to consider any factor it expressly finds to be relevant. R.C. 3105.18(C)(l)(n). It is our duty to affirm a trial court if valid grounds are found to support its decision. Joyce v. Gen. Motors Corp. (1990), 49 Ohio St.3d 93, 96, 551 N.E.2d 172, 174.
+We find that the previous legal, marital relationship is relevant to the trial court’s decision to award spousal support and that its decision was equitable. The legislature mandated that trial courts consider the duration of a marriage when awarding spousal support. This indicates the legislature’s concern that the courts examine a spouse’s duty of support existing under R.C. 3103.03. While the parties’ second marriage lasted only four years, Charles’ duty of support to Laverne continued almost uninterrupted for seventeen years. This consideration is relevant and equitable under R.C. 3105.18(C)(l)(n).
+In making this decision, we do not mean to indicate that any premarital relationship is relevant to a decision to award spousal support. Under the peculiar circumstances of this case, a second marriage occurring less than five months after the first is terminated, the spouses never leaving the marital residence and the payee spouse becoming medically disabled, it is permissible to consider a previous longstanding, legal, marital relationship as relevant and equitable.
+Charles next argues that the trial court erred by not announcing a definite period for spousal support. There is no statutory requirement to select a definite period for spousal support. R.C. 3105.18(B) provides that spousal support shall end at the death of either party unless otherwise provided.
+Generally, a trial court has broad discretion in awarding spousal support. Cherry v. Cherry (1981), 66 Ohio St.2d 348, 355, 20 O.O.3d 318, 322, 421 N.E.2d 1293,1298. Ohio courts have recognized that spousal support should generally be made terminable at a certain date. However, an exception has been recognized in cases of marriages of long duration, parties of advanced age and a homemaker spouse with little opportunity to develop a career. Kunkle v. Kunkle (1990), 51 Ohio St.3d 64, 68, 554 N.E.2d 83, 87; Rockwell v. Rockwell (Jan. 2, 1992), Summit App. No. 15160, unreported, at 6-7, 1992 WL 2942. In this case, there were separate, legal, marital relationships lasting almost uninterrupted for seventeen years. Laverne was fifty-six years old, and although she is not a homemaker spouse with little chance to develop a career, she is physically disabled and unable to work at her former career. Further, the parties can seek to modify this award if there is any change in circumstances. Charles’ second assignment of error is not well taken.
+The trial court’s judgment is affirmed.
+Judgment affirmed.
+Cacioppo, P.J., and Cook, J., concur.
