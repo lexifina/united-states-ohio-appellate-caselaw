@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3747"
+decided: "1944-10-16"
+citations: ["75 Ohio App. 268"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Geiger, J., concurs."]
+parties: ["McAlpin, Exrx., Appellee, v. Obenour et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/75/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1378998
+cites_cases: ["106 N. E., 967", "117 N. Y. Supp., 838", "120 A. L. R., 1207", "120 A. L. R., 1215", "137 A. L. R., 201", "198 S. C., 29", "302 Mass., 68", "31 N. Y. Supp., 990", "51 Conn., 569", "90 Ohio St., 160"]
+---
+
+# McAlpin v. Obenour
+
+## Majority (Montgomery, J. Montgomery, J.,)
+
+Montgomery, J.
+The appeal to this court is from a judgment of the Probate Court of Franklin county, Ohio, authorizing the sale of real estate of which the decedent died seized, to pay the debts of her estate and costs of administration. The record is clear and it is undisputed that if item-three of the will of the decedent is effective to transfer to Stella F. McAlpin all the personal property left by. the decedent, the real estate must be sold to pay debts. If, however, that item does not convey certain choses in action, and the same are part of the residuary estate, then it will not be necessary to sell the real estate.
+Item three of the will of the decedent is in the following language:
+“I also give to my daughter, Stella F. McAlpin, all my personal property located in the room now occupied by me.”
+There is no question about the furniture, of course. The question is raised as to three items, to wit, a demand certificate of deposit in The First National Bank of Kenton for $335, a time certificate of deposit in The' First National Bank of Kenton for $701.75, and a check on The Home Savings & Loan Company of Kenton for $505, a total of $1,541.75. Such snm is approximately twice the amount of the debts of the estate.
+The question is simply: Do those securities pass under the quoted item of the will to Stella F. McAlpin, or do they pass under the residuary clause of the will?
+It is a fair inference that those evidences of indebtedness, or those securities, term them whatever we will, were in the room of the decedent at the time the will was made and at the time of her death, as well as at the time of the inventory, and this proposition causes us no trouble. The question is the interpretation of the language of item three, conceding that the securities were in the room.
+"With reluctance we come to the conclusion that the judgment of the Probate Court must be reversed. It may well be that it was the intention of the testatrix to give the securities to her daughter, but there is no evidence to that effect. Counsel for the testatrix, who drew the will, attempted to testify as to what the testatrix said to him about those securities. That evidence was properly sricken from the record, and without it there is nothing to indicate any intention on the part of the testatrix. The judgment of the Probate Court is against the great weight of authority, although there is a divergence of views, and there are authorities which might seem to sustain the contention of the appellee in the instant case.
+If it should seem that we are doing an injustice and going contrary to the intention of the testatrix, the answer is that such intention is not adequately expressed by words. On the face of things there would seem to be no injustice or inequity done by having the clioses in action applied to the payment of debts, rather than that the farm be sold, in view of the fact that under the residuary clause the daughter gets two-thirds and the son only one-third of all that remains after the payment of the debts, if the item claimed to bequeath the choses in action does not in fact do so.
+There is a dearth of authority in Ohio of any aid in the determination of this case. The leading case, and it is not directly in point, is that of Creamer, Exr., v. Harris, 90 Ohio St., 160, 106 N. E., 967, L. R. A. 1915C, 653, Ann. Cas. 1916C, 1137, in the opinion of. which, Chief Justice Nichols referred to the fact that “no direct authority can be found in Ohio which will aid the court in its interpretation of the dispute * * *.” The general discussion in that case, however, is of value and reliance seems to have been placed upon the case of Webster et al., Exrs., v. Wiers, 51 Conn., 569, the syllabus of which is:
+“A testatrix made the following bequest: I give to M all my household effects, books and papers of value, and everything the house contains; the same to be taken by him without inventory or appraisal. ’ Held not to include a promissory note of $100, and a savings bank book with deposits of $2,500 represented by it, which belonged to the testatrix and were found among her papers in her dwelling house immediately after her death. ’ ’
+In the instant case we direct attention, as Judge Nichols did in the Creamer case, to page 576 of the opinion in the Webster case, where Park, C. J., referring to the items referred to in the above-quoted syllabus, said: “It is hardly credible that a particular allusion to them should not have been made if she had intended to embrace them in the bequest.”
+We have devoted a great deal of time to an investigation of authorities outside of Ohio, and we call attention to 9 Words & Phrases (Perm. Ed.), 75; L. E. A.. 1915C, 653 et seq.; 120 A. L. E., 1210. Likewise we direct attention to 41 Ohio Jurisprudence, 659, Section 538.
+The cases most directly in point which we have found, in addition to the Webster case, supra, are two New York cases, to which we direct attention.
+The first is that of Ball v. Dickson, 31 N. Y. Supp., 990, the syllabus of which is as follows:
+“Testator devised and bequeathed to W. his farm, ‘together with all personal property upon said farm, including all the personal property in the house and in the other buildings on said premises.’ Held, that the bequest of personalty did not include promissory notes, certificates of deposit, and bank pass books which were at the time of the execution of the will in a safe in the dwelling house on the farm, the value of which amounted to about one-third of testator’s estate, where no reason appeared for favoring W. to that extent, while allowing the notes, etc., to pass under the residuary clause of the will would effect an equal distribution among testator’s next of kin.”
+The other is In re Delaney’s Will, 117 N. Y. Supp., 838, the syllabus of which is:
+‘ ‘ Testatrix, when she executed her will, owned three houses and lots, certain personal property, and two saving deposits. She devised one of these houses to each of her three nieces, and by the second clause of her will bequeathed to her niece Q. all of her household furniture and ‘personal property of whatsoever kind’ in her W. street house. The will disposed of all testatrix’s property, and contained no residuary clause. Thereafter she sold one of the houses, and deposited the proceeds with other money to the credit of her savings bank deposits. The pass books for these deposits, together with certain other money and jewelry, were in testatrix’s possession at her W. street residence when she died. Held, that the proceeds of the property sold did not pass to the devisee of testatrix’s residence under the description ‘personal property of whatsoever kind, ’ but that as to this testatrix died intestate. ’ ’
+In 120 A. L. R., 1215, appears a reference to an English case, In re Robson (1891), 2 Ch. (Eng.), 559, which case we have not seen. But the reference states that the court in that case makes a distinction between the rule as to choses in action as a part of the contents of a house and as part of the contents of a desk or receptacle, and it quotes Judge Chitty as saying: “There is a distinction between a gift of chattels in a house and a gift of the contents of a desk; a desk being the kind of thing in which men do usually keep valuable things. ’ ’
+3 Page on Wills (Lifetime Ed.), 54, Section 970, says:
+“Choses in action have no locality, although the ecclesiastical courts had held that their presence gave jurisdiction for administration. They are only evidences of obligations. For these reasons, it has been held that a gift which is, by its terms, broad enough to include choses in action, and which describe the property as located in a certain place, does not pass choses, although the written evidence thereof is situated in such place. A gift of ‘securities’ in a certain vault does not pass a bank account, although the bank book was kept in such vault.”
+In Old Colony Trust Co. et al., Exrs., v. Hale, 302 Mass., 68, 18 N. E. (2d), 432, 120 A. L. R., 1207, the court stated, at page 70 of the opinion, that “choses in action will not pass under a bequest of the contents of a house,” and fortified the statement with reference to a number of decisions.
+The judgment of the Probate Court is reversed.
+Judgment reversed.
+Geiger, J., concurs.
+Montgomery, J.,
+of the Fifth Appellate District, sitting by designation in the Second Appellate District.
+
+## Concurrence (Hornbeck, J.,)
+
+Hornbeck, J.,
+concurring. I concur in the judgment in this case and recognize that the majority has a strong opinion. To avoid any misapprehension, in the future, of the basis of my conclusion, I desire to briefly touch upon the principles involved in some of the cases cited in the majority opinion.
+The item of the will under consideration does not in my judgment, in its construction, permit the application of the doctrine of ejusdem generis. There is no mention of any property other than that included by the term “all my personal property located in the room now occupied by me.” See Quick, Exr., v. Owens, Exr., 198 S. C., 29, 15 S. E. (2d), 837, 137 A. L. R., 201. The Ohio case cited, Creamer, Exr., v. Harris, 90 Ohio St., 160, 106 N. E., 967, L. R. A. 1915C, 653, Ann. Cas. 1916C, 1137, illustrates the principle. If the will were construed on the language of item three only, I would be inclined to hold that it transferred the certificates of deposit and the check to the daughter. If the securities had been mentioned by name, they would have included the money in the bank and the choses in possession, the title to which they evidenced.
+Nor do I hold that the term “personal property” may not included choses in action such as are found in this case. 7 Words and Phrases (Perm. Ed.), 144 et seq. However, construing this will from its four corners and the item under consideration especially in connection with the residuary clause, it requires the construction adopted in the majority opinion. The residuary clause refers to property, real, personal and mixed, and if the securities passed by item three of the will, there would be no personal property upon which the residuary clause could operate.
