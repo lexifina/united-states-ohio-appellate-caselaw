@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1925-11-30"
+citations: ["20 Ohio App. 464"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Young, JJ., concur."]
+parties: ["Price v. Kobacker Furniture Co."]
+source_url: "https://static.case.law/ohio-app/20/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1850468
+cites_cases: ["10 Ohio App., 303"]
+---
+
+# Price v. Kobacker Furniture Co.
+
+## Majority (Williams, J.)
+
+Williams, J.
+An action was brought by the Kobacker Furniture Company against Charles S. Price in the municipal court of the city of Toledo to recover upon an account for goods sold and delivered. Judgment was rendered in favor of the plaintiff for $53.70 and costs, and thereupon, the judgment being for less than the plaintiff claimed, it appealed the cause to the court of common pleas.
+Upon appeal the plaintiff filed its petition containing two causes of action. In the first cause of action the pleader set forth an account for goods sold and delivered, in the usual form. In the second cause of action it set forth a chattel mortgage and averred a breach of the conditions thereof, the petition concluding with a prayer for a money judgment and foreclosure of the mortgage. The defendant filed an answer and counterclaim. The answer consisted of a general denial, and then set forth a special defense, alleging fraudulent representations. We are only concerned with the counterclaim, which reads as follows:
+“For counterclaim herein this defendant says that he makes all the allegations of the foregoing answer a part hereof, and says that when he refused to pay more money upon said furniture because of its inferior quality and not being as represented to defendant, the said plaintiff did willfully and maliciously, and wickedly intending to injure this defendant, blacklist this defendant by notifying the Merchants’ Credit & Adjustment Company, an association of retail merchants of Toledo, Ohio, that plaintiff had been obliged to replevin said furniture from this defendant because of nonpayment therefor, and that defendant was not worthy of credit by retail dealers in Toledo, or information to that effect. All of which was false and untrue as plaintiff well knew.
+“Defendant says that he has always met all his just obligations promptly, and promptly paid his just debts; and before he was blacklisted by plaintiff, as aforesaid, had a high reputation and'standing in the city of Toledo and among retail dealers, as an upright honest man worthy of confidence, and one prompt to pay his debts.
+“By reason of being so blacklisted, slandered, and libeled by plaintiff as aforesaid, this defendant has been greatly damaged in his credit, reputation, and standing as an honest workingman, and has been refused credit in Toledo, and has been regarded with doubt and suspicion, and not worthy of credit or to be trusted.
+“Defendant further says that by reason of being so blacklisted he and his wife have undergone great mental strain, and worry, and this defendant has been injured in his reputation and standing in Toledo and among his friends and acquaintances, to defendant’s great loss, and mortification, and has been caused to employ legal counsel and incur much cost and expense in connection with this action.
+“All to defendant’s great damage, to wit, $750.
+“Wherefore this defendant prays judgment against the plaintiff in the sum of $750, for costs of suit herein, and all other proper relief.”
+The plaintiff filed a demurrer to the counterclaim, which was sustained by the common pleas court, and final judgment entered thereon in that court. The defendant below thereafter filed a petition in error in this court and seeks a reversal of the judgment, claiming that the court below should have overruled the demurrer.
+Section 11317, General Code, provides as follows:
+“A counterclaim is a cause of action existing in favor of a defendant against a plaintiff or another defendant, or both, between whom a several judgment might be had in the action, and arising out of the contract or transaction set forth in the petition as the foundation of the plaintiff’s claim, or connected with the subject of the action.”
+It is a matter of no consequence that the counterclaim sounds in tort, for a cause of action in a counterclaim may either sound in tort or be based on contract. 24 Euling Case Law, 826.
+The section of the General Code of Ohio above quoted fixes the limitations within which a counterclaim may be set up. It is well not to attempt to define the meaning of the language employed in the statute, for it has purposely been made comprehensive in its terms and general in its expression. The authorities say that it should be given a liberal construction to avoid a multiplicity of suits, but advise against the invention of a rule to fit all cases that may arise thereunder in the future. Mayer v. Klug, 10 Ohio App., 303. At any rate, it is only necessary in this case to determine whether a debtor who is sued upon an account may counterclaim for injuries which he sustains through being blacklisted as to his credit by reason of adverse information given to a credit association by his creditor who feels aggrieved because the debtor has refused to pay the account.
+Assuming that the counterclaim states facts sufficient to constitute a cause of action, let us inquire whether or not the facts pleaded are such as to he the basis of a counterclaim under the provisions of Section 11317, above quoted. There are two classes of counterclaim provided for in that section: First, those arising out of the contract or transaction set forth in the petition as the foundation of plaintiff’s claim; and, second, those connected with the subject of the action. The contract or transaction set forth in the petition was that involved in the selling to defendant of certain goods on account. It could hardly be said by any stretch of the imagination that the blacklisting arose out of the sale of goods, or the contract on which such sale was based. We may, therefore, dismiss that part of the statute from further consideration. Whether or not the blacklisting was connected with the subject of the action is a question presenting, at first blush, more difficulty. We are of the opinion that the principle enunciated in the case of Williams v. Ederer, 18 C. C. (N. S.), 515, 33 C. D., 172, is applicable. In that case Ederer sued Williams on an account for goods sold and delivered. Williams counterclaimed, setting up a tort growing out of the sending of a letter by Ederer’s attorney, who had the claim for collection, to Williams’ employer, by reason of which Williams lost his job. It was held that such a tort was not the proper subject of a counterclaim and that a cause of action based thereon was insufficient in law.
+If the debtor refuses to pay the amount which Ms creditor claims is due Mm, the latter may become aggravated and blacklist the defendant, commit an assault and battery upon him, wrongfully write a letter to his employer, bringing about his discharge, or commit some other similar tort. If that result follows, can it be said that such tort is connected with the subject of the action? We think it is not even remotely so connected. The failure to pay the account is, in such cases, merely the motive for the commission of the tort.
+We are of the opinion that the court below did not err in sustaining the demurrer and entering final judgment against the defendant upon the counterclaim, and the judgment will be affirmed.
+Judgment affirmed.
+Richards and Young, JJ., concur.
