@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "55863"
+decided: "1989-09-25"
+citations: ["64 Ohio App. 3d 545"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Patton, P.J., and Mark K. Wiest, J. concur.", "Thomas J. Parrino, J., retired, of the Eighth Appellate District, and Mark K. Wiest, J., of the Wayne County Court of Common Pleas, sitting by assignment."]
+parties: ["LAWRENCE R. BARKER COMPANY, L.P.A., Appellee, OVERSEAS DEVELOPMENT CORPORATION et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/64/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1452389
+cites_cases: ["11 OBR 441", "11 Ohio App.3d 263", "364 N.E.2d 267", "37 Ohio St.3d 144", "374 N.E.2d 146", "375 N.E.2d 46", "4 O.O.3d 466", "465 N. E.2d 460", "50 Ohio St.2d 317", "524 N.E.2d 881", "53 Ohio St.2d 241", "54 Ohio St.2d 64", "7 O. O.3d 403", "8 O.O.3d 73"]
+---
+
+# Lawrence R. Barker Co. v. Overseas Development Corp.
+
+## Majority (Thomas J. Parrino, Judge.)
+
+Thomas J. Parrino, Judge.
+Plaintiff Lawrence R. Barker, an attorney, filed a complaint in Cuyahoga County Common Pleas Court, case No. 100495, against defendants Overseas Development Corporation, Overseas Development Disc Corporation, and Attilla Turkkan. Plaintiffs complaint alleged that in 1977, defendants retained plaintiff for legal services and incurred $10,935.30 in legal fees. Plaintiff alleges defendants did not pay plaintiff the legal fees incurred and demanded judgment in the amount of $10,935.30 plus interest.
+Plaintiff filed a motion for summary judgment on August 14, 1986. On May 9, 1988, the trial court journalized an order granting plaintiffs motion for summary judgment and rendering judgment to plaintiff in the amount of $10,935.30. Defendants filed a timely notice of appeal, assigning the following error:
+“The court below erred in granting plaintiff summary judgment since plaintiffs cause of action is based on a letter commitment drafted by it and containing ambiguity which gives rise to a genuine issue of material fact so that plaintiff is not entitled to judgment as a matter of law as required by Civ.R. 56.”
+Defendants’ assignment of error lacks merit.
+“ * * * Summary judgment is appropriate when the following factors have been established:
+“ ‘ * * * (1) that there is no genuine issue as to any material fact; (2) that the moving party is entitled to judgment as a matter of law; and (3) that reasonable minds can come to but one conclusion, and that conclusion is adverse to the party against whom the motion for summary judgment is made, who is entitled to have the evidence construed most strongly in his favor.’ Harless v. Willis Day Warehousing Co. (1978), 54 Ohio St.2d 64, 66, 8 O.O.3d 73, 74, 375 N.E.2d 46, 47. See, also, Civ.R. 56(C); and Temple v. Wean United, Inc. (1977, 50 Ohio St.2d 317, 327, 4 O.O.3d 466, 472, 364 N.E.2d 267, 274.” Bostic v. Connor (1988), 37 Ohio St.3d 144, 146, 524 N.E.2d 881, 884.
+In the case sub judice, defendants retained plaintiff’s law firm to prosecute a civil action in Illinois. Initially, plaintiff and defendants entered into a contingent fee contract. However, defendants obtained other counsel, and the parties subsequently agreed plaintiff would be paid on an hourly basis for work previously accomplished. This agreement was memorialized in a letter from plaintiff to defendants dated February 9, 1979, which provides in relevant part as follows:
+“Originally, our firm agreed to handle this matter for you on a contingent fee arrangement. Now we have agreed that you will pay us on an hourly basis for the work that was done on your behalf. Accordingly, we enclose our bill for the services that were rendered from August, 1977, through mid-December, 1978, when our new arrangement was made. While you and your companies mil be responsible for the payment of this bill regardless of the outcome of the lawsuit, we have agreed to wait until the above-referenced case is settled or tried before we will look to you for payment.” (Emphasis added.)
+Defendants’ answer to plaintiff’s complaint admitted entering into an hourly fee arrangement with plaintiff and admitted owing plaintiff $10,935.30 in legal fees. Defendants’ affirmative defense was that plaintiff’s action was barred due to the failure of a condition precedent in that plaintiff agreed to forestall payment of his fees “until the above-referenced case is settled or tried * *
+Plaintiff’s motion for summary judgment was supported by his affidavit which stated defendants agreed to pay plaintiff’s legal fees on an hourly basis upon settlement or trial of the Illinois case. Plaintiff’s affidavit further stated the Illinois case was tried in November 1979, and a judgment was rendered in favor of defendants, who were plaintiffs in the Illinois action, on December 3, 1980. Finally, plaintiff’s affidavit states plaintiff has made demands upon defendants for payment of his legal fees, but defendants have refused to pay.
+Defendants filed a brief in opposition to plaintiffs motion for summary judgment. Defendants argued plaintiff is not entitled to payment of his legal fees until the action plaintiff originally presented for defendants in Illinois was settled or tried to completion, which defendants contend includes any subsequent appeals or retrials. Defendants did not file any evidentiary materials in support of their brief in opposition to plaintiffs motion for summary judgment.
+Defendants’ answer admitted entering into an hourly fee agreement with plaintiff and admitted owing plaintiff $10,935.30 in legal fees. Furthermore, defendants failed to file an affidavit in support of their brief in opposition. On a motion for summary judgment, the non-moving party has a duty to respond and may not rest upon the mere allegations or denials in his pleadings. Civ.R. 56(E). If the non-moving party fails to respond with evidentiary materials, the affidavit of the moving party is accepted as true. Stemen v. Shipley (1982), 11 Ohio App.3d 263, 268, 11 OBR 441, 447, 465 N. E.2d 460, 466. Thus, the sole issue in the case sub judice is when plaintiff is entitled to receive payment of his legal fees.
+Common words appearing in a written instrument will be given their ordinary meaning unless manifest absurdity results or unless some other meaning is clearly evidenced from the face or overall contents of the instrument. Alexander v. Buckeye Pipe Line Co. (1978), 53 Ohio St.2d 241, 7 O. O.3d 403, 374 N.E.2d 146, paragraph two of the syllabus.
+In this case, plaintiff’s use of the term “tried,” when considered in its ordinary meaning and in light of the overall contents of the agreement letter, is sufficiently clear to permit us to conclude the parties intended plaintiff to be paid after the case was settled or tried for a first time. This conclusion is further strengthened when considering plaintiff’s inclusion of the language “ * * * you and your companies will be responsible for the payment of this bill regardless of the outcome of the lawsuit. * * * ” Defendants’ desire to construe “tried” to imply “tried to completion so as to include appeals or retrials” adds a meaning to the agreement language which does not appear on the face or in the overall contents of the letter.
+The trial court did not err when it granted plaintiff summary judgment since no genuine issue of material fact existed in the case sub judice and plaintiff was entitled to judgment as a matter of law. Accordingly, defendants’ sole assignment of error is not well taken and is overruled. '
+Judgment affirmed.
+Patton, P.J., and Mark K. Wiest, J. concur.
+Thomas J. Parrino, J., retired, of the Eighth Appellate District, and Mark K. Wiest, J., of the Wayne County Court of Common Pleas, sitting by assignment.
