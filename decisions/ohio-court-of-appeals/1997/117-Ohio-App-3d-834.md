@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "16022"
+decided: "1997-01-31"
+citations: ["117 Ohio App. 3d 834"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wolff and Wilson, JJ., concur.", "Richard K. Wilson, J., retired, of the Second Appellate District, sitting by assignment."]
+parties: ["MAXWELL, Appellant, v. MARK’S SUPPLY et al. Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/117/cases/0834-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1222474
+cites_cases: ["364 N.E.2d 267", "4 O.O.3d 466", "50 Ohio St.2d 317", "50 Ohio St.3d 157", "553 N.E.2d 597"]
+---
+
+# Maxwell v. Mark's Supply
+
+## Majority (Frederick N. Young, Judge.)
+
+Frederick N. Young, Judge.
+The plaintiff-appellant, Todd Maxwell (“Todd”), is the son of third-party defendant, Clarence Wayne Maxwell (“Clarence”). Todd filed his second amended complaint seeking damages for personal injuries. In his first claim for relief, he alleged as follows:
+“1. On or about July 13, 1994, Wayne Maxwell and Todd Maxwell, purchased a ‘Star 9 mm’ gun with the ammunition ‘38 Super Plus P’, for Plaintiff, Todd Maxwell, from Defendant, Mark’s Supply.
+* *
+“3. Plaintiff, Todd Maxwell attempted to unload the ‘gun’ with the ‘ammunition’ sold to Wayne Maxwell, slid top back to discharge a round and the ‘ammunition’ exploded in Plaintiff, Todd Maxwell’s face and hand thereby causing injuries to Plaintiffs face and hand.
+“4. Defendant, Mark’s Supply Store, had a duty to sell the correct ‘ammunition’ with the correct ‘gun’ purchased at Defendant, Mark’s Supply Store, and to disclose the dangerous and hazardous conditions, and to provide a warning to the public regarding the existence of the dangerous and hazardous conditions, of purchasing the wrong ‘ammunition.’ ”
+In the fifth paragraph the plaintiff alleged the injuries and damages he sustained as a result of the defendant’s negligence. In a second claim, plaintiffs medical insurance carrier asserted its subrogation claim for medical expenses paid on behalf of plaintiff.
+On May 15, 1996, Mark’s Supply filed a motion seeking summary judgment against the plaintiff. The motion was accompanied by a memorandum, a copy of the defendant’s third-party complaint to the plaintiffs second amended complaint, a copy of the second amended complaint, two pages of printed instructions for the “Star 9mm,” which included an “ammunition warning,” and a fifty-two-page transcript of the deposition of Todd.
+On May 24, 1996, the plaintiff filed a memorandum in opposition to the summary judgment motion. A copy of the plaintiffs deposition was attached to the memo along with copies of eight selected pages from the deposition of Marcus Wells, an agent of the appellee. Subsequently, the plaintiff filed a third amended complaint on June 7, 1996. The third amended complaint was essentially the same as the second, except that an additional claim was asserted on the theory of breach of implied warranty.
+On June 18, 1996, the trial court filed an entry and order sustaining Mark’s Supply’s motion for summary judgment on the issue of negligence and breach of warranty. Todd has appealed from the order sustaining Mark’s Supply’s motion for summary judgment against him. There are three assignments of error:
+“The trial court, in granting defendant-appellee’s motion for summary judgment, erred in finding that the defendant had provided the plaintiff with adequate warning to not use the .38 Super P Plus ammunition they sold for plaintiffs use with the pistol they also sold for plaintiffs use.”
+“The trial court, in granting defendants-appellees’ motion for summary judgment, erred in finding that the plaintiff was contributorily negligent in ‘operating’ the pistol.”
+“The trial court did not address the issue of defendant breaching the implied warranty of fitness for a particular purpose.”
+Civ.R. 56(C) places the initial burden on the moving party to “show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.” This burden remains the same “regardless of who may have the burden of proof at trial.” AAAA Enterprises, Inc. v. River Place Community Urban Redevelopment Corp. (1990), 50 Ohio St.3d 157, 553 N.E.2d 597. We are also required to view the evidentiary materials, ie., plaintiffs deposition, most strongly in favor of the nonmoving party. Temple v. Wean United, Inc. (1977), 50 Ohio St.2d 317, 4 O.O.3d 466, 364 N.E.2d 267.
+At the outset, we note that the trial court did indeed address the issue of breach of implied warranty in the last paragraph of its decision. The third assignment is overruled.
+As to the first two assignments of error, we find, after a thorough review of the record before us, that Todd has not raised any genuine issue of material fact that would justify reversing the summary judgment. Clarence, Todd’s father, purchased the gun for Todd because, at the time of the acquisition, Todd was not old enough to purchase a gun. Clarence purchased the gun from Mark’s Supply. Mark Wells, a co-owner of Mark’s Supply, was familiar with Clarence because Clarence had visited the store several times in the months prior to the date he purchased the gun. On the date that he purchased the gun for Todd, Todd accompanied Clarence to Mark’s Supply. Wells claims that he spoke mostly with Clarence that day because he knew Clarence and Clarence was the one purchasing the gun.
+Todd stated in his deposition that he remembered that Wells or Scott Horsely, the other co-owner of Mark’s Supply, said that 38 Super Ammunition could be used in the 9 millimeter gun that his father purchased for him. Wells admits that he told Clarence that the 38 Super could be used in the 9 millimeter gun, but he insists that he also told him that the gun had to be converted in order to be able to use that ammunition. He further maintains that he told Clarence not to shoot 38 Super Plus P ammunition, which is different from 38 Super ammunition, in the 9 millimeter gun because the Plus P has too much pressure for that gun.
+Todd did not deny in his deposition that Wells told him that he needed to have the gun converted in order to use the 38 Super ammunition in his gun; rather, he merely declared that he did not recall Wells telling him that. Furthermore, Todd did not testify at all as to whether Wells warned him not to use the 38 Super Plus P in the gun, which is the ammunition that he actually used in the gun. Finally, Todd failed to put forth testimony by his father that Wells neglected to warn him that the gun had to be converted to use the 38 Super ammunition or that he neglected to warn him not to use the 38 Super Plus P ammunition because it has too high of a pressure for that gun. Todd’s testimony that he does not recall whether Wells warned him that the gun had to be converted in order to use 38 Super ammunition does not raise an issue of fact as to whether Wells failed to warn him not to use the 38 Super P Plus ammunition in the gun. Because Todd has not actually controverted Wells’s testimony that he warned him not to use the 38 Super Plus P ammunition, we affirm the trial court’s summary judgment decision.
+In addition, not only does Todd not satisfactorily challenge that Wells warned him not to use the 38 Super Plus P ammunition in the 9 millimeter gun, Todd admits that he was aware of the warning on the gun, which said to use only 9 millimeter ammunition in it. Todd also admits that he experienced problems with the gun before he was injured. When Todd attempted to load the gun, the top slide would not completely close. Thus, Todd had to manually slide it forward and lock it in place in order to fire it. Todd had to do this for about every other round he fired. Despite this problem, however, Todd proceeded to shoot off twenty rounds.
+Later, Todd loaded another round in the gun to try to figure out why he had problems with it earlier, and when he did so, the gun would not eject the bullet. To try to get the bullet out of the gun, Todd attempted to pull the slide back. Todd tried this several times until the shell exploded. Even if Todd had not been warned of the danger by Wells, he certainly had notice of the danger from the problems that he was experiencing with the gun. Based upon all the foregoing reasons, the first and second assignments of error are overruled and the judgment is affirmed.
+Judgment affirmed.
+Wolff and Wilson, JJ., concur.
+Richard K. Wilson, J., retired, of the Second Appellate District, sitting by assignment.
