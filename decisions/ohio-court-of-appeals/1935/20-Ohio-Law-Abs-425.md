@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 716"
+decided: "1935-07-03"
+citations: ["20 Ohio Law Abs. 425"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STEVENS and WASHBURN, JJ, concur in judgment."]
+parties: ["STATE ex SHADE v DAVIES et"]
+source_url: "https://static.case.law/ohio-law-abs/20/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1665988
+---
+
+# State ex rel. Shade v. Davies
+
+## Majority (By PUNK, PJ.)
+
+OPINION
+By PUNK, PJ.
+There are two principal issues in this case: first, is relator dismissed from the Lorain volunteer fire department? and, second, If he is, was said dismissal for a cause that prevents him from participating in the firemen’s relief fund?
+Counsel for defendants claim that the procedure dismissing the relator as such fireman was irregular and invalid for two reasons: one, that the charges as communicated to relator were insufficient in law, and, two, that the procedure was improper and invalid, and thus a nullity and void.
+Counsel for defendants claim that the information contained in the letters sent to relator by the chief of the fire department and by said safety director, concerning said charges and the time and place of a hearing thereon before said safety director, was insufficient in law, because said letters did not contain a copy of said charges.
+Said counsel further claim that said procedure was irregular and invalid because no charges were filed against relator by said safety director, the appointing authority, and because the procedure followed in the attempt to remove relator is apparently that outlined in §§4379 and 4380, GC, which sections have been impliedly repealed by the so-called “civil service act.” (See §4SG-1, et sea., GC, and especially §§486-17 and 486-17a, GC.)
+It will be first noted that there is no provision for preferring charges in the civil service act by the appointing authority or anyone else. It will be next noted that under said civil service act the safety director is not required to give an employee or subordinate a hearing, and that said act merely provides that in all cases of suspension or removal, the appointing authority shall furnish such employee or subordinate with a copy of the order of suspension or removal, and his reasons for the same, and give such employee or subordinate a reasonable time within which to make and file an explanation, and that “Such order with the explanation, if any, of the employe or subordinate shall be filed with the commission.”
+It is • thus apparnt that all the safety director would have needed to do was to have dismissed relator, and give him a copy of the order of removal and his reasons therefor, and give him a reasonable time within which to" file an explanation, and then file such order and explanation, if any had been filed, with the civil service commission; all of which the evidence shows said safety director did do in the instant case.
+It will also be noted that said safety director not only so notified the civil service commission, but also sent written notice of such order to the fire chief, the captain of the fire company, and the firemen’s pension board, and that relator took no appeal, to the commission, from said order of removal.
+The fact that someone — in this instance the chief of the fire department — made written complaint to the safety director that relator was derelict in duty as a fireman, and attempted to suspend relator and give him written notice of his action, together with the fact that said safety director also gave relator written notice of such complaint and a full -hearing thereon, certainly would not make relator’s removal invalid, when the safety director not only did all that the law required him to do in dismissing relator, but also gave relator more notice and more opportunity of explanation than said safety director was required to give relator, and more than relator was entitled to under the civil service act.
+All the authority cited by counsel for defendants in support of their contentions^ consists of cases' in which the dismissed relator was seeking reinstatement. Counsel have cited no case, and we have not found any, where the appointing authority before whom charges were preferred and heard, of his own motion reconsidered and reinstated a dismissed person, over that person’s objection.
+This brings us to the further question presented by the evidence: Did thi*safety director have the authority, some 17 days after his order for relator’s removal, to reconsider his decision and reinstate relator, over relator’s objection and after he had made application to said firemen’s relief fund board for a pension, and after the ten days had expired from 'the time said safety director announced his decision and within whiclj relator could have taken an appeal, as provided in §486-17a, GC, and- §? of yule 21 of the rules and regulations of the civil service commission of the city of Lorain, and which he did not do?
+Let it be assumed, for the purpose of argument, that the procedure was in some respects irregular; what right does it give the safety director to rescind his order and reinstate relator as such fireman, over his objection and refusal to accept such reinstatement?
+In the instant case the safety director had done all that he could do; and when relator allowed the ten days to expire within which he had a right of appeal, there was nothing more that he could then do to change the order of the safety director. It would seem to be fundamental that, when a right of an individual has been violated, it is his privilege only and not that of others to seek a remedy; and in this case the relator is not complaining of the action of either the safety director or the fire chief.
+In the case of State ex Flynn v Davis, 46 Oh Ap 46, (14 Abs 625) the director undertook to change his decision, even with the acquiescence of the relator, upon the theory that an error had been committed, and make his order show that relator had been “suspended” instead of “dismissed”; but the civil service commission refused to approve the change, and refused to place relator’s name on the pay roll. The court in that case held that when the relator failed to appeal within the time prescribed, and failed to seek any modification or vacation of the decision of dismissal, his status became fixed, and that he could not be reinstated by said director.
+We think the instant case clearly comes within the principles announced in that case, with which this court is in full accord.
+We therefore hold that the director had no authority to reinstate relator, over relator’s objection, for alleged irregularity in the procedure, in the absence of fraud or, collusion; and there is no such claim in this case. The status of relator thus became fixed at the expiration of the 10-day period within which plaintiff could appeal from the order of the safety director, and relator therefore stands dismissed from the fire department.
+.Second, was the cause for which relator was .dismissed, such as would deprive him of a pension under said rule No. 35?
+It will be noted that- rule No. 35 provides that, if a member is discharged for “refusal to respond to fire calls,”, he shall not be entitled to a pension, and that the com-print filed charged relator with “failing to respond to a sufficient number of fire calls,” etc.
+It is urged by counsel for defendants that relator’s “failure to respond” to a reasonable number of fire alarms should be construed as amounting to a “refusal to respond.”
+. The words “failure” and “refusal” not being synonymous, and there being a definite distinction between failing to do a particular act and refusing to do it, it seems to us that if the board making the rules intended that failure to respond to a particular number of calls should be construed as a refusal, it would have said so. The principle is well settled that courts should not and will not read into legislation, meanings that are not fairly infer-able from the language used. We are not in accord with defendants’ contention in this respect.
+Third, counsel for defendants further claim that relator did not comply with rule 24 of the trustees of said firemen’s relief fund as to the granting of pensions.
+Said rule requires the application to be in writing, stating the name of the applicant, or the name of his dependent, or both, as the case may be, together with their ages and residences.
+The evidence clearly' shows that the application was in writing, and that it was not rejected for failure to comply with said rule, but was rejected because the safety director had informed said board that he had reinstated relator and that they therefore regarded his status the same as it was before any action was taken against relator. We accordingly find no merit in this - claim of defendants.
+We therefore find that relator was and is dismissed from the fire department of the city of Lorain for a cause which does not prevent him from participating in the firemen’s pension fund.
+The writ will be allowed, with exceptions to defendants.
+STEVENS and WASHBURN, JJ, concur in judgment.
