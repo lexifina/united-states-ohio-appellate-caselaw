@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 644"
+decided: "1935-06-24"
+citations: ["20 Ohio Law Abs. 625"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROSS, PJ, and HAMILTON, J, concur."]
+parties: ["AMERICAN ROLLING MILL CO v DUNCAN"]
+source_url: "https://static.case.law/ohio-law-abs/20/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666237
+cites_cases: ["118 Oh St, 522", "126 Oh St, 434", "127 Oh St, 541", "129 Oh St, 495"]
+---
+
+# American Rolling Mill Co. v. Duncan
+
+## Majority (By MATTHEWS, J.)
+
+OPINION
+By MATTHEWS, J.
+The employer did not dispute the existence of the abscess and the experts agreed that abscesses are caused by bacteria or germs. The employer did deny that the injury, if any, had anything to do with the abscess, or the abscess with the employee’s mental disability. The theory of the employee was that germs — specifically streptococci — lodged in the abrasion, causing the abscess, and that they spread through the system to the brain causing that type of insanity known as meningo-encipholitis. There is substantial evidence to support this theory, and this court cannot say the jury was wrong in basing its verdict upon that evidence. We, therefore, pass, to the other errors assigned.
+It is claimed that no application for compensation was made within the two years period, required by §1465-72 A, GC, to the employer or a duly authorized agent. The employer was a self-insurer and, therefore, the application should have been made to it. An oral application is sufficient. Tyler v Rebic, 118 Oh St, 522. State ex Bettman, etc. v Clow & Sons Co., 36 Oh Ap 156. We find that within a month after this injury oral application was made to the representatives of the employer, whose duty it was to report such matters. The employee immediately went to the employer’s private hospital, maintained for the purpose of taking care of injured employees. He was told that he was not entitled to treatment, apparently on the ground that his condition had not been caused by an injury occasioned in the course of his employment. Later, during the succeeding month, a claim for compensation was made to Walke and Byrum, agents of the employer, at the employee’s home, in the employee’s presence. Whether the words were spoken by the employee or his wife in his presence is immaterial. They were either spoken by him or on his behalf. We think this application was sufficient to apprise the employer of the nature of the claim and that it was made to an agent authorized to receive it.
+There is no dispute that the esnnloyee filed an application for adjustment of claim with the Industrial Commission, and that on November 16th, 1932, the Commission made a finding that the proof “fails to show claimant’s disability was due to alleged injury sustained,” and further “that said application was not filed within the'statutory two year period from date of injury,” and, therefore, the claim was disallowed. Thereafter, a rehearing was granted, evidence presented and an appeal taken within the statutory time after the disallowance of the claim upon the rehearing.
+It is claimed that the application for a rehearing was not filed within thirty days after notice of the original disallowance of the claim by the Commission.
+The record leaves it in doubt as to just v/hen notice was received by the employee. Until notice was received, time did not begin to run. §1465-90 GC. The record shows that on December 9th, 1932 a letter was addressed to the Industrial Commission, in which it was stated that claimant desired a rehearing. This letter was received the next day, and within 30 days of the disallowance of the claim and, of course, within 30 days of receipt of notice of its disallowance. This letter was signed by an attorney and presumptively he was authorized. But at that time the employee had been adjudged insane, and it is claimed that that fact renders the letter ineffectual as an application. We do not understand an adjudication of insanity to have that nullifying effect upon acts thereafter done by the insane person when beneficial to him. The institution of an action by an insaiie person in one of the judicial courts would not be a nullity. Upon discovery of the insanity, such action would be prosecuted by his guardian or trustee. §11249, GC; 22 O. Jur. 85, et seq.; 14 R.C.L., 611. If the act of an insane person in filing a civil action will be given effect by the law, it would seem clear that an application for a rehearing before an administrative board, created especially to safeguard his interests, could not be given less effect. It would seem that until his incapacity was disclosed to the board, his actions should be given full effect, and upon discovery of his incapacity, the Board should so act that he would lose no procedural right because of his incapacity. The guardian was appointed on December 13th, 1932, and on December 22nd, 1932 she filed an application for rehearing on a form provided by the Commission, in which she recited that a request for a rehearing had been filed by letter on December 9th, 1932. If the analogies of court procedure are to control, this would seem to be sufficient.
+Furthermore, it is entirely possible that the application by the guardian was filed within 30 days of receipt of notice, and the Industrial Commission evidently considered that it had been filed within time as it granted the rehearing. The Commission having decided that question, the court would not be justified in disturbing the finding in the absence of evidence disclosing an abuse of discretion. State ex Allen v Industrial Commission, 127 Oh St, 541. The evidence in this record does not prove an abuse of discretion.
+Other errors in the admission of evidence and in the instructions to the jury are assigned, but they are not well taken or prejudicial.
+The basis of the plaintiff’s claim was the alleged injury of October 19th, 1929. Compensation depended upon proof of that, and that his disability — insanity—was a proximate result of that- injury. Denial of his right to compensation on the ground that his d>jability was not due to the injury sustained was a denial on a jurisdictional ground, which could be reviewed by the court. State ex Cezkovsky v Industrial Commission, 126 Oh St, 434, and Noggle v Same, 129 Oh St, 495.
+For these reasons, the judgment is affirmed.
+ROSS, PJ, and HAMILTON, J, concur.
