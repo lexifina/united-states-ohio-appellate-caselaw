@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1941-02-03"
+citations: ["67 Ohio App. 148"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Carpenter, and Lloyd, J J., concur."]
+parties: ["In re Village of Rossford."]
+source_url: "https://static.case.law/ohio-app/67/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368246
+cites_cases: ["34 Ohio St., 228", "60 Ohio App., 1"]
+---
+
+# In re Village of Rossford
+
+## Majority (Overmyer, J.)
+
+Overmyer, J.
+In November 1939 tbe voters of tbe village of Rossford voted to incorporate as a municipality. In April 1940 officers were elected, and the municipality began to function on May 1, 1940. Tbe village was located in Ross township, Wood county.
+In June 1940 tbe village council filed an application under Section 3249, General Code, to have tbe county commissioners erect a new township out of tbe territory included within tbe corporate limits of Rossford village. In August 1940 this was done and tbe new township of Rossford was established, its boundaries being coextensive and coterminous with tbe corporate boundaries of tbe village. Tbe board of county commissioners also granted a petition of tbe residents outside of Rossford and created a new Ross township of the part remaining outside tbe village, under authority of Section 3250, General Code.
+In September 1940 tbe village filed an application in Probate Court, under Section 3544, General Code, for a division of tbe funds, pending tbe bearing of which the trustees of Ross township filed a motion to dismiss the application for the reason that the Probate Court had no jurisdiction. On hearing, the motion of the trustees was sustained and the application of the village was dismissed at its costs, from which order this appeal is prosecuted on the assigned error that the finding and judgment is contrary to law.
+The board of trustees, as appellee here, contends that the judgment is correct for the reason that the village, having invoked the jurisdiction and action of the board of county commissioners under Section 3249, General Code, to erect a new township within the confines of the village, must continue its proceedings for division of funds before that board under succeeding Sections 3250-2 and 3250-3, General Code.
+The village, as appellant, contends on the other hand that the more recently enacted Sections 3250-1 and 3250-5, General Code, have no application and that the division of funds, etc., must be made by the Probate Court under Section 3544, General Code.
+It is our view that the position of the village is the correct one, upon consideration of the following statutes:
+Sections 3244 to 3250, General Code, have been in force without change for many years, other than the change in Section 3246 made in 1935 whereby an area less than twenty-two square miles could be formed into a township. In 1935 an act was passed (116 Ohio Laws, 197) “to amend Section 3246 of the General Code and to supplement Section 3250 by the enactment of supplemental Sections 3250-1, 3250-2, 3250-3, 3250-4, 3250-5, providing for the erection of townships to include only the territory exclusive of cities.” (Italics ours.)
+Before supplementary Sections 3250-1 to 3250-5, General Code, were adopted in 1935, the only statute providing authority for division of funds and indebtedness when a village has been created out of a portion of a township was Section 3544, which authorized such action by'the Probate Court on application of the village.
+Quaere: Do supplemental Sections 3250-1 to 3250-5, General Code, adopted in 1935, change the authority or jurisdiction given only in Section 3544, so far as a village is concerned?
+An examination discloses no such change of authority or jurisdiction. The supplemental sections referred to are supplemental ones only and in no way by their terms repeal or amend original Section 3250 or Section 3544. Not only that, but the supplemental sections relate only to cities and not to villages and were obviously enacted (among other reasons, perhaps) because Section 3544 did take care of villages but no section took care of cities. That is, a situation or situations may have existed in outskirts of a city or cities such as described in Section 3250-1, which prompted the enactment of the supplemental sections.
+Section 3250-1 reads as follows:
+“Where a township contains a city or cities, if a majority of the freehold electors owning land in the portion of such a township outside of said city limits, petition with a map accurately setting forth such territory, praying to have such territory erected into a new township, excluding the territory within the city or' cities, the commissioners of the county in which such township is situated' shall enter an order erecting such territory into a new township, the boundaries of which need not include twenty-two miles of territory; Upon the erection of such new township the territory lying within the limits of the city or cities in the original township shall be considered as not being located in any township.” (Italics ours.)
+The next supplemental section, Section 3250-2, then provides for the “apportionment of indebtedness” by the county commissioners and again refers to “city or cities” as in the preceding supplemental section, and the next supplemental section, Section 3250-3, relates to funds on hand, credits and properties, and how they are divided, and states what the county commissioners shall do in that respect as between the “new township and the city or cities eliminated, from the township,” etc. ■ (Italics ours.)
+The “supplemental sections” enacted in 1935 (3250-1 to 3250-5) are therefore clearly “elimination” sections, that is, eliminating city territory, with its accompanying high taxes and other burdens, from the farm territory, and getting the farm territory back into a township of farm lands; and they have no reference to the situation here presented where a village in a township incorporates and proceeds- to have itself separated from the old township into a township by itself, having no township officers except justices of the peace and constables. See Section 3512, General Code; McGill v. State, 34 Ohio St., 228, at 251.
+The only statute, therefore, providing authority for anyone to divide the funds of the two political units in the instant case, following the “divorce,” is Section 3544, General Code, which is as follows:
+“When a village has been created out of a portion of a township, or portions of more than one township, a proper division of the funds for township purposes in the treasury, or in the process of collection, of the township or townships from which the territory has been taken, shall, upon application of the village to the Probate Court of the county in which the territory is situated, be determined and ordered paid over to the treasurer of the village. In determining the portion of such funds to which the village is entitled, the indebtedness of each township shall be taken into consideration. Ten days notice of such hearing shall be given by the treasurer of the applicant to the treasurer of each township whose funds are sought to be divided. The findings and orders of the Probate Court shall be final.”
+It is apparent from what has been said that the case cited in the briefs, vis., In re Lemon Twp. Trustees, 60 Ohio App., 1, 19 N. E. (2d), 277, has no application here, for Middletown, Ohio, is of course a city, not a village. With the statement in that opinion that no division of funds can be made in the absence of statutory authority, we agree, and the only statutory authority we find to apply here is Section 3544, General Code.
+The judgment of the lower court must be reversed and the cause remanded with directions to overrule the motion to dismiss the application of the village, and for further proceedings according to law.
+Judgment reversed and cause remanded.
+Carpenter, and Lloyd, J J., concur.
