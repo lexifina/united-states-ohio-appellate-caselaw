@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6-92-3"
+decided: "1992-10-30"
+citations: ["83 Ohio App. 3d 362"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hadley, P.J., and Thomas F. Bryant, J., concur."]
+parties: ["The STATE of Ohio, Appellant, v. ELLIS, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/83/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1683478
+cites_cases: ["1 OBR 219", "1 Ohio St.3d 192", "24 OBR 49", "24 Ohio App.3d 27", "30 OBR 11", "30 Ohio St.3d 1", "438 N.E.2d 897", "492 N.E.2d 873", "506 N.E.2d 196"]
+---
+
+# State v. Ellis
+
+## Majority (Evans, Judge.)
+
+Evans, Judge.
+This is an appeal by the state from a judgment of the Court of Common Pleas of Hardin County granting the motion of the defendant, Robert Ellis, to exclude the testimony of his wife during his criminal trial.
+Appellee’s indictment arose out of the theft of money from a convenience store. The theft was facilitated by appellee’s girlfriend, Danielle Bowers, who was an employee of the business. Danielle was a minor at the time of the theft.
+Based upon the report of a police interview with Danielle, wherein she described the modus of the theft and identified appellee as her confederate, appellee was arrested and charged with grand theft, in violation of R.C. 2913.-02(A)(1), with a specification of a prior violence offense, see R.C. 2941.143, and with contributing to the delinquency of a minor, in violation of R.C. 2919.24(A)(2). Appellee was indicted by a grand jury on July 9, 1991. Trial on the indictment was set for December 17 and 18, 1991. Following the state’s request for a continuance, the trial was rescheduled for February 3 and 4, 1992.
+On January 24, 1992, appellee filed a motion in limine requesting the court to exclude from evidence the testimony of Danielle Bowers, on the basis that Evid.R. 601 provides that “a spouse testifying against the other spouse charged with a crime” is not a competent witness. The court failed to respond to the motion prior to the trial date, but held a hearing on the morning of February 3, 1992. Although the potential jurors had already convened, they were dismissed prior to the motion hearing.
+It was established at the hearing that appellee and Danielle Bowers had been married on December 24, 1991. The court therefore ruled that Danielle was incompetent to testify against her husband unless she chose to do so. See Evid.R. 601(B)(2).
+Pursuant to Crim.R. 12(J), the state took an immediate appeal from the court’s granting of the motion, contending that the court’s decision “rendered the state’s proof with respect to the pending charge so weak in its entirety that any reasonable possibility of effective prosecution has been destroyed.” Crim.R. 12(J)(2). Appellant has asserted the following assignment of error:
+“The trial court committed reversible error in expanding the substantive rights of a spouse under Ohio Revised Code section 2945.42 through an application of procedural evidence.”
+While appellant has failed to provide us with a proper assignment of error and issue for review as required by App.R. 16(A) and Loc.R. 7(A), in the interest of justice we will presume that the state is assigning error to the court’s finding that Danielle Ellis was incompetent to testify against her husband in his criminal trial, pursuant to Evid.R. 601(B). Because we find that the trial court committed error, either due to a misunderstanding of, or an unreasonable application of, the applicable law, we sustain the assignment of error, and reverse the judgment of the trial court.
+The state argues that R.C. 2945.42 and Evid.R. 601 conflict as to the competency exception for spouses. We hasten to point out that the portion of the statute relating to spousal competence has been superseded by the Evidence Rule since its inception in 1980. Pursuant to the rule, a witness-spouse is incompetent “to testify against the other spouse in a criminal prosecution with the broad exception of any crime against the testifying spouse.” (Emphasis added.) Evid.R. 601(B), 1980 Staff Note. Under the exception, such spouse can be compelled to testify against the criminally charged spouse. Evid.R. 601(B)(1). Furthermore, case law interpretation of the Rule “has affirmed the competency of a spouse to testify against the other spouse as to a crime committed against a third person where the crime is part of one continuous transaction or occurrence which culminates in offenses against the third party and the spouse.” Weissenberger’s Ohio Evidence (1991), Section 601.4 (citing State v. Mowery [1982], 1 Ohio St.3d 192, 1 OBR 219, 438 N.E.2d 897, syllabus); State v. Fewerwerker (1985), 24 Ohio App.3d 27, 24 OBR 49, 492 N.E.2d 873.
+Appellee’s crime of theft against the convenience store owner and his contributing to the corruption or delinquency of his minor accomplice “constitute one continuous transaction or happening culminating in offenses against two individuals.” (Emphasis added.) Mowery, 1 Ohio St.3d at 197, 1 OBR at 224, 438 N.E.2d at 901. Since the offenses were inextricably intertwined, arising out of the “same continuing incident,” eliciting evidence from Danielle relating only to the “contributing” charge would serve only to thwart the express purpose of the Ohio Rules of Evidence “to provide procedures for the adjudication of causes to the end that the truth may be ascertained and proceedings justly determined.” Evid.R. 102. Since Danielle was the only eyewitness to appellee’s crimes, exclusion of her testimony precludes a just resolution of the case.
+We find that the trial court erred in declaring Danielle incompetent to testify against her husband, since the exception to spousal incompetence is applicable to the circumstances of this case under the rule and the common law. Appellee’s involvement of Danielle, his minor girlfriend, in the theft of money from her employer, resulting in his indictment for contributing to delinquency of a minor, is a crime against her as contemplated by the Rules of Evidence. She is thus competent to testify against her spouse in his trial on the contributing charge, as well as the theft, since the charges arose out of a single criminal event which victimized Danielle as well as others. See Mowery, 1 Ohio St.3d at 196-197, 1 OBR at 223-224, 438 N.E.2d at 900-901.
+Having found prejudice to the appellant herein, we reverse the judgment of the trial court, and remand the case to that court for further proceedings.
+Judgment reversed and cause remanded.
+Hadley, P.J., and Thomas F. Bryant, J., concur.
+. The Staff Note to amended App.R. 16(A), effective as of July 1992, clearly illustrates and explains the proper formulation of assignments of error and issues presented for review in all Ohio appellate courts.
+. Spousal privilege, or the right of a witness-spouse to refuse to testify concerning private, intramarital communications, is not at issue in this case since any communication between appellee and his spouse relating to the execution of the theft took place before the marriage, and thus was not "privileged” under the rule.
+. Spousal privilege, as opposed to spouse-witness competency, is encompassed by Evid.R. 501 and is still validly addressed by the relevant portion of R.C. 2945.42. The two “exclusionary” rules "are separate, independent rules of exclusion.” State v. Savage (1987), 30 Ohio St.3d 1, 30 OBR 11, 506 N.E.2d 196. Savage sets forth a clear and succinct explanation of the difference. See id. at 3-4, 30 OBR at 12-13, 506 N.E.2d at 197-198.
