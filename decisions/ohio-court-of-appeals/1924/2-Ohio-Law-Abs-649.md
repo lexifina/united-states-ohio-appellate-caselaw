@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "2340"
 decided: "1924-03-10"
-citations: ["2 Ohio Law Abs. 649", "2 Ohio Law Abs. 488"]
+citations: ["2 Ohio Law Abs. 649"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
