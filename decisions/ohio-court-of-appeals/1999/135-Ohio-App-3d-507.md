@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA99-04-075"
+decided: "1999-11-08"
+citations: ["135 Ohio App. 3d 507"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["William W. Young and Valen, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. DRAKE, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/135/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 135059
+cites_cases: ["108 Ohio App.3d 580", "121 Ohio App.3d 445", "20 OBR 215", "20 Ohio App.3d 172", "485 N.E.2d 717", "49 Ohio St.3d 137", "551 N.E.2d 190", "574 N.E.2d 492", "61 Ohio St.3d 259", "671 N.E.2d 338", "678 N.E.2d 541", "700 N.E.2d 336", "78 Ohio St.3d 380"]
+---
+
+# State v. Drake
+
+## Majority (Powell, Presiding Judge.)
+
+Powell, Presiding Judge.
+Defendant-appellant, Danny Ray Drake, appeals his conviction, rendered in the Middletown Municipal Court, for domestic violence in violation of R.C. 2919.25(C). We affirm the decision of the trial court.
+On December 30, 1998, appellant was arrested for domestic violence against his wife, Eva Drake. Appellant pled not guilty. A bench trial occurred on March 15, 1999. Eva Drake testified that she was in the process of divorcing appellant, but that both parties still lived in the marital residence. On December 30, 1998, at the marital residence, appellant and Eva Drake were putting their four-year-old daughter in Eva’s car to take the daughter to the babysitter. Eva testified that the daughter “was throwing a fit because she didn’t want to go to the babysitter’s.” Eva’s niece was also present, helping put the daughter in the vehicle. Eva testified that “[appellant] looked straight up at me, didn’t blink [an] eye and said, ‘I’m going to burn you alive.’ ” Eva responded, “Oh,” and left the residence. Eva Drake testified that she felt “[l]ike he would do it.” When questioned why she believed him, she testified, “Because he’s put my arm in a cast before and done several other things.” In addition, she testified, “[H]e’s dug enough holes in his life he could put me in one and no one would ever know it.” Eva drove to her mother’s home and left her daughter with her mother. Eva called the police from her mother’s residence and was told that she would need to file a report.
+Soon after, an appraiser was scheduled to appraise equipment from appellant’s business, Tombstone Sand and Gravel, as part of the divorce proceedings. Eva testified that “[p]ossibly 45 minutes” elapsed between the time she left her residence and went to Tombstone Sand and Gravel. The equipment that needed to be appraised was located near a river. According to Eva, “[appellant] proceeded to tell me that across the street was my appraiser, that he had been ordered off the land and that if I didn’t leave that I would be part of the river.” On cross-examination, Eva was asked why she didn’t leave Tombstone Sand and Gravel before her conversation with appellant. She testified, “Well there’s five people around me. I don’t think he’s going to hurt me in front of somebody.”
+After the testimony of Eva, the only evidence the prosecution presented, appellant moved for a directed verdict. The trial court overruled the motion. In the defense case in chief, appellant testified, denying his wife’s accusations. The trial court found appellant guilty as charged. The trial court reasoned that Eva’s testimony was credible and proved the charge of domestic violence. From his conviction, appellant filed a timely notice of appeal and presents four assignments of error for our review:
+Assignment of Error No. 1
+“The trial court erred in denying appellant’s motion for acquittal at the close of the state’s case in chief, where there was legally insufficient evidence to establish each material element of the offense beyond a reasonable doubt.”
+Assignment of Error No. 2
+“Appellant’s conviction for domestic violence is not supported by legally sufficient evidence and is contrary to law.”
+Assignment of Error No. 3
+“Appellant’s conviction for domestic violence was against the manifest weight of the evidence and is contrary to law.”
+Assignment of Error No. 4
+“The trial court erred when it permitted state’s witness to testify regarding alleged prior acts of violence by appellant toward the witness, where such testimony was not properly particularized, but only general in nature.”
+We consider appellant’s first and second assignments of error together. These two assignments argue that the evidence supporting the conviction, Eva Drake’s testimony, was legally insufficient. In determining whether a conviction is legally sufficient, the reviewing court must view the evidence in the light most favorable to the prosecution and determine whether any reasonable trier of fact could find appellant guilty beyond a reasonable doubt. State v. Jenks (1991), 61 Ohio St.3d 259, 273, 574 N.E.2d 492, 503.
+Appellant argues that harm was not sufficiently “imminent” in order to prove beyond a reasonable doubt that he committed domestic violence. We are not persuaded. The first statement by appellant to Eva was “I’m going to burn you alive.” The statement was unconditional. Even if appellant did not literally mean he would set her on fire, the statement was sufficient to put Eva in imminent concern for her physical well-being. Hamilton v. Cameron (1997), 121 Ohio App.3d 445, 449, 700 N.E.2d 336, 338. As the court stated in Cameron, “The state of mind of the victim is an essential element of this crime.” Id. In this case, Eva testified that she “was petrified of him.” When Eva went to the job site, she did not know appellant would be there. At the site, appellant told Eva that if she did not leave his business, she would be part of the river. This statement was conditional, but, based on the totality of the circumstances, including appellant’s other threat forty-five minutes earlier, the trial court was entitled to conclude this threat was an imminent one. In any event, the threat “I’m going to burn you alive” is sufficient to support the conviction. Accordingly, the first and second assignments of error are overruled.
+In the third assignment of error, appellant argues that the conviction was against the manifest weight of the evidence. In determining whether a conviction is against the manifest weight of evidence, the appellate court reviews the record as a “thirteenth juror.” State v. Thompkins (1997), 78 Ohio St.3d 380, 387, 678 N.E.2d 541, 546-547. The standard of review is as follows:
+“ ‘The court, reviewing the entire record, weighs the evidence and all reasonable inferences, considers the credibility of witnesses and determines whether in resolving conflicts in the evidence, the jury clearly lost its way and created such a manifest miscarriage of justice that the conviction must be reversed and a new trial ordered. The discretionary power to grant a new trial should be exercised only in the exceptional case in which the evidence weighs heavily against the conviction.’” Id., 78 Ohio St.3d at 387, 678 N.E.2d at 547, quoting State v. Martin (1983), 20 Ohio App.3d 172, 175, 20 OBR 215, 219, 485 N.E.2d 717, 720-721.
+The trial court, being in the best position to evaluate the credibility and veracity of the witnesses, found the testimony of Eva credible. Her testimony supports appellant’s conviction for domestic violence, and, therefore, we cannot say the jury clearly lost its way. The third assignment of error is overruled.
+In the fourth assignment of error, appellant argues that the trial court improperly allowed Eva to testify about prior bad acts that are too generalized to meet the mandate of Evid.R. 404(B). Evid.R. 404(B) states:
+“Evidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show that he acted in conformity therewith. It may, however, be admissible for other purposes, such as proof of motive, opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake or accident.” See, also, State v. Smith (1990), 49 Ohio St.3d 137, 551 N.E.2d 190.
+This assignment concerns three statements included in Eva’s testimony: (1) that appellant had previously caused her arm to be put in a cast, (2) that appellant told her that he has “dug enough holes in his life and could put her in one and no one would ever know it,” and (3) appellant told her that he had access to heavy equipment and access to the river.
+The act of previously causing Eva’s arm to be put in a cast is admissible to show Eva’s state of mind when appellant made the threats in this case. The second statement also goes to Eva’s state of mind. The third statement is directly relevant to the threat to put Eva in the river. These two previous threatening statements and one prior act are not generalized bad acts from appellant’s past. See State v. Collie (1996), 108 Ohio App.3d 580, 584-585, 671 N.E.2d 338, 340-341. Each of them is relevant to the specific facts of this case, and the trial court was within its discretion to admit them. The fourth assignment of error is overruled.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+William W. Young and Valen, JJ., concur.
+. R.C. 2919.25(C) states:
+"No person, by threat of force, shall knowingly cause a family or household member to believe that the offender will cause imminent physical harm to the family or household member.”
