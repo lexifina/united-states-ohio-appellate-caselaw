@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "38066"
+decided: "1979-03-01"
+citations: ["61 Ohio App. 2d 63"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stillman, P. J., and Patton, J., concur."]
+parties: ["Iadisernia, Appellant, v. Andrews et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/61/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1485673
+cites_cases: ["42 Ohio St. 2d 145"]
+---
+
+# Iadisernia v. Andrews
+
+## Majority (Jackson, J.)
+
+Jackson, J.
+Plaintiff-appellant, John C. Iadisernia, was notified by the Registrar of the Bureau of Motor Vehicles that because he had not less than 12 points charged against him within a two-year period for traffic violations, his driver’s license would be suspended for six months. Pursuant to R. C. 4507.40 (K), appellant filed a petition in the Cleveland Municipal Court alleging that he could show cause why his driving privileges should not be so suspended. He also requested that certified copies of all pertinent records be sent to himself and to the court.
+The parties came before the court on May 26, 1977. The attorney for the appellant raised an objection to the fact that the record certified by the Registrar failed to include the nature of one offense for which points were assessed. The trial court maintained that the violation at issue was designated as a speeding violation on a computer print-out which the court apparently had before it, and accordingly the petition was denied and the suspension ordered by the court.
+Appellant has assigned three errors for review.
+“I. The judgment of the Cleveland Municipal Court is contrary to law in that the certified transcript furnished by the appellees is deficient under Section 4507.40 (N) of the Ohio Revised Code and only properly shows an accumulation of eight points.
+“II. The Cleveland Municipal Court committed prejudicial error in considering unsworn testimony from an unsworn source in determining that the points were properly charged to the appellant.
+“HI. Other errors apparent upon the face of the record and occurring during the course of the proceedings.”
+The argument asserted by appellant in the first two assignments of error is essentially that the court did not have a proper record before it upon which to base a suspension of appellant’s license to drive an automobile. We agree.
+R. C. 4507.40 (N) requires that upon the request of a licensee challenging his potential suspension, the Registrar shall furnish the licensee a copy of the record of convictions and bond forfeitures which shall include:
+“***the name, address, and birthdate of the person so charged; the number of his operator’s or chauffeur’s license; the name of the court in which each conviction or bail forfeiture took place; the nature of the offense; the date of the hearing; the number of points charged against each conviction or bail forfeiture; and such other information as the registrar of motor vehicles may deem necessary.”
+This section of the Ohio Revised Code further sets forth that the matter shall be heard and determined “upon the record certified by the registrar and such additional, relevant, competent, and material evidence as either the registrar or the person whose license is sought to be suspended submits.”
+The Registrar did certify a document titled “State of Ohio Bureau of Motor Vehicles - Conviction Record,” but that document fails to include the nature of the offense as required by statute for two of the violations listed. Consequently, the materials certified by the registrar failed to make out a “prima facie” case that appellant is a repeat traffic offender, and that his driving privilege should be suspended. R. C. 4507.40 (N).
+While the statute also allows for additional evidence to be introduced at the hearing, absolutely no evidence was submitted by either party to these proceedings. The record before this court does not disclose any evidence beyond the inadequate document submitted by the registrar. Therefore, the registrar has failed to demonstrate in accordance with the statute that appellant has accumulated the requisite number of points to justify a suspension of his driving privileges. At the same time, appellant has succeeded in meeting his burden to show cause why his license should not be suspended.
+The appellee argues that the suspension is based on a proper record for three reasons: (1) that the Registrar is required only to furnish a certified copy of its records to the petitioner and not to the court; (2) that since the Registrar did forward a certified document to the court and it establishes that appellant accumulated 12 points within two years, the exclusion of the nature of the offense is irrelevant; and, (3) that the Registrar did provide the court with a certified computer print-out which demonstrates that the offenses in question are speeding offenses and appellee attached a copy of the print-out to its brief.
+The argument advanced by appellee must fail. First, while the statute does state that the Registrar must only furnish the records to the licensee, the statute also states that the matter shall be heard and determined upon the basis of the record certified by the Registrar and additional evidence submitted by the parties. The record demonstrates that the Registrar voluntarily complied with a request by appellant to forward the certified records to himself and to the court. This procedure, while not mandated by the statute, only serves to protect the accuracy of those records which are certified by the Registrar. We find no fault in this procedure.
+Next, appellee suggests that the omission of the nature of two offenses from the record of convictions is irrelevant. This contention ignores the statutory language which requires that the record “shall include***the nature of the offense” (emphasis added), as well as the statutory language which instructs that when municipalities report violations to the Registrar, they “shall include* * *the nature of the offense.” R. C. 4507.40 (N). (Emphasis added.) While a summary procedure for license suspensions where there is no challenge may be upheld in light of administrative convenience, the specific purpose of the statutory procedure enacted to allow the challenge of license suspensions can certainly not be fulfilled where the court fails to enforce the clear statutory language relevant to establishing the very basis for the suspension. Cf. Jacob v. Curry (1975), 42 Ohio St. 2d 145.
+Finally, appellee suggests that the computer print-out which he has attached to his brief was certified by the registrar and transmitted to the trial court. As stated above, any such computer print-out has not been included in the materials which constitute the record on appeal in this case. Neither was it included in the materials certified by the registrar as the record on file in the Bureau of Motor Vehicles and sent directly to the Clerk of the Municipal Court. Nor was it introduced into evidence at the hearing before the trial judge. Any reliance placed by the trial court in such unsworn, uncertified materials which are not properly put into evidence is totally erroneous.
+We are not suggesting that the registrar could not have rectified the deficiency in the record at the time of the hearing before the trial judge. The statute specifically provides for the introduction of “additional relevant, competent, and material evidence” as either party submits. Thus, in the case at bar, if there existed admissible evidence to establish sufficient chargeable traffic violations to justify suspension, then the registrar should have adhered to the traditional rules of evidence in placing that material before the court. The record contains reference to a computer print-out. Any such document, however, was not marked, introduced, or received into evidence. Further, it is not contained in the record before this court. Therefore, the record fails to support the argument of the registrar.
+Appellant’s third assignment of error is disregarded pursuant to Appellate Rule 12 (A).
+Accordingly, for all of the above stated reasons, the judgment of the trial court must be reversed.
+Judgment reversed.
+Stillman, P. J., and Patton, J., concur.
+By the Court’s response, it is at least arguable that she understood that the appellant’s complaint was directed to two violations which failed to designate the nature of the offense. It is unnecessary for us to resolve this question for the failure to indicate the nature of one offense mandates the same result as the failure to indicate the nature of two offenses.
