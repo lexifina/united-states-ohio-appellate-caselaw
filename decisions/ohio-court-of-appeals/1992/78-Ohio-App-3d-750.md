@@ -1,0 +1,92 @@
+---
+court: "Ohio Court of Appeals"
+docket: "61829"
+decided: "1992-03-23"
+citations: ["78 Ohio App. 3d 750"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["John F. Corrigan, P.J., and Krupansky, J., concur."]
+parties: ["CLEVELAND INDOOR SOCCER COMPANY, LTD., Appellee, v. HAASKIVI, Appellant; Wolstein, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/78/cases/0750-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666249
+cites_cases: ["10 OBR 500", "10 Ohio St.3d 167", "1989 WL 7940", "1992 WL 1030", "23 OBR 200", "23 Ohio St.3d 69", "370 N.E.2d 494", "462 N.E.2d 407", "491 N.E.2d 1101", "50 Ohio St.3d 157", "52 Ohio App.2d 327", "553 N.E.2d 597", "570 N.E.2d 1076", "59 Ohio St.3d 42", "595 N.E.2d 467", "6 O.O.3d 365", "72 Ohio App.3d 493"]
+---
+
+# Cleveland Indoor Soccer Co. v. Haaskivi
+
+## Majority (Pryatel, Judge.)
+
+Pryatel, Judge.
+Defendant-appellant Kai Haaskivi filed this appeal subsequent to the trial court’s granting summary judgment for plaintiff-appellee Cleveland Indoor Soccer Company, Ltd., and for third-party defendant-appellee Scott Wolstein.
+On July 16, 1984, Haaskivi signed a standard player agreement with the Cleveland Indoor Soccer Company, Ltd., which operates the Cleveland Force soccer team. The following provisions contained in the standard player agreement rider are relevant to this appeal:
+“2. Club shall pay to Player the following sums per year as reimbursement for living expenses incurred, such payments to be made in 24 consecutive, equal, semi-monthly installments commencing June 1 of each year:
+(a) $15,000 for the period commencing June 1, 1986 and ending May 31, 1987;
+(b) $17,500 for the period commencing June 1, 1987 and ending May 31, 1988;
+(c) $20,000 for the period commencing June 1, 1988 and ending May 31, 1989.
+« * * *
+“5. For the period commencing June 1, 1988 and ending May 31, 1989, Club shall pay to Player a total salary of $118,000 to be paid in 24 consecutive, equal, semi-monthly installments commencing June 1, 1988.
+ÍÍ * * *
+“6. Club shall pay directly to International Management Group Player’s management fees as provided in the schedule next following, payable in four equal installments on October 1, December 1, February 1 and April 1 of each year:
+“Year 1 — $15,000
+“Year 2— 16,000
+“Year 3— 19,000
+U * * *
+“10. Club shall provide Player and his family with medical insurance coverage during the term hereof at Club’s own expense and pay for other medical expenses incurred by Player and his family, including payment of any and all insurance premiums, deductibles and noninsured medical expenses.
+(( * * *
+“12. Club agrees that 100% of the compensation payable hereunder shall be guaranteed in the event that Player is terminated prior to the expiration of the contract term; provided, however, that Player shall be required to exercise his best efforts to obtain alternative employment as an indoor soccer player from among the ‘acceptable’ Clubs on Player’s designated list (see item fourteen below) at the maximum salary available, and Club’s responsibility hereunder shall be reduced by the full amount of compensation received by Player from his new Club during the applicable time period.
+(( * * *
+“15. Player shall participate as instructor for all Club soccer camp activities, except that Player will not be required to participate in more than two consecutive weeks of camps without Player’s consent. Player shall be entitled to two months’ vacation during the off season, said vacation to be taken at times which will not conflict with club’s camp schedule. Club agrees to provide Player with not less than 30 days’ advance notice of the dates of said soccer camps. Club agrees to reimburse Player for transportation costs, etc., on the same basis as that provided to all other players.”
+Because the Major Indoor Soccer League (“MISL”) was in financial difficulties, the collective bargaining agreement with the Major Indoor Soccer League Players Association (“MISLPA”) was renegotiated. The following sections of the amendatory agreement are relevant:
+“2. Special Contract Provisions. MISLPA agrees that the right of individual players to negotiate guarantees, no-trade, or incentive bonus provisions into their individual contracts shall be suspended from the date of this agreement until June 30,1990. This agreement, however, shall have no effect upon current player agreements which include such provisions, which agreements and provisions shall remain in full force and effect for their stated duration except as specifically modified by this Amendatory Agreement.
+a * * *
+“11. Existing Guarantees. On or before June 1, 1988, the parties will agree on a formula for dealing with existing guaranteed contracts. If they fail to do so by such date any player covered by a guaranteed contract shall: “(a) Agree to mutually acceptable terms; or
+“(b) Take a salary reduction of up to 15% which the player must accept for the remaining term of his contract; or
+“(c) Accept a salary reduction of 16% to 30% for the remaining term of his contract or choose unconditional free agency.”
+This agreement went into effect in April 1988. As consideration for renegotiating the collective bargaining agreement, the MISLPA was guaranteed that the MISL would continue to exist for two years. Although neither appellant nor appellees were direct parties to this amendatory agreement, both agree that they are bound by its terms.
+Subsequently, the following letter dated June 10, 1988, was sent from the head coach of the Force, Timo Liekoski, to the appellant:
+“Pursuant to Section XI of the Amendatory Agreement between the Major Indoor Soccer League and the Major Indoor Soccer League Players’ Association date April 15, 1988, the Cleveland Indoor Soccer Company, Ltd. hereby offers you a salary reduction of thirty percent (30%) for the remaining term of your contract. You may either accept this reduction by signing and returning the enclosed copy of this letter or choose unconditional free agency. Unless we have received written notice of your acceptance within ten (10) days we will assume you have chosen unconditional free agency.
+“Please acknowledge receipt of this letter by signing and returning the enclosed copy to the undersigned.”
+On or about June 30, 1988, appellant elected a thirty-percent reduction in salary.
+On July 24, 1988, the Force ceased operations. In June 1988, appellant had received a $15,000 salary advance, which was to be repaid through reductions of his semi-monthly salary payments. Appellees continued to pay appellant until August 1, 1988.
+Pursuant to Section 12 of appellant’s contract, appellant secured employment with the Baltimore Blast for the salary of $90,000.
+Plaintiff-appellee filed suit to recover $26,136 in payments made to appellant. Appellant counterclaimed for monies owed under paragraphs 2, 5, 6, 10 and 15 of the standard player agreement rider. The trial court granted summary judgment for the appellees on both the complaint and the counterclaims.
+Appellant’s first assignment of error states:
+“Whether the trial court properly granted appellees’ motion for summary judgment, and summarily awarded appellees $26,136, on the claims of breach of contract and unjust enrichment?”
+A motion for summary judgment may be granted only where the motion demonstrates there are no genuine issues of material fact and that, as a matter of law, the moving party is entitled to a judgment. As the Supreme Court stated in AAAA Enterprises, Inc. v. River Place Community Urban Redevelopment Corp. (1990), 50 Ohio St.3d 157, 161, 553 N.E.2d 597, 601:
+“Summary judgment is a potentially useful, but extraordinary, procedure wherein the trial of issues of fact made up by the pleadings is avoided. Because summary judgment represents a shortcut through the normal litigation process by avoiding a trial, the burden is strictly upon the moving party to establish, through the evidentiary material permitted by the rule, that there is no genuine issue of material fact and that he is entitled to judgment as a matter of law. Civ.R. 56(C).”
+With this in mind, we turn to the motion for summary judgment filed by the appellees.
+In their motion, appellees essentially argued that for the 1988-1989 playing season, appellant’s salary was to be $190,000. After the thirty-percent reduction agreed upon, his salary would have been $133,000. Appellant was paid $69,136 by appellee and $90,000 by the Baltimore Blast, totalling $159,136. Appellees argue that appellant, therefore, earned $26,136 more than he was entitled under the standard player agreement. Since appellees believe appellant was overpaid due to the salary advance and final paycheck, they filed suit to recover the difference.
+Appellant does not contest these basic facts, but argues that, as a matter of contract law, appellees are incorrect. We agree.
+Appellant had a guaranteed standard player agreement with appellees under which appellees were obligated to pay appellant $190,000. Appellant agreed to a thirty-percent reduction in salary, reducing appellees’ obligation to $133,000. Absent a breach by appellant, it appears that appellees may be obligated to pay appellant the full sum due and owing under the contract. Appellees paid appellant only $69,136 and it is a question of fact whether appellees were further obligated to pay appellant the sum of $63,864.
+Pursuant to paragraph 12 of the standard player agreement, appellant had a duty to mitigate any damages he might sustain if he was terminated prior to the expiration of his guaranteed contract term. Appellant complied with this provision by securing employment with the Baltimore Blast for $90,000. That appellant was able to earn more than the sum still due and owing by appellees under his contract does not entitle appellees to a windfall of the excess monies.
+A mitigation clause in a contract acts to obligate the parties to exercise ordinary and reasonable care, diligence and prudence. See Sposit v. Navratil (1991), 72 Ohio App.3d 493, 595 N.E.2d 467. Appellant complied with this obligation. A mitigation clause essentially reduces the liability of the breaching party to the nonbreaching party. It does not entitle the breaching party to recoup any excess monies the nonbreaching party was able to secure. Appellees were obligated to continue paying appellant’s salary up until the time he secured employment with the Blast, and any monies paid to appellant up until that point were merely a fulfillment of appellees’ contractual obligations.
+Appellant’s first assignment of error is well taken.
+Appellant’s second assignment of error states:
+“Whether the trial court properly dismissed appellant’s claim of fraud when, viewing the evidence in a light most favorable to appellant, material facts exist demonstrating appellees’ misrepresentations?”
+When granting a motion for summary judgment, it must appear from the evidence that reasonable minds can come to but one conclusion, and that conclusion is adverse to the party against whom the motion is being made. Civ.R. 56(C). As this court held in Edified Developers, Inc. v. Gillombardo’s Broadview, Inc. (Jan. 2, 1992), Cuyahoga App. No. 59674, unreported, 1992 WL 1030:
+“Thus, pursuant to this rule, a trial court commits reversible error where it grants summary judgment in a matter where the material facts are in dispute, see, e.g., Hickman v. Ford Motor Co. (1977), 52 Ohio App.2d 327, 331 [6 O.O.3d 365, 367, 370 N.E.2d 494, 497], or where the moving party is not entitled to judgment as a matter of law. Taylor v. Taylor (Feb. 2, 1989), Cuyahoga App. No. 54927, unreported [1989 WL 7940].”
+The Supreme Court recently reiterated the elements of fraud in Russ v. TRW, Inc. (1991), 59 Ohio St.3d 42, 49, 570 N.E.2d 1076, 1083-1084:
+“A claim of common-law fraud requires proof of the following elements: (a) a representation or, where there is a duty to disclose, concealment of a fact, (b) which is material to the transaction at hand, (c) made falsely, with knowledge of its falsity, or with such utter disregard and recklessness as to whether it is true or false that knowledge may be inferred, (d) with the intent of misleading another into relying upon it, (e) justifiable reliance upon the representation or concealment, and (f) a resulting injury proximately caused by the reliance. Burr v. Stark Cty. Bd. of Commrs. (1986), 23 Ohio St.3d 69, 23 OBR 200, 491 N.E.2d 1101, paragraph two of the syllabus; Cohen v. Lamko, Inc. (1984), 10 Ohio St.3d 167, 169, 10 OBR 500, 502, 462 N.E.2d 407, 409.”
+Appellant argues that appellees represented to his agent, Peter Smith, that if appellant would accept a thirty-percent reduction in salary, the Force would continue in existence. Appellant states that he relied on these representations, accepted the thirty-percent reduction, and chose to forgo his option of free agency. Appellant posits that appellees knew full well during the course of the negotiations that they would not continue to operate the Force, particularly since the operation ceased twenty-four days after appellant accepted the salary reduction.
+In their answers to interrogatories propounded by appellant, both Bert Wolstein and Scott Wolstein stated that the Cleveland Indoor Soccer Company, Ltd. initially discussed ceasing operations approximately one week before the July 24, 1988 closing. However, in his affidavit appended to appellant’s brief in opposition to the motion for summary judgment, appellant’s agent, Peter Smith, maintains that Scott Wolstein represented to him that unless the players modified the existing terms of their contracts, the Force would cease to exist. The disparity between these statements is sufficient evidence that a material issue of fact exists, and that appellees’ motion for summary judgment should have been denied.
+Appellant’s second assignment of error is well taken.
+Appellant’s third assignment of error states:
+“Whether the trial court properly dismissed appellant’s claim of unjust enrichment when, viewing the evidence in a light most favorable to appellant, there was sufficient evidence to show appellant performed services without compensation?”
+Appellant operated a soccer camp for appellees throughout the summer of 1988. He received no separate salary or other compensation for these activities. Appellant contends that the appellees were unjustly enriched by his labor.
+Under paragraph 15 of the rider to his standard player agreement, appellant was obligated to participate as an instructor for all of the Force’s soccer camp activities, but not for more than two consecutive weeks without appellant’s consent. Although there is no specification for payment under this provision, other than reimbursement for transportation and costs on the same basis as all other players, there is a question of fact as to the number of consecutive weeks the soccer camp was in session. If appellant agreed to conduct the soccer camps for more than two consecutive weeks, whether there was a separate agreement as to remuneration is a question of fact.
+Appellant’s third assignment of error is well taken.
+Appellant’s fourth and fifth assignments of error state:
+“Whether the trial court properly dismissed appellant’s claim that the amended agreement reducing appellant’s salary was void for failure of consideration when appellees failed to maintain the Force as a viable soccer team?”
+“Whether the trial court properly dismissed appellant’s claim of breach of contract when, viewing the evidence in a light most favorable to appellant, the facts demonstrate appellees’ actions constituted a breach of the standard player agreement?”
+In both of these assignments of error, appellant contends that the agreement to accept a salary reduction was void for failure of consideration. Appellant considers the salary reduction agreement as a new contract which needs separate consideration. Under this theory, the original player contract was in full force and effect and appellant was entitled to the full $190,000 salary, comprising $118,000 in salary and $72,000 in benefits.
+It is not contested that although appellant and appellees were not direct signators on the MISL and MISLPA amendatory agreement, both were bound by its terms. The amendatory agreement sets forth options for those players who had guaranteed player contracts, as did appellant.
+As set forth in the facts, in order to comply with the amendatory agreement, the head coach of the Force sent appellant a letter requesting appellant to make an election between salary reduction and free agency. This letter was not presented to appellant as an alternate contract, or even as a novation of the original contract. This letter specifically refers to the amendatory agreement, and was presented as a compliance therewith. Therefore, the letter was a mere exercise of an option presented to appellant pursuant to the collective bargaining agreement, and was not a wholly separate contract.
+Appellant’s original standard player agreement remained in effect as modified by the amendatory agreement. See paragraph 2 of the amendatory agreement. Appellant’s election to accept a reduction in salary was not void for failure of consideration since no separate consideration was necessary.
+Appellant’s fourth assignment of error is overruled.
+In the fifth assignment of error, appellant argues that appellees failed to pay him significant portions of his benefits agreed upon in the standard player agreement. However, appellant has not argued that the thirty-percent salary reduction applied only to the $118,000 set forth in paragraph 5 of his standard player agreement rider. Both parties have considered the definition of “salary” to include both benefits and actual salary. Therefore, after the thirty-percent reduction in salary agreed upon, was appellant due $133,000 under his contract? Because of his efforts, he was able to mitigate his damages. Since appellant, in fact, earned more than the appellee was obligated to pay, was appellees’ obligation under the player contract fulfilled? All these involve questions of fact.
+Appellant’s fifth assignment of error is well taken.
+Judgment is reversed on both complaint and counterclaim and the cause is remanded.
+Judgment accordingly,
+John F. Corrigan, P.J., and Krupansky, J., concur.
