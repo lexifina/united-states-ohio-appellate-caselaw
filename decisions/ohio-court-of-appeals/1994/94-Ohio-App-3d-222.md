@@ -1,0 +1,60 @@
+---
+court: "Ohio Court of Appeals"
+docket: "93-CA-17"
+decided: "1994-04-06"
+citations: ["94 Ohio App. 3d 222"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan and Frederick N. Young, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. KUDER, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/94/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1756808
+---
+
+# State v. Kuder
+
+## Majority (Fain, Judge.)
+
+Fain, Judge.
+Defendant-appellant Thomas D. Kuder appeals from his conviction and sentence for passing a bad check. Kuder contends that there was insufficient evidence that he signed the check in question or, at least, that his conviction is against the manifest weight of the evidence in this regard. Kuder also contends that the trial court erred by instructing the jury, over his objection, concerning the statutory presumption that the defendant knows that the check will be dishonored if, after it has been properly refused payment for insufficient funds upon presentment within thirty days after issue or the stated date, the check is not discharged by payment or satisfaction within ten days after receiving notice of dishonor.
+We conclude that there is evidence in the record that would permit a reasonable juror to conclude, beyond reasonable doubt, that Kuder signed the check in question and that the verdict is not against the manifest weight of the evidence in this regard. However, we conclude that the statutory presumption concerning a check refused payment for insufficient funds is not applicable to a check that is refused payment for a different reason — in this case, because the account was closed — so that the trial court erred by instructing the jury concerning this presumption over objection. Accordingly, the judgment of the trial court is reversed, and this cause is remanded for further proceedings consistent with this opinion.
+I
+Kuder and his wife made a purchase at a Wal-Mart store. Kuder was behind the shopping cart in the checkout line, and his wife was in front, according to both of them. The purchase was paid for with a check drawn on a joint account maintained by the Kuders at the NBD Bank. The defendant’s name appears above the signature line of that check.
+Kuder and his -wife testified that his wife signed her husband’s name to the check even though her husband, the defendant, was present at the time.
+No one from Wal-Mart testified who was able to recall this incident. A WalMart assistant manager testified that it was contrary to posted policy to accept a check in payment of goods purchased unless the check was signed by the drawer, and the signer’s identity was verified by a photo ID. The check in question has a form stamped on the back showing the Wal-Mart store number and a space for a driver’s license. The driver’s license number written thereon is Thomas Kuder’s number.
+The state presented testimony of a handwriting expert. The expert was not able to establish conclusively that Kuder’s name on the check was in Kuder’s handwriting. He indicated there were similarities between Kuder’s name on the check and his signatures on two fingerprint cards obtained during prior criminal proceedings against him. The expert testified that two signatures were not enough for a conclusive determination — that fifteen to twenty were ordinarily needed.
+Kuder had signed his name forty-seven times on a handwriting exemplar, but the expert testified that these signatures constituted “unnatural or disguised” writing, so that no conclusions could be drawn therefrom. Among other facts identified by the expert as the basis for his conclusion that these exemplars were unnatural or disguised was the fact that the first letters of each of Kuder’s names were in lower case, unlike his signatures on the fingerprint cards, or the signature on the check.
+Finally, the expert said that he noted no similarities between Mrs. Kuder’s signature on the bank account card and the signature on the check, although he further testified that it was very difficult “to make any sort of absolute finding,” in view of the limited examples of Mrs. Kuder’s handwriting available for comparison purposes.
+An officer of NBD Bank testified that because of repeated problems with bounced checks, the account on which this check was purportedly written was closed on September 11, 1991, two months before the date appearing on the check.
+The Kuders testified that they did not know that the account had been closed. They testified that it was their belief that the bank had erroneously failed to credit a prior deposit, resulting in numerous bounced check charges. Kuder testified that he deposited money to this account to keep it open and believed that it was open and that there were sufficient funds in the account at the time the check was written.
+Kuder was charged with passing a bad check. At trial, the jury was instructed, over Kuder’s objection, concerning the statutory presumption that the issuer of a check knows that it will be dishonored if the obligation is not discharged by payment or satisfaction within ten days after receiving notice of dishonor, when the check has been properly refused payment for insufficient funds upon presentment within thirty days after issue or the stated date.
+The jury found Kuder guilty as charged, a judgment of conviction was entered, and Kuder was sentenced accordingly. From his conviction and sentence, Kuder appeals.
+II
+Kuder’s First Assignment of Error is as follows:
+“Defendant-appellant’s conviction was not supported by sufficient credible evidence and was against the manifest weight of the evidence.”
+Kuder contends that there was insufficient evidence that he signed his name to the check. We conclude that the evidence in this record was sufficient to permit a reasonable finder of fact to conclude, beyond reasonable doubt, that Kuder signed the check.
+Kuder and his wife both testified, and although both testified that Mrs. Kuder signed the check, they both acknowledged that Kuder was at the checkout counter with his wife when the check was signed. There was testimony that the posted policy at the Wal-Mart store was not to permit one person to sign a check for another, and that the person signing the check must either be identified by a photo ID or personally known to the person accepting the check.
+Furthermore, there would be no apparent reason for Kuder not to have signed his name to the check if he was present. Either spouse could have signed the check, since it was a joint account. There was, therefore, no reason for one spouse to sign the other spouse’s name to the check when both were present and available to sign his or her own name.
+Furthermore, the fact that Kuder signed his name on a handwriting exemplar in an unnatural or disguised manner, according to a handwriting expert, would support an inference that he knew that that was his signature on the check and was attempting to prevent a positive identification.
+We conclude that there is sufficient evidence in the record to permit a reasonable juror to conclude, beyond reasonable doubt, that Thomas Kuder signed the check.
+Kuder’s First Assignment of Error is overruled.
+Ill
+Kuder’s Second Assignment of Error is as follows:
+“The trial court erred in overruling defendant-appellant’s objection to the inclusion of ORC 2913.11(B)(2) in the jury charge.”
+The first two divisions of R.C. 2913.11, the statute proscribing passing bad checks, are as follows:
+“(A) No person, with purpose to defraud, shall issue or transfer or cause to be issued or transferred a check or other negotiable instrument, knowing that it will be dishonored.
+“(B) For purposes of this section, a person who issues or transfers a check or other negotiable instrument is presumed to know that it will be dishonored, if either of the following occurs:
+“(1) The drawer had no account with the drawee at the time of issue or the stated date, whichever is later;
+“(2) The check or other negotiable instrument was properly refused payment for insufficient funds upon presentment within thirty days after issue or the stated date, whichever is later, and the liability of the drawer, indorser, or any party who may be liable thereon is not discharged by payment or satisfaction within ten days after receiving notice of dishonor.”
+Over objection, the presumption embodied in R.C. 2913.11(B)(2) was made the subject of an instruction to the jury. Furthermore, this presumption was argued to the jury in both the state’s opening and closing arguments. The tenor of the state’s position was that even if the jury should find that the defendant had not known that his account was closed when he signed the check, he should nevertheless be presumed to have intended to dishonor the check because of his failure to make it good within ten days after being put on notice of its dishonor.
+By its express terms, the presumption embodied in R.C. 2913.11(B)(2) does not apply to the facts of this case. The check was not refused payment for insufficient funds, but because the account was closed. Therefore, the statutory presumption is not applicable and should not have been made the subject of an instruction to the jury.
+The fact that Kuder made no attempt to make this particular check good after finding out that it had bounced is, of course, material to the issue of whether he knew that it would be dishonored when he issued it in payment for goods received. The state could well argue that his failure to have made this check good after learning that it had bounced supports an inference that he knew from the start that it would be dishonored. The Kuders both gave testimony attempting to dispel this inference, essentially testifying that Mrs. Kuder made an effort to redeem the check, but it had already been placed in the hands of the prosecutor. These are appropriate matters for both sides to argue to the jury.
+However, it was error for the trial court to have elevated the logical inference that the state was free to argue to the jury into a formal instruction. This would only be a suitable instruction if the presumption embodied in R.C. 2913.11(B)(2) applied to the facts of this case, and it did not. In providing a specific time frame, ten days, within which the failure to make the check good supported a presumption, or finding, that Kuder knew that the check would be dishonored, the instruction given by the trial court had a tendency to mislead the jury-
+There was adequate evidence in this record to support a conclusion, even without the use of a statutory presumption, that Kuder knew that the check would be dishonored when he signed it and gave it to Wal-Mart. However, Kuder did present a defense. He gave testimony, the credibility of which was effectively attacked by the state, that he had made deposits to this account, and that he did not know that it had been closed. We cannot conclude, beyond reasonable doubt, that the error in having given the inapplicable instruction was harmless. The state relied upon this instruction in both its opening and closing arguments, thereby suggesting that it considered this instruction necessary to dispel any lingering doubts that the jury might have. In our view, the giving of this inapplicable instruction to the jury was potentially prejudicial, in that it might have misled the jury into believing that even if it were to find that Kuder did not know that the account had been closed, it could nevertheless base a finding that he knew that the check would be dishonored solely upon his failure to have made the check good within ten days of receiving notice of its dishonor.
+Kuder’s Second Assignment of Error is sustained.
+IV
+Kuder’s Second Assignment of Error having been sustained, the judgment of the trial court is reversed, and this cause is remanded for a new trial in accordance with this opinion.
+Judgment reversed and cause remanded.
+Brogan and Frederick N. Young, JJ., concur.
