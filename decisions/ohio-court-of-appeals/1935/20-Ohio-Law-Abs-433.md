@@ -1,0 +1,19 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1935-05-13"
+citations: ["20 Ohio Law Abs. 433"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CONSERVATIVE LIFE INSURANCE CO v BOLLINGER"]
+source_url: "https://static.case.law/ohio-law-abs/20/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666190
+cites_cases: ["4 OO 572"]
+---
+
+# Conservative Life Insurance v. Bollinger
+
+## Majority
+
+For full opinion see 4 OO 572; 51 Oh Ap 191.
