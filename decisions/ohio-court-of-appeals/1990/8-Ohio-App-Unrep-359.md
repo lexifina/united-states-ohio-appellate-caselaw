@@ -1,0 +1,70 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. 57703"
+decided: "1990-11-21"
+citations: ["8 Ohio App. Unrep. 359"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DYKE, J., and SWEENEY, J., concur."]
+parties: ["Marbley v. Britten"]
+source_url: "https://static.case.law/ohio-app-unrep/8/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1621009
+cites_cases: ["10 Ohio St. 3d 77", "26 Ohio St. 2d 210"]
+---
+
+# Marbley v. Britten
+
+## Majority (PATTON, C.J.)
+
+PATTON, C.J.
+Plaintiff-appellant appeals from a judgment of the probate court upholding the validity of a will. The appellee has failed to file a brief in this matter.
+On September 28, 1987, an order was issued by the Cuyahoga County Probate Court admitting into probate the will of Clara Windham ("decedent"). On January 27, 1988, an action to contest the will was filed. A non-jury trial was had, in which the validity of the will was upheld over a challenge to the testatrix's testamentary capacity.
+Appellant's timely appeal assigns two errors for review:
+I.
+"THE TRIAL COURT ERRED WHEN IT FOUND THE WILL OF CLARA WINDHAM VALID AS IT FAILS TO MEET THE STATUTORY REQUIREMENTS FOR PROPER EXECUTION SET FORTH IN OHIO REVISED CODE SECTION 2107.03."
+In appellant's first assigned error, she challenges the attestation and subscription of the will. Specifically, she claims that the subscribing witnesses did not see Clara Windham sign the will, nor did they hear her acknowledge her signature as is required by R.C. 2107.03.
+R.C. 2107.03 provides, in part, that a will must be (1) handwritten or typewritten; (2) signed at the end by the person making it; (3) attested and subscribed to in the presence of two or more competent witnesses, who see the testator subscribe or hear him acknowledge his signature.
+We begin our analysis of appellant's claim by noting that in any will contest action, R.C. 2107.74 provides that the order of probate constitutes prima-facie evidence of the attestation, execution and validity of the will. Further, the burden of proof is cast upon the contestant of the will, and such burden never shifts from him. Kata v. Second National Bank (1971), 26 Ohio St. 2d 210, paragraph one of the syllabus. If the evidence produced by the contestant furnishes only a basis for a choice among different possibilities as to any issue in the case, the burden of proof is not met. Id., at 215.
+The record reveals that testimony was elicited from two of the will's subscribing witnesses, Douglas Anderson and Precious Hodge. Douglas Anderson testified that the signature which appeared at the bottom of Clara windham's will was his own. Further, he recalled being asked by the family to come and bear witness to this document. (Tr. 85). Appellant cites the following portion of Anderson's testimony as proof that he did not see Clara Windham sign the will:
+"Q. Did you hear Mrs. Windham ever say that she knew there was a Will? Did you see her?
+"A. No.
+"Q. Did you see Miss Windham that day?
+"A. Not on that day.
+"Q. You did not see her?
+"A. It's been quite a while. I don't recall. She may have been there, but I don't recall that she was there.
+"Q. Did you see her sign this document?
+"A. The Will, yes, I was there. I remember, yes, I did, yes.
+"Q. Where was she?
+"A. I believe all in the dining room, around the dining room table.
+"Q. But, you're not sure?
+"A. No, I'm not quite.
+"Q. It could have been signed prior to the time you signed it?
+"A. No, it wasn't. I was there, that was the purpose of me being there." (Tr. 88). Anderson's testimony is unclear as to whether he actually witnessed the decedent's signature. He definitively indicated that he did not hear the decedent acknowledge her signature. (Tr. 87).
+Precious Hodge also indicated that the signature which appeared at the bottom of the will was her own. (Tr. 106). She recalled that she happened to be at the home of the decedent that particular day when she was asked to witness the signature of the will. (Tr. 107). She also recalled that the signing occurred at the dining room table. (Tr. 107). She was unable to remember anything further relating to her signing of the document.
+In the instant case, appellant has failed to meet her burden of proof. The evidence establishes that the subscribing witnesses were unable to recall specific details surrounding the signing of the will. The evidence adduced at trial fails to affirmatively establish that Clara Windham did not sign the will in the presence of the subscribing witnesses. At best, it furnishes only a basis for a choice among different possibilities. In light of the presumption of validity created by the order of probate, we must overrule appellant's first assigned error.
+II.
+"THE MANIFEST WEIGHT OF THE EVIDENCE IS INSUFFICIENT TO SUPPORT A FINDING THAT CLARA WINDHAM HAD THE REQUISITE TESTAMENTARY CAPACITY TO MAKE A WILL AND THE TRIAL COURT ERRED IN SO FINDING."
+In appellant's second assigned error, she claims that the trial court's order finding the will of Clara Windham to be valid is against the manifest weight of the evidence. Specifically, she claims that the weight of the evidence dictates a finding that Clara Windham lacked the requisite testamentary capacity.
+As was stated earlier in this opinion, R.C. 2107.74 provides that the order of probate court is prima-facie evidence of the attestation, execution and validity of the will. Given this presumption, the burden of proof rested with the appellant in the trial below. Kata, supra.
+Furthermore, the Supreme Court of Ohio has stated in Seasons Coal Co. v. Cleveland (1984), 10 Ohio St. 3d 77, 80:
+"While *** in some instances an appellate court is duty bound to exercise the limited prerogative of reversing a judgment as being against the manifest weight of the evidence in a proper case, it is also important that in doing so a court of appeals be guided by a presumption that the findings of the trier of fact were indeed correct. An appellate court should not substitute its judgment for that of the trial court when there exists *** competent and credible evidence supporting the findings of fact *** rendered by the trial judge."
+The reason for this is that the trial judge is best able to view the witnesses and evaluate their credibility.
+Appellant's case in chief consisted mainly of the opinion testimony of four witnesses. Among them were Louise Sweeney, Clarissa Gaines, Priscilla Jones, and Sheila Marbley. Appellant also introduced various medical records of the decedent dated between the years of 1965 and 1979 and 1983 and 1984. The will in question is dated May of 1981.
+• Louise Sweeney was a longtime friend of Clara Windham. She testified that she noticed a change in the decedent after the death of the decedent's husband in 1976. "She just didn't seem to be herself." (Tr. 25). Clara experienced memory lapses after 1976. (Tr. 26).
+Clarissa Gaines was the granddaughter of the decedent. She testified that the decedent had been diagnosed with diabetes and Alzheimer's disease. (Tr. 37). She indicated that she noticed a change in the decedent during her grandfather's illness. (Tr. 38). The decedent also experienced memory lapses and would be unable to recognize her on some occasions. (Tr. 39). She also recalled two instances in which the decedent wandered from her home. (Tr. 41).
+Priscilla Jones was also the granddaughter of the decedent. She indicated that prior to the death of the decedent's husband, the decedent was in good health. (Tr. 46). She would see the decedent on various occasions when the decedent would come to visit her mother, or her stepfather would bring her over. (Tr. 46-7). The decedent became sick, began to have memory lapses, and failed to recognize persons after the decedent's husband died. (Tr. 47-48). Sometimes the decedent would know her; other times she would not. (Tr. 48).
+Sheila Marbley, a licensed practical nurse, was also the granddaughter of the decedent. She indicated that the decedent's mental state was good prior to the death of the decedent' s husband. (Tr. 50). After the death of her husband, the decedent's mental state changed. Sometimes she would know you; other times would not. (Tr. 51).
+Miss Marbley read from the decedent's medical records. The medical records were compiled during hospital stays of the decedent. The records from 1978 to 1979 indicated that the decedent was slightly confused at times and at other times, was not confused. (Tr. 55-59). The next set of medical records to be introduced were dated between January of 1983 and April of 1984. The admission sheet of January, 1985 describes the decedent as a 76-year-old black female with gradually increasing dementia, unable to recognize the daughter for two months, but speaking coherently and walking by herself until one week before admission. (TV. 192). A document dated March 24, 1983 under the caption of history of patient's illnesses states: "end stage Alzheimer's disease, large gall stone, seizure disorder, admitted January 2nd, 1983 with hypoglycemia." (Tr. 194).
+Appellee's case consisted of the testimony of Don Blake, Ronald Blake and Renee Britten.
+Don Blake, the grandson of the decedent, testified that in 1981, the decedent had good days and bad days, but mostly good days. (Tr. 113). He recalled that the decedent would watch his four-year-old daughter from the time he went to work to the time his wife came home from work. (Tr. 113-114). He testified that the decedent's health took a turn for the worse in September of'1982. He recalls this because he was at the decedent's home celebrating his wife's birthday and was helping the decedent to the bathroom when she told him to get away from her as if she did not know him. (Tr. 121-122).
+Ronald Blake testified that after the decedent's husband died, she began to deteriorate physically, not mentally, and that she had her senses. (Tr. 147).
+Appellee's final witness was Renee Britten, a granddaughter of the decedent. She indicated that in 1983, the decedent was capable of doing almost everything on her own. The decedent did have short-term memory losses from time to time.
+A review of the record of this case reveals conflict and contradictions in the testimony of the witnesses. It also reveals that there existed competent and credible evidence supporting the decision of the trial judge to uphold the validity of the will.
+There was testimony submitted that the decedent's condition at or near May of 1981 allowed her to watch a four-year-old child, that in 1981, like all elderly persons, the decedent had good and bad days, but mostly good days, and that her condition did not drastically deteriorate until January of 1983.
+_ Since the record discloses that the trial court had competent evidence before it on which to base its findings that the will was valid, the court must find there is no merit to the appellant's second assigned error.
+Furthermore, the burden of proof rested upon the appellant to establish that the testatrix lacked the mental capacity to execute her will. The medical records which were introduced contained no entries which indicated the condition of the testatrix during 1980 and 1981, the critical period being May of 1981. Review of the record indicates the evidence submitted by the appellant was insufficient to overcome the presumption of the will's validity.
+Accordingly, the court must find that the will of Clara Windham was appropriately upheld by the trial court. Appellant's second assigned error is overruled.
+Judgment affirmed.
+DYKE, J., and SWEENEY, J., concur.
