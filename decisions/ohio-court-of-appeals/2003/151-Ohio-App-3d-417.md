@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "13-02-18"
+decided: "2003-01-28"
+citations: ["151 Ohio App. 3d 417"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shaw and Thomas F. Bryant, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. HOLZWART, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/151/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 994570
+cites_cases: ["110 Ohio App.3d 250", "121 Ohio App.3d 511", "20 OBR 215", "20 Ohio App.3d 172", "2000 WL 492094", "2003-Ohio-345", "485 N.E.2d 717", "567 N.E.2d 1304", "58 Ohio St.3d 74", "624 N.E.2d 332", "673 N.E.2d 992", "678 N.E.2d 541", "700 N.E.2d 378", "78 Ohio St.3d 380", "88 Ohio App.3d 515"]
+---
+
+# State v. Holzwart
+
+## Majority (Walters, Judge.)
+
+Walters, Judge.
+{¶ 1} Defendant-appellant, Bradley Holzwart (“appellant”), appeals a Tiffin Municipal Court decision finding him guilty of disorderly conduct, in violation of R.C. 2917.11(A)(1), for actions involving his stepdaughter. On appeal, appellant contends that the trial court’s finding was against the manifest weight of the evidence and that the court failed to consider the affirmative defense of parental discipline. We find that the actions forming the basis of the trial court’s decision are not supported by the record and that any additional action taken by appellant against his stepdaughter falls within the confines of reasonable and proper parental discipline, an affirmative defense to the charges against him. Consequently, we must reverse the judgment of the trial court.
+{¶ 2} Facts and procedural history pertinent to the issues raised on appeal are as follows. On January 5, 2002, appellant arrived home, finding his two daughters and two stepdaughters engaged in a disagreement that, according to house rules, had escalated to a prohibited level. Appellant then began to argue with his wife concerning her failure to control the children’s behavior. Thereafter, appellant raised his voice towards the children, which “scared” his stepdaughter, Autumn.
+{¶ 3} Appellant then resumed speaking to his wife about the situation. During their conversation, Autumn entered the room and picked up the telephone to call her biological father. However, when appellant observed this, she put the phone down and ran into another room. Appellant then picked up the phone and threw it against the wall. While Autumn initially testified that the phone hit the wall two feet from her, she later recanted and admitted that her back was to the phone and did not know how close the phone came to her. She further testified that she did not believe that appellant was trying to hit her with the phone and that the throw did not seem violent.
+{¶ 4} Subsequently, appellant left the home in an agitated state, and prior to closing the front door, he commented: “I want to bash your heads in the wall.” Autumn stated that she did not believe that appellant was going to actually follow through with his statements, and the evidence shows that appellant has never used physical force to discipline the children.
+{¶ 5} As stipulated by the parties, appellant stands in loco parentis with respect to his stepchildren.
+{¶ 6} At the close of the state’s case in chief, appellant made a Crim.R. 29 motion for acquittal, which was denied by the trial court. Thereafter, the court found appellant guilty of disorderly conduct. The trial court’s decision was based upon appellant throwing the telephone and his statements as he left the residence. From this decision, appellant appeals, asserting three assignments of error for our review. Pursuant to App.R. 9(D), the parties opted to submit an agreed statement of the case, which was signed by appellant, the state, and the trial judge, in lieu of filing a transcript of the proceedings before the trial court.
+{¶ 7} For purposes of brevity and clarity, we will discuss appellant’s first two assignments together. Additionally,, because the first two assignments are dispositive of this appeal, we will not address the third.
+Assignment of Error I
+{¶ 8} “The trial court erred when it failed to consider the affirmative defense of parental discipline of a minor child.”
+Assignment of Error II
+{¶ 9} “The trial court erred in finding Appellant guilty of disorderly conduct in violation of Ohio Revised Code § 2917.11(A)(1), as the judgment is against the manifest weight of the evidence.”
+{¶ 10} At the outset, we note that the state has failed to file an appellate brief in this matter. Therefore, according to App.R. 18(C), “in determining the appeal, [this] court may accept the appellant’s statement of the facts and issues as correct and reverse the judgment if appellant’s brief reasonably appears to sustain such action.”
+{¶ 11} In his second assignment of error, appellant avers that the trial court’s finding is against the manifest weight of the evidence. “Weight of the evidence concerns ‘the inclination of the greater amount of credible evidence, offered in a trial, to support one side of the issue rather than the other.’” In making a determination on this issue, an appellate court “[reviews] the entire record, weighs the evidence and all reasonable inferences, considers the credibility of witnesses and determines whether in resolving conflicts in the evidence, the [factfinder] clearly lost its way and created such a manifest miscarriage of justice that the conviction must be reversed.”
+{¶ 12} Appellant was found guilty of disorderly conduct, in violation of R.C. 2917.11(A)(1), which states that “[n]o person shall recklessly cause inconvenience, annoyance, or alarm to another by * * * [e]ngaging in fighting, in threatening harm to persons or property, or in violent or turbulent behavior.”
+{¶ 13} In this case, the trial court found a violation of R.C. 2917.11(A)(1) based upon a series of actions that are not supported by the evidence. In doing so, the trial court held the following: “The defendant, who exclaimed that he was ‘going to bash your head in,’ then threw the phone in [Autumn’s] direction. The Court finds this exclamation, in conjunction with the thrown phone, is sufficient to constitute inconvenience, annoyance, or alarm to Autumn.” However, the evidence before this court reveals that the act of throwing the phone was temporarily disconnected from and independent of the statements made as he walked out of the residence. Moreover, the evidence indicates that Autumn’s back was turned when the phone was thrown, and she believed neither that appellant was trying to hit her with the phone nor that his actions seemed violent. In addition, Autumn testified that she did not think that appellant would “bash [her] head[ ] in.” While the evidence supports that Autumn was scared when appellant raised his voice towards her, whether such action would constitute a violation of R.C. 2917.11(A)(1) is dubious at best.
+{¶ 14} Additionally, the Ohio Supreme Court has recognized that proper and reasonable parental discipline is an affirmative defense, available to a parent faced with possible conviction for actions incurred while disciplining a child. According to the Revised Code, an affirmative defense is one “involving an excuse or justification peculiarly within the knowledge of the accused, on which he can fairly be required to adduce supporting evidence.” As stated by R.C. 2901.05(A), “[t]he burden of going forward with the evidence of an affirmative defense, and the burden of proof, by a preponderance of the evidence, for an affirmative defense, is upon the accused.” In State v. Suchomski, the Ohio Supreme Court recognized that a parent is not prohibited from disciplining his or her own child. Rather, the only prohibition is that “a parent may not cause ‘physical harm’ as that term is defined in R.C. 2901.01(C). ‘Physical harm’ is defined as ‘any injury[.]’ ‘Injury’ is defined * * * as ‘* * * [t]he invasion of any legally protected interest of another.’ A child does not have any legally protected interest which is invaded by proper and reasonable parental discipline.” “Proper” and “reasonable” have been defined as “suitable or appropriate” and “not extreme or excessive,” respectively.
+{¶ 15} The evidence herein supports that appellant raised his voice at his stepdaughter in light of her breaking the house rules. Clearly, without any physical harm, the discipline meted out by appellant fell within the established parameters of proper and reasonable parental discipline. For these reasons, we find that the trial court’s judgment was against the manifest weight of the evidence and any further action taken by appellant, even if construed as a violation of R.C. 2917.11, fell within the confines of reasonable and proper parental discipline.
+{¶ 16} Accordingly, appellant’s first and second assignments of error are sustained.
+{¶ 17} Having found error prejudicial to appellant herein in the particulars assigned and argued, the judgment of the trial court is hereby reversed and the cause remanded for further proceedings in accordance with this opinion.
+Judgment reversed and cause remanded.
+Shaw and Thomas F. Bryant, JJ., concur.
+. State v. Thompkins (1997), 78 Ohio St.3d 380, 387, 678 N.E.2d 541; quoting Black's Law Dictionary (6th Ed.1990) 1594.
+. Id., quoting State v. Martin (1983), 20 Ohio App.3d 172, 175, 20 OBR 215, 485 N.E.2d 717.
+. Cf. State v. Schaefer (Apr. 28, 2000), Greene App. No. 99 CA 88, 2000 WL 492094.
+. State v. Suchomski (1991), 58 Ohio St.3d 74, 75, 567 N.E.2d 1304; State v. Hauenstein (1997), 121 Ohio App.3d 511, 516, 700 N.E.2d 378; State v. Hart (1996), 110 Ohio App.3d 250, 253, 673 N.E.2d 992; State v. Hicks (1993), 88 Ohio App.3d 515, 520, 624 N.E.2d 332.
+. R.C. 2901.05(C)(2).
+. Suchomski, 58 Ohio St.3d at 75, 567 N.E.2d 1304; Hauenstein, 121 Ohio App.3d at 516, 700 N.E.2d 378.
+. Suchomski, 58 Ohio St.3d at 75, 567 N.E.2d 1304.
+. Hauenstein, 121 Ohio App.3d at 516, 700 N.E.2d 378, quoting Hicks, 88 Ohio App.3d at 520, 624 N.E.2d 332.
