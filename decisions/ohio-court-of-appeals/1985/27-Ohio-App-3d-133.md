@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9-84-14"
+decided: "1985-09-27"
+citations: ["27 Ohio App. 3d 133"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guernsey, P.J., and Cole, J., concur."]
+parties: ["Ohio Council 8, American Federation of State, County & Municipal Employees et al., Appellees, v. Weber, Auditor, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/27/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711743
+cites_cases: ["146 Ohio St. 467", "27 Ohio St. 2d 102", "32 O.O. 542", "56 O.O.2d 58"]
+---
+
+# Ohio Council 8, American Federation of State v. Weber
+
+## Majority (Miller, J.)
+
+Miller, J.
+This is an appeal from a judgment of the Court of Common Pleas of Marion County permanently restraining and enjoining the County Auditor of Marion County from implementing a pay schedule for county employees paid on an hourly basis which schedule would include fewer than twenty-six biweekly pay periods in the calendar year 1984 or thereafter.
+The trial court indicates in its judgment entry that “the cause came on for consideration by the court on the pleadings [,] stipulations of the parties, exhibits and the briefs of plaintiffs and defendant.” We note that no answer was filed and that no written stipulations were filed, nor is there any sort of a transcript of proceedings indicating oral stipulations of fact. Since neither party raises any issue in regard thereto on appeal, we merely note the same and conclude from the facts acknowledged in the briefs that the parties in fact submitted the matter as an agreed case as provided in R.C. 2315.24, and will proceed to dispose of the appeal accordingly.
+R.C. 325.17 provides in pertinent part:
+“The officers mentioned in section 325.27 of the Revised Code may appoint and employ the necessary deputies, assistants, clerks, bookkeepers, or other employees for their respective offices, fix the compensation of such employees and discharge them, and shall file certificates of such action with the county auditor. Such compensation shall not exceed, in the aggregate, for each office, the amount fixed by the board of county commissioners for such office. When so fixed, the compensation of each such deputy, assistant, bookkeeper, clerk, and other employee shall be paid biweekly from the county treasury, upon the warrant of the auditor. The amount of biweekly payment shall be adjusted so that the total amount paid out to an employee over a period of one year is equal to the amount such employee would receive if he were paid semimonthly. * * *” (Emphasis added.)
+In 1983, the Marion County Auditor determined that in order to properly comply with R.C. 124.55 (now R.C. 9.40), which deals with payrolls and obtaining certification from the Director of Administrative Services, it would be necessary to delay the payment of wages due the county employees for one full pay period. The county auditor twice notified the affected employees in writing that she would implement a plan in which there would be a two-week delay in payments on a gradual basis covering a period of several weeks starting January 1984. As a result, county employees would receive compensation in twenty-five pay periods during calendar year 1984 instead of the usual twenty-six biweekly pay periods as before.
+Plaintiffs filed the complaint seeking (1) a temporary restraining order, (2) a preliminary and permanent injunction, (3) a determination of the matter as a class action, (4) an order of mandamus requiring defendant to issue warrants for payment of plaintiffs on a biweekly basis and twenty-six times a year, and (5) a declaratory judgment as to the rights, benefits and obligations of the parties.
+The trial court found that R.C. 325.17 prohibits a county auditor from issuing fewer than twenty-six biweekly checks in a calendar year and permanently enjoined defendant from implementing a pay schedule that would include fewer than twenty-six biweekly pay periods in the calendar year 1984 or thereafter.
+Defendant appeals setting forth four assignments of error:
+“1. The court of common pleas erred in permanently restraining and enjoining the Marion County Auditor from implementing a pay schedule that would include fewer than 26 biweekly pay periods in the calendar year 1984 or thereafter because there was no evidence that appellant intended to do so.
+“2. The court of common pleas erred in permanently restraining and enjoining the Marion County Auditor from implementing a pay schedule that would include fewer than 26 biweekly pay periods in calendar year 1984 or thereafter because there was no showing that any actual damage would result to appellee[s] but merely inconvenience.
+“3. The court of common pleas erred in finding that R.C. 325.17 prohibits a county auditor from issuing fewer than 26 biweekly pay checks in a calendar year and that the auditor has no discretion as to when county employees shall be paid.
+“4. * * * [T]he court of common pleas erred in finding that the effect of phasing in the auditor’s plan would be to deprive all the county employees of a pay period during the year 1984 because there was to be no change in the pay periods under the auditor’s plan.”
+The proposed pay schedule indicated twenty-five payments to plaintiffs in the calendar year 1984. Payments ranged from fourteen-day to seventeen-day intervals in the schedule.
+“Biweekly” is defined as meaning every two weeks; occurring or appearing every two weeks; having a two-week interval between occurrences. Webster’s Third New International Dictionary (1981).
+The applicable part of the statute, R.C. 325.17, which apparently is being interpreted for the first time, provides that “employee[s] shall be paid biweekly” and “[t]he amount of biweekly payment shall be adjusted so that the total amount paid out to an employee over a period of one year is equal to the amount such employee would receive if he were paid semimonthly.” The General Assembly chose to use the word “shall” in providing how often county employees would be paid from the county treasury. In statutory construction the word “shall” is usually interpreted to make the provision in which it is contained mandatory. Dorrian v. Scioto Conservancy District (1971), 27 Ohio St. 2d 102, 107 [56 O.O.2d 58]. On the other hand, the word “may” shall be construed as permissive. Id.
+The court of common pleas found that there is no discretion given the auditor as to when the county employees shall be paid since the applicable statute mandates that the deputies, assistants, clerks, bookkeepers or other employees of the county auditor, county treasurer, probate judge, sheriff, clerk of the court of common pleas, county engineer and county recorder shall be paid only on a biweekly basis, which consists of twenty-six pay periods of fourteen days per pay period.
+“As a general rule, statutes which relate to the essence of the act to be performed or to matters of substance are mandatory, and those which do not relate to the essence and compliance with which is merely a matter of convenience rather than substance are directory.” State, ex rel. Jones, v. Farrar (1946), 146 Ohio St. 467 [32 O.O. 542], paragraph two of the syllabus. In the case sub judice the essence of the act to be performed is the payment of county employees through biweekly pay periods so that their annual compensation would be equal to the amount they would receive if they were paid semimonthly. Compliance with this statute by the county auditor is not directory since it is not merely a matter of convenience to pay the county employees from the county treasury on a biweekly basis but rather a matter of substance that they shall be paid biweekly. It appears that the intention of the legislature was to insure that an employee would receive his full annual compensation on a biweekly basis. If the county employees were paid according to the auditor’s proposal they would not be paid on a biweekly basis.
+The assignments of error are not well-taken and accordingly the judgment of the Marion County Court of Common Pleas is affirmed.
+Judgment affirmed.
+Guernsey, P.J., and Cole, J., concur.
