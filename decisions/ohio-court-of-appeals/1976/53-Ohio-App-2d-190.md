@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "OT-75-16"
+decided: "1976-04-23"
+citations: ["53 Ohio App. 2d 190"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., and Franklin, J., concur.", "Wiley J., retired, was assigned to active duty under authority' of Section 6(C), Article IV, Constitution. Franklin, J., of the Court of Common Pleas of Lucas County,,. sitting by assignment in the Sixth Appellate District."]
+parties: ["Kurtz, Exrx., Appellee, v. Brown et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-2d/53/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1481251
+cites_cases: ["119 N. E. 320", "283 Ill. 338", "40 A. L. R. 2d 1407", "87 Ohio App. 529"]
+---
+
+# Kurtz v. Brown
+
+## Majority (Wiley, J.)
+
+Wiley, J.
+The Court of Common Pleas of Ottawa County, Probate Division, in an action brought by the executrix for the construction of the will of Wanda R. Brown held that claims of the defendant were not allowable against the estate of Wanda R. Brown nor lawful charges against the remaindermen. Prom that judgment the defendants appeal.
+Wanda R. Brown was married to Garnet D. Brown. Wanda R. Brown’s children by his first marriage are the defendants-appellees, Richard Brown, Calvin Brown and Dorothy Kurtz. Garnet D. Brown’s children from a prior marriage are the defendants-appellants, Betty Bender and Kenneth Hanan. Prior to Wanda R. Brown’s death on November 2, 1962, he executed a will devising a life estate to his wife with full power and authority to sell. In the will he also named his daughter, Dorothy Kurtz, the executrix, and gave her a dual power to sell all real estate. On October 14, 1963, Dorothy Kurtz sold the deceased’s real estate. In the ensuing ten years, the estate of Wanda R. Brown, was not closed by his executrix, presumably being kept open under the authority of R. C. 2113.58. During the lifetime of Garnet D. Brown, the record does not indicate' any attempt to invoke court action on behalf of the life tenant to enforce any claim to the right to consume' the res.
+Upon Garnet D. Brown’s death on May 24, 1972, her daughter, Betty Bender, was appointed executrix of her estate. Executrix Bender made a claim against the estate of Wanda R. Brown for funeral, medical, and hospital bills and the costs of administration of the estate of Garnet D., Brown.
+The codicil to the will of Wanda R. Brown reads:
+“In Item 2 of my said will I devise a life estate of my Gypsum, Ohio, real property to my wife, Garnet D. Brown, should she survive, me, and I now intend that she shall have the power to sell and convey said .real estate if in.her, sole judgment she considers such sple and. conveyance necessary for her maintenance and support or in her best.interest and, therefore, I hereby give and grant unto my said wife, in the event that she survives me,, full, power and authority to sell and convey or to incumber said real estate if in her sole judgment she shall deem such sale and., conveyance or incumbrance either necessary for her care and maintenance or in her best interest; hereby granting unto my said wife full power and authority to execute;.. and deliver all writings, including conveyances, both conditional and unconditional, necessary or required, to complete the powers granted her in, this first codicil.”, ;
+The words of Wanda R. Brown’s will arguably gave Garnet D, Brown the right to sell the property for her care and maintenance. Under Ohio law, if Garnet D. Brown.' had sold the real estate she would have been a quasi trustee to the remaindermen as . to the amount that was hot.necessary for her care and maintenance. 20 Ohio Jurisprudence 2d 315, Estates, Section 77; Barton v. Barton (1918), 283 Ill. 338, 119 N. E. 320.
+The remaindermen herein are fully protected since the life tenant Garnet L. Brown did not have control of the assets constituting the life estate: executrix Dorothy' Kurtz was permitted by the lower court to sell the" real estate of Wanda R. Brown and retain control of the proceeds of the sale as executrix.
+When Executrix Kurtz sold the real estate, the life tenant joined in the sale. The life tenant, having joined in this sale, could not exercise her power to sell the real estate. Just as the conversion of real estate to personalty did not destroy the rights of the vested remaindermen, neither did it destroy the rights of the life tenant. The right of the life tenant to invade the funds of Wanda R. Brown’s estate was not relinquished by her approval of the sale. The testator intended Garnet D. Brown to have access to such funds if they were needed for her maintenance and support.
+Consequently, we conclude that since Garnet D. Brown did not exercise her power to consume, the executrix of her estate is now limited to invade the Estate of Wanda R. Brown for the unpaid debts for the care and maintenance of the life tenant and the expenses of her last illness and funeral expenses. Kennedy v. Price (1909), 23 Ohio C. C. (N. S.) 12. These expenses are due the estate of Garnet D. Brown from Executrix Kurtz in the amount they exceed what is acknowledged by Executrix Kurtz as owed to the estate of Garnet D. Brown in the approximate sum of $3,211.29. This amount admittedly remains undelivered by Executrix Kurtz, although due Garnet D. Brown as a life tenant.
+Therefore, assignments of error Nos. 1 and 2 are well taken, except- as to the costs of administration of the estate of the life tenant as set forth in assignment of error 2, which is found not well taken in this regard.
+To assert the rights of the life tenant as indicated is a benefit to the Estate of Wanda R. Brown. “Those attacking it [the will] cannot complain of its being defended, or- the costs of such defense being taxed against the estate, which estate the testatrix intended should be controlled by the provisions of the will.” Lindsey v. Markley (1950), 87 Ohio App. 529, 532; annotation, 40 A. L. R. 2d 1407. In such amount as the trial court deems proper, attorney fees may be granted for services rendered in asserting the right to consume the res to the extent stated above. The costs of administration of the life tenant’s estate is not a proper charge on the estate of Wanda R. Brown.
+On consideration whereof, the court finds substantial justice has not been done the party complaining, and the judgment of the Court of Common Pleas of Ottawa County, Probate Division, is reversed. Under the authority granted by App. R. 12(B), the court further finds that appellants are entitled to have a final judgment rendered in their favor and it is, therefore, ordered and adjudged that the will and codicil of Wanda R. Brown did create in the life tenant a power to consume the real estate or the proceeds from the sale thereof. Since this power was not exercised by the life tenant, the-executrix of her estate may exercise the power to consume only to the extent of the unpaid debts for the proper care and maintenance of the life tenant during her íifétime and the expenses 'of the last illness and funeral expenses of the life tenant. *
+Judgment reversed.
+Brown, P. J., and Franklin, J., concur.
+Wiley J., retired, was assigned to active duty under authority' of Section 6(C), Article IV, Constitution. Franklin, J., of the Court of Common Pleas of Lucas County,,. sitting by assignment in the Sixth Appellate District.
+R. C. 2113.58 provides in part:
+«* * * [TJhe. court may order that such property be held by the executor or some other trustee, with or without bond, for the ^benefit of the person having the limited estate.” '
+“1. The .C.ourt erred in its; decision that the will and codicil of Wanda R. Brown did not create in the life tenant a power to- consumo the real estate or proceeds from the sale thereof.
+“2. The Court erred in its decision that the debts and costs of administration of the estate of the life tenant, Garnet D. Brown, are not debts of or charges against the estate of Wanda R. Brown, deceased.”
