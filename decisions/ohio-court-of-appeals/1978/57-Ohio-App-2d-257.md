@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "37106"
+decided: "1978-03-16"
+citations: ["57 Ohio App. 2d 257"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corrigan, C. J., and Jackson, J., concur."]
+parties: ["Madeiros et al., Appellants, v. Guardian Title & Guaranty Agency, Inc., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/57/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1483725
+cites_cases: ["111 Ohio App. 237", "133 Ohio St. 184", "7 Ohio App. 2d 225"]
+---
+
+# Madeiros v. Guardian Title & Guaranty Agency, Inc.
+
+## Majority (Krupansky, J.)
+
+Krupansky, J.
+This is an appeal from the granting of a motion to dismiss as to all defendants-appellees.
+In October 1971, defendant-appellee Lillian Heinrich (hereinafter referred to as seller) owned certain real property on Carlton Road in Parma, Ohio. On October 4, 1971, the city of Parma passed Ordinance No. 277-71 entitled :
+“An ordinance determining to proceed with the improvement of * * * Carlton Road between certain termini in the city of Parma, Ohio, by grading, draining, curbing and paving with concrete, and declaring an emergency.”
+The above ordinance wag filed with the County Auditor on the same day it was passed. No further legislation on the improvements was passed until June 1975.
+On January 26,1974, the seller agreed to sell her property on Carlton Road to the plaintiffs-appellants, Kenneth E. and Barbara J. Medeiros (hereinafter referred to as buyers). They executed a purchase agreement containing the following provision:
+“Special assessments for water, sewer and paving or respreads, if any, which have been certified to the County Auditor as of the date of title transfer shall be paid by sellers.”
+The date of title transfer was February 15,1974.
+Thereafter, on July 14, 1975, Parma City Council passed Ordinance No. 145-75 entitled;
+“An ordinance levying special assessments for the improvement of * * * Carlton Road between certain termini by grading, curbing, and paving with concrete together with all necessary appurtenances thereto, and declaring an emergency.”
+This ordinance was certified to the County Auditor on July 18,1975.
+The buyers filed suit against the seller and other defendants in the Cleveland Municipal Court on December 17, 1975. They alleged that the seller was bound by the purchase agreement to pay the special assessment levied for the improvement of Carlton Road. Other defendants included Cardinal Federal Savings and Loan Association, the escrow agent for the transaction, Chelsea Title & Guaranty Co., who issued a title guaranty and Guardian Title & Guaranty Agency, Inc., who performed the title search. The motions to dismiss filed by the defendants were granted by the lower court. Plaintiffs appealed, raising two arguments:
+“I. An agreement to pay special assessments is collateral in nature and is not merged into deed [sic].
+“II. Is the seller obligated, under an ordinance to proceed which was filed with the County Auditor, to pay said assessment when the contract for purchase requires all special assessments certified to the County Auditor to be paid by the seller!”
+The buyers are correct in their first argument: An agreement to pay special assessments is collateral in nature and is not merged into the deed. The general rule in Ohio is that the contract is merged in the deed, and no cause of action exists upon the prior agreement. Mayer v. Sumergrade (1960), 111 Ohio App. 237, 239. However, agreements that are collateral to and independent of the main purpose of the transaction are obviously not intended to be merged in the deed. In Mayer, supra, this court held that a provision in a sales contract, warranting there were no assessments on certain propertyj did not run with the land. The provision was considered a collateral promise because it did not concern the title, occupancy, size, enjoyment, possession or quantity of the parcel. As a collateral agreement, it was not merged into the deed and its breach gave rise to a cause of action in favor of the purchaser against the vendor.
+In Rhenish v. Deunk (1963), 7 Ohio App. 2d 225, we held that an obligation to pay special assessments was not based on a contingency, and, therefore, was not merged into the deed. On the authority of these two eases, it is clear that in the present case the seller’s promise! .to pay special assessments certified to the County^ Auditor as of the date of title transfer was not merged; into the deed. Consequently, buyers may sue for a breach of that agreement.
+However, it is our opinion that the buyers’ complaint was properly dismissed. Their second argument, that the seller was obligated by the ordinance determining to proceed with the improvements to pay the special assessment, is not well taken.
+The procedures a municipality must follow in levying special assessments are set forth in R. C. Chapter 727. When the municipality determines it is necessary to make a public improvement to be paid for by special assessment, plans, specifications, and profiles of the proposed improvement and an estimate of its cost must be filed with the clerk of the legislative authority of the municipal corporation. R. C. 727.12. The municipality may then pass a resolution declaring the necessity for the improvement. Among other things, the resolution shall approve the plans and estimate of cost, and provide for the preparation of an estimated assessment. R. C. 727.12(B) and (G). Notice of the passage of the resolution of necessity must be sent to owners of the lots to be assessed. R. C. 727.13. Such owners are given an opportunity to file objections (R. C. 727.15-17) and damage claims (R. C. 727.18-22).
+The next step for the municipality, sot forth in R. CL 727.23, is to pass an ordinance stating its intention to proceed with the improvement in accordance with the provisions of the resolution of necessity. The ordinance shall also adopt the estimated assessment prepared in accordance with the resolution of necessity, or if objections have been filed, adopt the estimated assessment approved by the legislative authority.
+After the actual cost of a public improvement has been ascertained, R. C. 727.25 provides that:
+* * [T]he legislative authority of the municipal corporation shall by ordinance assess, in the manner provided in the resolution of necessity * * # upon the lots and lands enumerated in the estimated < assessment * * * that portion of the total cost of the improvement to he paid: for,, by special assessments and such assessments as.to each; lot or parcel of land, shall be increased or decreased in. the same proportion to the estimated assessment on each, snch lot or parcel of land as the actual cost of the-improvement bears to the estimated cost of the improvement-upon which the estimated assessment was based. * * *”
+The statute goes on to provide that such assessments shall be final upon the adoption of the ordinance of assessment. Thus, the assessment at issue in the present case' did not become final until July 14, 1975,. the day the ordinance of assessment was passed. The reference in. the', purchase agreement to special assessments must be interpreted to mean assessments that are final. If the parties; had intended the seller’s obligation to become operative upon passage of the earlier ordinance stating the; inten-tion to proceed, they would have used the term “estimated, assessment” instead. The clear language of R, C. 727:23, and 727.25 necessitates the conclusion that the seller’s obligation applied to the final special assessment levied by passage of the ordinance of assessment, Ordinance No. 147-75.
+Further support for this conclusion comes from R. C. 727.27 which provides that assessments are payable by the time and in the manner stipulated in the assessing ordinance. In addition, the statute provides the assessment does not become a lien until the assessing ordinance is passed, Home Owner’s Loan Corp. v. Tyson (1938), 133 Ohio St. 184.
+Adoption of the plaintiffs’ view that the ordinance determining to proceed triggers the liability of the seller for the special assessment, would often require that transactions remain open for years after title is transferred. There is nothing in the contract to indicate the parties intended their rights and obligations to remain uncertain for so long.
+The ordinance of assessment was certified to the County Auditor on July 18,1975. Under the terms of the agreement, the seller was only obligated to pay special assessments certified to the auditor before the date of title transfer, February 15, 1974. Thus, the seller was not liable for the special assessment, and the lower court properly granted her motion to dismiss.
+The other defendants were also properly dismissed. The title guarantee supplied by Chelsea Title & Guaranty Co., for which Chelsea’s agent, Guardian Title, did the title search, specifically excluded liens attaching or created subsequent to the date of the guarantee. Moreover, the County Auditor’s records were not listed among those public records the guarantee covered. The buyers’ complaint accused Cardinal Federal, the escrow agent, of negligence in not ascertaining that the assessment had been filed with the County Auditor. Since we have held that the assessment had not been certified to the County Auditor at the time title was transferred, the lower court was correct in dismissing the complaint against Cardinal as well.
+Judgment affirmed.
+Corrigan, C. J., and Jackson, J., concur.
