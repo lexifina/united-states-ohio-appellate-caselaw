@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1923-01-02"
+citations: ["21 Ohio App. 236"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shields and Patterson, JJ., concur."]
+parties: ["Minor v. Shippley et al."]
+source_url: "https://static.case.law/ohio-app/21/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1851216
+cites_cases: ["16 C. C., 279", "28 O. C. A., 142", "36 Ohio St., 17", "50 N. E., 1130", "57 Ohio St., 660", "7 Ohio App., 346", "70 Ohio St., 261", "71 N. E., 770"]
+---
+
+# Minor v. Shippley
+
+## Majority (Houck, J.)
+
+Houck, J.
+This case is here on appeal from the common pleas court of Licking county. The suit is one to quiet title to a farm located in Licking county, of which John Enyart died seized in September, 1853, and which he disposed of in his last will and testament.
+The cause was submitted to the common pleas court upon an agreed statement of facts, and is submitted in this court upon the same statement of facts, which is as follows:
+“Agreed Statement of Facts.
+“John Enyart, a resident of the township of Hanover, Licking county, Ohio, died testate on the -day of September, 1853, seized of the premises described in the petition, and leaving his wife, Anna Enyart, and one child, Maria Minor, surviving him.
+“Said John Enyart left a will which was duly admitted to record in 1854, and the record thereof was destroyed by the burning of the court house in 1875, and on the 24th day of November, 1883, the said will was proved and admitted to record in the probate court of Licking county, which will is as follows:
+“ ‘Item 2. I give to my wife, Anna, all the proceeds of my farm on which I now reside in Licking county, Ohio, until my daughter Maria shall arrive at the age of eighteen years.
+“ ‘Item 3. When my said daughter shall arrive at the age of eighteen years then she shall have one-fourth of the proceeds of said farm, my wife one-fourth so long as she remains my wife, and the remainder shall go to the Preachers’ Aid Society of the Methodist Protestant Church and the Muskingum Annual Conference.
+“ ‘Item 4. At the death of my said daughter, I give the whole of said proceeds of said farm to the Preachers’ Aid Society, but said society are not to sell the farm.’
+“The Preachers’ Aid Society is a charitable organization connected with the Methodist Episcopal Protestant Church.
+“The real estate described remained after the death of John Enyart in the possession of his widow, Anna Enyart, until her death in 1864, and after her death it was in the possession of his daughter, Maria, until September, 1894.
+“On the 11th day of April, 1893, the Preachers’ Aid Society began a suit in the court of common pleas against Maria Minor, asking that a receiver be appointed to take charge of the farm, put it in repair, etc., and divide the proceeds of the farm between said Aid Society and the said Maria Minor, according to the terms of said will, and for all other relief to which said plaintiff was in equity entitled.
+“It is agreed that the complete record in said case No. 8332, being volume 76, p. 243, shall be admitted.
+“Judgment was rendered in favor of the defendant on the 27th day of September, 1894, and on September 24, 1894, the Preachers’ Aid Society by a quitclaim deed conveyed all its interest in the property to said Maria Minor, and she has been in possession of said property until some time in 1921. Maria Minor died intestate and without issue in February, 1921, and tbe plaintiff is ber widower.”
+If the farm came to Maria Minor by purchase, then tbe plaintiff is entitled to have bis title quieted and to be granted all tbe relief prayed for in bis petition. However, if tbe farm came to Maria Minor by devise or descent, then in that case tbe plaintiff bas but a life estate therein.
+Tbe solution to this inquiry must and will be determined in tbe light of tbe facts and tbe provisions of tbe will of John Enyart, deceased, found and contained in tbe agreed statement of facts.
+It must be remembered that no fixed and definite rule can be followed in tbe construction of wills. Each will stands alone, and the intention of tbe testator must be determined by tbe language used in each particular case.
+Hence, if tbe language of a Avill is plain and its meaning is obvious, a court bas no right in any way or manner to qualify, or to attempt to change, by tbe application of extraneous. facts, tbe plain meaning of tbe language employed.
+From a careful reading of tbe will now before us, it will be seen that while tbe language used is not as clear and definite as it might be, yet we find nothing ambiguous therein. It follows that tbe intention of the testator is not in doubt if we give tbe words and language used by him their plain and simple meaning.
+We find and bold, under tbe will of John Enyart, that upon tbe death of Maria Minor tbe fee-simple title vested in tbe Preachers’ Aid Society. In other words, tbe proceeds of said farm, under tbe language of the will, went to Maria Minor during her lifetime, and at her death “the whole of said proceeds of said farm [went] to the Preachers’ Aid Society.”
+At the death of Maria Minor there vested in the Preachers’ Aid Society the corpus, the body, the farm absolutely and in fee. "We find and hold this, notwithstanding that following the language constituting the devise are the words, “but said society are not to sell the farm.” We hold these words to be inoperative and of no legal force and effect. Having given the fee to the Preachers’ Aid Society, it could not thereafter be limited, and if this were permitted it would violate a well-known rule of construction pertaining to wills. In other words, such would be against public policy and contrary to law.
+It follows that from the delivery of the deed on September 24, 1894, from the Preachers’ Aid Society to Maria Minor, the fee simple to the farm in controversy vested in her and from that time she might have legally conveyed the absolute title to same, if she had desired to do so, by deed or will.
+It is urged by some of the counsel for defendants that the words, “I give the whole of said proceeds of said farm,” are not sufficient to vest the absolute fee title in the devisee. We find this claim not well taken, and we further find that the rule in Ohio is to the contrary, viz., that such words are sufficient to transfer the fee. The general and fixed rule of construction is: that a gift of the income of the real estate is a gift of the real estate itself, and a gift of the perpetual or unrestrained income is a gift of the fee.
+Section 10580, General Code, reads: “Every devise in a will of lands, tenements, or hereditaments, shall convey all the estate of the devisor therein, which he conld lawfully devise, unless it clearly appears by the will that the devisor intended to convey a less- estate.”
+The language of the will as to the devise in question does not limit the estate conveyed to an estate less than a fee, and in fact there is nothing in the will, when considered in its entirety, that indicates any intention on the part of the testator to do so; but the contrary is clearly apparent that a fee is conveyed.
+The burden of proof is thrown by this statutory provision upon the one asserting that the devise is of the lesser estate.
+We find nothing in the facts or in the will to sustain the claim thus made by learned counsel; and applying the rule of legislative construction to the will now being interpreted, but one result can and does follow — that is, that the language of the will conveys the entire fee to the Preachers’ Aid Society.
+“Where a will disposes of all the property of the testator, the last disposition being a gift to his wife of ‘all the proceeds of his real estate,’ not the real estate itself, but the proceeds thereof, that is equivalent to a devise of the corpus of the real estate itself.” Isherwood v. Isherwood, 16 C. C., 279, 8 C. D., 409, affirmed by the Supreme Court of Ohio, 57 Ohio St., 660, 50 N. E., 1130.
+In Collier v. Grimesey, 36 Ohio St., 17, Judge White, speaking for the court, says at page 21: “We do not question that a devise of the rents and profits, or of the ‘profits and benefits’ of lands, without qualification or limitation, will impliedly carry the fee.”
+To us the rule seems to be well settled that a devise of “the whole of the proceeds of a farm,” in the absence of a certain and definite limitation thereof, conveys to the devisees an absolute title in the corpus of the property devised.
+The use of the words, “but said society are not to sell the farm,” in no wise limits the fee heretofore created in the Preachers’ Aid Society by the words, “I give the whole of said proceeds of said farm to the Preachers’ Aid Society.”
+A testator cannot by devise transfer real estate absolutely to his devisee and at the same time keep it himself. However, he may limit or restrain its use and enjoyment by stating such limits and restraints and providing for same in a clear and substantial way by language that is not ambiguous. But the testator in the instant case cannot by the language used take from the fee-simple estate its inherent alienable quality, thereby destroying the fee simple after having once created it. The language is too narrow, and to permit such course would not only be against all well-known principles of law and equity, but in effect would be a miscarriage of justice.
+The rule of law laid down in the following cases is decisive of this question: The Widows’ Home v. Lippardt, 70 Ohio St., 261, 71 N. E., 770; Tracy v. Blee, 22 C. C., (N. S.), 33, 28 C. D., 461; Steuer v. Steuer, 8 C. C., (N. S.), 71, 18 C. D., 145, and Hull v. Chisholm, 7 Ohio App., 346, 28 O. C. A., 142, 30 C. D., 182.
+One of the counsel for defendants in his brief says: “If the title came to her by a valid deed of the Preachers ’ Aid Society, which it was authorized to make, she would have title by purchase. And there being no adverse claimant, she held her title by virtue of the deed and not by adverse possession.”
+To this statement we most heartily agree and find and hold that Maria Minor obtained her title from a valid deed from the Preachers ’ Aid Society, and that such title is one of purchase. So far as the proof is concerned, there is no evidence that there is any defect in the deed or in its execution and delivery. In fact, the Preachers’ Aid Society is not a party to this suit and hence makes no claim adverse to that of the plaintiff. However, if the deed had been defective or invalid, which does not appear, but quite the contrary, yet, as against the Preachers’ Aid Society, the title to the farm is clear in Maria Minor by reason of adverse possession for more than 21 years.
+As to the claimed adjudication in the case of the Preachers’ Aid Society v. Maria Minor, we will say that we have examined the transcript of the complete record of the case and find that the suit was one asking for the appointment of a receiver and for an accounting, and that the issues raised in that case were entirely foreign to the ones in the case at bar, and, therefore, in no way determined the legal rights of the parties to this case and the issues to be determined.
+We find the issues in this case in favor of the plaintiff and against each and all of the defendants; and further find that plaintiff is entitled to have his title to the real estate described in his petition quieted as against the claim or claims of each and all of said defendants.
+Decree and judgment for plaintiff.
+Shields and Patterson, JJ., concur.
