@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "13357"
+decided: "1993-08-09"
+citations: ["89 Ohio App. 3d 344"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan and Wolff, JJ., concur."]
+parties: ["MYERS et al., Appellees, v. FIFTH THIRD BANK, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/89/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1698558
+cites_cases: ["1 Ohio N.P. 106", "10 Ohio Dec.Rep. 345", "137 Ohio St. 551", "19 O.O. 309", "31 N.E.2d 858"]
+---
+
+# Myers v. Fifth Third Bank
+
+## Majority (Fain, Judge.)
+
+Fain, Judge.
+Defendant-appellant Fifth Third Bank (“Fifth Third”) appeals from a judgment of the Dayton Municipal Court. Plaintiff-appellee Jacob A. Myers filed an action against Fifth Third in forcible entry and detainer and for money damages. The trial court found that Fifth Third was liable to Myers for rent during the time it occupied premises leased to its debtor for the purpose of inventorying and disposing of collateral securing its debtor’s obligation. Fifth Third contends that the trial court erred as a matter of law in finding liability for the rent and in using the lease as a measure of damages, thereby holding Fifth Third liable for taxes, insurance and utilities.
+We conclude that the trial court did not err in either respect. Therefore, the judgment of the trial court is affirmed.
+I
+Myers leased commercial property located at 108 N. Jefferson Street in Dayton, Ohio, to Roth Office Equipment Company (“Roth”) pursuant to a three-year written lease agreement. In August 1990, when Roth became insolvent and defaulted on its obligation to repay a secured loan, the obligee, Fifth Third, entered the premises with Roth’s permission to make an inventory and to dispose of collateral consisting of equipment and inventory. Fifth Third maintains that at no time did it continue the ongoing operations of Roth and that the reason that the locks were changed and a guard was stationed on the premises was unrest among former Roth employees.
+On August 11, 1990, after learning that Fifth Third had taken control of the business premises and its contents, Myers terminated the Roth lease and delivered notice of its eviction to Roth’s president. Myers delivered to Fifth Third a written demand for the immediate vacation of the premises. Myers testified that an auditor for Fifth Third agreed to pay rent and the cost of the utilities to Myers for the use of the premises to protect Fifth Third’s collateral.
+Fifth Third claimed that it informed Myers that it had no obligation or intention to pay rent, that it did not have exclusive control of the premises, and that it did not deny Myers access to the premises. Fifth Third claimed that it was prepared to provide Myers with keys to the new locks, but that Myers chose not to ask for the keys.
+Myers filed an eviction action against Fifth Third, and Fifth Third completed the removal of the collateral. Fifth Third occupied the premises from August 10, 1990 through September 10,1990, at which time it turned over the keys to Myers.
+The trial court found that Fifth Third held the position of a general assignee for the benefit of creditors, and that its actions constituted an election to take the lease, as a result of which it assumed liability under the lease for rent, insurance, taxes and utilities. The trial court awarded a judgment of $7,043.61 in favor of Myers. From the judgment of the trial court, Fifth Third appeals.
+II
+Fifth Third’s first assignment of error is as follows:
+“The court erred as a matter of law in finding appellant liable for rent.”
+The issue before us is whether a secured creditor is liable to the landlord for rent when it takes possession and control of the leased premises of its debtor without the consent of the landlord and occupies the premises for the sole purpose of disposing of its collateral.
+In a general assignment for the benefit of a creditor, an assignee may elect to take a lease and to become primarily responsible for the performance of the covenants of the lease. Gholson v. Savin (1941), 137 Ohio St. 551, 19 O.O. 309, 31 N.E.2d 858, paragraph two of the syllabus. When an assignee of a general assignment for the benefit of creditors enters the premises and uses them for the benefit of the estate, the assignee elects to take the lease and becomes personally liable for rent. Cincinnati v. Goodhue (1888), 10 Ohio Dec.Rep. 345; Morrison v. Bruce (1894), 1 Ohio N.P. 106. The election to take establishes the privity of contract between the assignee and the lessor. The circumstances of a secured creditor who takes possession of its debtor’s leased premises with the permission of the debtor, in order to protect collateral upon the premises, are similar to those of an assignee for the benefit of creditors who does the same for the protection of creditors. Fifth Third took the same action for the protection of its own collateral that an assignee for the benefit of creditors might take for the protection of secured creditors, generally. In both instances, a third party controls the assets of the tenant and takes possession over the premises to protect and preserve those assets for the benefit of one or more creditors.
+When Fifth Third took possession and control of the premises located at 108 N. Jefferson Street for a longer period of time than was reasonably necessary to remove the collateral to another location, it in effect elected to take advantage of the lease for a period of time, thereby becoming liable for the rent and utilities accruing during that time. We hold that Fifth Third, as a secured creditor, is liable to Myers for rent because it took possession and control of the leased premises of its debtor, Roth, without the consent of the landlord, for purposes beyond the simple removal of the collateral. These purposes included taking an inventory of the collateral and storing the collateral until a bulk sale could be negotiated. Had Fifth Third simply removed the collateral, it would have incurred the expense of storing the collateral while negotiating its sale, in addition to the expense of the removal. By storing the collateral upon the premises during the negotiation of its sale, Fifth Third took advantage of the lease. It is equitable that Fifth Third should pay the obligations of the lease during the time that it used the lease for its benefit. As long as the obligations of the lease are reasonable (which Fifth Third has not challenged), it would be an unjust enrichment for the secured creditor to take advantage of occupancy of the leased premises without having to pay the obligations of the lease.
+Fifth Third argues that its employee who agreed to the payment of rent and utilities had no authority to do so. In view of our conclusion that Fifth Third’s decision to use the leased premises to store the collateral until its disposition could be negotiated constituted an election to assume the obligations of the lease during that time, the question of whether Fifth Third’s employee had authority to undertake the express assumption of those obligations is immaterial.
+Fifth Third’s First Assignment of Error is overruled.
+III
+Fifth Third’s Second Assignment of Error is as follows:
+“The lower court erred in using the lease as the measure of damages, and in holding appellant liable for taxes, insurance, and utilities.”
+In Part II of this opinion, we have sustained the trial court’s finding of liability against Fifth Third. We now consider the propriety of the measure of damages applied by the trial court, which included the cost for rent, as well as utilities, taxes and insurance.
+The trial court determined damages by multiplying the number of days that Fifth Third occupied the premises by the daily rent if the premises had been leased on an annual basis. On a per diem basis, the gross figure computed to $201.10 per day for thirty days, for a total of $6,033. Additionally, the trial court found that Fifth Third was liable for the water and sewer bill for thirty days, totalling $1,010.61. We conclude that because Fifth Third elected to take advantage of the lease, the trial court did not err when it used the terms of the lease agreement as a measure of damages to Myers.
+Fifth Third’s Second Assignment of Error is overruled.
+IV
+Both of Fifth Third’s assignments of error having been overruled, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Brogan and Wolff, JJ., concur.
