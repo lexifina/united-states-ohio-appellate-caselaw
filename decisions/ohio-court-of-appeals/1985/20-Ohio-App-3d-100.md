@@ -1,0 +1,64 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2-83-39"
+decided: "1985-03-04"
+citations: ["20 Ohio App. 3d 100"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guernsey, P.J., and Miller, J., concur."]
+parties: ["Stegall et al., Appellees, v. Joint Township District Memorial Hospital, d.b.a. St. Mary’s Hospital, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/20/cases/0100-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707215
+cites_cases: ["54 Ohio St. 2d 64", "8 O.O.3d 73"]
+---
+
+# Stegall v. Joint Township District Memorial Hospital
+
+## Majority (Cole, J.)
+
+Cole, J.
+This is an appeal from a judgment of the Common Pleas Court of Auglaize County wherein that court, in an action for declaratory judgment, declared that the Board of Hospital Governors of the Joint Township District Memorial Hospital is a “public body” as defined by R.C. 121.22, popularly entitled the “Sunshine Law,” and subject to the requirements of that statute.
+The defendant in the action as finally determined was the Board of Hospital Governors of the Joint Township District Memorial Hospital (d.b.a. St. Marys Hospital) and hereinafter called the “Board of Governors.” The plaintiffs are physicians on the staff of the hospital.
+The plaintiffs filed a motion for a summary judgment supported by affidavits. The defendant filed a response and a further affidavit. Based upon these and certain admissions the trial court granted the motion and rendered judgment.
+In its judgment, the trial court found the Board of Governors to be a “public body” under the provisions of R.C. 121.22 and granted an injunction ordering it to hold its meetings in public, and to conduct all deliberations on official business only in open meetings unless exempted from doing so by R.C. 121.22.
+The defendant now appeals this judgment asserting two assignments of error, one procedural and one substantive, as follows:
+“1. The Trial Court erred in granting Summary Judgment when genuine issues of material fact remained in dispute.
+“2. The Trial Court erred, as a matter of law, in finding The Board of Governors of the Joint Township District Memorial Hospital to be a public body within the scope of the Sunshine Law, O.R.C. 121.22.”
+The second assignment of error is more fundamental and for this reason will be first considered.
+R.C. 121.22(A) and (C) provide:
+“(A) This section shall be liberally construed to require public officials to take official action and to conduct all deliberations upon official business only in open meetings, unless the subject matter is specifically excepted by law.
+u * * *
+“(C) All meetings of any public body are declared to be public meetings open to the public at all times.
+“The minutes of a regular or special meeting of any such public body shall be promptly recorded and open to public inspection. The minutes need only reflect the general subject matter of discussions in executive sessions authorized under division (G) of this section.”
+Further, R.C. 121.22(B) specifically defines the term “public body” as used in paragraph (B). It reads:
+“As used in this section:
+“(1) ‘Public body’ means any board, commission, committee, or similar decision-making body of a state agency, institution, or authority, and any legislative authority or board, commission, committee, agency, authority, or similar decision-making body of any county, township, municipal corporation, school district, or other political subdivision or local public institution.”
+Civ. R. 56(C) provides the standard to be utilized in the granting of a motion for summary judgment:
+“* * * A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom, that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor. * * *”
+The general question, then, presented by the appeal is whether, applying this specific standard, the eviden-tiary material properly before the trial court established that the Board of Governors was a “public body” as defined by the statute. This requires a review of the factual framework which is well set forth in the decision of the trial court, which we quote:
+“The Joint Township District Memorial Hospital (Hospital) was formed in 1946 by German, Jackson, Nobel and St. Mary’s townships, pursuant to O.R.C. 513.07. The individual townships were unable to support a hospital by their individual efforts and joined together to form a joint hospital, located in St. Marys.
+“A Joint Township District Hospital Board (Trustees) was established under the authority of O.R.C. 513.07. The Trustees consist of 12 members, being three trustees elected from each of the four townships involved in the formation of the hospital. The Trustees are authorized by statute to issue bonds and place tax levies on the ballot. The Trustees also hold title to the physical facility and all equipment in the hospital. There is no doubt that the Board of Trustees is a public body and subject to Ohio’s Sunshine law. The letter of Frederick D. Pepple, dated March 22, 1982, and attached to the Defendant’s Memorandum, indicates that the Auglaize County Prosecutor advised the Trustees of the applicability of the Sunshine Law and that the Trustees have been conducting open meetings at least since March, 1982.
+“Chapter 513 of the Revised Code gives the Trustees two (2) options in handling the day-to-day operations of the hospital. The Trustees may appoint a Board of Governors, consisting of three members, appointed by the Trustees and the Common Pleas Court Judge or lease the hospital property to a non-for-profit charitable corporation. O.R.C. 513.16, 513.17. Here the Trustees chose to create a Board of Governors who are obliged to handle the daily activities of the hospital. Since its creation in 1946, the Board of Governors has been holding its meetings in private and has denied the staff doctors, Plaintiffs here, access to its meetings or the minutes, if any, of its meetings. * * *”
+Under the provisions of R.C. 513.17 the board of hospital governors, with the consent and approval of the joint township district hospital board, prepares plans for and erects, furnishes, and equips the necessary buildings for a joint township general hospital. This board of governors also appoints and fixes the compensation for a superintendent, and similarly provides for nurses and other employees. “Subject to the direction of the board of governors and to the rules prescribed by it, any such superintendent shall have complete charge and control of the operation of such hospital.” R.C. 513.17.
+It should also be noted that the joint township district hospital board, as distinguished from the board of hospital governors, which it appoints pursuant to R.C. 513.16, owns the real estate and property of the hospital and has the power of eminent domain, by virtue of R.C. 513.15.
+Turning now to the statutory definition of “public body” under R.C. 121.22(B) quoted previously, we find that that definition is quite broad and includes specifically “boards.” It is implied that the board must be a “decision-making body” and it must be, among other named political subdivisions, “of * * * [a] township,” or of a “local public institution.”
+Here, we find unquestionably the Board of Governors as defined and empowered by statute is a board, and it makes, with the consent and approval of the hospital board, decisions essential to the construction and equipping of a general hospital, which is a public facility. It specifically has the power (and without any consent or approval of the hospital board) to appoint a superintendent and other employees who, in fact, operate the facility subject to the direction of the Board of Governors and its rules. Thus, this board is necessarily, by virtue of its statutory definition, a decision-making body. It is furthermore a township board since it exists by virtue of authority granted by the legislature for the creation of joint township hospital facilities.
+Thus, it falls exactly within the statutory definition of a “public body.”
+It is unnecessary to consider factual material as to the actual operation of this specific board of governors. The legislature itself by its statutory definition of the duties and authority of that board has brought it within its statutory definition of a “public body” under R.C. 121.22(B). Thus, the Board of Governors, simply by being a board created under R.C. 513.16 and 513.17, is such a public body and, as such, is subject to the requirements of R.C. 121.22(C).
+It is a specific injunction of the legislature that this act be liberally construed to require “public officials” to take official action and to conduct their deliberations on “official” business only in open meetings. It is clear that the day-to-day operation of this public hospital is entirely under the control of a superintendent “subject to the direction of the board of governors and to the rules prescribed by it.” This necessarily involves the use of public property and the effort to achieve statutory objectives. The board of governors is appointed by virtue of statute and by a hospital board created by statute. They are, therefore, public officials, and if the provisions of R.C. 121.22(C) in some way limit rather than broaden the definition of public body, then they do not, as here applied, exclude the Board of Governors.
+However, we assert that the clear statutory definition of “public body” as applied to the clear statutory characteristics of a board of governors of a joint township district hospital makes such board subject to the provisions of R.C. 121.22(C).
+The appellant interjects many areas of discussion and argument which, in our view, are irrelevant to the issue here presented. The legislature has expressly defined the term “public body.” Admittedly that definition is broad in scope but such was the expressed legislative intent. The terms of that definition are threefold, as we have indicated. One, the body must be, among other entities covered, a board. It is, in the present case, a board by statutory definition. Two, it must be a “decision-making body.” This board, by virtue of its statutory duties, must make decisions relevant to the operation of a public facility, both in conjunction with the hospital board, and by itself.
+The legislature could have, but did not, limit the scope of the decisions involved. Hence, in the absence of such limitations, any decisions concerning matters involved in the operation of the public facility are covered, so long as they are made by the board acting as such. Here, the scope of the decisions is not small, involving, as it does, the entire operation of the hospital, the employment of personnel and the supervision of the supervisor.
+Three, the board must be a township board, and such it is — created by and appointed by the several townships here concerned.
+Thus, the statutory definition determines the cause without reference to any facts concerning the actual operation of the board. Its nature is created by operation of law.
+We conclude the second assignment of error is not well-taken.
+Having decided that the Board of Governors is a “public body,” we now turn to the first assignment of error. The appellant argues that the lower court erred in granting a summary judgment in favor of the plaintiffs. In Harless v. Willis Day Warehousing Co. (1978), 54 Ohio St. 2d 64 [8 O.O.3d 73], the Ohio Supreme Court stated:
+“The appositeness of rendering a summary judgment hinges upon the tripartite demonstration: (1) that there is no genuine issue as to any material fact; (2) that the moving party is entitled to judgment as a matter of law; and (3) that reasonable minds can come to but one conclusion, and that conclusion is adverse to the party against whom the motion for summary judgment is made, who is entitled to have the evidence construed most strongly in his favor.
+“The burden of showing that no genuine issue exists as to any material fact falls upon the moving party in requesting a summary judgment.” Id. at 66.
+The appellant claims that there is a genuine issue of fact as to whether the Board of Governors is a “public body.” However, as we have seen, this issue actually involves no factual dispute, but can be determined solely as a matter of law by virtue of interpretation of the pertinent statutes.
+Thus, there is no issue of fact; the plaintiffs were entitled to a judgment as a matter of law, and only that conclusion could be reached by reasonable minds.
+The first assignment of error is not well-taken.
+Judgment affirmed.
+Guernsey, P.J., and Miller, J., concur.
