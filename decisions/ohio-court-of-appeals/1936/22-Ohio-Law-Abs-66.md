@@ -1,0 +1,85 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 839"
+decided: "1936-03-31"
+citations: ["22 Ohio Law Abs. 66"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CROW, J, concurs.", "KLINGER, PJ, dissents."]
+parties: ["BAKER v HUGHES"]
+source_url: "https://static.case.law/ohio-law-abs/22/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1676202
+cites_cases: ["20 Ohio 399"]
+---
+
+# Baker v. Hughes
+
+## Majority (By GUERNSEY, J.)
+
+OPINION
+By GUERNSEY, J.
+This is an error proceeding from the Court of Common Pleas of Marion County, Ohio.
+This action originated in the Municipal Court of Marion, Ohio. The defendant in error, Roy Hughes, as plaintiff, filed his petition against the plaintiff in error S. W. Baker as defendant in said court to recover judgment for an amount alleged to be due from the said Baker to said Hughes on a promissory cognovit note executed by the said Baker to said Hughes under date of November 10, 1931, for the sum of $500 payable one year after date, to said Hughes or order with interest at six per cent per annum from date until due, payable semi-annually and eight per cent per annum after maturity upon principal and upon due and unpaid interest.
+The petition is in the ordinary form of petition on promissory cognovit note, and judgment was confessed under warrant of attorney incorporated in said note, for the sum of $574.99 on July 30, 1934, and entered accordingly.
+Defendant W. S. Baker thereupon filed his motion to set aside the judgment for the reason that the defendant had a good defense to said note and cause of action, and tendered his answer. The court granted said motion and the defendant Baker then filed his answer in said cause in Municipal Court alleging that on or about the 25th day of November, 1932, he was adjudged a bankrupt by the United States District Court for the Northern District of Ohio, and that on the 21st day of June, 1933, he received his discharge from said court; and that he scheduled plaintiff’s claim in said petition in bankruptcy and was discharged from all liability thereon; and denied all the allegations of plaintiff’s petition.
+To this answer the plaintiff Hughes filed his reply in which he alleged the execution and delivery of the promissory note described in the petition by the said Baker to him; and admitted that the said Baker was adjudged a bankrupt in the United States District Court for the Northern District of Ohio and received his discharge as a bankrupt on March 25, 1933.
+He further averred that subsequent to the discharge of W. S. Baker in bankruptcy, by agreement between plaintiff and defendant said note was renewed, and that the defendant Baker subsequent to his discharge in bankruptcy promised plaintiff to pay the same; that payments were made thereon as evidenced by the credits indorsed on the original copy of said note attached to the petition, and that by reason thereof said note was renewed and the discharge of the original debt in bankruptcy was by the defendant Baker waived and set aside and said debt again placed in full force and effect becoming thereby a good and valid obligation of the defendant Baker.
+A jury having been waived, the cause was submitted to the Municipal Court upon the pleadings and the evidence and on consideration thereof the court found that the defendant Baker is indebted to the plaintiff Hughes in the sum of $609.70. A motion for new trial having been filed and overruled, judgment was entered on said finding in favor of plaintiff Hughes against the defendant Baker, in the sum of $609.70, with interest from May 4, JL935, and costs.
+Error was prosecuted from this judgment to the Court of Common Pleas of Marion County, Ohio, which in said error proceeding affirmed said judgment, and error is now prosecuted to this court from the judgment of the Common Pleas Court affirming said judgment of the Municipal Court.
+The material facts as shown by the admissions in the pleadings and the bill of exceptions taken in the Municipal Court, are as follows:
+On November 10, 1931, W. S. Baker, the plaintiff in error who will hereafter be referred to as defendant, being the relation he appeared in in the Municipal Court, executed and delivered to Roy Hughes the •defendant in error, who will hereafter be referred to as the plaintiff, being the relation in which he appeared in the Municipal Court, the certain promissory note described in the petition.
+On the 26th of January, 1932, W. S. Baker made an assignment in the Probate Court of Allen County, Ohio, in which he saved his exemptions, taking said exemptions in chattel property.
+On or about the 15th day of November, 1932, Baker filed his petition in bankruptcy and was adjudged a bankrupt on November 25, 1932. He received his discharge in bankruptcy on March 25, 1933.
+Following his discharge in bankruptcy and prior to December 10 and December 20, 1933, Baker had several
+conversations with Hughes with reference to the note, which appear on pages 11, 12 and 13 of the bill of exceptions, the questions and answers relating thereto being as follows:
+“Q. Now you have told conversations ranging from December 10, 1933, to March 1934; Now did you have any talk or conversation or agreement with him prior to December 20, 1933, but after March 25, 1933, about the payment of this note, which would be the period of time from the time he was discharged as a bankrupt Mareh 25, 1933.
+A. Not exactly, he would always mention it himself.
+Q. What would he say?
+A. That he intended to pay it to me but he had hard luck and he only had a few sows to start with, etc.
+Q. How many times did you talk with him during that time?
+A. Several times.
+Q. What did he say?
+A. He would tell me how he lost out and how he was getting started again.
+Q. You may tell what Mr. Baker said to you concernnig the payment of the note?
+A. Just in our general conversation he would always say he would pay the note and he never meant to have me to lose a cent.
+Q. That he would pay the note?
+A. Yes.
+Q. Did he say anything further?
+A. Not until we entered into our general conversation, I wasn’t expecting a payment right at the time and he knew it, but he wanted me to know that his intentions were good and I didn’t ask him for it then and I knew he didn’t have it, but the reason I am asking for it now is because I felt he was able to pay it, and I need it.
+Q. How many of these conversations did you have with him prior to that time?
+A. That would be hard to tell. He was a near neighbor and we would meet often and I imagine a half dozen times.
+Q. What did Mr. Baker say?
+A. The basis of his conversation was his hard luck.
+Q. Did he ever mention this note?
+A. Yes, many times.
+Q. What did he say about the note?
+A. He told me the note was the only thing he had worrying him.
+Q. Did he say anything about paying it?
+A. He said when he got it I would have to take it when I could get it because he didn’t have it.”
+On December 10, 1933, Baker, in response to an inquiry of Mr. Hughes as to whether he was yet in position to help on the note, stated that he didn’t know, as he had two years taxes to pay and a doctor bill; that he would have his bank book checked up and balanced and whatever he had left he would give to Mr. Hughes, to which Mr. Hughes replied, “There is no argument to that, good enough.”
+On December 20, 1933, Hughes went to the Baker home and stated that he had called around to see if Baker could pay a little on the note. Hughes then said to Baker, “if he could only give me ten dollars I would give him credit on the note and he said T can’t do it today but I will give you ten dollars in the morning; and if you will take a quarter of beef I will make it ten dollars, it wouldn’t come to ten dollars, but he would make it ten dollars if I would take the bay horse at $150 and forget the interest, and give him credit for $170, and he would pay the balance half the coming spring and the rest this fall, and I said, you took me by surprise, will you give me the day to think it over and give me ten dollars this morning as I am on my way to town to get the children a pair of shoes, and I brought the note to Mr. Donithen and told him the conversation, and I said, is it necessary to take that horse, and he said no, and I took Mr. Donithen’s pen and credited the ten dollars on the note.”
+Baker, on the occasion mentioned, naid to Hughes tire sum of $9.50 in the form of a check on the stockyard, and some change. The $9.50 was accepted by Hughes and credited on the note, as above mentioned, in the sum of $10. On February 1, 1934, Baker again paid Hughes the sum of $10.50 for which he credited Baker the sum of $10 on the note. Thereafter, on February 6th, Hughes purchased from Baker forty three pounds of lard at six cents per pound, amounting to $2.58, which was credited by Hughes upon the note.
+On March 1, 1934, in a conversation between Hughes and Baker it was agreed by Baker and Hughes that there was a credit on the note of $22.58, including the credit of $2.58 for the lard.
+Hughes did not accept the proposal of Baker made on December 20th to pay the debt on the terms mentioned in said proposal and did not accept the horse mentioned as a credit for $150 on said debt.
+No further payments were made and no further credits were given, and Hughes brought action on the note.
+There are a number of assignments of error in the petition in error filed in this court, including an assignment that the Common Pleas Court erred in affirming the judgment of the trial court; and there are also similar assignments of error in the petition in error filed in this court and the petition in error in the Common Pleas Court, but in the view we take of this case it is necessary to consider only one of the assignments of error contained in both petitions in error, as a consideration of this assignment disposes of the entire case. The assignment referred to is “The judgment and finding of the court herein is contrary to law and contrary to the facts.”
+It is contended by the plaintiff in error under this assignment of error, that there is no evidence tending to prove a promise to pay the debt discharged in bankruptcy upon which this action is based.
+In 5 Ohio Jurisprudence at page 347, it is stated:
+“A subsequent promise to pay a debt, to impose a liability upon a discharged bankrupt must be distinct and unequivocal. A vague or conditional promise, or a mere acknowledgment of the debt will not sustain liability. Thus a statement made by a defendant to a stranger to the effect that one of his creditors shall never lose a cent and that he intends to pay him every dollar he owes him does not avail to remove the bar of bankruptcy, where there is no relation of principal and agent between the stranger and either of the parties, and where there is nothing to show that he was to communicate this statement to the creditor. Such a statement is no more than an expression of intention on the part of the debtor at that time, and is not a promise to the creditor or his agent to pay.”
+In 3 R.C.L. at pages 325 and 326, it is stated:
+“In order that a new promise shall revive a debt discharged by bankruptcy, or what is the same thing in legal effect, operate to waive the discharge, it must be express, thus differing from the promise required at common law to take a debt out of the operation of the' statute of limitations. * * * The mere acknowledgment of a debt, or the expression of a hope, desire, expectation, or an intention to pay, is not sufficient to revive it.”
+In the case of James Dyer v Chapman Isham, 4 Ohio Circuit Court Reports, page 439, it was held that a charge to the effect that a person who has been released by bankruptcy proceedings from the payment of a debt, may, if he desires to do so, make a partial payment thereon, without it having the effect to bind him to pay the residue, or any part thereof, is a correct statement of the law.
+And in commenting upon this statement, in the opinion of the case at page 430, it is stated:
+“That while by virtue of the express provisions of our statute of limitations, a payment made as a part payment of a known and ascertained debt, which is barred by the statute, will remove the bar, and give the party holding the claim a right to recover thereon, within a fixed time thereafter, notwithstanding it was once barred, such is not the case as to a debt discharged by proceedings in bankruptcy. To make the former debtor liable, there must be as stated by Judge Spaulding in the case of Turner v Chrisman, 20 Ohio 399, ‘a distinct and unequivocal promise to pay i„’ and such is the great weight of authority.”
+“Partial payments on a discharged debt are insufficient evidence of a new pronrse to pay the residue.” 3 R.C.L. 326.
+In 75 A.L.R. at page 600, it is stated:
+“In general, a conditional promise wrl support a recovery if the creditor shows that the condition has been performed, or that a contingency has occurred, and not otherwise.”
+Examined in the light of the authorities mentioned, it is clear that none of the various statements made by Baker to Hughes subsequent to the date of his discharge and prior to December 20, 1933, were distinct and unequivocal promises to pay the debt, and at most, as testified to by Hughes amounted to a mere aeknowledgment of a debt or the expression of a hope, desire or an intention to pay. These statements were therefore, under the authorities mentioned, insufficient to revive the debt discharged in bankruptcy.
+And examining the statements made by Baker on December 10, 1933, and subsequent thereto, in the light of such authorities, it is clear that Baker made a proposal to pay the debt on the following conditions: 1. Baker would make two ten dollar payments; 2. Hughes would accept a bay horse as a credit for $150 on the debt; 3. Hughes would forget the interest; 4. Baker would pay the balance half the coming spring and half the next fall. Hughes did not accept this proposal, and the conditions as to the acceptance of the horse as a credit for $150 and forgetting the interest, have not been complied with or performed by him. The promise being conditional would become legally binding upon baker only upon its acceptance by Hughes and the performance by him of each and all of the conditions' to be performed by h:m. The promise not having been accepted nor its conditions complied with and performed by Hughes, will not under the authorities mentioned and particularly 75 A.Ii.R. 600, support a recovery.
+And as shown by the authorities mentioned, and particularly the case of Dyer v Isham, 4 Circuit Court Reports 429, and 3 R.C.L. 326, the making of the partial payments on the debt did not serve to revive the debt discharged in bankruptcy or operate to waive the discharge.
+There being no evidence tending to prove a subsequent promise to pay the debt upon which the plaintiff was entitled to- maintain a suit for the debt, the judgment of both the Municipal Court and the Common Pleas Court are contrary to law in that they are not sustained by any evidence.
+For the reasons mentioned, the judgments of the Common Pleas Court and the Municipal Court will be reversed, and the defendant having moved at the close of all the evidence, to dismiss the cause and render a judgment for the defendant, this court rendering the judgment the trial court should have rendered, will enter final judgment in favor of plaintiff in error at costs of defendant in error.
+CROW, J, concurs.
+KLINGER, PJ, dissents.
