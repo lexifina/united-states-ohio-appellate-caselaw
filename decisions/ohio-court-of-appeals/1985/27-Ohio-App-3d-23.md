@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "84AP-543"
+decided: "1985-10-03"
+citations: ["27 Ohio App. 3d 23"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reilly, P.J., and McCormac, J., concur."]
+parties: ["Ohio Medical Professional Liability Underwriting Association, Appellant, v. Physicians Insurance Company of Ohio, Inc., Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/27/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711082
+cites_cases: ["10 O.O.2d 114", "170 Ohio St. 178", "36 Ohio St. 2d 35", "65 O.O.2d 179"]
+---
+
+# Ohio Medical Professional Liability Underwriting Ass'n v. Physicians Insurance Co. of Ohio
+
+## Majority (Moyer, J.)
+
+Moyer, J.
+This matter is before us on the appeal of plaintiff, Ohio Medical Professional Liability Underwriting Association (“Ohio Medical”), from a declaratory judgment in favor of defendant, Physicians Insurance Company of Ohio, Inc. (“Physicians Insurance”).
+Dr. William E. Brennock and Ob-Gyn of Cincinnati, Inc. (“Ob-Gyn”), his employer, each held separate medical malpractice insurance policies from Physicians Insurance, which provided primary insurance coverage up to $200,000, and from Ohio Medical, which provided excess insurance coverage for another one million dollars.
+Stipulated facts relate that Dr. Brennock and Ob-Gyn were among those sued by Nicholas Behle, a minor, through his father and best friend, Dennis J. Behle, and Dennis J. Behle, individually, and Mary L. Behle (“the Behles”). The Behles alleged that Dr. Brennock was negligent in delivering Nicholas. Brennock was in charge of the labor and delivery of Nicholas but, because he was involved in an emergency cesarean section, did not perform the actual delivery. The actual delivery was delegated, at his request, to a third-year resident, an employee of Good Samaritan Hospital. None of the shareholder-doctors of Ob-Gyn was involved in the labor and delivery of Nicholas.
+The stipulated facts indicate further that, on January 14,1982, at the suggestion of the trial judge, the Behles voluntarily dismissed, with prejudice, Ob-Gyn as a defendant in the malpractice suit. On January 21, 1982, the Behles settled with Dr. Brennock for $380,000 and executed a covenant not to sue Dr. Bren-nock, Ob-Gyn, or its shareholders, Drs. Ivan Tuskan, Paul J. Haas, and Yunjo Chung, individually.
+Physicians Insurance paid $200,000 pursuant to its primary insurance policy covering Dr. Brennock. Physicians Insurance and Ohio Medical disputed their liability for the remaining $180,000, but agreed to pay $90,000 each pending the outcome of the present declaratory judgment action. The court below found that Ohio Medical was liable for the entire $180,000 on its policy of excess insurance covering Dr. Brennock. This appeal followed.
+Ohio Medical has briefed and argued two “issues” in support of its appeal which, pursuant to App. R. 12(A) and 16(A)(2), will be treated as assignments of error, and are stated as follows:
+“I. Whether insurance coverage provided by two primary insurance policies affording primary coverage separately to an employer and an employee should both be applied to satisfy an agreed settlement of a lawsuit filed against both employer and employee, in spite of the fact the employer had been dismissed as a defendant, where such dismissal was at the behest of the trial judge and done solely to facilitate the settlement.
+“II. Whether a trial court can accord an employer a right to indemnity before the employer’s liability has been determined by a full adjudication on the merits.”
+Ohio Medical’s first assignment of error predicates error in part upon the trial judge’s role in settlement of the Behles’ malpractice action.
+Trial judges have considerable discretion in promoting settlements among parties. However, the ultimate decision rests with the parties. There is no evidence in the record indicating coercion or abuse of office by the trial judge in the partial settlement of this case. The evidence indicates that the Behles took actions to facilitate agreement and end their suit against certain defendants. It is not an abuse of discretion for the trial judge in that action to suggest steps to facilitate settlement. All evidence indicates that the Behles made a unilateral, voluntary, knowing election of remedies in dismissing Ob-Gyn with prejudice, and later settling with some of the remaining defendants.
+Ohio Medical also argues that dismissal of Ob-Gyn as a defendant prevents recovery from both Ob-Gyn and Dr. Brennock on their primary insurance policies issued by Physicians Insurance.
+The Behles’ voluntary dismissal of Ob-Gyn with prejudice as a defendant in their malpractice suit is equivalent, in its finality, to a failure on the merits. Voluntary dismissal with prejudice of claims against a party defendant concludes rights which plaintiff asserted or could have asserted arising out of the transaction, and bars future litigation on those rights. Horne v. Woolever (1959), 170 Ohio St. 178 [10 O.O.2d 114].
+The effect of the Behles’ election of remedies was to make direct recovery against Ob-Gyn by the Behles on any theory legally impossible. The Behles’ allegations of causation and liability with regard to Ob-Gyn remain undecided.
+The voluntary dismissal, with prejudice, of Ob-Gyn was not accompanied by any admissions or findings of liability for the Behles’ injuries. Rather, the settlement agreement transformed the Behles’ legal rights against some of the remaining defendants into contract rights. Thus, the factual determinations of causation, upon which liability is ordinarily founded, are absent from this record.
+The parties to this declaratory judgment action seek clarification of their rights and liabilities as insurers of parties to the settlement agreement. The dispute centers upon which policies covering Dr. Brennock and Ob-Gyn shall be the source of settlement payments.
+Ohio Medical contends that Ob-Gyn, no longer subject to cmect suit by the Behles, by participating in the settlement agreement and related covenant not to sue executed by the Behles, thereby incurred joint and primary liability for the settlement payments.
+It is not reasonable to infer that Ob-Gyn intended to reestablish primary liability as a joint tortfeasor by participating in the settlement agreement and covenant. Both documents deny such a result. The evidence indicates the dismissal was an election of remedies by the Behles, and the stipulated facts state that the Behles executed the settlement agreement with Dr. Brennock. Thus, Ohio Medical’s claim that Ob-Gyn is primarily liable is inconsistent with the facts and apparent intent of the settlement agreements. The trial court recognized this, stating:
+“It is not the opinion of this court that Ob-Gyn * * * is responsible for any portion of the settlement. Plaintiffs [the Behles] in the previous suit had a right to proceed on a joint or several liability theory. They chose finally to proceed against Dr. Brennock alone. * * * Any liability on the part of Ob-Gyn would have to be vicarious * * *.”
+A plaintiff is only entitled to one recovery. Whether or not Ob-Gyn would be vicariously liable for indemnification as Dr. Brennock’s employer, satisfaction would ultimately.be from either Dr. Brennock or from Ob-Gyn, but not both. Only one Physicians Insurance policy and one Ohio Medical policy would be tapped to pay funds for satisfaction of the settlement agreement.
+Because the settlement agreement was intended to hold Dr. Brennock primarily liable, and because Ob-Gyn was voluntarily dismissed with prejudice and not otherwise jointly or primarily liable to compensate the Behles, only one Physicians Insurance policy can be used to pay the settlement agreement. Accordingly, the first assignment of error is overruled.
+Ohio Medical’s second assignment of error complains that the court below made a factual finding that Ob-Gyn was accorded a right of indemnity against Dr. Brennock without a full adjudication of the merits of such a right.
+Ohio Medical cites a section of the trial court’s opinion wherein the court analyzes, based upon stipulated facts, the potential liability of Ob-Gyn prior to its dismissal. The court does so in order to illustrate that under certain circumstances principles of vicarious liability and indemnification would have resulted in recovery from just one Physicians Insurance policy. The court never, as a determinative factual finding, accorded Ob-Gyn a right of indemnification but rather sought to illustrate hypothetical liability. The opinion expressly states: “The court cannot speculate as to what judgment Ob-Gyn would have had rendered against it if any. * * *”
+The trial court’s opinion rests upon the stipulated facts and a reasonable judgment as to the meaning and effect of the settlement agreement:
+“It is not the opinion of this court that Ob-Gyn * * * is responsible for any portion of the settlement. Plaintiffs [the Behles] in the previous suit had a right to proceed on a joint or several liability theory. They chose finally to proceed against Dr. Brennock alone. * * *”
+Instruments and contracts may be construed by the court in declaratory judgment actions pursuant to R.C. 2721.03 and 2721.04. Absent an abuse of discretion, an appellate court cannot question the trial court’s decision to grant or deny declaratory relief. Bilyeu v. Motorists Mut. Ins. Co. (1973), 36 Ohio St. 2d 35 [65 O.O.2d 179]. Our review of the record indicates no abuse of discretion and, accordingly, Ohio Medical’s second assignment of error is overruled.
+Both assignments of error being overruled, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Reilly, P.J., and McCormac, J., concur.
