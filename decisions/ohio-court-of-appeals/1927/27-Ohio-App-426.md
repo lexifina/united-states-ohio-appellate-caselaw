@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1927-10-18"
+citations: ["27 Ohio App. 426"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Williams, JJ., concur."]
+parties: ["Brannan v. The Ohio Poultry Producers Cooperative Assn."]
+source_url: "https://static.case.law/ohio-app/27/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1309197
+cites_cases: ["114 Ohio St., 361", "151 N. E., 471"]
+---
+
+# Brannan v. Ohio Poultry Producers Cooperative Ass'n
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+The defendant in error, as plaintiff, commenced an action in the court of common pleas to recover of the plaintiff in error, as defendant, the sum of $297 as damages for the alleged breach of a co-operative marketing agreement for the marketing and sale of eggs and poultry.
+This agreement was executed on June 16, 1924, and was to become operative when producers owning or controlling a minimum of 300,000 hens had signed such agreement, and, if this required number were not obtained by June 1,1925, the contract thereupon ipso facto terminated. Compliance having been made with this condition of the agreement, plaintiff in error, Harry W. Brannan, commenced, in July, 1925, to deliver poultry and eggs to defendant in error, and continued so to do until September 25, 1925, from which time, until the commencement by the co-operative association of its action for damages, defendant admittedly sold and delivered to others than plaintiff 60 dozens of eggs per week, aggregating at least 2,520 dozens, and 1,200 pounds of poultry.
+Defendant, designated in the agreement as the producer, so long as he continued a member thereof, was to deliver to plaintiff association “all poultry and eggs produced by his hens or by hens the products of which are controlled by him,” except such as were used for home consumption, and for hatching purposes, or as were sold for hatching and breeding purposes. The association was to market the poultry and eggs of defendant in conjunction with those of the other members and he was to receive his pro rata share of the net proceeds of the sale. The contract in question contains 14 enumerated stipulations or agreements, to none of which, need attention be called except (b) of No. 12 thereof, which provides, in substance, that, if the contract is broken, the producer. agrees to pay to the plaintiff association 5 cents per dozen on eggs and 4 cents per pound on poultry for all eggs and poultry sold or marketed by him, directly or indirectly, to others than the plaintiff. At the conclusion of all of the evidence, plaintiff and defendant each moved the court for a directed verdict, whereupon, it having been admitted by defendant that he had sold to others the quantity of eggs and poultry to which we have referred, instead of delivering the same to plaintiff, the court directed the jury to return a verdict for plaintiff for $174, computed as stipulated damages, in accordance with paragraph (b) of item No; 12 of the contract. Plaintiff in error seeks to reverse the judgment entered upon this verdict, first contending that the contract under consideration is in violation of the Constitution of the United States and of the state of Ohio and of the anti-trust acts, so-called, of the federal and state governments. We have examined the brief of plaintiff in error, and find no adequate reason advanced therein to justify such conclusion, especially in view of the decision of the Supreme Court of Ohio in List v. Co-operative Assn., 114 Ohio St., 361, 151 N. E., 471, that cooperative associations of the character of plaintiff are lawful, and that contracts like that here in question are not in contravention of constitutional provisions or statutory enactments.
+The error of which plaintiff in error particularly complains is that the trial court excluded certain testimony offered by him at the trial. The evidence shows that the making of the agreement in question was broached to defendant by one Carl Greek, who was the representative of plaintiff in the solicitation of members, and defendant claims and offered to prove that he would not have signed the agreement except for the representations made to, and relied upon by him, that, if he would sign the contract, and become a member of the association, the business would be profitable, in that he would receive from 3 cents to 6 cents a dozen more for his eggs than he could otherwise obtain, and that by the shipment of eggs in carloads the defendant would receive further benefit and profit.
+One guess is as good as another, and defendant was as well able as Greek to speculate upon what might be attained if the plans of the association were consummated. The alleged statements did not involve the assertion of a past or an existing fact, and we therefore are of the opinion that the trial court did not err in excluding this testimony.
+Plaintiff in error claims also that the question of the amount of damages, if any, should have been submitted to the jury, because the measure of damages, as stipulated in the contract, is in the nature of a penalty rather than of damages actually sustained. With this contention we do not agree, for the reason that the nature of the contract is such that it is apparent that damages for breach thereof of the character alleged would be uncertain as to amount and incapable of proof. The contract shows that the parties intended to fix the measure of damages as provided therein, and, considering the purposes sought to be attained thereby, we cannot say that the damages, as stipulated, are so unreasonable as to be considered unjust and in the nature of a penalty.
+Judgment of the trial court is therefore affirmed.
+Judgment affirmed.
+Richards and Williams, JJ., concur.
