@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2385"
+decided: "1934-05-12"
+citations: ["17 Ohio Law Abs. 568"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, J, concurs.", "KUNKLE, J, not participating."]
+parties: ["VETTER v INDUSTRIAL COMM"]
+source_url: "https://static.case.law/ohio-law-abs/17/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657455
+---
+
+# Vetter v. Industrial Comm
+
+## Majority (By HORNBECK, PJ.)
+
+OPINION
+By HORNBECK, PJ.
+The trial court predicated its action upon that part of §1465-90 CG which reads as follows, and particularly that part in black face type: . ri
+“If the commission, after such hearing’, finds that it has no jurisdiction of the claim and no authority to inquire into the extent of disability or amount of compensation claimed, then the claimant, within sixty days after receipt of notice of such action of the commission, may file a petition in the Common Pleas Court of the county wherein the injury was inflicted, or in the Common Pleas Court of the county wherein the contract of employment was made in cases where the injury occurs outside the state of Ohio. If the claimant is seeking compensation from the state insurance fund, the defendant in such action shall be the industrial commission and summons shall be issued to the industrial commission and also to the attorney general. If the claimant is seeking compensation from an employer who has qualified to pay compensation direct, as provided by §1465-69 GC, or from an employer who has failed to comply with this act, the defendant in such action shall be such employer and summons shall issue to such employer.”
+Counsel for plaintiff in error has favored this court with an extensive and voluminous brief, wherein are discussed many phases of the Workmen’s Compensation Act and the theory underlying this legislation. Substantially, as we interpret the brief of counsel, it is the claim that the section providing that the party defendant .shall be the employer who has qualified to pay compensation is but directory. If, however, the court should hold that it is mandatory, then such provision is unconstitutional for seven reasons, which are stated in the brief.
+We are constrained to say that the trial court was correct in its interpretation of the statute under consideration. The requirement that where an employer has elected to pay compensation direct he or it shall be the party defendant is,' in our judgment, .mandatory and not directory merely.
+As the' trial court indicated in passing upon the motion for a directed verdict, the Workmen’s Compensation Act is grounded upon the theory of payment in the first instance from two sources: First, from the general insurance fund, and, second, by self-insurers direct. •
+It should be borne in mind that the Workmen’s Compensation Act in its entirety is a statutory provision. Its benefits are in the nature of insurance. Independent of statute no rights whatever accrue to an employee and no legal obligations to compensate him are enjoined upon an employer solely because the employee is injured in the course of his employment. The act is not based upon any common law liability. The procedure by which the benefits may be secured is purely statutory and must be carefully followed. The act, in permitting employers to pay employees direct, who are entitled to benefits thereunder, clothes the Commission with complete power to determine whether or not the self-insurer is responsible and financially able to meet its obligations and, second, to assure that it will meet its obligations. In theory, at least, an employee ’ is as certain of any benefits to which he" is entitled under the act if they are paid by a self-insurer as if they are paid by the Commission.
+It is suggested in the brief of counsel for plaintiff in error that if the plaintiff was entitled to compensation she might be paid from a fund created by the Workmen’s Compensation Act and that there is, in fact, but one fund. . The plaintiff would not be paid from any fund created by the Workmen’s Compensation Act unless and until the self-insurer failed to pay, if judgment was awarded the plaintiff. This surplus fund, provided by §1465-54 GC, to which self-insurers are required to pay a certain percentage, is only drawn upon secondarily. The primary liability where a self-insurer is involved is against the self-insurer. The secondary liability, when the self-insurer does, not pay a judgment against hipi is against the Commission, which then and then only is required to draw upon* the surplus fund and pay the judgment of the claimant. The self-insurer is required to contribute to this surplus fund but its purpose is not to absolve him in any particular from liability to his injured employees. This, in our opinion, is a provision consistent with the requirement that an employer who elects to pay compensation direct shall be named as party defendant in an appeal from an adverse finding of the Commission.
+We do not look with favor upon the claim that the Workmen’s Compensation Act is unconstitutional in any particular set out in the brief of plaintiff in error. This act has been tested in the courts and has been found to be a .practical, workable act. We are in accord with much that is said in the splendid brief of plaintiff in error, but are convinced that it would be more properly directed to the legislature than to the courts, which are charged only with the due and legal administration of the act. It could be urged upon the legislature with much force that the right of substitution of a. self-insurer as a party defendant should be assured at any time before the cause is presented to a jury on appeal. The act might provide that, where notice of appeal from unfavorable action to a claimant on rehearing is brought to the Commission, the claimant be specifically apprised by answer to the petition or otherwise whether or not the employer of the employee claimant is a self-insurer. However, this information is available to the claimant and it would not seem that he is prejudiced in this situation.
+It is urged that a dismissal could not properly be entered because the relief was sought on motion only; that the petition should have been challenged by demurrer.
+We do not believe that this is vital or determinative. It is questionable if the Commission is in position to enter its appearance so that a judgment against it would be of any value to the plaintiff. The liability of the Commission is fixed by statute and the source of payment of judgments against it is likewise statutory.
+The obligation of the court to dismiss the action was definite when the record disclosed that the plaintiff had failed to name the proper party defendant, the self-insurer, as provided by §1465-90 GC.
+Although we have not discussed all of the questions urged in the brief of plaintiff . in error, and to do so would prolong this opinion unnecessarily and would serve po useful purpose, we have considered all the claims urged. We find no error in the action of the trial court in dismissing the petition, of the plaintiff and entering judgment for the defendant.
+The judgment will be affirmed.
+BARNES, J, concurs.
+KUNKLE, J, not participating.
