@@ -1,0 +1,74 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4-74-4"
+decided: "1974-10-09"
+citations: ["44 Ohio App. 2d 209"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guernsey, P. J., and Miller, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Villagomez, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/44/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1475236
+cites_cases: ["10 Ohio App. 2d 229", "19 Ohio App. 2d 204", "20 Ohio Misc. 112", "256 U. S. 465", "26 Ohio Misc. 234", "28 Ohio App. 2d 162", "3 Ohio St. 2d 123", "373 F. 2d 517", "390 U. S. 234", "428 F. 2d 357"]
+---
+
+# State v. Villagomez
+
+## Majority (Cole, J.)
+
+Cole, J.
+This is an appeal from a judgment of conviction and a sentence for a violation of B. C. 3719.41, the possession of marijuana.
+Three errors are assigned by the defendant, the appellant herein, the first of which we quote as follows:
+“The prosecution of defendant-appellant pursuant to an alleged affidavit and complaint is void ab initio due to the failure of bringing the subject matter before the trial court and within its jurisdiction.”
+The substance of this alleged error is that no proper complaint under Criminal Rule 3 was filed in the case; hence the court’s jurisdiction was not invoked.
+On September 5, 1973, there was filed in the Municipal Court an affidavit sworn to by one Doyne L. Chartrau before a notary public on August 24, 1973. There appears to be no heading on this document, but a summons was issued thereon on September 5, 1973. On September 7, 1973, the defendant was arraigned thereon and plead not guilty. It appears that a copy of the affidavit was a part of the summons. Subsequently, on May 1, 1973, prior to trial, a complaint was filed, signed by the assistant prosecutor but not sworn to. No further proceedings appear to have occurred bearing on this latter document.
+It is, of course, recognized as fundamental that the jurisdiction of the trial court must be properly invoked. Rule 3 of the Criminal Rules states:
+‘ ‘ The complaint is a written statement of the essential facts constituting the offense charged. It shall also state the numerical designation of the applicable statute or ordinance. It shall be made upon oath before any person authorized by law to administer oaths.”
+Criminal Rule 4(C) (I) states:
+“The warrant shall contain the name of the defendant # * gkaii describe the offense charged in the complaint, and shall state the numerical designation of the applicable statute or ordinance. A copy of the complaint shall be attached to the warrant. * * *”
+Criminal Rule 4(C) (2) states:
+“The summons shall be in the same form as the warrant * * *. A copy of the complaint shall be attached to the summons * *
+It appears that the affidavit filed on September 4, 1973, meets all the requirements of a complaint except that it is not titled complaint. It states the essential facts constituting the offense charged. It notes the numerical designation of the code section involved. It is sworn to before a notary and it is in writing. It thus constitutes a complaint and the lack of a designating title is an immaterial matter of form. The summons and return appear on the same piece of paper or form and, it may be inferred, formed a part of the summons issued to t'he defendant.
+We conclude that the affidavit filed September 4, 1973, was sufficient to invoke the jurisdiction of the court over the subject matter of the offense. Whether or not the summons was proper is immaterial since the defendant appeared, was arraigned, and pleaded to the charge. The court, then acquired jurisdiction over the person of the defendant and any objection to the form of the summons was waived.
+It is, however, asserted by the defendant that the affidavit is insufficient because the affiant Doyne Chartrau did not know that the green vegetable matter the defendant was charged with possessing was, in fact, marijuana, and defendant quotes testimony of the affiant that the contents of the plastic bag was a substance foreign to him and he was not familiar with it.
+The purpose and function of a complaint is to inform the accused of the crime of which he is charged. It forms the essential basis of the court’s jurisdiction and the subsequent trial and judgment. It must, therefore, contain the essential elements required by Criminal Eule 3. Once filed, however, knowledge of the affiant is immaterial to the criminal cause. The issue is whether or not the crime was committed not whether the affiant had personal knowledge of each element of the offense.
+In State v. Biedenharn (1969), 19 Ohio App. 2d 204, it is said in the syllabus:
+“Personal knowledge of the commission of an offense is not a prerequisite to the filing of an affidavit therefor under Section 2935.09, Eevised Code, which provides for accusation by affidavit to cause arrest for prosecution.”
+There is nothing in the Criminal Eules substituting a complaint for the affidavit which would modify the essential reasoning of this case. A method is provided under Eule 4 for an examination prior to the issuance of a warrant on behalf of the complainant “and any witnesses” thus indicating that justice need not be gauged by the knowledge of a single individual.
+Under the rule above cited, it is not necessary that the one signing a complaint personally know all the facts constituting the elements of the offense. He may rely upon the testimony and investigation of others to establish matters not within the orbit of his personal knowledge. New persons are personally aware of all elements of an offense and must necessarily so rely.
+In Sopko v. Maxwell (1965), 3 Ohio St. 2d 123, the Supreme Court states, at 124, in a per curiam decision:
+“It is not necessary that the affidavit be executed by one who observed the commission of the offense. It is sufficient if such person has reasonable grounds to believe that the accused has committed the crime”
+In the present case, it is apparent the affiant had reasonable grounds by virtue of the inferences to be drawn from the propinquity of the pipe and the bag of green vegetable matter — not a customary form of tobacco, but a common description of marijuana and his observation of the accused’s apparent effort to hide the bag beneath liis leg, that marijuana was in fact involved.
+The assignment of error is not well taken.
+The second assignment of error reads:
+“The trial court erred in overruling defendant-appellant’s motion objecting to the admissibility of a video tape deposition.”
+It is contended the court erred because no notice of intent to use the deposition pursuant to Civil Rule 32(A) was given. The use of depositions in criminal cases is governed by Criminal Rule 15. In subparagraph (F), it is provided that a deposition may be used only in limited cases, one of which was applicable in this case. The witness involved was out of state at the time of trial. No requirement for notice to use such a deposition is required as it is under the civil rules. Under the civil rules, depositions are taken mainly for discovery purposes by arrangements between counsel and notice, and such are taken without an order of the court. In criminal cases, however, the use of depositions is limited to certain cases involving the unavailability of a witness at trial and they may only be taken pursuant to an order of the court, after notice is given to all parties. See Criminal Eule 15 (A). The deposition is therefore initially intended for use at trial; hence, the notice applicable to the civil situation is not required.
+The defendant objects to the use of the deposition on the further ground that Criminal Eule 15 (C) requires the attendance of the accused at the deposition and he did not in fact attend.
+Criminal Eule 15(C) reads as follows:
+‘ ‘ The defendant shall have the right to attend the deposition. If he is confined the person having custody of the defendant shall be ordered by the court to take him to the deposition. The defendant may waive his right to attend the deposition, provided he does so in writing and in open court, is represented by counsel, and is fully advised of his right to attend by the court at a recorded proceeding.”
+Defendant argues that he was not present at the taking of the deposition, the court did not advise him of his right to attend, and he did not waive his right in writing. Defendant misreads the requirements of the rule. The defendant always has a right to attend the taking of a deposition. The last part of the rule is related to the situation where the defendant is confined. It is mandatory that he be ordered taken to the place of the deposition since he is not otherwise free to attend, but in such a case a waiver in writing after advice by the court and representation by counsel may eliminate this necessity. However, a defendant who is not confined, as was the case here, is in no need of this special treatment. He is free to attend or not as he sees fit. The person in confinement is not free to attend and the rule provides for his being taken to the place where the deposition is to be taken unless the waiver requirements are met. In many cases depositions are taken at points far removed from the place of confinement and the defendant after being advised of the requirement may wish to waive this right to be taken to the distant place. Otherwise, under the rule, his attendance is mandatory.
+The person who is not in confinement though may waive his right to attend simply by not going. To hold otherwise would result in the absurd requirement that a defendant could either prevent the taking of the deposition by not showing up, or force the Sheriff, by refusing to waive his right to notice, to take him into custody so that he could be transported to the place where the deposition is to be taken. This was not the purpose of the rule.
+The assignment of error is not well taken.
+Assignment of Error 3 reads:
+“The trial court erred in overruling defendant-appellant’s motion to dismiss the complaint, which charged defendant-appellant with violation of Ohio Revised Code 3719.41, a misdemeanor, when said complaint was the result of an illegal arrest ab initio.”
+Irrespective of whether the arrest in this case was proper (and we make no determination of this point since it is unnecessary to our decision) the subsequent criminal proceedings initiated by the complaint are not affected by the arrest.
+In Sopko v. Maxwell, supra at 124, the Supreme Court states:
+“Even if an arrest is illegal, it does not affect the validity of a subsequent criminal proceeding based on a valid indictment. ’ ’
+See, also, State v. Hooper (1966), 10 Ohio App. 2d 229.
+Similarly, where the proceedings are predicated upon a valid complaint the illegality of an arrest is of no importance to the proceedings unless a motion to suppress evidence obtained by virtue of that arrest is involved.
+The defendant argues that the seizure of the plastic bag containing marijuana was illegal because the arrest was illegal. However, it is clear from the testimony that at the time the plastic bag was picked up by the witness Doyne Chartrau no restraint or arrest of the person of the defendant had been made. The acquisition of the object involved did not involve any restraint or any search of the person of the defendant. The witness simply picked up a paper sack which was only-partially concealed by the defendant’s leg. There was therefore no search and no arrest.
+See Harris v. United States (1968), 390 U. S. 234.
+Defendant in his argument also asserts that the acquisition of the marijuana and pipe by the complaining witness Chartrau was an illegal search and seizure and it was error for the trial court to have overruled a motion to suppress this evidence. The evidence we believe shows neither a search nor an arrest at the time the evidence was obtained. However, another answer to this contention exists.
+It is unquestioned that Chartrau was a private citizen with no arrest power in a misdemeanor situation. He was in no way a police officer, and exercised no authority of the state when he acquired this evidence. The exclusionary rule developed by the Supreme Court of the United States is an artificial limitation on the admissibility of evidence designed to enforce the constitutional guarantees against unreasonable searches and seizures by the state and its officers and agents. It has no application to evidence acquired by private citizens. In annotation, 36 A. L. E. 3rd 553, at 561, it is stated:
+"Except for such scattered intimations to the contrary as may be found in the cases discussed infra §4, the courts in the cases discussed in this annotation have agreed in holding that evidence obtained as the result of a wrongful search by a private individual may be admitted into evidence in a criminal prosecution against the victim of the search, if that search was not in any way instigated or participated in by government agents. ”
+In United States v. Winbush (C. A. 6, 1970), 428 F. 2d 357, the Court of Appeals said, at 359:
+“We hold that the Fourth Amendment is not concerned with lawful private searches not conducted for or stimulated by law enforcement officers.”
+The court cites Burdeau v. McDowell (1920), 256 U. S. 465 and states, at 359:
+"Following Burdeau, other courts have declined to exclude evidence in criminal cases when obtained by private persons. In Barnes v. United States, 373 F. 2d 517 (5th Cir. 1967), the owner of a motel opened the luggage of a departed guest and discovered a forged bank check which he turned over to the police. Approving admission of this evidence, the court said, ‘clearly the search complained of here did not involve governmental action and was therefore not illegal within the meaning of the fourth amendment. ’ ’ ’
+In the present case the search by Chartrau, if what he did could be so characterized, was neither instigated nor participated in by any governmental agent. The sheriff’s department and security officers came into the situation after Chartrau had acquired and was in possession of the evidence.
+See also University Heights v. Seibert (1971), 26 Ohio Misc. 234 at page 238; City of University Heights v. Conley (1969), 20 Ohio Misc. 112; State v. Peoples (1971), 28 Ohio App. 2d 162; George, Constitutional Limitations on Evidence in Criminal Cases 108 (1973).
+Again it must be noted that in the testimony of all parties the evidence was in plain view rendering questionable whether there was a search and the defendant denies any connection with or possession of the evidence, thereby rendering questionable his standing to raise any objection. The assignment of error is not well taken.
+Judgment affirmed.
+Guernsey, P. J., and Miller, J., concur.
