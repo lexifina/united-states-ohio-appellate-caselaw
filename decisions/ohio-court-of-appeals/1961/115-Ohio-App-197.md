@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "210"
+decided: "1961-06-30"
+citations: ["115 Ohio App. 197"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guernsey, P. J., and Younger, J., concur."]
+parties: ["In re Appropriation of Easements for Highway Purposes: Preston, Dir. of Highways, Appellant, v. Keller et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/115/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1447598
+cites_cases: ["170 Ohio St., 276"]
+---
+
+# Preston v. Keller
+
+## Majority (Middleton, J.)
+
+Middleton, J.
+This is an appeal on questions of law from a judgment of the Court of Common Pleas dismissing the resolution and finding and the amended resolution and finding of the Director of Highways filed in a proceeding to appropriate for highway purposes certain property in Auglaize County owned by the appellees.
+Appellant assigns as error the court’s order dismissing the appropriation proceeding as contrary to law.
+There is no dispute as to the facts in this case. The Director of Highways filed in the Court of Common Pleas of Auglaize County his resolution and finding pursuant to Section 5519.01 of the Revised Code for the appropriation of easements over certain lands owned by Edison J. Keller and others, for highway purposes. The resolution and finding was subsequently amended to include as parties Henry C. Keller and Emma M. Keller. As amended, the resolution and finding set forth all the particulars required by Section 5519.01, Revised Code. The director deposited in court the amount he had fixed in the resolution and finding, as the value of the property appropriated ($2,560), together with damages to the residue ($14,550), or a total deposit of $17,110, and thereafter the director took possession of the property.
+Prior to the filing of the appropriation proceeding, negotiations were had with the owners in an effort to purchase the property and an offer was made by the Department of Highways to purchase the property from the owners for the sum of $20,990. This offer the owners rejected. Thereafter, the owners filed their petition on appeal asking the court to fix the amount of bond to be given by the appellant on appeal and that a jury be impaneled and further proceedings had to fix the true value of the land to be appropriated and the true amount of damages sustained in the residue, as provided by law. Simultaneously with the filing of the owners ’ petition on appeal, the appellant filed two motions. The first motion asked the court to dismiss the resolution and finding filed by the director for failure to join necessary parties in the proceedings. Subsequently, upon motion of the director, an amended resolution and finding was filed containing new parties omitted in the original resolution and finding. The second motion filed by the appellant asked the court for an order to dismiss the resolutions and finding of the Director of Highways for the reason that the amount deposited by the director, the sum of $17,110, is materially less than the amount previously offered by the director during negotiation, which amount was $20,990.
+The court sustained appellant’s second motion and dismissed the resolution and finding as amended. It is from this judgment of the court dismissing the resolution and finding as amended that the appeal is prosecuted to this court.
+The one question presented is, “Did the trial court commit prejudicial error in dismissing the resolution and finding as amended filed by the Director of Highways for the reason that the director fixed the value of the property appropriated and damages to the residue at a lesser amount than he had previously offered during negotiations?” Section 5519.01, Revised Code, sets forth the procedure necessary for the Director of Highways to follow in the appropriation of the property in question. The essential requirements of this section so far as necessary for the determination of the question raised in the case at bar are as follows:
+“If the Director of Highways is unable to purchase property * * * he shall first enter on the journal of the Department of Highways a finding that it is necessary, for the public convenience and welfare, to appropriate such property as he deems needed for such purposes. * *
+‘ ‘ The director shall, in such finding, fix what he deems the value of such property appropriated, together with damages to the residue and deposit the value thereof, together with such damages with the Probate Court or the Court of Common Pleas of the county within which such property, or a part thereof, is situated, for the use and benefit of such owner, and thereupon the director may take possession of and enter upon said property for any such purposes. * * *”
+Section 5519.02, Eevised Code, provides:
+“If any owner of property appropriated by the Director of Highways is not satisfied with the amount of money as fixed by the director, such owner may * * * file a written petition, in duplicate, in the court, setting forth an intention to appeal from the amount so fixed. * * *”
+Such section provides further for the fixing, filing and approval of the amount of bond to be given by the appellant on the filing of the appeal. The court shall also fix a day for the hearing of all preliminary questions and motions and examination of the papers and proceedings. Section 5519.02 further provides:
+“On the day fixed all preliminary motions and questions arising upon appeal shall be heard and determined, and if the court finds the proceedings are irregular, or the appeal is not perfected, it shall dismiss it at the cost of the appellant. The court may waive technical defects, errors, or omissions in such proceedings.
+“If the court finds that such appeal has been properly perfected, and that proceedings are substantially regular, the court shall transmit to the director the money deposited in the court for the use and benefit of the appellant. The court shall fix a day, not more than twenty days after it has determined that appeal has been properly perfected, for the trial of the case by jury. * * *”
+It will be observed that the statute provides that “On the day fixed all preliminary motions and questions arising upon appeal shall be heard and determined, and if the court finds the proceedings are irregular, or the appeal is not perfected, it shall dismiss it at the cost of the appellant.”
+It is self-evident from the reading of the statute that the motions and preliminary questions to be heard are only those raised on appellant’s appeal. It is not necessary to set out specifically the various motions and questions which might be heard at such time. Suffice it to say that the question raised by the appellant, of the difference between the amount offered by the highway director in an attempt to purchase the property of the owners and the amount fixed by the highway director in the resolution and finding of the highway department as the value of the land appropriated and damages, if any, to the residue, can not be determined at a hearing on preliminary questions. There is no provision set forth in Section 5519.01 or Section 5519.02 of the Revised Code for the property owner to raise the question contained in the motion filed by the appellant and which was sustained by the trial court.
+We believe the Supreme Court has clearly disposed of the question presented in the case at bar in In re Appropriation of Easements for Highway Purposes, 170 Ohio St., 276, where it is set forth in the syllabus as follows:
+“1. In an appropriation proceeding by the Director of Highways of the state of Ohio for the purpose of taking property for highway purposes as provided by Sections 5519.01 and 5519.02, Revised Code, the jurisdiction of the Court of Common Pleas is limited to a determination of the amount of compensation and damages to which the landowner is entitled.
+“2. A question of the necessity and the extent of the appropriation of such land may be determined in a separate action to enjoin the proceeding.”
+It is apparent, on the authority of the above case and the cases therein discussed, that the trial court committed prejudicial error in sustaining appellant’s motion and dismissing the resolution and finding as amended filed by the Director of Highways, which requires a reversal of the judgment.
+Judgment reversed.
+Guernsey, P. J., and Younger, J., concur.
