@@ -1,0 +1,28 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10629"
+decided: "1930-03-24"
+citations: ["8 Ohio Law Abs. 347"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LEVINE, J. concurs.", "Sufiivan, J., not participating."]
+parties: ["MITZEL CO et v SHIELDS"]
+source_url: "https://static.case.law/ohio-law-abs/8/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1634199
+---
+
+# Mitzel Co. v. Shields
+
+## Majority (VICKERY, PJ.)
+
+VICKERY, PJ.
+It would seem, at first blush, that this answer invoked the rule against varying a written contract by parol testimony and apparently that is the,view which the court took of it. In other words, that the defense set up in the statement of defense would, in effect, destroy the instrument by the introduction of the testimony of the parol contract that was made at the time the instrument was given and, therefore, it did not state a defense inasmuch ,as the things set up in the statement of defense and the amended statement of defense could not be introduced in evidence and would not be a defense for that reason.
+It must be remembered that this action was between the original parties to this paper, the maker of it and the payee of it, and the endorsement on the back of it intimates that there was an agreement before the endorsers would endorse this paper, for it says: “according to the agreement.” Now the pleading set up that this oral agreement was made as an inducement concurrently with the execution of the note. We are well informed of the rule that one cannot vary or change a written obligation either to enlarge or to detract from it by parol testimony made before or at the time of the making of the paper. But there are some exceptions to this rule. One of the exceptions is that a note or contract complete on its face in every detail, signed and delivered, might be shown not to be operative until the. happening of some thing in the future. Now this does not change or vary the terms of a written instrument. It simoly goes to the effect that, although the instrument is complete in its makerup, and for all intents and purposes so, far as it might appear it was a complete instrument, yet by the agreement that was made concurrently with it as an inducement for the making of the contract, it was understood and agreed that this was not as a matter of fact to be a contract between the parties until the happening of some event in the future.
+In this case, apparently, according to the statement of defense this paper writing purporting to be a note complete in every detail, was not to be enforcible until the happening of something which was to take place in the future. Now it was not attempted, by this pleading, to vary the terms of this note, but only to show as a matter of fact that, though complete in form, it was r.ofc enforcible as a note because at the time the suit was brought, the event that w,as the basis of the agreement had not taken place. Now, I sa" this is one of the exceptions to the oral testimony rule and if one analvzes it, it is perfectly logical and sound because, as ahead" stated, it did not change or vary the terms of the writing in the least. It is admitted that this writing w,as given. It is admitted that it is complete; but by virtue of the agreement it did not become actionable between the parties until the happening of an event in the future which was set up in much detail in the statement of defense.
+Now it must be borne in mind that the rule might have been entirely different had this paper been endorsed either in blank or to a specific endorsee who had no knowledge of the agreement, before the note had become due, for a valuable consideration, for it being completei upon its face, if an innocent' holder had come into the picture he would have been protected against the agreement that existed between the original parties. But the rule does not obtain when the suit is brought between the original parties. Any defense, legal or equitable that exists between the parties may be interposed ,as a reason why a judgment should not be taken upon the paper against the parties liable upon the same.
+In this case it was this agreement that was a defense and as between the maker and the endorsee of this paper on the one side and the payee on the other, that was a complete and proper defense and, as already stated, it did not impair or change the contract in the least, and we think that the statement of defense set up a complete defense at that time to the enforcement of this obligation, .and we think the court erred in sustaining the demurrer to the first statement of defense and, we thing the court erred in striking off the amended statement of defense and it would, therefore, follow, that the court erred in rendering judgment upon this note against the maker and the endorser, and for these errors the judgment of the Municipal Court will be reversed and the cause remanded to the Municipal Court with instructions to overrule the demurrer or demurrers and the motion or motions to strike off, for the statement of the defense and the amended statements of defense each set up a good ' defense as between the parties to this note’s enforcement at the time it was sought to be enforced if, as a matter of fact, the statements set up in the statements of defense could be¡ proven, but that is a matter to which evidence should be addressed.
+Therefore, the court erred and the judgment will be reversed and the cause remanded to the Municipal .Court.
+LEVINE, J. concurs.
+Sufiivan, J., not participating.
