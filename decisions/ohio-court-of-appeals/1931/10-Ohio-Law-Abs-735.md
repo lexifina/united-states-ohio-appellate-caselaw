@@ -1,0 +1,17 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1931-01-14"
+citations: ["10 Ohio Law Abs. 735"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROMEO v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0735-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 897291
+cites_cases: ["177 NE 483"]
+---
+
+# Romeo v. State
+
+
