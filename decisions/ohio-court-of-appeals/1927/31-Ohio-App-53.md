@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1927-02-10"
+citations: ["31 Ohio App. 53"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Washburn, P. J., and Funk, J., concur."]
+parties: ["Betleyoun v. Industrial Commission of Ohio."]
+source_url: "https://static.case.law/ohio-app/31/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1314355
+cites_cases: ["1 N. E., 641", "29 L. R. A. (N. S.), 30", "43 Ohio St., 220", "60 N. E., 560", "64 Ohio St., 369"]
+---
+
+# Betleyoun v. Industrial Commission
+
+## Majority (Pardee, J.)
+
+Pardee, J.
+The parties stand in this court in the same relative position as they did in the court below, and will be referred to herein as plaintiff and defendant.
+The plaintiff, Calvin Betleyoun, on the 13th day of October, 1924, was an employee of the Miller Rubber Company, a domestic corporation, with its principal place of business in Akron, Summit county. The plaintiff claims that on said date, while in the course of his employment, he suffered a severe injury to his back, from which he has not yet recovered.
+The plaintiff, after sustaining said injury, made application to the defendant for compensation, as provided by the "Workmen’s Compensation Act, in proper and regular form. On or about the 5th of November, 1925, his claim came on for hearing before said defendant, when it made a finding that the disability complained of was not the result of an injury sustained in the course of and arising out of his employment, and disallowed the claim — which decision denied him any and all rights whatsoever under said compensation law.
+Within 30 days after such disallowance, he filed in the court of common pleas of said county his appeal and notice thereof, and he filed his petition in said court within 30 days from the filing of said appeal.
+The defendant filed an answer admitting said employment ; that the weekly wage of said plaintiff was $35 ,• and that said claim for compensation was denied because the claimant had not sustained an injury in the course of his employment. A transcript from the Industrial Commission, containing all the evidence taken before it, was filed in the common pleas court on March 2, 1926.
+On April 19, 1926, the cause came on to be heard, and the evidence taken by the Industrial Commission was read to the jury, and, after the completion of the reading of said transcript, the attorney for the defendant, in open court, made the following statement:
+“The defendant confesses judgment for compensation at the rate of fifteen dollars per week for a period of thirteen days, being the period of disability immediately following the injury. The defendant moves the court to instruct the jury to return a verdict in favor of the defendant for all over and above the amount confessed herein in open court, which is fifteen dollars per week for a period of thirteen days, being- the period of disability immediately following- the injury.”
+This motion was sustained by the trial court, over the objection and exception of the plaintiff and thereupon the jury was instructed to return a verdict in favor of the defendant, which verdict, signed by all of said jurors, was in the following words, to wit:
+“And now come the said jury into open court with their verdict in writing, signed by their foreman, and say: We, the jury, being- duly impaneled and sworn, find the issues in this case in favor of the defendant, The Industrial Commission of Ohio.”
+In due time a motion for new trial was filed by the plaintiff, and on May 8, 1926, the following judgment was entered upon the journal of the court:
+“This day this cause came on to be heard upon the offer of the defendant to confess judgment for compensation at the rate of Fifteen Dollars ($15.00) per week for a period of two weeks, or for the sum of Thirty Dollars ($30.00), upon the verdict of the jury for the defendant as to any and all sums over and above said sum of Thirty Dollars ($30.00) and upon the motion of the plaintiff to set aside said verdict and for a new trial herein, and the court being fully advised in the premises, overrules the said motion.
+“It is therefore considered that said plaintiff recover of said defendant, said sum of Thirty Dollars (30.00) together with his costs herein expended.
+“It is further ordered that the sum of Six Dollars ($6.00) be allowed Smoyer & Smoyer, attorneys of record for the plaintiff herein, as attorneys ’ fees for the services rendered said plaintiff herein and that said sum of Six Dollars ($6.00) be taxed as costs herein, to all of which findings and orders of the court the plaintiff here and now excepts.”
+After said judgment was entered, and before the petition in error was filed in this case, the Industrial Commission sent a check for said sum of $30 to the plaintiff, which was received and cashed by him, and which check in due course was returned to said commission.
+After said check was so received by him, and without the knowledge of his attorney that the check had been so received, the plaintiff filed a petition in error in this court to reverse the judgment of the trial court. This case was set down for trial in its regular order, and on the day of hearing the defendant filed a motion to dismiss the petition in error because the plaintiff had accepted said check; the defendant claiming that it was in full satisfaction of all of his claims against said commission, and that he was therefore disabled from prosecuting this proceeding in this court.
+We agree with the claim of the defendant that the general rule is “that a party who has taken advantage of a judgment or decree may not afterwards question its validity.”
+But we also agree with the claim of the plaintiff that, among others, there is a well-known and recognized exception to the foregoing rule, to wit:
+“When an amount found in favor of a litigant by a judgment or decree is due him in any event — when there is no controversy over his right to receive and retain it — so that the only question to be determined by the appellate tribunal is whether he is or is not entitled to a greater or an additional sum, the general rule does not apply, and his acceptance and retention of the amount awarded him by the judgment or decree he seeks to review does not preclude him from prosecuting the writ of error or appeal in order to obtain more.” 29 L. R. A. (N. S.), 30 (b).
+This record presents a peculiar situation indeed. The defendant confessed and admitted in open court during the trial that the plaintiff was entitled to the sum of $30, and no more, and asked the court to direct a verdict for the defendant for all over and above that amount; in other words, the defendant asked the court to direct a verdict in the sum of $30 in favor of the plaintiff, to which the plaintiff objected. The court insisted on doing as requested, but directed the jury to return a general verdict for the defendant. The plaintiff then filed his motion for a new trial, as hereinbefore indicated, which was overruled and the judgment entered as hereinbefore set forth.
+By this procedure, done at the instance of the defendant, the claim of the plaintiff was divided into two parts: The question of compensation for the period of thirteen days following the injury, and the question as to whether there was any further liability.
+By this séparation and confession and the judgment entered thereon, the plaintiff was entitled to receive from the defendant, and the defendant was required to pay him, the sum of $30 in any event and under all circumstances.
+This confession admitted liability and the amount thereof, and denied any other or greater liability.
+The receipt therefor by the plaintiff of the money which was confessedly his could not of course, be construed as an admission that the judgment' which he attacks is not erroneous, as the amount received was not in dispute; the judgment being attacked because the plaintiff claimed that he was entitled to a sum of money in addition to that admitted to be due him.
+This conclusion is fully supported in this state by Beals v. Lewis, 43 Ohio St., 220, 1 N. E., 641, and Law v. Law, 64 Ohio St., 369, at page 376, 60 N. E., 560. These cases are in accord with the great weight of authority in this country. We are therefore unanimously of the opinion that the motion of the defendant to dismiss this proceeding should be denied.
+Coming now to a consideration of the case upon the merits, we desire to say that we have fully read the bill of exceptions, and are unanimously of the opinion that the trial court was clearly wrong in taking the case from the jury and directing a verdict for the defendant. In our opinion, the evidence shows that the plaintiff was injured at the time and in the manner claimed, and there is substantial evidence to the effect that he had a substantial injury, and that as a result thereof he was entitled to a considerably greater award than that admitted by the defendant; in any event, the trial court did not have the right to weigh the evidence and usurp the province of the jury, as it did in this case.
+For the reasons stated, the action of the court in entering judgment upon the confession will be affirmed; the action of the court in entering judgment upon the verdict will be reversed, and the cause remanded, with directions to try the case as provided by law to determine whether or not the plaintiff is entitled to compensation in excess of the amount admitted by said defendant.
+Judgment accordingly.
+Washburn, P. J., and Funk, J., concur.
