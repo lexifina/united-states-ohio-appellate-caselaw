@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3-87-11"
+decided: "1989-05-10"
+citations: ["63 Ohio App. 3d 281"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Evans and Miller, JJ., concur."]
+parties: ["BURKHART, d.b.a. Burkhart Farms, Appellee, v. MARSHALL; Taylor, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/63/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1449643
+cites_cases: ["110 N.E. 518", "318 N.E.2d 428", "40 Ohio App.2d 203", "69 O.O.2d 192", "92 Ohio St. 44"]
+---
+
+# Burkhart v. Marshall
+
+## Majority (Shaw, Judge.)
+
+Shaw, Judge.
+This is an appeal, by the defendant, Kenneth Taylor, from a judgment entered in the Common Pleas Court of Crawford County.
+The relevant facts of the case were established in a trial to the court and are not in significant dispute. The defendant-appellant, Kenneth Taylor, and the plaintiff-appellee, Floyd Burkhart, are farmers. The plaintiff is also a broker in farm goods and products. The record shows that for several years Taylor had both bought seed and sold crops through the plaintiff. The standard practice of the parties was to conduct their business over the telephone. Accordingly, it was not unusual for Taylor to telephone the plaintiff, place an order for seed and make payment subsequent to taking delivery.
+Pursuant to this custom, in the latter part of April 1985, Kenneth Taylor telephoned the plaintiff and placed an order for approximately 615 bushels of seed beans at $8.90 per bushel. During the phone conversation, Taylor mentioned that he was renting his farm. Although Taylor’s tenant was later identified as defendant Thomas K. Marshall, at the time of the phone conversation, the plaintiff was unaware of the tenant’s identity or of the details of the rental arrangement. When asked by the plaintiff whether payment for the seed order would be a problem, Taylor assured him that it would not be.
+Following his conversation with Taylor, the plaintiff phoned his warehouse and made arrangements for either Taylor or his tenant to take delivery of the seed order. On two separate dates, April 29, 1985 and May 2, 1985, Thomas Marshall picked up and signed for the seed order.
+On or about May 2, 1985 and again on or about May 6, 1985, the plaintiff mailed invoices for the seed order to Taylor. On June 4, 1985, the plaintiff sent a statement to Taylor billing him for the order. Subsequently, Taylor telephoned the plaintiff and advised him to send all future bills for the order to Thomas Marshall. The plaintiff complied with Taylor’s request and thereafter billed Marshall monthly, from July 1985 through February 1986. However, the plaintiff never received payment on the account from either Taylor or Marshall.
+On April 17, 1986, the plaintiff filed a complaint in the common pleas court against Marshall for the amount due on the delinquent account, plus interest. Marshall answered and denied any liability for the debt. Subsequently, in response to the plaintiffs motion for summary judgment, Marshall filed an affidavit stating that the seeds were ordered by Taylor, for use on Taylor’s farm and therefore Marshall was not responsible for the debt.
+The plaintiff’s motion for summary judgment was denied and the plaintiff subsequently filed an amended complaint naming Taylor as a party defendant. The amended complaint alleges the existence of a contract between the plaintiff and Taylor for the purchase of 615 bushels of seed. Taylor subsequently cross-claimed against Marshall for indemnification.
+Prior to the trial of the case, the plaintiff and Marshall entered into a settlement agreement and all claims by the plaintiff, against Marshall, were dismissed. Following the trial, on January 8, 1987, the trial court announced its decision finding in favor of the plaintiff on his amended complaint. The court’s decision was journalized on January 20, 1987.
+It is from that judgment that Kenneth Taylor appeals and asserts four assignments of error for our consideration.
+The first assignment of error states:
+“The trial court erred as a matter of law by enforcing an oral contract which was in excess of $500.00 in violation of Section 1302.04 of the Ohio Revised Code.”
+R.C. 1302.04 is the Statute of Frauds governing contracts for the sale of goods in Ohio. Subsection (A) of that statute reads in pertinent part:
+“Except as otherwise provided in this section a contract for the sale of goods for the price of five hundred dollars or more is not enforceable by way of action or defense unless there is some writing sufficient to indicate that a contract for sale has been made between the parties and signed by the party against whom enforcement is sought * *
+We agree with the defendant’s contention that, because he signed no writing indicating that a contract was made, the oral contract between himself and the plaintiff is unenforceable pursuant to R.C. 1302.04(A). However, under subsection (B) of the statute, an exception to the requirement of a writing signed by the party against whom enforcement is sought is made as follows:
+“Between merchants if within a reasonable time a writing in confirmation of the contract and sufficient against the sender is received and the party receiving it has reason to know its contents, it satisfies the requirements of division (A) of this section against such party unless written notice of objection to its contents is given within ten days after it is received.”
+Taylor contends that R.C. 1302.04(B) is inapplicable to this case for two reasons: (1) he is not a merchant; and (2) he immediately objected to the statement sent by the plaintiff. We disagree with the defendant’s contention that he is not a merchant within the meaning of the Statute of Frauds.
+R.C. 1302.01(A)(7), the definition section of the sales provisions of Ohio’s Uniform Commercial Code, states that “ ‘[b]etween merchants’ means in any transaction with respect to which both parties are chargeable with the knowledge or skill of merchants.” We believe that a farmer, such as Taylor, with twenty years’ experience in the industry, who previously bought seed through a grain broker, sells the product of his farming efforts through a broker and keeps abreast of the farm market is “chargeable with the knowledge or skill of merchants” referred to in R.C. 1302.01(A)(7), in placing an order for seed. Accord Ohio Grain Co. v. Swisshelm (1973), 40 Ohio App.2d 203, 69 O.O.2d 192, 318 N.E.2d 428. See, also, R.C. 1302.01(A)(5) and the Official Comments pertaining thereto defining merchant.
+We also disagree with Taylor’s contention that the contract is unenforceable because he objected to the statement sent by the plaintiff within ten days of receipt. The record reflects that the defendant telephoned the plaintiff and requested that he send future statements on the account to Thomas Marshall. R.C. 1302.04(B) specifically requires a “written notice of objection.”
+R.C. 1301.01(TT) defines “written” as including “printing, typewriting, or any other intentional reduction to tangible form.” We do not believe that Taylor’s telephone call to the plaintiff was an objection sufficient to satisfy the requirements of R.C. 1302.04(B). Therefore, we conclude that the Statute of Frauds was not available to the defendant as a defense to enforcement of the contract. Accordingly, the defendant’s first assignment of error is not well taken and is overruled.
+The second assignment of error states:
+“The trial court erred as a matter of law by enforcing an oral representation to answer for the debt of another in violation of the Statute of Frauds, Section 1335.05 of the Ohio Revised Code.”
+Contrary to the assertions made by the defendant under this assignment of error, the record reflects that the trial court specifically rejected any theory of suretyship as a basis for the defendant’s liability and found instead that Taylor’s liability was based solely on evidence of a contract between Taylor and the plaintiff. We believe this finding is supported by the weight of the evidence and we therefore concur with the trial court’s determination of this issue. Accordingly, this assignment of error is not well taken and is overruled.
+The defendant, Taylor, argues his final two assignments of error together:
+“The trial court erred as a matter of law in entering judgment against the appellant on the grounds of a contractual relationship when there has been no consideration whatsoever being afforded to the appellant.
+“The trial court erred as a matter of law by not admitting and considering a lease which was properly identified, which evidenced that the appellant herein received no consideration of the contract which the trial court has enforced against appellant.”
+The defendant, Taylor, contends that the trial court erred in enforcing a contract that lacked consideration. Taylor further contends that the written lease agreement between him and Marshall establishes that he received no consideration for the contract with the plaintiff and, therefore, the trial court erred in not admitting the lease agreement into evidence.
+It is a general principle of contract law that a “promise for a promise” is sufficient consideration to support a contract. See, generally, 17 Ohio Jurisprudence 3d (1980) 501, Contracts, Section 67. Specifically, a promise to buy and a promise to sell are sufficient consideration for each other. Davis Laundry & Cleaning v. Whitmore (1915), 92 Ohio St. 44, 110 N.E. 518. We therefore conclude that the mutual promises made by Taylor and the plaintiff to buy and sell seed at $8.90 per bushel were sufficient to support their contract. We believe this is particularly true when, as here, the mutual promises to buy and sell occur between parties with an established course of dealing in such a manner.
+Based on the foregoing conclusions, we also disagree with Taylor’s contention that his lease agreement with Marshall is relevant evidence of the lack of consideration for the contract between Taylor and the plaintiff. Therefore, we find no abuse of discretion in the trial court’s refusal to admit the document into evidence.
+Accordingly, the defendant’s third and fourth assignments of error are not well taken and are overruled. The judgment of the trial court is affirmed.
+Judgment affirmed.
+Evans and Miller, JJ., concur.
