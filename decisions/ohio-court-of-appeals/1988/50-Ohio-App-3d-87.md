@@ -1,0 +1,57 @@
+---
+court: "Ohio Court of Appeals"
+docket: "88AP-192"
+decided: "1988-10-25"
+citations: ["50 Ohio App. 3d 87"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bowman and Fain, JJ., concur.", "Mike Fain, J., of the Second Appellate District, sitting by assignment in the Tenth Appellate District."]
+parties: ["Peppers, Appellant and Cross-Appellee, v. Ohio Department of Rehabilitation and Correction, Appellee and Cross-Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/50/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6706672
+cites_cases: ["1 OBR 6", "1 Ohio App. 3d 60", "136 Ohio St. 404", "16 O.O. 572", "26 N.E. 2d 454", "37 Ohio St. 3d 44", "376 N.E. 2d 578", "439 N.E. 2d 437", "523 N.E. 2d 509", "54 Ohio St. 2d 279", "8 O.O. 3d 261"]
+---
+
+# Peppers v. Ohio Department of Rehabilitation & Correction
+
+## Majority (Whiteside, P.J.)
+
+Whiteside, P.J.
+Plaintiff, Reuben Peppers, appeals from the judgment of the Ohio Court of Claims, which denied his claim for damages against the defendant, and raises the following assignment of error:
+“The trial court abused its discretion in admitting hearsay evidence on a critical issue in this case and in relying on that hearsay evidence to find the facts against the plaintiff.”
+Defendant raises the following cross-assignment of error:
+“The trial court erred in determining that Hobart Dixon’s acts were within the scope of his employment.”
+This case arose out of an incident that occurred at the Columbus Correctional Facility power plant. Plaintiff, who was an inmate at the time, went to the power plant and became involved in an altercation with another inmate. Dixon, an engineer at the power plant whose duties involved supervising the inmates, broke up the fight. Plaintiff alleges that as he was walking away from him, Dixon struck plaintiff in the back of the neck, causing him injuries. The trial court found that Dixon’s initial use of force in breaking up the fight was within the legal limits. In finding that plaintiff did not meet his burden of proof, the court stated that there was conflicting testimony regarding what happened after Dixon broke up the fight.
+In reaching the decision that Dixon was acting within the scope of his employment and, thus, finding defendant not liable, the court admitted three documents prepared by Dixon after the incident: (1) Dixon’s handwritten “use of force” report; (2) Dixon’s incident report; and (3) Dixon’s conduct report. Dixon did not testify at trial, but his reports indicate that plaintiff was the aggressor and not Dixon. Although the trial court recognized the existence of conflicting evidence, it still found that “* * * Dixon, by virtue of his position as an engineer in the power plant, had the authority and responsibility to supervise and report inmates for rule infractions.” Furthermore, the trial court held that “* * * the action taken by Dixon was appropriate and, under the circumstances, he did not abuse his authority * *
+By his assignment of error, plaintiff contends that the trial court erred in allowing the three reports of Dixon to be admitted into evidence, as they were hearsay. Defendant, on the other hand, contends that the “public records” exception to the hearsay rule contained in Evid. R. 803(8) permits such reports to be admitted into evidence.
+Evid. R. 802 states that hearsay is not admissible unless there is an applicable exception. “Hearsay” is defined in Evid. R. 801(C) as:
+“* * * [A] statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.”
+The exception relied upon by the defendant is Evid. R. 803(8), the “public records” exception, which provides:
+“Records, reports, statements, or data compilations, in any form, of public offices or agencies, setting forth (a) the activities of the office or agency, or (b) matters observed pursuant to duty imposed by law as to which matters there was a duty to report, * * * unless the sources of information or other circumstances indicate lack of trustworthiness.” (Emphasis added.)
+Defendant contends that the reports made by Dixon fell within the “public records” exception because such reports are required to be made. Even assuming for the sake of argument that these reports are “public records” within the definition of the exception, defendant completely overlooks the last provision of the rule regarding trustworthiness.
+Trustworthiness, or the lack thereof, is the underlying rationale of the hearsay rule and its exceptions. In Mastran v. Urichich (1988), 37 Ohio St. 3d 44, 47, 523 N.E. 2d 509, 511, the Ohio Supreme Court specifically recognized this theory as follows:
+“The rationale underlying the hearsay rule is the lack of trustworthiness of statements alleged to have been made outside the presence of the factfinder. Similarly, the reasons underlying the exceptions to the hearsay rule involve circumstances tending to establish a statement’s trustworthiness notwithstanding that it was made outside the presence of the fact-finder. * * *”
+Therefore, consideration of trustworthiness is essential to a determination of a hearsay issue. This is especially true with respect to the public records exception since the rule itself makes trustworthiness the predicate for admissibility. However, the burden is upon the objector to show lack of trustworthiness. As this court recognized in Price v. Sawyer (Apr. 26, 1983), No. 82AP-391, unreported, where the circumstances indicate that the statements might be unreliable or untrustworthy, the best solution, even if not required, is to place the declarant on the stand and subject him to cross-examination in the presence of the factfinder. This is especially true where, as here, the declarant is the agent of the defendant whose acts are the predicate of plaintiff’s claim.
+In this case, trustworthiness is a crucial factor. The three statements which the trial court admitted into evidence were prepared by someone who had a strong personal interest in the matter. Dixon, who wrote all three reports, had engaged in and was accused of instigating a fight with the plaintiff. His statements were con-clusory and self-serving. For whatever reason, he was not called to testify at trial. The trial court should not have admitted these reports into evidence. Even if they met the foundational requirements of the “public records” exception, the circumstances indicate a lack of trustworthiness in the reports. Evid. R. 803(6) specifically provides that trustworthiness is the overriding factor as to whether “public records” should be admitted. Thus, Evid. R. 803(6) requires that the reports not be admitted, even if they be public records, if they are not trustworthy. The three reports prepared by Dixon should not have been admitted into evidence. Accordingly, plaintiff’s assignment of error is well-taken.
+Defendant, in its cross-assignment of error contends that the judgment of the trial court finding that Dixon was acting within the scope of his employment was against the manifest weight of the evidence. The syllabus of C. E. Morris Co. v. Foley Constr. Co. (1978), 54 Ohio St. 2d 279, 8 O.O. 3d 261, 376 N.E. 2d 578, states the controlling standard for reviewing a judgment as being against the manifest weight of the evidence:
+“Judgments supported by some competent, credible evidence going to all the essential elements of the case will not be reversed by a reviewing court as being against the manifest weight of the evidence.”
+Therefore, we must examine the record to determine if the trial court’s judgment that Dixon was acting within the scope of this employment was supported by “some competent, credible evidence.”
+In order to find the state liable, Dixon’s acts must have been within the scope of his employment. By R.C. 2743.02, the state waived its immunity and consented to be sued unless the court determines that the act of the employee is outside the scope of the employee’s position or if the “* * * employee acted with malicious purpose, in bad faith, or in a wanton or reckless manner.” Therefore, if Dixon acted within the scope of his employment, the state will be held liable for his wrongful acts.
+This court has held that state employees “* * * can act unreasonably and still be in the scope of their duty so as to permit the doctrine of respondeat superior to apply to make their employer, the state, liable.* * *” James H. v. Dept, of Mental Health & Mental Retardation (1980), 1 Ohio App. 3d 60, 61, 1 OBR 6, 8, 439 N.E. 2d 437, 440. Therefore, merely identifying the act as unreasonable does not automatically preclude liability. Furthermore, the Supreme Court of Ohio held in paragraph two of the syllabus of Amstutz v. Prudential Ins. Co. (1940), 136 Ohio St. 404, 16 O.O. 572, 26 N.E. 2d 454:
+“A deviation by a servant will not be deemed to be an abandonment of his service to his employer, unless such deviation is so divergent from his regular duty that its very character severs the relationship of master and servant.” (Emphasis added.)
+The trial court found defendant’s act was not “* * * of a nature which was so ‘divergent’ from his duties and responsibilities to sever the employment relationship. * * *”
+Dixon’s regular duty was to supervise and control those inmates assigned to the power plant. Specifically, Ohio Adm. Code 5120-9-01(C) provides:
+“(C) There are six general situations in which a staff member may legally use force against an inmate:
+“(1) Self-defense from an assault by an inmate;
+“(2) Defense of third persons, such as other employees, inmates, or visitors, from an assault by an inmate;
+“(3) Controlling or subduing an inmate who refuses to obey prison rules and regulations;
+“(4) Prevention of crime, such as malicious destruction of state properly or prison riot;
+“(5) Prevention of escape; and
+“(6) Controlling an inmate to prevent self-inflicted harm.”
+In these enumerated situations, a guard in Dixon’s position may be required to use force on an inmate. The trial court found that Dixon’s action was within the scope of his employment. Even if more force than necessary were used, the employee continues to act within the scope of his employment in using force where use of force is an inherent job duty and the employee is attempting to perform his job duties (even though improperly) rather than engaging in a personal vendetta. There is “some competent, credibile evidence” to support the trial court’s finding that Dixon acted within the scope of his employment even if excessive or unnecessary force was used. It is undisputed that there was a fight between plaintiff and another inmate that was broken up by Dixon. Since the finding that Dixon was acting within the scope of his employment is supported by “some competent, credible evidence,” that finding will not be interfered with upon appeal. Accordingly, defendant’s cross-assignment of error is not well-taken.
+For the foregoing reasons, plaintiff’s assignment of error is sustained and defendant’s cross-assignment of error is overruled. The judgment of the Ohio Court of Claims is reversed, and this cause is remanded for further proceedings in accordance with law consistent with this opinion.
+Judgment reversed and cause remanded.
+Bowman and Fain, JJ., concur.
+Mike Fain, J., of the Second Appellate District, sitting by assignment in the Tenth Appellate District.
