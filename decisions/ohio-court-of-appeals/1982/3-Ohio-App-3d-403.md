@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "81AP-869"
+decided: "1982-03-09"
+citations: ["3 Ohio App. 3d 403"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Strausbaugh, J., and Whiteside, P.J., concur."]
+parties: ["Maynard, Appellee; Maynard, Appellant, v. Henderson, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/3/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709417
+cites_cases: ["132 Ohio St. 125", "135 Ohio St. 191", "14 O.O. 48", "156 Ohio St. 295", "46 O.O. 172", "7 O.O. 226"]
+---
+
+# Maynard v. Henderson
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+Judy Maynard, plaintiff-appellee, and Harry T. Maynard, plaintiff-appellant, her husband, commenced an action in the Court of Common Pleas of Franklin County against Jackie Henderson alleging that Judy Maynard received personal injuries as a result of an automobile accident caused by the negligence of defendant. Harry T. Maynard’s claim was for loss of services and consortium derived from the injury of his wife.
+Defendant alleged, among other defenses, that the complaint was barred by virtue of R.C. 4123.741.
+Defendant moved for summary judgment on the basis that Judy Maynard was a fellow employee of Jackie Henderson, that Judy Maynard had filed for and received compensation on a workers’ compensation claim for the injuries she sustained and that R.C. 4123.741 provides a statutory bar to an action against a fellow employee.
+The trial court sustained the motion for summary judgment and the complaint was dismissed.
+Harry Maynard has appealed, asserting that the trial court erred in dismissing his claim for loss of consortium on the basis that a fellow employee of his spouse has statutory immunity against the action. Judy Maynard concedes that the judgment of the trial court was correct as to her claim.
+R.C. 4123.741 provides as follows:
+“No employee of any employer, as defined in division (B) of section 4123.01 of the Revised Code, shall be liable to respond in damages at common law or by statute for any injury or occupational disease, received or contracted by any other employee of such employer in the course of and arising out of the latter employee’s employment, or for any death resulting from such injury or occupational disease, on the condition that such injury, occupational disease, or death is found to be compensable under sections 4123.01 to 4123.94, inclusive, of the Revised Code.”
+The issue is whether R.C. 4123.741 bars a claim by a spouse for loss of services and consortium which arises from the injury to a person who was injured in the scope of his employment by a fellow employee.
+In Triff v. National Bronze & Aluminum Foundry Co. (1939), 135 Ohio St. 191 [14 O.O. 48], the Supreme Court held that a complying employer who negligently causes damages to his employee which are not compensable under workers’ compensation law is liable at common law. At that time G.C. 1465-70 provided that employers who comply with workers’ compensation law “shall not be liable to respond in damages at common law or by statute, save as hereinafter provided, for injury or death of any employee, wherever occurring, during the period covered by such premium so paid into the State Insurance Fund, or during the interval of time in which such employer is permitted to pay such compensation direct to his injured or the dependents of his killed employees as herein provided.” The court held that it was the legislative intent to exempt employers from liability for damages at common law or by statute for compensatory injury or death of employees, but not to exempt them from liability arising out of a non-compensable occupational disease.
+Shortly after Triff was decided, the General Assembly amended G.C. 1465-70 (now R.C. 4123.74) to provide that complying employers “shall not be liable to respond in damages at common law or by statute, for any injury, disease or bodily condition, whether such injury, disease or bodily condition is compensable under this act or not, or for any death resulting from such injury, disease or bodily condition, of any employee, wherever occurring, during the period covered by such premium so paid into the state insurance fund, or during the interval of time in which such employer is permitted to pay such compensation direct to his injured or the dependents of his killed employees as herein provided.” (118 Ohio Laws 422, 426.)
+In the case of Bevis v. Armco Steel Corp. (1951), 156 Ohio St. 295 [46 O.O. 172], the issue was whether a wife could maintain an action against her husband’s’ employer for loss of consortium which resulted from the compensable occupational disease of her husband. The Supreme Court held that amended G.C. 1465-70 abrogated the rule of law announced in Triff. The Supreme Court, at page 299, conceded that the spouse was not an employee of the defendant or the dependent of a killed employee and, while her husband was living, that she could not assert a claim for or be eligible to receive compensation under the Workers’ Compensation Act. It was assumed that at common law the wife could bring an action in her own right for the breach of a duty owed to her, independent of any right of action which her husband may have had by reason of the same wrongful conduct. The Supreme Court held that the amended language of G.C. 1465-70 clearly indicated that it was the intent of the General Assembly to bar liability of the employer to anyone for damages derived from the injury, disease, or bodily condition of an employee arising out of his employment.
+The statutory immunity provision for fellow employees (R.C. 4123.741) was enacted long after Bevis was decided. The provision for statutory immunity of a fellow employee is virtually identical to that provided to an employer prior to the 1939 amendment. Thus, appellant argues that R.C. 4123.741 was intended by the legislature to provide protection to a fellow employee only against a lawsuit initiated by an employee receiving compensation for his injuries, but was not intended to bar the derivative and independent claim of a spouse for loss of consortium, a claim not compensable under the Workers’ Compensation Act.
+Appellee argues that there is only one injury or occupational disease within the contemplation of R.C. 4123.741, that being the injury or occupational disease of the employee. She further asserts that the only condition for immunity is that such injury, occupational disease, or death of the employee be compensable, not that a derivative claim of a third party be com-pensable.
+Triff, supra, involved an occupational disease that was not compensable to the employee. Hence, the issues of this case were not decided by Triff. Bevis did not decide the issue of whether G.C. 1465-70, prior to its amendment in 1939, prohibited a derivative claim of the spouse since it was not necessary to reach that issue.
+In Kraut v. Cleveland Ry. Co. (1936), 132 Ohio St. 125 [7 O.O. 226], the Supreme Court held that an action of a spouse for loss of services and consortium is not one for bodily injury within the meaning of the two-year statute of limitations but, instead, comes within the four-year statute pertaining to injury to the rights of the plaintiff. R.C. 2305.09(D). “Injury” as used in R.C. 4123.741 means bodily injury, rather than an injury to the legal rights of a person as contemplated in relation to the derivative claim for loss of consortium. The word “injury” is used in R.C. 4123.741 in combination with “occupational disease” and “death.” The latter terms refer to a condition that happens to a person’s body rather than his legal rights.
+In construing R.C. 4123.741, our objective is to ascertain whether it was the intent of the General Assembly in referring to “injury” to mean “bodily injury” rather than a more comprehensive definition of injury which would include injury to the rights of a person such as may be derived by the spouse in a loss of consortium claim.
+The only injury that must be compen-sable to provide immunity against any damage claims arising therefrom is the bodily injury to the employee.
+No issue has been raised as to the constitutionality of R.C. 4123.741. Hence, that issue is not before us.
+Appellant’s assignment of error is overruled and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Strausbaugh, J., and Whiteside, P.J., concur.
