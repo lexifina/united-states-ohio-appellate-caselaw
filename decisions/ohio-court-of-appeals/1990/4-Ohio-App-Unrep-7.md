@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. C-890267"
+decided: "1990-06-06"
+citations: ["4 Ohio App. Unrep. 7"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["UTZ, P.J., DOAN and HILDEBRANDT, JJ."]
+parties: ["Chas. Todd Corp., Inc. v. Rosemont Industries, Inc."]
+source_url: "https://static.case.law/ohio-app-unrep/4/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1614047
+cites_cases: ["116 Ohio App. 165", "187 N.E.2d 418", "455 N.E.2d 1055", "7 Ohio App. 3d 356"]
+---
+
+# Chas. Todd Corp. v. Rosemont Industries, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon the appeal, the transcript of the docket, journal entries and original papers from the Hamilton County Municipal Court, the transcript of the proceedings, and the briefs and arguments of counsel.
+On March, 4, 1985, an employee of defendant-appellant, Rosemont Industries Inc, entered into a lease agreement with plaintiff-appellee, Todd Corporation, Inc, which provided that Todd would supply and service work uniforms for Rosemont. After three years, Rosemont discontinued this service provided by Todd. Todd then filed this action against Rosemont for damages and attorney's fees pursuant to the liquidated-damages clause contained in the lease agreement.
+The trial court entered judgment in favor of Todd and awarded damages to Todd as contemplated by the lease agreement. The trial court also awarded Todd attorney's fees, but denied its request for prejudgment interest. Both parties appealed the trial court'sjudgment to this court.
+On appeal, Rosemont contests the trial court's determination that it was a party to this contract and the trial court's award of liquidated damages and attorney's fees. Todd contests on appeal the trial court's denial of its request for prejudgment interest.
+We cannot, however, reach the merits of these assignments of error due to a procedural error committed by the trial court. We therefore, reverse the judgment of the trial court, and we remand the case for further proceedings in accordance with this Decision.
+At the conclusion of the trial, the following conversation occurred:
+"THE COURT: May I see the exhibits, please? I presume you both agree that the statements of Missouri law that both of you have included in your briefs are accurate, no one is contesting what is contained in the briefs?
+"MR. ARNOLD: The cases are cited. You may have to read them yourself as to get [sic] the full interpretation.
+"THE COURT: I mean, you both agree that is an accurate statement as it stands? No one is attacking each other's brief?
+"MR. ARNOLD: No, ma'am.
+"THE COURT: I don't want to go out and purview [sic] the Missouri statute^ if I can rely on what is in your briefs.
+"MR. LADRIGAN: As far as I know, it's correct. If the court wishes to review the cases, I have copies I could make available to you.
+"THE COURT: I honestly think the cases that you both cite basically .say the same thing from what I can read in the briefs. If there's something in the case you think I ought to see, I'll take the time to read them."
+Neither party objected. The trial court then entered judgment on behalf of Todd.
+Generally, litigants may not stipulate as to what the law is so as to bind the court. In re The McDaniel Motor Company (1962), 116 Ohio App. 165, 187 N.E.2d 418. Stipulations involving legal conclusions do not relieve the trial court of its duty to determine such matters upon its own analysis of pertinent facts and legal theories. Burdge v. Bd. of County Commrs. (1982), 7 Ohio App. 3d 356, 455 N.E.2d 1055.
+The trial court's reliance upon counsel's agreement as to the status of the applicable law of Missouri was misplaced. The trial court failed to satisfy its duty to disregard stipulations as to the law, and to conduct its own independent analysis of existing case law. Accordingly, we remand this case to the trial court to be decided upon an examination by the court of the case law of Missouri.
+The judgment of the trial court is reversed, and this cause is remanded for further proceedings in accordance with this Decision.
+Judgment reversed and cause remanded.
+UTZ, P.J., DOAN and HILDEBRANDT, JJ.
