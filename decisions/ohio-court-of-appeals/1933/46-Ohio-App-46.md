@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-07-10"
+citations: ["46 Ohio App. 46"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McG-ill, J., concurs in judgment."]
+parties: ["The State, ex rel. Flynn, v. Davis et al."]
+source_url: "https://static.case.law/ohio-app/46/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1337786
+cites_cases: ["102 Ohio St., 120", "109 Ohio St., 246", "130 N. E., 502", "142 N. E., 611"]
+---
+
+# State ex rel. Flynn v. Davis
+
+## Majority (Lieghley, P. J.)
+
+Lieghley, P. J.
+A petition in mandamus was filed in the common pleas court to compel the civil service commission, composed of the defendants named, to approve the reinstatement of relator, Ralph Flynn, on the pay roll of the division of police, department of public safety, of the city of Cleveland, and to certify his name to the commissioner of accounts.
+Hearing was had in the court below, and the writ was denied. Error is prosecuted to this court to reverse said judgment. The case was tried- in this court on the pleadings and stipulations of counsel.
+The relator was appointed a patrolman of the city of Cleveland from the eligible list certified by the civil service commission on the first day of November, 1926, and continued his employment until April 14, 1932, when he was suspended by the Chief of Police under charges of being intoxicated while on duty and in uniform, in violation of Article 1, Rule 1, of the police department. The relator pleaded not guilty.
+The relator was brought to trial on said charges before Director Merrick on the 18th day of April, 1932, found guilty, and dismissed. No claim is made that the required procedural steps were not taken. The relator did not undertake to perfect an appeal from the decision of the director within the ten days, nor at any time, so far as the record shows, and the decision of the director was duly certified to the commission.
+On August 26,1932, the director undertook to reconsider his decision and judgment of dismissal, and upon the theory of an error having been committed corrected the records in the department of public safety to show and read “a suspension” of the relator. The director thereupon reinstated the relator to the position of patrolman in the department, effective as of September 15, 1932. The civil service commission on September 9, 1932, refused to approve the reinstatement.
+The relator was ont of the city at this time, and when he returned the director again reinstated him by order effective February 1, 1933. The relator served until March 9, following, when he took a leave of absence pending the outcome of this proceeding.
+The civil service commission at all times refused to approve the reinstatement of relator and refused to approve his name on the pay roll. The vacancy caused by the dismissal or suspension has never been filled. The director undertook to reinstate relator to said vacancy, and restored his badge to him.
+It is urged by relator that the director serves in an administrative and quasi judicial capacity, and has a right to reconsider and correct errors and mistakes at any time during his term. Also it is urged, no appeal having been perfected, that the commission performs only the administrative duty of keeping the records of appointments, suspensions, lay offs, and discharges of employees; that it must perform this ministerial service, and has no discretion in the performance thereof. It is further urged that inasmuch as no appeal was perfected the commission is without jurisdiction to disapprove of the reinstatement by the director, and without jurisdiction to refuse to approve his name on the pay roll.
+The commission claims that when the director dismissed the relator upon good and sufficient charges the decision of dismissal and certification thereof became final, and the director lacked authority to modify or vacate this entry thereafter; that it is provided by law that the decision of the director is final, and unless the officer so discharged appeals within ten days to the civil service commission for a review or modification of this decision the status of the relator, the director, and the commission thereupon become fixed. It is further urged that the relator, having failed to appeal and exhaust his remedy under the civil service laws within the prescribed time, has the option of taking another examination as his only remedy.
+We agree with counsel for relator that the functions of the director in such a hearing are administrative and quasi judicial, but he is not a judicial officer, nor are his records in the department of public safety court records. State, ex rel. Smith, v. Barnell, Dir. of Public Service, 109 Ohio St., 246, 142 N. E., 611.
+It is claimed that the director has authority to change his entry or judgment at any time during the term, and that the “term” for all practical and reasonable purposes is the term of office of the director. It is asserted that he has control of his orders during and throughout such term. In support of this contention the case of First National Bank of Dunkirk v. Smith, 102 Ohio St., 120, 130 N. E., 502, is cited, which holds that a court of general jurisdiction has such control of its orders and judgments during the term at which they are rendered; but we call attention to the fact that this holding refers to a court of general jurisdiction, has no application, and is in no sense controlling, in the case at bar.
+In the practical administration of the civil service law (Section 486-1 et seq., General Code), the director and the civil service commission have only such powers as have been expressly conferred by law, or as may be reasonably inferred, for the practical administration of the law. It is provided when the decision of the director shall be final, and some of the claims of the relator are directly opposed by this express mandate. So long as there was a remedy available to the relator there could be no resort to the courts for relief without first availing himself of the prescribed remedy.
+When the relator was brought to trial before the director, found guilty and sentenced, he had his full remedy. He had ten days in which to appeal to correct any errors that the director committed. If the judgment was unwarranted by tbe proof, tbe law provided a tribunal to review, affirm, modify, or set aside that judgment. If there was a clerical error, ten days were allowed him to persuade the director- to correct the error before the perfection of his appeal, in which event, if error there was, a correction should be expected. It might be said that if the judgment was final and an appeal perfected the director was powerless to correct the error, although within the ten days. However, we are inclined to the opinion that courts would look charitably upon such a situation. If an appeal had been perfected within the ten-day period, and an error had inadvertently been made, authority to correct the same by the director might be acquired by a dismissal of the appeal within that period.
+However, we are of the opinion that when the relator permitted ten days to elapse after the judgment, and during said period neither approached the director for a modification or vacation of his decision, nor perfected an appeal to the- civil service commission, his opportunity for relief was ended and his status became fixed. He is, for all practical purposes, in the same position as one who had never been appointed and discharged.
+For the foregoing reasons, the writ is denied.
+Writ denied.
+McG-ill, J., concurs in judgment.
+
+## Dissent (Levine, J., dissenting.)
+
+Levine, J., dissenting.
+I dissent from the conclusion reached by the majority of this court for the following reason:
+The entry of the director of public safety as corrected shows that there was not a dismissal, but merely a suspension of the relator.
+Viewing the entry as corrected, the subject matter would not be such as to bring it within the purview of the jurisdiction of the civil service commission. The power to correct clerical errors is, in my opinion,, inherent in the director of public safety, as it is in any other officer required to keep records. In my opinion, not only was the director of public safety empowered to make the correction, but there was a paramount duty upon him to so correct the record as to make it speak truthfully. It may be conceded that if evidence were offered clearly showing that the purported correction was not made in good faith, and that it was merely a pretended correction, in order to accomplish a given result, the same could be disregarded. There was no evidence, however, as disclosed from the record, offered on that point, and this court should assume that the correction made in the records of the director of public safety was made in good faith in order to make it speak the truth.
+Holding these views, it is my conclusion that there was error in the judgment of the common pleas court in denying the writ of mandamus.
