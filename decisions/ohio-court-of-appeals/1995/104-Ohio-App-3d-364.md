@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA94-10-087"
+decided: "1995-06-05"
+citations: ["104 Ohio App. 3d 364"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["William W. Young and Powell, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. PAYNE, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/104/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1778580
+cites_cases: ["1 OBR 57", "1 Ohio St.3d 19", "1989 WL 90630", "1995 WL 90183", "20 OBR 38", "20 Ohio App.3d 36", "318 N.E.2d 866", "40 Ohio App.2d 236", "437 N.E.2d 583", "480 U.S. 294", "484 N.E.2d 215", "486 U.S. 35", "619 N.E.2d 1228", "628 N.E.2d 115", "63 Ohio Misc.2d 84", "69 O.O.2d 217", "90 Ohio App.3d 169"]
+---
+
+# State v. Payne
+
+## Majority (Walsh, Presiding Judge.)
+
+Walsh, Presiding Judge.
+Defendant-appellant, Gerald A. Payne, appeals his convictions for trafficking in marijuana in violation of R.C. 2925.03(A)(2), 2925.03(A)(3), and 2925.03(A)(4). On October 15, 1993, relying on information received from an informant, Officer Paul Larkin of the Clermont County Sheriffs Department and another officer drove to appellant’s residence for the purpose of examining the contents of appellant’s garbage. When the officers arrived, Larkin opened a garbage can near the end of appellant’s driveway and removed four sealed garbage bags. The bags contained three small plastic bags which were later found to contain marijuana residue. The garbage bags also contained two one-gallon plastic bags containing marijuana residue, five partially smoked marijuana cigarettes, and marijuana seeds.
+Based upon this discovery, the officers obtained a warrant to search appellant’s residence. The search of the residence uncovered marijuana growing under fluorescent grow lights, quarter-ounce amounts of marijuana in small plastic bags, more than one pound of unpackaged marijuana, and twenty-four marijuana seedlings.
+Appellant filed a motion to suppress the items seized, which was overruled. Appellant entered a no-contest plea and was sentenced. Appellant now appeals, setting forth the following assignments of error:
+Assignment of Error No. 1:
+“The trial court erred in overruling the motion to suppress because the results of the garbage search could not be used to support the affidavit because that search violated the Fourth and Fourteenth Amendments to the United States Constitution.”
+Assignment of Error No. 2:
+“The trial court erred in overruling the motion to suppress because the results of the garbage search could not be used to support the affidavit because that search violated Article I, Section 14 of the Ohio Constitution.”
+Assignment of Error No. 3:
+“The trial court erred in overruling the motion to suppress because the results of the garbage search could not be used to support the affidavit because that search violated the Fourth and Fourteenth Amendments to the United States Constitution because of the illegal trespass of the officers onto Gerald Payne’s property.”
+In his first and second assignments of error, appellant contends that he manifested a subjective expectation of privacy in his garbage, which was placed near the end of his driveway for pickup by the Rumpke collection service. Appellant argues that the warrantless search of his garbage violated his Fourth Amendment rights under the United States Constitution and Section 14, Article I of the Ohio Constitution, and that his motion to suppress the evidence seized should have been granted.
+An appellate court may not disturb a trial court’s decision on a motion to suppress where it is supported by substantial credible evidence. Maumee v. Johnson (1993), 90 Ohio App.3d 169, 171, 628 N.E.2d 115, 116; State v. Wingerd (1974), 40 Ohio App.2d 236, 238, 69 O.O.2d 217, 218, 318 N.E.2d 866, 868; State v. Emerson (Mar. 6, 1995), Clermont App. No. CA94-11-093, unreported, at 3, 1995 WL 90183. A trial court serves as the trier of fact in a suppression hearing and must judge the credibility of the witnesses and the weight of the evidence. State v. Fanning (1982), 1 Ohio St.3d 19, 20, 1 OBR 57, 57-58, 437 N.E.2d 583, 584-585.
+There is no reasonable expectation of privacy in garbage voluntarily left for trash collection in an area which is susceptible to open inspection and “[accessible to animals, children, scavengers, snoops, and other members of the public.” California v. Greenwood (1988), 486 U.S. 35, 40, 108 S.Ct. 1625, 1628-1629, 100 L.Ed.2d 30, 36-37. See, also, State v. Brown (1984), 20 Ohio App.3d 36, 20 OBR 38, 484 N.E.2d 215. Appellant attempts to distinguish this case from Greenwood by arguing that because he placed his trash in a Rumpke garbage can for disposal, rather than plastic trash bags as in Greenwood, he manifested a greater expectation of privacy. We disagree. In our view, Greenwood stands for the proposition that once garbage is placed outside for collection there is no reasonable expectation of privacy in its contents. We adopt the rationale of the United States Supreme Court in Greenwood and find that because the garbage is accessible to the public, anyone is free to examine it. Therefore, the police are also free to search it for evidence of criminal activity. Brown, supra.
+Appellant also attempts to distinguish Greenwood by arguing that the placement of the trash container on his property, rather than on a public sidewalk next to the street as in Greenwood, clearly indicates a more reasonable expectation of privacy. We again disagree. The Greenwood case is specifically limited to garbage that was placed for collection outside the curtilage of the home. However, we believe the fundamental point is that the garbage was placed for pickup by a collection service. Therefore, whether the trash was next to the street, in the street, or between the house and the street is irrelevant as long as it is placed in an area for collection. See State v. Sautter (Aug. 11, 1989), Lucas App. No. L-88-324, unreported, 1989 WL 90630.
+Since the trash in the case now before us was awaiting pickup by a collection service, the police or any other “snoop” could pick it up as well. Id. See, also, Greenwood, supra, 486 U.S. at 40, 108 S.Ct. at 1628, 100 L.Ed.2d at 36. Accordingly, appellant’s first and second assignments of error are overruled.
+In his third assignment of error, appellant argues that the search of his garbage was unlawful because the officers trespassed onto the curtilage of his property to conduct the search. It is well settled that if an area is within the curtilage of a home, then the police must first obtain a warrant to come onto the premises, or absent a warrant, the entrance must fall under a recognized exception to the warrant requirement. If an area does not fall within the curtilage, no warrant is required. United States v. Dunn (1987), 480 U.S. 294, 107 S.Ct. 1134, 94 L.Ed.2d 326. “Curtilage” has generally been defined as an area “[s]o intimately tied to the home itself that it should be placed under the home’s ‘umbrella’ of Fourth Amendment protection.” Id. at 301, 107 S.Ct. at 1140, 94 L.Ed.2d at 335.
+We agree with the trial court’s determination that, under the facts of this case, the end of the home’s thirty- or forty-yard driveway, near the road, cannot be considered within the curtilage. See id. Under a Fourth Amendment analysis, the fact that a police officer may have technically trespassed outside the curtilage is not relevant. However, suppression is inevitable when the trespass breaks the close of the curtilage. State v. Carter (M.C.1993), 63 Ohio Misc.2d 84, 619 N.E.2d 1228; United States v. Dunn, supra. Accordingly, appellant’s third assignment of error is overruled and the decision of the trial court is hereby affirmed.
+Judgment affirmed.
+William W. Young and Powell, JJ., concur.
