@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "58014"
+decided: "1991-02-11"
+citations: ["72 Ohio App. 3d 493"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["John F. Corrigan, P.J., and Patton, J., concur.", "August Pryatel, J., retired, of the Eighth Appellate District, sitting by assignment."]
+parties: ["SPOSIT, d.b.a. Royal Auto Radiator, Appellee, v. NAVRATIL, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/72/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1470411
+cites_cases: ["111 Ohio App. 474", "15 O.O.2d 179", "173 N.E.2d 702", "208 Pa.Super. 175", "220 A.2d 401", "4 OBR 264", "4 Ohio App.3d 164", "446 N.E.2d 1122", "48 Harv.L.Rev. 821"]
+---
+
+# Sposit v. Navratil
+
+## Majority (Pryatel, Judge)
+
+Pryatel, Judge
+Defendant-appellant William J. Navratil (“appellant”) appeals the Parma Municipal Court’s judgment rendered in favor of plaintiff-appellee Donald Sposit, d.b.a. Royalton Auto Radiator (“appellee”), for $1,000 plus costs and interest.
+On March 22, 1989, appellee filed a complaint in the Parma Municipal Court’s Small Claims Division, alleging that appellant was liable for water and plumbing damage to a house which he had recently purchased from appellant. A hearing was held before a referee on April 17, 1989.
+The referee’s report, filed on April 26, 1989, reveals the following:
+On November 11, 1987, appellee and appellant entered into a purchase agreement in which appellee agreed to purchase a house from appellant in its “present condition.” Appellant failed to have the heat turned on in the house during the winter. Nor was appellee informed that the heat had not been turned on until he picked up the key to the house on January 5, 1988. When appellee arrived at the house, he found that the plumbing had frozen and burst, causing water damage. The estimates provided by appellee accurately represented the actual cost of repairing the plumbing and water damage. Appellant conveyed title to appellee on January 12, 1988.
+The referee recommended that judgment be rendered in favor of appellee. Appellant filed objections to the referee’s report and recommendation on May 11, 1989. On May 26, 1989, the Parma Municipal Court approved the recommendation of the referee and entered judgment for appellee.
+Appellant filed a timely notice of appeal and raises the following assignments of error:
+“The decision of the trial court was inconsistent with the evidence and factual findings.
+“The trial court erred in that it did not require appellee to minimize his alleged damages.”
+In his first assignment of error, appellant contends, in part, that the decision of the trial court is inconsistent with the evidence.
+Appellant has not provided this court with a transcript of the hearing. App.R. 9(B) states in pertinent part:
+“ * * * If the appellant intends to urge on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the weight of the evidence, he shall include in the record a transcript of all evidence relevant to such findings or conclusion. * * * ”
+In his brief, appellant states that a transcript of the hearing is unavailable. An appellant, however, may still satisfy App.R. 9(B) in the absence of a transcript by providing a statement of the evidence pursuant to App.R. 9(C) or 9(D).
+As the result of appellant’s failure to provide a transcript, or statement of the evidence pursuant to App.R. 9(C) or 9(D), we are unable to address the issue of whether the trial court’s decision is inconsistent with the evidence.
+Appellant also contends that the trial court’s decision is inconsistent with the factual findings.
+The referee found that, after the purchase agreement was signed but prior to transfer of title, the house sustained damage as a result of appellant’s failure to see that it was heated. Based on these factual findings, and the referee’s recommendation, the trial court entered judgment for appellee.
+Generally a purchaser of real property bears the risk of any casualty loss to the property during the pendency of an executory contract. Sanford v. Breidenbach (1960), 111 Ohio App. 474, 15 O.O.2d 179, 173 N.E.2d 702. It is a well-established principle, however, that if, during this time period, a loss occurs as the result of the vendor’s negligence, then the vendor is liable for the cost of repair. See Rappaport v. Savitz (1966), 208 Pa.Super. 175, 220 A.2d 401; 7 Williston, Contracts (3 Ed.1963) 912-913, Section 936; and 959, Section 942; Note, The Vendor’s Liability for Waste (1935), 48 Harv.L.Rev. 821, 824-825.
+The trial court’s decision, therefore, was clearly consistent with the referee’s factual findings.
+Accordingly, appellant’s first assignment of error is not well taken.
+In his second assignment of error, appellant contends that the trial court did not require appellee to minimize his damages.
+As noted above, appellant has failed to provide this court with a transcript or statement of the evidence pursuant to App.R. 9(C) or 9(D). As a result, we are limited in our review of the hearing to the referee’s findings.
+A party under a duty to mitigate damages must exercise ordinary and reasonable care, diligence and prudence. Foust v. Valleybrook Realty Co. (1981), 4 Ohio App.3d 164, 4 OBR 264, 446 N.E.2d 1122. There is no indication in the referee’s findings that appellee failed to mitigate the damages he suffered as a result of the frozen plumbing and water damage.
+Accordingly, appellant’s second assignment of error is not well taken.
+Judgment affirmed.
+John F. Corrigan, P.J., and Patton, J., concur.
+August Pryatel, J., retired, of the Eighth Appellate District, sitting by assignment.
