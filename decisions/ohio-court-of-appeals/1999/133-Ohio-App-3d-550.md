@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA98-07-149"
+decided: "1999-04-26"
+citations: ["133 Ohio App. 3d 550"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Walsh and Valen, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. CORRILL, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/133/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 138624
+cites_cases: ["101 Ohio App.3d 626", "121 Ohio App.3d 445", "1995 WL 1049591", "1997 WL 405225", "35 Ohio App.3d 65", "40 Ohio St.3d 205", "519 N.E.2d 846", "533 N.E.2d 294", "656 N.E.2d 372", "700 N.E.2d 336"]
+---
+
+# State v. Corrill
+
+## Majority (William W. Young, Presiding Judge.)
+
+William W. Young, Presiding Judge.
+Thomas Corrill, defendant-appellant, appeals his domestic violence conviction in violation of R.C. 2919.25(C). On appeal, appellant contends that the Middletown Municipal Court erred in finding him guilty of a violation of R.C. 2919.25(C) when he was charged with a violation of R.C. 2919.25(A). Because we find that an amendment of a charge from R.C. 2919.25(A) to R.C. 2919.25(C) changes the identity of the offense in violation of Crim.R. 7(D), we reverse the judgment of the trial court.
+On April 24, 1998, a warrant was issued charging appellant with two violations of R.C. 2919.25(A), misdemeanors of the first degree. The charges arose from allegations that appellant had assaulted two of his children, Alex and Cindy. Appellant appeared in court, with counsel, and pled not guilty to both charges.
+The matter proceeded to a bench trial on June 26, 1998. The prosecution presented testimony from each child that appellant was alleged to have assaulted. Appellant’s son, Alex, testified that while he was completing his homework, his father slapped him. Alex’s older sister, Cindy, then intervened. Cindy testified that she and appellant got into an altercation, that appellant hit her, and then threw her on the couch in the living room. The record reveals that during the altercation a window was broken. In his own defense, appellant denied ever striking either of his children. He further testified that the only physical contact in which he engaged was a struggle with Cindy over the telephone that resulted in both of them tumbling to the ground.
+At the conclusion of the trial, the trial court found that “the burden of proof has not been met in the case of Alex so I’m going to make a finding of not guilty on that case.” With respect to the charge involving Cindy, the trial court decided, “I’m going to make a finding of guilty * * * to the domestic violence charge, a fourth degree misdemeanor, Section C, 2919.25 * * Then, on July 13, 1998, trial court filed its judgment entry in which it stated that appellant had been “found GUILTY TO AMENDED CHARGE.” (Emphasis sic.) However, the trial court’s entry did not specify what the charge had been amended to. Appellant contends, and our reading from the record reveals, that appellant’s charge was amended from a R.C. 2919.25(A) charge to a R.C. 2919.25(C) charge by the trial judge at the conclusion of the bench trial.
+Appellant filed his notice of appeal on August 13, 1998, and raised two assignments of error. In his first assignment of error, appellant contends:
+“The trial court erred in amending the charges against appellant under R.C. 2919.25(A) to include charge under R.C. 2919.25(C) as such amendment changed the identity of the offense charged in violation of Ohio Rule of Criminal Procedure 7(D).”
+Under this assignment of error, appellant, citing Middletown v. Blevins (1987), 35 Ohio App.3d 65, 519 N.E.2d 846, contends that a trial court may not amend the charges against the accused where such amendment changes the name or identity of the offense charged unless (1) the accused consents and waives his right to service of a new charging instrument, or (2) the amended charge is, in fact, a lesser included offense of the original charge. Because appellant never consented to the amendment, and because R.C. 2919.25(C) is not a lesser included offense of R.C. 2919.25(A), appellant contends that the trial court’s amendment of his charge was a violation of Crim.R. 7(D). The amendment, appellant contends, constitutes reversible error. We agree.
+Crim.R. 7(D) provides:
+“The court may at any time before, during, or after a trial amend the indictment, information, complaint or bill of particulars, in respect to any defect, imperfection, or omission in form or substance, or of any variance with the evidence, provided no change is made in the name or identity of the crime charged.” (Emphasis added.)
+Upon examination of the statute, it is readily apparent that the amendment in the instant matter did not change the name of the crime charged; however, because we find that the two offenses contain different elements, we find the amendment did indeed change the identity of the crime.
+Appellant was charged with violating R.C. 2919.25(A), which provides: “No person shall knowingly cause or attempt to cause physical harm to a family or household member.” However, appellant was found guilty of violating R.C. 2919.25(C), which provides: “No person, by threat of force, shall knowingly cause a family or household member to believe that the offender will cause imminent physical harm to the family or household member.” Because the two sections clearly require proof of different elements, we find the trial court’s amendment was improper.
+However, we note that a trial court may find the accused guilty of an offense not charged in the complaint, if that offense is a lesser included offense of the offense charged in the complaint; an accused charged with an offense is also considered charged with any lesser included offenses. Crim.R. 31(C). Therefore, it is incumbent upon this court to determine whether R.C. 2919.25(C) is a lesser included offense of 2919.25(A).
+The Ohio Supreme Court has articulated the following three-part test with respect to lesser included offenses:
+“An offense may be a lesser included offense of another if (i) the offense carries a lesser penalty then the other; (ii) the greater offense cannot, as statutorily defined, ever be committed without the lesser offense, as statutorily defined, also being committed; and (iii) some element of the greater offense is not required to prove the commission of the lesser offense.” State v. Deem (1988), 40 Ohio St.3d 205, 533 N.E.2d 294, paragraph three of the syllabus.
+In the present case, upon an examination of the elements of each crime, it is clear that the second prong of the Deem test cannot be met. Therefore, section (C) of R.C. 2919.25 is not a lesser included offense of section (A). This is true primarily because “section (A) can be committed without also committing the lesser offense set forth in section (C). A violation of section (A) can occur irrespective of whether the victim believed that the offender would cause imminent physical harm. Thus, there are situations where a violation of section (A) can occur without a violation of section (C).” State v. Land (Aug. 25,1995), Lake App. No. 94-L-118, unreported, at 4, 1995 WL 1049591.
+In fact, this exact question has been addressed by several appellate courts. Specifically, in State v. Rihm (1995), 101 Ohio App.3d 626, 656 N.E.2d 372, the Second District Court of Appeals held that R.C. 2919.25(C) is not a lesser included offense of R.C. 2919.25(A). Upon reviewing that decision, we find that we cannot improve on the Rihm court’s reasoning, where it offered the following example:
+“[A] defendant who knowingly causes or attempts to cause physical harm to a family or household member by ‘blind-siding’ her or attacking her while she is asleep, and then leaves immediately thereafter, has not caused the victim to believe that he will cause her imminent physical harm; he has already done so and then broken off the attack.”
+Citing Rihm as authority, we have previously held that R.C. 2919.25(C) is not a lesser included offense of R.C. 2919.25(A). See Hamilton v. Cameron (1997), 121 Ohio App.3d 445, 700 N.E.2d 336. See, also, Rihm, Land, and State v. Atkins (July 14, 1997), Lawrence App. No. 96CA34, unreported, 1997 WL 405225.
+Based upon the foregoing analysis, the trial court erred in finding appellant guilty of R.C. 2919.25(C). Appellant’s first assignment of error is sustained and his conviction is reversed.
+In his second assignment of error, appellant contends:
+“The trial court erred in finding appellant guilty of misdemeanor domestic violence under R.C. 2919.25.25(C) as the evidence presented was insufficient to prove beyond a reasonable doubt that appellant, by threat of force, knowingly caused Cindy to believe that he would cause her imminent physical harm.”
+Given our treatment of appellant’s first assignment of error, we find that appellant’s second assignment of error is moot, and it is therefore overruled.
+The judgment of conviction is reversed. Because any retrial would violate the constitutional prohibition against double jeopardy, judgment is entered on behalf of appellant and appellant is hereby discharged.
+Judgment reversed.
+Walsh and Valen, JJ., concur.
