@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1920-06-21"
+citations: ["13 Ohio App. 202", "31 Ohio C.A. 489"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton and Cushing, JJ., concur.", "Judges of the First Appellate District, sitting in place of Judges Dunlap, Washburn and Vickery, of the Eighth Appellate District."]
+parties: ["Kwiatkowski v. Hoislbauer et al."]
+source_url: "https://static.case.law/ohio-app/13/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842667
+cites_cases: ["139 Minn., 103", "165 N. W., 877", "28 Ohio St., 300", "64 Ohio St. 100", "64 Ohio St., 100", "82 Ohio St. 121", "82 Ohio St., 121", "88 Ohio St. 495", "88 Ohio St., 495"]
+---
+
+# Kwiatkowski v. Hoislbauer
+
+## Majority (Shohl, P. J.)
+
+Shohl, P. J.
+The plaintiff in error, Clarence J. Kwiatkowski, purchased a moving picture show, and, after operating for a short period, sold it to defendants in error, Joseph Hoislbauer and R. William Kretschmer. At the same time, for a stated consideration of ten dollars, he assigned to the defendants in error the five-year lease of the theater building, wherein the chattels were located. The bill of sale purported to transfer the seats which were in the theater. It was in the exact language of the bill of sale whereby he had purchased the property in question previously, and so far as the evidence shows, Kwiatkowski believed in good faith that he was the owner of the seats as well as the other property. The buyers gave him cash and notes for the purchase money. After 'an adjustment of the purchase price, not material to the controversy here, the seller was later paid in full. He received in all a lot valued at $300 and $2187.73 in cash. After the buyers were in possession a short time the owner of the building told them that the seats in the theater belonged to him. Thereupon the buyers attempted to rescind, tendered back a deed for all the property transferred to them, and brought an action to recover the purchase price paid. At the conclusion of all the evidence both parties moved the court for a directed verdict. They thereby clothed the court with the functions of a jury, and had the court passed upon the motions and rendered judgment the decision so rendered would not be set aside by a reviewing court 'unless clearly against the weight of the evidence. First Nat'l Bank v. Hayes, 64 Ohio St., 100; Strangward v. American Brass Bedstead Co., 82 Ohio St., 121, and Perkins v. Board of County Commissioners, 88 Ohio St., 495.
+The court submitted the case to the jury. Had he rendered a correct judgment without submitting the case to the jury, no complaint could be made. So far as the substantial rights of the parties are concerned, they were not prejudiced by the fact that the court learned the opinion of the jury before rendering his judgment, if his determination was correct. At the trial the buyers, who were the plaintiffs, offered the evidence of one Peter Witt. His testimony showed that at the time of the sale to the plaintiffs the seats belonged to the Forest City Investment Company, of which he was an officer. His credibility is not questioned, nor was there any evidence given tending to contradict his testimony.
+The plaintiffs went to trial apparently under the mistaken impression that they were required to establish fraud in order to make out a case. Under Section 8393, General Code, there is an implied warranty on the part of the seller that he has a right to sell the goods, and there is a further implied warranty that the buyer should have and enjoy quiet possession of the goods as against any lawful claims existing at the time of the sale. On principle, therefore, it appears that when defendant sold the goods, there was an immediate breach of the implied warranty of right to sell. If there was a breach of warranty by the seller, the Sales Act, Section 8449, General Code, authorizes the buyer at his election to rescind the sale, offer to return the goods to the seller and recover any part of the price which has been paid. The seats had an approximate value of $900 and constituted a substantial part of the goods sold.
+The principal contention made on behalf of plaintiff in error is that the evidence fails to show any eviction or demand for possession made by the superior title, and that such demand or eviction con-. stitutes a condition precedent to the right to sue. Under the circumstances of this case the owner of the seats would not make its claim to them until the expiration of the five-year lease, as the buyers were assignees of the lease and the seats were part of the premises for which they were paying rent. If the buyers were obliged to await the expiration of the five-year period, their theoretical right to get their money back from the seller might lose its value.
+Must there be a claim or eviction before the buyer can get redress? As to sales of goods the authorities at common law are in some conflict as to this -question. The effect of the provision of the Sales Act, Section 8449, General Code, would seem to give the buyer of chattels the. right to proceed immediately, though his possession had not been disturbed. (See Williston on Sales, Section 221.) By pursuing this course, the buyer assumes the burden of establishing the infirmity of the seller’s title. Jordan v. Van Duzee, 139 Minn., 103, 107.
+Under what are practically the undisputed facts the record presents a case of breach of the implied warranty of title. The defendants in error have prosecuted the right to rescind in accordance with the statute, which was but declaratory of the Ohio law (Byers et al. v. Chapin, 28 Ohio St., 300), and are entitled to a judgment. The irregularities in the procedure have not prevented the accomplishment of substantial justice.
+The judgment will be affirmed.
+Judgment affirmed.
+Hamilton and Cushing, JJ., concur.
+Judges of the First Appellate District, sitting in place of Judges Dunlap, Washburn and Vickery, of the Eighth Appellate District.
