@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "99AP-1445"
+decided: "2000-09-21"
+citations: ["138 Ohio App. 3d 878"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Tyack and Petree, JJ., concur."]
+parties: ["In re ADOPTION OF GATLEY; Weightman, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/138/cases/0878-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 489032
+cites_cases: ["18 OBR 69", "18 Ohio St.3d 32", "37 N.E. 1116", "479 N.E.2d 852", "51 Ohio St. 270"]
+---
+
+# In re Adoption of Gatley
+
+## Majority (Peggy Bryant, Judge.)
+
+Peggy Bryant, Judge.
+Appellant, Brian Weightman, appeals from a judgment of the Franklin County Court of Common Pleas, Probate Division, finding that appellant was not coerced into giving his consent to his daughter’s adoption.
+Brianna Paige Weightman was born September 12, 1990, during the marriage of Donna and Brian Weightman. Donna and Brian were divorced in January 1993, custody of Brianna was granted to Donna, and Brian was ordered to pay child support. Donna married appellee, Daniel Gatley on July 16, 1994, and on February 27, 1998, appellee filed a petition to adopt Brianna.
+On April 13, 1998, Brian Weightman appeared in Franklin County Common Pleas Court to respond to two felony charges of nonsupport. As a result of plea negotiations on the felony charges, appellant entered a guilty plea to one misdemeanor count of nonsupport, and the second felony count of nonsupport was dismissed. On the same day, appellant filed his adoption support consent form, notarized by his attorney. On April 14, 1998, appellant, through his attorney, advised appellee’s attorney that appellant likely would contest the adoption because the consent was obtained under duress. Appellant followed the letter with his withdrawal of consent to adoption, filed May 4, 1998, in the probate court. On the same day he filed a motion for hearing on the validity of the alleged consent and his withdrawal of it.
+Following a hearing held on September 14, 1999, a magistrate of the trial court issued a decision on September 16, 1999, including findings of fact and conclusions of law. In his decision, the magistrate concluded that appellant consented to adoption with full knowledge and no undue influence or duress. Appellant filed objections to the magistrate’s decision. Following briefing on the objections, the trial court overruled the objections.
+Appellant appeals, assigning the following errors:
+“Assignment of Error No. 1
+“The trial court erred in finding that appellant’s consent to adopt was not the product of duress.
+“Assignment of Error No. 2
+“The trial court erred in failing to find that the conduct of the state, in requiring a consent to adopt be executed by appellant in order for him to be awarded a dismissal and reduction of criminal charges, was unconscionable.”
+Because appellant’s two assignments of error are interrelated, we address them jointly. Together they assert that the trial court erred in failing to find that appellant’s consent to adopt was not the product of duress and an unconscionable agreement.
+In support of his contentions, appellant relies heavily on Brown v. Best Products, Inc. (1985), 18 Ohio St.3d 32, 18 OBR 69, 479 N.E.2d 852. According to Brown, a release executed between parties, the consideration of which, in whole or in part, is the suppression of criminal prosecution, is void for lack of consideration. Id. at syllabus, citing Springfield Fire & Marine Ins. Co. v. Hull (1894), 51 Ohio St. 270, 37 N.E. 1116.
+In Brown, the parties executed an agreement purporting to release Brown’s employer from civil liability arising from the criminal charges brought against Brown. The Supreme Court found that the release in question lacked consideration, since the contract was between two private parties and the decision to pursue or drop criminal charges is vested in the state. Nonetheless, the court acknowledged that courts enforce such releases when executed between a private party and a public authority. Id., 18 Ohio St.3d at 35, 18 OBR at 72-73, 479 N.E.2d at 855-856.
+Here, the agreement was not a release of liability for the suppression of criminal prosecution, nor was it between private parties. Appellant was charged with two felony counts of nonsupport. After conferring with the custodial parent, the prosecution agreed to reduce one charge to a misdemeanor and dismiss the other if appellant consented to Brianna’s adoption. “Mr. Weightman was merely given the opportunity to plead to a lesser charge by agreeing to sign a consent to adopt.” (Trial court’s Opinion, at 2.) Moreover, unlike Brown, the agreement here is supported by consideration, since the prosecution is vested with the power to make such an agreement. Nor is the state a disinterested pawn in the negotiations, as the state has a valid interest in seeing that child support is paid and in seeking redress when it is not.
+Appellant nonetheless relies on the language of Brown that states that the “threat of criminal sanctions places the party releasing in a state of apprehension which interferes with his legal capacity to enter into an agreement whereby he agrees not to pursue legitimate civil remedies in return for the suppression of a criminal prosecution against him. Therefore, courts have established a rule that releases such as the one which the defendants seek to enforce are void as against public policy.” Id., 18 Ohio St.3d at 34-35, 18 OBR at 72, 479 N.E.2d at 855. Appellant thus contends that he did not understand what he was doing or the result of his actions, but acted under duress.
+Appellant’s counsel was present at'the time of the agreement, advised appellant of his options, and discussed the consequences of appellant’s giving his consent to adopt. More particularly, counsel stated that he made appellant aware that the probable sentence for a first offense would not likely include jail time, and the most severe punishment would be for appellant to have a felony record. Appellant also consulted with his mother during that process because she had retained counsel to obtain visitation rights.
+In short, appellant was facing charges, well-grounded in fact and likely to result in conviction. To avoid the consequences naturally accruing from his failure to support his daughter, with the advice of counsel, he accepted the benefits of the plea bargain. The prosecution did not threaten criminal charges to obtain an advantage: the criminal charges were already pending and well-grounded. The prosecution did not exchange words with appellant and thus could not coerce him verbally. Indeed, counsel for appellant at the” criminal proceedings stated on the plea document: “I represent my client is competent to proceed to change his plea, as indicated here and above, and, in my opinion, that he/she acts knowingly, voluntarily, and intelligently in such matter.” Finally, the evidence suggests that appellant earlier had agreed to sign the consent, even before the petition to adopt was filed: a copy of the consent form was sent to Florida but was not returned. Given all of the foregoing, the trial court did not err in finding that, under these facts, appellant’s consent was not the product of coercion or duress.
+Finally, appellant contends that the agreement is unconscionable, contending the state should have no part in procuring a private party’s consent to adopt. Appellant’s contentions are unpersuasive, given the state’s valid interest in pursuing those who fail to support their children. Moreover, the prosecution’s consulting with the custodial parent in reaching agreements in criminal nonsupport cases does not render the agreement abusive, as the custodial parent is also a victim of appellant’s nonsupport. Rather, through the advice of his own counsel, appellant was fully aware of his options and the consequences. Appellant made a fully informed, calculated choice: he was not coerced into an unconscionable consent to the adoption. Accordingly, appellant’s first and second assignments of error are overruled.
+Having overruled both of appellant’s assigned errors, we affirm the judgment of the trial court.
+Judgment affirmed.
+Tyack and Petree, JJ., concur.
