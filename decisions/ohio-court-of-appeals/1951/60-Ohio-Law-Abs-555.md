@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "22189"
+decided: "1951-06-25"
+citations: ["60 Ohio Law Abs. 555"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HURD, J, THOMPSON, J, concur."]
+parties: ["GEIGER et, Plaintiffs-Appellants, v. KOBIE, Defendants-Appellees."]
+source_url: "https://static.case.law/ohio-law-abs/60/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1761230
+cites_cases: ["116 Oh St 469", "140 Oh St 348", "155 Oh St 529", "44 N. E. (2d) 459"]
+---
+
+# Geiger v. Kobie
+
+## Majority (By SKEEL, PJ.:)
+
+OPINION
+By SKEEL, PJ.:
+This appeal comes to this Court on questions of law' from a decree for defendants entered in the Common Pleas Court of Cuyahoga County. The plaintiffs filed a petition as taxpayers seeking to enjoin the Mayor and Director of Public Service from carrying into execution the provisions. of an ordinance which had been passed by initiative petition authorizing the sale of property (exclusive of land and buildings) owned and used by the city of Berea in furnishing electric power to its citizens.
+The'/City of Berea has owned and operated an electric light plant for a great many years. The initiated ordinance recites that the system has become antiquated, would require the expenditure of a large sum of money to modernize it, was inadequate to supply the needs of the community because of its rapid growth and that the rates fixed because of the cost of operation, exceeded those charged to the inhabitants for like service of surrounding communities. It further recited that it would be to the best interests of the people of Berea for the city to cease operating a municipally owned electric light plant. The votes of Berea approved the ordinance by a vote of 2427 in favor of the ordinance and 2208 against its passage.
+The appellants present many claims of error, but when analyzed, they can be reduced to three in number. First, can an ordinance be initiated which provides for the sale by a municipal corporation, of all the property (except land and buildings) used by it in connection with the furnishing of light and power to the people of such city? Second, do the terms of the initiated ordinance contract for utility service to take the place of that to be discontinued by the sale of such property? Third, do the provisions of the initiated ordinance providing for the sale of the light plant property violate §§3698, 3699 and 3703 GC?
+In considering the first question, we are not concerned with the provisions of Sections 5 and 6 of Article 18 of the Constitution of Ohio. These sections provide for the right of a municipal corporation to provide by ordinance for the purchase of or the right to construct a public utility and, if a petition signed by the proper number of electors seeks to subject such ordinance if and when passed by the Council to a referendum, that such referendum shall be had as provided by law. These provisions of the Constitution deal with a subject wholly different than is presented by this appeal. We here have for consideration the question of the validity of an initiated ordinance authorizing the sale of municipally •owned property used in furnishing electrical energy to 'the citizens of a municipal corporation.
+The right of a city to enter into a contract to sell property used by it in conducting a public utility and to go out of such utility business is one which requires legislative authority. McQuillin on Municipal Corporations, 3rd Ed., Vol 2, Sec., 10.06.
+The question of a municipal corporation determining to dispose of its light plant being a legislative matter, the right to initiate an ordinance authorizing the city to enter Into a contract for such purpose is provided for by Article II., Section 1 (f) of the Constitution and §4227-1 GC.
+This section of the Constitution has just been considered' by the Supreme Court in connection with the right of people of a non-charter city to initiate an ordinance to repeal an ordinance passed as an emergency measure, providing for parking meters, the emergency feature of the ordinance preventing the ordinance thus passed from being the subject of a referendum. (Sec. 4227-3 GC.) In State ex rel Sharpe et al v. Hitt, Auditor, 155 Oh St 529.
+Paragraphs 1 and 4 of the syllabus provide:
+“1. Under Sec. If, Article II of the Constitution cf Ohio, both the initiative and referendum powers are reserved to the people of Ohio municipalities ‘on all questions which such municipalities may nor or hereafter be authorized by law to control by legislative action.’
+“4. Where an ordinance relating to parking spaces and the installation and use of parking meters in connection therewith is passed by a municipal council, even though enacted as an emergency measure effective immediately and thereby not subject to the referendum, the electors of the municipality may initiate an ordinance for the repeal of such legislation, and where the initiative petition prepared and formulated for such purpose is in conformity with the provisions of §4227-1 GC, and is duly filed with the city auditor, that official is under the mandatory duty to certify such petition to the board of elections. (State ex rel Smith v. City of Fremont, 116 Oh St 469, overruled.)”
+And at page 535 the court says:
+“This and other courts have declared that constitutional statutory or charter provisions for municipal initiative or referendum should be liberally construed in favor of the power reserved so as to permit rather than preclude the exercise of such power, and the object clearly sought to be attained should be promoted rather than prevented or obstructed. State ex rel City of Middletown v. City Comm. of City of Middletown, 140 Oh St 348, 44 N. E. (2d) 459; 62 Corpus Juris Secundum 870, Municipal Corporations, Sec. 451 (b).
+Our attention has been called to two cases: — Goodman v. Hamilton, 21 Oh Ap 465 and Ohio Power Company v. Davidson, 49 Oh Ap 184. These cases deal with the right to initiate an ordinance authorizing a municipality to purchase or construct a public utility. They are in direct conflict with each other, one holding that such an ordinance can be initiated and the other holding such initiated ordinance invalid. These cases are not in point with regard to an initiated ordinance authorizing the sale of utility property. We conclude that the trial court was correct in holding that the ordinance here under consideration was' properly initiated arid that the plaintiffs’ petition seeking to prevent and enjoin the public officials of Berea from carrying out the provisions of such ordinance was properly denied.
+Coming now to the second question, we do not find that the ordinance as initiated contracted for utility service. The City Council of the city of Berea is in no way bound by this initiated ordinance to contract with the successful bidder to furnish electrical energy to the citizens of Berea. The City Council is free to grant a franchise for such service to anyone able to render the service required and needed for the citizens of Berea and an ordinance when passed by the Council authorizing such a contract will of necessity be wholly sepárate and apart from the initiated ordinance with which we are here concerned. The plaintiffs’ second assignment of error is, therefore, not well taken.
+We also find that the plaintiffs’ contention that the initiated ordinance passed under the authority of Article II, Section 1 (f) of the Constitution violates the provisions of §§3698, 3699 and 3703 GO is not well taken. We affirm the finding of the trial court on that question for the reasons stated in the opinion of the court. i
+For the foregoing reasons, the judgment of the trial court is affirmed. Exc. Order see journal.
+HURD, J, THOMPSON, J, concur.
