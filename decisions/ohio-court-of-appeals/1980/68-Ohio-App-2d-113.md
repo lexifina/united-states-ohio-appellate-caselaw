@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "79AP-564"
+decided: "1980-03-27"
+citations: ["68 Ohio App. 2d 113"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside and McCormac, JJ., concur."]
+parties: ["Tighe, Appellee, v. Wilson et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-2d/68/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6714362
+cites_cases: ["78 Ohio St. 54"]
+---
+
+# Tighe v. Wilson
+
+## Majority (Moyer, J.)
+
+Moyer, J.
+This matter is before us on defendants-appellants’ appeal from a decision of the Court of Common Pleas of Franklin County which approved a referee’s report and granted judgment for the plaintiff-appellee, Mary T. Tighe, by ordering specific performance of a real estate purchase contract for the purchase of defendants’ condominium.
+On July 11, 1977, plaintiff submitted an offer to defendant Mabel B. Wilson and her late husband, James P. Wilson, who was a defendant prior to his death, whereby plaintiff offered to purchase defendants’ condominium in Columbus, Ohio, for the sum of $26,000. The sale was “contingent upon Buyer securing FHA insured financing. Said financing to be applied for within 5 banking days.” No other reference was made to FHA (Federal Housing Administration) financing in the offer. Paragraph No. 14 of the offer includes the standard provision that “time is of the essence of all provisions of this contract.” Paragraph No. 9 provided that the offer was open until midnight, July 12, 1977, and that “the transaction shall be closed within forty-five (45) days after acceptance” of the offer, or as soon thereafter as possible, but no later than an additional 30 days, “unless further time is granted in writing by all parties.”
+Defendants accepted plaintiff’s offer on July 12, 1977, and 75 days from that date was September 25, 1977.
+Plaintiff applied for FHA financing within five days of the execution of the contract; and, defendants were requested by one of the real estate agents involved in the transaction to execute a document entitled “Amendment to Purchase Agreement of 7/11, 1977” and a document entitled “Certification,” which the testimony indicates was a certification that the kitchen and bathroom floors, which were carpeted, were of sound condition. The Amendment to Purchase Agreement contained the following provision:
+“It is expressly agreed that, notwithstanding any other provisions of the contract, the purchaser shall not be obligated to complete the purchase of the property described herein or to incur any penalty by forfeiture of earnest money deposits or otherwise unless the seller has delivered to the purchaser a written statement issued by the Federal Housing Commissioner setting forth the appraised value of the property for mortgage insurance purposes of not less than $26,000, which statement the seller hereby agrees to deliver to the purchaser promptly after such appraised value statement is made available to the seller.”
+One of the real estate agents testified that the Amendment to Purchase Agreement and the Certification were standard, normal follow-up papers required by FHA.
+Defendants permitted an FHA appraisal to be made of their premises, but refused to sign the Amendment to Purchase Agreement or the Certification. The appraised value of the property was $25,300.
+On September 30, 1977, plaintiff obtained an FHA commitment for mortgage insurance without the execution of the documents in question. September 30, 1977, was 80 days after the date of the acceptance of plaintiffs offer to purchase the property. There is no evidence in the record that plaintiff made any tender of performance or justification for failure to tender performance prior to September 25, 1977.
+Defendants raise the following single assignment of error:
+“The trial court erred in granting specific performance of a contract in the absence of allegations or proof of performance, or tender of performance, or justification for the failure to tender performance by plaintiff.”
+Defendants argue that, because plaintiff did not tender performance of the purchase contract within 75 days from the acceptance of the offer to purchase, she breached the contract and is not entitled to specific performance. Plaintiff argues that defendant Mabel Wilson and her husband had a duty under the purchase contract to sign the Amendment to Purchase Agreement and the Certification and that their delay in executing those two documents caused plaintiff to be unable to perform within the time set forth in the purchase contract.
+The first question to be determined is whether defendant Mabel Wilson and her husband were under any duty to execute the “Amendment to Purchase Agreement” and the “Certification” after the execution of the purchase contract. There is no provision in the purchase contract which requires the sellers to facilitate the buyer’s obtaining of FHA insured financing. An implied duty in a contract must be clear to be enforced against the party with the duty, and it was error for the trial court to adopt the referee’s finding of fact that “defendants agreed in a signed, printed contract to a FHA deal and they are obligated to accept the terms and the law which attaches thereto.”
+The amendment refers to an appraisal by the FHA which was not referred to in the contract. It also gives the buyer the right to rescind the contract if the appraisal is not at least equal to the purchase price. Such a proposed amendment to the contract would materially change the contract, and defendants were clearly under no obligation to agree to a material change in the original purchase contract.
+Plaintiff argues that such an amendment to the purchase agreement is standard, follow-up paper work and that defendants were therefore bound to execute the amendment. The referee indicated there is a serious public-policy argument against defendants’ position because adoption of their position would disrupt “FHA deals by making real estate contracts more easily voidable by sellers across the entire country.”
+Such a profound conclusion has no support, either in the record in this case, or in real estate law. It is not the role of the courts to remake a contract which is clear and definite in its terms and which has been executed by parties thereto who were under no disability. Neither the public policy nor the contract law of this state requires a seller to materially change a real estate purchase contract because there is a so-called “FHA requirement” that the buyer, or the person upon whom the buyer relied for advice, neglected to add the FHA requirement to the original contract. The “requirement,” in fact, was not a requirement because plaintiff finally received the loan commitment without the execution of the documents in question.
+The second finding in the judgment entry of the trial court is directly in conflict with the evidence in this case. Plaintiff did not perform each and every obligation required to be performed in said contract of sale, in that she did not tender performance prior to the expiration of 75 days from the acceptance of the offer.
+The elements to be proved in seeking specific performance of a contract were set forth in the second paragraph of the syllabus in George Wiedemann Brewing Co. v. Maxwell (1908), 78 Ohio St. 54, as follows:
+“The general rule is that a party seeking specific performance of a contract must show performance on his part, yet there are clearly defined exceptions and one of them is that when the other party repudiates and makes it certain that he does not intend under any circumstances to comply, a showing of readiness and ability on the part of the complaining party to then and there perform his part communicated to the other party and accompanied with a demand of compliance by such other party, is sufficient compliance without an actual formal tender.”
+That rule has been followed since the George Wiedemann Brewing Co. decision was rendered and applies to the facts of this case. There is no evidence that plaintiff showed performance or tendered performance on her part within the time required in the contract. Defendants’ refusal to execute an amendment to the contract was not a repudiation of said contract, and therefore the exception cited in George Wiedemann Brewing Co., supra, does not apply to this case. Defendants’ assignment of error is well taken and is sustained.
+For the foregoing reasons, the judgment of the trial court is reversed, and judgment is entered for defendants.
+Judgment reversed.
+Whiteside and McCormac, JJ., concur.
