@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2709"
+decided: "1936-10-17"
+citations: ["23 Ohio Law Abs. 115"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, PJ, and BODEY, J, concur."]
+parties: ["NEW SOUTHERN HOTEL CO v KINGSTON"]
+source_url: "https://static.case.law/ohio-law-abs/23/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8750923
+cites_cases: ["12 A.L.R., 261"]
+---
+
+# New Southern Hotel Co. v. Kingston
+
+## Majority (By HORNBECK, J.)
+
+OPINION
+By HORNBECK, J.
+Appeal on questions of law from a declaratory judgment of the trial court in favor of the appellee and against the appellant. The cause was submitted on an agreed statement of facts upon which operative facts the issues were properly drawn on the pleadings.
+It appears that the plaintiff, an Ohio corporation, was at all times mentioned in the pleadings, operating the Southern Hotel, an hotel and inn in the City of Columbus, Ohio, furnishing food and lodging to persons who seek those accommodations; that the plaintiff had-duly posted copies of §13131, GC, in its hotel, as provided by said section; that on December' 20, 1934, the appellant sought lodging with the appellee and thereupon they orally agreed that appellant should occupy room 422 in appellee’s hotel at a rate of $35.00 per month, payable at the end of each and every month, and that pursuant to said contract the appellant had occupied the room from December 20, 1934, to February 20, 1935, for which occupancy a total of $105.00 had accrued, upon which had been paid the sum of $70.00, leaving a balance of $35.00 due; that at the time that the appellant came into the hotel he brought with him and into his room certain articles of personal property and baggage, including two suitcases.
+The prayer of the petition was that the court decree the relation of innkeeper and guest between the parties, and that the hotel company has a lien on appellant’s baggage pursuant to §5984, GC, and that appellant’s vacating of his room and leaving the hotel without paying according to his agreement, is in violation-of §13131, GC.
+The appellee’s brief states the questions involved as follows:
+“(1) Will defendant. violate §13131 GC when leaving plaintiff’s hotel without paying in full the money due for the use and occupancy of his room?
+“(2) Has the plaintiff an innkeeper’s lien upon the baggage of the defendant under §5984, GC?”
+So much of §13131 GC as is pertinent reads:
+“Whoever, with intent to defraud, obtains ■* * * lodging or other accommodations at a hotel, inn, boarding * * * house * * * shall be fined not more than $200.00, * * *. Obtaining such lodging * * * or other accommodations by false pretense, * * * or refusal or neglect to pay therefor on demand * * * shall be prima facie evidence of fraudulent intent, but this section shall not apply where there has been an agreement in writing for more than ten days’ delay in such payment.”
+Under the facts in this case, if the appellant refuses or neglects to pay the balance due the appellee on demand, then he would be amenable to the provisions of the section. Neither the pleadings nor the statement of facts disclose that there has been a demand for the money due or a refusal to pay. Without this material fact there could be no presumption of an intent to defraud, which is essential to the application of the section. In terms there is nothing in the section which requires any nice distinction as to the relationship of innkeeper and guest between the appellee and appellant, nor consideration of such relation as it was known at common law.
+The statute is most comprehensive and clearly embraces the business conducted by the appellee and brings the appellant in such relation to the appellee as to clearly give application to the statute. There is no showing of a purpose to extend credit to the appellant as upon an account. There is nothing in the statement of facts which suggests any purpose to permit any delay in payment of the bill beyond its due date, though the date when due was, under the terms of the agreement, postponed for thirty days after the use of the room began. There is, then no occasion to consider that portion of the section which says that it shall have no application where there has been an agreement in writing for more than ten days’ delay in such payment, because there has been no agreement of any kind as to delay in payment.
+The next query requires consideration and construction of §5984, GC:
+“Such innkeeper shall have a lien on the baggage and other property in and about such inn belonging to or under the control of his guests or boarders for the proper charges due him for their accommodation, board and lodging a' * *. The innkeeper may detain such baggage and other property until the amount of such charge is paid, and the baggage and other property shall not be exempt from attachment or execution until the innkeeper’s lien and the cost of enforcing it are satisfied.”
+This section is a part of Chapter 13, the heading of which is “Innkeepers.” The first section thereof is §5981 GC, providing the conditions under which the innkeeper may avoid liability to the guest for the loss of money, banknotes, jewelry, etc., unless the guest has offered to deliver such property to such innkeeper for custody in a metal safe or vault provided by the innkeeper.
+Secs 5982 and 5983 GC relate to the limit of the innkeeper’s liability for loss of personal property of the guest and §§5985 and 5986 GC relate to the sale of the property upon which the innkeeper is given a lien under §5984 GC and the disposal of the proceeds thereof. These sections constitute the whole of the chapter.
+It is the contention of counsel for the appellant that the relationship between him and the appellee was not that of innkeeper and guest and in support thereof citation is made from 22 O. Jur., page 9:
+“A guest is a traveler or wayfarer who comes to an inn or hotel for transient entertainment or accommodation, and is accepted there as such.”
+The distinction sought to be made is that the appellant did not come to the hotel for transient entertainment but was there for such a permanency of tenure as that it must be assumed that the hotel extended credit to him. If this inference is to be drawn it must be done solely upon the fact that the agreement between the parties was for a rental of the room for month to month and payment on a monthly basis.
+In a note to Fisher v Bonneville Hotel Co., 12 A.L.R., 261, the annotator states the law as determined from the cases cited from many states to be:
+“The fact that payment for the accommodation is made at a fixed rate per week, month or the like, is merely one of the circumstances entitled to consideration, and accordingly it seems to be well settled that such a manner of payment is not of itself sufficient to change the ordinary relation of innkeeper and guest, and constitute the accommodated person a boarder or lodger.”
+We must take cognizance of the changed relation between the inn as known at common law and its successor, the modem hotel. At the inn there would be accommodated those who traveled and remained there but a few nights. The modem hotel has as its guests those who are accommodated over night and those who may prolong their stay for months. The business of guests who register at a hotel may require that they remain in the 'city where it is located for considerable periods of time. They may be nonresidents and their business such as that they move about from one city to another, remaining in each place for varying times. So that the mere fact that the appellant contracted to take his room for a month and continued to hold it thereafter for three months, did not, in and of itself, indicate a purpose on the part of the hotel keeper nor the appellant to relinquish any right which accrued by reason of the relationship of innkeeper and guest. It is probable, though it does not necessarily follow, that some concession in rate was extended to the appellant because of the length of time that he rented his room, but in the absence of something in writing tending to change the relationship of innkeeper and guest, or to delay the payment as provided by §13131 GC, it must be presumed that the usual relation attended.
+It will be noted that §5984 GC begins: “Such innkeeper shall have a lien on the baggage,” etc. This relates to the innkeeper defined in §5981 GC and it is conceded that appellee is an innkeeper cl arly bringing the parties under the terms of the statute and warranting the appellee in holding the baggage of the appellant, upon which he has the lien as created in the section.
+Many cases have been cited by counsel, but inasmuch as it is not necessary on the facts to make nice distinction of the law affecting this case, we do not considei it helpful to cite extended authorities or quole therefrom. Judgment accordingly.
+BARNES, PJ, and BODEY, J, concur.
