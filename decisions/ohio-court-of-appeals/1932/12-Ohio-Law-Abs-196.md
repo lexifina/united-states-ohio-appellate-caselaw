@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 203"
+decided: "1932-06-30"
+citations: ["12 Ohio Law Abs. 196"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LLOYD and RICHARDS, JJ, concur."]
+parties: ["LAKE SHORE POWER COMPANY v EDGERTON (village) et"]
+source_url: "https://static.case.law/ohio-law-abs/12/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1642165
+cites_cases: ["133 So., 899", "146 Fed., 8", "19 R. I., 413", "32 L. R. A., 740"]
+---
+
+# Lake Shore Power Co. v. Edgerton
+
+## Majority (WILLIAMS, J.)
+
+WILLIAMS, J.
+As to the first of these contentions, it is our judgment that under §4357, GC, it is not necessary for -a village to create a board of trustees of public affairs to manage an electric light plant which is about to be purchased until the purchase has actually been made. It is true that in the instant case it appears that such a board has since been created, but it has nothing to do because the electric light plant has not yet in fact been purchased and the amount of the purchase price has not yet been fixed. This contention is not well-founded.
+The second contention is that the certificate required by §5625-32 (d) GC was not filed, at the time the village attempted to exercise the option to purchase the property. It is our judgment that it was not necessary to file it at that time but that it would be a compliance with the law to do so when the parties agree upon the purchase price or when it is fixed by the three appraisers, or is otherwise determined according to law. It would seem that the law does not contemplate the filing of such a certificate before the amount to be paid out of the treasury is determined.
+The third contention is that the ordinance is illegal and void because it does not comply with §§2293-2, 2293-12 and 2293-20, GC. The validity of the bonds is a question that can arise only between the holders thereof and the village, should the latter fail to make payment thereof as they become due according to their tenor. At that time they may be in the hands of bona fide purchasers for value. This suit is not brought by the plaintiff as a taxpayer, and even if it were, it would be unavailing for the question can not be raised in this suit.
+The fourth contention is that the attempted sale of bonds is illegal and void in violation of §4517, GC. It seems that the bonds were first offered to the sinking fund trustees and that they purchased two of the $500.00 bonds out of the funds on hand and that the balance of the bonds, amounting to $19,000.00 were sold to two individuals and the proceeds placed in the electric light fund. We are unable to state that the action of the sinking fund trustees and the method of selling the bonds were not substantially in accordance with the statute. However that may be, the plaintiff can not raise the question in this suit, for reasons already stated in answer to the third contention of the plaintiff.
+It remains to consider whether the village of Edgerton is entitled to specific performance of the contract. A distinction is made in the cases between arbitration of disputes and the determination of the value of property by appraisement. In our judgment the provision in the franchise ordinance is one for the determination of price by valuers rather than of a dispute by arbitration. It is fundamental that a contract for the sale of real estate at a price to be. determined by persons to be appointed as therein specified can not be specifically enforced in a court of equity until the price has been fixed in the method provided, or in some other way sanctioned by a court. Pomeroy’s Specific Performance of Contracts, 3rd Ed., §149. A different rule prevails, however, where the provision for fixing the purchase price by appraisement is merely auxiliary or collateral or incidental to the main purpose and object of the contract. The tendency of American and English authorities is to construe contracts so that the agreement as to fixing of a price by appraisers will be auxiliary or incidental to the main contract, unless such construction will do violence to the language. The authorities upon this proposition are collected iii Pomeroy on Specific Performance of Contracts, 3rd Ed., §§151 and 309.
+It has been held that, where a municipality grants a franchise to a company that operates an electric light or waterworks plant, and as a part of the franchise ordinance the municipality reserves an option to purchase the plant at a price to be agreed upon by the parties or, in the event of failure to agree, at a price to be fixed by valuers or appraisers named as in the franchise ordinance provided, the contract may be specifically enforced upon the exercise of the option of purchase by the municipality. Moreover, where the parties fail to agree and either party refuses to join in appointing appraisers, a court of equity will grant specific performance.
+25 R. C. L., 301, §114;
+Bristol v Bristol & Warren Waterworks, 19 R. I., 413; 32 L. R. A., 740;
+Castle Creek Water Co. v City of Aspen, 146 Fed., 8; 8 Am. & Eng. Anno. Cases, 660.
+We especially call attention to the annotation to the latter case. In City of Andalusia v Alabama Utilities Company,— Ala., —, 133 So., 899, the holding is to the contrary, but by a divided court and there is a dissenting opinion which asserts the rule laid down.
+The three cases just cited are the only ones found which involved an option similar to the one in the instant case, but there are other authorities in which the same principle is applied to a different state of facts. Pomeroy on Specific Performance of Contracts, supra. Not only is the modern trend of authority to sustain the judicial enforcement of provisions for the fixing of a purchase price by appraisers upon failure to agree in all cases where such an agreement is subsidiary to the main contract, but the authorities put especial emphasis upon the importance of specifically enforcing the agreement when the parties can not be placed in statu quo. In the instant case the parties would not be restored to their original position if specific performance should be denied. It may be assumed that when the municipality entered into the contract which resulted in the acceptance of the franchise ordinance, it gave the public utility company a franchise on better terms than if the option had not been included therein, and if specific performance is denied in the instant case the plaintiff could continue to exercise its rights under the main contract and at the same time refuse to carry out its obligations under the subsidiary agreement. The option contract is not only ancillary and incidental to the main contract, but the parties can not be placed in statu quo.
+The prayer of the petition will be denied and that of the cross-petition for specific performance will be granted.
+Decree accordingly.
+LLOYD and RICHARDS, JJ, concur.
