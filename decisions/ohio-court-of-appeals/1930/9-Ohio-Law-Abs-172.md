@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1691"
+decided: "1930-01-31"
+citations: ["9 Ohio Law Abs. 172"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Funk, PJ, and Washburn, J, concur."]
+parties: ["CLEMMER & JOHNSON Co v ELEY"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895713
+---
+
+# Clemmer & Johnson Co. v. Eley
+
+## Majority (PARDEE, J.)
+
+PARDEE, J.
+As said petition was drawn, the Goodyear Tire & Rubber Co.’s employees, in the discharge of their duties, had a right to go into said building; and if the defendant claimed that said plaintiff was a trespasser or mere licensee upon said property, such claim ought to have been presented either by its answer or made upon the trial. By its amended answer this question was not raised, but said answer contained the following language, to wit, •
+“Further answering, defendant says that the injuries which plaintiff sustained were the result of his own gross negligence in that at the time of his injury, he was in ,a place where his duties did not require him to be and in a place which was dangerous and known by plaintiff to be dangerous, and he was occupying said place after being repeatedly warned not to be there; that had plaintiff remained in the part of the building where his duties required him to be, he would have been safe from injury by any falling materials, but by his persistent disregard of the obvious danger and of the warnings he had received, he alone was guilty of . negligence which brought .about his injury.”
+By this statement we are unanimosly of the opinion that the defendant did not challenge plaintiff’s right to be on said property at the time of the accident, but admitted that said plaintiff had a right to be in said building and claimed only that he was in a dangerous place where his duties did not require him to be, whpffi danger was known to him, and that' he remained there after being repeatedly warned; and that if plaintiff had remained in that part of the building where he had a right and his duties required him to be, he would not have been injured.
+Taking the amended answer as drafted, with the inferences which we have herein-before indicated ought to be drawn from it and the' evidence offered upon the trial, we can with propriety and reason conclude only the, following, to wit: that the defendant admitted that plaintiff was not a trespasser or mere licensee upon said property, and that the defendant did not claim that it did not owe him any duty at the time of said accident, but knowing that said plaintiff was working in the vicinity of the place where he was injured, warned him of said danger, and that notwithstanding said warning plaintiff continued to work in said place under the circumstances and was therefore guilty of negligence: in other words, that the plaintiff had a right to be where he was at the time of the accident, but that under the circumstances he was guilty of negligence in being there. This was the theory upon which the case was tried and submitted to the jury.
+Taking the issues in the case as we find them, as made by the pleadings, the evidence offered upon the trial, and the theory upon which the case was tried, we are unanimously of the opinion that the defendant cannot now, in this court, for the first time successfully make the claim that the plaintiff was a trespasser or mere li\ censee, and that therefore the defendant did not owe him any duty at the time of the accident and that he does not have a cause of action .against it.
+. But the plaintiff claims,that there is a variance between the allegations of the plaintiff’s petition as to negligence,.and the proof offered in support thereof,
+The petition states that—
+“One of the masons, so employed by the defendant, and who was engaged in the work of laying bricks in the upper portion of said wall directly over the place where plaintiff was standing and seventy-one feet above the plaintiff, so negligently and carelessly handled a common building brick which he had in his hand that he allowed and permitted the same to fall from his hand and to descend violently to and upon the plaintiff, striking him upon the top portion of his head, causing him the grievous and permanent injuries hereinafter specifically described.”
+The evidence offered upon the trial tended to prove that the brick which hit the plaintiff did not fall from the hand of one of defendant’s workmen but was pushed by the foot of one of said workmen off of the roof or wall "Where it had been placed by one of them.
+This claim does not merit serious con^deration, as the evidence shows condusively that the brick which hit the plain.tiff was one of defendant’s, intended'to be used under its contract for the completion of said building, and whether it fell from -tjie hand of a workman at the time or was pushed off the roof or wall of said building, could not in any way prejudice the defendant, as the important question in this respect, was whether one of defendant’s b^cks was negligently caused to fall and hit the plaintiff.
+.There can be no difference as to defendant’s liability between a case where the brick negligently slips from a workman’s ’hand and one where it is negligently pushed from the roof or wall by one of its workmen. The evidence shows that one of de1 endant’s• Workmen who s,aw the brick start to fall realized the danger and attempted tó give warning to the man working below.
+So, tlie trial court did not err in refusing to withdraw from the consideration of the ' jury those parts of the evidence which tended to show that the brick slipped from the roof or wall, instead of from the hands of one of defendant’s workmen.
+. The defendnat also'claims that the trial court .committed prejudicial error in its general charge to the jury, when .it gave to the jury the law applicable to contributory negligence.
+’ We do not agree with this claim of the defendant. The general charge correctly states the law as to contribtuory negligence, and it was the court’s duty to charge upon this subpect notwithstanding the defendant’s allegations in its answer that the accident was caused by the sole negligence of the plaintiff, as there was some evidence produced upon the trial which required a charge upon contributory negligence.
+But assuming that there was error in the general charge in regard to contributory negligence, the same could not be considered prejudicial in view of the special requests given by the court before argument at the instance of the defendant.
+The defendant also claims that the finding of the jury as to liability and the amount of. the verdict are manifestly against the weight of the evidence.
+As to liability:
+The jury heard and saw the witnesses, and under our jurisprudence they are the ones upon whom devolves the duty of deciding questions of fact, and inasmuch as we find that the record does not exhibit any errors of law prejudicial to defendant, we- cannot say that the jury was mani-« festly wrong in finding from the evidence offered at the trial that plaintiff was free from negligence at the time of the injury and that the same was caused by the negligence of defendant’s employees.
+As to the amount of the verdict:
+The plaintiff and his wife and other lay witnesses testified to, his general physical condition before and after the injury, and in addition he had the testimony of reputable physicians who testified as to his physical condition at the time of the trial and the probable extent of his injuries. If the jury believed this testimony, as they had a right to do, they were justified in finding that plaintiff suffered injuries from which he probably never will recover and that they are injuries of a very serious and painful nature, incapacitating him from carrying' on his former occupation; and from our reading of the record we are unable to say that the amount of the verdict is excessive or manifestly against the weight of the evidence.
+The attorneys for the defendant have, in oral argument and by printed briefs, suggested other errors in the record which they claim Were prejudicial to the defendant, but we have examined them and our conclusion is that the record does not disclose any error prejudicial'to the defendant.
+Funk, PJ, and Washburn, J, concur.
