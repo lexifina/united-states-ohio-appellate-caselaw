@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-010003"
+decided: "2001-09-21"
+citations: ["146 Ohio App. 3d 669"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doan, P.J., Hildebrandt and Painter, JJ., concur."]
+parties: ["R. CORWIN PAULY, JR. AND ASSOCIATES et al. Appellees, v. KEKO CORPORATION, d.b.a. Richards Montgomery Square Cleaners, et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/146/cases/0669-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 528922
+cites_cases: ["132 Ohio App.3d 353", "2000 WL 1434170", "2001-Ohio-4351", "711 N.E.2d 1014", "724 N.E.2d 1251", "741 N.E.2d 895", "761 N.E.2d 46", "86 Ohio St.3d 1420", "91 Ohio St.3d 1433", "94 Ohio St.3d 1429"]
+---
+
+# Pauly v. Keko Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+{¶ 1} Defendants-appellants, Lawrence O’Connor and Keko Corporation, doing business as Richards Montgomery Square Cleaners, appeal the judgment of the Hamilton County Municipal Court awarding damages in favor of the plaintiffs-appellees, R. Corwin Pauly, Jr. and Associates (“Pauly”) and Zoellner Garten & Company (“Zoellner”), in a contract action. For the following reasons, we reverse the trial court’s judgment.
+{¶ 2} In 1996, O’Connor signed a listing agreement with Pauly. Pursuant to the listing agreement, Pauly was to be paid a commission of eight percent if he procured a buyer for O’Connor’s dry-cleaning business within one year of the expiration of the agreement. The written contract provided that the agreement would expire on May 31,1997. Pauly and Zoellner Garten later agreed that they would divide equally any commission earned from the sale of the business.
+{¶ 3} In September 1997, Pauly informed O’Connor that he knew of someone who was interested in purchasing the business. O’Connor agreed to allow Pauly to show the business to the prospective purchaser, but the parties did not amend the listing agreement in writing or enter into a new written agreement regarding the sale of the business. Pauly showed the business to the prospective buyer, Soo Kim, in September 1997. Though Soo Kim made an offer to purchase the business, no sale was consummated.
+{¶ 4} Then, in January 1998, Soo Kim contacted O’Connor, and they again began negotiations for the sale of the business. They reached an agreement and ultimately closed on the sale of the business on June 1, 1998, one day after the one-year period following expiration of the listing agreement.
+{¶ 5} In October 1998, Pauly and Zoellner filed an action against O’Connor and Keko Corporation, seeking an eight-percent commission and expenses, including attorney fees, which were recoverable under the terms of the listing agreement. Following a bench trial, the court awarded Pauly an $8,000 commission and $2,666.67 in attorney fees, plus interest. The court further held that, although Zoellner was not a party to the contract with O’Connor and Keko, it was entitled to one-half of Pauly’s recovery pursuant to their collateral agreement. O’Connor and Keko have now appealed, asserting three assignments of error.
+{¶ 6} We begin with the second assignment of error, in which O’Connor and Keko contend that the trial court erred in granting judgment in favor of Pauly and Zoellner, because the sale of the property did not occur within the time specified in the listing agreement. We find this assignment to have merit.
+{¶ 7} We first note that it is beyond dispute that the sale of the property did not occur within the time specified in the parties’ written listing agreement. Under the terms of that agreement, a commission was to be paid only if Pauly procured a buyer and the sale was closed within one year of the expiration of the agreement. The actual sale of the business to Soo Kim occurred after the one-year period, albeit only one day after. Thus, Pauly and Zoellner were not entitled to recover under the terms of the written listing agreement, even though they had introduced the buyer and the seller.
+{¶ 8} The trial court found, though, that the parties had orally agreed to an extension of the contract when Pauly informed O’Connor that he had found someone who was interested in purchasing the business. We find no evidence in the record to support the trial court’s finding. Although Pauly’s testimony indicated that O’Connor had given him permission to show the property in September 1997, there was no evidence that the parties had agreed to extend the time period in which Pauly would be entitled to a commission. Several letters from Pauly and Zoellner to O’Connor were also admitted into evidence, but again they demonstrated only that Pauly had been given permission to show the property. They did not indicate that the parties had agreed to an extension of the one-year period.
+{¶ 9} Pauly and Zoellner also cite the trial testimony of O’Connor as evidence that the parties had agreed to extend the time of the contract, but we are not persuaded by their argument. The cited testimony reveals only that O’Connor had agreed to pay a commission on the sale of the business, a fact established by the execution of the listing agreement. O’Connor did not concede at trial that he had agreed to pay a commission on the sale under any other circumstances than those agreed upon in the written contract. Absent evidence of such an amendment to the written agreement, the trial court erred in finding O’Connor and Keko liable for breach of contract.
+{¶ 10} For similar reasons, we reject the argument advanced by Pauly and Zoellner with respect to promissory estoppel. To establish promissory estoppel, a plaintiff must prove that the defendant made a promise that he should have reasonably expected to induce reliance on the part of the plaintiff and that the promise did actually induce reliance on the part of the plaintiff such that injustice can be avoided only by enforcement of the promise. The record simply does not reflect a promise on the part of O’Connor to pay a commission on a sale that occurred after the one-year period set forth in the contract. Thus, the theory of promissory estoppel must fail.
+{¶ 11} Finally, to the extent that Pauly and Zoellner rely on the equitable theory of quantum meruit to justify their entitlement to recovery, their argument must also fail. A party seeking a remedy under a contract cannot also seek equitable relief under a theory of quantum meruit, because the terms of the contract define the parties’ relationship in the absence of fraud, bad faith, or illegality. Finding no evidence of fraud, bad faith, or illegality, we hold that Pauly and Zoellner were not entitled to recover under quantum meruit. Accordingly, the second assignment of error is overruled.
+{¶ 12} In the first and third assignments of error, respectively, O’Connor and Keko argue that the trial court erred in holding that the statute of frauds did not preclude the oral amendment to the contract and that it erred in holding that Pauly was the “procuring cause” of the transaction. Having held that Pauly and Zoellner were not entitled to recovery, we further hold that the first and third assignments of error are moot. Accordingly, the judgment of the municipal court is reversed, and judgment is hereby entered in favor of O’Connor and Keko.
+Judgment accordingly.
+Doan, P.J., Hildebrandt and Painter, JJ., concur.
+. See Wolfer Ent., Inc. v. Overbrook Dev. Corp. (1999), 132 Ohio App.3d 353, 356, 724 N.E.2d 1251, 1253, jurisdictional motion overruled (1999), 86 Ohio St.3d 1420, 711 N.E.2d 1014.
+. See Rolsen v. Lazarus, Inc. (Sept. 29, 2000), Hamilton App. No. C-990627, 2000 WL 1434170, jurisdictional motion overruled (2000), 91 Ohio St.3d 1433, 741 N.E.2d 895.
+. See Wolfer Enterprises, supra, at 357, 724 N.E.2d at 1253.
+. R.C. 1335.04.
