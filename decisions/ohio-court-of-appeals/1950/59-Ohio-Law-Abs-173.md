@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2063"
+decided: "1950-04-14"
+citations: ["59 Ohio Law Abs. 173"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and WISEMAN, JJ, concur.", "MILLER, PJ, HORNBECK and WISEMAN, JJ, concur."]
+parties: ["SHAFER, Plaintiff-Appellant, v. NATIONAL LIFE & ACCIDENT INSURANCE COMPANY, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/59/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1759293
+cites_cases: ["133 Oh St 563"]
+---
+
+# Shafer v. National Life & Accident Insurance
+
+## Majority (By MILLER, PJ:)
+
+OPINION
+By MILLER, PJ:
+The question presented by this appeal is whether the trial court erred in directing a verdict for the defendant at th® close of all of the evidence. The action was one to recover the death benefits under the terms of a life insurance policy. One of the defenses set up in the answer was that the insured was not in good health at the time of the issuance of the policy. The policy provided that it was not to take effect as an obligation of the defendant unless the insured was in good health at the time of its delivery. In order to maintain its defense the defendant offered as its own witness Dr. Lawrence Gough who testified that he had been the insured’s physician for a number of years; that he had treated her for high blood pressure and migraine headaches at his office for a number of years beginning in 1939, and that he gave her sedatives, prescribed that she cut down on her eating and slow down her activities; that he once ordered her to a hospital for rest and observation, and that “nothing organic could be found”; that he never called on her at her home, and that she always came to his office; that approximately 35% of his medical patients had high blood pressure; that she died in his office on the evening of February 2, 1948, and that he filled in her death certificate naming the cause of death,, coronary thrombosis and occlusion, and giving malignant hypertension, duration 1939, as other conditions. .He also related facts from which the inference of lack of •good health on March 17, 1947, the delivery date of the policy, might have been made.
+The defendant also called as a witness Dr. W. L. McCowan, the defendant’s medical examiner, who testified concerning his examination of the insured; that there being nothing to suggest that she was suffering from high blood pressure he did not take the same, as it was not required for the size of the policy being issued. There is, however, a conflict in the testimony as to whether Dr. McCowan took the blood pressure of the insured. The plaintiff testified that he was present when the examination was made and that her blood pressure was taken; that he knew the method of taking one’s blood pressure, as he had his taken by Dr. Gough sometime prior thereto. The defendant’s agent testified that he regarded her as being in good health when he delivered the policy. The plaintiff and numerous other witnesses who had observed the insured in her place of business all testified as to her apparent good health at the time of the delivery of the policy.
+The questions presented are, (1) was the testimony of these lay witnesses of any probative value since the medical testimony was to the effect that the insured’s illness was not apparent but could only be detected upon physical examination? (2) was there any evidence tending to establish that
+the insured was in good health at the time of the issuing of the 'policy? The appellee cites the case of Magyar, Admx., v. The Prudential Life Ins. Co., 133 Oh St 563, wherein the Court in considering the first question held at page 565:
+“ * * * that the only evidence of any probative effect respecting the actual physical condition of the assured at the time of the issuance of his policy was that of the physician referred to, and therefore that there is no conflict whatever in the evidence adduced which may be considered to be of probative value upon the sole issue in that case.”
+In the Magyar case, supra, the only evidence other thair medical touching the condition of the insured’s health at the time of the issuance of the policy was the testimony of the insured’s son and a former agent of the defendant, that the insured then looked or appeared in good health, and also the testimony of the widow that the insured was in good health before his last sickness. The facts in this case are not identical with those in the case at bar. The appellant cites the case of Vida v. Metropolitan Life Insurance Company, which was decided in the same opinion as the Magyar case, supra, as supporting his contention. In this case the Court held that, since there was evidence in the record denying that the medical witness had made the examination concerning which he testified, and other witnesses had testified as to the good health of the insured, there was a direct and vital conflict of evidence upon the only issue in the case and it should be determined by the jury. In the case at bar there was no denial that the medical witnesses had seen, examined and treated the insured as they had testified, but there is a conflict in the testimony as to the taking of the insured’s blood pressure. Whether or not it was taken was a question of fact for the determination of the jury. Should it have resolved this question in the affirmative a reasonable inference would have been that she was not suffering from high blood pressure as claimed, or the same would have been reported by the examining physician. An inference is a permissible deduction which the jury may make without express direction of the law to that effect. If different inferences may be drawn from the evidence it is the function of the jury and not of the court to draw those inferences from the evidence deduced and to find ultimate conclusions of fact. Should the jury conclude that the examining physician found no indication of high blood pressure this would be some evidence tending to indicate that the insured was in good health. This determination would not be based upon the testimony of lay witnesses as against that of medical men, but would be based upon an inference as to a condition found to exist by the examining physician, to wit, no high blood pressure. It is our conclusion that the testimony of the lay witnesses was of itself of insufficient probative value in this case to carry it to the jury, Magyar v. Prudential Life Ins. Co., supra, but based upon the medical testimony and that of the lay witnesses there was some evidence from which the jury could find that the insured was in good health at the time of the issuing of the policy. The appellee does not urge, and we do not find, that the instructed verdict could be sustained under the second defense.
+The judgment will therefore be reversed and the cause ordered remanded for a new trial.
+HORNBECK and WISEMAN, JJ, concur.
+
+## Rehearing (By THE COURT:)
+
+ON APPLICATION FOR REHEARING
+No. 2063. Decided May 20, 1950.
+By THE COURT:
+This is an application for a rehearing for the alleged reason that the opinion of this Court required an inference to be based upon another inference before it could be found that the insured was in good health at the time of the issuing of the policy of insurance. We cannot agree with this conclusion. The record discloses that the cause of the insured’s bad health was high blood pressure, and if the jury found there was no high blood pressure from the inference we found might exist, then the insured was not in bad health, the only evidence to establish this having failed.
+We adhere to our former ruling and the application will be denied.
+MILLER, PJ, HORNBECK and WISEMAN, JJ, concur.
