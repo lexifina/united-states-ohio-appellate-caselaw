@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 5125"
+decided: "1937-01-11"
+citations: ["24 Ohio Law Abs. 112"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["TATGENHORST, PJ, and ROSS, J, concur,"]
+parties: ["ZILLICH v JOURNEYMEN BARBERS’ INTERNATIONAL UNION OF AMERICA"]
+source_url: "https://static.case.law/ohio-law-abs/24/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679515
+---
+
+# Zillich v. Journeymen Barbers' International Union of America
+
+## Majority (By HAMILTON, J.)
+
+OPINION
+By HAMILTON, J.
+Appeal on questions of law.
+Appellant, Anna Zillich, administratrix of the estate of Paul Zillich, deceased, filed an action in the Municipal Court of Cincinnati, seeking to recover death benefits, claimed to have accrued by reason of his membership in the Journeymen Barbers’ International Union of America. The trial resulted in judgment for the administratrix. On error to the Common Pleas Court, that court reversed the judgment of the Municipal Court and entered judgment for the appellee herein. From that judgment, appeal on questions of law is brought in this court, seeking a reversal of the judgment of the Common Pleas Court and an affirmance of the judgment of the Municipal Court of Cincinnati.
+Paul Zillich, deceased, was a member of the unincorporated Journeymen Barbers’ International Union, which is a voluntary organization. Zillich had been a member for more than twenty years. The right to recover the benefits depends on the construction of §§35 and 131 of the constitution of the Union, which provide:
+“Sec. 35. No member shall be entitled to sick benefits for a sickness beginning during a month in which dues are not paid in accordance with §131, and dues shall be paid in accordance with §131 (on or before the first [1st] day of each month) during entire duration of sickness. Failure to pay dues as prescribed during sickness shall debar the member from receiving further sick benefits during entire duration of such sickness or from payment of death benefit in the event of death. Acceptance of dues by the local after the due date thereof shall not be deemed a waiver of the foregoing provision.”
+“Sec. 131. Every active beneficiary member must pay to his local union not less than $1.50 per month, and it shall be the absolute duty of said member to see that the secretary receives the dues on or before the first day of the month for which they are due, except when the first day of the month falls on Sunday or a holiday, when the following day shall be considered the first. No member shall be entitled to benefits unless dues are paid as herein provided for, notwithstanding any custom to the contrary that may be followed in any local union.”
+“(Example) Dues for the month of March must be paid on or before March 1, April dues on or before April 1, etc.
+“The acceptance of dues by the local after the date on which the same became due shall not, in spite of any custom or habit to the contrary, be deemed a waiver of the requirement to pay dues on or before the first day of the month and shall in no event entitle such member to sick or death benefits and such dues paid after they have become delinquent shall be deemed to have been accepted merely for the purpose of enabling the member to place himself in good standing at a future time. Express notice is hereby given every member and every beneficiary of every member that neither sick nor death benefits will be paid in all cases where dues have not been paid strictly in accordance with the provisions of this constitution.”
+Payments were made by Zillich irregularly. He would pay two or three months dues at one time, some in arrears and some in advance. In 1934 he had failed to pay his dues in advance for June and July. On July 20th, 1934, he paid dues for the past month of June and the months of July, August and September. Six days after making this payment he died. We, therefore, have the situation that under the provisions of §§35 and 131, his estate would not be entitled to sick or death benefits, since the constitution expressly provides: “The acceptance of dues by the local after the date on which the same became due shall not, in spite of airy custom or habit to the contrary, be deemed a waiver of the requirement to pay dues on or before the first day of the month and shall in no event entitle such member to sick or death benefits * * *”
+It is claimed by the appellant that the due date of the payment of dues could be waived and that there had been established a custom by which the deceased paid irregularly, and the payments being accepted by the Association constituted a waiver of the due date.
+There are cases holding that the date may be waived by acceptance of payments after the due date, notwithstanding a provision in the constitution and by-laws of such society against waiver. In those cases, we do not find the provision specific as to the purpose for which the delinquent payment is received by the Association or Company insurer. The theory in those cases is, that when payment is received, it is received for the purpose of protection as to benefits. §131 in the Constitution of the appellee provides that the acceptance of “such dues paid after they have become delinquent shall be deemed to have been accepted merely for the purpose of enabling the member to place himself in good standing at a future time. Thus, the purpose of the receipt and acceptance of the payment of delinquent dues are provided for. The deceased, when he became a member, subscribed to these sections of the Constitution and had full knowledge of the same and their contractual character, and by no liberal construction can the court place a different construction upon this provision than that expressly required by the language of the constitution. The. constitutional provisions regarding the situation in the case at bar are in plain, understandable language, and the purpose of accepting the delinquent dues is as clearly expressed as any other part of the constitution.
+Under the terms of the constitution, when the deceased member failed to pay his dues for the month of July on or before the first day of that month, he was barred from receiving any sick or death benefits as such member for that month. By the payment of dues during the month, he placed himself in good standing to make the required payments for the succeeding month, without having been dropped from the rolls.
+Under the terms of the' sections quoted and the facts of the case, we do not find any waiver which would entitle the deceased member’s estate to recover for death benefits.
+The Court of Common Pleas was therefore correct in reversing the judgment of the Municipal Court of Cincinnati. The judgment of the Court of Common Pleas is affirmed.
+TATGENHORST, PJ, and ROSS, J, concur,
