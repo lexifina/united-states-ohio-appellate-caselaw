@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 5087"
+decided: "1936-07-06"
+citations: ["22 Ohio Law Abs. 628"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROSS, PJ, and HAMILTON, J, concur."]
+parties: ["HILLING et v CINCINNATI (city) et"]
+source_url: "https://static.case.law/ohio-law-abs/22/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1676128
+cites_cases: ["13 C.C. 334", "57 Oh St, 654"]
+---
+
+# Hilling v. Cincinnati city
+
+## Majority (By MATTHEWS, J.)
+
+OPINION
+By MATTHEWS, J.
+This action was instituted by an. owner of real estate to enjoin the collection of a street assessment. The Common Pleas Court of Hamilton County enjoined the collection of the assessment. The case reaches this court on appeal on questions of law and fact by the defendants.
+The city of Cincinnati having levied a street assessment upon the plaintiff appellee’s real estate which remained unpaid, certified it to the county auditor for collection in 1930.
+In the year 1931 this action to enjoin its collection was filed and a temporary restraining order against the collection of the assessment was issued.
+In the year 1935 The Centennial Savings & Loan Company filed suit to foreclose a mortgage upon these premises executed after the levy of the assessment. The county auditor and county treasurer were made parties to this action.
+The allegation in the petition was that they “each have or claim to have some interest in said property.” In this foreclosure action, a judgment in foreclosure and order of sale was entered on June 18th, 1935, in which the court found that the county auditor and county treasurer had been duly served with summons and were in default for answer, and further “Wherefore as to said defendants in default the allegations in said petition are taken as confessed by them to be true.” As to the plaintiff’s mortgage the court found that it was “a valid and subsisting first and best lien upon the real estate in plaintiff’s petition described.” One of the defaults alleged in the petition and found in the decree was the failure of the mortgagor to pay the taxes. There was no express adjudication of the invalidity of the assessment and there was a continuance as to all matters not adjudicated of the cause “until further orders of this court.” The property having been sold by the sheriff to the mortgagee, a decree of confirmation and distribution was entered on September I2th, 1935. By this decree the purchaser was subrogated to all the rights of the lienholders of said premises for the protection of its title. In the distribution of the proceeds of sale, the court ordered the payment of the taxes and that the balance be credited upon the mortgage debt leaving a deficiency of $469.17, for -which judgment was rendered against the mortgagor in favor of the mortgagee. The assessments were not mentioned and no judgment rendered that the county auditor or county treasurer had no other claim or lien than that for the taxes.
+On September 26th, 1935, on its application, The Centennial Savings & Loan Company was made a party to this action and by cross-petition alleged that it held title to the premises under a sheriff’s deed in the foreclosure action, clear and free of all claims of all parties to said suit, in which suit the county auditor and county treasurer were parties, and the cross-petitioner prayed that these officers be enjoined from attempting to collect the assessment.
+Prom this recital it will be readily observed that there was no issue raised or adjudicated relating to the street assessment in the foreclosure case, and that therefore there could be no defense of res adjudicata based on the record of that case. That is not the issue raised by the cross-petition. That issue is that the cross-petitioner by virtue of the sheriff’s deed has succeeded to all the rights of any and all the parties to the foreclosure action and that whatever rights they may have had in the real estate were extinguished in the real estate and transferred to the fund produced by the sale to the cross-petitioner.
+In 24 Ohio Jur., 91, it is said:
+“A sale, under a judicial order, ought always to confer upon the purchaser a title freed from all claims of the litigant parties. And it is an elementary proposition that when property is sold in a judicial proceeding, the sale vests title in the purchaser free from all rights of all parties to the action. And, once a purchaser acquires title at such sale, his title is not in any way affected by the distribution of the proceeds.”
+This is the general rule in all jurisdictions. In 16 R.C.L. 138, it is said:
+“A judicial sale carries only the interest, estate, and rights of the premises that the parties to the proceedings had or could have asserted, no more and no less. The purchaser succeeds to their rights and attitude in respect to the property sold, ‘takes their shoes,’ stands in their place, acquires their interest as it existed in their hands, subject to all infirmities of title then attaching to the estate, * * *■.”
+That a municipality is bound by the proceedings in an action in foreclosure to which it is a party and preeluded from thereafter asserting a lien for an alley assesement, which it failed to assert therein, is definitely decided by the case of City of Cincinnati v Lingo, 13 C.C. 334. That case decided, as stated in the syllabus, that:
+“A city, after having been made a party in a foreclosure proceeding, and required to file its answer and cross-petition, and having done so, but fails to set up any alley assessment, is barred in a direct action to enjoin the collection of the alley assessment.”
+The decision was by a divided court, but on error to the Supreme Court, the judgment was affirmed expressly “upon the grounds stated by the majority in the Circuit Court in this case, 13 O.C.C. Rep., 334.” 57 Oh St, 654. The majority opinion and the judgment therefore has the force and effect of an opinion and judgment of the highest court of the state.
+But it is urged that the city was not a party to the foreclosure action, and that, therefore, City of Cincinnati v Lingo, supra, is inapplicable. That raises the question of whether the City of Cincinnati was in law a party to the foreclosure. It was not a party eo nomine. Was it a party by representation through the county auditor and county treasurer? By §3905, GC, the municipal council was authorized to certify assessments to the county auditor for collection, in which event they were collected as other taxes. This street assessment had been so certified and was in process of collection at the time of the foreclosure proceeding. By §2667, GC, the county treasurer was expressly authorized to collect special assessments by civil action in addition to the other remedies provided by law.
+It seems to us clear that by certifying this street assessment to the county auditor for collection the city constituted the auditor and treasurer its agent or representative in all matters relating to the collection.
+In 23 Ohio Jur., at 1037, et seq., it is said:
+“* * * it is well settled that when a judgment is rendered for or against an officer of a municipal coi'poration in his official capacity, in matters as to which he is entitled to represent it,' the judgment may be used in a proper case as a basis for the operation of the doctrine of res judicata by or against the corporation, or by or against another officer representing the corporation.”
+And this is but the statement of the rale generally followed. In 15 R.C.L., 1030, this rule is stated:
+“If an action or proceeding is brought by or against an officer of a county, town or other governmental body, which is the real party in interest, the decision is as binding on the municipality as res judicata as if the judgment had been rendered against it directly. The ground upon which a municipality is held bound by a judgment against certain of its officers is that these are its legal representatives, who are by law authorized to speak for it and control its affairs.”
+When the court entered the decree of sale in the foreclosure action, it was an adjudication that the entire title of all the ' parties to the action should be sold and that the purchaser should succeed to all such title. In confirming the sale and ordering the sheriff to execute and deliver a deed the court a.- ted that that title should be conveyed. All this was done in an action to which the city was a party by representation.
+While, as we view it there was no adjudication of the issue as to the validity of the street assessment, the city of Cincinnati is precluded from enforcing its lien against this real estate because the legal effect of the sheriff’s deed was to convey it free of such lien, the lien of the city being transferred to the proceeds of the sale in the hands of the sheriff. The proceeds of sale having been distributed under the order of court, there is no subject-matter upon which the city’s lien could operate. The question has become moot.
+For these reasons, the prayer of the cross-petitioner is granted, and its title to the premises quieted against the city’s claim of a lien.
+ROSS, PJ, and HAMILTON, J, concur.
