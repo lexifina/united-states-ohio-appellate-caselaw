@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "358"
+decided: "1966-06-29"
+citations: ["7 Ohio App. 2d 18"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, P. J,, and Straub, J., concur."]
+parties: ["The State of Ohio, Appellant, v. Putzke, Appellee."]
+source_url: "https://static.case.law/ohio-app-2d/7/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461101
+cites_cases: ["2 N. J. Super. 126", "64 A. 2d 897"]
+---
+
+# State v. Putzke
+
+## Majority (Brown, J.)
+
+Brown, J.
+This is an appeal by plaintiff, appellant herein,' the state of Ohio, from a finding and order of the Municipal Court of Port Clinton sustaining the motion of the defendant, appellee herein, to suppress evidence on grounds of unlawful' search and seizure, incident to a charge against the defendant for possessing undersized fish contrary to Section 1531.02, Revised Code. This appeal is pursuant to authority of Section 2945.68 et seq., Revised Code, because the question of law presented is of great importance to the state of Ohio, Division of Wildlife, in its enforcement procedure, and to the epmmereiai fisherman on Lake Erie.
+On July 15, 1965, the defendant docked his commercial fishing boat at the Port Clinton Fish Company dock to unload fish, keeping the motor running. The dock was adjacent to a building where the defendant processed fish. As the defendant was unloading boxes of fish, Game Protectors Shaeffer, Biggs and Evans of the Ohio Wildlife Division, in the presence of defendant, boarded the defendant’s boat, examined and inspected boxes thereon containing fish, and discovered undersized fish which evidenced violation of the foregoing Wildlife Law. The defendant several times requested the officers, before they boarded the boat, to obtain a search warrant. The officers replied that they did not need a search warrant to inspect fish ■on the boat, and they obtained no search warrant.
+The game protectors had a right to search the defendant’s boat and to inspect the fish thereon, without a search warrant, by reason of the first sentence of the third paragraph of Section 1531.13, Revised Code, which reads as follows:
+“Such game protector, sheriff, deputy sheriff, constable, or officer having a similar authority, may search any place which he has good reason to believe contains a wild animal or any part thereof, taken or had in possession contrary to law or division order, or a boat, gun, net, seine, trap, ferret, or device used in such violation, and seise any he finds so taken or possessed. * * *” (Emphasis added.)
+The foregoing language permits game protectors to inspect the boat of the defendant, and the fish thereon, without a search warrant, if they have good reason to believe the boat was used incident to taking or possessing fish contrary to law. Good reason to believe the boat was used illegally existed because Officer Shaeffer stated that an unidentified man ran around the corner of the defendant’s building after observing the officers in uniform, and a witness at the dock where the boat was searched stated the motor of the boat was kept running during the conversation of the defendant with the officers before they boarded the boat. The latter element indicated reason to believe the boat would leave the dock to conceal or destroy the evidence if immediate search, without a warrant, could not be had.
+Enforcement of the Wildlife Laws without a search warrant, where the officer has reason to believe that evidence of violation of such laws/ may /be found, finds support in State v. Engels, 2 N. J. Super. 126, 64 A. 2d 897; 36A Corpus Juris Secundum 570, Section 42, and is consistent with the spirit and purpose of the Ohio Wildlife Laws, particularly as expressed in Section 1531.20, Revised Code, which permits seizure and forfeiture as a public nuisance of a boat used in the unlawful taking of fish, and as expressed in Section 1533.67, Revised Code, on enforcement procedures, which permits seizure, without process, of a wild animal in the possession of a person violating any wildlife law, or any boat used incident to such violation.
+Likewise, the first sentence of the last paragraph of Section 1533.63, Revised Code, requires that all fish caught in Ohio waters shall be brought into an Ohio port for inspection. Furthermore, the fifth sentence of the first paragraph of Section 1531.13, Revised Code, makes it mandatory to obtain a search warrant for enforcing the Wildlife Laws contained in Chapter 1531 only where the place to be searched is a building and the owner or person in eharge objects, by reason of the following quoted language:
+“They may inspect any container or package at any time except when within a building and the owner or person in eharge of such building objects. * * *”
+The defendant contends, and the trial court concluded, that the second sentence of the third paragraph of Section 1531.13, Revised Code, which immediately follows the first sentence of the third paragraph of that section as quoted and discussed hereinbefore, required the game protectors in the instant case to obtain a search warrant. This sentence reads as follows:
+“If tire owner or person in charge of the place to be searched refuses to permit such search, upon fifing an affidavit' in accordance with law with a court having jurisdiction of the «offense, and upon receiving a search warrant issued thereon,; such officer or game protector may forcibly search the place described and if in such search he finds any wild animal or part thereof * * * in the possession of the owner or person in charge, contrary to Sections 1531.01 to 1531.26, inclusive, and 1533.01' to 1533.69, inclusive, Revised Code, or division order, he shall seize them and arrest the person in whose custody or posses-, sion they were found.”
+This latter provision of Section 1531.13, Revised Code,,' prescribes an additional remedy available to game protectors, and optional with them, where the owner or person in charge of a place refuses to permit a search, providing for a search pursuant to a search warrant, and becomes mandatory only when the place to be searched involves a building, coupled with objection to the search as hereinabove discussed, by reason of the fifth sentence of the first paragraph of Section 1531.13, Eevised Code. It does not nullify or limit the purpose of the provision and authority granted to game protectors as set forth in the first sentence of the third paragraph of Section 1531.13, Eevised Code, which permits game protectors, without a search warrant, to search and inspect a boat used illegally in fishing, and to seize fish illegally possessed.
+Accordingly, this court is of the opinion that the question of law presented by the bill of exceptions should be decided in order to determine the law to govern in a similar case in accordance with the decision thereon as set forth above as provided in Section 2945.70, Eevised Code. The exceptions of the plaintiff are sustained.
+Exceptions sustained.
+Smith, P. J,, and Straub, J., concur.
