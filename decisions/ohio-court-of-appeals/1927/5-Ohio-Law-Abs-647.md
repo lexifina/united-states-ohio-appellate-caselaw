@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7472"
+decided: "1927-06-13"
+citations: ["5 Ohio Law Abs. 647"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mauck, PJ., and Middleton, J., of the 4th Dist., sitting by designation, with Levine, J., of the 8th District."]
+parties: ["KUKUCZ v. CLEVELAND RY. CO."]
+source_url: "https://static.case.law/ohio-law-abs/5/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8774232
+---
+
+# Kukucz v. Cleveland Ry. Co.
+
+## Majority (MIDDLETON, J.)
+
+MIDDLETON, J.
+Kukuez brought an action in the Common Pleas of Cuyahoga County against the Railway Company, to recover damages for personal injuries and property loss which he claimed he sustained when he was struck by a car of the Railway Co., while attempting, in his Ford sedan, to cross one of its tracks located on Broadway in the City of Cleveland, and at the intersection of said boulevard with Forman Street.
+It was Kukucz’s contention that before he entered upon Broadway, he made the stop required by the city ordinance and looked to see if any street cars were approaching. He saw, in the distance, a street car approaching but believed he had plenty of time to make the crossing and attempted to do so. He claimed that when his machine was on the tracks of the railway company his motor stopped; that he attempted to start it in the proper manner, but was unable to do so, and, looking up the street, he saw the street car coming toward him at a high rate of speed; that he at once attempted to escape from his machine but before he could make his exit the car crashed into it, knocking it across the street and over into an open lot and against a bill board, which was broken by the force of the impact of the machine, but which brought the latter to a stop. He further contended that the street car was going at such a high rate of speed that it travelled five or six hundred feet after the collision before the motorman could bring it to a stop.
+. It is- contended by the Railway Company that Kukuez did not make the boulevard stop-, as he claims, before entering upon Broadway, but drove on its tracks immediately in front of the street car; that said street car was not travelling at an excessive rate of speed but travelling slowly, but by reason of the suddenness with which the plaintiff projected his sedan upon the tracks, its agent was unable to stop the car; that the motorman in charge of the car sounded the gong and whistle, and that he put on the emergency brakes and used every precaution possible to stop the car as quickly as it could be stopped but that the collision could not be avoided and that it occurred solely by the fault of Kukuez, who, it is further contended by the railway company, was driving his automobile while intoxicated.
+The case was submitted to -a jury, which found in favor of the company. In this proceeding Kukuez seeks to reverse the judgment which followed the verdict, on the ground, first, that it is against the manifest weight of the evidence. An examination of the bill of exceptions and the record discloses that the trial under review was the second trial of this case, and that substantially the same witnesses appeared for the parties in both trials. It is urged, with some reason, that the testimony of some of the material witnesses for the defendant company is so different in the trial of the instant ease in certain material matters from what it was in the first trial that their statements should be received with great caution and are, in fact, unworthy of credence. We do not care in this discussion to refer at length to this phase of the proceeding. The jury had the witnesses before them and had opportunities for weighing and judging their credibility which are not possessed by this court. It is sufficient to say that, upon, the record, we would not interfere with the judgment upon this ground.
+A great many other errors are urged here, all of which go to instructions given by the court to the jury either in its general charge or at the request of the defendant company before argument.
+In respect to special instruction number eight, we hold that if the jury believed from the evidence that Kukuez was driving his machine while in a state of intoxication, such condition constituted negligence per se on his part.
+An objection to a certain paragraph in the general charge of the court presents a question of much more serious import.
+The court, in this instruction, first adopts the language of the petition as a specification of negligence charged by the plaintiff and then applies, to such specification, the doctrine of the last clear chance. The plaintiff’s cause of action, as stated in his petition, was based upon the contention that he was on the tracks of the company wholly without any fault on his part and solely by reason of the failure of his machine to operate. Now if this were true the situation so presented afforded no basis for the application of the doctrine of the last clear chance. That doctrine rests wholly upon the humane principle that under certain conditions one who is at fault should be relieved from the result of his negligence when the negligence of another party intervenes to his substantial injury. The instruction correctly stated the law under the rule of the last clear chance but such statement was without any qualification and was both vicious and prejudicial when it was expressly applied to the claim of the plaintiff which claim was predicated upon his contention that he was on the tracks of the company without any fault of his own. We might, if this charge had not been accompanied by the application the court made of it to the claim of the plaintiff, treat it as mere surplusage or stating only an abstract proposition of law, but when given as the law controlling the claim of the plaintiff in the particular named, it was wholly unwarranted and may have deprived the plaintiff of all chance of recovery under that specification.
+Attorneys — J. DeKaiser and M. C. Harrison for Kukucz; Squire, Sanders & Dempsey for Railway Co.; all of Cleveland.
+Judgment reversed.
+(Levine and Mauck, JJ., concur.)
