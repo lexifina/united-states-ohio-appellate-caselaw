@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2308"
+decided: "1955-04-18"
+citations: ["100 Ohio App. 42"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hornbeck and Wiseman, JJ., concur."]
+parties: ["The Edgemont Coal & Cement Co., Appellant, v. Gaylor et al., Appellees, et al."]
+source_url: "https://static.case.law/ohio-app/100/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422526
+cites_cases: ["109 Ohio St., 358", "113 Conn., 74", "124 Ohio St., 331", "125 A. L. R., 457", "138 A. L. R., 1464", "14 Ohio Law Rep., 531", "140 Ohio St., 100", "142 N. E., 883", "154 A., 255", "154 Ohio St., 313", "178 N. E., 586", "193 Wis., 145", "211 N. W., 916", "57 A. L. R., 1218", "82 A. L. R., 768", "96 A. L. R., 594"]
+---
+
+# Edgemont Coal & Cement Co. v. Gaylor
+
+## Majority (Miller, P. J.)
+
+Miller, P. J.
+This is an appeal on questions of law from a judgment of the Common Pleas Court, rendered in favor of the defendants, appellees herein, Robert L. Ashenfelter and Mary Jane Ashenfelter.
+The record discloses that the action was one seeking to foreclose a mechanic’s lien on the defendants’ premises. The legal question presented concerns the validity of the service of a copy of the affidavit filed with the county recorder, such copy having been sent by registered mail to an address which was not the residence of the defendants. The method for obtaining such service is found in Section 1311.19, Revised Code, to wit:
+“* * * or the same may be served by registered letter addressed to such person, and proof that such notice, affidavit, or copy was mailed by registered letter to the last known place of residence of such person, is conclusive proof of service * *
+The record discloses that for some time prior to May 1948, the defendants had resided at 319 Stonemill Road, the address to which the notice was sent; that in May 1948, they moved to 24 Jones Street, and were residing there with a Mrs. Harriet Timmerman, a grandmother of Mrs. Ashenfelter; and that they remained with her until December 31, 1948, at which time they moved to Circle Drive and into the premises on which the lien was sought. The plaintiff received a return receipt for the letter sent to 319 Stonemill Road, which receipt was dated July 12, 1949, and bore the signature of Mrs. Timmerman who was not residing with the defendants at this time. The trial court found in its judgment entry that:
+“* * * the copy of plaintiff’s affidavit for lien mailed to defendants, Robert L. Ashenfelter and Mary Jane Ashenfelter, by registered letter was mailed addressed to them at 319 Stonemill Road, Dayton, Ohio; that defendants, Robert L. Ashenfelter and Mary Jane Ashenfelter, reside in the property upon which plaintiff asserts its hen, to wit: Northern Circle Drive, Mad River Township, Montgomery County, Ohio, at the time plaintiff mailed a copy of its affidavit for lien as aforesaid and had resided at said address since December 31, 1948; that said defendants, Robert L. Ashenfelter and Mary Jane Ashenfelter, did not receive said registered letter; that a copy of plaintiff’s affidavit for lien was not mailed to said defendants by registered letter addressed to them at their last known place of residence as required by law; that the last known place of residence of the defendants within the meaning of Section 1311.19 of the Revised Code of Ohio means not necessarily their last residence known to plaintiff, but means their last residence as a matter of fact, that is, their last residence so far as it is reasonably possible to ascertain the same; the defendants’ actual residence unless they had departed for parts unknown; that a copy of said affidavit for lien was not served upon the defendants, Robert L. Ashenfelter and Mary Jane Ashenfelter, as required by law, and that the lien set up in the second cause of action of plaintiff’s second amended petition is invalid and should be discharged of record.”
+The appellant is contending that the court erred in holding that the last known residence within the meaning of the quoted section of the Revised Code means the actual residence, unless the defendant has departed for parts unknown. They urge that the registered mail notice sent to 319 Stonemill Road was mailed to the last known place of residence of the Ashenfelters and complied with Section 1311.19, under the circumstances and facts disclosed by the record. The question therefore presented is whether the court used the proper yardstick in determining that the notice was not sent to the defendants’ last known place of residence. This question appears to have been passed upon by our Supreme Court in the case of Conner v. Miller, 154 Ohio St., 313, 96 N. E. (2d), 13. At page 323, Judge Taft said:
+“Generally, courts have required very strict compliance with statutory - requirements such as Section 6308-2, General Code, relative to mailing a copy of process to a defendant at his ‘last known address.’ Thus, in 5 American Jurisprudence, 831, Section 591, it is said:
+“ ‘Under a statute requiring a copy of the summons and complaint to be mailed to the nonresident defendant to his last known address, the address is not necessarily the last address known to plaintiff; he is required at his peril to ascertain the last known address of the defendant as a matter of fact. The term “last known address” means the last address so far as it is reasonably possible to ascertain it. ’ See, also, annotations in 138 A. L. R., 1464; 125 A. L. R., 457; 96 A. L. R., 594; and 82 A. L. R., 768.”
+A similar holding is to be found in Hartley v. Vitiello, 113 Conn., 74, 154 A., 255, and in State, ex rel. Cronkhite, v. Belden, Judge, 193 Wis., 145, 211 N. W., 916, 57 A. L. R., 1218. The appellant contends, however, that Section 1311.19, Revised Code, should be given a liberal construction because of Section 1311. 24, which provides:
+“Sections 1311.01 to 1311.24, inclusive, of the Revised Code are to be construed liberally to secure the beneficial results, intents, and purposes thereof; and a substantial compliance with said sections is sufficient for the validity of the liens under said sections, provided for and to give jurisdiction to the court to enforce the same.”
+This statute (Section 8323-8, General Code, now Section 1311.24, Revised Code) has been considered by the Supreme Court in the case of Robert V. Clapp Co. v. Fox, 124 Ohio St., 331, 178 N. E., 586, the first paragraph of the syllabus of which provides:
+“Mechanics’ lien statutes create rights in derogation of the common law and should therefore be strictly construed as to question whether a lien attaches, but their procedural and remedial provisions should be liberally construed, after the lien has been created.”
+Under Section 1311.07, Revised Code, service of notice on the owner is mandatory, and no lien attaches upon failure to comply with such section. Therefore, Section 1311.19, Revised Code, requires a strict construction.
+In Mahoning Park Co. v. Warren Home Development Co., 109 Ohio St., 358, 142 N. E., 883, the court says in the fourth paragraph of the syllabus:
+“The provisions of Section 8312, General Code, wherein certain statements are required to be furnished by an original contractor to an owner, part owner, or lessee, are mandatory; compliance therewith is a condition precedent to the perfection of the lien, and unless complied with the contractor has no right of action or lien against the owner, part owner, or lessee. ’ ’
+See, also, Howk v. Krotzer, 140 Ohio St., 100, at page 113, 42 N. E. (2d), 640, wherein Judge Turner said:
+“We think that the spirit, purpose and letter of the constitutional provision and the mechanic’s lien law authorized thereby call for a strict construction of any provision which limits the right of the lienholder to be paid in full for labor bestowed on or material furnished for an improvement on real estate.”
+In the case of In re Kinnane Co. (Fed. Dist. Ct.), 14 Ohio Law Rep., 531, the court held that in determining the existence of a right to require a lien and the question of compliance with the requisite steps for perfecting it, the mechanic’s lien law must be strictly construed, but liberality is permissible with reference to mistakes and crudeness in procedure.
+We are, therefore, of the opinion that Section 1311.07, Revised Code, requires a strict construction, and that the. court did not err in holding that the defendants were not regularly served with the required notice.
+The judgment is affirmed.
+Judgment affirmed.
+Hornbeck and Wiseman, JJ., concur.
