@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3629"
+decided: "1943-10-02"
+citations: ["74 Ohio App. 136"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnes, P. J., Hornbeck and Geiger, JJ., concur."]
+parties: ["Dusi, Appellee, v. Albanese et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/74/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1377349
+---
+
+# Dusi v. Albanese
+
+## Majority (By the Court.)
+
+By the Court.
+This matter comes to this court on appeal from the judgment of the Municipal Court of the, city of Columbus, Ohio.
+The plaintiff below brought an action against the defendants upon a written and an alleged verbal building contract, in which the plaintiff asserted that he agreed with the defendant to furnish the material and labor and construct a two-story, five-room dwelling house for the total sum of $4,500; that he furnished the labor and material as required by the written contract; and that the defendants paid $4,430, leaving a balance due of $70 on the written contract.
+For a second cause of action, plaintiff asserted that he furnished material and performed labor for extras in accordance with the defendants’ direction, such extras being a fruit room, an extra room on the second floor, weather stripping and screening, amounting in all to $295.34; and that .the total amount due to him was $365.34. The written agreement between the parties was for the construction of a five-room dwelling to be erected in accordance with plans and specifications furnished by the second party, which plans and specifications were declared to be a part of the contract.
+The answer of the defendants denied the indebtedness in any amount, and alleged that, the plaintiff entered into the written contract which provided that the drawings and specifications were a part of the contract ; that such plans called for a six-room house with the fruit room in the basement and for screens and weather stripping; and that the only item referred to in the plaintiff’s petition not covered by the specifications was the screening of the doors.
+Defendants denied that there was any oral contract in reference to extras, but that all extra work was provided for in the written contract, plans and specifications, and they denied that they were indebted to plaintiff in the amount claimed ($295.34) or in any amount whatever.
+Defendants also alleged that the Grandview Lumber Company had filed a lien against the property for $224 for material furnished the plaintiff for the construction of the house, which had not been paid.
+In their cross-petition the defendants said that the plaintiff had not paid the claim of the lumber company for which the lien was filed. To this cross-petition an answer was filed by the plaintiff, which is not material in its allegations.
+A jury was waived and the cause was heard by a judge of the court which rendered judgment on October 2, 1942. The court found for the plaintiff in the sum of $365.34, the entire amount claimed in the petition, and dismissed the cross-petition. The motion for new trial was overruled and judgment rendered.
+Four assignments of error have been asserted:
+(1) The court erred in admitting and considering evidence of an alleged verbal contract which varied and contradicted the terms of the written agreement.
+(2) The court erred in rendering judgment for the plaintiff, for the reason that there was no consideration for the alleged oral contract.
+(3) The court erred in dismissing defendants’ cross-petition.
+(4) The judgment is against the manifest weight of the evidence.
+Lengthy briefs were filed by each party. Much of the difficulty has arisen from the fact that the contract as originally written and signed was for a five-room house with one bedroom and kitchen on the first floor and two bedrooms on the second. This did not meet with the approval of the F.H.A. which was loaning money for the structure. Afterwards, the parties had further consultation' and agreed that the structure should be altered in certain respects, mainly that there should be three bedrooms on the second floor and a kitchen, dining room and living room on the first floor, with some alterations in the basement in the construction of a fruit closet.. The written contract was not modified to provide for the six-room house instead of a five-room house. The original contract was for the completion of a two-story, five-room and one bath dwelling “in accordance with the plans, drawings and specifications for the same prepared and furnished by the party of the second part, which plans, drawings and specifications are hereby declared to be a part of this contract.”
+We are of the opinion that the first assignment should not be sustained as the evidence introduced was not for the purpose of varying the terms of the written contract, but was to provide for the terms of the contract filially adopted for a different structure.
+The second assignment is that the court erred in rendering judgment for the plaintiff for the reason that there was no consideration for the alleged oral contract. Inasmuch as the alleged oral contract provided for a modification of the dwelling, we are of the opinion that there was a consideration for such alleged oral contract, and the assignment is overruled. The record does not disclose a judgment of the court, being merely a copy of the court’s blotter, which discloses the fact that on October 2,1942, “the case called and the court finds for plaintiff for $365.34, interest and costs, cross-petition dismissed.” On the 3rd day of March, 1943, the notation appears, “Motion for new trial overruled. Judgment rendered for plaintiff for $365.34, interest and costs. Cross-petition dismissed.”
+A motion for a new trial was filed on October 5,1942. Notice of appeal from the judgment of October 2, 1942, and from the overruling of motion for a new trial on the 3rd of March, 1943, was filed on March 16, 1943.
+While we do not endorse the form in which the judgment of the court below appears upon the record, yet we recognize the fact that the parties have regarded it as a judgment of the court and will so treat it, but would suggest that if there be any future orders made by the court they be recorded with more formality.
+The third assignment is that the court erred in dismissing the defendants’ cross-petition, which was to the effect that the Grandview Lumber Company has filed a lien against the property for $224 for material furnished to the plaintiff in the construction of the house which has not been paid for. The defendants were not entitled to judgment on the cross-petition for the reason that they had not paid the lien. The obligation rested upon the builder of the house to discharge this lien and nothing in the record shows that the same has been discharged. The lien may be finally asserted against the defendants’ house and if the plaintiff has recovered from the defendants the amount he claims without consideration being given to the lien, the defendants may suffer a loss and at that time would be entitled to recover. The trial court rendered judgment for the plaintiff for the entire amount claimed for the extras and for the unpaid portion of the original contract in the total sum of $365.34. While there is evidence supporting the claim of the plaintiff that the extras were to be paid for, yet we are of the opinion that some of the extras for which the plaintiff claimed payment were clearly carried in the specifications originally made a part of the contract. The plaintiff acknowledged, as will appear from answers to questions, that all that was due to him was $120. We are of the opinion that the court erred in rendering judgment for $365.34, and had the question of the lien not been presented we would hold that the judgment should have been limited to $120, the defendants having paid to the plaintiff as an advance payment two amounts, one $75, and one $5. The amount of the lien being $224, the same being in excess of that which the. plaintiff is entitled to recover, and the lien not having been paid, we are of the opinion that judgment should not have been rendered in favor of the plaintiff until there be a payment of the lien by the plaintiff, and that his action to recover from the defendants until that time was premature.
+The fourth assignment is that the judgment is against the weight of the evidence and should be sustained.
+Judgment reversed without prejudice. • Costs herein incurred will be borne by the plaintiff below.
+Judgment reversed.
+Barnes, P. J., Hornbeck and Geiger, JJ., concur.
