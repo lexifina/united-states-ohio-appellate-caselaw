@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 5807"
+decided: "1940-06-24"
+citations: ["34 Ohio Law Abs. 89"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROSS, J., concurs."]
+parties: ["CAROTA v SCHARE et"]
+source_url: "https://static.case.law/ohio-law-abs/34/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1706543
+---
+
+# Carota v. Schare
+
+## Majority (By MATTHEWS, J.)
+
+OPINION
+By MATTHEWS, J.
+This is an appeal on law from a judgment for money against Joseph Sansone and setting aside a chattel mortgage executed by Thomas Schare, in favor of said Sansone.
+Schare and Sansone were and had been for about 12 years partners doing business as Avondale Fruit Market.
+The plaintiff, Henry Carota and Thomas Schare were and had been friends all their lives.
+In the fall of 1938 the plaintiff had in mind going into the fruit marketing business and was looking for a location. He consulted Schare who advised him that he thought Sansone would sell his one-half interest in the Avondale Fruit Market. The plaintiff thereupon called upon Sansone and received an offer to sell for $3,500, and Sansone stated that if that were the sale price all partnership debts of the Avondale Fruit Market would be paid, so that the plaintiff would obtain a one-half interest free of debts. Later, the price •was reduced with the proviso that the purchaser would assume Sansone’s one-half of the debts, but no agreement •was reached and negotiations between ■the plaintiff and Sansone were discontinued in the fall of 1938 and were never resumed, unless it can be said that they were resumed through the agency óí Schare, as claimed by the plaintiff.
+In the latter part of December, 1938, Schare told the plaintiff that he could get Sansone’s interest for him for $2,000, and in the middle of January, 1939, he repeated that statement. After talking it over, they finally agreed to become partners, and on January 30, 1939, the plaintiff gave Schare his check for $2,000, payable to Schare’s order: The plaintiff trusted Schare to arrange with Sansone for the purchase of his one-half interest and it is clear that Schare was not to .disclose to Sansone that the plaintiff was involved in the transaction. At that time (January 30, 1939) the plaintiff was working at the Aluminum Industries, and he continued to work there for about three weeks when he quit and from that time on until the fall he spent his time at Avondale Fruit Market, assisting in transacting its business.
+Schare deposited the plaintiff’s check in his individual account and used some of it in paying debts due by Avondale Fruit Market. i
+Schare did not disclose to Sansone that he was buying his interest for the plaintiff, but proceeded to negotiate for ’ it as though he were buiying it for himself. They reached an agreement on or about February 2, 1939. The agreement was that Schare would pay all existing partnership debts and • save Sansone harmless therefrom, and would pay Sansone $2,000. Schare did not have available money to pay the purchase price, and they recognized that there would be some delay in making the formal transfer until Schare could get the money by mortgaging his house, so they made an interim agreement under which Sansone attended to the purchase of merchandise for Schare, for which he was to receive $20 per week. Finally, a bill of sale was delivered to Schare transferring Sansone’s interest to Schare, and Schare assumed to pay the partnership debts. The purchase price was $2,000, and as Schare did not have that amount of cash, he gave his note, secured by a chattel mortgage on the partnership assets for a part of the purchase price and other indebtedness to Sansone. This was on May 12, 1939. The creditors were notified of the sale to comply with the Bulk' Sales Law, and notice was published in the Cincinnati Times Star at the time. The chattel mortgage was also duly filed.
+■ During all the time that the plaintiff was at the Avondale Fruit Market prior to May 12, 1939, he never disclosed to Sansone that he considered that he was a partner in the business. On one occasion, prior to May 12, 1939, Sansone questioned him about his status -at the store and the plaintiff told him he was “Just messing around,” and when Sansone said “I see you get some money out of the store and some groceries”’ and asked him: “Do you know you are liable for them?” the plaintiff then said: “1 will tell you what I am doing here, I have two thousand dollars invested in the place, and I am here to watch it.” This took place about March 20, 1939, after the plaintiff had been working at the Avondale Fruit Market for at least a month. It was the only time the plaintiff discussed his relation to the store with Sansone, and it manifests a reluctance on his part to- be frank with Sansone and is in harmony with the arrangement elsewhere appearing in the evidence between the plaintiff and Schare to conceal the fact that the plaintiff and Schare had become partners.
+Now, while the formal transfer of Sansone’s interest to Schare did not take place until about May 12, 1939, and the formal written dissolution of partnership was not executed until about that time, it is clear that Schare and Sansone both regarded the partnership as dissolved from the date of their prior informal agreement, which was on or about February 2, 1939. .
+It is also clear that from about-March 20, 1939, when the plaintiff told Sansone that he was at the store to protect his interest of $2,000 in the store, it is reasonable to infer, in view of the fact that Sansone had known since the preceding fall of the plaintiff’s desire to become Schare’s partner, knew •that he had paid the $2,000 for a one-half interest in the business.
+It is also clear that all three understood that the plaintiff and Schare were to assume and pay the outstanding debts of the Avondale Fruit Market and that Sansone was to be indemnified by both of them against any liability therefore on account of having been a partner at the- time the debts were contracted. This being so, when Schare used the money paid him by the plaintiff to pay existing debts and to buy Sansone’s interest, it was being used for the very purpose intended by the plaintiff. Therefore, there is no basis in fact for imposing any obligation upon Sansone to reimburse the plaintiff for the money thus expended.
+As to the mortgage, it was given to secure the balance of the purchase price. The plaintiff intended that the $2,000 should be used to buy Sansone’s interest and that he and Schare would assume the outstanding debts. And Sansone was not obliged to relinquish his one-half interest until he was paid or secured to be paid. The mortgage was executed to secure such payment with the addition of certain sums paid by -Sansone on the old debts, upon which, he was liable, but as to which Schare and the plaintiff were primarily liable —Schare, by reason of his agreement directly with Sansone to indemnify him —-and the plaintiff, by reason of his agreement with Schare to assume one-half of the debts of Avondale Fruit Market. There was also included in the mortgage $200 due Sansone under his agreement with Schare for services and small' amounts advanced by him.
+It should be said here that the eyidence shows beyond doubt that the plaintiff trusted Schare, and that Schare was his agent in negotiating for Sansone’s interest, and that under the law he must bear whatever damage resulted from Schare's failure to'perform his duty.
+.Our conclusion is, that this chattel mortgage is a valid mortgage as against the plaintiff, but, of course, not as against the then existing creditors of the partnership, and that the court errecj^ in, setting aside and cancelling this mortgage as to the plaintiff.
+For these reasons, the judgment is reversed and judgment rendered fop the appellant.
+ROSS, J., concurs.
+
+## Dissent (HAMILTON, PJ.,)
+
+HAMILTON, PJ.,
+dissenting:
+The mortgage should be held invalid, at least as to those pre-existing debts of the partnership paid out of the money paid to Schare by Carota. The whole transaction reeks with fraud on the part of Schare, by which Carota’s life savings were taken from him and Sansone, Schare’s partner could not have been innocent in the transaction. At least, he shared in the benefit of Carota’s money, as partner, to the extent of the payment of the partnership debts, and is legally and morally chargeable therewith. Sansone should not be permitted to profit thereby. The judgment should be affirmed.
