@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-04-06"
+citations: ["17 Ohio Law Abs. 690"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FARR and LYNCH, JJ,-.Concur in the judgment."]
+parties: ["DAIRYMENS’ COOPERATIVE SALES CO, Inc v FREDERICK DAIRY, Inc et"]
+source_url: "https://static.case.law/ohio-law-abs/17/cases/0690-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657658
+---
+
+# Dairymens' Cooperative Sales Co. v. Frederick Dairy, Inc.
+
+## Majority (By ROBERTS, J.)
+
+OPINION
+By ROBERTS, J.
+It will be observed that as a matter of fact this Triangle Company was paying practically nothing for the purchase of this property, and giving but little, if any, security for the payment of the purchase price. This Triangle Company, admittedly at the hearing here, had assets of about $1,000, which had been derived by something over one hundred of the dairymen paying 5% on twenty shares, or $1.00' apiece, and a large portion of the property was taken care of in this way; that is, where the indebtedness was secured thereon that they simply assigned the indebtedness, so that ability to carry out the terms of this contract was largely a matter of good luck. The balance of the $20.00 shares mentioned was to accumulate in this way, from the milk -check of each dairy man selling milk to this concern, there was to be deducted 25c for each 100 pounds of milk, which proceeding was expected to continue until $20.00 had thus, been paid, a rather uncertain proposition as to whether these' dairymen would retain confidence and satisfaction in this proceeding until this stock had been paid for.
+The bid of Connelly was not very materially different from this, except that in it, or rather in a modification subsequently made to it, he proposed to pay $20,000 cash, which presumably made that bid, or at least in the opinion of this court, better than the bid of the Triangle Company, which was -accepted. While perhaps not very important in view of. the disposition to be made of this case, this court is frank to say that we are not enamored - of-, the Triangle bid, which was accepted. It would practically be unable to pay anything on the purchase-price. It.would depend almost entirely upon the prosperity -of the company in future years, which might enable it to pay expenses and keep up its business and pay this indebtedness.
+It is quite evident that the trial court was not satisfied with these bids, and so expressed itself in a journal entry. • The court was evidently influenced by the period of depression • during-.which this case has continued, the lack of bids and the desirability for the closing- .up of this estate without further delay, and, as we have' suggested, the court provided other safeguards, which were accepted by the bidder.
+It is not- improbable that if this property had been sold at auction for cash that at least some ready money would have been accumulated for the benefit of the creditors. Presumably the reluctance of persons to bid upon this property was largely owing to the depressed condition of the times and the hazardous business of handling milk, which is peculiarly so because cows continue to give milk no matter what the season or the business of the country may be. This court gave considerable attention to the perusal of the bill of exceptions in this case and then discovered that notwithstanding the petition in error had been filed in this case, that the court had proceeded to approve the bid and authorized the conveyance of the property by the receiver to the Triangle Dairy Company, which was consummated in the latter part of June, 1933.
+It was provided in a journal entry by the court that if the D. S. C. Company was dissatisfied and- desired a review to - this court, it might have such upon giving a bond of $10,000, which would be a difficult thing for this organization of dairymen to do, having, then discovered that the property was sold nearly a year ago, transferred and the purchasers doing business with it and largely- unable to be identified. Presumably at this time a choatic and disastrous condition would develop, for this court to endeavor to set aside now that sale and try to get the conditions -back in status quo as they were when the sale was made.
+We read from Clark on Receivers, §518, page 701:
+“A trial judge in equity proceedings .exercising authority over a sale of property in the control of the court, has discretionary power to modify his orders affecting-such sale by subsequent orders. The. chancellor or judge administering equity will protect the rights of all interested and make the sale most profitable to all, and after a sale has once been made, he will certainly before the confirmation, see that no wrong has been accomplished in and by the manner, in which the sale was conducted. ' .
+Yet the purpose of the law is that the sale shall be final; and to insure reliance upon such sales, and induce biddings,' it is essential that no sale be set aside for trifling reasons, or on account of matters which ought to have been attended to by the complaining party prior thereto.
+A judicial sale of real estate will not be set aside for inadequacy of price, unless the inadequacy is so great as to shock the conscience, or unless there are additional circumstances against its fairness.”
+Again.it is said by Clark:
+• “Hence the rule is settled, and it seems to be universally approved, that after confirmation of a judicial sale neither inadequacy of price, nor offers of better prices, nor anything- but fraud, mistake or some other cause, for which equity would avoid-a like sale • between private parties, ■ will warrant a court in- avoiding the confirmation of the sale or in opening the latter and receiving subsequent bids.
+This rule is so firmly established that it is no longer debatable and- the cogent and all sufficient reason for it is that judicial sales would become farces and rational men would shun them and refuse to bid if, after confirmation, unsuccessful bidders or dissatisfied litigants could avoid them and secure new sales by offers of higher prices.”
+Numerous other authorities have been examined upon this- proposition but time' will not be taken to cite them. In view of what has been read from the text book, and quite a number of decisions which have been read, and of the conditions which would follow the setting aside of this sale, although this court is not enthusiastic about it, it would be so disastrous and so harmful that this court is of tire opinion that the best interests of • all concerned in this action would be best conserved by not disturbing this sale,-and with the hope that times may improve,and the sale may terminate in the, end as. most beneficial to all parties, the judgment is-that the judgment of the Court of Common Pleas in this respect is affirmed. •
+Judgment 'affirmed.
+FARR and LYNCH, JJ,-.Concur in the judgment.
