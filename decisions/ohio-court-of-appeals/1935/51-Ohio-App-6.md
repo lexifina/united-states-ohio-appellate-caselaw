@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1935-01-11"
+citations: ["51 Ohio App. 6"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Punk and Stevens, JJ., concur in judgment."]
+parties: ["Montalto v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-app/51/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1347192
+cites_cases: ["117 Ohio St., 481", "118 Ohio St., 487", "124 Ohio St., 174", "159 N. E., 594", "161 N. E., 532", "177 N. E., 271"]
+---
+
+# Montalto v. State
+
+## Majority (Washburn, P. J.)
+
+Washburn, P. J.
+The plaintiff in error will be referred to herein as the defendant.
+On August 31, 1934, an information was filed in the Common Pleas Court, duly sworn to by the prosecuting attorney, charging, under the name of John Doe, that the defendant, in a certain inn in Lorain county, Ohio, “did unlawfully sell intoxicating liquor, to wit, whiskey,” on the 8th day of July, 1934, he not then and there being the holder of a Class D-3 permit issued by the Department of Liquor Control of the state of Ohio, contrary to the statute in such cases made and provided, etc.
+The defendant was the holder of what is known as a Class D-l permit, authorizing him to sell beer at said inn, but was not the holder of a Class D-3 permit.
+The defendant was arrested and arraigned, plead not guilty, and was released upon bond. Thereafter he signed a written waiver, relinquishing his right to a trial by jury, and was tried by a judge of such court, was found guilty, and sentenced to the workhouse in Toledo for a period of four months. The cause is now before this court for review upon petition in error.
+Two principal claims are made: One that the trial judge was disqualified to hear the case because he had prejudged the case, and the other that the sentence pronounced by the court was excessive.
+As to the first claim, the record discloses that, after the defendant had plead not guilty and had waived a jury trial, the cause, being regularly assigned, came on for trial, and that after the trial had begun but before any testimony had been offered, the trial judge, in open court and in the presence of the defendant and his counsel and opposing counsel, said: “I want counsel to understand that this man will be sentenced tomorrow.”
+Counsel for defendant made no reply to said statement and saved no exception with reference thereto, but proceeded with the trial of the case, which was concluded in one day, and the court promptly found the defendant guilty.
+A motion for a new trial was filed the next day, two of the grounds stated therein being that the verdict was contrary to law, and that there were irregularities in the proceedings of the court which precluded the defendant from having a fair trial; and on the following day the motion was overruled and the defendant sentenced.
+There was a conflict in the evidence, but from a consideration of the same we are unable to say that the finding of guilty is manifestly against the weight of the evidence.
+The Constitution of Ohio provides that a party accused of crime shall have the right to a public trial “by an impartial jury,” and of course, when the judge acts in the place of a jury, as the trier of facts, the accused is entitled to a public trial by an impartial judge; that being one of his fundamental rights.
+A prejudiced judge is not an impartial judge. Prejudice means ‘ ‘ prejudgment ” or an opinion formed beforehand, and does not necessarily signify an enmity or ill will against a party. One may have a prejudiced state of mind upon a subject, or against an idea or cause or person, and not recognize that Ms state of mind is one of prejudice; and while one charged with a crime, if a jury is waived, is entitled to a trial by a judge who has not prejudged the case, that right may be waived — even impliedly waived.
+It seems to be settled in Ohio that, where a claim is made that a judgment should be reversed because the judge rendering the same was disqualified from hearing and determining the cause, such disqualification is waived unless objection is made thereto at the earliest available opportunity; and if, after discovering such disqualification, no objection is made or exception taken to his trying the cause, the disqualification of the judge is waived and is not a ground for reversal of the judgment rendered. Tari v. State, 117 Ohio St., 481, 159 N. E., 594; Moore v. State, 118 Ohio St., 487, 161 N. E., 532; State, ex rel. Bowman, v. Commissioners of Allen County, 124 Ohio St., 174, at pages 191 and 192, 177 N. E., 271.
+But where the disqualification is not discovered before the trial but is shown by the conduct of the trial judge at the trial, such failure to object or except does not preclude a reviewing court from considering such matter in connection with the claim of'the defendant that the sentence is excessive.
+As to that claim, the record discloses that the defendant is an Italian by birth; that he has resided in northern Ohio and in Lorain county for many years; that before embarking in the business of conducting the inn in question, his employment had been with organizations doing a foreign exchange and steamship ticket business; that for the five years preceding the depression he was in charge of the foreign department of a branch bank of the Cleveland Trust Company, located at Lorain, Ohio; that during the war he was a member of the Lorain county draft board; and that his engaging in the business of conducting the inn was occasioned by the depression, and was for the purpose of being able to keep his two boys in college.
+There is no testimony in the record indicating even a suspicion that defendant was a bootlegger or had engaged in that business or that he had ever previously been suspected or charged with a violation of the liquor laws or of any violation of law whatsoever.
+The traffic in intoxicating liquors is now a legitimate business, and the law that defendant w;as charged with violating in this instance is primarily a revenue law.
+To authorize the defendant to engage in the business of selling whiskey, he was required to obtain a license from the state and pay a stipulated fee therefor and to purchase his liquor from the state, and for selling without such permit, the law provided a penalty of not less than $100 nor more than $1,000, or imprisonment for not less than 30 days nor more than 6 months, or both.
+By the wide latitude of sentence thus provided, it is evident that the Legislature recognized that there would be some cases where the circumstances were such that a light penalty would be sufficient to protect society, and others where a heavy penalty would be justified.
+There are jurisdictions in the United States where the discretion of the trial court to fix the penalty within the limits prescribed will not be reviewed by the higher courts, and there are other jurisdictions where reviewing courts will determine whether there has been an abuse of that discretion, and if there has been, will afford relief against the same.
+While the rule generally applied may be that a reviewing court will not disturb a sentence as excessive, provided it is within the limits prescribed by law, and there is nothing in the record to show that it was not the result of the exercise by the trial judge of the discretion vested in Mm to determine the penalty (within the limits fixed) which should be assessed, we hold that, if the sentence appears to be very much greater than the proper protection of society demands, and the record justifies the conclusion that the sentence was probably the result of prejudice rather than the exercise of a sound discretion, a reviewing court has the power to relieve against the exeessiveness of the sentence, which may be accomplished by either modifying and reducing it, or by setting the same aside and remanding the cause for resentence.
+We are clearly of the opinion that in this case the sentence was excessive, and that the circumstances are such that the miMmum fine provided would be a sufficient protection to the state and to society; and we cannot interpret the statement of the trial judge, hereinbefore referred to, in the light of what is shown in this record, including the penalty assessed, to mean anything except to indicate a prejudice which probably prevented the exercise of discretion in fixing the penalty, and resulted in a grossly excessive sentence.
+Having reached that conclusion, we deem it our duty, in justice to the defendant, to reverse, not the judgment of conviction, but the sentence of the trial court, and remand the cause to that court for re-sentence in accordance with this opinion, and it is so ordered.
+Cause remanded.
+Punk and Stevens, JJ., concur in judgment.
