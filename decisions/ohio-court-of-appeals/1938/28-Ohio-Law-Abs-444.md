@@ -1,0 +1,28 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2482"
+decided: "1938-12-21"
+citations: ["28 Ohio Law Abs. 444"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["NICHOLS, PJ, and BENNETT, J., concur in the judgment."]
+parties: ["STATE ex ROCHFORD v PRUCHNIEWICZ alias MILLER"]
+source_url: "https://static.case.law/ohio-law-abs/28/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1691340
+---
+
+# State ex rel. Rochford v. Pruchniewicz
+
+## Majority (By CARTER J.)
+
+OPINION
+By CARTER J.
+This cause is before this court on appeal on questions of law. An affidavit in bastardy was filed in the court of Charles W. Martin, Justice of the Peace, Board-man Township, Mahoning County, on July 28th, 1936, wherein Stanley Pruchniewicz, alias Miller, was charged with being the reputed father of the unborn child of Rose Mary Roehford, and a preliminary hearing was held in that court on August 7th, 1936. Pruchniewicz was represented at the hearing by attorney Joseph Julius. In the court of the justice of the peace a plea of not guilty was entered by Pruchniewicz. Following this preliminary hearing in the justice’s court the case was called for trial in the Court of Common Pleas, Mahoning County, on the 21st day of April, 1937, and notice of that fact was sent to Pruchniewicz. On the 19th day of April, 1937, the assignment commissioner notified the complainant, through her attorney, that the case was to be tried on April 20th, 1937. On arriving in court the complainant, with her witnesses and attorney, and there being present Mr. Julius, attorney representing Pruchniewicz, the court made inquiry if he was ready for trial; that he stated to the court that he was unable to secure the attendance of his client, and was advised by the court to call him by telephone, which the evidence discloses that he did in the presence of the court. After the conversation Julius informed the court he could not persuade his client to come to trial and asked to be relieved as attorney, which the court refused, and ordered the trial to proceed. The jury was empaneled and sworn, the trial proceeded with the defendant’s attorney in court, and the jury at the close of the case returned a verdict of guilty as charged, and the court assessed a judgment of two hundred dollars and costs and forfeited his appearance bond. On or about the 16th of November, 1937, the complainant proceeded to collect the judgment through proceeding in aid of execution, and on the 13th day of December, 1937, Pruchniewicz, through his then attorney, Joseph Morgan, filed a pétition to vacate the proceedings in the court of Common Pleas, to which Rose Mary Roehford, through her attorney, demurred, and on hearing the demurrer was sustained on the theory that the petition to vacate did not state a cause of action. An amended petition was filed in February, 1938, and on hearing on the amended petition, and after the introduction of evidence, the court overruled the application and dismissed the petition, and it is from the refusal of the court to grant a new trial that this appeal is taken. The application for vacating the judgment was filed at a subsequent term of court.
+Sec. 11631 provides that the Common Pleas Court or the Court of Appeals may vacate or modify its own judgment or order after the term at which it was made, and then follows in what way these courts may vacate or modify their judgments, there being ten sub-sections thereunder. The court refused to vacate same and grant a new trial. Was the court in error is so doing? By examination of the amended petition we are unable to find any grounds therein stated justifying a vacation of the former judgment and granting a new trial under the provisions of §11631. The evidence does disclose that notice of the trial of a case in the Common Pleas Court was given, and there is no question but that Pruchniewicz had full knowledge that his case was pending in the Court of Common Pleas,
+Sec. 13123, GC, provides that
+“When before the court to which he is recognized to appear the accused pleads not guilty of the charge, or, having been recognized, fails to appear, the court shall order the issue to be tried by a jury. At the trial the examination before the justice shall be given in evidence by the complainant.”
+The evidence further discloses that on the day set for the trial appellant was called by phone and ordered to come to court for trial; that he did not apear as ordered, and there is evidence in the record that he stated at the time he was called by his counsel that he wasn’t shaved, he would have to shave and wasn’t in condition to come to court the way he was, and that friends of his had told him there could be no trial unless the grand jury had indicted him. His counsel further testified “I told him the case was on regardless. I said this is not the type of case that a grand jury most indict before coming to trial; that the case was on for trial and could not be continued, and that he further said he couldn’t come up. He didn’t say he was going to shave and come up. He just said he wouldn’t be here.” Litigants, when ordered into court for trial of their cases have not the discretion to come or not as they may see fit. If such were the case, litigation in courts would be at a standstill. While- there is some evidence that he came as soon as he could and that he did not make the statements as above indicated, we are not in a position to say the trial judge was wrong when he found to the contrary.
+Judgment of the Court of Common Pleas affirmed.
+NICHOLS, PJ, and BENNETT, J., concur in the judgment.
