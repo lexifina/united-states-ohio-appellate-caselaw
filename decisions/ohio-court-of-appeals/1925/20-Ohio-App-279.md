@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1925-05-15"
+citations: ["20 Ohio App. 279"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pardee, P. J., and Funk, J., concur.", ".Judges of the Ninth Appellate District, sitting in place of Judges Sullivan, Vickery, and Levine, of the Eighth Appellate District."]
+parties: ["O’Malley v. O’Malley, Jr."]
+source_url: "https://static.case.law/ohio-app/20/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1850458
+cites_cases: ["101 Ohio St., 522", "103 Ohio St., 321", "108 Ohio St., 280", "12 Ohio St., 320", "130 N. E., 939", "132 N. E., 843", "140 N. E., 515", "16 Ohio App., 27", "17 Ohio St., 166", "18 O. C. D., 145", "2 Ohio App., 108", "28 O. C. D., 461", "33 Ohio St., 99", "37 Ohio St., 353", "38 Ohio St., 538", "50 N. E., 721", "51 L. R. A., (N. S.), 477", "58 Ohio St., 238", "6 Ohio St., 563", "7 Ohio App., 346", "79 Ohio St., 23", "86 N. E., 644", "9 Ohio App., 372"]
+---
+
+# O'Malley v. O'Malley
+
+## Majority (Washburn, J.)
+
+Washburn, J.
+This is a suit to quiet title. It appears by the agreed statement of facts that John A. O’Malley, Sr., died, leaving his widow and four children surviving him, all being of age. He left very little personal property, but he had many tracts of real estate, all of which were mortgaged. He gave to his son Theodore J. O’Malley certain of said tracts of land, which were mortgaged for about $9,500. He gave to his son John A. O’Malley certain other tracts of land, which were mortgaged for approximately $10,000. Theodore was married and had a son under 10 years of age, who was named Theodore, Jr. John was unmarried, but was a prudent and careful man, of full age and good health, with business experience, sound mentally, and not a spendthrift. The question is whether or not Theodore J. O’Malley, Jr., took any estate, contingent or otherwise, by this will.
+The provision we are called upon to construe is as follows:
+“I give, devise and bequeath to my beloved son John A. O’Malley [certain lots] same to be his absolutely and in fee simple. * * * In case my son John A. O’Malley should die leaving no lawful issue of his own body, the property herein bequeathed to him shall go to my grandson Theodore J. O’Malley, Jr., son of my son Theodore J. O’Malley.”
+The cardinal principle in construing a will is to ascertain the intention of the testator, and in ascertaining that intention all of the provisions of the will, and the facts and circumstances surrounding the testator at the time of the making of the will, should be given due consideration.
+If two provisions of the will are apparently inconsistent, they should be reconciled and both given effect, if the language used and the circumstances will warrant the conclusion that by so doing the manifest intention of the testator can be carried out.
+If what the testator attempted to give to Theodore J. O’Malley, Jr., is a remainder, such attempt would be ineffectual, because the testator had already given the whole estate in fee to John A. O’Malley, and it is settled that a remainder cannot be ingrafted on a fee, but, although on the hearing of the case we entertained an opinion somewhat to the contrary, upon further deliberation we are now satisfied that the testator did not intend to give to Theodore J. O’Malley, Jr., an estate which would vest at the death of the testator, but only an estate which might come into being and vest on a future contingency, to-wit, the death of John A. O’Malley without lawful issue of his body; that he did intend that John A. O’Malley should have a vested estate in fee simple, subject to be divested if he should die without lawful issue of his body; that, if at the time of his death John A. O’Malley had lawful issue of his body, his fee would become absolute, and any transfer of his estate, made during his life, would be binding upon his heirs; but that, if he died without lawful issue of his body, his estate would divest and go to Theodore J. O’Malley, Jr., by way of executory devise. Anderson v. United Realty Co., 79 Ohio St., 23, 86 N. E., 644, 51 L. R. A., (N. S.), 477; Parish’s Heirs v. Ferris, 6 Ohio St., 563; Niles v. Gray, 12 Ohio St., 320; Taylor v. Foster, 17 Ohio St., 166; Lapham v. Mar tin, 33 Ohio St., 99; Martin v. Lapham, 38 Ohio St., 538; Piatt v. Sinton, 37 Ohio St., 353; Durfee v. MacNeil, 58 Ohio St., 238, 50 N. E., 721; Briggs v. Hopkins, 103 Ohio St., 321, 132 N. E., 843; and Grandin v. Millikin, 9 Ohio App., 372.
+The case of Niles v. Gray, 12 Ohio St., 320, was recently approved in Patterson v. Patton, 101 Ohio St., 522, 130 N. E., 939, which latter case is reported without opinion, but we have had access to the Supreme Court files in thal case, and find that it sustains the conclusion that we have reached in this case.
+The conclusion above indicated is not in conflict with the following cases, to wit: Hull v. Chisholm, 7 Ohio App., 346; Watkins v. Price, 16 Ohio App., 27; Tracy v. Blee, 22 Ohio Cir. Ct. R., (N. S.), 33, 28 O. C. D., 461; Steuer v. Steuer, 8 Ohio Cir. Ct. R., (N. S.), 71,18 O. C. D., 145; Robraham v. Gregg, 2 Ohio App., 108; Lewis v. Hayden, Unreported Decisions of Eighth District, vol. 20, p. 152.
+It is settled that an absolute power of disposition or alienation' in the first taker defeats a limitation over by way of executory devise. In each of the foregoing cases there was given either expressly or by implication a power of sale or power of consumption in the first devisee, by the exercise of which the limitation over could be defeated, and the limitation over was of that part of the estate not consumed or sold by the first devisee, and in such cases it was found that the two provisions were absolutely irreconcilable, and, a fee in the first devisee being clearly and unmistakably given, the limitation over was rejected as void.
+In the case at bar there is no express power of sale or consumption given to the first devisee, and the express limitation over prevents the implication of such power, and the limitation over is not of the part of the estate remaining after the exercise of such power, but embraces the whole estate, of which the first devisee may be divested by the happening of the contingency named.
+In the event of the contingency happening, that of John A. O’Malley dying without lawful issue of his body, then Theodore J. O’Malley, Jr., will take an estate by devise from said testator. Rings, Adm’r., v. Borton, 108 Ohio St., 280, 140 N. E., 515. Therefore we cannot grant the prayer of the petition to quiet title as against him., and the petition is therefore dismissed at the costs of plaintiff.
+Petition dismissed.
+Pardee, P. J., and Funk, J., concur.
+.Judges of the Ninth Appellate District, sitting in place of Judges Sullivan, Vickery, and Levine, of the Eighth Appellate District.
