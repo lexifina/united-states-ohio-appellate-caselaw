@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-900305"
+decided: "1991-06-26"
+citations: ["73 Ohio App. 3d 668"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gorman, P.J., Shannon and Hildebrandt, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. SMITH, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/73/cases/0668-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1473020
+cites_cases: ["1990 WL 120111", "20 OBR 215", "20 Ohio App.3d 172", "24 O.O.3d 150", "381 N.E.2d 184", "434 N.E.2d 1356", "457 U.S. 31", "485 N.E.2d 717", "49 Ohio App.3d 24", "55 Ohio St.2d 261", "550 N.E.2d 206", "70 Ohio St.2d 79", "9 O.O.3d 401"]
+---
+
+# State v. Smith
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant-appellant Evelyne F. Smith has taken the instant appeal from her conviction of four counts of theft in office. On appeal, Smith presents three assignments of error in which she challenges the sufficiency of the evidence adduced at trial to support her convictions and the balance struck by the trial court, sitting as the trier of fact, in weighing the evidence before it.
+The charges against Smith arose in connection with an investigation conducted by the Hamilton County Sheriffs Office at the behest of the State Auditor’s Office into allegations of irregularities within the Hamilton County Veterans Service Commission (“VSC”), where Smith served as an administrative assistant. The investigation disclosed a paper trail of credit purchases by Smith of various personal items on VSC’s commercial accounts with several retailers. When confronted with this evidence, Smith admitted to the investigators that her inability to obtain credit in her own name had prompted her, on numerous occasions, to exercise her authority as a signatory on VSC’s credit accounts to purchase personal items. She stated that, when she was financially able, she intercepted and paid the vendor’s invoices out of her own funds. She confessed, however, that when faced with financial difficulties in the summer and fall of 1988, she submitted invoices for personal items to the county auditor for payment by the county, using vouchers that falsely represented that the amounts were expended for office furniture and supplies to disguise the personal nature of the purchases. Smith also told the investigators that all VSC expenditures were noted on a “General Fund” ledger that she kept on her desk, and that she kept track of county expenditures for her personal purchases, with the intention of repaying them, by highlighting those items in yellow.
+In March 1989, the Hamilton County Grand Jury returned an indictment charging Smith with five counts of theft in office. In September 1989, a second indictment was returned, containing an additional charge of theft in office. The indictments were subsequently joined, and the charges were tried to the court. At the close of the state’s case-in-chief, the trial court granted Smith’s motion for judgment of acquittal on the second indictment. At the close of all evidence, the court found Smith guilty on counts one through four and sentenced her as appears of record, and this appeal ensued.
+R.C. 2921.41 proscribes theft in office as follows:
+“(A) No public official * * * shall commit any theft offense, as defined in division (K) of section 2913.01 of the Revised Code, when either of the following applies:
+“(1) The offender uses his office in aid of committing the offense, or permits or assents to its use in aid of committing the offense;
+“(2) The property or service involved is owned by * * * a county * *
+Theft, as proscribed under R.C. 2913.02, is included in the definition of a “theft offense” set forth under R.C. 2913.01(E) and constituted the theft offense underlying the theft-in-office charges for which Smith was indicted. R.C. 2913.02 provides in relevant part:
+“(A) No person, with purpose to deprive the owner of property or services, shall knowingly obtain or exert control over either the property or services in any of the following ways:
+(t * # *
+“(3) By deception^]”
+Smith contends in her first assignment of error that the state failed to adduce evidence sufficient to prove that she obtained or exerted control over property of the county by deception. We find no merit to this contention.
+R.C. 2913.01(A) defines “deception” as “knowingly deceiving another or causing another to be deceived by any false or misleading representation, by withholding information, by preventing another from acquiring information, or by any other conduct, act, or omission that creates, confirms, or perpetuates a false impression in another, including a false impression as to law, value, state of mind, or other objective or subjective fact.”
+With respect to counts one through four of the indictment, the state introduced into evidence: (1) itemized invoices from retailers to VSC reflecting Smith’s purchase of personal items on YSC’s accounts; (2) vouchers completed by Smith and submitted to the county auditor for payment, which falsely represented that the listed expenditures were for office furniture or supplies; (3) vendors’ invoices that Smith submitted with the vouchers, which bore only the dates of purchase, invoice numbers, and amounts; (4) warrants issued by the county auditor for payment on each voucher. Smith asserts that the evidence adduced on the element of deception was insufficient as a matter of law when the VSC “General Fund” ledger, on which she had highlighted all but one of the county’s expenditures for her personal purchases, was kept on her desk and thus was always available to anyone who wished to examine it. We are unpersuaded.
+In State v. Baumgarden (1988), 49 Ohio App.3d 24, 550 N.E.2d 206, the Twelfth District Court of Appeals overturned the appellant’s conviction of theft by deception upon its determination that no reasonable trier of fact could have found for the state on the element of deception when the appellant, who had written thirty-five checks to himself on his company’s account, always recorded the checks on the company’s books and thereby “created an accounting and auditing trail anyone might follow.” Id. at 25, 550 N.E.2d at 207. We find Baumgarden, supra, to be factually distinguishable from the instant case.
+Smith conceded that she falsely represented on the vouchers submitted to the auditor that the listed expenditures were for office furniture and supplies to conceal the personal nature of her purchases. This evidence of deception is in no way mitigated by her practice of highlighting the ledger items representing the county’s expenditures for her personal purchases. Although the ledger was kept on Smith’s desk, available to anyone who wished to examine it, the ledger did not create an “accounting or auditing trail that anyone might follow” when the significance of the highlighted items was known only to Smith. See State v. Faulkner (Aug. 20, 1990), Preble App. No. CA89-04-007, unreported, 1990 WL 120111.
+We hold that, upon the evidence adduced at trial, reasonable minds could have reached different conclusions as to whether the essential element of deception had been proven beyond a reasonable doubt. See State v. Thomas (1982), 70 Ohio St.2d 79, 24 O.O.3d 150, 434 N.E.2d 1356. Therefore, we overrule the first assignment of error.
+Smith, in her second and third assignments of error, challenges the trial court’s denial of her Crim.R. 29 motion for acquittal and the balance struck by the trial court in weighing the evidence adduced at trial. Neither challenge is meritorious.
+We find that the trial court properly overruled Smith’s Crim.R. 29 motion when, upon the evidence adduced at trial, reasonable minds could have reached different conclusions as to whether each material element of the crime of theft in office had been proven beyond a reasonable doubt. See State v. Bridgeman (1978), 55 Ohio St.2d 261, 9 O.O.3d 401, 381 N.E.2d 184. With respect to Smith’s challenge to the weight of the evidence to support her convictions, we find nothing in the record of the proceedings below to suggest that the trial court, in resolving the conflicts in the evidence, lost its way or created such a manifest miscarriage of justice as to warrant the reversal of Smith’s convictions. See Tibbs v. Florida (1982), 457 U.S. 31, 102 S.Ct. 2211, 72 L.Ed.2d 652; State v. Martin (1983), 20 Ohio App.3d 172, 20 OBR 215, 485 N.E.2d 717. We, therefore, overrule Smith’s second and third assignments of error.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Gorman, P.J., Shannon and Hildebrandt, JJ., concur.
