@@ -1,0 +1,24 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-03-20"
+citations: ["45 Ohio App. 347"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Williams, JJ., concur."]
+parties: ["The Connecticut Mutual Life Ins. Co. v. Bowe et al."]
+source_url: "https://static.case.law/ohio-app/45/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336719
+---
+
+# Connecticut Mutual Life Ins. v. Bowe
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+This action is in this court on appeal by the plaintiff, the Connecticut Mutual Life Insurance Company, from a judgment of the court of common pleas in favor of George Plantz, one of the defendants. The only question here presented is whether a real estate mortgage of the plaintiff or a chattel mortgage of Plantz is a prior lien upon certain property owned by the defendant, Roulif F. Bowe.
+On and prior to January 31, 1896, Henry Bowe, father of Roulif F. Bowe1, was the owner in fee simple of certain farm lands in Sandusky county. On that date he executed an oil and gas lease to W. W. and F. J. Bowe. Later, by assignment, the lease reverted to Henry Bowe, who thereafter drilled certain oil wells on the land owned by him, and placed and erected thereon the equipment incident and necessary to their operation. Henry Bowe died in 1917, and his son, Roulif Bowe, became, by inheritance, the owner in fee simple of the land in question. On December 8, 1926, Roulif executed a chattel mortgage on the equipment, placed on said land by his father to secure the payment of a promissory note for $500, which sum had been loaned to him by the defendant Plantz. This chattel mortgage was on file in the recorder’s office of San-dusky county uncanceled and unpaid on June 15, 1927, when the real estate, without specific mention therein of the equipment covered by the chattel mortgage, was mortgaged by Roulif F. Bow'e to the plaintiff to secure a promissory note for $8,400, maturing on June 15, 1932. The chattel mortgage, not having been refiled, as required by law, became dormant. Thereafter to renew the same, and as security for the same debt, Roulif F. Bowe, on April 6, 1932, executed and delivered to the defendant Plantz the chattel mortgage here in question covering the same equipment described in the first chattel mortgage. This latter mortgage, which was also filed in the recorder’s office, contained no reference to the first chattel mortgage, nor to the fact that it was given to renew the security for the unpaid loan secured thereby. The plaintiff did not file its mortgage as a chattel mortgage, nor did it have notice or knowledge of the chattel mortgage theretofore given to Plantz. The property was described in the chattel mortgage as: “One S. M. Jones, 16 horse power gas engine; one push and pull power made at St. Mary’s, Ohio, tubing rods, casing and pipe in 7 oil well. All lead lines, rod lines, one 50 barrel oil tank and all tools used in the operating of the oil lease hereinafter described. The oil right is not included, and all the above is located on farm owned by the mortgagor, being in the west half (V2) of the southwest quarter (%) of section seventeen (17) Scott Township, Sandusky County, Ohio, being about 63 acres of land.”
+It is agreed that the tools referred to in the foregoing description relate “to loose tools used in taking care of the property and are chattels not claimed by the plaintiff.” All of. the other property described therein is more or less substantially affixed to the realty, but could be severed therefrom without material injury thereto, but having-been so erected and placed there by Henry Bowe, the then owner thereof, it became a part of the realty until removed therefrom, unless it was otherwise agreed by others having or acquiring an interest therein. We have not here a question relating to the possession and ownership of trade fixtures as between landlord and tenant, but a question as to whether a mortgagee of chattels or a mortgagee of real estate has a prior lien upon fixtures attached to real estate by the predecessor in title of the owner who gave the mortgages. It seems to us sufficient to say that, since the fixtures were placed upon and attached to the realty by the owner, and plaintiff had no notice of any claim that they were not to be considered a part of the realty, the description in the mortgage to plaintiff included the fixtures, and that therefore, especially in view of the failure to refile the first chattel mortgage, whereby whatever lien was thereby created lapsed and became void, at least as to third parties, the lien of plaintiff must be held to precede in priority that of the defendant Plantz.
+Decree accordingly.
+Richards and Williams, JJ., concur.
