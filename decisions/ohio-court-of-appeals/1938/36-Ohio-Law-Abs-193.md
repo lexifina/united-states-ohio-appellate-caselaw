@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2514"
+decided: "1938-12-30"
+citations: ["36 Ohio Law Abs. 193"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["NICHOLS and CARTER, JJ., concur."]
+parties: ["TOROK v STAMBAUGH-THOMPSON CO."]
+source_url: "https://static.case.law/ohio-law-abs/36/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1711036
+cites_cases: ["126 U. S., 91", "142 N. W., 400", "97 S. E., 316"]
+---
+
+# Torok v. Stambaugh-Thompson Co.
+
+## Majority (By BENNETT, J.)
+
+OPINION
+By BENNETT, J.
+This is an action for damages for personal injuries suffered by the plaintiff in a fall upon a stairway in the Mahoning Avenue store of the defendent in Youngstown. The plaintiff had entered the store to purchase some red paint with which to paint a metal roof. The defendant’s store manager, Mr. Hossel, was personally waiting upon the plaintiff and took Mr. Torok to the rear of the store to look at a color chart. Hossel’s testimony is that Mr. Torok thought the suggested color too bright, that Hossel then ceiled the plaintiff over to look through a rear window at several roofs which had been painted with this same paint, and that while they stood at the top of the stairs looking through the window and discussing the matter, the plaintiff lost his balance or took a step and fell down the stairway. The plaintiff’s story was that Hossel took him to the window so fast “he don’t give me a chance to breathe”, and that in the step or so toward the window he stepped into the open stairway.
+The specifications of negligence in the petition are (1) failure to post warning signs, (2) failure to guard the open stairway, and (3) failure to have hand rails on either side of the stairway.
+The jury gave the plaintiff a $2,500 verdict on which judgment was entered.
+The appellant contends that there was no evidence of any negligence on its part in any of the respects alleged. We will dismiss the posting of signs as immaterial in any event. On the plaintiff’s own story he would not have seen any signs if there had been any, and there is no evidence that the absence of signs had any causal connection with his injury. As to guarding the stairway, we can not say that a finding by the jury that in the exercise of ordinary care this stairway should have been guarded, is against the manifest weight of the evidence. As we see it, the presence of stairways from one floor to another in merchantile establishments is of course an expected condition -of such premises. Where they are out in the open and obvious to customers using the premises and in a place where they would be expected, it would not be necessary in the exercise of due care, to have them guarded by railings or gates. However, when they are behind counters on which merchandise is displayed for inspection by customers and particularly where they are hidden from view by these counters, it is easy to see the possibility of danger to customers whose attention might be focused on the merchandise or other matters on the exclusion of an opening in the floor which one might not expect to be there. We believe that a jury question existed in the present case as to this specification of negligence and cannot say that a finding against the defendant was against the manifest weight of the evidence.
+The third specification of negligence is,
+“In failing and neglecting to have any hand rails or wall rails on either side of said stairway from the top step to the bottom of said stairway in violation of the statutes in such cases made and provided, being known as §1006 GC.”
+There is unquestioned evidence that there was a handrail on the south side of the stairway. The plaintiff testified that he did not notice it but it is not seriously contended that it was not there. There is no evidence to the effect that this railing did not comply with the statutory specifications. Consequently, the plaintiff 'must fail on this specification of negligence if it is to be limited to the statutory requirement of one hand rail or be limited by the language above quoted from the petition that there was not a rail on either side.
+The court, however, charged as follows: . ..
+“Included in the duty of ordinary care owed by the proprietor of shops and stores is the duty to comply with a statute enacted by the legislature of this state, which provides:
+‘In store, proprietor thereof shall provide and maintain for all stairs or stairways for ingress or egress a substantial handrail extending from the top to the bottom thereof, and firmly fastened to the wall or other support, or partition at the side of such stairs. Such handrail shall be constructed of wood not less than one and one-half inches wide and two and one-half inches thick, or of iron not less than one and one-half inches in diameter.’ With respect to the application of this statute to the situation -you have under investigation, you will consider whether, in view of the physical conditions existing, ordinary care required a railing on both sides of the stairway, if so, whether its absence had any connection as a proximate cause to the injury received by the plaintiff.”
+We believe that the statute requires one hand rail and a failure to furnish one would be negligence per se as to any injury caused by such failure to one of the class of persons intended to be protected by the statute. We believe also that in addition to the statutory duty there may be a common law duty of due care to furnish rails on each side. For instance, on steep stairways with very narrow steps and high risers it might be necessary in the exercise of ordinary care for a storekeeper to furnish his customers with a hand rail on both sides.
+Defendant’s counsel argue that the statute was not meant to protect people from falling but was intended only to give people who needed it an aid in going up or down stairs. This purpose they deduce from the fact that only the one rail is required. But we believe the contrary is shown by the liability provisions of §1008 GC. And such common law duty to furnish handrails as may exist, we believe arises in part from a consideration of the possibilities of tripping, stumbling and falling in the use of stairs.
+The plaintiff in his petition pleaded only the statutory duty as to stair railings and did not rely upon any common law duty. However, our understanding of the rule in this state is that the court may charge any matter properly raised by evidence which has been admitted without objection, even though the evidence is outside of the issues raised by the pleadings.
+29 O. Jur., Negligence, §234.
+The purpose of requiring handrails is not the protection of people who walk into open wells, but, on the other hand, the possibility of tripping in the use of the stairway exists on the top step as well as on lower steps.. Obviously, also, questions arise as to whether the lack of a second rail was the proximate cause of such an accident.
+The stairway in question was narrow. There was no testimony as to such heavy use of it as to make a second rail necessary because of user. There is no testimony as to the physical construction other than the pictures introduced by the defendant. Although in common with photographs taken with a camera which is pointing up or down, these pictures show some distortion,. they also show reasonably wide “treads” and reasonably low “risers”.
+It will be noted that the court in the charge apparently based the question of the second rail on the statute. While we feel this was incorrect, it would not be prejudicial error if in fact a question existed as to a common law duty to install a second rail. If a jury question existed it could make no prejudicial difference whether the jury were told that the source of the duty came from statute or common law.
+However, we do not find testimony in the record which would, in our opinion, justify the court’s submission to the jury of the unpleaded question of a common law duty to provide a second hand rail. And we further do not find sufficient evidence in the present record which would have justified submission to the jury of the question of whether the absence of such a handrail was a proximate cause of the injuries. The burden is on the plaintiff as' to such an issue and we note nothing in the testimony relative to it which is not entirely in the realm of speculation.
+Beasley v Presti, 8 Abs., 104.
+The court is not in unanimous agreement as to the weight of the evidence on the issue of contributory negligence, and in view of the fact that the case will in any event be retried, we refrain from further comment as to the present record on this issue. We do wish to comment, however, on one aspect of the question which is here presented.
+Defendant’s counsel argue that the fact that Torok’s attention may have been diverted from the stairway would be no excuse for failing to look where he was stepping when the open stairway was right in front of him and object to the court’s charge on the matter of distraction, both, they say. because it is wrong in its own right and because the distraction was not pleaded. What we have said above in connection with the discussion about handrails is applicable to the failure to plead it. We believe also that the charge was substantially correct as given.
+“Circumstances may exist under which forgetfulness or inattention to a known danger may be consistent with the exercise of ordinary care, as to where the situation requires one to give undivided attention to other matters, or is such as to produce hurry or confusion or where conditions arise suddenly which are calculated to divert one’s attention momentarily from the danger.”
+45 Corpus Juris, Negligence §509.
+Kane v Northern Central Railway, 126 U. S., 91.
+Wheeler v Sioux Paving Brick Company, 142 N. W., 400, 406 (Iowa, 1913).
+Charlottesville v Jones, 97 S. E., 316, 324 (Va., 1918).
+“To determine whether person injured is in the exercise of ordinary care, excitement, confusion and danger of situation must be t- ken into consideration.”
+Interstate Motor Freight v Girard, 29 Oh Ap 101.
+The appellant contends that error was committed in the exclusion of testimony offered in rebuttal. The question as to whether the field in question had been adequately covered was really a matter of discussion for the trial judge, and while we believe that we ourselves would have permitted the. questions because of the preceding permission to the plaintiff to reenter this field, we cannot say that the court committed prejudicial error in refusing it.
+If the plaintiff’s story were believed by the jury, the amount of the verdict is not clearly and manifestly excessive.
+The judgment is reversed and the case remanded for retrial for the reasons hereinbefore stated.
+NICHOLS and CARTER, JJ., concur.
