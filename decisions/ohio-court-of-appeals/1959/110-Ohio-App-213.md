@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "324 and 325"
+decided: "1959-11-12"
+citations: ["110 Ohio App. 213"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wiseman, P. J., and Kerns, J., concur."]
+parties: ["Maddox, Exr., Appellee, v. Reser et al., Appellants. Greisheimer et al., Appellees, v. Reser et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/110/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1439464
+cites_cases: ["20 Ohio St., 81"]
+---
+
+# Maddox v. Reser
+
+## Majority (Crawford, J.)
+
+Crawford, J.
+These appeals concern two cases containing three causes of action. It is agreed by counsel that our decision in one cause will determine all three.
+In case No. 325 plaintiffs, appellees herein, Russell Greisheimer and Bernice Greisheimer, as devisees under the will of Owen L. Brown, deceased, claim a life estate in a farm of 274.5 acres of land in Clinton and Fayette Counties and the right to immediate possession thereof. They allege that the defendants, appellants herein, Forest and Evelyn Reser, have unlawfully kept them out of possession since July 28, 1955 (the date of death of Owen L. Brown). They also allege that defendants have failed to account to them for rents and profits. The prayer is for possession and accounting.
+Defendants, by way of a first defense in their answer, admit their possession but otherwise deny generally the allegations of the petition. As a second defense they allege execution of a land sale contract between decedent as vendor and defendant Evelyn Reser, as purchaser, dated October 13, 1954; they further allege their own performance and right to retain possession. The single prayer of the answer is for dismissal of the petition.
+The reply, except for certain irrelevant matters stricken by the court, denied the allegations as to the land sale contract and defendants’ full payment and performance thereunder. No other defenses to the contract were alleged.
+The evidence established the due execution and probate of the will of Owen L. Brown, deceased, dated April 30, 1954, and of two codicils thereto dated September 28, 1954, and July 15, 1955. The codicils are irrelevant to the issues here except as they republish and affirm the will.
+Item 13 of the will devised a life estate in all the testator’s real estate, without specific description, to plaintiffs, Russell and Bernice Greisheimer, husband and wife, “the latter being a niece of my deceased wife.”
+The evidence also discloses that defendants were farm tenants of the testator, residing with him in the residence located upon the farm in question and operating the same as farm tenants.
+The land sale contract provides that defendants shall pay for the premises and for vendor’s personal property located thereon the sum of $25,000 upon the following terms: “One thousand ($1,000) dollars in cash upon execution of this agreement, the receipt whereof is hereby acknowledged by the vendor, and the sum of $24,000 to be paid to the fiduciary of the vendor’s estate within sixty days after the date of the death of the vendor and the appointment of a fiduciary for the administration of his estate.”
+The contract further provides that the defendants shall operate the farm on the customary “ground rent” or “half and half” plan. It provides as further consideration that defendant Evelyn Reser shall: (1) Continue to act without charge or expense as attorney in fact for vendor, traveling and carrying on his business and providing for his care and comfort; (2) take care of two dogs and three cows belonging to the vendor as long as such animals shall live; (3) care for and decorate twice each year the graves of vendor and his wife; and (4) take care of the yard and furnace at vendor’s residence during his lifetime.
+One of the witnesses to the land sale contract was asked upon cross-examination if he had not served as an appraiser in the vendor’s estate and what value he had placed upon the farm. Over the objections of defendants he answered that he had so served and had expressed an opinion that the land was worth $333 per acre.
+The only attacks made upon the contract in the course of the trial were inadequacy of consideration, which had not been pleaded, failure to make the down payment of $1,000, and failure to make or tender the balance of $24,000. •
+The two witnesses to the contract testified that they did not .actually see the payment of the-thousand dollars in cash. However, as previously observed, the vendor expressly acknowledged its receipt in the contract itself. Upon motions of plaintiffs for judgment and for directed verdict, which followed the close of defendants’ evidence, this limited negative evidence will not prevail against the positive written admission in the contract.
+Likewise, as against the motions, proof of tender of the unpaid balance of $24,000 is adequately proven, if, indeed, tender had not been excused by the executor’s disclaimer of the contract.
+At the trial, the court proceeded first, with the consent of counsel, to determine what were referred to as the equitable defenses of the defendants under the contract. After defendants rested their case, plaintiffs moved for judgment, and the court granted the motion, dismissing the second defense which alleged the contract.
+Thereupon, a jury was empaneled and the court, upon motion of plaintiffs, directed a verdict for them and against defendants upon, the first defense, which was, in effect, a general denial except for admission of defendants’ possession. Although the evidence was apparently not re-presented in the presence of the jury, counsel seem not to question the procedure, but only the conclusions reached by the court.
+Judgment for plaintiffs and against defendants in ejectment was thereupon entered and the cause of action for accounting continued. The evidence on the accounting is not contained in the bill of exceptions. In this phase of the case the court found for plaintiffs and against defendants in the sum of $13,736.39 and entered judgment for that amount.
+The court, upon motion, stated his conclusions of fact and of law in both aspects of the case. From these it appears that he followed the theory of plaintiffs that they as devisees were already in the fullest sense of the word owners and entitled to possession unless and until defendants sought and obtained affirmative equitable relief under their contract by suit for specific performance or otherwise.
+We believe this approach to be erroneous. Ejectment is an action at law based upon a claim of legal right to possession. 18 Ohio Jurisprudence (2d), 652, Ejectment, Section 1. Defendants responded with a claim of legal right .to possession in themselves under the contract.
+They did not ask affirmative equitable relief. Nor need they do so as a prerequisite to asserting their possessory rights.
+To be sure, if, as in many cases, some of which are cited to us, the purchaser had not yet acquired possession under his contract, he could claim no right to immediate possession until he had established it by proper action. But in our present case the purchaser already has possession, and proves her contract in support of her right thereto. It is unnecessary that she take action to obtain that which she already has.
+The contract gives rise to rights both legal and equitable. It has been said that all considerations, both legal and equitable, may be raised in defense of an action in ejectment. (18 Ohio Jurisprudence [2d], 653, Ejectment, Section 2.) The fact that the answer does not pray for equitable relief specifically, does not prevent defendants from claiming possessory rights under their contract, whether they be denominated legal or equitable.
+But in any event, by agreement, the court, rather than the jury, considered the evidence of the contract. From his separate findings of fact and of law it appears that subjects were explored which would be appropriate only if defendants had been seeking equitable enforcement of their contract. Perhaps foremost among these questions was that of consideration. The court said that the consideration was so grossly inadequate and disproportionate as to shock his conscience.
+Defendants appropriately point out that adequacy of consideration was not in issue. If such an issue is to be relied upon in defense against a contract it is an affirmative defense which must be pleaded. 31 Ohio Jurisprudence, 741, Pleading, Section 175.
+Neither was there any claim of incompetence of the vendor, or of any fraud or undue influence, nor any denial of vendor’s execution of the contract.
+Defendants pleaded a right of possession under their contract. And they produced prima facie evidence of the existence and validity of the contract and of their own performance or tender of performance. Their right of continuous possession is clearly implied in the contract.
+“Generally speaking, whatever shows that the plaintiff is not entitled to the immediate possession of the premises claimed constitutes a good defense to the action of ejectment. If legal title is in the plaintiff, the defendant, to defeat a recovery, must show a right of possession in himself.” 18 Ohio Jurisprudence (2d), 668, Ejectment, Section 22.
+“The possession of the defendant must be unlawful, and therefore ejectment will not lie where the defendant is in possession pursuant to an effective agreement with the plaintiff.” 18 Ohio Jurisprudence (2d), 668, Ejectment, Section 21.
+“When parties exchange land and enter into, possession under a contract to deed to each other at a particular day, neither can maintain ejectment against the other without notice, and an offer to rescind the contract.” Maynard’s Lessee v. Cable, Wright, 18, the first paragraph of the syllabus.
+And see Hornback v. Cincinnati and Zanesville R. R. Co., 20 Ohio St., 81.
+The contract does not, as plaintiffs contend, constitute an attempted revocation of Item 13 of the will, and there appears no question that they acquired legal title. But the testator remained at all times free to enter into a valid and binding contract affecting the land which he owned. This he has done. The will is not effective to devise or bequeath more than he owns at the time of his death.
+The evidence must of course be liberally construed in favor of the party against whom motions for judgment and for directed verdict are made. Defendants established a prima facie defense, based upon their contractual right to possession. It is our opinion that the granting of these motions was prejudicially erroneous.
+Defendants having established a prima facie right to continuous possession, there was no basis for granting an accounting against them. Hence the money judgment was prejudicially erroneous.
+This disposes of all the assignments of error except that which complains that “the court erred in considering testimony of plaintiffs ’ witness taken out of order by stipulated consent of defendants’ counsel.”
+While this testimony is mentioned by the court in his special findings, it is passed over lightly, and apparently did not form the basis of his conclusions. We must therefore presume that the court acted regularly with respect to it.
+The other case before us, No. 324, is referred to as a replevin action. In it plaintiff, appellee herein, as executor, sued the same defendants, appellants herein, for conversion of the personal property of vendor located on the farm and included in the contract. The judgment for plaintiff therein granted is equally erroneous for similar reasons.
+The judgments are reversed and the causes are remanded to the Court of Common Pleas for further proceedings according to law.
+Judgments reversed.
+Wiseman, P. J., and Kerns, J., concur.
