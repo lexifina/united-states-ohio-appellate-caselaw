@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "22122"
+decided: "1951-04-30"
+citations: ["61 Ohio Law Abs. 242"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HURD, J, THOMPSON, J, concur."]
+parties: ["GLASSMAN, Plaintiff-Appellee, v. GLASSMAN et, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/61/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1763000
+cites_cases: ["104 Oh St 7", "139 Oh St 36", "144 Oh St 289"]
+---
+
+# Glassman v. Glassman
+
+## Majority (By SKEEL, PJ:)
+
+OPINION
+By SKEEL, PJ:
+■ This appeal comes to this court on questions of law from a judgment entered in the trial court for the plaintiff.
+The plaintiff filed her petition seeking separate maintenance and support and custody of the minor children of the parties. Personal service was had upon the defendant. The grounds alleged as the basis for separate maintenance and support was gross neglect of duty and abandonment without good cause.
+The trial court found that the plaintiff had established, by sufficient evidence, the right to separate maintenance, support and custody of the minor children. Whereupon a decree was entered by which judgment was rendered in favor of the plaintiff in the sum of $3150.00 as for unpaid alimony pendente lite, and attorney fees, an order that the defendant pay plaintiff the sum of $90.00 per week as alimony and support for herself and children, and to assume necessary dental expenses for the children. The court further ordered that, as alimony, the defendant should transfer to plaintiff his one-half interest in the family dwelling house.
+The error complained of by the defendant is that the award of defendant’s one-half interest in the dwelling house constituted a division of property and that, in a proceeding for alimony and separate support, under the provisions of §11997 and §11998 GC, such an award is contrary to law.
+Sec. 11998 GC in part provides:
+“Upon satisfactory proof of any of the charges in the petition, the Court shall make such order for the disposition, care and maintenance of the children of such marriage, if any, as is just, and give judgment in favor of the wife for such alimony out of her husband’s property as is equitable, which may be allowed to her in real or personal property, or both, or in money, payable either in gross or by installments * * *.”
+This section clearly provides that in granting separate support to the wife under §11997 and §11998 GC the court may allow alimony payable in real or personal property, or both, or in money. It may also be made payable in gross or by installments.
+We have not been afforded the benefit of a bill of exceptions, it being claimed that the error complained of is demonstrated on the face of the record. From an examination of the court’s order it is shown that the court granted, as alimony, the defendant’s one-half interest in the family dwelling as well as weekly payments in money. Such an award'is not a division of property as claimed by defendant. Unquestionably the court found that providing the plaintiff the right to the family dwelling as a place to live was more desirable than increasing the money award to provide for housing of the family elsewhere. Such an award is provided for by the statute.
+This court recognizes and adheres to the principle declared in various cases decided by the Supreme Court of Ohio that, in an action by the wife for alimony only, the trial court is not authorized to make an equitable division of the husband’s property but is limited by §11998 GC, to making an award as alimony for her maintenance and support during separation. That is the holding of the case of Durham v. Durham, 104 Oh St 7.
+In that case the plaintiff wife filed a petition for alimony only. She alleged in her petition that the defendant owned certain real and personal property and that she furnished a portion of the money which formed part of the consideration which the husband gave for a part of the land. She prayed for alimony and that an additional amount be allowed as alimony sufficient to repay her for the money she had advanced to her husband. The husband’s answer admitted ownership of real and personal property and made general denial as to all the other allegations of the petition. The trial court, finding the allegations of the petition to be true, awarded alimony but refused to make a division of the property described. The wife prosecuted error to the Court of Appeals which affirmed the Common Pleas Court. The Court of Appeals certified the case to the Supreme Court of Ohio and that Court affirmed the Trial Court.
+It is to be noted that the plaintiff in the Durham case was seeking in her alimony action not only alimony but, in the language of the court, an additional amount “sufficient to repay her for money she had advanced to her husband.”
+The case of Materozzo v. Materozzo, 139 Oh St 36 cited by appellant is in line with the Durham case. The Materozzo case originated in Cuyahoga County where the husband filed suit for divorce. The wife filed a cross-petition for alimony only. The plaintiff then withdrew his petition for divorce and the case was heard on the cross-petition of the wife. The trial court entered a decree awarding the defendant the sum of $360.00 as and for and in full of all alimony both temporary and permanent “and in full satisfaction of all property rights that defendant has in the property of plaintiff which arose or grew out of said marital relationship.”
+The Court of Appeals affirmed the Trial Court, but the Supreme Court of Ohio, on the basis of the Durham case, reversed the Court of Appeals and remanded the case to the Common Pleas Court for further proceedings.
+It is clear from the language employed that in the Materozzo case, the trial court had improperly sought to determine finally the property rights of the parties. Certainly the Materozzo case differs from the instant case where the trial court, under §11998 GC, merely awarded alimony to the wife out of her husband’s property. The fact that the alimony awarded in this case was in real property, rather than in money, is not important in view of the language of the statute (§11998 GC) authorizing award to the wife of “such alimony out of her husband’s property as is equitable, which may be allowed to her in real or personal property or both, or in money * *
+Appellant also cites the case of Stewart v. Stewart, 144 Oh St 289, which likewise follows the Durham case. Theré the court had before it a petition for alimony only on the part of the wife, the husband cross-petitioning for divorce. The court awarded alimony to the wife and denied a divorce to the husband. As a part of the decree the trial court ordered plaintiff to vacate the premises where she was residing and she was ordered “to cooperate with and as requested by the defendant in the sale or leasing of said premises, as he may determine should be done.” The judgment was affirmed by the Court of Appeals but reversed by the Supreme Court of Ohio, under the doctrine of the Durham case. The Supreme Court in its opinion pointed out that the journal entry of the trial court in authorizing the sale of the real estate by the husband, barred the right of inchoate dower in the wife and thereby amounted to a division of property rights. On the contrary, the journal entry of the trial court in the pending case shows no attempt to effect inchoate dower rights and the trial court’s opinion indicates there was no division of property intended.
+We find no case directly in point, but the statute clearly gives the Common Pleas Court jurisdiction to make an order such as was here entered, so long as it is made as alimony. This court, without a record of the evidence, must conclude that the order and judgment of the trial court was supported by sufficient evidence.
+The judgment of the court is therefore affirmed. Exceptions. Order see journal.
+HURD, J, THOMPSON, J, concur.
