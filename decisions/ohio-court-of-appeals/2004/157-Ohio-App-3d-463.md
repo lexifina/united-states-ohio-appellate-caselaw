@@ -1,0 +1,60 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-030648"
+decided: "2004-04-09"
+citations: ["157 Ohio App. 3d 463"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doan, P.J., and Hildebrandt, J., concur."]
+parties: ["FIFTH THIRD BANK, Appellee, v. DUCRU LIMITED PARTNERSHIP, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/157/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2209693
+cites_cases: ["175 Ohio St. 179", "192 N.E.2d 47", "2004-Ohio-1801", "23 O.O.2d 462", "37 Ohio App.3d 151", "524 N.E.2d 903", "652 N.E.2d 684", "73 Ohio St.3d 107", "738 N.E.2d 1243", "78 Ohio St.3d 353", "90 Ohio St.3d 388"]
+---
+
+# Fifth Third Bank v. Ducru Ltd. Partnership
+
+## Majority (Mark P. Painter, Judge.)
+
+Mark P. Painter, Judge.
+{¶ 1} Does a lease end when it says it does? Of course it does. Unless it doesn’t — as in the case where one party has an option to terminate the lease.
+{¶ 2} Defendant-appellant Ducru Limited Partnership appeals from the entry of summary judgment for plaintiff-appellee Fifth Third Bank. We affirm the trial court’s judgment regarding Fifth Third’s Termination Right, but reverse and remand for a determination of whether Fifth Third properly executed and delivered its promissory note by August 31, 2003.
+{¶ 3} On appeal, Ducru assigns two errors: (1) that the trial court erred by granting Fifth Third summary judgment and should have granted summary judgment to Ducru; and (2) that the trial court erred by deciding that the lease terminated in August 2003.
+I. The Lease and the Amendments
+{¶ 4} Fifth Third agreed to a commercial lease in 1993 with its original landlord, Ducru’s predecessor in interest. The term of the lease expired 12 years after the lease began. But included in the lease was a Termination Right that gave Fifth Third the right to terminate the lease any time after ten years, as long as Fifth Third met certain requirements. This Termination Right involved four key terms: (1) Termination Option; (2) Termination Notice; (3) Termination Exercise Date; and (4) Termination Date. The Termination Option was essentially just another name for the Termination Right — namely, Fifth Third had the option or the right to terminate the lease. The Termination Notice was a written notice from Fifth Third to the landlord explaining its intention to terminate the lease. The Termination Exercise Date was the date the Termination Notice was issued, which had to be at least 12 months prior to the Termination Date. And the Termination Date was the actual date that the lease would end if Fifth Third exercised its Termination Right.
+{¶ 5} Fifth Third and the original landlord amended the lease several years later. The amendment made no modifications to the terms that concerned termination or expiration dates.
+{¶ 6} Later, Fifth Third and the original landlord made a second amendment to the lease. This second amendment led to the controversy at hand. In the second amendment, Fifth Third agreed to lease a significant amount of additional space at an adjusted rate, and the original landlord granted Fifth Third a right of first refusal on even more additional space. The second amendment stated, “The termination date for the Lease, including the New Space, shall be December 31, 2005.” It also stated, “Except as modified by this Amendment, the Lease remains in full force and effect.” Further, “The capitalized terms used herein shall have their respective meaning given in the Lease.”
+{¶ 7} After the original landlord assigned its interest, Fifth Third issued an estoppel certificate that set forth Fifth Third’s rights and obligations under the lease and the amendments to any future successors-in-interest. The certificate included the following statement: “The termination date of the Lease term, excluding renewals and extensions, is December 31, 2005.” Ducru now argues that this certificate, combined with the second amendment, eliminated Fifth Third’s Termination Right. Ducru is wrong.
+II. Summary Judgment
+{¶ 8} We review a grant of summary judgment de novo. Summary judgment is appropriate only where there is no genuine issue of material fact, and the moving party is entitled to judgment as a matter of law. A court shall grant summary judgment where reasonable minds can come only to a conclusion adverse to the nonmoving party.
+III. Mincing Words
+{¶ 9} Ducru now argues that the terms “termination date” and “expiration date” have separate meanings in the context of leases. But this definitional argument has no bearing on this case.
+{¶ 10} Ducru asserts in its brief that a termination date is the date a lease ends by agreement between the parties, while the expiration date signifies “the end of the lease by effluxion of time.”
+{¶ 11} The term “effluxion of time” appears in Black’s Law Dictionary: “The expiration of a lease term resulting from the passage of time rather than from a specific action or event.”
+{¶ 12} Courts in the United States have used the word “effluxion” only seven times in the last 50 years. Ohio courts have avoided the word completely, choosing instead to use the substitute “efflux” and to do so sparingly: only 11 times since the start of the Civil War, and only four times in the 20th century. Apparently, we are the first court in the United States to use the term “effluxion of time” in the new millennium. And we appear to be the first Ohio court to use either “effluxion” or “efflux” since 1987. We hope that we will be the last— arcane and archaic legalese should be abandoned. The phrase “expiration of time” would do nicely and would have the added benefit of being understood without recourse to Black’s.
+{¶ 13} Ducru now argues that we should place a great deal of emphasis on this definitional difference and on where and when the phrases “termination date” and “Termination Date” appeared in the lease documents. Ducru contends that because the second amendment used the uncapitalized term, the amendment intended a broader meaning that encompassed the capitalized term used in the original lease. Therefore, the argument goes, Fifth Third no longer had a Termination Right because the lower-case “t” termination date of December 2005 trumped any other capital “T” Termination Date that could have existed under the Termination Right. Ducru claims that if the parties had simply wanted to change the date of the end of the lease, they should have used the term “expiration date” instead of “termination date.” This argument is as confusing as it is wrong.
+{¶ 14} Unless they are otherwise defined within the contract, we should give contractual terms their plain, ordinary meaning. And the main purpose for judicial examination of a written document is to determine and give effect to the parties’ intent. It does appear that the lease intended “termination date” and “expiration date” to have separate meanings. But nothing in the second amendment or the estoppel certificate makes any reference to Fifth Third’s Termination Right. Regardless of the parties’ intent in using the words “termination date” in the second amendment, neither Fifth Third nor the original landlord made any reference to Fifth Third’s Termination Right after the original lease. ' Because the second amendment stated, “Except as modified by this Amendment, the Lease remains in full force and effect,” Fifth Third maintained its Termination Right.
+{¶ 15} Had the parties wanted to eliminate Fifth Third’s Termination Right in the second amendment (or in any later amendment), they could have simply done so. Instead, the second amendment only moved the termination date to December 2005. Had the parties done nothing else, the lease would have naturally ended (effluxed) in December 2005. But Fifth Third exercised its Termination Right.
+{¶ 16} As long as Fifth Third met the requirements of the original lease, it could have still terminated the lease any time after its tenth year. The first requirement was that Fifth Third had to provide Ducru with a Termination Notice at least 12 months in advance. Fifth Third sent Ducru a letter in August 2002, notifying Ducru that Fifth Third intended to terminate the lease on August 31, 2003. This was Fifth Third’s Termination Notice. And it named the Termination Date as August 31, 2003.
+{¶ 17} Because the amendments and the estoppel certificate did not even mention — let alone eliminate — Fifth Third’s Termination Right, that right remained in full force and effect. Summary judgment in favor of Fifth Third was therefore appropriate on this issue. And the trial court properly denied Ducru’s summary-judgment motion.
+{¶ 18} We therefore overrule Ducru’s first assignment of error.
+TV. The Promissory Note
+(¶ 19} In its second assignment, Ducru contends that the trial court erred in finding that the lease was properly terminated. Ducru now argues that Fifth Third failed to timely remit the proper promissory note to Ducru, and that the lease was therefore not terminated.
+{¶ 20} Ducru did not raise this issue in front of the trial court. Ordinarily, issues not raised in the trial court cannot be raised for the first time on appeal. But because it is clear from the record that the trial court could not have made a decision concerning the promissory note, we must reverse and remand on this point.
+{¶ 21} As we have already discussed, Fifth Third had a right to terminate the lease as long as it met two conditions: (1) giving its Termination Notice; and (2) executing and delivering a promissory note by the Termination Date.
+{¶ 22} The trial court entered its judgment on August 29, 2003. In granting summary judgment to Fifth Third, the court ordered that “plaintiffs written Notice of Termination be given full consideration and enforcement, thereby terminating the lease effective August 31, 2003 * * *.” But the lease could not have terminated until Fifth Third executed and delivered the promissory note. And the trial court could not have determined from the evidence available at the time that Fifth Third had executed and delivered the promissory note by August 31, 2003.
+{¶ 23} Summary judgment in favor of Fifth Third was proper regarding the determination that Fifth Third had a right to terminate the lease. Further, summary judgment in Ducru’s favor would have been improper because Fifth Third did have a right to terminate the lease. But the trial court’s determination that the lease terminated on August 31, 2003, was premature because it entered the judgment two days before the promissory note was even due.
+{¶ 24} We must therefore reverse the trial court’s judgment regarding the effectiveness of the termination date. We must also remand the case for a determination of whether Fifth Third fulfilled its promissory-note obligations before August 31, 2003.
+{¶ 25} Accordingly, we affirm that part of the trial court’s judgment that gave effect to Fifth Third’s Termination Right. But we reverse the trial court’s determination that the lease was effectively terminated as of August 31, 2003, because there was no evidence in the record that showed that Fifth Third had executed and delivered the necessary promissory note. And we remand the case for further proceedings according to the terms of this decision.
+Judgment affirmed in part, reversed in part and cause remanded.
+Doan, P.J., and Hildebrandt, J., concur.
+. Doe v. Shaffer (2000), 90 Ohio St.3d 388, 738 N.E.2d 1243.
+. Civ.R. 56(C).
+. Id.
+. Friedman on Leases (4th Ed.1997), Section 5.201.
+. Black's Law Dictionary (7th Ed.1999) 533.
+. Nationwide Mut. Fire Ins. Co. v. Guman Bros. Farm (1995), 73 Ohio St.3d 107, 652 N.E.2d 684.
+. Foster Wheeler Enviresponse v. Franklin Cty. Convention Facilities Auth. (1997), 78 Ohio St.3d 353, 678 N.E.2d519.
+. Holman v. Grandview Hosp. & Med. Ctr. (1987), 37 Ohio App.3d 151, 524 N.E.2d 903, citing Republic Steel Corp. v. Cuyahoga Cty. Bd. of Revision (1963), 175 Ohio St. 179, 23 O.O.2d 462, 192 N.E.2d 47.
