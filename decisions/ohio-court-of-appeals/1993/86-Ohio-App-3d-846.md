@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "15756"
+decided: "1993-03-24"
+citations: ["86 Ohio App. 3d 846"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baird, P.J., and Reece, J., concur."]
+parties: ["WALKER, Appellee, v. BUCK et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/86/cases/0846-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1692021
+cites_cases: ["10 O.O.2d 109", "114 Ohio St. 633", "142 Ohio St. 483", "147 Ohio St. 111", "151 N.E. 718", "163 N.E.2d 362", "170 Ohio St. 168", "1989 WL 52635", "27 O.O. 410", "28 OBR 381", "28 Ohio St.3d 312", "326 N.E.2d 647", "33 O.O. 272", "42 Ohio St.2d 133", "504 N.E.2d 15", "52 N.E.2d 985", "56 Ohio Misc.2d 19", "565 N.E.2d 618", "68 N.E.2d 67", "71 O.O.2d 112"]
+---
+
+# Walker v. Buck
+
+## Majority (Cook, Judge.)
+
+Cook, Judge.
+Royal Insurance Company (“Royal”) appeals the trial court’s granting of summary judgment to Gail A. Walker (“Walker”). We reverse.
+On August 15,1988, Walker was involved in a motor vehicle accident with Earl N. Buck (“Buck”), who was driving a vehicle owned by Wanda Allen (“Allen”). One day after the accident, Allen notified Royal, her insurer, of the accident. Royal, through its claims adjuster, contacted Walker, who informed Royal that she was represented by an attorney. On October 20, just two months after the accident, Walker sued Allen and Buck for the injuries sustained in the accident. Allen was served by certified mail but failed to notify Royal of the pending litigation. On February 23, 1989, about six months after the accident, a default judgment was granted against Allen and damages were awarded on July 14.
+On April 11, some seven months after the accident, Royal sent a letter to Walker advising her that no attorney had contacted Royal on her behalf and asking her to have her counsel, if she had counsel, contact Royal to discuss the possibility of settlement. About one month later, Walker’s attorney advised Royal of his representation of Walker, but did not disclose that default judgment had been granted. On August 24, after damages were awarded, Walker’s attorney informed Royal of the litigation and default judgment.
+On November 2, Walker filed a supplemental petition pursuant to R.C. 3929.06 against Royal. Royal answered setting up the defense to coverage that Allen had failed to notify Royal of the underlying suit as required by the terms of the insurance policy. Walker moved for summary judgment asserting that Allen notified Royal of the accident (although not the lawsuit) and that Royal had an opportunity to investigate and should have known of the litigation between Walker and Allen. Royal filed a cross-motion for summary judgment asserting that Walker could not recover from Royal due to noncompliance with the notice provisions of the policy.
+The trial court granted Walker’s motion for summary judgment and denied Royal’s, stating:
+“It is without dispute that Mrs. Allen failed to comply with the * * * insurance policy. There is, however, more to this case.
+« * * *
+“Certainly, [Royal] had an opportunity to attempt to settle the case or check the dockets periodically to see if the suit was filed against their insured, who they knew full well was in an accident which resulted in at least one other lawsuit being filed. An insurance company who knows * * * a claim is outstanding against their insured, should not be relieved of lability [sic] merely on the grounds that their insured did not physically hand deliver the suit papers.
+“Ms. Walker’s, Plaintiff in this action, rights and ability to collect for damages suffered in an accident which plainly appears to be solely the fault of the Defendant, should not hinge on whether the Defendant fulfills her contractual obligations with her insurer. In other words, where the insurer knows about, and makes contact with, a person injured as a result of acts or omission clearly and indisputably caused by their insured, the insurer cannot deny the injured party compensation based solely on what their insured did or did not do. The injured party has no control over that.”
+Royal appeals from that judgment and asserts in its sole assignment of error that the trial court erred in granting summary judgment to Walker and denying its summary judgment motion. We agree.
+Generally, when an insured fails to comply with the terms of the insurance policy the insurance company may avoid its obligations to the insured. Teter v. Kenilworth Ins. Co. (July 30, 1975), Lorain App. No. 2283, unreported, at 8. The rights of an injured judgment creditor against an insurer in a supplemental petition cannot rise above the rights of the insured against the insurer. Bennett v. Swift & Co. (1959), 170 Ohio St. 168, 10 O.O.2d 109, 163 N.E.2d 362, paragraph one of the syllabus; Hendershot v. Ferkel (1946), 147 Ohio St. 111, 116, 33 O.O. 272, 274, 68 N.E.2d 67, 70; Teter, supra, at 8. In a supplemental petition, R.C. 3929.06, the insurance company may raise any defense that it would have against the insured. Transamerica Ins. Co. v. Taylor (1986), 28 Ohio St.3d 312, 315, 28 OBR 381, 384, 504 N.E.2d 15, 17.
+“A party claiming insurance coverage has the burden of establishing compliance with all provisions of the insurance policy which are precedent to his right to recover, and the notice provision is such a condition precedent.” Felicity-Franklin Bd. of Edn. v. Nationwide Mut. Ins. Co. (1989), 56 Ohio Misc.2d 19, 21, 565 N.E.2d 618, 620. One of the notice requirement’s purposes is to provide the insurer with an opportunity to participate in the defense. McCann v. Nationwide Mut. Fire Ins. Co. (May 17, 1989), Lorain App. No. 4433, unreported, at 8, 1989 WL 52635. In order for the injured judgment creditor to recover on a supplemental petition, the provision pertaining to notice of the underlying suit must be met. In re Estate of Basmajian (1944), 142 Ohio St. 483, 27 O.O. 410, 52 N.E.2d 985, paragraph three of the syllabus; Stacey v. Fid. & Cas. Co. (1926), 114 Ohio St. 633, 151 N.E. 718, paragraph three of the syllabus; see, also, Brown v. Donders (1975), 42 Ohio St.2d 133, 139, 71 O.O.2d 112, 115, 326 N.E.2d 647, 650.
+In this case, Walker concedes that Allen failed to comply with the term of her insurance policy requiring her to notify Royal of the lawsuit. Walker argues that because Royal was notified of the accident and had an opportunity to investigate, she should not be prejudiced by Allen’s failure to notify Royal of the underlying suit. These arguments are not well taken. Notice of an accident and notice of pending litigation regarding that accident are not the same. See Brown, supra. It is generally held that the mere investigation by an insurer of an accident involving its insured does not establish a waiver by the company of performance of conditions contained within the insurance contract, nor does it estop the company from asserting a violation of those conditions as a defense. Teter, supra, at 12. To impose liability under these circumstances would require insurance companies to continuously check every docket for any case in which an insured had notified the insurance company of an accident, an obligation rejected by this court in Teter. Id. at 14. Neither Allen nor Walker nor Walker’s counsel notified Royal of the pending litigation before a default judgment and award was entered. Thus, without some evidence of affirmative action by Royal such as a refusal to defend suit, assurances waiving the notice provision, or other exceptions considered in Teter, Royal’s defense to the supplemental petition is unchallenged for summary judgment purposes.
+Summary judgment should have been granted in favor of Royal. The judgment of the trial court is reversed and the cause is remanded for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Baird, P.J., and Reece, J., concur.
+. The trial court dismissed the case as to Buck for lack of prosecution.
+. The insurance policy stated the following:
+"B. A person seeking any coverage must:
+“2. Promptly send us copies of any notices or legal papers received in connection with the accident or loss.”
+. Walker also argues that Allen’s noncompliance with the notice requirement was excused because she was mentally incapacitated. The record, however, does not support this contention nor was this argument made to the trial court.
