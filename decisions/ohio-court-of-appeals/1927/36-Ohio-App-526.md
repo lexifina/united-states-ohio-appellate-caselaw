@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1927-02-21"
+citations: ["36 Ohio App. 526"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cushing and Buchwalter, JJ., concur."]
+parties: ["Price v. Foster et al."]
+source_url: "https://static.case.law/ohio-app/36/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321523
+cites_cases: ["107 A., 495", "155 N. E., 403", "23 Ohio App., 155", "23 Ohio App., 352", "5 A. L. R., 1081", "93 Conn., 659"]
+---
+
+# Price v. Foster
+
+## Majority (Hamilton, P. J.)
+
+Hamilton, P. J.
+Harry Foster and Anna M. Foster commenced their action in the court of common pleas of Hamilton county, Ohio, to recover damages for a claimed breach of warranty in a deed to certain real estate, purchased by them from Bussell Price. The damages claimed were for $341.84, made up of traveling expenses, and other expenses, including an attorney’s fee of $300 incurred in procuring the release of record of an old mortgage.
+The case was tried to the court by consent of the parties, and the trial court rendered a judgment in favor of Harry Foster and Anna M. Foster, and against Bussell Price, the defendant. Price prosecutes error from that judgment, seeking a reversal of the same.
+The deed from Price to the Posters contained the covenant that the premises therein conveyed were free and clear of all incumbrances, except certain taxes and a certain mortgage to the Pearl Market Bank. The record discloses that the Fosters, in seeking to procure a loan from a building association, discovered an old uncanceled mortgage on the premises in question, executed and delivered by Caleb Carman and Caroline Carman, his wife, to the state of Ohio, dated February 2, 1841, and recorded in Mortgage Book 77, page 582 of the mortgage records of Hamilton county, Ohio, which was not canceled or released of record; that thereupon the Fosters procured counsel and proceeded to obtain a cancellation and release of this old mortgage; that their attorney went to a great deal of trouble and some expense in attempting to secure the release. Counsel ascertained -that the mortgage was given to the state of Ohio for money from what was known as the surplus revenue fund, distributed to Hamilton county under the provisions of the Act of March 28, 1837, and that the commissioners of that fund had loaned to Caleb Carman and his wife the sum of three hundred ($300.00) dollars on the 2d day of February, 1831; the mortgage in question being given to secure payment of this loan.
+The Fosters’ counsel later discovered an act of the Legislature, passed March 30, 1896, to be found in 92 Ohio Laws, page 101, which provides as follows:
+‘ ‘ Section 1. Be it enacted by the General Assembly of the State of Ohio, That, on application of any person owning land in any county of this state upon which there is an uncanceled mortgage to the state of Ohio, taken by the commissioners of the surplus revenue fund, under the act of March 28, A. D. 1837, or the acts amendatory thereof or supplementary thereto, the state auditor shall ascertain whether or not such county has repaid to the state its proportion of said surplus revenue, and, upon ascertaining that such repayment has been made, it shall be the duty of the said auditor to give to such person a certificate therefor, and, on presentation of such certificate to the governor of the state, he is thereby authorized and directed, on behalf of the state of Ohio, to execute and deliver to such person a release of said mortgage, which release, when recorded in the land records of the proper county, shall operate as a cancelation of said mortgage, and thereafter such mortgage shall, for all purposes, be treated as null and void, both in law and equity. ’ ’
+He thereupon made application for a certificate and a release by the Governor, which was accordingly granted. The release and cancellation introduced by the plaintiffs, and executed by the Governor, recites that “the surplus revenue fund distributed to the County of Hamilton * * * has been fully repaid the State.” This release and cancellation was thereupon placed upon record in the records of Hamilton county, Ohio.
+The question is: Was this old mortgage, under the facts, a breach of the covenant against incumbrances? The rule is that a covenant against incumbrance is .not broken unless there is at the time of the conveyance a valid, legal, and subsisting lien. The proof offered by the plaintiffs in this case, by oral testimony and exhibits, shows conclusively that there was no valid, legal, and subsisting lien at the time of the conveyance. There was no incumbrance, affecting the right, title, and interest, which the law would recognize and protect. The evidence shows that the indebtedness of Hamilton county to the state had long since been fully repaid to the state. The rule, as above stated, is supported by an unbroken line of authorities. See Reed v. Stevens, 93 Conn., 659, 107 A., 495, 5 A. L. R., 1081 et seq.
+In this case, not only was the mortgage outlawed by the statute of limitations, but the payment was proven by the plaintiffs’ own case.
+A ease similar to the one at bar was decided by the Court of Appeals of the Sixth Appellate District, in Lucas county. The case is entitled Rabel v. Downs, 23 Ohio App., 352, 155 N. E., 403, and was decided November 22, 1926. In that case the claim was made for expenses incurred in bringing an action to quiet title to the premises in question against a mortgage 63 years old. The court, through the opinion of Judge Richards, said, at page 354 of 23 Ohio App., 155 N. E., 403, 404: “The law has been well settled for many years that a covenant against incumbrances is not broken, unless there is, at the time of the conveyance, a valid subsisting lien against the premises. Unless the estate is burdened with such an incumbrance as the law will protect and enforce, there is no violation of the covenant in the deed.”
+The uncanceled mortgage was therefore, under the authorities, not an incumbrance that would constitute a breach of the covenant against the same. The court of common pleas committed reversible error in finding for the plaintiffs. The judgment will be reversed, and judgment will be entered here in favor of the plaintiff in error.
+Judgment reversed and judgment for plaintiff in error.
+Cushing and Buchwalter, JJ., concur.
