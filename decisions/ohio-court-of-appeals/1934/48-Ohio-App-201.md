@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-01-29"
+citations: ["48 Ohio App. 201"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Williams, JJ., concur."]
+parties: ["McDowell, Gdn., v. Sicklebaugh."]
+source_url: "https://static.case.law/ohio-app/48/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343062
+---
+
+# McDowell v. Sicklebaugh
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+Plaintiff in error, J. R. McDowell, is guardian of the person and estate of Earl D. Henning, a resident of Wood county, his appointment having been made by the Probate Court of Wood county pursuant to Sections 11037-1 et seq., General Code, relating to incompetent veterans.
+The United States government is and for some time has been paying to this guardian for the benefit of his ward the sum of $45 per month, and insurance in the amount of $57.50 a month. On July 7,1933, according to an account then filed by him in the Probate Court, the guardian had on deposit in savings associations or banks of Bowling Green the sum of $10,367.46. Clara Henning, the wife of Henning, procured a divorce from him in the Court of Common Pleas of Lucas county, and thereafter remarried, her name now being Clara Henning Sicklebaugh. She is the mother of three minor children, Donald, Maxine and Ruth, of whom Earl D. Henning is the father, and on July 6,1933, she applied to the Probate Court of Wood county for an order authorizing and directing McDowell, as guardian, to pay to her the sum of $125 for the graduating expenses of Donald and Ruth, 17 and 19 years of age, respectively, who were living with her in Toledo and attending Waite High School in that city. Theretofore she had made a similar application to the Court of Common Pleas of Lucas county, in the action wherein she was divorced from Henning and was given the custody of the three children. This latter court granted the application, and a certified copy of the order was delivered to McDowell, who thereupon paid to Mrs. Sicklebaugh the amount so allowed; but notice of this application to the Court of Common Pleas of Lucas county had not been given to the Veterans’ Administration as required by Section 11037-13, General Code, whicb provides as follows:
+“A guardian shall not apply any portion of the estate of his ward for the support and maintenance of any person other than his ward, except upon order of the court after a hearing, notice of which has been given the proper office of the bureau in the manner provided in section 9.”
+Section 11037-9, General Code, provides that every guardian of an incompetent veteran shall file annually with the court an account of all moneys “received by him, of all disbursements thereof, and showing the balance thereof in his hands at the date of such account and how invested”, and notice of the hearing thereof shall be given by the court to the Veterans’ Administration and the guardian not less than fifteen days prior to the date fixed for the hearing thereon.
+Because of the failure to give this required notice, objection was made by the Veterans’ Administration to the payment of the sum thus awarded, and because of this objection the application first above mentioned was filed in the Probate Court.of Wood county, which appointed the guardian, and where the application should have been made in the first instance, that being the county in which the veteran ward resided. The Veterans’ Administration waived in writing notice of the hearing on the application filed in the Wood county Probate Court and made no objection to the same being granted if the court decided it was proper so to do. At the hearing Mrs. Sicklebaugh testified that she received $30 per month for the two younger children from the government through the Veterans’ Administration, and $60 per month from the guardian of Henning for the support of the three minor children. The Probate Court of Wood county denied the application for the sole reason, as stated in the journal entry, “that the applicant is now receiving $90 per month from the Veterans’ Administration and the guardian, which the court finds abundant”. Mrs. Sicklebaugh prosecuted error proceedings to the Court of Common Pleas of Wood county, and obtained therein a judgment of reversal of the judgment and order of the Probate Court of Wood county, on the ground “that it is not supported by sufficient evidence and is against the manifest weight of the evidence”. As we view it, the only question involved is whether or not there was such an abuse of discretion on the part of the Probate Court as would justify setting aside the order and judgment made therein. It is not a question of what a member of this court, or what the judge of the Court of Common Pleas, would have done under the facts and circumstances in evidence. The record does not disclose an abuse of discretion on the part of the trial court, nor that its judgment and order are manifestly against the weight of the evidence, and therefore the judgment of the Court of Common Pleas must be reversed and that of the Probate Court affirmed. This court is not concerned with the action which the Probate Court of Wood county may take if McDowell claims credit for the unauthorized payment to Mrs. Sicklebaugh in his accounting to that court as guardian of Henning.
+It was contended by a preliminary motion filed in the error proceedings in the Court of Common Pleas asking that the petition in error therein be dismissed that no one but the guardian of the incompetent veteran could invoke the jurisdiction of the court for the purpose specified in Section 11037-13, General Code, above quoted. Suffice it to say that a reading of this statute does not warrant such construction or limitation.
+The judgment of the Court of Common Pleas is reversed and the judgment and order of the Probate Court is affirmed. T , . ,
+T . Judgment reversed.
+Richards and Williams, JJ., concur.
+
+## Concurrence (Williams, J.,)
+
+Williams, J.,
+concurring. I am of the opinion that the probate judge should have disallowed the application for $125, for the reason that the money had been expended for the purchase of the things needed in connection with graduation, and that the only question left at the time the application was filed in the Probate Court was whether or not the guardian could be properly allowed for the expenditure when the matter came up on accounting, which matter could not be determined on an application for an allowance.
+It is further apparent that the whole question of whether the money was properly expended by the guardian remains yet to be heard and determined in the Probate. Court should the guardian claim credit for the expenditure in his account as guardian.
