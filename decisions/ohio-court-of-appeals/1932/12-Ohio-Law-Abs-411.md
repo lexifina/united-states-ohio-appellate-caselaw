@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1932-07-28"
+citations: ["12 Ohio Law Abs. 411"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PARR, J, (7th Dist), MIDDLETON and MAUCK, JJ, (4th Dist), sitting.", "FARR and MAUCK, JJ, concur."]
+parties: ["BIALOSKY v NEWBURG & SOUTH SHORE RAILWAY COMPANY"]
+source_url: "https://static.case.law/ohio-law-abs/12/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1642434
+cites_cases: ["98 Oh St, 287"]
+---
+
+# Bialosky v. Newburg & South Shore Railway Co.
+
+## Majority (MIDDLETON, J.)
+
+MIDDLETON, J.
+It appears from the petition that the contract is wholly without any limitation as to the time it may continue. So far as it appears from the petition, as long as the railway company complied with the terms of the contract it had and might exercise the rights therein granted to it by the City of Cleveland. In other words, like Tennyson’s famous brook, the contract may flow on forever.
+The position of the plaintiff in this case is that ths contract is a valid and subsisting contract between the parties which may not be impaired by any statutory provisions of the state enacted subsequent to the making of the contract, and that the state in the exercise of its police power is without the right to in any way assume any control or jurisdiction of the subjectmatter of the contract.
+In the absence of any statement to the contrary we must assume that from July 10, 1908, up to the time of the filing of the petition the railway company at least observed all the statutory requirements of the state in respect to the operation of its business in intrastate commerce, and that it duly complied with those provisions in respect to the rules and requirements of the Public Utilities Commission of the state, and if the railway company handled any interstate traffic that it has complied with the requirements of the Interstate Commerce Commission. It is therefore demanded by the plaintiff that this court give to the contract in question a legal effect which places it wholly beyond and outside of the jurisdiction of federal and state legislative authority. It would seem that this statement alone carries its answer. If the state had no police power at the time this contract was made to thereafter control its operation, not only as it affected the parties thereto but the public, then the so-called police power of the state has a limitation which we have been unable to find recognized by any authority. We say this because if when this contract was made the parties thereto placed themselves entirely beyond and out of. any control by the state or federal government it created a condition which, regardless of how oppressive on the public such condtion might prove to be, the duly constituted authority of the federal government and in this state of the Public Utilities Commission would be powerless to grant any relief.
+Much stress is laid in the argument in this case on the case of Interurban Railway and Terminal Co. v Public Utilities Commission, 98 Oh St, 287. The contract involved in that case was for a fixed and definite time while, as we have been attempting to make plain, the contract before us is without any limitation of duration, and that case dealt with street car rates wholly confined to a municipality, a field which the state never has attempted to enter.
+It is our conclusion that the Public Utilities Commission is primarily the authority to appeal to in this case and that the judgment of the Court of Common Pleas for that reason should be affirmed. But if this were not so we would be compelled to conclude that the particular provision in the contract fixing rates, without any limitation as to the time in which such rates are to continue, is an agreement against public policy and void.
+We are further impressed with the conclusion that there are grounds here for the judgment of dismissal under the general demurrer to this petition. As previously observed, we must assume that the rates charged by the railway company since 1.908 have been approved by the Utilities Commission of this state, and so it is that for twenty three years this procedure has been followed without any objection on the part of the city. In the absence of any charge in the petition of collusion it may not be said that the plaintiff has higher rights in equity in this case than the city. There are no charges in the petition, that the rates in effect are exorbitant or oppressive. Under this state of facts the rule which requires that a party must be diligent in asserting his rights in a court of equity must apply, and it necessarily follows, that, the claims made here are too stale for the consideration of a court exercising equitable jurisdiction.
+While we are on this subject we want to emphasize the fact that we do not approve nor countenance on the part of any person appealing to a court of equity any concealment of facts or any attempt to withhold from the court anything which it is material for the court to know. In this case it is apparent that the railway company was and is handling interstate business, and counsel in their briefs and argument substantially say so. But counsel for the plaintiff in referring to the interstate feature say that question will be attended to when the parties come to it. It is the judgment of this court that the parties arrived at that question when the petition was filed and that the plaintiff has not given the whole case to the court in his petition. For this reason he is not entitled to the consideration of a court of equity and we are not, therefore, disposed to interfere with the judgment below.
+For the reasons herein stated the -judgment of -the Court of Common Pleas is affirmed.
+FARR and MAUCK, JJ, concur.
