@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4317"
+decided: "1948-12-06"
+citations: ["86 Ohio App. 68"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Conn and Carpenter, JJ., concur."]
+parties: ["Shaffer, Appellant, v. Walpole, Admr., Appellee."]
+source_url: "https://static.case.law/ohio-app/86/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1398225
+cites_cases: ["10 Ohio St., 591", "104 Ohio St., 149", "135 N. E., 531", "137 Ohio St., 453", "141 Ohio St., 197", "146 Ohio St., 253", "38 Ohio St., 87", "78 Ohio App., 297"]
+---
+
+# Shaffer v. Walpole
+
+## Majority (Fess, J.)
+
+Fess, J.
+This is an appeal on questions of law from an order of the Probate Court overruling a motion of appellant to vacate the order approving the final account in the administration of an estate.
+Walter Winkelman died intestate April 5, 1944, and, at the request of a brother and two sisters, Edward L. Walpole was appointed administrator on April 12, 1944. Walpole proceeded to administer the estate and on December- 4, 1944, filed his final account, disclosing distribution of a balance of $485.25 to the brother, two sisters, a half brother and a half sister. The account was duly advertised and approved by the Probate Court on January 4, 1945.
+Walter Winkelman was divorced from his wife, the mother of appellant, in 1928. The mother was given custody of their only child, the appellant, who was born October 28, 1924. Shortly after the divorce,- the mother moved from Toledo to Cambridge, Ohio, taking the child with her. From that time on, neither the mother nor the daughter had any contact, either personally or by correspondence, with Winkelman or any members of his family. In the fall of 1946, a Betty Brown of Toledo visited the mother at Cambridge and told her that she had heard that Winkelman had been killed in a war plant. At this particular time appellant was living in St. Louis. The mother visited the appellant in St. Louis in December of 1946, but testified that she did not tell her daughter about Winkelman’s death until some time in January or February of 1947. Thereafter appellant consulted an attorney in St. Louis incident to some service which he was rendering her mother, but did not retain such attorney at that time in connection with any claim which she might have against her father’s estate. On or about April 8, 1947, the administrator received a letter from the St. Louis attorney, inquiring as to the status of Winkelman’s estate, which is some evidence that at this particular time appellant and her attorney were advised of the death of her father and the administration of his estate. There is no evidence, however, that prior to this appellant had any knowledge that her father had left an estate or that she had been excluded from its distribution. Upon receipt of the letter from the St. Louis attorney, Walpole promptly contacted the brother of the decedent and was then-first advised that at the time of the divorce in 1928 decedent had a child. He was also advised that the relatives had never heard from the child and had therefore assumed that she was not living. Walpole made a complete disclosure of the circumstances immediately to the St. Louis attorney, and the evidence discloses that in all respects he acted in good faith in connection with the entire transaction.
+On February 8, 1948, appellant filed her motion to vacate the order of January 4, 1945, approving the final account. Appellant contends that Section 10506-40 et seq., General Code, effective in 1932, apply to her motion to vacate. The 1932 act contains no limitation on the time within which to file a motion to vacate on account of fraud. In re Estate of Stafford, 146 Ohio St., 253, 65 N. E. (2d), 701. Appellant contends further that Section 10506-40&, General Code, in the 1945 act, prevents the application of Section 10506-40 in the 1945 act.
+Section 10506-40&, General Code, reads as follows:
+“Accounts which are filed prior to the effective date of this act, but which prior to said date are not set for hearing or settlement, shall be settled in accordance with the provisions of this act. Accounts which are filed prior to the effective date of this act, and which prior to said date are set for hearing or settlement, shall be settled under the provisions of law existing on the date when filed.”
+Two members of the court are of the opinion that the second sentence of the above-quoted section requires accounts, filed prior to the effective date of the act (September 29, 1945) and which prior to such date are heard, to be settled under the provisions of law existing on the date when filed. It will be noted that the first sentence of the section provides that accounts, which are filed prior to the effective date of' the act but are not prior to such date set for hearing or settlement, shall be settled in accordance with the provisions of the 1945 act.
+The writer of this opinion holds the view that the second sentence refers to the setting of applications for hearing and settlement as distinguished from the mere filing of applications, and that Section 10506-40& does not exclude proceedings to reopen accounts which have been settled prior to September 29, 1945, from the provisions of the 1945 act. But, construing the second sentence as requiring the vacation of an order approving a final account to be determined in accordance with the act in force at the time of the filing of the account, we find that on December 4, 1944, the act of 1943 (120 Ohio Laws, 649, 653) was in force. This act was in force from September 20, 1943, until September 29, 1945.
+Section 10506-40 in the 1943 act provided in part:
+“No such order shall be vacated because of fraud unless a motion to vacate such order is filed within one year after discovery of the existence of the fraud. ’ ’
+Upon review of the evidence taken at the hearing on the motion to vacate, it is clear that appellant did not discover the fraud of her uncle and possibly her aunts until some time in April 1947, and that, appellant having filed her motion to vacate within a year thereafter, the court committed error in overruling her motion to vacate.
+The request of appellant that the court state its conclusions of fact separately from its conclusions of law was denied. The Supreme Court has definitely held that refusal to make such findings is reversible error unless it appears from the record that the party making the' request is not prejudiced by such refusal. Cleveland & T. Rd. Co. v. Johnson & Kellogg, 10 Ohio St., 591; Oxford Tp. v. Columbia, 38 Ohio St., 87; Cleveland Produce Co. v. Dennert, 104 Ohio St., 149, 135 N. E., 531; Levick v. Bonnell, 137 Ohio St., 453, 30 N. E. (2d), 808; Bauer v. Cleveland Ry. Co., 141 Ohio St., 197, 47 N. E. (2d), 225.
+However, in the case of a reversal by this court on the weight of the evidence, such question would not be considered by the Supreme Court. Therefore, since in the instant case we are furnished with a bill of exceptions containing all the evidence, the error is not prejudicial in this court. Cf. Oxford Tp. v. Columbia, supra, 94; In re Guardianship of Zimmerman, 78 Ohio App., 297, 70 N. E. (2d), 153.
+We find that the judgment below is manifestly against the weight of the evidence and, therefore, such judgment is reversed and the cause is remanded for a rehearing.
+Judgment reversed and cause remanded.
+Conn and Carpenter, JJ., concur.
