@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-01-27"
+citations: ["36 Ohio App. 267"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lloyd and Richards, JJ., concur."]
+parties: ["Jenkins et al. v. Nichols."]
+source_url: "https://static.case.law/ohio-app/36/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321560
+---
+
+# Jenkins v. Nichols
+
+## Majority (Williams, J.)
+
+Williams, J.
+Emma L. Jenkins and William Gf. Jenkins brought an action against E. L. Nichols in the municipal court to recover $1,000 upon a cartage agreement. The defendant filed an answer thereto consisting of a general denial and a cross-petition claiming $214.74 for work and labor done and performed. At the time of the filing of the petition, an affidavit in attachment was filed by the plaintiffs, and under the writ of attachment two trucks were seized by the deputy marshal, which trucks were appraised in the sum of $1,000. Personal service of summons was made upon the defendant.
+Two separate motions to discharge the attachment were filed and each of these motions was overruled. Upon trial of the cause, after counsel for plaintiffs had made his statement to the court, counsel for the defendant moved the court to return a judgment in favor of the defendant and against the plaintiffs for $143.74 upon defendant’s cross-petition. The motion was granted and judgment rendered accordingly. In rendering final judgment the municipal court ordered, adjudged, and decreed: “That an appeal bond in such sum as may be required by law shall be given by the plaintiffs in said cause, which bond shall contain a provision to pay the defendant all damages sustained if it be found in the court of common pleas that the attachment was wrongfully obtained, in addition to the other provisions provided by law, and if the plaintiffs shall not give such bond within a period of four days, that the attachment heretofore issued in this cause is hereby released, and the marshal of said court is ordered to return the attached property''to the defendant.”
+Thereupon the plaintiffs filed an appeal .bond in the sum of $370, which was more than twice the amount of the judgment and costs, but less than twice the appraised value of the attached property. After the cause was docketed in the court of common pleas, the defendant filed a motion to dismiss the appeal on the ground that the appeal bond should have been for twice the amount of such appraised value. The court of common pleas, upon hearing, made the following order:
+“Said matter was submitted to the court, and upon due consideration thereof, said court finds that said motion is well taken and should be, and hereby is, granted, unless the plaintiffs shall on or before December 3, 1929, file an appeal bond in this court according to law in double the amount of the judgment and costs returned against the plaintiffs in the Municipal Court of the City of Toledo, Ohio, and also in at least double the amount of the appraised'value of the property attached, containing the provisions set forth in Section 10290 [10280] of the General Code of Ohio, and otherwise complying with the laws in such cases.
+“It is further adjudged, ordered and decreed that in case the plaintiffs fail or refuse to comply with the orders of the court herein, that said appeal of the plaintiffs from the municipal court of the city of Toledo, Ohio, herein, shall stand dismissed at plaintiffs’ costs, to which ruling of the court in granting said motion, and the order of said court in requiring a further or new appeal bond, the plaintiffs excepted; to the order giving the plaintiffs further time or an opportunity to amend or furnish a new appeal bond, the defendant excepts.”
+No new appeal bond was given, and this proceeding in error is brought to reverse the judgment in the court below.
+Section 10280, General Code, provides as follows:
+“When the plaintiff appeals, the bond shall be at least in double the amount of the appraised value of the property attached. In addition to the conditions now provided by law for bonds in appeals, it must contain a provision to pay defendant all damages sustained, if it be found in the common pleas court that the attachment was wrongfully obtained.”
+Under the provisions of Section 1579-296, paragraph 6, which is a part of the act establishing the municipal court in the city of Toledo, Section 10280, General Code, and other provisions relating to practice and procedure in the justice’s courts not inconsistent are made applicable to such municipal court. Section 1579-310, General Code, provides for giving of an appeal bond in the municipal court of Toledo, but there is nothing therein inconsistent with the provisions of Section 10280. Section 10279, General Code, provides that on appeal from a justice’s court the attachment shall continue in force and be determined in the court of common pleas.
+In view of the fact that there was a personal service upon the defendant, and that upon trial judgment was entered in favor of the defendant against the plaintiffs on the cross-petition, the plaintiffs had a right to appeal from the judgment without regard to the attachment, and as the appeal bond was in double the amount of the judgment and costs, as required by statute, it was effective to appeal the cause so far as that cause related to the issues made upon the pleadings, and the only course within the jurisdiction of the court of common pleas was to order the discharge of the attachment and release of the property attached upon failure to file the new appeal bond. As, on appeal, the attachment remained in force, the appellants had no right to have it continue in force without giving the new bond as ordered; but, as the giving of bond with a penalty twice the appraised value of the attached property related only to the right to have the attachment remain in force, the order of the court should have been that upon failure to give such new bond the attachment would be discharged and the attached property released.
+The court erred'in ordering the appeal dismissed upon failure to give the new appeal bond. For such error the judgment of the court below will be reversed, and the cause remanded for further proceedings according to law.
+Judgment reversed and cause remanded.
+Lloyd and Richards, JJ., concur.
