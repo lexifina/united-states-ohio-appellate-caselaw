@@ -1,0 +1,67 @@
+---
+court: "Ohio Court of Appeals"
+docket: "84AP-711"
+decided: "1985-05-21"
+citations: ["24 Ohio App. 3d 112"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Norris and Connors, JJ., concur.", "Connors, J., of the Sixth Appellate District, sitting by assignment in the Tenth Appellate District."]
+parties: ["Morley, Appellant, v. E. B. Jones, D.D.S., Inc. et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/24/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711982
+cites_cases: ["122 Ohio St. 45", "23 O.O.3d 458", "32 Ohio St. 2d 48", "4 Ohio St. 3d 84", "5 Ohio St. 3d 111", "61 O.O.2d 295", "69 Ohio St. 2d 533", "9 Ohio St. 3d 182"]
+---
+
+# Morley v. Jones
+
+## Majority (Strausbaugh, J.)
+
+Strausbaugh, J.
+This is an appeal by plaintiff from a summary judgment in favor of defendants and against plaintiff in the common pleas court.
+The record indicates that plaintiff filed her complaint for injuries resulting from alleged improper dental treatment on December 14, 1982 sounding in dental malpractice alleging inter alia:
+“33. The negligence of defendants consisted of the following:
+“(a) Removing healthy teeth without just cause;
+“(b) Extracting teeth without proper anesthetic;
+“(c) Failing to detect an infection and failing to provide medical or dental relief from the infection;
+“(d) Causing bone damage to plaintiffs gums and failing to provide medical or dental treatment for the removal of the bones;
+“(e) Failing to have a specialist remove an impacted wisdom tooth;
+“(f) Failing to discover and remove a suture which was placed in plaintiff’s mouth by defendants;
+“(g) Failing to make proper impressions for the dentures;
+“(h) Failing to complete the work in the period of time agreed to;
+“(i) Failing to properly prepare a set of dentures which fit correctly; and
+“(j) Requiring plaintiff to wear improperly fitted dentures, thereby causing injuries to the inside of her mouth, gum infection and bone damage.
+“34. As a result of defendant’s negligence, as specified herein:
+“(a) Plaintiff was required to employ another dentist to prepare a proper set of dentures.
+“(b) Plaintiff has lost the use of her natural teeth and was required to wear ill-fitted dentures which caused extreme pain.
+“(c) During the one-year and four-month period plaintiff was never able to use the temporary or permanent dentures for eating and, as a result, was required to follow a thoroughly liquid diet or a soft diet.
+“(d) Plaintiff has suffered pain, anguish and humiliation because of her appearance while wearing the defective dentures.
+“(e) Plaintiff has suffered mental anguish over the loss of her natural healthy teeth.
+“(f) Plaintiff has been seriously and permanently injured; plaintiff has suffered great pain and mental anguish and will, in the future, continue to suffer great pain and mental anguish.”
+The trial court in its decision sustaining defendants’ motion for summary judgment found that plaintiff’s claims are barred by the applicable statute of limitations, R.C. 2305.11(A), which provided (see 139 Ohio Laws, Part I, 2153):
+“An action for libel, slander, assault, battery, malicious prosecution, false imprisonment, or malpractice, including an action for malpractice against a physician, podiatrist, hospital, or dentist, or upon a statute for a penalty or forfeiture, shall be brought within one year after the cause thereof accrued, * * *.” (Emphasis added.)
+Prior to the amendment of the above statute effective March 15, 1982 (see 139 Ohio Laws, Part I, 2153), the statute of limitations for dental malpractice was two years. Therefore, had the old statute of limitations been in effect, the filing by plaintiff of her complaint on December 14, 1982 would have been well within the two-year statute of limitations.
+Plaintiff sets forth the following five assignments of error:
+“1. The trial court erred by finding, as a matter of law, that appellant was required to file her claim within ninety (90) days after the effective date of amended R.C. § 2305.11.
+“2. The trial court erred in finding, as a matter of law, that appellant discovered her injuries on September 24, 1981.
+“3. R.C. Section 2305.11(A) is unconstitutional because it does not provide dental malpractice claimants the same 180-day extension period privilege as it provides to medical malpractice claimants.
+“4. The trial court erred by finding, as a matter of law, that the limitation period was not tolled or suspended during the period of time appellant delayed filing her complaint while awaiting the completion of the appellees’ insurer’s investigation.
+“5. The trial court erred by failing or refusing to consider appellees’ judicial admission as evidence in favor of appellant.”
+With respect to the first assignment of error, “[sjtatutes of limitation are remedial in nature and may be generally classified as procedural legislation.” Gregory v. Flowers (1972), 32 Ohio St. 2d 48 [61 O.O.2d 295], paragraph one of the syllabus. The purposes served by the rationale underlying statutes of limitations are to ensure fairness to the defendant, to encourage prompt prosecution of causes of action, to suppress stale and fraudulent claims, and to avoid the inconvenience engendered by delay, specifically the difficulties of proof present in older cases. O’Stricker v. Jim Walter Corp. (1983), 4 Ohio St. 3d 84, 88. The discovery rule, as recently articulated by the Supreme Court in O’Stricker, supra, is a two-pronged rule. First, a plaintiff must know or reasonably should have known that he has been injured; and second, a plaintiff must know or reasonably should have known that his injury was proximately caused by conduct of the defendant.
+The Supreme Court in Baird v. Loeffler (1982), 69 Ohio St. 2d 533, 535 [23 O.O.3d 458], held that an amendment to the statute of limitations governing malpractice claims may have retroactive application and, thus, bar a claim which accrued prior to the effective date of the amendment, “* * * ‘ “provided such limitation still leaves the claimant a reasonable time within which to enforce the right” ' * * * ” (emphasis and citations omitted) after the effective date of the amendment. The court cites with approval Smith v. New York Central RR. Co. (1930), 122 Ohio St. 45, wherein the Supreme Court held that it could not be claimed that an unreasonable limitation had been effected by a change which allowed the parties to the controversy ninety days within which to begin their respective actions.
+In Oliver v. Kaiser Community Health Found. (1983), 5 Ohio St. 3d 111, the Supreme Court held that “[u]nder R.C. 2305.11(A), a cause of action for medical malpractice accrues and the statute of limitations commences to run when the patient discovers, or, in the exercise of reasonable care and diligence should have discovered, the resulting injury. * * *” In the case herein, plaintiff’s deposition, which was attached to defendants’ motion for summary judgment, clearly establishes that on September 24, 1981, the last time that she was treated by Dr. Jones, she had discovered and was aware of all of the alleged negligent acts set forth in her complaint and all of the alleged injuries resulting from those acts. Pursuant to the holding of the Supreme Court in Oliver, supra, plaintiff’s cause of action for dental malpractice accrued, at the latest, on September 24,1981. Pursuant to the one-year statute of limitations set forth in R.C. 2305.11(A), plaintiff had until September 24, 1982 to file her action for malpractice. However, she did not file her complaint until December 14, 1982, nearly three months after the statute of limitations had run. Accordingly, plaintiff had a reasonable time from the effective date of the statute, March 15,1982, in which to file her claim; but she did not file her complaint within that reasonable time. Plaintiff’s first assignment of error is overruled.
+With respect to the second assignment of error, as we have previously stated, the deposition of the plaintiff is clear that the plaintiff discovered her injuries on or before September 24, 1981. There can be no dispute as to this fact. Therefore, under the law as set forth by Oliver, supra, and Clark v. Hawkes Hospital (1984), 9 Ohio St. 3d 182, and for the reasons set forth in our discussion of the first assignment of error, inasmuch as plaintiff had discovered on or before September 24,1981 the resulting injury, plaintiff’s second assignment of error is overruled.
+With respect to the third assignment of error, R.C. 2305.11(A) provides in part:
+“If a written notice, prior to the expiration of time contained in this division, is given to any person in a medical claim that an individual is presently considering bringing an action against that person relating to professional services provided to that individual, then an action by that individual against that person may be commenced at any time within one hundred eighty days after that notice is given.”
+Plaintiff argues that the failure of R.C. 2305.11(A) to provide a dental claimant with a one-hundred-eighty-day extension creates an irrational classification and, therefore, is violative of the Equal Protection and Due Process Clauses of the Ohio Constitution and of the Fourteenth Amendment to the United States Constitution. At the outset, it should be noted that the letter in question states:
+“This is to advise you that the undersigned has been retained to represent Alice Morley in connection with her claim for damages as a result of the dental service which you performed for her.”
+The letter asks that the recipient have an insurance representative contact plaintiff at an early date. Nowhere does the letter advise that the plaintiff is presently considering bringing an action against the defendants. However, even if the subject letter did provide such notice, different rights have long been established between dental malpractice claimants and medical malpractice claimants, as evidenced by the fact that until the recent amendment of the statute, effective March 15, 1982, the statute provided a one-year statute of limitations with regard to physicians but did not contain any similar provision regarding malpractice actions against dentists. Plaintiff’s third assignment of error is overruled.
+In support of her fourth assignment of error, plaintiff claims that the affidavit attached to her memorandum contra defendants’ motion for summary judgment states “that appellant refrained from prosecuting her remedy in good faith because she was led to believe that appellees’ agent, Cincinnati Insurance Co., would be undertaking an immediate investigation of the facts and would discuss amicable settlement without having to file a lawsuit.” An examination of plaintiff’s twenty-seven-paragraph affidavit does not disclose such a statement; what it does disclose is that defendants’ insurer stated to plaintiff that her claim was being investigated, that defendants’ insurance company would contact plaintiff’s attorney regarding liability after the material had been evaluated and, finally, that defendants’ insurer had concluded that there was no liability on the part of its insured. We find no place in plaintiff’s affidavit where plaintiff stated that she was led to believe that defendants would discuss amicable settlement without plaintiff having to file a lawsuit. We find no facts in the record to support plaintiff’s estoppel argument and, therefore, plaintiff’s fourth assignment of error is overruled.
+In support of plaintiff’s fifth assignment of error, plaintiff states that defendants made a binding judicial admission that plaintiffs claim was governed by a two-year limitation period. This argument is based upon defendant’s answer to question twenty-eight of plaintiff’s first set of interrogatories as follows:
+“28. On what facts do you rely to substantiate your allegation in Paragraph 11 of the Answer filed herein, that all or part of plaintiff’s claim is barred by the applicable statute of limitations?
+“ANSWER: This action was filed on December 14,1982. All extractions were completed by October 1, 1980. The temporary dentures were fitted, seated and fully adjusted by October 15, 1980. The plaintiff was not seen again until March 20,1981. Consequently, any cause of action for the removal of her teeth is barred by the two year statute of limitations.”
+An answer to an interrogatory is an admission only as to the facts at issue in the case and does not establish the law of the case which is established by the prevailing statutes and case law. The statement contained in the answer is a layman’s opinion that this action would be barred by a two-year statute of limitations under the facts thereof; consequently, if the action would be barred under a two-year statute of limitations, it would necessarily be barred under a one-year statute of limitations. Plaintiff does not and cannot claim that she delayed the filing of her complaint in reliance upon the answer to the interrogatory inasmuch as the answer thereto was filed after the complaint had been filed, which was after the statute of limitations had run. Plaintiff’s fifth assignment of error is overruled, and the judgment is affirmed.
+Judgment affirmed.
+Norris and Connors, JJ., concur.
+Connors, J., of the Sixth Appellate District, sitting by assignment in the Tenth Appellate District.
