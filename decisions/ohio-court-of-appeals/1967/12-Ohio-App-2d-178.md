@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "374"
+decided: "1967-11-01"
+citations: ["12 Ohio App. 2d 178"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brenneman, P. J., and Htjnsicker, J., concur."]
+parties: ["The State, ex rel. Mrozik, Appellee, v. City of Brunswick et al., Appellants, et al."]
+source_url: "https://static.case.law/ohio-app-2d/12/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463976
+---
+
+# State ex rel. Mrozik v. City of Brunswick
+
+## Majority (Doyle, J.)
+
+Doyle, J.
+This is an action in mandamus appealed to this court by the respondents from a judgment of the Court of Common Pleas of Medina County restoring the relator, John F. Mrozik, to the office of Chief of Police of the city of Brunswick, from which position he had been removed by the Mayor of that city.
+The facts apparent in the record are:
+1. January 4, 1961: The village of Brunswick became a city following a proclamation of the Secretary of State after the census of 1960 disclosed a population of more than 5,000 persons residing therein.
+2. December 11, 1961: John F. Mrozik, the relator, who had been a regularly appointed police officer of the village of Brunswick, was appointed Marshal, designated Chief of Police, by the interim village Mayor, John Dinda.
+3. January 1, 1962: The first elected city officials assumed their offices.
+4. June 11, 1962: The appointment of John F. Mrozik as Chief of Police was confirmed by the city council; Mrozik had successfully completed a probationary period.
+5. December 12, 1966: John F. Mrozik was summarily removed from the office of Chief of Police by the Mayor, Alwin E. Wolff. No charges had been filed, nor was an opportunity for a hearing provided.
+6. January 12, 1967: The discharged Chief of Police filed a petition in mandamus in the Court of Common Pleas seeking a restoration of his former office of Chief of Police.
+7. June 8, 1967: Pursuant to hearing on the issues made, the Court of Common Pleas issued a writ restoring the relator to the office of Chief of Police.
+It appears that when the appointment to the office of Chief of Police was made, a civil service commission of the now city was nonexistent, and no promotional examination was given or taken. The Mayor was of the opinion, when he summarily discharged the relator-chief, that the office had not been legally filled because a promotional examination had not been taken under authority of Section 143.34, Revised Code. The civil service commission of the city, after the vacancy was created by the dismissal, announced that a promotional test would be given to qualified applicants to fill the vacancy, on February 11, 1967.
+The Court of Common Pleas, when issuing its writ restoring the relator to the office of Chief of Police, stated the reason for its order in the following terms:
+“ * * * the court is not of the opinion that the relator has attained civil service status, but only that he has acquired tenure, or the right to continuation of his status pursuant to his appointment of December 11, 1961, and the subsequent approval of council, June 11, 1962.”
+■ Reference to pertinent provisions of law are here made. Section I, Article XVIII of the Constitution of Ohio:
+“Municipal corporations are hereby classified into cities and villages. All such corporations having a population of five thousand or over shall be cities; all others shall be villages. The method of transition from one class to the other shall he regulated hy law.” (Emphasis ours.)
+Section 703.06, Revised Code:
+“When the result of any federal census or an enumeration as provided in Sections 703.02 to 703.05, inclusive, of the Revised Code, is officially made known to the Secretary of State, he forthwith shall issue a proclamation, stating the names of all nronicipal corporations having a population of five thousand or more, and the names of all municipal corporations having a population of less than five thousand, together with the population of all such municipal corporations. A copy of the proclamation shall forthwith be sent to the mayor of each such municipal corporation, which copy shall forthwith be transmitted to the legislative authority of such municipal corporation, read therein, and made a part of the records thereof. Thirty clays after the issuance of such proclamation each municipal corporation shall be a city * * V’ (Emphasis ours.)
+Section 703.07, Revised Code:
+“Officers of a village advanced to a city, or of a city reduced to a village, shall continue in office until succeeded by the proper officers of the new municipal corporation at the regular municipal election, and the ordinances thereof not inconsistent with the laws relating to the new municipal corporation shall continue in force until changed or repealed.”
+Section 143.34, Revised Code:
+“No positions above the rank of patrolman in the police department shall be filled by original appointment. Vacancies in positions above the rank of patrolman in a police department shall be filled by promotion from among persons holding positions in a rank lower than the position to be filled. No position above the rank of patrolman in a police department shall be filled by any person unless he has first passed a competitive promotional examination. Promotion shall be by successive ranks so far as practicable, and no person in a police department shall be promoted to a position in a higher rank who has not served at least twelve months in the next lower rank. No competitive promotional examination shall be held unless there are at least two persons eligible to compete * * *.”
+Tn a brief summary of the facts, we have a foi’mer village converted into a city on January 4, 1961 (thirty days after a proclamation by the Secretary of State), with the village officers in control; the newly born city became a noncharter city and was subject to the statutory plan for the government of cities. By virtue of Section 703.07, Revised Code, supra, the village officers continued in office, and the relator continued in office as a policeman, through his initial appointment as a policeman of the village. In December of 1961, the Mayor (holding over under the statute, as he had not been succeeded by a properly elected person at a regular municipal election, Section 703.07, Revised Code, supra) appointed the relator, John Mrozik to the office of chief of police of the new city without promotional examination, and, in fact, prior to the creation of a civil service commission for the infant city. The newly appointed chief of police held this office until he was removed, as heretofore set forth, by the Mayor in the year 1966.
+It is obvious from these facts that the appointment was made after the village had become a city, with no attempt to comply with the mandatory provisions of Section 143.34, Revised Code, supra. The statutes extant gave the hold-over Mayor no authority to make such an appointment; nor did the subsequent approval by the newly created city council give life to an appointment previously made without authority. A noncharter city, or the mayor of such a city, has no authority to adopt a method for the selection of a chief of police, which is at variance with Section 143.34, Revised Code, supra.
+The Court of Common Pleas correctly observed that the relator had not obtained civil service status, but incorrectly found that he had “acquired tenure, or the right to continuation of his status pursuant to his appointment * * The tenure-of-office statute, Section 143.27, Revised Code, applies only to persons who have acquired civil service status. The relator here was not under civil service.
+The judgment of the Court of Common Pleas will be reversed, and the writ will be denied.
+Judgment reversed and writ denied.
+Brenneman, P. J., and Htjnsicker, J., concur.
