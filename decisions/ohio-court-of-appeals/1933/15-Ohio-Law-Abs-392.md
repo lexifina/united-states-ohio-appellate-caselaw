@@ -1,0 +1,84 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2222"
+decided: "1933-10-27"
+citations: ["15 Ohio Law Abs. 392"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WASHBURN, PJ, concurs.", "PUNK, J, dissents."]
+parties: ["AETNA LIFE INSURANCE CO v MUNCY"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651876
+cites_cases: ["127 Oh St 26", "20 Oh St 68", "214 Mo. App. 111", "29 Oh St 59", "50 A.L.R. 1276", "50 Oh St 549", "55 A.L.R. 1231", "55 A.L.R. 1237", "63 A.L.R. 1030", "63 A.L.R. 1035"]
+---
+
+# Aetna Life Insurance v. Muncy
+
+## Majority (By STEVENS, J.)
+
+OPINION
+By STEVENS, J.
+But one question is here presented — i.e., Was the decedent insured at the time of his death?
+The evidence discloses that the original group policy was issued by defendant company on Dec. 10, 1924, which policy provided, among other things, that—
+“The employer may effect cancellation of insurance upon any employee insured hereunder upon or at any time after termination of employment, or when the employee fails to make the required premium contribution, by forwarding to the home office of the company written request therefor (on the company’s form) properly filled out and signed by the employer. Insurance shall cease to be in force at the end of the policy month in which employment terminated or premium contribution ceased, except that if said request is received by the company subsequent to the expiration of thirty days following the date employment terminated or premium cpntribution ceased, insurance shall be continued to the end of the policy month in which the request is received by the company. Premium charge shall cease at the end of the policy month in which insurance terminates. If through clerical error on the part of the employer discontinuance of insurance is not requested immediately after termination of employment, the company will refund all premiums paid beyond the policy month in which employment terminated.”
+The certificate issued to decedent in pursuance of said policy, contained the following:
+“Under and subject to the terms and conditions of said policies and the applications therefor” (group policies and applications), “the life of Edd Logan, an employee, is insured” etc.
+The application signed by decedent read as follows:
+“I hereby apply for life insurance in amount of $2000.00, and sickness and accident insurance in the amount of $15.00 per week, in accordance with the terms of the group policies issued to my employer whom I authorize to deduct from my wages as my contribution toward the cost of the insurance the sum of $1.75 per month. I also hereby make application for $1000.00 additional life- insurance at an additional cost to me of 50c per month, upon my completion of five years’ service, as shown by the records of the company.”
+Raymond Muncy, also known as Ed Muncy, who worked under the alias of Edd Logan, took out his certificate on April 12, 1929, and on April 15 and May 15 he paid the monthly premium due thereon. On May 29, 1929, he terminated his employment with the B. F.' Goodrich Co., and on June 8,1929, he was killed in an automobile accident in Tennessee.
+The defendant sought to show that a practice had come into existence by reason of an agreement between the B. F. Goodrich Co. and defendant, as of Aug. 10, 1926, whereby insurance terminated automatically upon the termination of employment. Said agreement was evidenced by a rider, dated Nov. 4, 1931, and attached to the master policy, which rider attempted to make the provisions thereof retroactive to Aug. 10, 1926.
+It is conceded that if said practice, agreement and rider are not effective to terminate the insurance forthwith upon termination of decedent’s employment, then the policy month for which premium had been collected, expired on June 12, 1929, four days after the death of Muncy.
+It will be noted that the rider in question is dated approximately four months after the filing of plaintiff’s petition and two years and five months after the death of the decedent.
+It is urged by defendant that decedent’s certificate provided that “This insurance will be terminated whenever said employee, for any reason whatever, ceases to be in the employ of the B. P. Goodrich Co., as shown by their records.”
+True, the certificate did so state; but it also stated that “Under and subject to the terms and conditions of said policies and the applications therefor, the life of Edd Logan, an employee, is insured * * V’
+It could not be successfully urged, in the event of discrepancy between the terms of the certificate and of the policies, that the certificate would control as between the employee and the insurer. The employee would undoubtedly be bound by the provisions of the policy itself, which instrument would also determine the liability of the insurance company.
+“An action against the insurer under a group insurance policy, by an employee, must be brought upon the contract contained in the policy issued to the employer, and not upon the certificate, issued to the employee * *
+63 A.L.R. 1035, citing Hardie v Metropolitan Life Ins. Co. (Mo. App., 1928), 7 SW (2nd) 746.
+See also, Gallagher v Simmons Hardware Co., 214 Mo. App. 111.
+The master policy in the instant case further provided, under the heading “All agreements must be signed by an executive officer,” as follows:
+“All agreements made by the company are signed by its president, vice president, secretary, assistant secretary, secretary group division, treasurer or assistant treasurer. No other person can alter or waive any of the conditions of this policy or make any agreement which shall be binding upon the company.”
+There was no agreement, signed by any of the above officials of the Aetna Co., in effect during the pendency of decedent’s insurance, which in any way modified the terms of the master policy. We are therefore relegated to the terms of that policy for determination of the liability of defendant to plaintiff.
+We might here observe that there is no evidence in the record showing the claimed change in the date of termination of insurance under the master policy, except this rider — a self-serving instrument— which was executed long after -the death of the decedent, and which, for the purpose of the instant case, has, in our opinion, no place in this case. It should not have' been admitted or considered, for the reason that a parol modification of said policy was not pleaded by defendant in its answer, and undoubtedly it would not have been admitted had proper objection been made by counsel for plaintiff.
+To permit the provisions of a written contract, made for the benefit of a third person, to be modified by parol, and that parol modification to be evidenced by a writing executed in conformity to the requirements of the written contract long after the vesting of liability to such third person or his legal representatives, which writing purports to show said parol modification to have been in effect before the vesting of liability to said third person or his legal representatives, would be to sanction a doctrine which would undermine the .security of contracts in writing. Such a doctrine would be entirely too dangerous, too fraught with inequitable consequences, to be countenanced by any court.
+Under the terms of the master policy, there can be no doubt but that decedent’s insurance was in effect at the time of his death, and that the liability of defendant had vested long before the execution of said rider.
+We are accordingly of the opinion that the plaintiff is entitled to recover, and the judgment of the trial court is therefore affirmed.
+WASHBURN, PJ, concurs.
+PUNK, J, dissents.
+
+## Dissent (By PUNK, J.)
+
+DISSENTING OPINION
+By PUNK, J.
+In addition to the facts stated.in the majority opinion, and perhaps in repetition of some of them, it should be noted as follows:
+On Dec. 10, 1924, the Aetna Life Insurance Co. issued to the B. P. Goodrich Co. what is known as a group policy of life insurance, by the terms of which and the application therefor, the insurance company insured the lives of such employees of the Goodrich Co. as made application for such insurance and were accepted by the insurance company.
+The applications of such employees were made and sent through the Goodrich Co. to the insurance company after they had worked for the Goodrich Co. a certain period of time. A certificate was then issued to each employee that was accepted by the insurance company, showing, among other things, the amount for which such employee was insured and the name of his beneficiary. The premiums were systematically paid monthly by the Goodrich Co. to the insurance company, a part of which were retained each month from the amount due each employee.
+Under the terms of the policy as originally written, if the employment of such employee was terminated during the policy month, the insurance continued to the end of that policy month within which the employment terminated.
+Plaintiff’s assured was killed in an automobile accident within the policy month after he ceased to be in the employ of said Goodrich Co.
+The undisputed evidence as shown by the record is that on Aug. 10, 1926, it was mutually agreed, orally, between the insurance company and the Goodrich Co., that the insurance on the life of any employee should automatically cease upon the termination of his employment, instead of at the end of that policy month in which the employment terminated, and from that time until after this action was commenced, said oral modification of the master policy was acted upon and carried out as a part of said master policy, and the Goodrich Co. paid premiums and received credits for its employees, including plaintiff’s assured, upon the basis .of that oral modification, although it was not reduced to writing and attached as a rider to the policy until Nov. 4, 1931, which was some months after the suit herein was started in the Common Pleas Court.
+It thus clearly appears that the Goodrich Co. paid premiums to the insurance company for its employees according to said oral modification of the master policy for more than 2% years before the insured herein, Raymond Muncy, under the name of Edd Logan, made application for and received .his certificate of insurance, which certificate definitely stated on its face that his insurance terminated whenever he for any reason whatever ceased to be in the employ of said Goodrich Co. There is no claim that there was ever any representation to this employee or anyone else that he was insured until the end of the policy month in which his employment terminated.
+It should be further noted that at the trial, plaintiff (Muncy’s beneficiary) offered in evidence the original master policy of insurance which was held by the Goodrich Co., together with all riders attached thereto, including the one dated Nov. 4, 1931,. which is in the nature of a nunc pro tunc affair, setting forth in writing the oral agreement made on Aug. 10, 1926; all of which were admitted in evidence without objection.
+During 'the progress of the trial, the insurance company offered evidence to show who was present and what was said and done on Aug. 10, 1926, between the insurance company and the Goodrich Co., to make said oral modification of the master policy — to which counsel for plaintiff objected, and upon the suggestion of the court that the policy was the best evidence, the objection was sustained. The rider of Nov. 4, 1931, was thus left to stand uncontradicted, without objection, as the agreement made on Aug. 10, 1920, modifying the master policy.
+Whether or not the insurance company had a right to show, by oral testimony, any oral agreement between it and the Goodrich Co. to modify the policy, or show an oral waiver of any of the written provisions of the policy, was unimportant after the rider was admitted, without objection, as the contract that had been entered into orally on Aug. 10, 1926.
+The rule is well established that a written agreement may be modified by an oral agreement, and even the agreement that a written contract can be modified only in a particular manner, can be changed by a parol agreement.
+22 O. Jur., “Insurance,” §161, pp. 316-317.
+1 Couch on Insurance, §§29 and 78.
+50 Oh St 549, Machine Co. v Ins Co.
+22 Oh Ap 129, at p. 136, (4 Abs 767), Central Casualty Co. v Fleming.
+32 Oh Ap 316, Royal Indemnity Co. v Goodman.
+29 Oh St 59, Abbott, etc. v Inskip.
+20 Oh St 68, Lefferson v Dallas.
+3 Williston on Contracts, §1828, pp. 3147-3149.
+Moreover, the right of a third person for whose benefit a promise is made, is affected with all the infirmities of the contract as between the parties to the agreement.
+55 A.L.R. 1231, Myerson v New Idea Hosiery Co.
+It is a recognized rule that a contract for the benefit of a third person may be modified or cancelled at any time before such third person does something in reliance upon the benefits given him by the contract. There is no claim that plaintiff or her assured did anything during his lifetime in reliance upon the terms of the master policy as originally written in contravention of its oral modification, or that he or plantiff ever knew anything about the terms of the master policy until long after his death, other than the information contained in the certificate issued to him, which is in exact accord with the terms of the oral modification of the master policy. It is fundamental that, when a contract is made for the benefit of another, he can have no greater rights under such contract than it provides.
+40 Oh Ap 486 (U Abs 496) Thull v Equitable L. Assurance Society.
+127 Oh St 26, Union Sav. & Loan Co. v Cook.
+If the situation in the instant case had been the reverse of what it is, and the master policy had originally provided that the insurance should cease on the termination of the employment, and then orally modified by providing that it should continue- to the end of the policy month and the increased premiums had been paid and credits given on that basis for 2% years before decedent was insured under said policy, it would hardly be claimed that the insurance company would not be held liable under such oral modification to the end of the policy month; and I see no reason why the converse should not be true, in a case where the evidence is clear and undispqtgd and admitted without objection, and, as in this case, there is no claim or evidence of fraud or bad faith.
+It should be further noted that it is settled that in group policies such as the one in the instant case, the contract is between the insurance company and the employer, and is sometimes designated as the master policy; that the master policy is held by the employer and that it controls as between the employee and the insurance company; that the employer holds the master policy not for but against the insurer; that the certificate issued to the employee is not a part of the contract of insurance but is only in the nature of a participating certificate or membership card, the only purpose of which is to give the employee .notice of his rights under the group policy and to furnish him evidence of such policy; and that the employer pays the premiums, and it is immaterial to the insurance company when or how or how much, if any, of the premium is collected from the employee by the employer. The policy is regarded as a favor or kindness bestowed upon the employee by the employer. Some employers do not charge the employee anything'. In the instant case the employee paid only $1 per month for $2,000 insurance. It might also be noted that the interests of the employer are with the employee and against the insurance company, and that the insurer is not responsible for the manner in which the employer imparts information concerning the policy to the employee for whom the employer is acting; and if the employer fails to do his duty and properly inform and protect the employee as to his rights under the master policy, the employee might have a cause of action against his unfaithful representative, but none against the insurance company, as such neglect is not chargeable to the insurer.
+50 A.L.R. 1276, at p. 1282 et seq., Duval v Metropolitan Life Ins. Co., and annotations.
+55 A.L.R. 1237, Thompson v Pacific Mills, and annotations.
+63 A.L.R. 1030, Kowalski v Aetna Life Ins Co., and annotations.
+Thull v Equitable L. Assurance Society, supra.
+I am therefore inclined to the opinion that, applying the established rules governing group policies to the facts in the instant case, the assured and his beneficiary are bound by the oral modification of the master policy, and I thus find myself unable to concur in the judgment.
