@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "L-93-222"
+decided: "1994-01-21"
+citations: ["92 Ohio App. 3d 31"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Glasser and Sherck, JJ., concur."]
+parties: ["CAYGILL, Appellant, v. JABLONSKI, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/92/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1706816
+cites_cases: ["449 N.E.2d 1", "5 OBR 143", "5 Ohio St.3d 91", "605 N.E.2d 1352", "78 Ohio App.3d 807"]
+---
+
+# Caygill v. Jablonski
+
+## Majority (Abood, Presiding Judge.)
+
+Abood, Presiding Judge.
+This is an appeal from a summary judgment granted by the Lucas County Court of Common Pleas in favor of defendant-appellee Patrick Jablonski.
+Plaintiff-appellant John D. Caygill sets forth the following assignment of error:
+“The trial court erred when it granted appellee’s motion for summary judgment upon expanded record because a genuine issue of material fact remains as to whether appellee’s, employer consented to or acquiesced in appellee’s playing of stickball on July 24, 1989, as demonstrated by the conflicting affidavits presented by the parties in their memoranda for and against summary judgment.”
+This is the second time this case is before this court on appeal from a summary judgment entered in favor of appellee on the basis that he is immune from suit pursuant to R.C. 4123.741. The underlying facts of the case are fully set forth in our opinion in Caygill v. Jablonski (1992), 78 Ohio App.3d 807, 605 N.E.2d 1352. The facts that are relevant to this appeal are as follows. While “on the clock” at work, but engaged in “horseplay,” appellee caused an injury to appellant. Appellant applied for and received workers’ compensation benefits from the Ohio Bureau of Workers’ Compensation. Appellant then initiated this action against appellee, alleging liability for negligence. On October 7,1991, the trial court filed its opinion and judgment entry in which it found appellee to be immune from suit pursuant to R.C. 4123.741 and granted summary judgment to appellee. Appellant appealed that judgment.
+On September 30,1992, in Caygill, supra, this court found that a worker who is engaged in horseplay that is disconnected with his employment, and who injures a fellow worker in the process, is not entitled to immunity from tort liability that is afforded to fellow employees by R.C. 4123.741. The basis for our finding was that (1) R.C. 4123.741 only gives immunity to tortfeasors who are “employees”; (2) an employee is defined under R.C. 4123.01(A)(1)(a) as “[ejvery person in the service of * * * ” his employer (emphasis added); and (3) a worker who is engaged in horseplay disconnected with his employment is not at that time in the service of his employer and is not, therefore, an “employee” entitled to immunity under R.C. 4123.741. We also found that reasonable minds could only conclude from the undisputed facts that appellee was engaged in horseplay at the time he injured appellant, but that a genuine issue of fact remains as to whether such horseplay was connected with appellee’s employment, since there was evidence indicating that the employer might have acquiesced in the horseplay.. Accordingly, we reversed the summary judgment in favor of appellee (which had been entered entirely on the authority of R.C. 4123.741), and remanded the case.
+On remand, the trial court once again granted summary judgment to appellee on the basis that appellee is immune from suit pursuant to R.C. 4123.741. In its judgment, the trial court refused to follow this court’s mandate as set forth in our September 30, 1992 opinion and judgment entry on the basis that we “overlooked” the Ohio Supreme Court case of Kaiser v. Strall (1983), 5 Ohio St.3d 91, 5 OBR 143, 449 N.E.2d 1. Upon review of our September 30, 1992 decision, the trial court concluded that “[njowhere in the court of appeals’ opinion did the court cite Kaiser v. Stroll.” The trial court then proceeded to an analysis of Kaiser v. Strall and found that that case “has foreclosed any further avenues for compensation for the negligent acts of a co-employee.” In reaching its finding, the trial court reasoned that:
+“The Strall case makes it clear that once an injured employee files for and receives workers’ compensation he is estopped from filing any other common-law or civil claims * * *.”
+It is from this judgment that appellant brings this appeal.
+It is unnecessary for this court to set forth the arguments of the parties since we find that the trial court has abused its discretion by refusing to follow the mandate of a higher court and by attempting to “reverse” this court’s judgment of September 30, 1992.
+As to the trial court’s finding that this court “overlooked” and “[njowhere * * * cite[d]” Kaiser v. Strall, we suggest that the trial court review our opinion of September 30, 1992, where we specifically explained that:
+“No Ohio court has directly addressed the issue of whether a tortfeasor qualifies for statutory immunity from tort liability under R.C. 4123.741 when, at the time of causing the injury, he was engaged in pursuits disconnected with his employment. Those courts that have dealt with the issue of immunity under R.C. 4123.741 have done so in cases that involve employees who injure coworkers' while both are within their employment. In those cases, the courts have either assumed the status of the tortfeasor to be that of an ‘employee’ because such status was admitted, stipulated to or not an issue in the case, Kaiser v. Strall (1983), 5 Ohio St.3d 91, 5 OBR 143, 449 N.E.2d 1; * * *.” (Emphasis sic.) Caygill, supra, 78 Ohio App.3d at 813, 605 N.E.2d at 1356.
+It is clear from the above quote that not only did this court not overlook Kaiser v. Strall, but in fact relied upon that case as the springboard for our entire subsequent analysis of the issues in this case.
+Although our decision of September 30, 1992 forecloses any further analysis by the trial court into the application of Kaiser v. Strall to the facts of this case, in order to avoid any further unnecessary appeals we find it worthwhile to clarify the apparent confusion of the trial court.
+The Supreme Court of Ohio did not hold in Kaiser v. Strall, as the trial court contends, that “once an injured employee files for and receives workers’ compensation he is estopped from filing any other common-law or civil claims.” (Emphasis added.) If this were the case, a worker who is injured by a defective product at work and who applies for and receives workers’ compensation benefits would have no recourse against the third-party manufacturer of the product. In the syllabus of Kaiser v. Strall the Supreme Court made it clear that in order for the party who has applied for and received workers’ compensation benefits to be precluded from seeking common-law remedies against the tortfeasor, he must have been “injured as a result of a co-employee’s negligent acts * * (Emphasis added.) The injured employee is not forced, by virtue of R.C. 4123.741, to elect between the remedies available in a civil action and those available under the workers’ compensation statute if the tortfeasor is not a fellow employee.
+Since this court has fully addressed the issue of appellee’s status under R.C. 4123.741 in our September 30, 1992 opinion and judgment entry, we find appellant’s assignment of error to be well taken, and admonish the trial court to follow that mandate.
+The summary judgment entered by the Lucas County Court of Common Pleas is reversed. This case is hereby remanded to that court for further proceedings not inconsistent with this decision or this court’s decision in this case of September 30, 1992.
+Judgment reversed and cause remanded.
+Glasser and Sherck, JJ., concur.
