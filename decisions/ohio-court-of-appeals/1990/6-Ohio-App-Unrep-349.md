@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. CA90-02-040"
+decided: "1990-08-20"
+citations: ["6 Ohio App. Unrep. 349"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P.J., HENDRICKSON and KOEHLER, J.J., concur."]
+parties: ["Ketterer v. Cincinnati Gas & Electric Co."]
+source_url: "https://static.case.law/ohio-app-unrep/6/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1617982
+cites_cases: ["31 Ohio App. 3d 196", "339 U.S. 306", "39 Ohio App. 2d 97", "40 Ohio St. 3d 265", "47 Ohio St. 2d 146", "66 Ohio St. 2d 290"]
+---
+
+# Ketterer v. Cincinnati Gas & Electric Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal, transcript of the docket, journal entries and original papers from the Hamilton Municipal Court, and the briefs and oral arguments of counsel.
+Now, therefore, the assignment of error having been fully considered is passed upon in conformity with App. R. 12(A) as follows:
+Defendant-appellant, Cincinnati Gas & Electric Company("CG&E") appeals from a default judgment issued by the Hamilton Municipal Court in July 1989. The default judgment arose out of a complaint in negligence filed by plaintiff-appellee, David Ketterer, for damage to his vehicle after it collided with a CG&E truck parked in the roadway for the purpose of repairing utility lines. According to the accident report, on February 24, 1989, Ketterer's wife was driving his vehicle east on Beissinger Road when she encountered the CG&E truck blocking the eastbound lane. When she attempted to drive around the truck, the vehicle came into contact with the truck's rigger legs, which were extended into the westbound lane.
+In his complaint, Ketterer alleged CG&E had negligently positioned the truck in the road, claiming $1,000 in damages.
+Ketterer directed his summons and complaint to be served upon CG&E at its maintenance facility at 593 Todhunter Road in Monroe, Ohio. These documents were delivered by certified mail, and a receipt was returned to the clerk of the trial court. When CG&E failed to answer the complaint, Ketterer moved for a default judgment, which motion the trial court granted. CG&E was notified that its failure to respond had resulted in a judgment of default, and so filed a motion for relief from judgment under Civ. R. 60(B). The trial court denied this motion.
+CG&E then timely filed the instant appeal, assigning as error the failure of the trial court to grant its motion for relief from judgment under Civ. R. 60(B).
+Civ. R. 60(B) provides, in part:
+"*** On motion and upon such terms as are just, the court may relieve a party or his legal representative from a final judgment, order or proceeding for the following reasons: (1) mistake, inadvertence; surprise or excusable neglect; *** or (5) any other reason justifying relief from the judgment. The motion shall be made within a reasonable time, and for reasons (1), (2) and (3) not more than one year after the judgment, order or proceeding was entered or taken."
+To prevail on a motion for relief under Civ. R. 60(B), a movant must show:
+•>*** (i) party has a meritorious defense or claim to present if relief is granted; (2) the party is entitled to relief under one of the grounds stated in Civ. R. 60(B) (1) through (5); and (3) the motion is made within a reasonable time, and, where the grounds of relief are Civ. R. 60(B) (1), (2) or (3), not more than one year after the judgment, order or proceeding was entered or taken." GTE Automatic Electric v. ARC Industries (1976), 47 Ohio St. 2d 146, syllabus. These three elements are conjunctive and must each be satisfied before relief from judgment may be granted. Id., at 151.
+Our review is limited to an analysis of whether the trial court abused its discretion in its ruling on the Civ. R. 60(B) motion. Marion Production Credit Assn. v. Cochran (1988), 40 Ohio St. 3d 265, 271. In conducting our review, we will individually address each of the criteria outlined in GTE, supra.
+On the issue of whether CG&E's motion for relief from judgment was timely, the parties do not dispute that the motion was filed within a reasonable tima Moreover, the motion was clearly filed within one year. Therefore, we find this requirement has been satisfied.
+CG&E claims its failure to answer Ketterer's complaint was excusable neglect based upon its assertion that the summons and complaint were not properly served. Under Civ. R. 4, the summons and complaint need only be served to the usual place of business of the corporation. Samson Sales v. Honeywell, Inc. (1981), 66 Ohio St. 2d 290. Even where service is sent to a usual place of business of the corporation, however, such service must be reasonably calculated to give notice to the defendant. Id., citing Mullane v. Central Hanover Bank & Trust Co. (1950), 339 U.S. 306, 314, 70 S.Ct. 652, 657.
+In the instant case, we believe the summons and complaint were served in a manner reasonably calculated to give notice to CG&E, and that Ketterer was entitled to treat the Todhunter Road facility as a "usual place of business" for purposes of service of process under Civ. R. 4.
+Ketterer directed the summons and complaint to the address supplied by the truck operator on the accident report completed at the scene. As was the case in Samson, the problem was not with the address used by Ketterer, but with CG&E's handling of the documents once they had arrived at the Todhunter Road facility. Moreover, where a corporation like CG&E has many places of business, courts would be mistaken in interpreting Civ. R. 4 too narrowly, thereby allowing the corporation to argue any location to which the summons and complaint are sent is improper. In the instant case, if Ketterer had sent the documents to CG&E's Fairfield or Middletown offices, or to its headquarters in downtown Cincinnati, the company still may have objected to service by arguing the Todhunter Road facility or any of the other locations was the only choice. We believe Civ. R. 4 is designed to prevent this possibility.
+Having found that service of process was properly obtained, we address the question of whether CG&E's failure to answer constituted excusable neglect.
+In Sycamore Messenger, Inc. v. Cattle Barons, Inc. (1986), 31 Ohio App. 3d 196, 197, the Hamilton County Court of Appeals held that the failure of a corporation's bookkeeper to forward the summons and complaint to the appropriate person constituted excusable neglect. We distinguish Sycamore Messenger on the basis that the defendant in that case presented its explanation for the error by affidavit. Id. Thus, there was evidence in the record tracing the complaint from its arrival at the corporate offices until it reached the proper party some time after default judgment had been entered.
+In the instant action, the summons and complaint simply disappeared. CG&E presented no evidence to suggest inadvertent mistake was behind its failure to answer, relying instead on its conviction that improper service would absolve the company of any duty to respond and give it an excuse for neglecting to protect its interests. Under these circumstance^ we find the dissent in Sycamore Messenger more persuasive:
+"We have never held unexplained inaction of a recipient who is duly served with a summons or complaint amounts to excusable neglect. It would undermine and subvert the judicial process if we allow the negligent handling of official court communication^ in and by itself, to be a sufficient excuse for a failure to answer." Id., dissent at 198.
+CG&E's failure to respond to Ketterer's complaint was not excusable. Thus, this prong of the GTE test has not been fulfilled.
+CG&E must also demonstrate that it has a meritorious defense in order to justify a motion for relief from judgment. If the evidentiary material presented in support of the Civ. R. 60(B) motion contains no operative facts or only meager and limited facts and conclusions of law, the trial court does not abuse its discretion to overrule the motion. Adomeit v. Baltimore (1974), 39 Ohio App. 2d 97, 105.
+CG&E asserts that it presented two meritorious defenses to the trial court in support of its Civ. R. 60(B) motion and that the court abused its discretion in failing to recognize these defenses.
+CG&E first argues that there was adequate evidence presented to support a finding of no negligence in the positioning of the repair truck on the roadway. However, the sole reference to this issue lies in an internally-generated accident report in which an employee on the scene alleged that safety cones and flagmen were positioned around the truck. An accompanying memorandum submitted by CG&E's counsel merely states that the company had a meritorious defense; it does not independently detail what safety measures were taken, nor does it outline specifically what the defense is. We surmise CG&E's defense was that there was no breach of duty toward Ketterer, yet the evidentiary material contains only meager and limited facts to this end. Clearly, we may not find a meritorious defense was adequately demonstrated by these documenta
+Moreover, CG&E's defense that Ketterer was contributorially negligent is without merit, since Ketterer himself was not involved in the accident. To raise the defense, CG&E needed to have joined Ketterer's wife as a necessary party under Civ. R. 19. We additionally note that CG&E's argument that the driver of Ketterer's vehicle acted as an intervening force or superceding cause so as to excuse any negligence by CG&E essentially asserts contributory negligence and thus lacks merit.
+Because we find CG&E did not adequately demonstrate a meritorious defense, the company must fail on this third requirement under GTE, supra.
+Having concluded that CG&E has not shown that excusable neglect or a meritorious defense is present to support its motion under Civ. R. 60(B), we find the trial court did not abuse its discretion in denying that motion. We therefore overrule CG&E's assignment of error.
+The assignment of error properly before this court having been ruled upon as heretofore set forth, it is the order of this court that the judgment or final order herein appealed from be, and the same hereby is, affirmed.
+It is further ordered that a mandate be sent to the Hamilton Municipal Court, for execution upon this judgment.
+Costs to be taxed in compliance with App. R. 24.
+And the court being of the opinion that there were reasonable grounds for this appeal, allows no penalty.
+It is further ordered that a certified copy of this Memorandum Decision and Judgment Entry shall constitute the mandate pursuant to App. R. 27.
+To all of which the appellant, by its counsel, excepts.
+JONES, P.J., HENDRICKSON and KOEHLER, J.J., concur.
