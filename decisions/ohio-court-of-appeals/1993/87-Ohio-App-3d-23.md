@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "64089"
+decided: "1993-04-05"
+citations: ["87 Ohio App. 3d 23"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["James D. Sweeney, P.J., Patricia A. Blackmon and Krupansky, JJ., concur."]
+parties: ["SIMON, Appellant, v. DRAKE CONSTRUCTION COMPANY et al.; Keeva J. Kekst Architects, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/87/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1694243
+cites_cases: ["11 OBR 298", "11 Ohio App.3d 202", "1992 WL 333148", "28 OBR 400", "28 Ohio St.3d 333", "31 OBR 165", "31 Ohio St.3d 60", "346 N.E.2d 673", "46 Ohio St.2d 127", "464 N.E.2d 187", "477 U.S. 317", "504 N.E.2d 415", "508 N.E.2d 958", "570 N.E.2d 1095", "59 Ohio St.3d 108", "75 O.O.2d 184"]
+---
+
+# Simon v. Drake Construction Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Richard Simon, plaintiff-appellant, filed a complaint for negligence against Drake Construction Co., Keeva J. Kekst Architects, defendant-appellee, Commerce Steel, Inc., city of Lyndhurst, John W. Bowes & Associates and Ralph E. Linton & Associates. The trial court granted Kekst’s motion for summary judgment and this appeal was taken pursuant to Civ.R. 54(B).
+Simon assigns the following assignments of error for review:
+“1. The trial court erred in granting defendant-appellee’s motion for summary judgment based on the existence of sufficient evidence to present to a trier of fact that the ladder was negligently designed, notwithstanding the lack of a supporting expert affidavit.
+“2. The trial court erred in overruling appellant’s motion to reconsider and revise previous order pursuant to Ohio Civil Rule 54(B).”
+Having reviewed the record and arguments of the parties, we affirm the decision of the trial court; accordingly, Simon’s assignments of error are not well taken. The apposite facts follow.
+In August 1988, the city of Lyndhurst and Kekst entered into a contract for the preparation of architectural designs and plans for the construction of a city garage at 5301 Mayfield Road. The plans were approved by the city and the city turned them over to Drake Construction to build the facility. Simon worked on the construction project as an employee of Drake. During the construction, Simon climbed to the top of a fixed ladder inside the garage to close a roof door. While standing on top of the ladder, he fell and sustained injuries.
+Simon initiated this action for damages due to his injuries. Simon’s complaint, in pertinent part, alleged that Kekst’s plans and specifications failed to meet the Occupational Safety and Health Administration (“OSHA”) safety code; therefore, Kekst was negligent.
+Kekst filed a motion for summary judgment and asserted that its plans met the standard of care required by a competent architect. In support of the motion, Kekst provided several documents and the affidavit of G. Gifford Dyer. Dyer, a senior vice president for Kekst and an architect licensed in the state of Ohio, reviewed and studied the contract, architectural drawings and specifications for the garage. He averred that the drawings and specifications met the standard of skill, care and diligence required by a reasonably competent architect within the profession. He also averred that the plans were reasonably acceptable within the profession.
+Simon filed a brief in opposition and asserted that he was injured as a result of negligent design. Simon argued that Kekst’s failure to include a ladder cage or ladder well violated controlling building codes, including OSHA and the Industrial Commission of Ohio regulations. Simon further argued that failure to meet building codes is evidence of negligence.
+Kekst filed a reply to Simon’s brief in opposition and, thereafter, the motion was granted.
+Simon filed a motion for reconsideration under Civ.R. 54(B). In support of the motion, Simon provided additional evidence received through continuing discovery and the affidavit of Clarence Ceroke. Ceroke, a mechanical engineer licensed as a professional engineer, reviewed Kekst’s drawings and specifications and other evidence. He averred that the fixed ladder did not comply with OSHA, Section 1910.27, which required a ladder cage. Kekst filed a brief in opposition and argued that no building code was violated and OSHA did not apply. Finally, the trial court denied the motion for reconsideration and this appeal followed.
+We agree with the trial court’s summary judgment in favor of Kekst. The two assignments of error in this appeal raise the single issue of whether Simon produced evidence which demonstrates that Kekst’s designs and plans failed to meet the duty of care of an architect causing Simon’s injury. We find Simon failed to present sufficient evidence of the standard of care in response to the summary judgment.
+Civ.R. 56(C), in pertinent part, provides that:
+“A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor. * * * ”
+Once a motion for summary judgment is properly filed pursuant to Civ.R. 56(C), the nonmoving party is forced “to produce evidence on any issue for which that party bears the burden of production at trial.” Wing v. Anchor Media, Ltd. of Texas (1991), 59 Ohio St.3d 108, 570 N.E.2d 1095, paragraph three of the syllabus, citing Celotex v. Catrett (1986), 477 U.S. 317, 106 S.Ct. 2548, 91 L.Ed.2d 265.
+An architect may be held liable for the foreseeable consequences of a failure to exercise reasonable care in the preparation of designs for a particular structure. Cincinnati River Front Coliseum, Inc. v. McNulty Co. (1986), 28 Ohio St.3d 333, 28 OBR 400, 504 N.E.2d 415. Whether an architect exercises reasonable care in the preparation of designs depends upon the standard of care which licensed architects must follow. Expert testimony is required to establish the standard of care, unless the lack of skill or care of the professional is so apparent as to be within the comprehension of a layperson and requires only common knowledge and experience to understand it. See, e.g., Bruni v. Tatsumi (1976), 46 Ohio St.2d 127, 130, 75 O.O.2d 184, 186, 346 N.E.2d 673, 677 (construed standard of care for medical profession), and Bloom v. Dieckmann (1983), 11 Ohio App.3d 202, 11 OBR 298, 464 N.E.2d 187 (construed standard of care for legal profession).
+In this case, Simon did not present evidence that Kekst failed to meet the standard of care required of a licensed architect. Once Kekst presented expert testimony, Simon was forced to present expert testimony that Kekst failed to meet the standard of care, or present evidence of a lack of skill or care so apparent as to be within the comprehension of a layperson. See Hoffman v. Davidson (1987), 31 Ohio St.3d 60, 61, 31 OBR 165, 166-167, 508 N.E.2d 958, 959-960. Simon only presented evidence that a fixed ladder was designed without a ladder cage as required by OSHA standards for safety.
+While the lack of a ladder cage on an indoor fixed ladder may be some evidence of negligence it is not so apparent that a layperson could conclude that Kekst failed to meet the standard of care of an architect. “[The] violation of a statute or ordinance as negligence per se is limited to cases of active conduct and is inapplicable where one’s conduct is merely passive.” Schwirtz v. Berry (Sept 1, 1983), Cuyahoga App. No. 46305, unreported, at 6, 1983 WTL 4677 (held building code violation does not establish negligence per se). Accord Alston v. Cleveland Metal Stamping Co. (Nov. 12, 1992), Cuyahoga App. No. 61250, unreported, at 8, 1992 WL 333148 (held OSHA violations do not establish intent per se). Therefore, any violation of a statute, code or regulation must be construed in the content of the applicable duty of care.
+Absent evidence that architectural designs, which are not in conformity with OSHA standards, in and of themselves fail to meet the standard of care of a licensed architect, Kekst was entitled to summary judgment.
+Judgment affirmed.
+James D. Sweeney, P.J., Patricia A. Blackmon and Krupansky, JJ., concur.
