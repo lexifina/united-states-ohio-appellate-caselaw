@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA92-098-034"
+decided: "1993-03-29"
+citations: ["87 Ohio App. 3d 474"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan and Fain, JJ., concur.", "William H. Wolff, Jr., James A. Brogan and Mike Fain, JJ., of the Second Appellate District, sitting by assignment."]
+parties: ["SHIELDS et al., Appellees, v. KARNS et al.; Payne et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/87/cases/0474-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1694254
+---
+
+# Shields v. Karns
+
+## Majority (Wolff, Judge.)
+
+Wolff, Judge.
+Willis and Debra Payne appeal a summary judgment rendered in favor of Morris Shields and other members of the class of persons who own burial plots in the Huntsville Cemetery (hereinafter “the class”), and against the Paynes and the MacArthur Township Trustees (hereinafter “the Trustees”). The summary judgment ordered disinterment of the Paynes’ family dog from the Huntsville Cemetery. The Paynes also argue that a denial of their motion for relief from judgment made pursuant to Civ.R. 60(B) was error.
+The following facts are undisputed. In January 1991, the Paynes purchased four cemetery plots from the Trustees. Pursuant to R.C. Chapter 517, the Trustees were responsible for operating the Huntsville Cemetery, a township cemetery. The Paynes intended to bury their family dog, “Chippy Sue Payne,” in one of the plots. The Paynes paid $800 for the burial plots. The Trustees formally executed a burial deed which contained the restriction that the plots were to be used for “burial purposes only.”
+The dog died on February 16, 1991. The remains were embalmed and then buried in a vault on one of the four burial plots in the Huntsville Cemetery. On September 6, 1991, a class action was filed in the Common Pleas Court of Logan County, challenging the sale of the burial plots to the Paynes and the interment of the dog in the cemetery. The class consisted of owners of deeds to cemetery plots in the Huntsville Cemetery. On March 16, 1992, the Paynes filed a motion for summary judgment, alleging that there was no prohibition against the burial of animals in the Huntsville Cemetery. On March 17, 1992, the class filed a motion for summary judgment claiming, inter alia, that only human remains could be buried in township cemeteries.
+On August 5, 1992, the trial court sustained the class’ motion for summary judgment and overruled the Paynes’ motion. The Paynes subsequently retained new counsel and, pursuant to Civ.R. 60(B)(2) and (5), filed a motion for relief from judgment on the grounds of newly discovered evidence. The trial court overruled the motion. The Paynes appeal, raising four assignments of error.
+First Assignment of Error
+“The trial court erred in determining that cemeteries owned by townships and operated pursuant to Ohio Revised Code Chapter 517 are restricted to the burial of human remains.”
+R.C. Chapter 517 regulates the operation of township cemeteries. It does not contain a definitional section, nor does it specify the type of remains, i.e., human or animal, which are authorized for burial in such cemeteries.
+R.C. Chapter 961 regulates the operation of pet cemeteries. It contains a definitional section which defines “pet” as an animal and “pet cemetery” as land and structures used for the interment of pets. R.C. Chapter 961 prohibits the burial of human remains in a pet cemetery.
+Relying upon basic principles of statutory construction, as well as the common definition of the term “cemetery,” the trial court interpreted R.C. Chapter 517 as authorizing only the burial of human remains in a township cemetery. The court held that:
+“Reading the four corners of [R.C. Chapter 517] and taking into account the regulation of pet cemeteries by Chapter 961, the Court concludes that cemeteries owned by townships and operated pursuant to Chapter 517 of the Ohio Revised Code are restricted to the burial of only human remains.
+“There is little doubt when the legislature passed this Chapter it was contemplating only human remains being buried. For instance, Section 517.23 allows the surviving spouse to apply for disinterment — if the legislature contemplated the burial of pets, it would not have used the term ‘spouse’. ‘Cemetery’, as used in Chapter 517, should be given its ordinary meaning. Black’s Law Dictionary defines ‘cemetery’ as follows:
+“ ‘A graveyard, burial ground, a place or area set apart for interment of the dead. Six or more human bodies being buried at one place, constitutes the place of a cemetery.’ (Emphasis in original and citations omitted in original.)”
+On appeal, the Paynes argue that the court erroneously interpreted this provision. They contend that the critical terms in R.C. Chapter 517, “cemetery” and “burial purpose,” do not connote merely human application, nor do they, by definition, exclude animals. Furthermore, they argue that there is nothing in R.C. Chapter 517 that expressly prohibits the burial of animal remains in a township cemetery.
+While we recognize that R.C. Chapter 517 does not expressly prohibit the burial of animals in township cemeteries, we nevertheless conclude, as did the trial court, that burials in township cemeteries are restricted to human remains. This conclusion is supported by a reading of R.C. Chapter 517 as a whole.
+R.C. 517.06 provides for the burial of “persons” at township expense. R.C. 517.07 permits the head of an indigent household to apply to the township trustees for burial plots for the applicant and his “family.” R.C. 517.23 authorizes disinterment of a body upon application by the surviving spouse or next of kin. R.C. 517.24 sets forth the criteria the applicant must satisfy before he may apply for disinterment, such as being eighteen years old and of sound mind.
+Clearly, the terms “persons,” “head of household,” “family,” “surviving spouse,” “next-of-kin,” and the criteria for disinterment, can only contemplate humans, or human remains, and not animals, or animal remains. The legislature would have been required to use other or additional language if it had intended this chapter to apply to animal as well as human remains. It did not do so. Indeed, it subsequently enacted a separate provision specifically pertaining to the burial of pets that excludes the burial of human remains in pet cemeteries. See R.C. Chapter 961.
+The first assignment is overruled.
+Second Assignment of Error
+“The trial court erred in determining that an appropriate remedy was disinterment of the body.”
+In this assignment, the Paynes assert that disinterment was an inappropriate remedy because the remedy did not accomplish the goal of the class, i.e., a cemetery free of animal remains. According to the Paynes, the only appropriate remedy was to rescind the contracts of those who objected to the presence of animal remains in the cemetery.
+In support of the argument, the Paynes direct our attention to affidavits from two former sextons of the Huntsville Cemetery who attested to the fact that there were animal remains other than the Paynes’ dog buried in the cemetery. The Paynes maintain that unless these other animals were also disinterred, it was a futile and incomplete remedy to disinter their dog. We disagree.
+These affidavits were not before the trial court at the time it entertained the summary judgment motions. Rather, they were filed approximately ten days after the filing of the judgment entry sustaining the class’ summary judgment motion. Nevertheless, it appears from the record that, at the time the trial court ruled on the summary judgment motions, it was aware that other animals were buried in the cemetery. For example, in the trial court’s September 14, 1992 judgment entry pertaining to the Civ.R. 60(B) motion, the court stated that the Paynes’ previous counsel had informed the court of the other animal burials at scheduling conferences and the hearing on the motions for summary judgment. We are thus satisfied that the trial court took the other animal burials into consideration in determining the appropriate remedy.
+Moreover, the record does not reveal the circumstances surrounding the burial of the other animals, although some reference was made to a photograph which allegedly depicted the tombstone of another pet. Aside from the photograph, which does not appear to be part of the record, there is no indication of the location of the other animal burials. Furthermore, it does not appear that the other burials were the result of a formalized burial deed contract made by the Trustees, or their predecessors, such as that which existed between the Trustees and the Paynes. Indeed, the Paynes do not make such an allegation. Given these distinctions, the trial court might have reasonably concluded that the other animal burials were not authorized by the Trustees and thus the Trustees could not be held accountable for them. Therefore, the trial court was justified in ordering the disinterment of the Paynes’ dog, even though other animals may have been buried in the cemetery.
+The remedy ordered constituted the entire relief sought by the class. Clearly, it was up to the class to seek the additional relief of having the other animals disinterred as well as the Paynes’ dog. The class chose not to do so. In other words, the disinterment of the Paynes’ dog alone accomplished the class’ goal.
+The second assignment is overruled.
+Third Assignment of Error
+“The trial court abused its discretion denying appellants’ motion for relief from judgment pursuant to Ohio Civil Rule of Procedure 60(B)(2) and (5).”
+The Paynes’ notice of appeal was filed September 4, 1992. The motion for relief from judgment was overruled September 14,1992. No notice of appeal was filed as to the judgment overruling the Civ.R. 60(B) motion. The notice of appeal referred only to the summary judgment of August 5, 1992 and other action taken August 5, 1992. The issue raised in this assignment of error has thus not been preserved for appellate review.
+The third assignment is overruled.
+Fourth Assignment of Error
+“The trial court erred in determining that there were no genuine issues of material fact and then granting plaintiff-appellees [sic] motion for summary judgment.”
+In this assignment, the Paynes argue that summary judgment was unwarranted because there was a genuine issue of material fact whether disinterment was an appropriate remedy. According to the Paynes, reasonable minds could have differed on whether disinterment would have resulted in a cemetery free of animal remains. We are unpersuaded by this argument.
+It may well be that disinterment of the Paynes’ dog did not rid the cemetery of all animal remains. But that is beside the point. While a cemetery totally free of animal remains might have been a desired goal of the class, the only goal actually sought by the class in this litigation was disinterment of the Paynes’ dog. There were no material facts in dispute. The fact that other animals were buried in the cemetery was immaterial, given the relief sought by the class. The remedy was commended to the discretion of the trial court. In the absence of a dispute as to material facts, summary judgment was not precluded merely because there may have been a dispute as to the appropriate remedy.
+Summary judgment was warranted given that there were no genuine issues of material fact and that the trial court correctly interpreted R.C. Chapter 517 as prohibiting the burial of animals in township cemeteries.
+The fourth assignment is overruled.
+The judgment of the trial court will be affirmed.
+Judgment affirmed.
+Brogan and Fain, JJ., concur.
+William H. Wolff, Jr., James A. Brogan and Mike Fain, JJ., of the Second Appellate District, sitting by assignment.
