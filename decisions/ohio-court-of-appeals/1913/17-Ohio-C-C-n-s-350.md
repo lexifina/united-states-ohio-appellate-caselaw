@@ -1,0 +1,25 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1913-05"
+citations: ["17 Ohio C.C. (n.s.) 350"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, O. B., J.; Jones, E. H., J., concurs; Swing, P. J., not sitting."]
+parties: ["The Cincinnati, Milford & Loveland Traction Company v. Vena Hatfield."]
+source_url: "https://static.case.law/ohio-cc-ns/17/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1816748
+cites_cases: ["42 O. S., 426", "86 O. S., 356"]
+---
+
+# Cincinnati, Milford & Loveland Traction Co. v. Hatfield
+
+## Majority
+
+This is a proceeding to reverse the judgment obtained against the plaintiff in error by Vena Hatfield, defendant in error, for an injury claimed to have been received in attempting to board one of its traction cars as a passenger, at Conover’s stop, in Clermont county, Ohio, in February, 1908. The car had stopped at that station for the purpose of taking on passengers. Her father and brother had preceded her in boarding the ear, and she was in the act of getting on the ear with one foot on the step and her left hand holding to one of the handle bars, when the car was started and she was thrown from the step, and her hand and wrist slipped through the handle bar between it and the end of the car in such a way that she could not withdraw it, and she was dragged for some little distance — about seventy-five or a hundred yards — before the car was again stopped and she was released and taken on the car. As a result of said injuries her arm became stiff and she lost the entire use of the elbow joint. It is apparent that the injury was not given the prompt attention which it deserved, as no regular physician was called to treat it until she went to the hospital about four months after the accident.
+There is considerable conflict in the evidence, the traction company denying that the accident occurred at all upon its car, and the ease has been tried before a jury .three different times resulting each time in a verdict for the plaintiff. The present verdict of $4,000 was reduced by consent of plaintiff, at the suggestion of the trial judge, by remittitur of $1,400.
+A number of errors are urged and fully argued by counsel for plaintiff in error, but a careful examination of the entire record fails to show us any prejudicial error as against plaintiff in error, or .any reason why the verdict of the jury should be disturbed by a reviewing court.
+It is specially contended by counsel for plaintiff in error that the testimony of the witnesses Cherry and Johnson as found in the present record is the same as the testimony of the same, witnesses in the last previous trial, which was found by the Supreme Court in its unreported decision, 86 O. S., 356, to have been hearsay. Counsel are not accurate in this contention, as the testimony of the witness Johnson is not found at all in the present record, and the only testimony given by the witness Cherry is the statement which directly contradicts the testimony of the witness Jap Slone, the foundation for such contradiction having first been laid by asking the same question of Slone. The testimony given by both the witnesses Cherry and Johnson, in the previous trial, contains objectionable hearsay outside of that testimony of the witness Cherry which is reported in this record and to which exceptions had been reserved, and the ruling of the Supreme Court in basing the reversal in part upon the improper admission of that hearsay testimony was undoubtedly correct. The court did not point out the particular question and answer in the testimony of the witness Cherry which alone appear in this record, as being embraced in such objectionable hearsay, and no doubt referred to the other objectionable testimony. Because we think that Cherry rs testimony in this case is competent as coming within the rule laid down in Abbott’s Trial Brief (Civ. Jury Trial), 176, and Attorney-General v. Hitchcock, 1 Exch., 99; Kent v. State, 42 O. S., 426; as this testimony involves a question vital to the case, being whether the injury was caused by the traction company, or by a fall on the ice, or by scuffling, and the testimony of Cherry was properly introduced as proving that the witness Slone had made a statement to him contradicting other parts of his testimony in which he denied any knowledge of an injury to her by the traction company.
+The admission of so much of Cherry's testimony as is contained in this record is not therefore, in the opinion of this court, prejudicial error or in conflict with the ruling of the Supreme Court.
+Judgment affirmed.
