@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-810889"
+decided: "1982-12-29"
+citations: ["7 Ohio App. 3d 244"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, P.J., and Keefe, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Shrum, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/7/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710857
+cites_cases: ["23 O.O.3d 374", "23 O.O.3d 447", "28 Ohio App. 2d 77", "69 Ohio St. 2d 422", "69 Ohio St. 2d 515", "7 Ohio App. 3d 243"]
+---
+
+# State v. Shrum
+
+## Majority (Black, J.)
+
+Black, J.
+Appellant, Paul J. Shrum, was indicted for, and convicted of (1) the rape of Holly Teal, an adult,- purposely compelling her to submit by force or threat of force, in violation of R.C. 2907.02(A)(1), and (2) the abduction of Holly Teal, knowingly and by force removing her from the place where she was found, in violation of R.C. 2905.02(A)(1). Consecutive sentences were imposed. In his single assignment of error appellant contends that his conviction must be reversed because under R.C. 2901.11, the state of Ohio had no jurisdiction over the rape. We disagree.
+The evidence was that Ms. Teal was picked up bodily by appellant’s co-defendant and “thrown” into an automobile driven by appellant. She was propelled into the car on the driver’s side and had to pass over appellant to a middle position on the front seat. This occurred after Ms. Teal’s male companion had been chased away by the co-defendant who threatened to beat him with a motorcycle chain. The chain was also used to threaten Ms. Teal as she sat between appellant and the co-defendant. Appellant drove the automobile from its location on West-wood-Northern Boulevard in Hamilton County towards downtown Cincinnati, and without stopping drove south on 1-75 across the Ohio River and into the Commonwealth of Kentucky. Throughout this drive, Ms. Teal struggled with the co-defendant, pushing him away to keep him from manhandling her. Appellant stopped the automobile in the parking lot of a Kentucky apartment complex. Ms. Teal escaped from the car momentarily but was recaptured and then raped first by appellant and then by the co-defendant. It is undisputed that sexual penetration was consummated only in Kentucky. As stated, appellant was convicted by a jury of both abduction and rape.
+Contrary to the state’s argument, appellant can raise the question of territorial jurisdiction. He raised it before the trial court by a motion made at the close of all the evidence, albeit in a manner that left it unclear whether he based the motion- on lack of venue or lack of territorial jurisdiction. Nevertheless, the question of territorial jurisdiction is so basic that it can be raised at any stage before the trial court or any appellate court, or even collaterally in subsequent and separate proceedings.
+Ohio’s statute on criminal jurisdiction, R.C. 2901.11, states in pertinent part:
+“(A) A person is subject to criminal prosecution and punishment in this state if any of the following occur:
+“(1) He commits an offense under the laws of this state, any element of which takes place in this state;”
+In the instant case, one of the elements of rape occurred in Ohio: appellant actively participated in Hamilton County in the use of force and threat of force against the victim.
+The employment of force and threat of force began in Ohio and persisted in a continuous, unbroken sequence until the culmination of the rapes in Kentucky. In a case remarkably similar, we held that the act of “harboring” began in Ohio, in violation of R.C. 2919.23 (interference with custody), when the accused picked up the minor female in Ohio and drove her to Kentucky where they lived together for six months. State v. Kinney (1982), 7 Ohio App. 3d 243.
+Appellant advances the argument that in this case, the act of abduction was consummated in Ohio before the rape was carried through in Kentucky and that the two offenses were sufficiently removed in time and space so as to be committed separately under R.C. 2941.25. See State v. Moss (1982), 69 Ohio St. 2d 515 [23 O.O.3d 447]; State v. Rice (1982), 69 Ohio St. 2d 422 [23 O.O.3d 374], From this, he contends that the rape, committed separately, can be prosecuted only in Kentucky. The argument is beside the point. The question raised by appellant is not whether he can be convicted of both offenses (he implicitly concedes that he could be), but whether Ohio claims territorial jurisdiction over the rape. This is an entirely different question, governed by entirely different principles and policies of law. We believe that the Ohio Legislature intended to assert jurisdiction over all offenses any element of which was committed by an accused while in Ohio, and that the rape sub judice falls within that intent.
+We affirm.
+Judgment affirmed.
+Shannon, P.J., and Keefe, J., concur.
+Appellant cites no cases for, and does not press, the argument that the prosecution and conviction sub judice violate the United States Constitution, either the third paragraph of Section 2 of Article III or the Sixth Amendment. He interprets the following language of Section 10, Article I, Ohio Constitution as requiring venue only: “In any trial, * * * the party accused shall be allowed * * * a speedy public trial by an impartial jury of the county in which the offense is alleged to have been committed.” Thus the issue presented by this appeal is one of statutory construction: whether R.C. 2901.11 permits the prosecution and conviction sub judice.
+As commonly used, “jurisdiction” refers to the judicial power to hear and determine a criminal prosecution (or a civil dispute). We will use the term “territorial jurisdiction” in this opinion because the issue is whether Ohio has any power to hear and determine the rape charge on the basis of where the several elements of the offense took place. “Venue” commonly refers to the appropriate place of trial for a criminal prosecution (or dispute) as between different geographical subdivisions within a state, it being assumed that the court or courts involved have subject matter or territorial jurisdiction. A challenge to venue may be waived by failure to raise the issue prior to trial. State v. Loucks (1971), 28 Ohio App. 2d 77; State v. Lynn (July 29, 1981), Hamilton App. No. C-800629, unreported; State v. Truesdale (Feb. 28, 1979), Butler App. No. CA78-05-0042, unreported. Jurisdiction of the subject matter cannot be waived by inaction or conferred by mutual agreement of the parties. See, generally, 22 Ohio Jurisprudence 3d (1980), Courts and Judges, Section 300. It is clear that when an offense is committed partly in one territory and partly in another territory jurisdiction may be concurrent and not mutually exclusive. See, generally, 22 Ohio Jurisprudence 3d (1980), Courts and Judges, Section 321 et seq.; 26 Ohio Jurisprudence 3d (1981), Criminal Law, Sections 656 and 664.
+Contrary to an argument advanced by the state, Subdivision (D) of R.C. 2901.11 does not apply to the situation where the jurisdictions in which the offense took place can be determined, at least to the extent that certain parts clearly took place in one jurisdiction and the remaining parts clearly took place in another jurisdiction. See State v. Deller (Feb. 17, 1982), Hamilton App. No. C-810261, unreported; State v. Grannen (July 6, 1976), Hamilton App. No. C-75552, unreported.
+R.C. 2901.01(A) reads:
+“(A) ‘Force’ means any violence, compulsion, or constraint physically exerted by any means upon or against a person or thing.”
