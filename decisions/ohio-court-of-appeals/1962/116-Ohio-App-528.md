@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9112"
+decided: "1962-09-04"
+citations: ["116 Ohio App. 528"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Long, P. J., and Keefe, J., concur."]
+parties: ["Goldfarb, Appellant, v. Pailet, d. b. a. The Muffler and Brake Man, Appellee."]
+source_url: "https://static.case.law/ohio-app/116/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8809636
+cites_cases: ["153 Ohio St., 258"]
+---
+
+# Goldfarb v. Pailet
+
+## Majority (Hildebrant, J.)
+
+Hildebrant, J.
+This appeal on questions of law is from a judgment entered on a jury verdict for defendant, rendered in the Court of Common Pleas of Hamilton County.
+Plaintiff sought damages from the defendant for the negligent repair of the brakes upon-the car plaintiff was driving, prosimately causing the same to veer to the left and across the street into a parked car and a utility pole, causing plaintiff’s damage.
+Appellant contends, first, that the judgment is manifestly against the weight of the evidence showing a defective brake cylinder to be the cause of the collision and in that the court, over objection, admitted speculative causes without proof thereof as a basis therefor.
+Appellant also contends that, based upon purely speculative causes, the trial court erred in giving the following special charge to the jury requested by defendant:
+“I charge you that it is not sufficient for Mrs. Goldfarb to prove that Mr. Pailet was negligent in his work on the brakes of the automobile and that such negligence, if any, might have caused her accident and injury. If the accident and injury might have resulted from one of several causes, it is incumbent upon her to produce evidence which will exclude the effectiveness of those causes for which Mr. Pailet is not lawfully responsible.”
+Appellee contends, first, that the judgment is not against the weight of the evidence, since evidence of the condition of the brake cylinder five months after the accident was erroneously permitted, giving rise to a retrograde presumption, contrary to law, that the cylinder was in the same condition as at the time of the accident.
+Appellee contends also that there were three possible causes of the accident justifying the giving of a special charge, to wit:
+“ (1) Defective axles and wheels, with which defendant had nothing to do;
+“(2) Loss of control by plaintiff;
+“(3) Defective brakes which caused the plaintiff to veer left.”
+The court has carefully examined the record, page by page, with copious notes therefrom, and deems a detailed statement of facts in chronological order necessary to a decision herein.
+Plaintiff was injured on Tuesday, February 25, 1958. Prior thereto, on January 21, 1958, plaintiff drove the 1953 Pontiac belonging to her husband to the Cincinnati safety lane for a periodic inspection. Upon inspection, she was issued a card approving the front wheel alignment, steering wheel play and steering mechanism, and tires, but disapproving and rejecting the car for faulty right front and right rear brakes; the pressure readings by the safety lane being: right front brake, 200 pounds; left front brake, 700 pounds; right rear brake, 200 pounds; left rear brake, between 600 and 700 pounds, or approximately 650 pounds.
+The chief inspector testified that a minimum pressure of 375 pounds was required to pass the brakes, and that there was not sufficient friction between the lining and the drum to hold the wheel.
+Plaintiff was issued a temporary sticker, good for 30 days, and the safety lane set a return date of February 20, 1958, for subsequent inspection.
+On February 18, 1958, plaintiff drove to defendant’s place of business, exhibited the Cincinnati safety lane inspection card showing rejection of the car, and employed him to repair the defective brakes so they would pass the return inspection set for February 20, 1958. On that date (February 18, 1958), defendant made the repairs itemized on his invoice (plaintiff’s exhibit 7), which included installation of four rebuilt brake cylinders, two front wheel brake shoes and necessary brake linings, for which plaintiff paid him thirty-five ($35) dollars, on February 19, 1958, when she picked up her car from defendant and drove to the Cincinnati safety lane.
+Upon inspection, the safety lane passed the rear brakes, but found the pressure on the right front brake to be only 200 pounds, and, again, rejected the car and so marked her card.
+Plaintiff returned the same day to defendant and informed him of the second rejection. Defendant, being without the equipment to test the poundage, examined the car without testing it, told plaintiff there was nothing wrong with it, and directed her to take the car to the Norwood inspection lane, gave her one dollar for the test, and sent a girl employee with plaintiff to direct her there. He also instructed plaintiff to return the following week for installation of a master cylinder.
+Plaintiff drove the car through the Norwood inspection lane, which was without equipment to make a pressure test, and it passed the Norwood test.
+Between February 19 and February 25, 1958, plaintiff used the car daily and on February 25, 1958, returned the car to defendant and waited while the master cylinder was installed, for which she paid defendant $13.50.
+Plaintiff drove the three to four miles from defendant’s place of business in Norwood to Gilbert Avenue, turning onto Florence Avenue in a westerly direction when, on a straight dry portion of the street approaching a curve, in obedience to a sign enjoining a reduction of speed from a 30-mile zone to a 25-mile zone, and as plaintiff applied her brakes, the car veered suddenly left, would not respond to her efforts to turn it to the right, and continued across Florence Avenue to the left and collided with a parked car and utility pole located at the beginning of a curve on Florence Avenue.
+After the accident, the Cincinnati Automobile Club removed the car to Gusweiler’s Pontiac Garage, where body repairs only were made, as shown by their invoice of February 27, 1958.
+Gusweilers informed plaintiff’s husband they checked the steering, drove the car a short distance and fotmd it all right. The car was then removed to plaintiff’s basement garage, where it remained unused until July 24, 1958, when plaintiff drove it to the Cincinnati safety lane, where, upon inspection, the pressure on the brakes was found to be: Right front, between 0 to 100 pounds, or approximately 50 pounds; left front, 500 pounds; both rear brakes, 600 pounds. The lane issued plaintiff a card approving the steering wheel play and steering mechanism, but rejected the car on account of the lack of pressure on the right front brake.
+Plaintiff drove immediately to the Auto Brake Clinic of Elmer Schlemmer on Central Parkway, who found the right front brake cylinder and lining defective in that the cylinder was frozen and the lining burned. He replaced two front cylinders and relined the front brakes, after which, on the following day, July 25, 1958, plaintiff put the car through the Cincinnati inspection lane and it was passed, all brakes showing 600-pound pressure.
+When plaintiff called Elmer Schlemmer as her first witness to testify as to the condition of the brakes and, particularly, the right front cylinder, the trial court correctly sustained defendant’s objection that tbe testimony gave rise to a retrograde presumption contrary to law. However, after plaintiff’s evidence, including exhibits, was introduced in chronological order, the trial court ruled a proper basis for admission of evidence of the condition of the brakes on July 24th had been shown and correctly permitted the testimony of witness Schlemmer, and a brake expert, James Timperman, relevant to the condition of the brakes and the right front cylinder on that date. The testimony was that improper cleaning and failure to lubricate would cause the frozen condition of the cylinder.
+The special charge given to the jury, as quoted above, was based on the so-called “rat” case of Gedra v. Dallmer Co., 153 Ohio St., 258, which, in paragraphs two and three of the syllabus, held:
+“2. In a negligence action, it is not sufficient for plaintiff to prove that the negligence of defendant might have caused an injury to plaintiff but, if the injury complained of might well have resulted from any one of several causes, it is incumbent upon plaintiff to produce evidence which will exclude the effectiveness of those-causes for which defendant is not legally responsible.
+“3. In such an action, if the cause of an injury to a plaintiff may be as reasonably attributed to an act for which defendant is not liable as to one for which he is liable, the plaintiff has not sustained the burden of showing that his injury is a proximate result of the negligence of the defendant. ’ ’
+Defendant contends the other causes pertinent here to be “defective axles and wheels, with which defendant had nothing to do,” and “loss of control by plaintiff.”
+There is not one shred of evidence in the record of defective axles and wheels but, on the contrary, direct and substantial evidence in the record discloses that the front-end assembly, other than the brakes, was completely roadworthy.
+Neither is there any evidence of loss of control by plaintiff, the only testimony being by plaintiff herself who testified she tried to turn to the right but the car would not respond. Defendant argues that the jury might well conclude that plaintiff lost control, but that would be mere speculation on its part, if it did, since there is no evidence of that in the record, and the mere happening of the accident provides no proof of any negligent loss of control.
+That portion of the special charge which reads, “If the accident and injury might have resulted from one of several causes * * #,” permits consideration as to any conceivable possibility; whereas, in the language in paragraph two of the syllabus of the “rat” case — “if the injury complained of might well have resulted from any one of several causes” — the word “well” permits consideration of probabilities only.
+We, therefore, conclude that it was prejudicial error to give the special charge which might well have confused and misled the jury into speculation upon other causes upon which there was no evidence in the record.
+Weighing the conflicting evidence as to the condition of the brakes, the Norwood lane test appears to have been somewhat perfunctory in comparison with that of the Cincinnati lane, since they had no equipment to test for proper pressure and permitted the driver of the car to operate it during the test, whereas the Cincinnati lane required the car be turned over to their attendant and, also, had the proper equipment for making a pressure test. The defendant, being without the necessary equipment, made no pressure test, and the employee of Gus-weilers who made the body repairs, while he testified to making an apparently gratuitous examination of the brakes, noting that they had new linings and appeared to have been worked on, hand-tested them and drove around the block, when they worked perfectly, testified further that their service department had no equipment to test the pressure and their invoice was confined solely to body repairs.
+The record is replete with evidence of faulty brake pressures causing a veering to the left and with positive evidence of a frozen cylinder.
+We, therefore, conclude that the verdict and judgment was against the manifest weight of the evidence, influenced, probably, by the giving of the erroneous special charge.
+The judgment is reversed and the cause is remanded for further proceedings according to law.
+Judgment reversed.
+Long, P. J., and Keefe, J., concur.
