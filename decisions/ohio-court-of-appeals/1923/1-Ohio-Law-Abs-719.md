@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "124"
 decided: "1923-02-08"
-citations: ["1 Ohio Law Abs. 719", "1 Ohio Law Abs. 612"]
+citations: ["1 Ohio Law Abs. 719"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
