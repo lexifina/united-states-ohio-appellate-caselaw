@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10899"
+decided: "1983-03-16"
+citations: ["8 Ohio App. 3d 129"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baird, J., concurs.", "Quillin, J., dissents."]
+parties: ["Leonti, Appellant, v. Leonti, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/8/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711384
+cites_cases: ["1 O.O.3d 1", "1 Ohio App. 3d 146", "46 Ohio St. 2d 399", "47 Ohio St. 2d 1", "75 O.O.2d 474"]
+---
+
+# Leonti v. Leonti
+
+## Majority (Mahoney, P.J.)
+
+Mahoney, P.J.
+Tula Leonti, petitioner-appellant, challenges the trial court’s order terminating alimony payments agreed to by the parties in a separation agreement and approved by the court in its dissolution of marriage decree. We reverse and vacate.
+Tula and Joseph Leonti were married on May 9, 1964. Two sons were born as issue of the marriage. On November 24, 1980, the parties entered into a separation agreement which provided for child custody, support and visitation, a division of property and sustenance alimony for the wife. On February 2, 1981, the Court of Common Pleas of Summit County, Domestic Relations Division, approved the separation agreement and entered a decree dissolving the marriage.
+On August 12,1982, the appellee-hus-band filed a motion requesting the court to either reduce or terminate his alimony obligations. After hearing before the referee and further hearing before the court, the court ordered that appellant’s alimony be terminated.
+Assignment of Error I
+“The trial court erred in finding that it had jurisdiction to modify the alimony order to the wife, where the alimony order arose by agreement of the parties in a separation agreement, incorporated into a decree of dissolution of marriage, where no reservation of jurisdiction was expressed or implied in the decree.”
+R.C. 3105.65(B) provides:
+“If, upon review of the testimony of both spouses, and of the report of the investigator pursuant to Civil Rules, the court approves the separation agreement and any amendments thereto agreed upon by the parties, it shall grant a decree of dissolution of marriage incorporating the separation agreement. A decree of dissolution of marriage has the same effect upon the property rights of the parties, including rights of dower and inheritance, as a decree of divorce. The court has full 'power to enforce its decree, and retains jurisdiction to modify all matters of custody, child support, and visitation. ” (Emphasis added.)
+Upon examination of the legislative history of the above-quoted provision, we agree with the reasoning of the court in Alban v. Alban (1981), 1 Ohio App. 3d 146, 147, which stated:
+“R.C. 3105.65(B) provides for the granting of a decree of dissolution of marriage incorporating the separation agreement when appropriate, and further that ‘[t]he court has full power to enforce its decree, and retains jurisdiction to modify all matters of custody, child support, and visitation.’ Conspicuously lacking from R.C. 3105.65(B) with respect to continuing jurisdiction of the trial court are both division of property and alimony. Any doubt of the legislative intent, however, is dispelled by referring to legislative history. The present form of R.C. 3105.65(B) took effect on August 1, 1975. However, R.C. 3105.65(B) first became effective on September 23, 1974, at which time the last sentence thereof included the words ‘and periodic alimony payments,’ which were deleted by the 1975 amendment, the 1974 version reading as follows: ‘The court has full power to enforce its decree, and retains jursidiction to modify all matters of custody, child support, visitation, and periodic alimony payments.’ By deleting the words ‘and periodic alimony payments’ from the last sentence of R.C. 3105.65(B) in 1975, the Legislature evinced a clear intent that the court would not retain jurisdiction to modify periodic alimony payments provided for in a separation agreement incorporated in a decree of dissolution of marriage.”
+Relying on Wolfe v. Wolfe (1976), 46 Ohio St. 2d 399 [75 O.O.2d 474], appellee contends that R.C. 3105.65(B) should be construed to include continuing jurisdiction of sustenance alimony payments, so long as the separation agreement is incorporated into a divorce decree. A careful reading of the relevant portions of R.C. Chapter 3105 indicates a distinct difference between a divorce proceeding and a dissolution case.
+Dissolution is based on the voluntary agreement of the parties as to property division, sustenance alimony, child custody, support and visitation. The petition for dissolution must incorporate a separation agreement stating the agreement arrived at by the parties on these issues. R.C. 3105.63. Both spouses must appear before the court and indicate that each is satisfied with its terms. R.C. 3105.64. If the parties cannot agree upon the terms of the separation agreement, the court must dismiss the petition. R.C. 3105.65(A). The court may reject the agreement. However, unlike the broad authority of the court to order the terms of a divorce decree based on its own judgment, the court may not modify the terms of the separation agreement in a dissolution case unless the parties agree thereto. Further, we note that Wolfe was decided after the 1975 statutory change. The Wolfe opinion makes no mention of modification of periodic alimony in dissolution cases. In light of these facts, we do not believe that the Supreme Court in Wolfe v. Wolfe, supra, intended to extend its holding beyond the clear language of the syllabus which limits the trial court’s continuing jurisdiction to modify sustenance alimony to divorce cases.
+Appellee cites Birch v. Birch (May 23, 1979), Summit App. No. 9159, unreported, for the proposition that all terms of the separation agreement are subject to subsequent modification so long as the agreement was incorporated into and made a part of the court’s decree of dissolution. We cannot agree. A separation agreement' attached to a petition for dissolution must contain a provision dividing the marital property. Thus, when incorporated in the dissolution decree, the property division clearly becomes an order of the court. However, this division of property is clearly not subject to subsequent modification. See Wolfe v. Wolfe, supra, paragraph one of the syllabus.
+The parties in Birch v. Birch, supra, obtained their dissolution prior to August 1, 1975, when the present R.C. 3105.65 (B) became effective. Thus, the Birch dissolution is governed by former R.C. 3105.65(B) which required the trial court to retain jurisdiction to modify periodic alimony payments. See R.C. 1.58; Nokes v. Nokes (1976), 47 Ohio St. 2d 1 [1 O.O.3d 1]. In the instant case, the Leontis’ marriage was dissolved in 1980. Thus, the lower court is limited by present R.C. 3105.65(B) to modification of custody, child support, and visitation provisions and has no jurisdiction to modify or terminate the agreed upon sustenance alimony provision.
+Finally, appellee contends that limiting the court’s jurisdiction will”* * * tend to discourage people from getting dissolutions, because of fear of the binding effect of the separation agreement.” This, according to appellee, thwarts the legislature’s desire to create a device whereby “* * * parties can walk into court and settle their differences through a separation agreement.” We believe ap-pellee’s fears to be unfounded. Limiting the court’s jurisdiction regarding periodic alimony lends permanence to the original agreement and reduces the need for further litigation. Further, should a subsequent change in circumstances make the alimony provisions inequitable, the parties are free to agree to adjustments in the original agreement as well as to provide for future modifications of alimony obligations by the terms of the agreement itself. In any event, in 1975, the legislature evidenced a clear intent to limit the court’s continuing jurisdiction to custody, child support and visitation only and has not seen fit to make further modification of the statute to include jurisdiction over sustenance alimony payments. * * *
+The judgment is reversed and vacated.
+Judgment reversed.
+Baird, J., concurs.
+Quillin, J., dissents.
+
+## Dissent (Quillin, J.,)
+
+Quillin, J.,
+dissenting. In Wolfe v. Wolfe (1976), 46 Ohio St. 2d 399 [75 O.O.2d 474], the Supreme Court recognized that change of circumstances unforeseen by the parties can turn a sustenance alimony decree which once appeared fair into a grotesque inequity. The court held at page 419, that “a court has continuing modification jurisdiction over alimony for sustenance awards * * * to assure that such awards are continually just.”
+It is the ultimate duty of án equity court to do equity. It is repugnant to this concept to require such a court to continue to enforce a decree when such decree becomes “ ‘obnoxious to a sense of decency.’ ” Id. at 416.
+I would hold, as did the Supreme Court in Wolfe, that there is an implied reservation of jurisdiction to modify sustenance alimony payments in the case of dissolution.
