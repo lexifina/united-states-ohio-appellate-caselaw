@@ -1,0 +1,63 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10914"
+decided: "1988-10-04"
+citations: ["57 Ohio App. 3d 11"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan, J., concurs.", "Fain, J., concurs separately.", "Robert L. McBride, J., retired, of the Second Appellate District, sitting by assignment."]
+parties: ["Phipps, Appellant, v. City of Dayton, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/57/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709448
+cites_cases: ["128 N.E. 2d 59", "164 Ohio St. 142", "23 O.O. 3d 479", "433 N.E. 2d 217", "437 U.S. 59", "57 O.O. 134", "69 Ohio St. 2d 567"]
+---
+
+# Phipps v. City of Dayton
+
+## Majority (McBride, J.)
+
+McBride, J.
+James Phipps has appealed the dismissal by the Court of Common Pleas of Montgomery County of his complaint for damages against the city of Dayton. His appeal raises two issues of law questioning the immunity of political subdivisions from liability for negligence where the local government operates a workhouse or other detention facility.
+Before he was committed to the Dayton Rehabilitation Center, formerly the Dayton Workhouse, Phipps experienced an injury to his ear. His complaint is that while committed, he was denied medical attention which resulted in an aggravation of his injury necessitating an operation and causing some permanent loss of hearing. This is a cause of action based upon negligence for failure to provide medical care during confinement.
+The procedural posture of the case requires that we assume that negligence exists. The motion to dismiss and the decision of the trial court terminating the case were based upon the assumption that although normal liability may have been created, the city of Dayton was not liable in damages because of its immunity under R.C. 2744.02. In a lengthy opinion, the trial court found that there could be no recovery and dismissed the complaint.
+The first error assigned is:
+“The lower court erred in sustaining defendant’s motion to dismiss because that portion of O.R.C. § 2744.02 (B)(4) pertaining to workhouses and other detention facilities does not, either specifically or by implication, abrogate the common law duty imposed upon detention facilities to provide for the safety and care of prisoners.”
+The first assignment of error has the appearance of an excursion to nowhere. As indicated earlier, it is assumed that the common-law duty of ordinary care under the circumstances was violated. The recent immunity law did not change or abrogate the general or common law as to the nature and degrees of negligence. It never attempted to do so.
+The governmental immunity granted in R.C. 2744.02(B)(4) does not lack specificity. It is a total exemption and freedom from liability regardless of negligence laws. Comparing negligence law to sovereign immunity mixes apples with oranges. We find no rationale in this assignment worthy of further discussion.
+The first assignment of error is denied.
+For his second assignment of error, appellant asserts:
+“The lower court, assuming that the language of O.R.C. § 2744.02(B)(4) applies to the common-law duty detention facilities owe inmates, nonetheless erred as that portion of O.R.C. § 2744.02(B)(4) shielding political subdivisions from the negligent operation of detention facilities is unconstitutional under the equal protection, due process, and right-to-a-remedy provisions of the Ohio Constitution.”
+The immunity of the state of Ohio and its subdivisions from liability is based upon the ancient law of sovereign immunity. Originally a royal prerogative, in later times this immunity served the practical purpose of ensuring the stability of government and the performance of public functions for the general good and welfare of all. Over the years the Legislature of Ohio created limited exceptions waiving this immunity. The Supreme Court of Ohio repeatedly affirmed sovereign immunity, indicating that any change was a matter exclusively for the legislature. These decisions were reversed, quite suddenly, and subdivisions in the state faced a financial crisis of unlimited proportions as a result of suits, liabilities, and judgments in favor of individual members. This is not the place to recite the circumstances that followed. The legislature acted in the emergency and adopted laws, which are codified in R.C. Chapter 2744, continuing the immunity of political subdivisions in R.C. 2744.02(A)(1) with specific exceptions outlined in R.C. 2744.02(B).
+Effective November 20, 1985, the Legislature of the state of Ohio enacted R.C. 2744.02, which, in part, provides:
+“(A)(1) For the purposes of this chapter, the functions of political subdivisions are hereby classified as governmental functions and proprietary functions. Except as provided in division (B) of this section, a political subdivision is not liable in damages in a civil action for injury, death, or loss to persons or property allegedly caused by any act or omission of the political subdivision or an employee of the political subdivision in connection with a governmental or proprietary function.
+a* * *
+“[B](4) Political subdivisions are liable for injury, death, or loss to persons or property that is caused by the negligence of their employees and that occurs within or on the grounds of buildings that are used in connection with the performance of a governmental function, including, but not limited to, office buildings and courthouses, but not including jails, places of juvenile detention, workhouses, or any other detention facility, as defined in section 2921.01 of the Revised Code.” (Emphasis added.)
+Thus, sovereign immunity for negligence by a political subdivision has been abolished for negligence which occurs within or on the grounds of buildings used for governmental functions, including office buildings and courthouses, but has not been abolished for negligence which occurs in jails, places of juvenile detention, work-homes, or any other detention facility.
+The trial court recognized without objection that the Dayton Rehabilitation Center was a “workhouse” and a “detention facility” as described in R.C. 2744.02(B)(4) and 2921.01(F).
+Appellant’s objection in this assignment of error is that R.C. 2744.02 (B)(4) is unconstitutional on three grounds: (1) equal protection, (2) due process and (3) the right-to-a-remedy provision of the Ohio Constitution.
+The ground rules to be considered are clear. An enactment of the General Assembly is presumed to be constitutional. The sanctity of legislative enactments is firmly entrenched in our judicial system. State, ex rel. Swetland, v. Kinney (1982), 69 Ohio St. 2d 567, 573-576, 23 O.O. 3d 479, 483-485, 433 N.E. 2d 217, 221-223. Before a court may declare a statute unconstitutional, it must appear beyond a reasonable doubt that the legislative and constitutional provisions are clearly incompatible. State, ex rel. Dickman, v. Defenbacher (1955), 164 Ohio St. 142, 57 O.O. 134, 128 N.E. 2d 59, paragraph one of the syllabus.
+With reference to the Equal Protection Clause, Section 2, Article I of the Ohio Constitution, appellant agrees with, and supports with citations, the rule that the basic test for equal protection is whether there exists reasonable grounds for making a distinction between those within and those outside a designated class. A legislative enactment will pass the rational basis test when there exists any set of facts under which the classification at issue rationally furthers a legitimate legislative objective.
+There is a significant difference between a citizen visiting a municipal office or courthouse and a prisoner incarcerated and detained in a jail or workhouse. There is a significant distinction between 'the responsibility of a municipality to confine and secure a prisoner and the duty to provide for the safety and welfare of the public while such prisoner is detained. The relationships are so distinct as to be beyond comparison. The classification is reasonable and serves a legislative purpose.
+Appellant attempts to illustrate a lack of rational distinction by example of a prisoner who is taken to and negligently injured in a courthouse. He concludes that while such prisoner is in the courthouse, the municipality has no immunity. The example fails to illustrate his point — certainly in this county — and remains a question of legal uncertainty. Here the facilities are on the same grounds: the separate buildings are joined by an underpass from the jail and an overpass from the municipal detention facility. Where the line of classification, if any, may be depends upon individual facts and circumstances. In the instant case, there is no uncertainty as to the location of the alleged negligence. It was alleged to have been within the workhouse. The facts do not present an issue of negligence elsewhere and the example presents a dubious question which may not be determined in this case.
+We find that, in this case, the classification adopted by the legislature is reasonable within a proper legislative purpose and, without doubt, is constitutional.
+The second argument, based upon the Due Process Clause, has no application to the instant case. Due process refers primarily to procedure, of which there is no claim of denial here. The reference to Section 1, Article I of the Ohio Constitution, that all men “are, by nature, free and independent,” is mistakenly applied to one who was guilty of a crime, sentenced and detained. Under the circumstances, appellant’s right to freedom was not of the natural character contemplated by the Constitution. His personal liberty, within the purposes of the classification of R.C. 2744.02(B)(4), was nonexistent.
+The illustration used by the appellant is illogical and irrelevant. The delay caused by a failure to discover injury within the period required by the statute of limitations in a malpractice case has no similarity to a situation in which delay in discovery has no application. R.C. 2744.02(B)(4) is not arbitrary, capricious or irrational.
+A person has no property or vested interest in a rule of the common law. Statutes limiting liability are relatively commonplace and have been consistently enforced by the courts. The Constitution does not forbid the creation of new or the abolition of old common-law rights. See Duke Power Co. v. Carolina Environmental Study Group, Inc. (1978), 437 U.S. 59. This is obvious in this case where the sovereign immunity to which appellant objects had its origin in the common law.
+The third argument is that under the Constitution every person has a right to a remedy. The appellant has had his due process remedy, the right to present his claim, but whether he may recover is a different question. From this point in his argument, appellant reverts to his first and second argument in this assignment of error.
+Section 16, Article I of the Ohio Constitution provides:
+“All courts shall be open, and every person, for an injury done him in his land, goods, person, or reputation, shall have remedy by due course of law, and shall have justice administered without denial or delay.
+“Suits may be brought against the state, in such courts and in such manner, as may be provided by law.” (Emphasis added.)
+Ignoring the second paragraph of Section 16 and the law as enacted in R.C. 2744.02 is misguided and provides no justification for considering R.C. 2744.02(B)(4) unconstitutional.
+We find no merit in the second assignment of error. The judgment of the trial court is affirmed.
+Judgment affirmed.
+Brogan, J., concurs.
+Fain, J., concurs separately.
+Robert L. McBride, J., retired, of the Second Appellate District, sitting by assignment.
+
+## Concurrence (Fain, J.,)
+
+Fain, J.,
+concurring. Based both upon the specific language used in R.C. 2744.02 and upon the prohibition against cruel and unusual punishment contained in Section 9, Article I of the Ohio Constitution and the Eighth Amendment to the United States Constitution, I think a different result might be warranted if the officers of a correctional institution were alleged to have deliberately withheld medical attention or care from a prisoner in their custody.
+In this case, however, it is my understanding that Phipps has alleged merely that the city of Dayton’s corrections officers were careless in their evaluation of his need for medical attention. For that reason, I join in the opinion and judgment of this court, but I assume that the result might be different in a case alleging a deliberate withholding of medical attention of care, especially if the need for medical attention or care were obvious.
