@@ -1,0 +1,64 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1940-11-12"
+citations: ["67 Ohio App. 432"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton, P. J., and Matthews, J., concur."]
+parties: ["Hymel, Appellee, v. Bing, Exr., et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/67/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368284
+cites_cases: ["10 Ohio Law Abs., 298", "107 Ohio St., 562", "119 N. E., 503", "124 N. E., 164", "135 Ohio St., 170", "140 N. E., 761", "47 N. E., 537", "56 Ohio App., 469", "56 Ohio St., 405", "6 Ohio St., 221", "7 Ohio St., 143", "95 Ohio St., 194", "97 Ohio St., 145", "99 Ohio St., 100"]
+---
+
+# Hymel v. Bing
+
+## Majority (Boss, J.)
+
+Boss, J.
+This is an appeal on questions of law from an order of the Common Pleas Court of Hamilton county, overruling a motion of the appellants to dismiss an action brought to contest a will.
+A motion to dismiss this appeal has been filed in this court by the appellee, on the ground that the order of the Court of Common Pleas, overruling the motion to dismiss the action in that court, is not a final order.
+The court in Ryan v. Kroger Grocery & Baking Co., 56 Ohio App., 469, 11 N. E. (2d), 204, especially at page 474 et seq., of the opinion, reviewed at length the jurisdictional provisions of the Constitution, the statutes of this state and the decisions of our courts, pertinent to the question of what is and what is not a judgment within the meaning of the Constitution.
+Again in Hoffman v. Knollman, 135 Ohio St., 170, 20 N. E. (2d), 221, this court and the Supreme Court considered this matter fully in determining that the Legislature could not directly or indirectly enlarge the jurisdiction of this court by providing that the granting of a motion for a new trial should be a final order. In the opinion of Judge Hart, at page 184, the sundry cases decisive of “what are final orders, reviewable in the Court of Appeals” are fully noted.
+The gist of all these decisions is summed up in the statement of Judge Hart on page 181 of the opinion:
+“Though this court has interpreted the term ‘judgments’ so as to include ‘final orders,’ it has limited its application to acts or decrees of the court which give final effect to the central purpose or some independent branch of the litigation, finality being the touchstone in the determination of that quality. ’ ’
+Unless an action to contest a will falls into some category not covered by these authorities, final adjudication of the rights of the appellants must have resulted from the order overruling the motion to dismiss the action to contest the will, in order that this court may have jurisdiction to entertain the instant appeal.
+The appellants seek to avoid the effect of these cases by claiming: First, that an action to contest a will, though admittedly a civil action, is, nevertheless, a ‘ ‘ special proceeding, ’ ’ and that finality is not required in such special proceedings under Section 12223-2, General Code; and, second, that the rights of the appellants were finally adjudicated in the overruling of their motion to dismiss.
+It would seem that if the latter contention were true, resort to the first contention would be unnecessary. Be that as it may, the two claims will be considered as presented.
+Is an action to contest a will a “civil action” and, therefore, as such an action, directly within the purview of the authorities noted?
+Section 12079, General Code, provides:
+“A person interested in a will or codicil admitted to probate in the Probate Court, or Court of Common Pleas on appeal, may contest its validity by a civil action in the Common Pleas Court of the county in which such probate was had.”
+In Niemes v. Niemes, 97 Ohio St., 145, 119 N. E., 503, the first paragraph of the syllabus is :
+‘ ‘ 1. An action in contest of the validity of a will is designated a civil action by the express terms of Section 12079, General Code, and as such is subject to the provisions of Section 11455, General Code, which permits the rendition of a verdict by the jury on the concurrence of three-fourths or more of its membership.” In this case the exact question here considered was involved.
+At page 147 of the opinion, the court says:
+“* * * the point made being that since a contest of a will in Ohio is what is known as a special statutory proceeding it is not embraced within the language of Section 11455, General Code, providing that in all civil actions a verdict shall be rendered upon the concurrence of three-fourths or more of their number.”
+Our attention is directed to Myres v. Myres, 6 Ohio St., 221, as supporting the contention that an action to contest a will is a “special proceeding.” This case is not authority for such contention. On page 224, the court says:
+“But whether this proceeding under the statute to contest the validity of a will was ever so far a ‘proceeding in chancery’ as to carry with it, as an incident, the right to file a petition for rehearing under the fifty-sixth section of the act of 1831, is a question which, though urged by counsel, we do not, in the view we take of the case, deem it necessary either to discuss or to determine; for we are satisfied that the old remedy by petition for rehearing, if it ever existed in a proceeding to contest the validity of a will, has been superseded by the provisions of the Code. ’ ’
+The determination in the Myres case, supra, is that the action to contest a will is subject to the provisions of the Code of Civil Procedure, governing any other civil action.
+Again, the appellants rely upon Missionary Society v. Ely, 56 Ohio St., 405, 47 N. E., 537, to support their contention. The first paragraph of the syllabus in that case is:
+“1. An application to the Probate Court to admit an alleged will to probate is a special proceeding within the meaning of that clause of Section 6707, which provides that an order affecting a substantial right made in a special proceeding is a final order which may be vacated, modified or reversed as provided in Title IV of the Eevised Statutes.”
+Certainly an appeal to the Common Pleas Court from an order refusing probate is an entirely different matter from an action to contest a will which has been probated. It would seem that such distinction would be obvious.
+In Clark v. McFarland, 99 Ohio St., 100, 124 N. E., 164, at page 101 of the opinion, the court says:
+“It is to be observed that while an action to contest a will is often spoken of as a special statutory proceeding, it is after all a civil action, expressly made so by Section 12079, General Code.”
+There being no question, therefore, that the ordinary rules applicable to civil actions are applicable to this action and that “finality” must appear in the order from which appeal is taken, we approach the second claim of appellants, that such finality does exist as to them in the order of the trial court refusing to dismiss the action to contest the will.
+The appellants are executor and executrix under the will of Charles B. May, deceased. The appellee claims to be the only child and heir at law of Charles B. May. She also claims that the decedent entered into a valid contract with her, by the terms of which, for a valuable consideration, the decedent agreed not to make or leave any last will and testament. She filed a claim with the executor and executrix for the value of the estate left by the decedent May. This claim not being satisfied, she filed suit in the Common Pleas Court to secure such estate. While such action was pending, she filed suit to contest the will of the decedent May. In this latter action, the appellants filed a motion to dismiss the action upon the ground that the daughter had elected her remedy and could not proceed in the action to contest the will. It would seem fairly apparent that the executors have a very decided interest in sustaining the presumption in favor of the will by reason of its probate, for if- it be finally determined that there is no will, there will be no executors. It is their claim that while they are necessary parties under the statute, their interest in the matter terminates after the decision of the trial court upon the motion.
+The appellants say in their supplemental memorandum brief:
+“Executors though necessary parties defendants in an action to contest a will (G-eneral Code, Section 12080), are not bound to assume the burden of the defense thereof, may throw such burden upon the legatees and devisees, and are not entitled if the will is adjudged invalid to charge the estate with the expense of maintaining such defense. Exrs. of Andrews v. His Admrs., 7 Ohio St., 143; Foltz v. Boone, 107 Ohio St., 562 [140 N. E., 761].”
+The second paragraph of the syllabus in this latter case noted is:
+“2. An administrator who defends an action for specific performance of a contract, alleged to have been made by his decedent, to will the plaintiff all the residue of decedent’s estate, in consideration of care and service for the rest of her life, after payment of all debts and costs, in a case in which the only heir at law is represented by counsel and actively contests the action, cannot, if nnsnccessfnl in defending the action, charge the estate with attorney fees and expenses of litigation incurred in the contest.”
+The inapplicability of this authority is apparent.
+The syllabus of the Andretos case, supra, is:
+“An executor is not bound to assume the burden of the defense of a contest of the will by the heirs at law, but may properly throw the same upon the legatees or devisees.
+“The executor is not entitled, when the will is adjudged invalid, to charge the estate, in his settlement account, with the expense of maintaining such defense.”
+If such is the case, it would be difficult to see how prejudicial error had intervened by reason of the order of the trial court. The right to maintain jurisdiction over the assets of the decedent certainly is not finally determined by such order, although such right might be more secure if the order had been in favor of the appellants and the action dismissed. However, in In re Estate of Raichley, 10 Ohio Law Abs., 298, the syllabus is:
+“Fees of attorney employed by executors to support the will, are a proper charge against the estate under proper circumstances.
+“Where the attorneys employed by the executors successfully defended actions to contest throughout the federal courts, and later settled with the contestants, so that a verdict was entered sustaining the will, the proper circumstances existed to make the fees a charge on the estate of the decedent. ”
+It is only, as pointed out by the court at page 300 of the opinion, when the executors fail to sustain the will that they may not charge the estate, for it will then appear that in fact they never were executors, at least of a valid will, and are, therefore, strangers to the estate. We quote from the opinion, page 300:
+“In Ohio, however, the Supreme Court long ago took the view that when a will is adjudged invalid the expenses incurred in the unsuccessful effort to sustain it can not he charged against the estate. Exrs. of Andrews v. His Administrators, 7 Ohio St., 143. At the same time, however, the court indicated, perhaps obiter, that such expenses could be charged against the estate in case the will had been successfully defended. This rule was followed in Savings Bank v. Smith, 4 C. C. (N. S.), 237, and In re Account of Ulman, 12 C. C. (N. S.), 340. Following these the Supreme Court in Trumpler v. Roger, 95 Ohio St., 194, squarely held that such charges were proper under proper circumstances.”
+If the executors may at their option abandon defenses of the will to the legatees, it would seem that the mere desire to maintain jurisdiction over the assets would be such a slight interest that little, if any, prejudicial error would exist as to them in a ruling of the court, which still leaves such executors such option to abandon defense of the will and the unimpaired right to defend it at the expense of the estate, if they are successful, and also leaves them in full control of the assets in the estate. If the will is found to be invalid as a testamentary disposition of the decedent’s estate, then ab initio, the executors had no interest in the matter, and were strangers to the estate.
+Enough has been said to show conclusively that the executors have a most vital continuing interest in the action throughout its course and that such interest does not terminate with an order which refuses to secure their exclusive control over the assets of the estate.
+Such order not constituting any final determination of the rights of the appellants in the action, the motion to dismiss their appeal will be granted.
+Appeal dismissed.
+Hamilton, P. J., and Matthews, J., concur.
