@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "16214"
+decided: "1997-06-13"
+citations: ["120 Ohio App. 3d 59"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan and Wolff, JJ., concur."]
+parties: ["COCHRAN et al., Appellees, v. SCHWARTZ, Appellant, et al."]
+source_url: "https://static.case.law/ohio-app-3d/120/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1539286
+cites_cases: ["31 Ill.Dec. 391", "317 So.2d 868", "374 N.E.2d 427", "394 N.E.2d 593", "4 A.L.R. 4th 993", "54 Ohio App.2d 1", "546 F.2d 373", "75 Ill.App.3d 549", "8 O.O.3d 22"]
+---
+
+# Cochran v. Schwartz
+
+## Majority (Fain, Judge.)
+
+Fain, Judge.
+Defendant-Appellant Gary Schwartz appeals from a judgment awarding $5,000 in “earnest money” to plaintiffs-appellees Hobart and Charlene Cochran after Schwartz defaulted in his contract to purchase a duplex from the Cochrans for $69,000. Schwartz contends that the trial court erred when it awarded the Cochrans the earnest money without finding that they had actually sustained damage as a result of Schwartz’s default.
+Although the issue is not free from difficulty, we agree with the trial court that the Cochrans were entitled to the earnest money. Accordingly, the judgment of the trial court is affirmed.
+I
+Schwartz entered into a contract to purchase a duplex from the Cochrans for $69,000. The contract was prepared on a form approved by the Dayton Area Board of Realtors. Although the form contained provisions conditioning the contract upon the purchaser’s ability to obtain financing, the application of these provisions was expressly disclaimed by the handwritten term “N/A” inserted in blanks pertaining to the amount of the mortgage loan and the time within which the purchaser was required to apply for a mortgage loan.
+The contract contained the following provision relating to earnest money:
+“10. EARNEST MONEY; DEFAULT. Upon presentation of this offer, Purchaser has delivered to Irongate, Inc., Broker, the sum of $5000.00 as earnest money, to be (1) deposited in the Broker’s trust account promptly after acceptance of this offer or (2) returned to Purchaser upon request if this offer is not accepted. The earnest money shall be paid to Purchaser or applied on the purchase price at closing. If the closing does not occur because of Seller’s default or because any condition of this Contract is not satisfied or waived, Purchaser shall be entitled to the earnest money. If Purchaser defaults, Seller shall be entitled to the earnest money. The parties acknowledge, however, that the Broker will not make a determination as to which- party is entitled to the earnest money. Instead, the Broker shall release the earnest money from the trust account only (a) in accordance with the joint written instructions of Seller and Purchaser, or (b) in accordance with the following procedure: if the closing does not occur for any reason (including the default of either party), the Broker holding the earnest money may notify Seller in writing that the earnest money will be returned to Purchaser unless Seller makes a written demand for the earnest money within 20 days after the date of the Broker’s notice. If the Broker does not receive a -written demand from the Seller within the 20-day period, the Broker shall return the earnest money to Purchaser. If a written demand from Seller is received by the Broker within the 20-day period, the Broker shall retain the earnest money until (i) Seller and Purchaser have settled the dispute; (ii) disposition has been ordered by a final court order; or (iii) the Broker deposits the earnest money with the court pursuant to applicable court procedures. Payment or refund of the earnest money shall not prejudice the rights of the Broker(s) or the non-defaulting party in an action for damages or specific performance against the defaulting party.”
+After Schwartz defaulted on the contract to purchase the duplex, the Cochrans brought this action against Schwartz and Irongate Realtors to recover the $5,000 earnest money, which was in the possession of Irongate. Irongate deposited the earnest money with the Montgomery County Clerk of Courts, and was dismissed from the action.
+The trial court rendered summary judgment in favor of the Cochrans, holding that they are entitled to the $5,000 earnest money. From the judgment in favor of the Cochrans, Schwartz appeals.
+II
+Schwartz’s sole assignment of error is as follows:
+“The trial court erred to the appellant’s prejudice when it awarded appellee liquidated damages without determining whether or not the appellee had sustained injury.”
+It appears to be conceded that the Cochrans ultimately sold their duplex for $69,000, being an amount identical to the amount of the contract price with Schwartz. Furthermore, no proof of damages was offered in connection with the motion for summary judgment. Schwartz contends that the contractual provision requiring the forfeiture of his $5,000 earnest money in the event of his default was in the nature of an impermissible penalty clause rather than a proper liquidated damages provision. The Cochrans cite Ottenstein v. W. Res. Academy (1977), 54 Ohio App.2d 1, 8 O.O.3d 22, 374 N.E.2d 427, for the proposition that a provision in a contract for the sale of real estate allowing the vendor to keep the earnest money paid in the event of a default by the vendee is a valid, enforceable provision. That decision, which is not binding on this court, includes a dissenting opinion by Judge Mahoney, in which he makes a forceful argument that the retention of earnest money should not be permitted without proof of actual damages.
+We are not aware of authority from this court, or from the Ohio Supreme Court, dealing with the enforceability of a provision in a real estate contract for the retention of earnest money by the vendor in the event of a default by the vendee. The question is discussed in Annotation (1981), 4 A.L.R. 4th 993, 998-1003. Some of the cases cited in that article are instructive. For example, in Higgs v. United States (Ct.Cl.1976), 546 F.2d 373, the court upheld a provision for the retention of an earnest money deposit in the amount of $90,000 as liquidated damages. The court noted that some of the losses to which the seller would be exposed in the event of the purchaser’s default were not definitely ascertainable when the contract was executed, including, specifically, the potential decline in the market value of the property, in view of the uncertainty in the market for real property. Id. at 377. In that case, the property was actually subsequently sold for more than the contract price. Nevertheless, the court concluded that the provision for the retention of earnest money was a reasonable liquidated damages provision in view of the risk of loss to which the seller, at the time of the making of the contract, would be exposed as a result of the purchaser’s default. Accord Bruce Builders, Inc. v. Goodwin (Fla.App.1975), 317 So.2d 868, 869-870.
+Curtin v. Ogborn (1979), 75 Ill.App.3d 549, 31 Ill.Dec. 391, 394 N.E.2d 593, is interesting, not only because it generally agrees with the Higgs and Bruce Builders cases, but also because it notes that in the case of a sale of a residence, the delay in vendor’s plans to move to another home may constitute damage, even though there is no out-of-pocket dollar loss. Furthermore, the Curtin case is interesting because it suggests that an earnest money deposit not exceeding ten percent of the purchase price is a reasonable liquidated damages provision. In the case before us, the earnest money $5,000 constitutes approximately 7.25 percent of the purchase price, $69,000. This is more than double the ratio of the earnest money to the contract price in the Ottenstein case.
+We conclude that the 7.25 percent ratio between the earnest money deposit and the purchase price in the case before us is “pushing the envelope.” Nevertheless, we are satisfied that it is a reasonable liquidated damages provision, and is therefore enforceable.
+Schwartz’s sole assignment of error is overruled.
+Ill
+Schwartz’s sole assignment of error having been overruled, the judgment of the trial court is affirmed.
+Judgement affirmed.
+Brogan and Wolff, JJ., concur.
