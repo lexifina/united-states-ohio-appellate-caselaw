@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5845"
+decided: "1958-04-29"
+citations: ["79 Ohio Law Abs. 229"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PETREE, PJ, BRYANT, J, concur."]
+parties: ["FROWINE CONSTRUCTION CORPORATION, Plaintiff-Appellee, v. PACKARD, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/79/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1793751
+---
+
+# Frowine Construction Corp. v. Packard
+
+## Majority (By MILLER. J.)
+
+OPINION
+By MILLER. J.
+This is an appeal and cross-appeal on questions of law from a judgment of the Common Pleas Court rendered in favor of the plaintiff-appellee for the sum of $2896.20 and costs of suit.
+The facts are fully and well stated in the opinion of the trial court, which for the purpose of this review may be briefly epitomized as follows:
+The Frowine Construction Company, the plaintiff herein, was the general contractor on a highway construction job which it had entered into with the State of Ohio; that the part of the contract which called for certain landscape work was sublet to the defendant-appellant, Frank L. Packard. This subcontract, among other things, called for the planting of 2150 dwarf willow trees, which the defendant agreed to furnish and plant at the unit price of $1.80 per tree, the same to be done in accordance with the specifications submitted by the State of Ohio in the general contract which had previously been entered into between the plaintiff and the State. These specifications called for an inspection of the materials to be furnished, of the work as it progressed, and further provided that no planting was to be done between the dates of June 1st and September 1st.
+On or about May 26th the plaintiff ordered the defendant to do the planting which order, if complied with, would require most of the work to be done in June in violation of the specifications. The defendant most strenuously objected to this for the reason that the plantings would not live if they were made this late in the season. However, the State concurred in the plaintiff’s request and the planting was done in complete accord with the specifications.
+The specifications further provided that plantings were to be watered and maintained until further inspection by the State. The record reveals that the plantings were watered by the defendant and when the inspectors discovered that the plants were dying the defendant was requested to do more watering, some of which he did, but still many of the plantings did not survive. The plaintiff urges that the lack of sufficient water was the cause of the loss, but we think the record supports the conclusion that the loss was occasioned by the planting being done too late in the season, as the work was completed around the middle of June.
+Partial payments were made by the State to the general contractor as the work progressed, who in turn made similar payments to the defendant on the work that he had performed. Final inspection of the subcontract work was made and accepted by the inspectors for the State, on October 31, 1952. No complaint was made to this defendant of any dead plantings, who then moved his equipment away to another job, as the defendant was of the opinion that the work had been satisfactorily completed.
+On March 12, 1953, the plaintiff paid the defendant the sum of $101“.50 as settlement in full for the balance due on the contract, making the total sum of $3870.00 paid to the defendant for the entire job. The defendant urges that this settlement constitutes an accord and satisfaction. The plaintiff denies this conclusion, claiming that it had no knowledge of the dead plantings and for this reason is not bound by the settlement. However, we think the record does not appear to support the fact that the plaintiff had no knowledge of the loss when the balance on the contract was paid. Henry L. Minert, a State Inspector, testified that he made an inspection on August 8, 1952, and “it was reported to the general contractor that they (the plantings) would have to be watered and replaced.” It also appears that on July 25, 1953, the plaintiff made a final settlement with the State for the performance of the general contract at which time the State deducted for the dead willow trees, 1609 in number, and the plaintiff is now attempting by this action to recover from the defendant the amount it had paid him for these dead plantings, amounting to the sum of $2896.20. Section L-14.33 of the Specifications provided:
+“Before completion and final acceptance of the project all trees not alive, or normally healthy or that have died back beyond the normal pruning line shall be replaced by the Contractor at his expense with trees of the specified species or variety, size and quality and meeting these Specifications.”
+Now, the record shows conclusively that at no time was the defendant ever informed by the State or any of its inspectors, nor by the plaintiff that a number of the trees had died and a request made for a replanting as provided in said specifications. The defendant testified that the replanting could have been done by him at a cost of $500.00, while the plaintiff is seeking $2896.20, which is the amount it paid to the defendant based upon the assumption that the trees were growing. Since the State Inspectors accepted these plantings on October 31, 1952, some five months after the work had been completed, we are of the opinion that when the change of conditions became known the defendant should have been informed of the change, the order of acceptance withdrawn or cancelled, and the defendant given the opportunity of replacing the dead trees in accordance with Section L-14.33 of the Specifications. The defendant testified that he was ready and willing to make the'replantings if he had only been given the opportunity, at a total cost of $500.00, which is considerably less than the sum the plaintiff is attempting to deduct from the contract price, by this action.
+Should the parties agree to a remittitur of $2396.20 from the judgment of the trial court, leaving a balance of $500.00 due from the defendant, the judgment will be affirmed; otherwise, it will be reversed as being against the manifest weight of the evidence, and the cross-appeal dismissed.
+PETREE, PJ, BRYANT, J, concur.
