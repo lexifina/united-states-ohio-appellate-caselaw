@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. 56888"
+decided: "1990-05-31"
+citations: ["3 Ohio App. Unrep. 205"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DYKE, P.J., and J.F. CORRIGAN, J., concur."]
+parties: ["Queen City Indemnity Co. v. Wasdovich"]
+source_url: "https://static.case.law/ohio-app-unrep/3/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1612733
+cites_cases: ["36 Ohio St. 3d 22", "45 Ohio St. 3d 27", "521 N.E.2d 447", "543 N.E.2d 456"]
+---
+
+# Queen City Indemnity Co. v. Wasdovich
+
+## Majority (NAHRA, J.)
+
+NAHRA, J.
+John Wasdovich and his wife Ann Wasdovich (John Wasdovich, et al.) are appealing the order of the trial court granting Queen City Indemnity Company's summary judgment in a declaratory judgment action. For the following reasons, we affirm the judgment below.
+Ann Wasdovich was involved in an automobile collision with Janet Eddy. At the time of the accident, Eddy was insured by Nationwide Mutual Insurance Company ("Nationwide") for liability coverage of fifty thousand dollars. The Wasdovichs were insured by Queen City Indemnity Company ("Queen City"), with an underinsured motorist provision with a limit of one hundred thousand dollars per person and three hundred thousand per accident.
+Mr. and Mrs. Wasdovich filed suit against Eddy and thereafter counsel for the Wasdovichs notified an agent for Queen City, of a potential underinsured motorist claim insofar as Eddy's liability limits with Nationwide were inadequate to compensate the Wasdovichs fully. Counsel for the Wasdovichs later sent a letter to Mr. Robert Sissin, a claims representative at Queen City, advising Queen City again of the Wasdovichs' intent of pursuing a UIM claim and inquiring whether Queen City would waive its subrogation rights against Janet Eddy.
+Trial against Eddy commenced and in mid-trial it was ascertained that Mrs. Wasdovich's treating physician was unable to conclude that her hip injuries were related to the automobile accident. Thereafter, the Wasdovichs entered into a settlement agreement with Nationwide in the amount of twenty thousand dollars through which the Wasdovichs released Nationwide from all claims arising from the accident; Janet Eddy was not so released. However, Queen City did not consent to the settlement. Counsel for the Wasdovichs notified Queen City of their intention of pursuing a UIM claim for any amounts in excess of fifty thousand dollars owed to them.
+Queen City filed a declaratory judgment action against the Wasdovichs, Nationwide and Eddy, asking the trial court to determine whether or not the Wasdovichs were entitled to bring an underinsured motorist claim. In addition, Queen City requested the trial court to determine whether the release executed between the Wasdovichs and Nationwide was null and void and whether Nationwide had a duty to defend Eddy and indemnify her.
+All parties to the declaratory judgment action filed motions for summary judgment. The trial court granted Queen City's motion for summary judgment and denied the motions for summary judgment filed by the Wasdovichs, Nationwide and Janet Eddy. In its entry, the trial court found that the "Nationwide insurance policy was not, in fact, exhausted and therefore defendants are precluded from making any claims on the underinsured carrier" The court found "the insurance policy proceeds were, in fact, abandoned above and beyond any amount received in settlement and are now excluded from collection by defendant Wasdovich." This appeal follows.
+Appellant's sole assignment of error states:
+"THE TRIAL COURT ERRED AS A MATTER OF LAW, IN FINDING THAT APPELLANTS, ON THE BASIS THAT THE NATIONWIDE LIABILITY POLICY WAS NOT EXHAUSTED, ARE PRECLUDED FROM MAKING AN UNDERINSURED MOTORIST CLAIM WITH APPELLEE, QUEEN CITY INDEMNITY COMPANY."
+Queen City moved for summary judgment below based on the following UIM provision in its policy:
+"The Company [Queen City] shall not be obligated to make any payment . . . until the limits of liability under all bodily injury liability bonds or insurance policies applicable at the time of the accident have been exhausted by payment of judgments or settlements" Queen City contends that the limits of Eddy's liability insurance had not been exhausted insofar as the settlement the Wasdovichs entered into with Nationwide amounted to an abandonment of their claim against Eddy. For such reason, the Wasdovichs were precluded from bringing a UIM claim against Queen City as a matter of law. We agree.
+An "Exhaustion by payment" clause is a valid precondition to the receipt of a UIM benefit. Bogan v. Progressive Casualty (1988), 36 Ohio St. 3d 22, 28, 521 N.E.2d 447; see also In re Sally J. Hawthorne v. Nationwide Mutual Insurance ca (Feb. 22, 1990), Cuyahoga App. Nos. 56432 and 56824. An "exhaustion by payment" clause is fulfilled when the injured insured "receives from the insured tortfeasor's insurance carrier a commitment to pay an amount in settlement with the injured party retaining the right to proceed against his underinsured motorist insurance carrier only for those amounts in excess of the tortfeasor's policy limits." Bogan, 36 Ohio St. 3d 22, (syl. 2); see McDonald v. Republic-Franklin Insurance Co. (1989), 45 Ohio St. 3d 27, 30, 543 N.E.2d 456. In Bogan, the injured insured accepted a twenty-one thousand dollar settlementfrom the tortfeasor who had insurance of twenty five thousand. The Supreme Court of Ohio found that the injured insured exhausted the limits of the tortfeasor's insurance policy because they "voluntarily decided to treat the proffered settlement as a receipt of the entire policy for all practical purposea" Id. at 28. However, the same court cautioned that:
+"We do not mean to suggest by the foregoing that an injured party may, voluntarily or otherwise, abandon his claim against the tortfeasor or his insurer and so proceed directly against the underinsured motorist insurer." Id. The Supreme Court of Ohio announced that public policy considerations favor settlements insofar as settlements for less than the policy limits may represent "the savings in litigation costs for both sides." Id. at 26. While the settlement in Bogan for four thousand dollars less than the liability limit represented such a savings, we find that the settlement here for thirty thousand dollars less than the tortfeasor's liability limit does not represent a genuine savings in litigation expense as contemplated in Bogan or as a matter of practicality receipt of the entire proceeds of the policy. Rather, we find that the Wasdovichs' settlement with Nationwide for substantially less than Eddy's liability limit constituted an abandonment of their claim. According to the deposition of Mr. Michael Shafron, counsel for the Wasdovichs in the proceedings below, the settlement arose when the Wasdovichs learned that their medical expert could not testify convincingly that Mrs. Wasdovich's hip injuries were related to the automobile accident with Eddy.
+Clearly the tortfeasor's policy limits were not exhausted even for practical purposes by settling for twenty thousand dollars when fifty thousand dollars was available.
+As a result, the Wasdovichs are precluded from bringing UIM against Queen City.
+Judgment affirmed.
+DYKE, P.J., and J.F. CORRIGAN, J., concur.
