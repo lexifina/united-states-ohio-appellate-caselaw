@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "29426"
+decided: "1969-12-18"
+citations: ["20 Ohio App. 2d 319"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["White, P. J., and Day, J., concur."]
+parties: ["In re Collins."]
+source_url: "https://static.case.law/ohio-app-2d/20/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1466635
+cites_cases: ["10 Ohio St. 287", "11 Ohio Law Abs. 439", "111 Ohio St. 698", "117 So. 2d 544", "122 Ohio St. 443", "153 Cal. App. 2d 146", "19 Ohio St. 2d 70", "191 Misc. 768", "238 Cal. App. 2d 819", "314 P. 2d 164", "350 F. 2d 913", "369 U. S. 506", "383 U. S. 950", "384 U. S. 436", "387 U. S. 1", "78 N. Y. S. 2d 596", "79 A. L. R. 2d 638", "83 Ohio St. 136", "93 Ohio Law Abs. 136", "97 Ohio App. 339", "97 Ohio St. 280"]
+---
+
+# In re Collins
+
+## Majority (Wasserman, J.)
+
+Wasserman, J.
+This matter arose in the Juvenile Court of Cuyahoga County and comes to us without a bill of exceptions or other direct record of the evidence presented in the Juvenile Court hearings. The minor and his parents were not represented in court by counsel until June 26, 1968. We have only the journal entries and other documents in the transcript upon which to base our decision, and, from this source, we find the following to be the facts in the case.
+The appellant, Joey Collins, appeared in the Juvenile Court of Cuyahoga County as a result of a petition alleging that he, and others, attempted to break into and enter the Friedman Jewelry Store and did break into and enter Jayne’s Beauty Shop on March 11, 1968. The court, on April 3, 1968, after hearing the evidence, which in the case of appellant consisted solely of testimony by the one alleged codelinquent found at the scene of the offense, continued the matter for a polygraph, or lie detector, test to be administered. The record shows that the giving of this test was upon the court’s own motion, with the “consent” of the minor and parents.
+When the results of this test were available to the court, a further hearing was had on May 27, 1968, at which the appellant was found to be a delinquent and was committed to the Cleveland Boys’ School. The parents then sought the advice of counsel for the first time, and counsel made a motion for reconsideration, with the result that the Juvenile Court, on July 19, 1968, ordered the May 27th order continued in effect.
+On August 2, 1968, counsel for appellant filed a notice of appeal and a precipe for transcript. Twelve days later the commitment of the appellant to Cleveland Boys’ School was terminated and the appellant was committed to the permanent care and custody of the Youth Commission, State of Ohio. After a dismissal of the initial appeal, the present appeal was perfected, bringing this case before our court on questions of law.
+Three issues are considered in this opinion.
+1. Can the uncorroborated testimony of a codelinquent support a finding of delinquency against a minor?
+2. Can a Juvenile Court judge, as an incident to a delinquency hearing, sua sponte, authorize a lie detector test, even with the consent of the juvenile and his parents?
+3. Can a minor, and his parents, without specific instructions to them from the court on lie detection tests and the constitutional privilege against self-incrimination, waive the minor accused’s constitutional right against self-incrimination ?
+The rule in Ohio as to uncorroborated testimony is that there may be a valid finding of guilty by a jury based upon the uncorroborated testimony of an accomplice, but such testimony will be received and scrutinized with great care. Allen v. State (1859), 10 Ohio St. 287; Beckman v. State (1930), 122 Ohio St. 443; State v. Reichert (1924), 111 Ohio St. 698; State v. Lehr (1918), 97 Ohio St. 280. However, many courts citing this rule nevertheless find corroboration. Beckman, supra; Reichert, supra; Lehr, supra. See, also, State v. Robinson (1910), 83 Ohio St. 136; State v. Neal (Cuyahoga County, 1954), 97 Ohio App. 339. There is only one case in which a conviction is affirmed and no corroboration is found. Allen v. State, supra. In one other case, conviction for prostitution was affirmed based on the sole testimony of the arresting police officer who was solicited by the accused, but that case is distinguished as being the uncorroborated testimony of a police officer. Thompson v. State (Cuyahoga County App., 1931), 11 Ohio Law Abs. 439.
+The rule, although not strictly applied as corroboration is found to exist, continues to have vitality, although it is to be applied with great care in a criminal case where the finding of fact must be beyond a reasonable doubt. In a Juvenile Court, where civil rules are to be applied, the burden is by clear and convincing evidence. In re Agler (1969), 19 Ohio St. 2d 70. Therefore, the burden of proof may be more clearly met in a Juvenile Court case by the uncorroborated testimony of a codelinquent, and we find no ground to reverse such a case on appeal on this basis.
+The general rule is that the privilege against self-incrimination is personal to the witness, including the accused. Bowman v. United States (C. C. A. 9, 1965), 350 F. 2d 913, certiorari denied (1966), 383 U. S. 950. In a special situation, an attorney for a co-indictee has been permitted to assert the privilege. State v. Pinch (Court of Appeals, 1962), 93 Ohio Law Abs. 136. No case, however, has held that a parent could waive the constitutional right of a min- or in a Juvenile Court or criminal case.
+Many courts have held that a waiver must be knowledgeably made to be constitutionally valid. Miranda v. Arizona (1966), 384 U. S. 436; In re Gault (1966), 387 U. S. 1; In re Agler (1969), 19 Ohio St. 2d 70. If the accused is not represented by counsel, the court has the affirmative duty to explain the privilege at the time the testimony is sought. Cochran v. State (Fla. App., 1960), 117 So. 2d 544, 79 A. L. R. 2d 638. See, also, People v. Glaser (1965), 238 Cal. App. 2d 819; People v. Chlebowy (Sup. Ct. 1948), 191 Misc. 768, 78 N. Y. S. 2d 596; Killpatrick v. Superior Court (1957), 153 Cal. App. 2d 146, 314 P. 2d 164.
+The explanation must include the facts that there is an unqualified right to remain silent, that a statement made may be used against him, and that his refusal to testify will not be held against him. Miranda v. Arizona, 384 U. S. 436. The privilege is held to apply to statements intended to be exculpatory as well as inculpatory, Miranda v. Arizona, supra, at 477, and is not to be presumed waived from a silent record. Miranda, supra, citing Carnley v. Cochran (1962), 369 U. S. 506, 516. Finally, Gault, supra, holds that the Miranda protections as to self-incrimination are to be applied in Juvenile Court cases.
+Turning to the present matter, we find that the record does not affirmatively show the required explanation, and thus a valid waiver is not to be presumed, even if the minor’s parents sought the lie detector testing of the minor. The finding of delinquency thus appears improper, even if it could be assumed the testing results in no way affected the finding of delinquency, especially as lie detector tests are ordinarily inadmissible absent knowing agreement as to admitting the test by both sides.
+With the law requiring great care in arriving at a conviction based upon uncorroborated testimony of an accomplice, and with an affirmative duty required of the court before a valid waiver of the privilege against self-incrimination should be found, the finding of delinquency by the Juvenile Court is reversed.
+The judgment is reversed as contrary to law, and the cause remanded to the trial court for further proceedings according to law.
+Judgment reversed.
+White, P. J., and Day, J., concur.
