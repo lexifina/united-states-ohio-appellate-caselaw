@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1923-03-19"
+citations: ["17 Ohio App. 408"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Buchwalter and Hamilton, JJ., concur."]
+parties: ["The Pittsburg, Cincinnati, Chicago & St. Louis Ry. Co. v. Lucas, Admx."]
+source_url: "https://static.case.law/ohio-app/17/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1847208
+cites_cases: ["198 Fed., 1", "208 Fed., 869", "219 Fed., 148", "223 U. S., 1", "233 U. S., 492", "241 U. S., 229", "245 U. S., 441"]
+---
+
+# Pittsburg, Cincinnati, Chicago & St. Louis Ry. Co. v. Lucas
+
+## Majority (Cushing, J.)
+
+Cushing, J.
+The question for determination in this case is whether in the trial of an action for negligence, growing out of an accident on an interstate railroad, the state court hearing the cause shall be governed by the statutes and decisions of the state courts, or by the Acts of Congress .and the decisions of the Federal Courts.
+On March 14, 1920, Lawrence Lucas was in the employ of the Pittsburg, Cincinnati, Chicago & St. Louis Railway Company. He had been so employed for about a year. He worked as an oiler and packer in the company’s Pendleton shops in Cincinnati.
+There were a number of parallel tracks in the roundhouse, that were used for the inspection and repair of locomotives.
+On the day of the accident two locomotives were standing on track No. 4. One was placed just east and the other just west of a board walk from north to south, through the roundhouse. The engines were from eighteen inches to three feet apart. This walk was used by the employes in and about the building. The pits, about three feet deep, between the tracks, were used by the men in their work.
+About 11:30 a. m. of the day in question, the foreman directed Engel, an engineer in charge of an engine used to place in and remove engines from the roundhouse, to couple his engine to the one east of the cross-walk, and pull it out of the roundhouse. He backed his engine to the east door of the roundhouse, and, just before he undertook to make the coupling, gave a signal of three short, sharp blasts of the whistle, to notify all persons that he was about to make the coupling. He also started the automatic bell on the engine, and it rang constantly from that time until after the accident. The first attempt to make the coupling was not successful. While making the second effort, the engine east of the walk was moved backward a short distance. Just at that time, Lucas was passing between the two engines, and was caught and killed. The engineer did not sound the whistle before attempting to make the second coupling. There was nothing between the cross-walk and the engine that was mailing the coupling. It was in plain view from the crosswalk, and its bell was ringing.
+It is claimed that Engel was negligent in not sounding the whistle before making the second effort to couple the engines, and that the company was negligent in that it did not station a man at the cross-walk to notify employes that the coupling was about to be made, and that the engine would be backed.
+The evidence discloses, and it is admitted in the record, that the railroad in question is an interstate railroad, that the engines between which Lucas was caught were used in interstate business, and that he was working on interstate engines.
+The trial in the court of common pleas resulted in a judgment for defendant in error in the sum of $10,000, and this action is prosecuted to reverse that judgment.
+The plaintiff in error claims that the case comes under the Federal Employers’ Liability Act, and that the court below erred in its charge to the jury. In addition to the admissions in the record that the Pennsylvania Railroad Company is an interstate railroad, and that the engines on which Lucas was working were locomotives customarily used on the Richmond branch of said railroad, between Cincinnati, Ohio, and Richmond, Indiana, it has been held that an employe working in repair shops, repairing cars customarily used in interstate commerce, is engaged in interstate commerce. Northern Pacific Ry. Co. v. Maerkl, 198 Fed., 1; Law v. Illinois Central Ry. Co., 208 Fed., 869, and P., C., C. & St. L. Ry. Co. v. Glinn, 219 Fed., 148.
+It will be conceded that on the facts of this case, and the law, Lucas, at the time of the accident, was an employe engaged in interstate commerce. This brings us to the question for determination.
+The Federal Employers’ Liability Act provides that unless the case comes within the provision of Section 4 of that Act, the defense of fellow servant or assumption of risk may be pleaded and relied on in cases falling within the provisions of the Act.
+At the trial of the case, the court charged the jury as follows:
+“It was the duty of plaintiff’s decedent, as well as the defendant’s, to exercise ordinary care in and about his work to protect himself from injury; and, under the law applicable to this case, he assumed the ordinary dangers of the occupation in which he.was engaged, and also those risks and dangers which are known or so plainly observable that he might be presumed to know them, and he also assumes the risk of his fellow employes that he knew of or that was obvious and easily understood.”
+This charge did not correctly state the law. Its language is involved, and it does, not correctly state the common-law rule of assumption of risk. The language: “It was the duty of plaintiff’s decedent, as well as the defendant’s, to exercise ordinary care in and about his work to protect himself from injury,” does not correctly state the rule by which the jury should determine whether the company had discharged its duty to the employe under the Federal Employers’ Act.
+Again, the charge says, “and, under the law applicable to this case, he assumed the ordinary dangers of the occupation in- which he was engaged.” This part of the charge does not correctly state the rule of the state courts, nor the rule under the Federal Employers’ Liability Act. The common-law rule of the defense of assumption of risk was not abrogated, except in the cases specified in Section 4 of the Federal Employers’ Liability Act. It has been held that at common law the rule is well settled that a servant assumes the extraordinary risks incident to his employment, or risks, caused by the employer’s negligence, which are obvious or fully known and appreciated by him. (Boldt, Admx., v. Pennsylvania Rd. Co., 245 U. S., 441.) In Jacobs v. Southern Ry. Co., 241 U. S., 229, at page 235, the court quotes:
+“ ‘It seems to us that Section 4, in eliminating the defense of assumption of risk in the cases indicated, quite plainly evidences the legislative intent that in all other cases such assumption shall have its former effect as a complete bar to the action.’ ”
+The charge given, “viewed wholly with reference to the common law principles,” is erroneous in that it failed to state that the risks assumed were the extraordinary risks incident to his employment, and when the jury were told that he assumed ordinary risks of his fellow employes, the court incorrectly stated the rule of law. The correct rule is that he assumed the extraordinary risk due to his employment, and the risks of negligence of employer and fellow employes when obvious or fully known and appreciated by him. This rule has been repeated so many times by the Supreme Court of the United States that it is not now open to question.
+The remaining question for consideration is, Must the state courts in the trial of cases against interstate carriers follow the rules pronounced by thé federal court?
+This question is settled by the case of Seaboard Air Line Ry. v. Horton, 233 U. S., 492, which case was originally tried in a state court of North Carolina. Horton recovered a judgment against the railroad company. The Supreme Court of North Carolina affirmed the judgment of the trial court. The case was then taken to the Supreme Court of the United States. In passing on the case, that court (page 501) called attention to the fact that the trial judge had adopted some measure of responsibility prescribed by the local statute, and said:
+“But it is settled that since Congress, by the act of 1908, took possession of the field of the employer’s liability to employes in interstate transportation by rail, all state laws upon the subject are superseded. Second Employers’ Liability Cases, 223 U. S., 1, 55.”
+Our conclusion is that there was error in the charge of the court below, prejudicial to the plaintiff in error.
+The judgment of the court below is reversed, and the cause remanded for further proceedings according to law.
+Judgment reversed, and cause remamded.
+Buchwalter and Hamilton, JJ., concur.
