@@ -1,0 +1,26 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1951"
+decided: "1930-11-12"
+citations: ["10 Ohio Law Abs. 583"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KUNKLE, PJ and HORNBECK, J, concur."]
+parties: ["CENCI v CASBARRO et"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0583-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 897116
+cites_cases: ["60 Oh St, 170"]
+---
+
+# Cenci v. Casbarro
+
+## Majority (ALLREAD, J.)
+
+ALLREAD, J.
+The plaintiff and his witnesses testify that there xwas a specific agreement between the plaintiff, John Cenci, and the defendants, Dominic and Carmela Casbarro, that the plaintiff was to have the dwelling house in the rear of the barbecue which was then supposed to be on lot No. 7. 'They claim that at the time the transaction was consummated there was not only a written lease for the property but that possession of the same was turned over to the plaintiff and the key delivered to him, that the telephone was changed from their own names to the names of the lessee, the plaintiff, and that rent was paid for some three months after the plaintiff was occupying the house. In a measure this was conceded by the witnesses for the defendants. They claim, however, that all of lot No. 6 was expressly reserved to Margaret Ross, their daughter, and her husband and that no part of lot No. 6 was intended to be conveyed. They further agree that at the time the plaintiff took possession they gave the plaintiff a receipt for the rent and also turned over to him one of the copies of the lease, reserving one copy in their own possession. They claim that there was a specific agreement that the plaintiff was to move in with the Rosses and that there was no other agreement as to the house. The written lease, which is offered as a part of the evidence, shows that the premises were to be used and occupied for “living purposes and truck garden.” The evidence also shows that the barn and chicken coops were on the lots conveyed but that there was no house thereon. At the time of the execution of the lease the Casbarros lived in the house on the rear and gave it up voluntarily to the plaintiff. We are of opinion that the plaintiff must have clear and convincing evidence of his right to the reformation before the court can decree the same. That rule is established in this state by a number of decisions. It is contended, however, that the facts of this case are very similar to tlie case of Stewart v Gordon, 60 Oh St, 170. We have read and considered that case and have reached the conclusion that the present case presents more satisfactory evidence than was shown in that case and justifies this court in holding that' the evidence is sufficient to require a reformation of the contract so as to include the house. In the case of Stewart v Gordon the evidence depended upon verbal testimony largely and besides the trial court did not find that the plaintiff was entitled to recovery by clear and convincing evidence. It is clear to our minds that the testimony of plaintiff’s witnesses is cororobrated by the written contract which shows that the plaintiff was entitled to the use of the premises for living'purposes and truck gardening and also by certain stipulations in the printed part of the lease which shows that the property must have included a house which was the subject matter of these stipulations.
+It is also claimed that the fact that lot No. 6 was reserved to the Rosses is some evidence against the plaintiff in this case. It may be true except for the fact that the dwelling house was located upon lot No. 6 and that all the parties'seemed to agree at the time the written lease was executed that the house was on lot No. 7. The real differences between the parties arose some three months after the execution of this lease; and the defendants gave a written notice to the plaintiff to leave the dwelling house on the rear part of lot No. 6. This precipitated the present suit. We are clear that the evidence in the present case justifies the finding in favor of a reformation so "as to include the house so located upon lot No. 6. This would necessarily include not only the house but so much of the ground as would constitute the curtilege to the house so that the full enjoyment of the house might be had.
+The question, therefore, arises upon the compensatory part of the o^der made in the Court of Common Pleas, to-wit, that a similar portion of lot No. 7 be awarded to defendants.- This is not upon the theory that the contract so provided but upon the theory that it was required as a matter of justice between the plaintiff and the defendants. In other words, that to order the defendants to convey a portion of lot No. 7 as a compensatory provision would be in harmony with substantial justice. We are, therefore, of opinion that the judgment must be in favor of the plaintiff as to so much of the rear part of said lot No. 6 as would constitute the curtilege of the house, and as a matter of justice that the plain- I tiff be compelled to award a similar portion on the north side of lot No. 7 and immediately adjoining the barbecue property of the defendants.
+The judgment will, therefore, be rendered accordingly.
+KUNKLE, PJ and HORNBECK, J, concur.
