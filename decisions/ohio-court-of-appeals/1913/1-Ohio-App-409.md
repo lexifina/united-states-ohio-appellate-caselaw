@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1913-07-12"
+citations: ["1 Ohio App. 409"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, E. H., J.; Swing and Jones, O. B., JJ., concurring."]
+parties: ["In re Liquidation of The Metropolitan Bank & Trust Co."]
+source_url: "https://static.case.law/ohio-app/1/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1832603
+---
+
+# In re Liquidation of the Metropolitan Bank & Trust Co.
+
+## Majority
+
+This cause comes to this court on appeal from the common pleas court upon a judgment entered in favor of The Second National Bank of Cincinnati, Ohio, on its intervening petition. Said intervening petition states that said bank is the owner and holder of a certain promissory note, setting out a copy thereof, signed as follows: “Chas. Herbert Jones, Leslie Webb, John A. Ringgold, H. H. Friend, cashier, T. F. McClure, trustee, T. F. McClure, C. W. Bruns, John J. Bruce.”
+There are twelve endorsements showing interest paid upon said note, which interest the evidence shows was paid by the Metropolitan Bank. The intervening petition then proceeds as follows:
+“This intervenor says that on or about the 29th day of August, 1908, The Metropolitan Bank & Trust Company desired to borrow from The Second National Bank of Cincinnati, the sum of $20,000 and presented to said Second National Bank the note above set forth as its note. That this applicant received said note as the note of the said Metropolitan Bank & Trust Company, and paid to said company said sum of $20,000. That said company has paid the interest on said note at the times shown by the endorsements thereon.”
+The petition then states that said Metropolitan Bank is now in liquidation; that upon a certain date the applicant presented to the superintendent of banks a duly authenticated and verified statement of said claim, and asked that said claim be allowed as a valid claim against The Metropolitan Bank & Trust Company, and that the same was rejected. The petitioner then prays that the court “may adjudge said claim to be a valid claim against The Metropolitan Bank & Trust Company, and order said Frank E. Baxter as such superintendent of banks in charge of the assets of said company to allow the same as a valid claim, entitled to dividends from the assets of said company, and for all other relief proper in the premises.”
+By agreement the cause was submitted to this court upon a transcript made of the testimony given in the court of common pleas. Objection is made to the admission of all the evidence contained in said transcript which tended to explain the official character of the signers of said note and their relation to The Metropolitan Bank & Trust Company, as well as to the minutes of the meetings of the directors of said bank showing authority for the borrowing of the $20,000 represented by the note in controversy. Counsel for the state banking department, in resisting the allowance of this note and in support of his objection to said evidence, argued with great force and ability that the note speaks for itself; that under our negotiable-instrument laws no one can be held liable upon a note as maker whose name does not appear thereon. For this reason he claims all extraneous evidence to be inadmissible and irrelevant, and argues that inasmuch as the name of the Metropolitan Bank does not appear upon said note, it can not be held liable.
+We are not inclined to think that the court would be justified in excluding the evidence objected to. The intervening petition alleges and the notes show that one of the signatures thereon was that of “H. H. Friend, Cashier;” another signature is that of “T. F. McClure, Trustee;” the remaining signatures seemed to be individual signatures. We are of opinion that the signature of Mr. Friend as cashier may be explained by parol evidence; and that the minutes of the directors’ meetings may be offered, for that purpose. Upon that ground, therefore, a great deal of the evidence objected to becomes admissible.
+Again, this is not an action at law. There is no prayer for a money judgment and the case is not one triable by jury. If it were, there would be no right to appeal. .' Under the allegation of the petition that the Metropolitan Bank desired to borrow from The Second National Bank this sum of money, and that said bank did borrow said sum and paid the interest thereon, and that The Second National Bank took said note as the note of said Metropolitan Bank & Trust Company, and the same being proper averments, we are of the opinion that the evidence was properly received below and should be considered here. Having so ruled, there is but one conclusion to be reached from this evidence, and that is the conclusion reached by the court below when passing upon it. The evidence shows clearly that the proper officers of the Metropolitan Bank authorized the borrowing of this sum of money from The Second National Bank; that the note given the latter bank was intended as an obligation of-the Metropolitan Bank, and that whether it was so intended or not the money, as the petition avers, was received from The Second National Bank by the Metropolitan Bank, placed with its funds and used by it.. The defense interposed to the allowance of this claim is therefore a purely technical one. The obligation was recognized over and over again by the payment of the twelve installments of interest.
+Mr. Robert A. Black, resisting the claim.
+Messrs. Peck, Shaffer & Peck, for the claim.
+Upon the evidence therefore we think the claim must be allowed, and the prayer of the intervenor will be granted.
+Judgment accordingly.
