@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "82AP-75"
+decided: "1982-11-18"
+citations: ["8 Ohio App. 3d 306"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside, P.J., and Norris, J., concur."]
+parties: ["In re Assignment of New Riegel Local School District etc."]
+source_url: "https://static.case.law/ohio-app-3d/8/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712524
+cites_cases: ["20 O.O.3d 165", "22 Ohio St. 2d 13", "32 Ohio St. 2d 150", "4 O.O.3d 204", "4 Ohio App. 3d 78", "45 Ohio St. 2d 117", "50 Ohio St. 2d 91", "51 O.O.2d 35", "53 Ohio St. 2d 173", "61 O.O.2d 394", "66 Ohio St. 2d 152", "7 O.O.3d 357", "74 O.O.2d 215"]
+---
+
+# In re Assignment of New Riegel Local School District
+
+## Majority (Reilly, J.)
+
+Reilly, J.
+The State Board of Education (appellee) informed appellant, New Riegel Local School District, of its assignment to membership in the Vanguard Joint Vocational School District pursuant to R.C. 3313.90. Appellant then requested a hearing under R.C. Chapter 119. Subsequent to the hearing, appellee passed a resolution assigning the New Riegel Local School District to membership in the Vanguard Joint Vocational School District. Appellant appealed to the Court of Common Pleas of Franklin County pursuant to R.C. 119.12.
+Appellee filed a motion to dismiss, which the court sustained. The decision reads as follows:
+“Appellee’s motion to dismiss the instant appeal is well taken and is SUSTAINED. Board of Education of Grandview v. State Board of Education, 45 Ohio St. 2d 117 [74 O.O.2d 215] (1976) and Board of Education of Marion v. Board of Education of Elgin, 66 Ohio St. 2d 152 [20 O.O.3d 165] (1981). Furthermore, the exclusive remedy for appellant herein is provided by Section 3313.911, Ohio Revised Code. Costs to appellant.
+“Appropriate entry may be submitted for signature.”
+Appellant has perfected this appeal, including two arguments, which will be considered as assignments of error:
+“A. The court below erred in its construction of R.C. 119.12. The State Board of Education’s resolution, pursuant to R.C. 3313.911, to assign the New Riegel Local School District to membership in the Vanguard Joint Vocational School District is a judicial act, and thus is ap-pealable under R.C. 119.12.
+“B. The referendum authorized by R.C. 3313.911 is not an exclusive remedy and is itself the subject of one of the issues raised by this appeal.”
+Appellee has responded with two cross-assignments of error as follows:
+“I. The final decision made by the State Board of Education in an R.C. 3313.911 proceeding is itself a legislative act which is not an order subject to appeal pursuant to R.C. 119.12.
+“II. R.C. 3313.911 provides a specific and exclusive remedy for persons opposed to the assignment of a school district to a joint vocational school district.”
+Appellant’s assignments of error are interrelated and are considered together. The referee’s report of the hearing, which is incorporated by reference in appellee’s May 12, 1981 resolution, reads in part:
+“R.C. 3313.90 imposes a mandatory requirement on each and every school district in this state, to establish and maintain a vocational educational program conformable with standards adopted by the State Board of Education. The statute provides various alternatives whereby a school district may, on its own initiative, comply with the statutory mandate and the standards of the State Board promulgated pursuant thereto. In the absence of such compliance, in order to effectuate the legislative purpose of providing a comprehensive vocational educational program on a statewide basis, the State Board is empowered pursuant to R.C. 3313.91 and R.C. 3313.911 to:
+“1. Assign a school district to an existing joint vocational district and require the assigned district to enter into a con-tractural agreement for providing adequate vocational educational services; or
+“2. Assign a school district to membership in a joint vocational district to the end that the assigned school district becomes a part of the existing joint vocational school district with, under certain circumstances, the right of representation on the joint vocational school district’s board of education (see R.C. 3313.911, 3311.19).”
+The referee found that appellant did not provide for its students a vocational educational program conforming to the requirements of R.C. 3313.90. Therefore, the referee recommended that appellee adopt a resolution assigning New Riegel to Vanguard pursuant to the September 8 resolution.
+The main issue is whether there may be an appeal to the court of common pleas under R.C. 119.12 from the resolution of appellee assigning a school district to membership in a joint vocational school district. R.C. 119.12 provides for appeals, as follows:
+“Any party adversely affected by any order of an agency issued pursuant to an adjudication denying an applicant admission to an examination, or denying the issuance or renewal of a license, registration of a licensee, or revoking or suspending a license, * * *
+“* * * [or] any order of an agency issued pursuant to any other adjudication jjt # * ))
+Jurisdiction for appeal is established by Section 4(B), Article IV, Ohio Constitution, which states: “The courts of common pleas * * * shall have * * * such powers of review of proceedings of administrative officers and agencies as may be provided by law.” This language evolved from former Section 2, Article IV, Ohio Constitution, which conferred upon the Supreme Court “such revisory jurisdiction of the proceedings of administrative officers as may be conferred by law.”
+The Supreme Court in State, ex rel. Bd. of Edn., v. State Bd. of Edn. (1978), 53 Ohio St. 2d 173, 176-177 [7 O.O.3d 357], wrote:
+“Before an appeal can successfully be brought to the Court of Common Pleas of Franklin County under the provisions of R.C. Chapter 119, the proceedings of the administrative agency must have been quasi-judicial in nature. Section 4(B), Article IV of the Ohio Constitution; paragraph one of the syllabus in Fortner v. Thomas (1970), 22 Ohio St. 2d 13 [51 O.O.2d 35]. In employing the term ‘quasi-judicial,’ this court held in paragraph two of the syllabus in M. J. Kelley Co. v. Cleveland (1972), 32 Ohio St. 2d 150 [61 O.O.2d 394], that:
+“ ‘Proceedings of administrative officers and agencies are not quasi-judicial where there is no requirement for notice, hearing and the opportunity for introduction of evidence.’
+H* j|c *
+“R.C. 119.06 requires that ‘[n]o adjudication order shall be valid unless an opportunity for a hearing is afforded in accordance with section 119.01 to 119.13, inclusive * * *.’ ‘Adjudication’ is defined under R.C. 119.01(D) as ‘the determination by the highest or ultimate authority of an agency of the rights, duties, privileges, benefits, or legal relationships of a specified person, but does not include the issuance of a license in response to an application with respect to which no question is raised, nor other acts of a ministerial nature.’
+“In construing the above statutory provisions together, it is evident that before an order based on an ‘adjudication’ may be issued by the state board, the board must first provide notice and a hearing. Alternatively, if the order is not based on an ‘adjudication,’ it is immaterial that the state board does not furnish parties an opportunity to be heard, since the order, so long as it is authorized by law, is still valid.”
+Appellee cites Bd. of Edn. of Marion v. Bd. of Edn. of Elgin (1981), 66 Ohio St. 2d 152 [20 O.O.3d 165] and Bd. of Edn. v. State Bd. of Edn. (1976), 45 Ohio St. 2d 117 [74 O.O.2d 215], which involved orders pursuant to R.C. 3311.06, the territorial transfer statute, for the proposition that orders entered pursuant to R.C. 3313.90 and 3313.911 are also quasi-legislative in nature and not reviewable under R.C. 119.12. See, also, In re Transfer of Territory (1982), 4 Ohio App. 3d 78. Those cases, however, are inapplicable herein because R.C. 3313.90 and 3313.911 are different from R.C. 3311.06, as 3313.90 and 3313.911 deal solely with the assignment of districts for vocational education purposes, rather than the actual transfer of territory. The cases cited by appellee are strictly limited to proceedings under R.C. 3311.06.
+At any rate, appellee’s order is quasi-judicial and, consequently, subject to review, pursuant to R.C. 119.12, as an adjudication. R.C. 3301.13 reads in relevant part as follows:
+“The department of education shall be subject to all provisions of law pertaining to departments, offices, or institutions established for the exercise of any function of the state government; * * *. In the exercise of any of its functions or powers, including the power to make rules and regulations and to prescribe minimum standards the department of education, and any officer or agency therein, shall be subject to Chapter 119. of the Revised Code * *
+A quasi-judicial proceeding requires notice, having an opportunity to introduce evidence and the exercise of discretion. M. J. Kelley Co. v. Cleveland (1972), 32 Ohio St. 2d 150 [61 O.O.2d 394], The foregoing elements were present in this case. Further, a local board of education is a proper party. See Eastland v. Dept. of Education (1977), 50 Ohio St. 2d 91 [4 O.O.3d 204]. Moreover, the procedures in this case were consistent with the definition of an adjudication order included in R.C. 119.01(D).
+Furthermore, R.C. 3313.911, which provides for a referendum, is not an exclusive remedy nor does it abrogate an adjudication order. Distinguished from R.C. 3311.06, there is no provision in R.C. 3313.90, 3313.91 or 3313.911 that any legislative determinations would be effective only by the approval of appellee, thereby constituting a delegation of legislative authority. The only question resolved at the referendum is whether the local district shall be assigned to a joint vocational school district or shall contract with a joint vocational school district for suitable vocational education services. R.C. 3313.91 provides a standard which is whether special education students may obtain suitable vocational education programs in accordance with the provisions of R.C. 3313.90. It is emphasized that R.C. 3313.911 merely includes the procedures to be followed by appellee in assigning school districts where assignment is determined to be necessary and does not confer to appellee unbridled discretion to assign any school district regardless of whether the district meets the requirements and standards of R.C. 3313.90.
+In sum, the proceedings conducted by appellee in this case constituted an adjudication determining the rights, duties, privileges, benefits or legal relationships of the New Riegel School District. Therefore, appellant had a right of appeal within R.C. 119.12. Accordingly, appellant’s assignments of error are sustained.
+Appellee’s cross-assignments of error are not well-taken. The trial court held precisely as the cross-assignments of error contend. Hence, they are overruled.
+For the foregoing reasons, the judgment is reversed and the case is remanded for determination upon the merits of the appeal.
+Judgment reversed and case remanded.
+Whiteside, P.J., and Norris, J., concur.
