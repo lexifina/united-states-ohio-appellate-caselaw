@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 456"
+decided: "1929-11-25"
+citations: ["8 Ohio Law Abs. 198"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lloyd and Richards, JJ., concur."]
+parties: ["BALTIMORE & OHIO RD CO v BROWN, Admr."]
+source_url: "https://static.case.law/ohio-law-abs/8/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1634554
+cites_cases: ["115 Ohio St., 91", "51 Ohio St., 542"]
+---
+
+# Baltimore & Ohio Rd v. Brown
+
+## Majority (WILLIAMS, J.)
+
+WILLIAMS, J.
+Plaintiff in error claims that the court erred in refusing to direct a verdict, first because the evidence does not show that the defendant was' negligent in failing to keep the crossing in a reasonable condition of repair, and second, that such verdict should have been directed because of the contributory negligence of the decedent.
+There was evidence tending to show that the emergency brake was not applied until just as the locomotive hit the automobile ,and there is also testimony to show that as the car stalled on the track the train was just coming out of Hull Prairie, which was distant about three-quarters of a mile from the crossing and that the train in fact did stop in about, 1200 feet.
+At defendant’s request the court submitted to the jury the following interrogatory:
+“Did the engineer discover or in the exercise of due care could have discovered that the car in which Leona Brown was riding was stalled upon the track in time to stop the train at the speed at which the train was going, so as to avoid the collision?”.
+The jury answered this interrogatory in the affirmative and there was evidence which warranted the jury in so doing if it saw fit. It is thus evident that the jury found the defendant guilty of negligence regardless of the condition of repair of the crossing.
+It would have been error for the eourt to direct a verdict for the defendant on the ground that the evidence did not tend to show actionable negligence on its part.
+It is claimed, however, that plaintiff’s decedent was herself guilty of contributory negligence as a matter of law. With this contention we can not agree. She was a guest riding in the seat with the driver. If the jury found that the driver was guilty of negligence in going upon the track, that negligence would not be imputed to a guest, under the law of Ohio, and while she was bound to exercise ordinary care for her own safety at all times, the extent to which she could, in the exercise of ordinary care, rely upon the driver and the extent to which she should watch for an approaching train and warn the driver in the exercise of such care, was a question of fact for the consideration of the jury. Whatever the skill or experience or knowledge of the driver may be, there is a chance that to speak to him or advise him what to do may involve more danger than to maintain silence and not interfere. The inference might arise in the instant case that the automobile stalled on the track and that if it had not done so it would have passed over in safety. If the automobile did so stall, it could hardly be said that the driver was guilty of negligence himself in going upon the track, for if the train was in fact about three-quarters of a mile away he could have gotten over. If the driver were not himself guilty of negligence in that respect, it could hardly be said that the guest was. As to the action of the plaintiff’s decedent after the car got upon the track and stalled, as claimed by plaintiff below, evidence was adduced by the plaintiff tending to show that she was endeavoring to get out of the car and the evidence is such as to give rise to the inference, if the jury saw fit to draw it, that the door stuck and she was unable to get out. We think the question whether plaintiff’s decedent was guilty of Contributory negligence was a question of fact for the determination of the jury.
+The fact that the plaintiff’s decedent was familiar with the crossing was a fact properly submitted to the jury, but we do not believe that it is of controlling importance on the question of contributory negligence as a matter of law.
+It follows from what we have said that the court did not err in refusing to direct a verdict.
+Plaintiff in error claims that the court erred in giving plaintiff’s requests to charge before argument. There were five such requests and all of them, with the exception of No. 1, accurately state propositions of law germane to the issues involved. No. 1 reads as follows:
+“I charge you as a matter of law, that Section 8843 of the General Code of Ohio provides, in part, as follows: “Companies operating a railroad in this state, shall build and keep in repair good and sufficient crossings over, or approaches to such railway, its trains, side-tracks and switches, at all points where any public highway, street, lane avenue, alley, road or pike is intersected by such railroad, its tracks, side-tracks or switches.”
+This request raises the question whether or not, in failing to keep its crossing in repair in accordance with Section 8843, GC., a railroad company is guilty of negligence per se. We hesitate to give our approval to this request. On the other hand, we do not pass directly upon the question for the reason that we do not feel that it is squarely raised by the record. There was no objection or exception noted at the time these requests were submitted to the jury, but the record discloses that they were first read and then several requests of the defendant were read to the jury, and after the reading of the latter the following statement of counsel for the railroad company appears: “Note exception to plaintiff’s requests”. The exception was to the giving of the entire series and was too general in its terms to make it available in a reviewing court. Coal Mining Co. vs. Admr. of Clay, 51 Ohio St., 542.
+Several interrogatories other than the one above quoted were submitted to the jury and were answered “we do not know”. The court, in charging’the jury, had instructed it that it might answer these questions “yes” or “no” or “we do not know” as the case might be. Under 11463 GC., the court is not required to submit interrogatories at the request of a party unless- questions are propounded which require answers which establish ultimate facts and not merely evidential facts, or which establish probative facts from which an ultimate fact may be inferred as a matter of law. Mellon vs. Weber, 115 Ohio St., 91. The interrogatories which were answered “we do not know” were all of such a nature that the trial court was not required to submit them to the jury. All the questions were such as could be answered categorically and whether answered in the affirmative or negative, the answers would have no controlling effect upon the rights of the parties, nor could they control the general verdict.
+The court in its general charge did not instruct the jury that a violation of 8843, GC., in failing to keep the crossing in reasonable repair would constitute negligence per se, and a close examination shows that the principles given to the jury in the general charge are in accordance with established law.
+The verdict is not manifestly against the weight of the evidence and we do not find error in the record prejudicial to plaintiff in error. For the reasons given the judgment will be affirmed.
+Lloyd and Richards, JJ., concur.
