@@ -1,0 +1,27 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-07-01"
+citations: ["7 Ohio Law Abs. 467"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges RICHARDS & LLOYD (6th Dist) sitting.", "Mauck, Richards and Lloyd, JJ, concur."]
+parties: ["ROUSEY v ROUSEY"]
+source_url: "https://static.case.law/ohio-law-abs/7/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632297
+---
+
+# Rousey v. Rousey
+
+## Majority (BY THE COURT)
+
+BY THE COURT
+With the general finding in favor of the defendant this court is in accord. To say nothing of other earlier acts of indiscretion or perversity, the plaintiff in leaving her home for California when she did and as she did was clearly wrong. Giving that episode the virtuous character claimed for it, her conduct constituted gross neglect of her marital duty and was extremely cruel to her humiliated husband. The only real defense made for the plaintiff as to that occurence was that her husband condoned her offense. It is true that the plaintiff returned to her home in December, 1927, and that the parties cohabited until about January 5, 1928, and unquestionably this fact makes a defense of a sort. Condonation is the forgiveness by an injured husband or wife of a marital wrong inflicted by the other party to the marriage relation. It wipes out the offense on the implied understanding that the offense will not be repeated and that the offending party will thereafter not be guilty of misbehavior. Cohabitation is the evidence of condonation. If this were all of the defense of condonation the plaintiff might be said to have made good her defense. More, however, is required. One relying upon the forgiveness of another must show that such forgiveness was bestowed with full knowledge of everything that might be influential in granting or withholding pardon.
+9 R. C. L. 381.
+The authorities are collected in Ann. Cases 1912 C. p. 6.
+Now while the defendant did condone the plaintiff’s conduct in going to California and everything prior thereto of which he had knowledge, there were many things of which he had no knowledge. He did not know that the plaintiff had deceived him about the way she went to California and the extent of her association there with Russi, nor did he know the extent and character of her former association with Russi or in the earlier days with Courtney. The facts are that he was so engrossed in his profession and paid slight attention to his domestic affairs. However negligent he was in this respect he had to be apprised of all the plaintiff’s foolish conduct before his pardon was to be relied unon. In nothing we have said and in nothing in the case is there to be drawn the inference that the plaintiff was proven unchaste. Her counsel admit her to have been indiscreet. Her indiscretions were so numerous, so perverse and frequently so silly that she can not be heard to claim the benefit of a pardon that did not rest upon a full knowledge of all her Conduct that tended to her husband’s humiliation. The judgment cannot be reversed on the weight of the evidence. The trial court was not. bound to find the condonation complete.
+Some complaint is made that incompetent evidence was admitted. If true we would not assume that the trial judge was influenced thereby. The chief complaint in this respect is that witnesses testified so generally to plaintiff’s unfavorable reputation. This testimony was competent. It was under the circumstances of this case a species of cruelty to acquire a bad name if such acquisition was due to the folly of the one acquiring it. There is nothing in the record warranting a reversal on matters of evidence.
+The decree was, however, erroneous in the division of the property. The plaintiff was awarded one half of $2,500 which she had received a year before the judgment w,as entered. Half of this had been spent on the California trip and .the other half must have been consumed in the preparation and trial of this case. In addition she was given a note for $2,500 and $50 per month for the support of the infant child. For her own share of the matrimonial property she in fact gets only the $2,500 note. The defendant has no large estate but he has several thousands of dollars of property in possession. He is, moreover, a young, energetic and capable physician, having a net salary of $700 per month from an employing physician. While he has been growing into a position of financial independence the plaintiff, while not so devoted to her household as she should have been, has nevertheless in a way kept the home and spent her young womanhood with the defendant. The defendant’s greatest opportunities in a financial way are before him. The plaintiff has but a meager equipment to make her way. Fairness to her requires that she have some opportunity to adjust herself to the necessities of the future. The order as to alimony will be modified by decreeing to her an additional allowance of $700 per year for five years, payable in equal quarterly installments of $175, beginning on August 1, 1929, terminating on her remarriage within the five year period. With this modification the judgment is affirmed. If the defendant in error refuses to accept the modification the judgment is reversed on the weight of the evidence to be retried upon the question of alimony.
+Judgment for plaintiff in error for costs herein.
+Mauck, Richards and Lloyd, JJ, concur.
