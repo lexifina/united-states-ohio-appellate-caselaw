@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2208"
+decided: "1932-10-18"
+citations: ["13 Ohio Law Abs. 180"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ALLREAD, PJ, and KUNKLE, J, concur."]
+parties: ["BORNHEIM et v ROESCH, Exr et"]
+source_url: "https://static.case.law/ohio-law-abs/13/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1644874
+cites_cases: ["190 NW, 872", "27 Oh St, 298"]
+---
+
+# Bornheim v. Roesch
+
+## Majority (HORNBECK, J.)
+
+HORNBECK, J.
+The sole question presented on the record is whether or not that portion of the divorce decree heretofore quoted had the effect of impliedly revoking the last will and testament of Albert Roesch. The will of Albert Roesch remained in- existence from June 15, 1921, until his death on October. 6, 1930, more than eight years of which were after the divorce decree, without any direct act revoking the instrument.
+There are but two cases in Ohio which consider the immediate question presented, Charlton v Miller, Admr., 27 Oh St, 298, which held that a bequest by testator to a woman who afterwards became his wife and later was divorced, was not revoked by a decree of divorce granted the husband.’ This case is authority to the effect that a divorce decree in itself does not work a constructive revocation of a devise or bequest to one who after the will is made, by decree of divorce ceases to be the husband or wife of the testator.
+The other case is Pardee v Grubiss, 34 Oh Ap, 474 (7 Abs 459). So far as applicable here the law is found in the second syllabus thereof:
+“Where a divorce is coupled with settlement of property rights, there is an implied revocation of a prior will of one spouse in favor of the divorced spouse, under 830555, GC, but only so far as said will makes bequest or devise to divorced spouse.”
+The facts in that case distinctly disclosed, as appears in the opinion at page 475, that,
+“A short time after these wills were executed, trouble arose between the husband and wife and, as a result thereof, an agreement was entered into for a division of all their property, subject to the approval of the court in case a decree of divorce should be granted. * * * “A decree of divorce was entered and said agreement was approved and embodied in the decree.”
+Although we do not have the decree before us, the opinion indicates that specific mention was made of the property divided between the parties and due description made thereof. Neither of these cases parallels the facts in the instant case.
+The ultimate question here is, does that portion of the divorce decree heretofore quoted meet the requirements of the latter part of 810555, GC, which provides that “nothing herein contained shall prevent the revocation implied by law, from subsequent changes in the condition or circumstances of the testator.”
+Prom the decree in this case we learn, first, that there has been a settlement between the parties to the divorce and, second, that this settlement is representative of and takes the place of alimony. We may give to the word, “alimony,” the broadest meaning possible under the statutes. The decree being granted for the aggression of the husband, the case was a proper one for the awarding of alimony by the court without the power, however, to take away the dower rights of the wife without her consent. Alimony may have been allowed to the wife in real or personal property. We may infer, then, that by agreement all rights were secured to the wife which the court could have awarded to her as alimony under 811991, GC, but the settlement could not have included all the property rights of the wife within the strict terms of the entry because the word “alimony” is used.
+Many of the cases outside of Ohio are annotated in notes to Re Estate of Bartlett, deceased, (Neb.) in 25 A.L.R., at page 49 and Re Estate McGraw, deceased, (Mich.) 42 A.L.R., page 1289. It may be fairly stated that the clear weight of authority holds that a divorce decree alone will not effect an implied revocation of a will. There is diversity of decision on the question whether a divorce decree, coupled with full settlement of property rights, will effect an implied revocation. The cases, pro and con, will be found in the annotations heretofore cited. In most of these cases the decree carried the full terms of the property settlement which the courts had before them and upon which a determination could be made whether or not they amounted to a revocation. The case nearest in facts to the instant cause is, In Re Martin’s Estate (Neb.) 190 NW, 872, the, first syllabus of which is:
+“A divorce and settlement agreement between husband and wife, which agreement provides that the husband shall pay the wife $2500.00 as permanent alimony, held in legal effect to have foreclosed the claim of the wife to the property rights of the husband, and to have given rise to an implied revocation of his previously executed will.” '
+In this case a decree of divorce was entered in favor of the wife. No provision was made in the decree for alimony or settlement of property rights but an agreement with reference to alimony was shown to have been entered into. In terms it provided for the payment of $2500.00 in installments. The settlement was made in contemplation of divorce and was designated alimony. No further specific mention was made of property rights nor was any release on the part of the wife embodied in the agreement.
+It should be observed that at the time this case was decided the statute §1536 Comp. Stat. of Neb. provided in substance that the successful party in a divorce case “shall not be entitled to a distributive share or any other interest in the real estate of the party adjudged guilty of a cause for divorce, unless the decree of divorce awards such share or interest in express terms.” Thus, the “alimony” provided for the wife in this case was definite to bar the wife of any further interest in the property of her husband. However the opinion is well reasoned and seems to be supported by the logic of the case and with the exception noted is apropos here. We are inclined to follow it in the present situation.
+We have had considerable misgivings respecting the effect of the decree in the instant case, but in our opinion, standing alone and uncontradicted, it has the normal import and effect to carry the implication of a purpose on the part of the testator to revoke his will. As the terms upon which the alimony was settled do not appear in the entry, if they were of such character as to countervail the import of a purpose on the part of the testator to revoke his will this information could have been forthcoming from the wife or the attorneys in the divorce case, all of whom were living and no doubt available at the time of the trial. The effect of the decree as carried on to the record was to award to the wife all property rights to which she was entitled, 811991, GO, save only dower, which was assured to her by law. Her husband, having known this and realized that she was no longer the object of his bounty, and that his obligation of support had ceased and that she no longer would succeed to any other property rights under the law, it is but the natural inference that he did not longer intend to make beneficial provision for her by his will.
+In the state of the record at the time that the motion for a directed verdict was made by defendant in error in the trial of the case, we are of the opinion that the trial judge acted properly in sustaining the motion.
+The judgment will, therefore, be affirmed.
+ALLREAD, PJ, and KUNKLE, J, concur.
