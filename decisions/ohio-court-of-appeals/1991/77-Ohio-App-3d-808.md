@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5-90-65"
+decided: "1991-10-23"
+citations: ["77 Ohio App. 3d 808"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hadley and Shaw, JJ., concur."]
+parties: ["PRZYLEPA, Appellee, v. PRZYLEPA, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/77/cases/0808-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1662624
+cites_cases: ["116 Ohio St. 609", "157 N.E. 478", "288 N.E.2d 339", "32 Ohio App.2d 79", "61 O.O.2d 85"]
+---
+
+# Przylepa v. Przylepa
+
+## Majority (Evans, Judge.)
+
+Evans, Judge.
+This is an appeal from the judgment of the Court of Common Pleas of Hancock County establishing the amount of arrearage in appellant’s child support payments.
+Anthony A. Przylepa (“appellant”) and Mary L. Przylepa (“appellee”) were granted a divorce on November 20, 1973. Appellee was awarded custody of the couple’s two minor children, Lois Ann Przylepa, born March 31, 1969, and Anita Rene Przylepa, born November 3, 1972. Appellant was ordered to pay child support in the amount of $20 per week per child. In addition, appellant was required to pay all medical, dental, hospital, illness and optometric expenses of the children.
+On July 20, 1974, appellee married John A. Folk. In November 1975, an attorney was employed to contact appellant for the purpose of obtaining appellant’s consent to the adoption of his two children by Folk. The attorney was also to resolve the matter of child support arrearages in the amount of $510 and unreimbursed medical expenses totalling $515.
+On December 10, 1975, appellant signed forms consenting to the adoption. He also signed a proposed journal entry which set forth the amount of support and medical bill arrearages he owed to appellee, how these arrearages were to be paid, and that appellant had agreed to the adoption of his two daughters. This journal entry, however, was never filed.
+Shortly after signing the documents, appellant broke off all contact with his children, moved out of state, and made no further support payments. In 1986, appellant learned for the first time that the adoption did not take place and that he owed over $26,000 in past child support.
+On March 20, 1987, appellee filed a motion citing appellant to appear before the court and show cause why he should not be held in contempt for his failure to pay child support and medical expenses. On June 23, 1987, the court set the matter for hearing and ordered appellant to pay child support during the pendency of the litigation.
+The Hancock County Department of Human Services became involved in the case, claiming it was owed $14,129 for welfare payments made to the appellee under the Aid to Dependent Children program. On March 27, 1989, the Department of Human Services compromised its claim and appellant agreed to pay $6,000 in full satisfaction of the amount owed to the department.
+The parties were unable to resolve appellee’s claim for child support. Appellant claimed his consenting to the adoption released him of his obligation to pay child support. Appellee asserted that the support money was still due because the adoption never took place. On July 27, 1990, a hearing was held to determine the amount of child support that was due appellee. On November 15, 1990, the trial court filed an entry ordering appellant to pay $1,025 for the unpaid support and medical bills which accrued before December 15, 1975. The court further ordered appellant to pay $20 per week per child in unpaid support from December 15, 1975 through June 19, 1987.
+Appellant appeals, asserting three assignments of error, the first of which states:
+“The finding of the trial court that the principle established in Tressler v. Tressler does not apply because defendant-appellant breached the adoption. agreement is against the manifest weight of the evidence and an abuse of discretion.”
+Appellant contends that the agreement between himself and appellee released him from paying child support because he consented to the adoption of his two girls and stopped visiting with them. In support of this argument, appellant cites Tressler v. Tressler (1972), 32 Ohio App.2d 79, 61 O.O.2d 85, 288 N.E.2d 339. In Tressler, this court established the validity of a contract between divorced parents of minor children, where the father consents to the adoption of his children and is contractually released from his support obligation, even though the adoption process is never completed. The trial court in Tressler found that there existed an oral agreement between the father and mother. The father gave written consent to the adoption of his three minor children. In return, the agreement released the father from having to pay child support whether the adoption was completed or not.
+The agreement in the present case is vastly different from that found in Tressler. Evidence produced at trial shows the terms incorporated into the proposed journal entry to be as follows:
+“1. The defendant, Anthony Andrew Przylepa aknowledges \sic ] that he is in arrears for child support the sum of $510.00 as of December 15, 1975. The defendant further aknowledges [sic] that he is responsible for payment of medical bills for his minor daughters of $515.00.
+“2. The defendant has agreed to the adoption of his two daughters to John A. Folk, husband of Mary Lois (Przylepa) Folk.
+“3. The plaintiff shall have the two children for income tax purposes, tax year 1975.
+“4. After completion of the adoption the defendant shall pay on the arrearage at the rate of $100.00/month until payment in full is made.”
+Unlike Tressler, this agreement does not contain provisions allowing appellant to stop paying child support or requiring him to cease visitations with his children. Simply signing the consent to adoption forms did not release appellant from his legal responsibility of providing for his two minor children. Rather, cessation of support payments and visitations would have naturally arisen out of the adoption had it been completed. Until the adoption, however, the duty to support and the right to visit remained unchanged under this agreement.
+The trial court distinguished the present case from Tressler by finding that appellant breached the agreement by not paying the $1,025 in arrearages and medical bills. We do not agree with this conclusion of the trial court. The payment of the $1,025 was not a condition precedent to the formation of the contract. Rather, the fourth term of the agreement states: “After completion of the adoption the defendant shall pay on the arrearage at the rate of $100.00/month until payment in full is made.” This language does not free appellant from his obligation to pay the money he owed. Rather, this provision of the agreement simply fixes the rate at which back payments shall be made once the adoption is completed. Further, appellant’s agreement to pay a pre-existing legal obligation is not sufficient consideration for his being released from making child support payments. Shannon v. Universal Mtge. & Discount Co. (1927), 116 Ohio St. 609, 621, 157 N.E. 478, 481.
+Because the agreement between appellant and appellee contains no provisions terminating appellant’s obligation to pay child support or requiring him to cease visitations with his children, the principles established in Tressler do not apply. We find no error in the trial court’s refusal to follow the rule announced in Tressler. Appellant’s first assignment of error is overruled.
+Appellant’s second assignment of error claims:
+“The trial court abused its discretion and committed prejudicial error by allowing its decision to be influenced by its personal beliefs and prejudices.”
+Appellant supports this assignment of error by quoting several passages from the trial transcript and arguing that the trial court’s attitude was biased or prejudiced. We disagree.
+Upon our review of the record we note that an affidavit of prejudice was not filed against the trial judge. Further, a complete reading of the transcript reveals no evidence of bias or prejudice in the decision of the trial court. Appellant’s second assignment of error is overruled.
+In his final assignment of error appellant states:
+“If assignment of Error Nos. 1 and 2 are not sustained, then the trial court committed prejudicial error by failing to reduce the appellee’s award by the amount of the claim of the Department of Human Services.”
+Appellant claims the trial court, in ordering him to pay child support in the amount of $20 per week per child for the period December 15, 1975 through June 19, 1987, failed to consider the $14,129 claimed by the Department of Human Services and compromised to judgment in the settlement agreement filed ,on March 27, 1989.
+The record before us does not indicate the purpose for which the money provided by the Department of Human Services was to be used by appellee. Nor do we know what qualified appellee to receive the support. Because the record does not contain the basis of the Department of Human Services’ claim, we are unable to reduce the trial court’s judgment against appellant by the amount of that claim. Appellant expects this court to conclude that all payments in this matter are for support. Thus, the money paid to the Department of Human Services should serve to reduce the support payments to the mother of the children. There is nothing in the record to justify such a conclusion. The record shows that appellant was required to pay additional expenses for his children such as medical and dental expenses. If the payment demanded by the department was to recover funds expended for these purposes, the payments to the department should not also be applied to reduce the amount of support owed to appellee. Since the record is silent as to the use of the funds advanced by the department, the presumption of regularity and correctness of the proceedings in the trial court will apply. See 5 Ohio Jurisprudence 3d (1978) 109, Appellate Review, Section 552. The assignment of error is overruled.
+Having found no error of the trial court prejudicial to the appellant in any of the particulars assigned and argued, the judgment must be affirmed.
+Judgment affirmed.
+Hadley and Shaw, JJ., concur.
