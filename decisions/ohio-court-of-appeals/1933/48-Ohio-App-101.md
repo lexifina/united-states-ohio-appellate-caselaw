@@ -1,0 +1,27 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-10-30"
+citations: ["48 Ohio App. 101"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Lloyd, JJ., concur."]
+parties: ["A. S. D. Securities, Inc., v. J. H. Bellows Co. et al."]
+source_url: "https://static.case.law/ohio-app/48/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343066
+cites_cases: ["122 Ohio St., 487", "172 N. E., 276", "38 A. L. R., 1310"]
+---
+
+# A. S. D. Securities, Inc. v. J. H. Bellows Co.
+
+## Majority (Williams, J.)
+
+Williams, J.
+Plaintiff, A. S. D. Securities, Inc., seeks to enjoin the defendants, J. H. Bellows Co., and others, from interfering with a right of way which plaintiff claims across about fifty acres of land belonging to defendants, known as Sugar Bock, and situated in the township of Catawba Cliffs in Ottawa county.
+In 1918 Harry W. Dachtler acquired from Ambrose Pierce three acres of land at the southern end of Sugar Bock, together with a right of way across a piece of water known as Barnum’s Pond, and then along a roadway to the main highway. In 1928 Harry W. Dachtler acquired from defendants a triangular piece of land which contained about half an acre, which immediately adjoined the three-acre piece. Later the rights and interests of Harry W. Dachtler were transferred to plaintiff, and the contention of plaintiff is: First, that it has a right of way of necessity, and, second, that it has an implied grant or easement in accordance with the rule laid down in Ciski v. Wentworth, 122 Ohio St., 487, 172 N. E., 276.
+No attempt will lie made to set forth all -the facts. It is sufficient to say that the evidence is conflicting, and that this court finds therefrom that at the time Harry W. Dachtler bought the triangular piece there existed a roadway which had been in long continuous use, which was so obvious and manifest as to show that it was meant to be permanent, and that such easement was at that time and still is reasonably necessary for the beneficial enjoyment of the triangular piece. Further that the use of such roadway up to the time of the transfer of the triangular piece to Harry W. Dachtler was continuous, and not temporary or occasional only.
+The evidence shows among other things that the whole tract of fifty acres, known as Sugar Rock, was purchased for the benefit of the defendants for the consideration of $15,000, and that the defendants sold therefrom the triangular piece of about half an acre for $7,500. There is evidence in the record to show that at the time Bellows arranged for the delivery of the deed for the triangular piece to Dachtler, the former said to the latter that he, Dachtler, ought to pay a little something to help keep up the road. The right of way across Barnum’s pond was originally granted only for the users of the three-acre tract purchased from Ambrose Pierce. There may be a question whether or not the right of way across Barnum’s pond can be subjected to the additional burden of travel to and from the triangular piece. However that may be, Barnum’s pond sometimes becomes dry and in drying up it frequently becomes so shallow as to make navigation impracticable, and after the water has receded the bottom of the pond of necessity is not fit for travel for some time at least, because of its sogginess and softness. It is thus apparent that at times the right of way across Barnum’s pond is not available for ingress and egress to and from the triangular piece. While there are many holdings to the effect that a way of necessity will not be held to exist where there is already access to property over a navigable body of water (annotation, 38 A. L. R., 1310), Barnum’s pond is not always navigable as a body of water and even when not navigable it is at times impossible to drive over and along the bottom of the pond.
+This court is therefore constrained to hold not only that the plaintiff has a right of way by necessity across defendants’ premises to and from the triangular piece, but also has an implied easement, under the rule laid down in Ciski v. Wentworth, supra. It is, however, a fundamental principle of equity jurisprudence that he who seeks equity must do equity. The right of way as now existing across Sugar Rock is winding in character, and would detract materially from the value of the defendants’ property in case the same were allotted, or used for other purposes, which required that the right of way be located elsewhere and more conveniently for defendants’ purposes. This court therefore grants the plaintiff an injunction against interfering with his right of way across Sugar Rock, but at the same time holds that the right of way may be moved by the defendants so as' to interfere as little as possible with the uses to which defendants’ land may be put, but at the same time the plaintiff shall at all times have reasonable access to and from the triangular piece to and from Covell road, and such access shall be as reasonably convenient as is the one which now exists. In case the land is actually platted in accordance with the proposed plat offered in evidence, or in accordance with another plat to be hereafter adopted and placed on file, the right of way of plaintiff shall continue from the triangular piece across to the nearest street in the plat, and thence along the street or streets to Coveil road.
+Decree for plaintiff accordingly.
+Richards and Lloyd, JJ., concur.
