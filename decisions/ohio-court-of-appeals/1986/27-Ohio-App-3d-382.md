@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "86AP-174"
+decided: "1986-08-12"
+citations: ["27 Ohio App. 3d 382"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Strausbaugh and Tyack, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Reineke, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/27/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713390
+cites_cases: ["117 Ohio St. 345", "20 Ohio App. 2d 293", "49 O.O. 2d 76", "52 Ohio St. 1"]
+---
+
+# State v. Reineke
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+Defendant-appellant,
+Joseph A. Reineke III, entered a guilty plea to the offense of driving a motor vehicle while having a blood-alcohol content in excess of .10 percent in violation of R.C 4511.19(A)(3), commonly called the “per se” provision. Appellant was then sentenced, pursuant to law, with the exception that a dispute arose as to the number of points that the trial court was required to assess for a violation of R.C. 4511.19(A)(3). Appellant maintained that the law in effect at that time required that only four points should be assessed. The trial court acknowledged that the legislative intent appeared to be that only four points be assessed but held that, due to a mistake in the law that was passed by the General Assembly, he was required to assess six points. The trial court then assessed six points for the violation and caused the abstract of the conviction to be forwarded to the Bureau of Motor Vehicles where appellant’s record now indicates the imposition of six points for the violation of R.C. 4511.19(A)(3).
+Appellant has appealed for the sole purpose of contesting the imposition of six points instead of four points for the violation of R.C. 4511.19(A)(3).
+R.C. 4511.19 was amended, effective March 16, 1983. In that amendment, R.C. 4511.19(A)(1) continued the prohibition against driving under the influence of alcohol or drugs. In R.C. 4511.19(A)(2), (3) and (4), the so-called “per se” violations were established for operating a vehicle with the blood, breath or urine containing a certain specified concentration of alcohol without the necessity of proving that the driver was under the influence.
+At that same time, R.C. 4507.40, which establishes the point system for motor vehicle violations, was also amended. (See Am. Sub. S.B. No. 432, 139 Ohio Laws, Part I, 927, 942.) It set forth the number of points chargeable for conviction of various motor vehicle offenses to be furnished to the Bureau of Motor Vehicles by courts of record or a mayor’s court. R.C. 4507.40(G)(4) and (12) provided, as follows:
+“(4) Violation of a division (A) of section 4511.19 of the Revised Code or any ordinance prohibiting the operation of a motor vehicle while under the influence of alcohol or drugs .6 points
+if * * *
+“(12) Violation of division (B) of section 4511.19 of the Revised Code or any ordinance prohibiting the operation of a motor vehicle with a specified blood, breath, or urine alcohol concentration .4 points”
+R.C. 4511.19(B) does not set forth an offense prohibiting the operation of a motor vehicle with a specified blood, breath or urine-alcohol concentration. Instead, it is the procedural section of R.C. 4511.19 which relates to the admissibility of evidence in the prosecutions for violation of R.C. 4511.19(A). It is R.C. 4511.19(A) which sets forth both the prohibition against operating a motor vehicle while under the influence of alcohol or drugs and the operation of a motor vehicle with a specified blood, breath or urine-alcohol concentration. Thus, the reference in amended R.C. 4507.40(G)(12), pertaining to violations of division (B) of Section 4511.19, is obviously in error. The clear intent of the General Assembly was to establish a system of six points for violation of R.C. 4511.19(A)(1) for operation of a motor vehicle under the influence of alcohol or drugs, and four points for violation of R.C. 4511.19(A)(2), (3) and (4), which prohibit the operation of a motor vehicle with the specified blood, breath or urine-alcohol concentration. The error apparently came about as a result of last-minute amendments made by the General Assembly where the “per se” violations were apparently redesignated from R.C. 4511.19(B) to R.C. 4511.19 (A)(2), (3) and (4). That error was pointed out by the Columbus City Attorney in a law review article where he stated, in effect, that it was the intent of the General Assembly to assess four points for the “per se” convictions but that the final bill contained the mistake that is pointed out herein. See O’Brien, Driving Under the Influence of Alcohol in Ohio After Senate Bill 432 — The Prosecutor’s Viewpoint (1983), 15 Univ. Tol. L. Rev. 171, 175, at fn. 18.
+Considering R.C. 4507.40(G)(4) and (12), it is clear that there was a clerical error therein and that (G)(4) should have read “[violation of division (A)(1) of section 4511.19” which prohibits the operation of a motor vehicle while under the influence of alcohol or drugs, and (G)(12) should have referred to “[violations of division (A)(2), (3), or (4) of section 4511.19 of the Revised Code,” which divisions respectively prohibit the operation of a motor vehicle with a specified blood, breath or urine-alcohol concentration.
+An error which is manifest beyond doubt, either on the face of the statute or when read in connection with other statutes in pari materia, may be corrected by a court if the true intention of the legislature can be ascertained. State, ex rel. Fay, v. Archibald (1894), 52 Ohio St. 1, 9. “The strict letter of a statute must yield to the obvious intent.” Stanton v. Frankel Bros. Realty Co. (1927), 117 Ohio St. 345, 350.
+Furthermore, R.C. 1.47(A) presumes that, in enacting a statute, compliance with the Constitutions of Ohio and the United States is intended. It would be violative of both Constitutions to provide that a greater penalty be imposed for violation of a state statute than an identical municipal ordinance. It was not the intent of the General Assembly to do so and there is no rational basis that would support the different treatment. Rather than declare the statute unconstitutional, the obvious clerical error should be corrected to give effect to the intent of the statute. See Brim v. Rice (1969), 20 Ohio App. 2d 293 [49 O.O. 2d 76].
+The trial court is therefore ordered to apply only four points to appellant’s conviction for the “per se” violation specified by R.C. 4511.19(A)(3), which would be the penalty applied to violation of an identical ordinance prohibiting the operation of a motor vehicle with the specified blood, breath or urine-alcohol concentration.
+It is noted that R.C. 4507.40(G) has been amended effective May 6, 1986 to delete paragraph (G)(12) and to amend the provisions of (G)(4) to thereafter assess six points for any violation of R.C. 4511.19(A), whether it is operating a motor vehicle while under the influence of alcohol or drugs, or operating a motor vehicle with the specified blood, breath or urine-alcohol concentration and regardless of whether the violation is of R.C. 4511.19(A) or of any ordinance prohibiting these offenses. (See Am. Sub. S.B. No. 54.)
+Appellant’s assignment of error is sustained. The judgment of the trial court is reversed. The case is remanded to the trial court with instructions to furnish a corrected report to the Bureau of Motor Vehicles assessing four points for the offense of which appellant was convicted.
+Judgment reversed and case remanded with instructions.
+Strausbaugh and Tyack, JJ., concur.
