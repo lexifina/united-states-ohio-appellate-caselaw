@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1915-03-15"
+citations: ["24 Ohio C.C. (n.s.) 92"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chittenden, J., and Kinkade, J., concur."]
+parties: ["The Huenefeld Company v. The Chesapeake & Ohio Railway Company."]
+source_url: "https://static.case.law/ohio-cc-ns/24/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1600908
+cites_cases: ["12 How., 272", "194 U. S., 427", "26 O. S., 595", "4 O. S., 362", "4 O. S., 372"]
+---
+
+# Huenefeld Co. v. Chesapeake & Ohio Railway Co.
+
+## Majority (Richards, J.)
+
+Richards, J.
+Action was brought against the railway company for the purpose of recovering the value of a car-load of washing machines which had been shipped by the plaintiff and were destroyed by fire. The goods were billed to ,the Bostwick-Braun Company, Toledo, Ohio, and were shipped from the factory of the plaintiff company situated at Augusta, Kentucky. Whatever rights, if any, the consignee had to recover for the loss of the goods, have been assigned to the plaintiff.
+An empty car had been left on January 28, 1906, on a spur track of the railway company extending back something more than 900 feet, to the plant of the plaintiff. Plaintiff proceeded to load the ear with the goods, completing the same about five o’clock p. M. on January 29,1906, and upon the completion of the loading a bill of lading ivas made out and signed by the agent of the railway company and the company informed that the car was ready to be forwarded to destination. During the night of January 29th the car and its contents were destroyed by a fire originating in the plant of the plaintiff, the same fire also destroying two car loads of ties, the property of the railway company, standing on the same siding.
+On the trial of the case the plaintiff introduced in evidence the bill of lading, which contained a clause, in substance exempting the railway company from liability for loss occurring by fire without its fault. ,The railway company offered no evidence, and at the conclusion of the evidence offered on behalf of the plaintiff the court directed the jury to return a verdict in favor of the defendant, on which verdict so returned judgment has been entered.
+No question is made as to the knowledge of the plaintiff of the terms of the limitation contained in the bill of lading, and it is said, in justification of the ruling made by the trial judge, that the evidence offered by the plaintiff shows the origin of the fire to have been on the plaintiff’s property, and that the record • contains no evidence of any negligence on the part of the railway company. The evidence contained in the record is very meager, the only material facts on this matter being that the fire occurred on the same night that the car was loaded, and while it still remained on the spur, and that it was in a small village, not a terminal point of the railway company. It may be true that, when it appears the fire originated on the property or in the plant of the plaintiff, the law under such circumstances would imply that the fire originated without fault of the railway company, but the mere origin of the fire is not the only fact which is important in this case. It does not appear what length of time the fire continued to burn, nor at what time of the night the property in question was destroyed. Whether the railway company had any knowledge of the existence of the fire, or whether it had any facilities for removing the car from the zone of danger, does not appear; neither does it appear whether the railway company had any grounds to anticipate that a fire was likely to occur.
+We think, under the circumstances stated, the plaintiff had made a prima facie case and the duty rested on the railway company to offer some evidence tending to show that the loss occurred without any fault on its part at the time of the fire. It would be an easy matter to show whether the company or its employees had knowledge of the fire and, if such was the fact, that it was without fault in allowing the car to remain in a place of danger after the fire started.
+The case was disposed of on a matter of practice and the Ohio rule appears to be well stated in the case of Graham v. Davis, 4 O. S., 362.
+See also, Union Express Co. v. Graham, 26 O. S., 595; Penna. Co. v. Yoder, 1 C.C.(N.S.), 283.
+These cases establish the Ohio rule to be that the duty rests on the common carrier to show not only that the loss was within the terms of the exception, but that the same occurred without its fault. The plaintiff’s evidence having established that the loss occurred by fire, it became incumbent on the defendant to show the destruction of the goods did not result from its negligence. The trial court, under the circumstances shown, was not justified in directing a verdict for the defendant, because it could not be said, as a matter of law, that the defendant was without fault. The question depends upon the circumstances existing at the time. While the burden of proof did not change, yet the plaintiff having offered the evidence which appears in the record, the duty then rested on the defendant to go forward with the ease by offering such evidence as it had tending to show that it was without fault for the loss of the goods shipped.
+Under the federal authorities the burden rests on the carrier to show that the damage resulted from a cause excepted in the bill of lading, and, after that proof, the burden is then on the plaintiff to show that the loss occurred by the negligence of the carrier. See Cau v. Texas Pacific Ry. Co., 194 U. S., 427. But the case on this matter we hold to be controlled by the rulings of the courts of the state where the action is brought. The case last cited is based on Clark v. Barnwell, 12 How., 272, which was justly criticised by Judge Ranney in Graham v. Davis, 4 O. S., 372, cited supra, and which the Supreme Court of Ohio expressly declined to follow.
+The judgment will be reversed and the cause remanded for new trial.
+Chittenden, J., and Kinkade, J., concur.
