@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 916"
+decided: "1929-07-29"
+citations: ["7 Ohio Law Abs. 536"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kunkle, Allread and Hornbeck, JJ, concur."]
+parties: ["EVANS v BRUGGEMAN"]
+source_url: "https://static.case.law/ohio-law-abs/7/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632239
+cites_cases: ["100 OS., 186"]
+---
+
+# Evans v. Bruggeman
+
+## Majority (BY THE COURT)
+
+BY THE COURT
+Counsel for plaintiff in error in his brief insists that there is error in the record prejudicial to his client by reason of the court’s having given special charges Nos. 4 and 5, as requested by counsel for defendant in error before the argument to the jury. The principal objection made by counsel for plaintiff in error to such special charges is that the Court failed to include therein what would constitute ordinary care on the part of a boy twelve years of age. Assuming that the special charges are incomplete, in the respects suggested we find that the trial court in its general charge to the jury fully covered this phase of the case.
+The special charges given before argument, together with the general charge, constitute the charge of the court and should be read and considered together. We think this phase of the case was fully covered by the trial court in its general charge.
+The outstanding issue in this case was limited. The plaintiff contended and offered the testimony of two witnesses directly and others indirectly, to the effect, that when struck he was on the graveled portion of the road on the outside and to the north of the paved portion thereof. The-defendant claimed that, and offered the testimony of three witnesses to prove, -he was on the paved portion of the road when the impact occurred and that the plaintiff darted in front of his automobile at a time when he did not have opportunity to stop in time to avoid the injury.
+The paved portion of the Dayton and Springfield road is about 20 feet wide, the gravel to the north is about six feet, the gravel to the south is a little less.
+The charge, as we view it, presents no theory whatever upon which the plaintiff could recover. It is doubtful if the court charged the law definitely at all upon the negligence of the plaintiff and defendant in the event of the plaintiff darting in front of defendant’s automobile. But the greater difficulty arises in considering the manner in which jhe court instructed the jury concerning the obligation of the plaintiff and defendant under the traffic laws. Section 6310-17 provides:
+“Vehicles shall keep to the right side of the roád or highway except when necessary to turn to the left in crossing the road or highway, or in overtaking and passing another vehicle * * *”
+The case of Elms vs. Flick, 100 OS., 186, construes the term “the road” as used in former Section 6310 GC. analogous to the one under consideration, to mean “improved portion of the road, where it is disclosed that it is of ample width to permit the passing of automobiles thereon with safety.”
+In the case of Scheck vs. LeBar, 6 Ohio Law Abstract 432, Cuyahoga County Court of Appeals, Judges of the Fourth District sitting, automobiles had collided on the highway, each insisting that the other was negligent _in that he did not keep to the right side of the road. The highway consisted pf a paved portion varying in width from fourteen-to twenty feet, with ,a dirt strip to the side thereof. The court in its general charge said:
+“Under the law of the road, it is the duty of each of these parties to stick to the right side of his road * *” The jury being uncertain as to the
+meaning of the word “road” asked for further instructions; whereupon the court informed them that the “dirt and the pavement are all part of the street.”
+The Court of Appeals, Judge Mauck writing the opinion, commenting on this charge, made this observation:
+“The court in its general instructions ought to have limited the jury to finding that the defendant was guilty of negligence in being on the left side of the paved strip, both because that was the law, and. particularly because that was all claimed in the petition.
+While it was the duty of the defendant to have asked the general instructions be clarified in this respect * * * it nevertheless became necessary for the court to clear up thé matter * * * and the court failed to accurately and correctly meet this reqquirement.”
+The requirement .then, that the defendant keep to the right of the road enjoined upon him only the obligation to keep to the right of the center of the improved portion of the road. Section 6310-34 provides:
+“Where cross-walks or cinder paths parallel the public road or highway, pedestrians shall not walk in, along or upon the vehicular traveled portion of such public road or highway, except at crossings and crosswalks, except in cases where crossings or crosswalks are an unreasonable distance apart.”
+This is the only relevant section of law defining the duty of pedestrians on the highway in the open country. It thus seems that in no event could it be said, as a matter of law, that the plaintiff was negligent so long as he walked in the gravel portion of the highway to the outside of the paved part thereof.
+In view of the discussion of these two statements and the situation of these parties, let fis examine what the court said:
+“Now, something is said here about notices and rules adopted for the use of this highway, that pedestrians were to travel on. what is commonly known as the opposite side of the road from what is generally traveled. That seems to be a common practice for pedestrians, to travel upon the side of the road upon which they meet the machines coming towards them. Under the statute a mandatory duty was imposed upon this defendant to propel his vehicle at all times upon the right side of the road. If the plaintiff were traveling upon the opposite side, with machines coming behind him, he would have the same rights in the use of the highway, as another machine, and it would be the duty of the defendant to avoid him to the left and give him a full half of the road. Going the other way, it is elementary that both parties cannot use this roadway at the same time, and notwithstanding the regulations and notwithstanding he was rightfully there, the pedestrian in traveling upon the wrong side of the road towards a machine, because of the mandatory statute compelling the defendant to use that side and that side only, must avoid the path of the machine so that they may pass. And in that respect the duty was imposed upon this plaintiff, under the rule heretofore given as to ordinary care, to use, ordinary care for his own safety in that respect.”
+It “will be noted that the court at no time makes distinction between the paved portion of the thoroughfare and the graveled part, but refers in general terms only to the road. This, in the minds of the jury must have meant all of the road. Reduced to the simplest terms, the part of the charge just quoted made the plaintiff guilty of negligence per se in being on his left side of the road without any differentiation as to the place where on that side he was walking.
+We do not believe the law sustains this proposition. Likewise, without exception, the effect of the charge was that the defendant was guilty of no negligence so long as he was driving on the right side of the road without respect to the place where on that part of the thoroughfare he w,as driving. We do not believe the law sustains this proposition. In the event the júry found, as it 'had a permissable right to do, under the evidence, that the plaintiff at the time the defendant’s automobile struck him, was over on the gravel grid outside the limits of the paved thoroughfare, even so he could not háve recovered. The court also says:
+“Recovery here from this defendant must establish by a perponderance of evidence that he was negligent in the respect complained of here and that the plaintiff was free from fault.”
+This was clearly improper.- We presume the court charged on the theory that plaintiff’s testimony raised an inference of negligence on his part. But if our position is sound, he was in error in that particular. It was clearly error to place the burden on the plaintiff of proving himself free from fault, and even if an inference of his negligence may arise from his testimony, he does not have to remove it by a preponderance of the evidence— Tresise vs. Ashdown, 118, OS., 308.
+There was abundant evidence in the record which would justify a jury finding for the defendant upon the proper presentation of the law of the case by the coprt. Plaintiff was also entitled to have the jury consider his theory, namely that he was walking in a part of the road where h® was not prohibited by law from being, that he was exercising ordinary care for his own safety, and that the defendant failing to exercise ordinary care, drove over upon the gravel and injured him.
+For the reasons heretofore indicated, the judgment of the lower court must be reversed and the case remanded for new trial.
+Kunkle, Allread and Hornbeck, JJ, concur.
