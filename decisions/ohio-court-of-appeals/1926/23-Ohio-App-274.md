@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1926-10-04"
+citations: ["23 Ohio App. 274"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ferneding and Ktjnele, JJ., concur."]
+parties: ["In Matter of Trusteeship of Kinkade. In Matter of Guardianship of Kinkade."]
+source_url: "https://static.case.law/ohio-app/23/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1854026
+cites_cases: ["10 Cush., 1", "15 Am. St. Rep., 542", "16 N. E., 687", "46 Ohio St., 20"]
+---
+
+# In re Trusteeship of Kinkade
+
+## Majority (Allread, P. J.)
+
+Allread, P. J.
+This case grows out of a conflict of liability between a trusteeship under the will and a guardianship of the minor beneficiary therein. Josephine M. Howard was trustee under the will, and also guardian of Charles E. Kinkade, the minor beneficiary. Her account shows that as trustee under the will she received certain funds which she transferred to herself as guardian. Her account as guardian shows that she received these funds, and paid the money out- on checks issued by herself as guardian, but a considerable portion of the money so paid out was for her own private use. She was found by the probate court to have defaulted as guardian in the sum of $5,722.23.
+Mrs. Howard gave bond as trustee under the will in the sum of $500, and, as guardian, in the sum of $3,000. The Globe Indemnity Company filed exceptions to the account of Josephine M. Howard, as trustee under the will, because she wrongfully transferred the fund to herself as guardian.
+The indemnity company also excepted to the account of Josephine M. Howard, as guardian, for the reason that she wrongfully charged herself with funds which legally belonged to the trustee of the estate. The exceptions were overruled by the probate court. Appeals were taken to the court of common pleas, where the exceptions were again overruled, and the question is now presented in this court on petition in error.
+The will of Charles E. Kinkade, which disposed of the fund in question, provided that the fund should be paid to certain named trustees under the will “to hold, control, and manage for the use and benefit of said minor son until said son should arrive at the age of 21 years.” The third item provided that when the son arrived at the age of 21 years the trust should terminate.
+In the case at bar the son was a minor at the time of the death of his father, and also at the time the accounts were settled in the probate court. The evidence clearly shows that the fund was actually transferred and placed in bank to the credit of Josephine M. Howard, as guardian, and also checked out by her as guardian. Counsel for the plaintiff in error contend that the transfer of the funds to Josephine M. Howard, as guardian, was wrongfully done, as the will provided that the fund should be retained by the trustee under the will, and that, therefore, the court should regard the fund as still remaining in the hands of the trustee rather than in the hands of the guardian.
+It appears that a bond of $500 was given in the trusteeship, and a $3,000 bond was required in the guardianship, so that it must have been contemplated both by the guardian and the probate court that these funds would be handled by the guardian rather than the trustee. The Globe Indemnity Company was surety in both cases, and there is an inference that the surety knew these facts. The important fact here is, however, that the transfer of the funds from the trustee to the guardian was not constructive, but was real; that is, the funds came into the hands of Josephine M. Howard as guardian, and she undertook to administer the funds under the guardianship. A number of eases have been cited, but we cannot escape the conclusion that the law applicable to this case is found in the opinion of Judge Minshall, in the case of Foster, Adm’x., v. Wise, Adm’r., 46 Ohio St., 20, 16 N. E., 687, from which we quote, at page 27, 16 N. E., 687, 690 (15 Am. St. Rep., 542):
+“It is also argued that at the time the bond in suit was given, Pomerene held the assets as trustee under the will by which he was authorized to invest them for the benefit of Mrs. Schriver. It is a sufficient answer to this to say, that he never qualified as such trustee, and no such investment was made. He cannot, therefore, be regarded as having acted in any other capacity than as executor. Prior v. Talbot, 10 Cush., 1. Moreover, the sureties on the bond in suit are estopped from asserting that he had ceased to be an executor and was only a trustee.”
+So, here, while the trustee received the funds as trustee under a nominal bond, she immediately transferred the funds to the guardianship, where a substantial bond had been fixed and given. Even if these funds were wrongfully received by the guardian, as between the guardian and the trustee tinder the will, nevertheless, having received the funds as guardian, she was bound to account for the same as guardian. The ward was the equitable owner of the fund, and still is the owner.
+The moneys were received by the guardian in her official capacity. There was not only a case of having received the money under the color of her official capacity, but also a case of having received the same actually and legally as guardian.
+Whether, as between the trustee under the will and the guardian, the right to the fund remained in the former is not the real question here. The surety upon the guardianship bond does not stand as the protector of the interests of the trustee under the will, or of any adverse party claiming under the trustee. The surety stands before the court as the representative of the guardian, and stands in the same position before the court as the guardian would stand.
+Counsel for plaintiff in error cite and rely upon the ease of Livermore v. Bemis, 84 Mass. (2 Allen), 394. That case differs from the case at bar, in that the fund had never been actually transferred to the guardian. The transfer was accomplished there as a paper transaction by account, seeking to transfer the liability from the surety to the guardian. Here the fund was actually transferred, with the consent of the probate court, which made provision for the security of the fund by an appropriate bond for the guardian.
+We are of opinion that under the doctrine, established by the opinion of Judge Minshall referred to, the guardian would be estopped from denying responsibility for the funds which the guardian actually received and handled as guardian. We are therefore of opinion that the common pleas and probate courts properly overruled the exceptions, and that the judgments of said courts should be affirmed.
+Judgments affirmed.
+Ferneding and Ktjnele, JJ., concur.
