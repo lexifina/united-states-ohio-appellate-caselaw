@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1180"
+decided: "1960-04-13"
+citations: ["112 Ohio App. 242"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stevens and Hunsicker, JJ., concur."]
+parties: ["W. W. Enterprises, Inc., Appellant, v. Brenneman, Dir., Appellee."]
+source_url: "https://static.case.law/ohio-app/112/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1442527
+cites_cases: ["108 Ohio St., 245", "113 Ohio St., 245", "129 Ohio St., 251", "272 U. S., 365", "47 S. Ct., 114", "54 A. L. R., 1016"]
+---
+
+# W. W. Enterprises, Inc. v. Brenneman
+
+## Majority (Doyle, P. J.)
+
+Doyle, P. J.
+In this case the appellant is the W. W. Enterprises, Inc., the owner of real property abutting the south line of Winter Street and the east line of Beall Avenue in the city of Wooster, Ohio. The appellee is Walter Brenneman, the director of public service of the said city.
+On the 2nd of August, 1958, the appellant (plaintiff in the Court of Common Pleas) made application in due form to the director of public service for a permit to build a gasoline service station on. its property. The director, who was empowered by ordinance to issue permits of this character, refused the request by notifying the applicant in writing that he (the director) “refused said permit for the reason that the property line of the plaintiff’s premises was within 100 feet of the property line of the Wooster Community Hospital grounds; * * * that the same was contrary to the fire prevention regulations [of the city], to wit, the provisions of Sections 1521.01 and 1521.05 of the ordinances ; * * * and that said permit was refused for said sole and only reason.”
+The property owner thereupon filed the present action for mandatory injunction in the Court of Common Pleas of Wayne County, in which it sought an order to compel the municipal officer to issue a permit to build the service station in accordance with its application. Upon the issues made by the pleadings and the evidence, the court found against the plaintiff and in favor of the defendant. In dismissing the petition the 'court specifically found, however, as revealed in its judgment entry, the following facts:
+“ (a) that the filling station, on the proposed location, would not be a fire or explosion hazard to the Wooster Community Hospital or its occupants;
+“(b) that the said filling station will be a hazard to traffic safety and congestion in relation to all persons using the Wooster Community Hospital for any purpose;
+“(c) that there is no clear showing that the erection of a gasoline station adjacent to and within one hundred (100) feet of the boundaries of the institutions protected by the Wooster city ordinance would be other than detrimental to the safety, general welfare and convenience of the institutions themselves and the general public using them;
+“(d) that the ordinance complained of in plaintiff’s petition, being Section 1521.05, Chapter 21, Title 5, of the Ordinances of the city of Wooster, Ohio, is not arbitrary or unreasonable and does have a real and substantial relation to the public safety and public welfare;
+“(e) that said ordinance does not deprive the plaintiff of its property or the use and enjoyment thereof without due process,of law;
+“(f) that said ordinance is not in violation of Sections 1 and 19 of Article 1 of the Constitution of the state of Ohio and of the Fourteenth (14th) Amendment of the Constitution of the United States; and
+“ (g) that plaintiff is not entitled to a mandatory injunction as prayed for.”
+Appeal on questions of law has been taken from this judgment.
+The city of Wooster does not have zoning ordinances. It does have various so-called safety ordinances. The ordinances pleaded, and those upon which the director of public service acted in denying the permit, are in the following terms:
+“Title Five — Fire Prevention Regulations.
+“Chapter 21, Handling and Storage of Petroleum Liquids.
+"1521.01. Definitions.
+“For the purpose of this chapter, the following definitions shall apply:
+“A ‘filling station’ is a place, either open or enclosed, or building together with the land appurtenant thereto, where gasoline, naptha, petroleum, or the volatile and combustible products of petroleum, coal or natural gas are vended, traded or otherwise disposed of to persons procuring such products for the purpose of utilizing said products in the propulsion of internal combustion engines.”
+“1521.02. Permit and Inspection Required.
+“It shall be unlawful for any person to build, install, erect, locate, construct, bury or place any tank or container within the corporate limits for the purpose of storing therein, gasoline, naptha, petroleum, or the volatile and combustible products of petroleum, coal or natural gas, unless a permit shall have been first obtained therefor from the service director, and in addition to the provisions relating to the same as set forth in this chapter, said tank or container shall be built, erected, installed, located, constructed, buried and placed according to the laws of the state of Ohio regulating the same, and in accordance with the rules and regulations now established or hereafter to be established by the state fire marshal, and subject to the inspection and approval of the fire chief.”
+“1521.05. Pilling Station Building Restrictions.
+“It shall be unlawful for any person to build, erect, construct, place, establish or locate a filling station at any place within the corporate limits nearer than one hundred (100) feet to the premises upon which is located any church, school, theater, public hall, hospital, auditorium or lodge room, or any place used as a public gathering place.”
+It is obvious from reading the above ordinances that the legislative body of the city of Wooster meant that, as a fire prevention regulation, a gasoline filling station should not be erected closer than 100 feet from the boundary of the land upon which it is located to the nearest boundary of the premises upon which a hospital is located.
+In the instant case, it is stipulated that:
+‘ ‘ 10. The premises of the plaintiff are bounded on the north by Winter Street of said city of Wooster and said Winter Street has a width of 33 feet. To the north of said Winter Street is the property of the Wooster Community Hospital consisting of 13.536 acres all within the boundary limits of said city. Upon said hospital grounds there has been erected a hospital building, the south boundary of said building being 302 feet from Winter Street.
+“11. The building proposed to be built by the plaintiff as shown by the plans accompanying its application for a permit from the defendant is 101 feet from the property line of the Wooster Community Hospital grounds and 403 feet from the Wooster Community Hospital Building.”
+The fact is established that the property line of the land upon which the gasoline station is sought to be permitted and the property line of the land upon which the hospital is located is less than 100 feet at the nearest point, and this fact alone moved the public service director of the city to deny the permit to build. He determined that the issuance of a permit would contravene the ordinance.
+The city of Wooster, by its legislative body, without doubt was empowered to enact, and did properly enact, pursuant to its police power, the fire prevention regulation in controversy here. That the ordinance as such has a substantial relationship to the safety and general welfare of the public we do not question, and the wisdom or lack of wisdom in enacting the ordinance was for the municipality’s determination. Village of Perrysburg v. Ridgway, a Taxpayer, 108 Ohio St., 245, at page 259.
+“1. The determination whether police regulations are reasonable and necessary for the safety of the public is committed to the discretion of the legislative body, and unless it is clear that such police regulations are unreasonable or arbitrary or have no relation to the public health, morals or safety, courts will not substitute their judgment for the legislative discretion.
+“2. While filling stations located in certain localities .may not, under certain circumstances, be nuisances per se, yet since they deal in inflammable substances, such as gasoline and oils, they possess unusual hazards, they have the potentiality of becoming a nuisance and are therefore subject to the valid exercise of the police power by proper authorities.” State, ex rel. Standard Oil Co., v. Combs, Director of Public Service of City of Zanesville, 129 Ohio St., 251, paragraphs one and two of the syllabus.
+A safety ordinance of the kind here under inspection, however, may be generally valid and at the same time be so arbitrary and unreasonable in its concrete application to particular premises as to be invalid as applied to them. See: Village of Euclid v. Ambler Realty Co., 272 U. S., 365, at p. 395, 71 L. Ed., 303, 47 S. Ct., 114, 54 A. L. R., 1016.
+It will be found on inspection that the ordinance here applies only to fire prevention. It has no application to “traffic and congestion,” nor to the “general safety, welfare and convenience” of the hospital and the general public using it, except only as to fire and explosion. The trial court, however, in its denial of a mandatory injunction specifically found that the “filling station * * * would not be a fire or explosion hazard to the Wooster Community Hospital or its occupants,” but refused the petitioner on grounds entirely extraneous to the ordinance.
+It must be borne in mind that a business of the kind here involved does not constitute a nuisance per se. A properly-operated filling station is not such a fire and explosion hazard as to constitute a nuisance for that reason alone. Powell v. Craig, 113 Ohio St., 245. A filling station, or the use of property for conducting a filling station, is not unlawful either by statute, the common law, or ordinance, and may be located and operated at any reasonable place in a city, unless it becomes a nuisance, or is prohibited by statute or ordinance which finds its justification in the police power asserted for public welfare.
+The police power asserted for public welfare in the ordinance under consideration was specific in applying only to fire prevention. It has no application to traffic or other conditions which might come into existence through the conduct of a filling station business.
+Under the circumstances of this case, as revealed to us from the record, we find that the ordinance in its general scope and dominant features is a valid exercise of municipal authority, but that, from the finding of fact of the trial court, the proposed filling station would not be a fire or explosion hazard; that an enforcement of the strict provisions of the regulations would be arbitrary and unreasonable, and therefore unconstitutional, as to the applicant for the license in the instant case.
+Under the finding of the trial court, an exercise of the police power of the city of Wooster, by the enforcement of the ordinance, would have no real or substantial relation to the safety of the public, or the users of the hospital, through fire or explosion, any more than if the proposed station were located beyond the prescribed 100 feet.
+Although it is obvious from repeated decisional declarations that a presumption exists in favor of the validity and constitutionality of ordinances in their application to various circumstances, nevertheless, the question of due process remains the same in all respects. An ordinance valid as to one set of facts may be invalid as to another. An ordinance valid when enacted may become invalid by change in the conditions to which it is applied. The police power of a municipality is subject to the constitutional limitation that it may not be exercised arbritrarily or unreasonably.
+From the finding of the trial court, it appears that the plaintiff struck down the presumption of a fire and explosion hazard under the circumstances of this cape,
+The judgment will be reversed, and the case remanded for a new trial.
+Judgment reversed and cause remanded.
+Stevens and Hunsicker, JJ., concur.
