@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1928-01-16"
+citations: ["31 Ohio App. 73", "6 Ohio Law Abs. 118"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Lloyd, JJ., concur."]
+parties: ["Matis v. Woodruff et al."]
+source_url: "https://static.case.law/ohio-app/31/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1314278
+cites_cases: ["101 Ohio St., 316", "106 Ohio St., 408", "113 Ohio St., 113", "128 N. E., 136", "140 N. E., 366", "148 N. E., 398", "53 N. E., 715", "60 Ohio St. 69", "60 Ohio St., 69"]
+---
+
+# Matis v. Woodruff
+
+## Majority (Richards, J.)
+
+Richards, J.
+Tbe litigation between these parties arises out of an automobile collision, which occurred in Ottawa county at the intersection of the Elmore road and the Oak Harbor road. The collision occurred. on July 8, 1923, in the daytime, and there were no intervening obstacles to prevent the occupants of each car seeing the other car as the cars approached the intersection. The trial resulted in a verdict and judgment in favor of the defendants, Walter H. Woodruff and others.
+At the threshold of this case we are confronted with the situation that the case has been tried once before, resulting in a verdict for the defendants, which verdict was set aside by the trial court on the ground that it was contrary to the weight of the evidence. For that reason this court, on the authority of Cleveland Ry. Co. v. Trendel, 101 Ohio St., 316, 128 N. E., 136, and Rolf v. Heil, 113 Ohio St., 113, 148 N. E., 398, is powerless to reverse the judgment on the weight of the evidence, even if so disposed.
+Elizabeth Matis, who was plaintiff in the trial court was a passenger in a Ford car being operated by one Fred Krivak, and was sitting on the left side of the car in the rear seat. This car was proceeding in a southerly direction. The Woodruff car was being driven in a westerly direction, the owner being in the rear seat. The evidence discloses that the Ford car, as it approached the intersection, had stopped, or nearly stopped, when 15 or 20 feet therefrom. The Woodruff car was approaching the intersection at about 20 miles per hour, and the occupants of that car who testify say that they saw the Ford car, that it was not moving, and was located about 15 feet north of the intersection. The evidence would justify the jury in finding that when the Woodruff car was within 50 or 60 feet of the intersection, Krivak, who was operating the Ford car and had seen the line of cars approaching from his left, either started his car or increased its speed to 10 or 20 miles an hour in an attempt to cross the intersection in advance of the Woodruff car. Not only had Krivak seen the Woodruff car approaching, but the plaintiff, Elizabeth Matis, had also seen it while they were standing, or slowly moving, just north of the intersection.
+Counsel for plaintiff asked the court to instruct the jury that there was no evidence tending to show contributory negligence on her part, and the refusal to give that instruction is assigned as error. Under the circumstances disclosed by the evidence, it was certainly a question for the jury whether Mrs. Matis was guilty of contributory negligence; whether she ought to have protested to the driver of the car against undertaking to cross the intersection ahead of the approaching car. The jury may have believed from the circumstances that an exclamation or a word from her, just before Krivak undertook to cross, would have caused him to allow his car to remain standing, or to stop if slowly moving, and thus would have prevented the collision.
+The pleadings raise the issue of the competency of Krivak as a driver of the car and of Mrs. Matis' knowledge of his qualifications. She had ridden with him from Cleveland; they were starting on their return journey, and apparently had been having some trouble with the car. We think there was enough evidence of her knowledge of his capacity as a driver, or of her opportunity for such knowledge, to leave the matter to the jury. The jury was properly instructed that any negligence of Krivak could not be imputed to her; but, in any event, her failure to protest against his driving into the intersection in front of the approaching car, which she saw coming, was some evidence of contributory negligence to be considered by tbe jury.
+We find no error to tbe prejudice of tbe plaintiff in the general charge of tbe court. Ten requests were submitted by counsel for plaintiff and asked to be given after tbe general charge. Of these requests, No. 6 reads as follows: “If you find that plaintiff’s car arrived at said intersection distinctly in advance of defendant’s car, it was the duty of tbe defendant, if in tbe exercise of reasonable care be could have done so, to delay bis progress to enable plaintiff’s car to pass in safety.”
+This requested instruction relates solely to the claimed negligence of the defendant, and even if it states a correct proposition of law, the refusal to give it would not be reversible error. There were at least two issues in the case, namely, the alleged negligence of the defendants, and the claimed contributory negligence of the plaintiff. The jury having returned a general verdict in favor of the defendants thereby found all of the issues in the case against the plaintiff. A finding for the defendants on either issue would have justified a verdict for them, and under such circumstances a general verdict for the defendants, and judgment thereon, will not be reversed for error in instructions of the court relating exclusively to one of the issues; there being no error on the other issue. McAllister v. Hartzell, 60 Ohio St., 69, 53 N. E., 715; Jones v. Erie Rd. Co., 106 Ohio St., 408, 140 N. E., 366.
+We have examined all of tbe alleged errors assigned and find none prejudicial to the rights of the plaintiff in error.
+Judgment affirmed.
+Williams and Lloyd, JJ., concur.
