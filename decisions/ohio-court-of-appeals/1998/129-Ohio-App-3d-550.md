@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+docket: "96CO58"
+decided: "1998-08-26"
+citations: ["129 Ohio App. 3d 550"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cox and Waite, JJ., concur."]
+parties: ["ROBINSON, f.k.a. Rodi, Appellee, v. RODI, Exr., Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/129/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 61004
+cites_cases: ["18 F.3d 1321", "44 Ohio St.3d 142", "450 N.E.2d 1140", "5 OBR 481", "5 Ohio St.3d 217", "53 F.3d 911", "541 N.E.2d 1028", "615 N.E.2d 338", "7 F.3d 11", "83 Ohio App.3d 569", "877 F.2d 692", "897 F.2d 275", "913 F.2d 310"]
+---
+
+# Robinson v. Rodi
+
+## Majority (Vukovich, Judge.)
+
+Vukovich, Judge.
+This appeal arises from a judgment rendered by the Columbiana County Court of Common Pleas overruling the objection to the magistrate’s decision filed by Stephen Rodi, appellant, as executor of the estate of Michael Rodi, deceased. For the following reasons, we hereby reverse the decision of the trial court.
+I. FACTS
+Irene Robinson, f.k.a. Irene Rodi, appellee, and Michael Rodi (“decedent”) were married on May 9, 1972. On February 8, 1973, during their marriage, decedent designated appellee as the beneficiary of an employer-provided group life insurance policy through Metropolitan Life Insurance Company (“MetLife”). On October 23, 1979, decedent and appellee were granted a divorce.
+As part of the trial court’s judgment entry granting the divorce, the court incorporated the parties’ separation agreement. Article 3 of the agreement divided various items of real and personal property including certain specifically named life insurance policies and retirement plans. The MetLife policy naming appellee as beneficiary was not specifically listed by name in Article 3.
+Moreover, the separation agreement also contained a separate provision wherein the parties agreed to waive additional rights which they then held. Article 7 of the separation agreement, entitled “Mutual Releases,” stated:
+“Except as herein otherwise provided, each party hereto completely and forever releases the other from any and all rights each has or may have:
+"* * *
+“As beneficiary in any life, or any other type of insurance policy issued to the other,
+"* * *
+“It is the further understanding of the parties that except as herein otherwise provided, the parties have by this agreement completely and forever adjusted, settled, disposed of and terminated any and all rights, claims, demands, causes of action each has, or may have arising out of their marriage and/or otherwise arising or resulting from any other matter, act, agreement or cause whatsoever occurring prior to the date hereof.” (Emphasis added.)
+Decedent died testate on August 14, 1995, never having formally removed appellee as the named beneficiary on the MetLife policy. Upon being appointed executor of decedent’s estate, appellant sought payment from MetLife under the policy.
+In a letter dated December 11, 1995, MetLife responded to appellant’s request for payment. MetLife indicated that since appellee was the beneficiary of record and the parties’ separation agreement did not specifically refer to the policy, it remained obligated to make payment to appellee. However, MetLife did advise appellant that appellee could waive her rights to the benefits from the policy as designated beneficiary.
+Despite appellant’s attempts, appellee refused to execute a waiver of benefits. Thus, on January 17, 1996, appellant filed a motion for contempt against appellee as related to the judgment entry of divorce, seeking an order from the court requiring appellee to sign a written waiver of any interest in the MetLife policy. The court issued a temporary restraining order on January 30, 1996, enjoining the parties from pursuing any claim for the proceeds of the MetLife policy pending a final decision by the court. The matter was referred to a magistrate, who rendered a decision on May 3, 1996, denying the motion for an order of contempt.
+The magistrate declared that the waiver in Article 7 of the separation agreement, as incorporated into the court’s judgment entry of divorce, was insufficient to waive appellee’s rights in the MetLife policy. Additionally, the magistrate determined that since the effective date of the Employee Retirement Security Act (“ERISA”) was January 1, 1975, and the separation agreement was journalized by the trial court on October 23, 1979, a specific waiver of rights was required.
+Appellant objected to the magistrate’s decision, and the matter was heard by the court on August 23, 1996. On September 9, 1996, the court overruled appellant’s objections. Appellant made a timely appeal from the trial court’s decision.
+II. ASSIGNMENTS OF ERROR
+Appellant raises two assignments of error on appeal. In the first assignment of error, appellant alleges:
+“The trial court erred in ruling that Irene Robinson had not waived her interest in the Metropolitan Life Insurance policy under the parties’ separation agreement.”
+In the second assignment of error, appellant alleges:
+“The trial court erred in ruling that its judgment entry of divorce incorporating the parties’ separation agreement was ineffective under federal ERISA law to waive Irene Robinson’s interest in the MetLife group life insurance policy.”
+In that both assignments of error deal with the sufficiency of the waiver of benefits, they will be addressed together.
+Appellant brought this contempt action to give effect to the items of the parties’ separation agreement incorporated into the judgment entry of divorce dated October 23, 1979. A trial court has the authority to clarify the terms and conditions of an original agreement, consider the intentions of the parties, and establish the equities between them. Rohrbacher v. Rohrbacher (1992), 83 Ohio App.3d 569, 575, 615 N.E.2d 338, 341-342. A reviewing court must not substitute its judgment for that of the trial court absent an abuse of discretion. Booth v. Booth (1989), 44 Ohio St.3d 142, 144, 541 N.E.2d 1028, 1030-1031. An abuse of discretion connotes more than an error of law or judgment; it implies the court’s attitude is unreasonable, arbitrary or unconscionable. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 219, 5 OBR 481, 482-483, 450 N.E.2d 1140, 1142.
+Since the policy at issue is an employer-provided group life insurance policy, it will be governed by ERISA, as are most employment benefit plans. As a consequence, federal law is applicable and supersedes state law. McMillan v. Parrott (C.A.6, 1990), 913 F.2d 310, 311. It has previously been held that the designation of beneficiaries plainly relates to ERISA plans. Id.; see, also, Krishna v. Colgate Palmolive Co. (C.A.2, 1993), 7 F.3d 11, 13-14. “The court must therefore look to either the statutory language or * * * to federal common law, which, if not clear, may draw guidance from analogous state law.” McMillan, supra, 913 F.2d at 311.
+A number of federal courts have considered the situation in which an ex-spouse remains the named beneficiary of ERISA plan benefits though the parties have been divorced. The magistrate rendering the decision in the case at bar determined the rationale of McMillan to be controlling. In McMillan, the estate of Dr. Parrot challenged his ex-wife’s right to receive the proceeds of two vested ERISA plans even though the divorce settlement agreement contained a broad waiver in which each spouse relinquished “any and all” claims he or she might have against the other. Dr. Parrot had failed to remove his ex-wife as beneficiary on these plans prior to his death.
+The Sixth Circuit Court in McMillan considered the result of the above-noted scenario under federal common law. The court held that the ex-wife had not effectively waived her interest as beneficiary by virtue of the waiver clause in the parties’ settlement agreement, which it determined was not specific enough:
+“Full Release: Each party hereby waives, relinquishes and forever releases the other party of any and all claims he or she may have against the other for dower, curtesy, alimony, maintenance, property settlement, and all other claims of any kind and nature, except as herein provided * * *." (Emphasis added.) McMillan, supra, 913 F.2d at 312.
+Thus the Sixth Circuit found for the ex-spouse as the named beneficiary under the plan.
+However, McMillan is distinguishable from the case sub judice. The settlement agreement in the McMillan case contained a broad, general waiver applying to “any and all claims” of “any kind and nature.” When looking to the waiver clause in the present case, it is apparent that it was not of the general nature seen in McMillan. On the contrary, the waiver provision incorporated into Article 7 of the parties’ separation agreement specifically referred to the release “as beneficiary in any life, or other type of insurance policy issued to the other.” (Emphasis added.) By pinpointing the item that was to be released, the waiver effectively avoided the pitfalls of the waiver in McMillan.
+Facts similar to those in the case herein have been raised in other federal districts, resulting in decisions for the decedents’ estates. In Brandon v. Travelers Ins. Co. (C.A.5, 1994), 18 F.3d 1321, the Fifth Circuit analyzed a similar fact pattern and was persuaded that under federal common law the ex-wife had effectively waived her rights to policy proceeds. Id. at 1327. The focus of the Brandon court was whether the waiver was explicit, voluntary, and made in good faith. Id. at 1327.
+Other federal courts considering the issue have focused on the specificity of the waiver set forth in the separation agreement as incorporated into the divorce decree. In Fox Valley & Vicinity Constr. Workers’ Pension Fund v. Brown (C.A.7, 1990), 897 F.2d 275, the court held that the divorce settlement agreement at issue was sufficient to divest the ex-wife of her rights to the ex-husband’s employment benefits. The language from the property settlement agreement found to be an effective waiver stated:
+“The parties each waive any interest or claim in and to any retirement, pension, profit sharing and/or annuity plans resulting from the employment of the other party.” (Emphasis added.) Id. at 281.
+The Fox Valley court concluded:
+“The ability of a spouse to waive rights to a benefit through a specific waiver in a divorce settlement has been recognized by many courts and we adopt that rule for purposes of ERISA.” Id. at 281; see, also, Mohamed v. Kerr (C.A.8, 1995), 53 F.3d 911; and Lyman Lumber Co. v. Hill (C.A.8, 1989), 877 F.2d 692.
+Based on the foregoing analysis of the issue in the various federal courts, the trial court clearly erred in its decision to award the policy benefits to appellee. McMillan is distinguishable due to the specificity of the language in Article 7 of the separation agreement. That language is more analogous to that which has been held valid by the Fox Valley line of cases. The Article 7 language was specific enough to constitute a waiver of appellee’s entitlement to the proceeds of the MetLife policy under ERISA federal common law. Additionally, no evidence is on record that the waiver lacked voluntariness or lacked good faith dealings.
+In that federal common law has enforced waiver language that mirrors the waiver at issue, we hold that the trial court abused its discretion in finding for the appellee. Therefore, appellant’s assignments of error are found to have merit. The decision of the trial court is reversed.
+Judgment reversed.
+Cox and Waite, JJ., concur.
