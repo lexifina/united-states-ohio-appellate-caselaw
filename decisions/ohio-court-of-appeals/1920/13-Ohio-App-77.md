@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1920-01-06"
+citations: ["13 Ohio App. 77"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Walters and Middleton, JJ., concur."]
+parties: ["McGowan v. Best."]
+source_url: "https://static.case.law/ohio-app/13/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842630
+cites_cases: ["113 Me., 81", "143 Ala., 669", "39 So. Rep., 380", "67 Ohio St., 316", "93 Atl. Rep., 40"]
+---
+
+# McGowan v. Best
+
+## Majority (Sayre, J)
+
+Sayre, J
+October 5, 1914, Mamie J. Waters conveyed to Evan Evans one-half acre of land in Meigs township, Adams county, Ohio, and the deed for the same was recorded November 11, 1914. October 5, 1914, Evans executed and delivered to her a mortgage on the same premises to secure the payment of the purchase money, which was recorded November 6, 1914. The note, to secure the payment of which the mortgage was given, became due and payable November 17, 1914. November 30, 1914, Mamie J. Waters executed and delivered to H. B. Reed a deed of general warranty for the same premises previously conveyed by her to Evan Evans, which was recorded January 21, 1915. Reed at once took possession. July 21,1915, Mamie J. Waters sold and transferred to W. R. Sprague the note and mortgage given her by Evan Evans. July 28, 1915, Sprague brought a suit to foreclose the mortgage. February 21, 1916, H. B. Reed sold and conveyed by deed of general warranty the premises in dispute to the plaintiff, Sherman McGowan, and the latter has ever since been in possession of the same. That deed was recorded March 13, 1916. Such proceedings were had in the suit brought by Sprague, and carried through by this defendant, Andrew J. Best, who by purchase succeeded to Sprague’s claim, that on October 4, 1917, a sheriff’s deed for the premises was executed and delivered to defendant, he having been the highest and best bidder at the sheriff’s sale of the premises. There is an averment in the amended answer and cross-petition that “this defendant brings into court a quit claim deed from said Evans to him for said property, and also brings into court the full amount due on said mortgage, principal and interest * * * and tenders the same to whomsoever the court may find entitled thereto, for the redemption of said mortgage.” Neither the plaintiff nor Reed was a party to the foreclosure suit brought by Sprague, but Evan Evans was.
+This suit was brought to quiet title to the premises in dispute.
+It will be observed that the note given to Mamie J. Waters by Evan Evans became due November 17, 1914, and by force of Ohio decisions, as between them, she became invested with the title to the real estate. Bradfield et al. v. Hale et al., 67 Ohio St., 316.
+The question in this case is, Since the deed by Mrs. Waters to Reed was not accompanied by an assignment of the note and mortgage what was the effect of that conveyance ? The authorities are divided on the question, some holding that a conveyance by a mortgagee out of possession, without an assignment of the mortgage indebtedness, conveys no title (Vermeule v. Vermeule, 113 Me., 81, 93 Atl. Rep., 40); while others hold that a deed by a mortgagée out of possession conveys not only the legal title but is in equity an assignment of the mortgage debt (Sadler et al. v. Jefferson et al., 143 Ala., 669, 39 So. Rep., 380). We are persuaded that a deed of general warrantj^by a mortgagee not in possession, after condition broken, carries with it the ownership of the mortgage indebtedness, even if there is no actual assignment or transfer to the grantee of the note and mortgage. The grantor in such deed is estopped by its recitals to claim any interest in the mortgaged premises, and his assignee of the note and mortgage, with notice, is likewise estopped. In the instant case, when the note and mortgage were assigned to W. R. Sprague, H. B. Reed, the grantee of Mamie J. Waters, was in possession, and such fact was sufficient to put Sprague upon inquiry as to the state of the title, and an investigation would have led to knowledge of the existence of the deed from Mrs. Waters to Reed. When the defendant purchased Sprague’s claim he stepped into Sprague’s shoes. He was bound to take notice of Reed’s possession and must be charged with knowledge of the deed to him.
+The suit in foreclosure was a nullity so far as the rights of the plaintiff were concerned, as he was not a party. But the important question is, What became of the equity of redemption of Evan Evans? He was a party, and on the face of the record in the foreclosure suit his equity of redemption was extinguished. If we are correct in holding that the deed to Reed conveyed to him all the interest of Mamie J. Waters in the mortgage indebtedness, then there was no foreclosure, no sale, and no change of title, because the plaintiff, as the grantee of Reed, still held the title as between him and Evans. So, if by the proceedings to foreclose, there was no change of title, then it must follow that there was no extinguishment of the interest of Evan Evans. His interest was the amount remaining after the satisfaction of the mortgage indebtedness. After the pretended sale in foreclosure that amount could not be calculated, because the mortgage indebtedness, which was a lien pn the premises, had not been pleaded or adjudicated in court, the owner thereof not being a party to the proceeding.
+The mortgagor, Evan Evans, having conveyed his interest to the defendant by deed the plaintiff and defendant stand in the same relation to each other as the original mortgagee and mortgagor, and the defendant, having paid into court the full amount of the mortgage indebtedness, is entitled to be adjudged the owner of the property.
+The decree will be in his favor.
+Decree accordingly.
+Walters and Middleton, JJ., concur.
