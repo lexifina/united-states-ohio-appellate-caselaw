@@ -1,0 +1,63 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-900146, C-900147 and C-900148"
+decided: "1991-07-03"
+citations: ["73 Ohio App. 3d 694"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gorman, P.J., and Doan, J., concur.", "Utz, J., dissents."]
+parties: ["LANIER et al., Appellants, v. LANIER et al.; Steele et al., Appellees. (Two Cases.) GOODALE et al., Appellants, v. GOODALE et al.; Steele et al., Appellees. *"]
+source_url: "https://static.case.law/ohio-app-3d/73/cases/0694-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1473076
+cites_cases: ["18 O.O.3d 414", "376 N.E.2d 578", "414 N.E.2d 426", "54 Ohio St.2d 279", "64 Ohio St.2d 203", "8 O.O.3d 261"]
+---
+
+# Lanier v. Lanier
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellants and appellees are descendants of John J. Emery, holding deeds to property that Emery originally named “Peterloon Farm.” Peterloon Farm lies in three separate jurisdictions: Symmes Township, the village of Indian Hill, and the city of Montgomery. On February 17, 1989, appellants filed the within action to delete certain restrictions from the deeds to their Peterloon property in Symmes Township. The children of appellants Melissa and Addison Lanier are the property owners in case No. L.R. 890036 (App. No. C-900146), having acquired their land by gift from their mother, Melissa Lanier, who was given the property by her father, John J. Emery. Melissa and Addison Lanier are the owners of the property in case No. L.R. 890037 (App. No. C-900147), by virtue of a gift from John J. Emery. The children of Irene Emery Goodale are the property owners in case No. L.R. 890038 (App. No. C-900148), acquiring their property by gift from their mother, who had been given the property by her father, John J. Emery. The village of Indian Hill corporation line runs along the western boundary of appellants’ Symmes Township property. Appellants also own the Peterloon land in Indian Hill adjacent to their Symmes Township property.
+Appellees own Peterloon land in Indian Hill which they acquired by gift from John J. Emery or his daughter, appellee Lela Emery Steele. Appellees’ land does not touch any of appellants’ Symmes Township property.
+Appellants’ Symmes Township property is zoned “A” Residence under the Zoning Resolution for the Unincorporated Territory of Hamilton County, which permits single-family residences on minimum 20,000-square-foot (half-acre) lots. Appellants filed this suit in an attempt to delete from their deeds “zoning” and “conveyance” restrictions which tie the permissible use of appellants’ Symmes Township property to the more restrictive zoning requirements of the Indian Hill Residence “A” District, which provides for single-family residences on five-acre minimum lots. Appellees opposed the deletion of the restrictions from appellants’ deeds and intervened in the suit in order to enforce the restrictions.
+The case was submitted to the trial court on stipulated exhibits and the arguments of counsel. The trial court, in holding the restrictions valid, found: (1) the grantor, John J. Emery, intended the restrictions to run with the land; (2) the restrictions were part of a general plan to develop Peterloon in five-acre lots; and (3) the restrictions were intended to benefit all those holding an interest in Peterloon property, and therefore appellees, as intended beneficiaries, had standing to enforce the restrictions.
+Appellants timely appealed, raising one assignment of error which alleges:
+“The trial court erred to the prejudice of appellants by holding that restrictive language in appellants’ chain of title subjects their real estate in Symmes Township to Village of Indian Hill zoning and that appellees have standing to enforce those restrictions.”
+Appellants argue that the deeds do not support the trial court’s conclusions that the grantor intended (1) that the “zoning” and “conveyance” restrictions run with the land, (2) that all holders of Peterloon property be benefitted by the restrictions, and (3) that Peterloon was to be developed in five-acre lots as part of a general plan. Appellants point out that the “zoning” and “conveyance” restrictions do not specifically state that they run with the land and benefit all Peterloon property holders, in contrast to the sanitary-sewer restriction contained in each deed, which provides that the restriction “is for the benefit of said Grantor, his heirs and assigns,” and that “these restrictive covenants shall run with the land.” Appellants argue that because the grantor used specific language in the sanitary-sewer restriction to create a covenant running with the land and benefitting all Peterloon property holders, the fact that he did not do so in the “zoning" and “conveyance” restrictions shows that those restrictions were not intended to run with the land or to benefit any Peterloon property other than the parcels touching appellants’ Symmes Township property.
+Following a complete review of the record, we find sufficient competent credible evidence to support the trial court’s determination and, therefore, that determination will not be disturbed on appeal. See Ross v. Ross (1980), 64 Ohio St.2d 203, 18 O.O.3d 414, 414 N.E.2d 426; C.E. Morris Co. v. Foley Constr. Co. (1978), 54 Ohio St.2d 279, 8 O.O.3d 261, 376 N.E.2d 578. We note the fact that every deed subjects the Symmes Township property to Indian Hill zoning is evidence of a general plan of development from which all holders of Peterloon property were intended to benefit.
+Appellants next argue that the “zoning” and “conveyance” restrictions are ambiguous and therefore must be construed in the least restrictive manner. We hold the trial court did not err in finding the deeds to be unambiguous. Even though there are no parcel numbers listed for the Indian Hill reference parcels, the deeds contain enough information to locate the Indian Hill reference parcel to which the restriction on each parcel of Symmes Township property is tied.
+Appellants finally argue that the trial court erred in upholding the restrictions because the circumstances of the Peterloon property have changed in that the Symmes Township property is surrounded by single-family residences built on one-half-acre lots. Further, appellants contend, in light of the changed circumstances, there is no evidence that the restrictions are of any value to appellees. We hold the record contains sufficient evidence from which the trial court could have concluded that the development of nonPeterloon property in Symmes Township does not constitute such a change in the circumstances of appellees’ property that the restrictions are no longer of any benefit. The assignment of error is overruled.
+The trial court’s judgment is affirmed.
+Judgment affirmed.
+Gorman, P.J., and Doan, J., concur.
+Utz, J., dissents.
+. The “zoning” and “conveyance" restrictions are set forth in nine separate deeds which provide that appellants’ Symmes Township property is:
+Deed 1
+“ * * * subject to zoning restrictions of the Village of Indian Hill, Ohio, which zoning restrictions are applicable to lands of the Grantor lying nearest west to the above described premises in the same manner, and with the same force and effect, as if the above described premises were a part of the Village of Indian Hill, Ohio."
+Deed 2
+“ * * * subject to zoning restrictions of the Village of Indian Hill; and that portion of the above premises not in the Village of Indian Hill, Ohio, is subject to the zoning regulations governing the adjacent portion of said premises in said Village in the same manner, and with the same force and effect, as if said portion not in said Village were in the Village of Indian Hill, Ohio.”
+Deeds 3, 4, 8, 9
+“ * * * subject to zoning restrictions of the Village of Indian Hill;
+"the above described premises will not be conveyed except by operation of law * * * [and] a building permit will not be applied for * * * unless and until the premises * * * comply with the area requirements of the zoning ordinance of the Village of Indian Hill, [Ohio,] which are applicable to the land in said Village contiguous to the above described premises[.]”
+Deed 5
+“ * * * subject to zoning restrictions as are or may in the future be applicable to land in the Village of Indian Hill contiguous to a parcel of land of the Grantee herein, which parcel lies immediately west of the above described premises[.]”
+Deed 6
+“ * * * subject to zoning restrictions of the Village of Indian Hill; and that portion of the above premises, not in the Village of Indian Hill, Ohio, is subject to the zoning regulations governing the adjacent portion of said premises in said Village in the same manner, and with the same force and effect, as if said portion not in said Village were in the Village of Indian Hill, Ohio.”
+Deed 7
+“ * * * subject to the zoning restrictions of the Village of Indian Hill, Ohio, which are, or may in the future be, applicable to the land of the Grantor herein in said Village of Indian Hill, which land lies nearest west of the above-described premises[.]"
+. The sanitaiy-sewer restriction contained in each deed provides in part:
+"As part of the consideration for this conveyance, the Grantee, for herself, her heirs and assigns, [her successors and assigns in trust,] covenants and agrees with the Grantor, his heirs and assigns, for the benefit of said Grantor, his heirs and assigns, and every other person who is, shall or may become the owner of, or have any title derived immediately or remotely from, through or under said Grantor, his heirs and assigns, to any tract or parcel of land now or heretofore belonging to the Grantor herein in the vicinity, known as Peterloon Farm, as follows:
+"1. Any sanitary treatment system which shall be installed on the premises hereinafter described shall consist of a settling tank and an adequate filtration bed for secondary treatment^] * * *
+« * * *
+"4. John J. Emery agrees to insert similar restrictions in all other deeds from him to any tract or parcel of land in said Peterloon Farm[.] * * *
+“5. These restrictive covenants shall run with the land until such time as an adequate sanitary sewer main is available and is connected to serve the premises hereinbefore described * *
+
+## Dissent (Utz, Judge,)
+
+Utz, Judge,
+dissenting.
+I respectfully dissent because I believe the trial court erred in holding that the grantor intended the “zoning” and “conveyance” restrictions to run with the land and that the grantor intended the restrictions to benefit all holders of Peterloon property as part of a general plan of development. The “zoning” and “conveyance” restrictions are set forth in the deeds separately from the sanitary-sewer restrictions which explicitly express the grantor’s intent that the sanitary-sewer restrictions are to run with the land and to benefit all Peterloon property holders. The “zoning” and “conveyance” restrictions are not set forth in such specific language. The inclusion of the explicit language in the sanitary-sewer restrictions and the exclusion of such language in the “zoning” and “conveyance” restrictions indicate the grantor’s intent that the “zoning” and “conveyance” restrictions are not to run with the land.
+In addition, I would hold that the only parcels which the grantor intended to benefit from the “zoning” and “conveyance” restrictions were the easternmost parcels of Peterloon property in Indian Hill which touch appellants’ Symmes Township property. By tying the “zoning” and “conveyance” restrictions of each Symmes township parcel to the zoning of an Indian Hill parcel, the grantor intended only to benefit those Indian Hill parcels specifically set forth in the deeds. This was clearly done to protect the easternmost Indian Hill property from neighboring development on one-half acre lots. Because appellants own all of the easternmost Indian Hill property touching the Symmes Township property in question, appellees have no standing to enforce the restrictions.
+Finally, the character of the property has changed so that the restrictions are no longer of any value. The Symmes Township property is surrounded by single-family residences built on one-half-acre lots. Further, non-Peterloon property in Symmes Township which borders Indian Hill Peterloon property is developed on one-half-acre lots. There is no evidence in the record that the “zoning” and “conveyance” restrictions are of any value to appellees’ property; there being no value, there is no detriment. Therefore, I must conclude the judgment of the trial court should be reversed.
