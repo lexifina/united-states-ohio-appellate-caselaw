@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "15926"
+decided: "1993-06-30"
+citations: ["88 Ohio App. 3d 443"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cook, P.J., and Quillin, J., concur."]
+parties: ["BECK et al., Appellants, v. SPRINGFIELD TOWNSHIP BOARD OF ZONING APPEALS et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/88/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1696709
+cites_cases: ["10 O.O.2d 85", "116 N.E.2d 697", "160 Ohio St. 382", "163 N.E.2d 682", "170 Ohio St. 127", "28 OBR 107", "28 Ohio App.3d 66", "341 N.E.2d 298", "38 Ohio App.3d 16", "45 Ohio St.2d 47", "456 N.E.2d 516", "502 N.E.2d 222", "52 O.O. 242", "525 N.E.2d 836", "573 N.E.2d 1230", "60 Ohio App.3d 152", "74 O.O.2d 79", "8 OBR 120", "8 Ohio App.3d 87"]
+---
+
+# Beck v. Springfield Township Board of Zoning Appeals
+
+## Majority (Reece, Judge.)
+
+Reece, Judge.
+Plaintiffs-appellants, James and Linda Beck (“Becks”), appeal the trial court’s judgment upholding the decision of the defendant-appellee, Springfield Township Board of Zoning Appeals (“board”), to deny their application to construct mobile homes. We affirm.
+The Becks own an 18.043-acre parcel of land which is zoned residential in Springfield Township. Some mobile homes have been located on this parcel since prior to the enactment of the Springfield Township Zoning Resolution, making the mobile homes a nonconforming use. Becks’ predecessors in interest were permitted to add thirty-six mobile homes in 1966. In all, approximately twelve of the eighteen acres are used for the mobile home park.
+The Becks applied for a zoning certificate to construct thirty-four additional mobile homes on the remaining six undeveloped acres. On November 19, 1991, the board denied the application based on Section 1001.2 of the township zoning resolution. This section prohibits the extension of a nonconforming use. It provides:
+“The lawful use of any building or land existing at the effective date of this Resolution or amendments thereto, may be continued provided there is no alteration or addition to any structure nor any enlargement of area, space or volume occupied by or devoted to such use except as otherwise provided for in this Resolution.”
+The Becks timely appealed this decision to the Summit County Common Pleas Court. While the appeal was pending, a group of surrounding property owners was granted permission to intervene as appellees. The Common Pleas Court affirmed the board’s decision. The Becks appeal raising four assignments of error.
+Assignment of Error No. I
+“The board of zoning appeals committed error prejudicial to the rights of appellants by making its decision ‘based solely on Mr. Sugerman’s explanation’ without placing Mr. Sugerman’s explanation in the record or the taking of oral testimony.”
+At the end of the hearing before the board, one of its members moved the board to deny the Becks’ application based on the board’s attorney’s, Irving Sugerman’s, explanation of the township zoning resolution. The Becks argue that this explanation was not made a part of the record; however, the transcript before the board shows that Sugerman gave his interpretation of the portion of the zoning resolution concerning the extension of nonconforming uses at the hearing. This explanation is included in the transcript and is part of the record. It is clear that Sugerman advised the board that Section 1001.2 of the zoning resolution did not allow for the expansion of a nonconforming use on a single lot. As we find Sugerman’s explanation in the record, the Becks’ first assignment of error is without merit.
+Assignments of Error Nos. II, III and IV
+“The action of the board of zoning appeals constitutes a taking of property without due process of law under the Ohio and United States Constitutions to the prejudice of the owners.”
+“The judgment of the court below affirming the decision of the board of zoning appeals denying appellants a zoning certificate is arbitrary, capricious, unreasonable, unconstitutional and contrary to law.”
+“Article X of the Springfield Township Zoning Resolution dealing with nonconforming uses is unlawful to the extent it is in conflict with Section 519.19 of the Revised Code.”
+We shall combine these assignments for purposes of analysis. The Becks assert that Ohio law permits the expansion of a nonconforming use on the original lot where it was located, and that the board erred by relying on its zoning resolution to deny their application. We disagree.
+Local governments may prohibit the expansion, or substantial alteration of a nonconforming use, in an attempt to eradicate that use. Hunziker v. Grande (1982), 8 Ohio App.3d 87, 89, 8 OBR 120, 122, 456 N.E.2d 516, 518, citing Akron v. Chapman (1953), 160 Ohio St. 382, 52 O.O. 242, 116 N.E.2d 697. Those uses may even be regulated to the point they “wither and die.” Hunziker, 8 Ohio App.3d at 89, 8 OBR at 122, 456 N.E.2d at 519, citing Columbus v. Union Cemetery (1976), 45 Ohio St.2d 47, 49, 74 O.O.2d 79, 80, 341 N.E.2d 298, 300-301. Owners are permitted to continue a nonconforming use based on the recognition that one should not be deprived of a substantial investment which existed prior to the enactment of the zoning resolution. Curtiss v. Cleveland (1959), 170 Ohio St. 127, 132, 10 O.O.2d 85, 87, 163 N.E.2d 682, 686. However, it is recognized that nonconforming uses are not favorites of the law. Kettering v. Lamar Outdoor Advertising, Inc. (1987), 38 Ohio App.3d 16, at 18, 525 N.E.2d 836, at 839, states:
+“The reason for their [nonconforming uses] disfavored position is clear: if the segregation of buildings and uses, which is the function of zoning, is valid because of the beneficial results which this brings to the community, to the extent this segregation is not carried out, the value of zoning is diminished and the public is thereby harmed. Nonconforming uses are allowed to exist merely because of the harshness of and the constitutional prohibition against the immediate termination of a use which was legal when the zoning ordinance was enacted.”
+Thus, we find ample authority for a local government’s power to prohibit the extension of a nonconforming use. R.C. 519.19 grants township trustees the discretion to provide for the “completion, restoration, reconstruction, extension, or substitution of nonconforming uses upon such reasonable terms as are set forth in the zoning resolution.” The trustees’ ability to provide for the extension of such uses includes the authority to enact a blanket refusal of their expansion. Accordingly, we find that Section 1001.2 of the Springfield Township Zoning Resolution, which prohibits the expansion of a nonconforming use, is not in conflict with R.C. 519.19. Accordingly, the Becks’ fourth assignment of error is without merit.
+Likewise, their third assignment of error is not well taken. The Becks assert that they are permitted by existing case law to expand their nonconforming use to the entire lot. However, the cases they cite all allowed expansion of a nonconforming use based on the language of that particular local zoning ordinance. Springfield Township’s zoning resolution prohibits expanding the area on which a nonconforming use is located. Accordingly, the board’s decision to follow the township’s resolution was not arbitrary, capricious or unreasonable.
+The Becks assert that the board’s denial of their application to build mobile homes is a taking of this property without due process of law. While a zoning ordinance is presumed constitutional, such a regulation that effectively makes a landowner’s property valueless without any corresponding public benefit can constitute an unconstitutional taking. Schreiner v. Russell Twp. Bd. of Trustees (1990), 60 Ohio App.3d 152, 155, 573 N.E.2d 1230, 1232. In this case, the Becks have not shown that the remaining six acres of land is valueless. While they cannot use it for mobile home sites, they have not established that it has no value as residential property. It is incumbent upon the Becks to prove that an unconstitutional taking occurred and they have not met this burden. Clark v. Woodmere (1985), 28 Ohio App.3d 66, 67, 28 OBR 107, 108, 502 N.E.2d 222, 224. Their second assignment of error is overruled.
+The trial court’s judgment is affirmed.
+Judgment affirmed.
+Cook, P.J., and Quillin, J., concur.
