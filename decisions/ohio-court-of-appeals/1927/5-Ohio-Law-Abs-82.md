@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7805"
+decided: "1927-02-02"
+citations: ["5 Ohio Law Abs. 82"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Levine, PJ., concurs in judgment. (Vickery, J., not sitting)."]
+parties: ["KOHLER v. STATE ex GOLDSTEIN"]
+source_url: "https://static.case.law/ohio-law-abs/5/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8752977
+cites_cases: ["11 Ohio, 63", "19 OS. 581", "75 OS. 76"]
+---
+
+# Kohler v. State ex rel. Goldstein
+
+## Majority (SULLIVAN, J.)
+
+SULLIVAN, J.
+This cause is an action for a peremptory writ of mandamus, and is in the nature of a test case involving the determination of numerous cases of like character, and the question involved is the power of the Commissioner of Insolvents, under sections 11148 to 11155 inclusive of the Insolvency Debtors Act of the Code of Ohio to discharge, upon hearing, from imprisonment in the County Jail, persons who have been convicted in Magistrates Courts for violation of the liquor laws under Section 6212-17 of the General Code of Ohio.
+It appears from the recqrd that the Sheriff of Cuyahoga County refused to discharge the defendant in error John Goldstein, upon the order of the Commissioner of Insolvents, after a hearing, in which it was determined that the prisoner was insolvent, notwithstanding that, under the sentence of a fine of $500 and to stand committed until the fine and costs are paid or otherwise discharged by law, sixty days had expired.
+It will be noted that Section 11150 provides that the benefit of the insolvency statutes shall be applied to persons who are imprisoned under process of a fine, penalty or costs- in a criminal proceeding, after an imprisonment for a period of sixty days, unless the judgment in the case requires imprisonment until -the fine, penalty or costs be paid.
+It is conceded in the record that the sentence contained the alternative that “ until the fine and costs are paid or security given for the payment thereof, or until otherwise discharged according to law.” The defendant in error insists that under the Insolvency Debtors Act, the Commissioner of Insolvents, acting in accordance with the statutes, declared the prisoner insolvent and thus, under that statutory power, this order became a discharge of the prisoner, and that therefore the language of the sentence, to-wit “or otherwise discharged according to law”, became applicable to the defendant, and that the same is consistent with the sentence itself.
+It is true that under sections 6212-13 and 1612-20 the following clause is in the law, to-wit: “No fine or part thereof imposed hereunder shall be remitted nor shall any sentence imposed hereunder be suspended in whole or in part thereof.”
+It cannot be said that the action of the Insolvency Commissioner is in contravention of this clause, for the reason that the language pertains strictly to the functions of the court, as in the nature of the case it is the court that imposes, remits, or suspends the fine or sentence, and therefore, we think this language is confined strictly to the magistrate, .and has no applicability to the Commissioner of Insolvency, which officer in the case at bar conced-edly acted in accordance with the statutes defining his powers and his duties in the premises.
+It is clear from the record that the prisoner served time in the County Jail for more than sixty days, to-wit, from February 1296 to July 1926, and there is no question raised but that the prisoner proceeded regularly in complying with the statutes regulating insolvents, and it further appears that after the hearing he was given a certificate of discharge and ordered released from the custody of the Sheriff, who thereupon refusing to obey the mandadte of the Commissioner of Insolvency, continued to hold the prisoner.
+The Indigent Prisoners Act provides for the parol of a prisoner, but he must obtain the unanimous consent of the County Prosecutor, the Sheriff, County Commissioners and the committing magistrate. If the Sheriff, under this act, should refuse to approve the action of his co-officials, the prisoner must remain in jail, and there is no remedy for his release excepting through the action of the Commissioner of Insolvents, such as appears in the case at bar.
+It is argued that the principle of imprisonment for debt does not apply in the instant case, for the reason that the fine and costs may be discharged by a credit allowance given the prisoner, which in time would release him by its full payment in that manner. Under circumstances such as these, however, it is obvious that the insolvent debtor for that reason alone would suffer a period of imprisonment for no other reason except insolvency that would, under the constitution and laws for the offense committed, be excessive in its character. It cannot be denied however, that such a situation vitally partakes of that obnoxious doctrine which has been practically swept from our law, that compels a person to suffer imprisonment in the County Jail for debt.
+It is claimed by the State that the fine and costs imposed in the case at bar, are penalties and not an indebtedness, but this interpretation we think does violence to Section 11150 of the General Code which it uses such language as “is applicable to a person who is imprisoned under process of a fine, penalty, or costs in a criminal proceeding.”
+As to the question of the right of the Magistrate to impose a sentence of the character at bar, we cite Section 13717 of the General Code, which provides as to misdemeanors in general, that the court may order that the person sentenced remain imprisoned in jail until such fine and costs are paid or secured to be paid, or is otherwise legally discharged.
+Attorneys — E. C. Stanton, Esq., Selmo C. Glenn, Esq., for Kohler; Alfred L. Steuer, Esq., for State ex; all of Cleveland.
+This position of the court is corroborated by the case of Hamilton vs. State of Ohio and Clark vs. State of Ohio, 75 OS. 76, and attention is called to the third paragraph of the syllabus.
+Applicable to the facts at bar we think is the case of Ex parte, Scott, reported in 19 OS. 581. It was held in that case that mandamus would lie to release a prisoner who has fully complied with the rules regarding insolvent debtors, after he had been imprisoned a period of sixty days.
+The Scott case, supra, cites the 2nd Ohio 327 and 11 Ohio, 63, and reading from one of the paragraphs we find the following:
+‘The act of' February 1, 1853, is a mere modification of penalties prescribed for certain offenses. The act is constitutional and entitles the applicant to be taken before the commissioner and to be discharged on compliance with the provision of the acts for the relief of insolvent debtors. We think, however, that the more convenient and appropriate remedy is by mandamus.”
+It is contended that Section 4129 and Section 4141 of the General Code of Ohio apply, but we do not agree with able counsel for the State in this respect, as those statutes, in our opinion, refer to workhouses and not jails, and in consonance with this view, we- find, in referring to Section 11150 of the General Code relating to insolvent debtors, that it excepts prisoners confined in workhouses established by municipal corporations.
+We take judicial notice of the fact that the Governor of the State has officially directed the attention of the Legislature to the immediate necessity for the relief not only of the Indigent and Insolvent debtors that are now serving terms of imprisonment in Ohio Jails; simply because they are in debt, but for the purpose of relieving the State from the economic burden of sustaining at a vast expense these persons so imprisoned, after they become subject to the benefits established by law in their favor, and in behalf of the welfare of the State by the exercise of the humane provisions of the Insolvent Debtors Act, through the agency of the Commissioner of Insolvents.
+Holding these views, the judgment of the lower court is hereby affirmhd and the court orders the issuance of the writ of mandamus as prayed for in the petition, and discharges the relator John Goldstein.
+Levine, PJ., concurs in judgment. (Vickery, J., not sitting).
