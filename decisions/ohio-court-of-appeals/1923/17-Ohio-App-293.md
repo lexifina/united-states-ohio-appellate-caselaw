@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1923-02-16"
+citations: ["17 Ohio App. 293"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cushing and Buchwalter, JJ., concur.", "Judges of the First Appellate District, sitting in place of Judges Kunkle, Allread and Ferneding, of the Second Appellate District."]
+parties: ["The Dayton, Covington & Piqua Traction Co. v. Boswell, by etc."]
+source_url: "https://static.case.law/ohio-app/17/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1847302
+cites_cases: ["49 Ohio St., 230", "55 Ohio St., 342", "87 Ohio St., 187"]
+---
+
+# Dayton, Covington & Piqua Traction Co. v. Boswell
+
+## Majority (Hamilton, J.)
+
+Hamilton, J.
+The action below was brought by defendant in error, through his next friend, to recover for personal injuries.
+It appears that Robert Boswell, a boy, thirteen years of age, was riding west on a bicycle on Herman avenue in the city of Dayton, Ohio, and came to the intersection of Herman and Main streets. At the intersection he turned southwardly on Main street to the right hand side of the street, and rode some three or four feet from the street car tracks of the plaintiff in error. At a point about seventy or eighty feet south of the intersection an automobile, which had been standing alongside the west curb of Main street, started to back into the street, as the boy approached; to avoid the automobile, he angled on his bicycle toward the track of the Traction Company. The car of plaintiff in error was approaching southwardly, and at the time of the turning out of the boy toward the tracks of the Traction Company, to avoid the automobile, the car of the Traction Company was about thirty to thirty-five feet away, and, as testified to by the motorman, was running very slowly and could be stopped within eight feet.
+The motorman testified that he saw the automobile back out from the curb, but did not see the boy. The car of the Traction Company did not stop, and, as the boy approached the oar tracks, it struck the handle bar of his bicycle, throwing him under the car. The boy’s foot was run over and crushed by the oar, and the injury resulted in the loss of his foot.
+The boy had turned out to avoid the automobile, without looking back to see if a car was coming, and it is testified that no signal or alarm or gong was given by the motorman of the traction car.
+The facts were alleged and evidence introduced at the trial under which it was claimed by plaintiff below that he was entitled to a submission of the question to the jury of the rule known as “the doctrine of last clear chance.” The court charged fully on this question and submitted to the jury the proper rule relating to the doctrine. The court called the attention of the jury to the facts necessary to raise the question, the facts upon which the claim of the application of the rule is based, and the facts the jury must first find before applying the rule.
+The only question stressed by counsel for plaintiff in error in the brief is that the last-chance doctrine was not in the case and that it was error for the court to charge the jury on this question.
+On page 5 of the brief of plaintiff in error, counsel say:
+“The doctrine of last clear chance must be predicated on the few seconds it took Robert Boswell to ride a few feet before the handle bar of his bicycle hit the side of the traction car, and this after he had angled toward the tracks four feet in the rear of the automobile, although he was guilty of negligence in not stopping and not looking before approaching the tracks under the circumstances. ’ ’
+The rule is laid down in the case of Railroad Co. v. Kassen, 49 Ohio St., 230, and is expressed in the first paragraph of the syllabus:
+“It is a well settled rule of the law of negligence, that the plaintiff may recover, notwithstanding his own negligence exposed him to the risk of the injury of which he complains, if the defendant, after he became aware, or ought to have become aware, of the plaintiff’s danger, failed to use ordinary care to avoid injuring him, and he was thereby injured.”
+This rule ás stated in the Kassen case is applicable to the facts in the case under review, unless the doctrine cannot be raised in a case where but a few seconds intervene between the time of the cessation of the negligent act on the part of plaintiff and the beginning of the negligent act of the defendant.
+We are asked by plaintiff in error to say as a matter of law that the intervening of a short space of time under the circumstances would preclude the application of the doctrine. The rule is “failure to use ordinary care to avoid the injury.” Time may enter into the question of whether or not ordinary care was used, but that is a question for the jury, under proper instructions of the court.
+The trial court charged the jury that the doctrine of last chance controlled the decision of this case. It properly defined the rule. The court further charged the jury in the following words: “In other words, even though the motorman did see the boy and did not see him in time to have avoided the accident, by the exercise of reasonable care, the doctrine of last chance would not apply. * * * The doctrine of last chance will not apply if you find that the boy was primarily liable or primarily negligent, and that negligence continued, or was concurrent with the negligence of the defendant company.”
+The court also called the attention of the jury to the facts brought out in the evidence, bearing on the doctrine, and what facts would raise the question, and submitted to the jury whether facts had been established that would fairly present the question.
+The court further said in the charge:
+“In considering the application of the doctrine of last chance from the facts and circumstances of the case, you have a right to consider all of the measurements as well as other measurements to which the court has called your attention. * * * And, if, after considering all of these facts and circumstances, you feel that there are facts presented which enable you to apply the doctrine of last clear chance, you may do so. Of course the doctrine of last clear chance would not apply in this case if the plaintiff did not come in a position of peril and danger until after the motorman had passed him. In other words, if the motorman had passed the plaintiff, but the plaintiff through carelessness or negligence, or for any other reason indicating carelessness or negligence came in such close proximity to the traction car, so that the handle bar struck the car, and was thereby and therefrom precipitated under the car, the defendant company would not be liable.”
+The record discloses some evidence tending to show negligence on the part of the boy in getting into a position of peril. There is evidence tending to show that the car gave him no warning of its approach. There is also evidence tending to show that the car was thirty-five feet to the rear of the boy at the time he got in this position of peril, and that the car could stop within eight feet. The evidence shows that the boy on the bicycle was in the direct line of the vision of the motorman, as was also the automobile backing up, which the boy sought to avoid.
+The trial court, evidently from its charge, took the view that there were disputed facts, some of which would raise the question of the doctrine of last chance, and we are in agreement with the trial court on this question. We cannot sa.y as a matter of law that a few intervening seconds were not sufficient time for the defendant company to have avoided the accident. Nor under the facts of the case can we say as a matter of law that the negligence of the boy, if any, was concurrent with the negligence of the defendant and continuous and contemporaneous with the same.
+There is a further question in the case. The inference may well be drawn that the boy was in danger of being struck by the automobile backing out, and he was in a position betwixt two conflicting perils. The jury might well have found that under the circumstances the boy was not guilty of negligence in any manner; that under the circumstances he was justified in turning toward the oar tracks, without being negligent, to avoid injury from the automobile. Pennsylvania Rd. Co. v. Snyder, 55 Ohio St., 342, and Citizens Motor Car Co. v. Hamilton, 12 C. C., N. S., 381.
+Further, under the circumstances of the case, whether or not the boy was called upon to look back was a question for the jury. Steubenville & Wheeling Traction Co. v. Brandon, Admr., 87 Ohio St., 187.
+We find no prejudicial error in the record.
+Judgment affirmed.
+Cushing and Buchwalter, JJ., concur.
+Judges of the First Appellate District, sitting in place of Judges Kunkle, Allread and Ferneding, of the Second Appellate District.
