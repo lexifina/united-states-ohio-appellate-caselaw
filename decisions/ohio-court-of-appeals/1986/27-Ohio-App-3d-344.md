@@ -1,0 +1,91 @@
+---
+court: "Ohio Court of Appeals"
+docket: "49852"
+decided: "1986-02-24"
+citations: ["27 Ohio App. 3d 344"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nahra and Krupansky, JJ., concur."]
+parties: ["Superior Savings Association, Appellee, v. Cleveland Council of Unemployed Workers, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/27/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713230
+cites_cases: ["1 O.O. 2d 475", "10 O.O. 3d 18", "108 Ohio St. 61", "112 Ohio App. 272", "12 Ohio St. 3d 274", "21 O.O. 2d 180", "3 O.O.3d 360", "307 U.S. 496", "335 F.2d 114", "357 U.S. 449", "379 U.S. 536", "388 U.S. 307", "402 U.S. 611", "408 U.S. 92", "414 F. 2d 283", "428 U.S. 910", "447 U.S. 455", "452 U.S. 640", "454 U.S. 290", "458 U.S. 886", "461 U.S. 171", "49 Ohio St. 2d 219", "5 Ohio St. 3d 217", "519 F.2d 1236", "56 Ohio App. 2d 6", "58 O.O. 2d 481", "78 Harv.L.Rev. 994", "87 Ohio Law Abs. 100"]
+---
+
+# Superior Savings Ass'n v. Cleveland Council of Unemployed Workers
+
+## Majority (Jackson, P.J.)
+
+Jackson, P.J.
+Appellant Cleveland Council of Unemployed Workers (“CCUW”) appeals from a final order of the court of common pleas which granted injunctive relief in favor of ap-pellee Superior Savings Association (“Superior”). .
+The events which gave rise to the instant case occurred on the morning of November 20, 1984. A group of twenty or twenty-five demonstrators from CCUW entered the Superior branch at East 185 Street. Their avowed purpose was to indicate their displeasure with Superior’s policies regarding mortgage foreclosures in general, and in particular concerning the plight of a CCUW staff member who was confronted with such a mortgage foreclosure proceeding. They brought with them a table, chairs, signs, and banners. Once inside, the demonstrators set up the table and chairs, moved Superior’s furniture and rope aisles around, and posted a banner in the front window. They also sang songs, chanted, and demanded a meeting with the president of Superior, who was not present.
+No member of the Superior staff requested that the demonstrators leave. The police eventually arrived, and informed the CCUW group that if they had no banking business to transact, they could not remain in the lobby. Most of the demonstrators then moved outside, and began picketing on the public sidewalk adjacent to Superior’s offices. The police left, and later the demonstration broke up without further incident.
+Superior obtained a temporary restraining order against the CCUW, and filed a complaint seeking $25,000 in damages and a permanent injunction. A hearing was held, after which the court journalized the following final order:
+“This matter came on for hearing this 13th day of December, 1984, before the Honorable Harry Jaffe on the Motion of the Plaintiff for an order enjoining the Defendant from harassing the Plaintiff and/or its employees or customers, and the evidence, both parties being in attendance with counsel.
+“The Court finds the Motion well taken and hereby enjoins the Defendant from any acts intended to harass the Plaintiff or its employees or customers and further orders Defendant to limit to six (6) pickets present at any one time in the public area adjacent to the Plaintiff’s premises and further orders that said pickets shall not impede entrance or egress from Plaintiff’s place of business.”
+The CCUW appeals, and presents four assignments of error for review by this court.
+I
+“The portion of the injunction which limits to six the number of pickets' on the public sidewalk adjacent to plaintiff’s premises is an unreasonable restriction on protected First Amendment activi ty”
+CCUW’s argument is limited to the right of its members to picket on the public sidewalk outside .Superior’s office.
+We begin with the time-honored principle that:
+“ * * * Wherever the title of streets and parks may rest, they have immemorially been held in trust for the use of the public and, time out of mind, have been used for purposes of assembly, communicating thoughts between citizens, and discussing public questions.” Hague v. CIO (1939), 307 U.S. 496, 515 (opinion of Roberts, J.).
+Included in the category of public forum property are sidewalks:
+“ * * * Sidewalks, of course, are among those areas of public property that traditionally have been held open to the public for expressive activities and are clearly within those areas of public property that may be considered, generally without further inquiry, to be public forum property.” United States v. Grace (1983), 461 U.S. 171, 179.
+Picketing on a public sidewalk is expressive behavior which is protected under the First Amendment. Police Dept. of Chicago v. Mosley (1972), 408 U.S. 92.
+First Amendment protection is not unlimited, however.
+“ * * * The rights of free speech and assembly, while fundamental in our democratic society, still do not mean that everyone with opinions or beliefs to express may address a group at any public place and at any time. The constitutional guarantee of liberty implies the existence of an organized society maintaining public order, without which liberty itself would be lost in the excesses of anarchy.” Cox v. Louisiana (1965), 379 U.S. 536, 554.
+Such limits as are necessary may be imposed by injunction.
+“The right to picket is not absolute. It must be ‘asserted within the limits of not unreasonably interfering with the rights of others to use the sidewalks and streets, to have access to store entrances, and where conducted in such manner as not to deprive the public of police and fire protection. Kelly v. Page, 5 Cir., 1964, 335 F.2d 114, 119. These interests can, of course, be protected by state injunctions narrowly drawn.” Machesky v. Bizzell (C.A. 5, 1969), 414 F. 2d 283, 290.
+In the case at bar, the trial court limited the number of pickets on the sidewalk to six, and placed some restrictions on the conduct of the demonstrators. Those limitations were based upon evidence of the prior disturbance inside the bank. There was no evidence of additional disruption outside, after the CCUW demonstrators were escorted from the bank by the police.
+Ohio courts have in the past limited the number of pickets that will be allowed in any certain area. See, e.g., GMC, Inc. v. Chrisofolli (1978), 56 Ohio App. 2d 6 [10 O.O. 3d 18]; Liberty Mfg. Corp. v. United Steelworkers of America (App. 1961), 87 Ohio Law Abs. 100 [21 O.O. 2d 180]. Such action evinces a purpose to minimize the likelihood of further disturbances and/or violence, while respecting the right of the protesters to advertise their grievances, albeit in reduced ranks.
+A court has discretion in framing an injunctive order, and may act within the latitude implied by that discretion. Richmond Hts. v. Bd. of Cty. Commrs. (1960), 112 Ohio App. 272 [1 O.O. 2d 475]. As long as picketing is not forbidden entirely, the court’s discretion in limiting the number of pickets will generally be upheld. See, generally, LaFrance Electrical Constr. & Supply Co. v. Internatl. Bhd. of Electrical Workers (1923), 108 Ohio St. 61, 86-87. See, also, Heffron v. Internatl. Soc. for Krishna Consciousness, Inc. (1981), 452 U.S. 640, 662 (Brennan, J., concurring in part and dissenting in part):
+“ * * * If the State felt it necessary to limit the number of persons distributing an organization’s literature, it could, within reason, have done that as well.” (Footnote omitted.)
+Based on the evidence in the record, this court cannot conclude that the trial court’s order limiting the number of CCUW pickets to six was unreasonable, arbitrary, or unconscionable. Therefore, we find no abuse of discretion on the part of the court below. See Blakemore v. Blakemore (1983), 5 Ohio St. 3d 217, 219.
+CCUW argues, however, that the commotion inside the bank had no bearing on the picketing outside which followed immediately after the intervention of the police. This court is not persuaded that there must be separate and distinct evidence of additional tumult on the sidewalk in order to warrant injunc-tive relief.
+Nor do we agree that this issue is controlled by N.A.A.C.P. v. Claiborne Hardware Co. (1982), 458 U.S. 886. In the Claiborne Hardware Co. case, the Supreme Court held that an individual could not be held liable in damages for the violent acts of certain group members, when the basis for liability was the individual’s mere association with the group. We do not interpret Claiborne Hardware Co. to foreclose the injunctive order at issue in the case at bar.
+Finally, CCUW contends that by limiting the number of pickets, the trial court also limited CCUW’s ability to attract media attention to its cause, and limited the impact that the protesters would have on the public’s perception. Certainly this contention has some validity:
+“Effective advocacy of both public and private points of view, particularly controversial ones, is undeniably enhanced by group association, as this Court has more than once recognized by remarking upon the close nexus between the freedoms of speech and assembly.” N.A.A.C.P. v. Alabama, ex rel. Patterson (1958), 357 U.S. 449, 460; see, also, Citizens Against Rent Control/Coalition For Fair Housing v. Berkeley (1981), 454 U.S. 290.
+However, the right to assemble and air grievances must be exercised responsibly. Based on the evidence of disruption at the Superior office, the trial court was justified in limiting the number of pickets who would be permitted to participate in future demonstrations there.
+Appellant’s first assignment of error is accordingly overruled.
+II
+“The portion of the injunction which limits to six the number of pickets on the public sidewalk adjacent to plaintiffs premises is unconstitutional because it is a content-based restriction on speech.”
+It is axiomatic that:
+“ * * * under the Equal Protection Clause, not to mention the First Amendment itself, government may not grant the use of a forum to people whose views it finds acceptable, but deny use to those wishing to express less favored or more controversial views.
+*****
+“ * * * Once a forum is opened up to assembly or speaking by some groups, government may not prohibit others from assembling or speaking on the basis of what they intend to say.” Police Dept. of Chicago v. Mosley (1972), 408 U.S. 92, 96; see, also, Carey v. Brown (1980), 447 U.S. 455.
+In Mosley, supra, the Supreme Court found unconstitutional an ordinance which forbade picketing within one hundred-fifty feet of a school building but exempted pickets involved in labor disputes.
+Apparently, appellant CCUW’s contention with regard to this second assignment of error is that the injunction issued by the court of common pleas is not content-neutral because it only applies to limit the activities of the CCUW, and exempts other groups such as “Girl Scouts or Salvation Army members” who may want to use the sidewalk in front of Superior’s office.
+From our discussion above, it follows that a trial court, upon a sufficient evidentiary showing of unprotected disruptive activities, could properly issue an appropriate injunctive order against the Girl Scouts, or the members of the Salvation Army.
+Appellant’s second assignment of error is without merit.
+Ill
+“The portion of the injunction which prohibits CCUW from any acts intended to harass the plaintiff or its customers or employees is overly vague and ambiguous.
+“A. The Injunction Against Acts Intended To Harass Is Overly Vague And Ambiguous In Violation Of The First Amendment To The Constitution Of The United States.
+“B. The Injunction Against Acts Intended To Harass Violates Rule 65(D) Of The Ohio Rules Of Civil Procedure.”
+Civ. R. 65(D) provides as follows:
+“Form and scope of restraining order or injunction. Every order granting an injunction and every restraining order shall set forth the reasons for its issuance; shall be specific in terms; shall describe in reasonable detail, and not by reference to the complaint or other document, the act or acts sought to be restrained; and is binding upon the parties to the action, their officers, agents, servants, employees, attorneys and those persons in active concert or participation with them who receive actual notice of the order whether by personal service or otherwise.”
+The rule requires that an injunctive order be “specific and detailed enough to give * * * adequate notice of the requirements imposed * * * and * * * not too vague to be understood.” State, ex rel. Fraternal Order of Police, v. Dayton (1977), 49 Ohio St. 2d 219, 223 [3 O.O.3d 360]; see, also, Local 4501 v. Ohio State Univ. (1984), 12 Ohio St. 3d 274, 278-279 (William B. Brown, J., dissenting); 11 Wright & Miller, Federal Practice & Procedure (1973) 536-537, Section 2955: “The drafting standard established by [federal] Rule 65(d) is that an ordinary person reading the court’s order should be able to ascertain from the document itself exactly what conduct is proscribed.”
+Appellant argues that the language “any acts intended to harass the Plaintiff or its employees or customers” is “too vague to be understood.” In support of its position appellant cites Coates v. Cincinnati (1971), 402 U.S. 611 [58 O.O. 2d 481], in which the Supreme Court struck down a municipal ordinance which made it a criminal offense for three or more persons to assemble in certain public places “and there conduct themselves in a manner annoying to persons passing by, or occupants of adjacent buildings.” Id. at 611, fn. 1. The Coates court explained that “[t]he First and Fourteenth Amendments do not permit a State to make criminal the exercise of the right of assembly simply because its exercise may be ‘annoying’ to some people.” Id. at 615. The required standard of conduct was unascer-tainable because “[c]onduct that annoys some people does not annoy others.” Id. at 614.
+The case at bar is, however, distinguishable from Coates, not only because the instant case involves a court-ordered injunction rather than municipal legislation, but also because the injunctive order in the case at bar specifically includes a mens rea element which was fatally lacking in the Cincinnati ordinance. The common pleas court enjoined appellant from conduct “intended to harass the Plaintiff or its employees or customers.” (Emphasis added.) Thus, the mere fact that a Superior employee, for example, may feel himself harassed would be insufficient to sustain a contempt citation against CCUW, absent a specific finding of intent.
+This court therefore finds that the language used in the injunction is not too vague to be understood, Civ. R. 65(D), nor does the injunction'fail to specify an ascertainable standard of conduct, Coates, supra. Accordingly, appellant’s third assignment of error is overruled.
+IV
+“The part of the injunction which prohibits CCUW from any acts intended to harass the plaintiff or its customers or employees violates the First Amendment to the United States Constitution because it is a regulation of speech which is overbroad.”
+The doctrines of vagueness and overbreadth are conceptually related. See Tribe, American Constitutional Law (1978), Section 12-28. The difference between them, in the context of injunction orders at least, has been explained by one court as follows:
+“Analytically, the broadness of an injunction refers to the range of proscribed activity, while vagueness refers [to] the particularity with which the proscribed activity is described. Developments in the Law — Injunctions, 78 Harv.L.Rev. 994, 1064 (1965). ‘Vagueness’ is a question of notice, i.e., procedural due process, and ‘broadness’ is a matter of substantive law. See Wright & Miller, Federal Practice & Procedure § 2953 at 546-47 (1973). * * * ” United States Steel Corp. v. United Mine Workers of America (C.A. 5, 1975), 519 F.2d 1236, 1246, fn. 19, certiorari denied (1976), 428 U.S. 910.
+Thus, in Coates, supra, the court held that the ordinance was “unconstitutionally vague because it subjects the exercise of the right of assembly to an unascertainable standard, and unconstitutionally broad because it authorizes the punishment of constitutionally protected conduct.” Coates, supra, at 614.
+Appellant herein argues that the injunction is overbroad because “virtually everything CCUW might want to do — picketing, leafletting, petitioning, calling — could be viewed as ‘harassment’ prohibited by this injunction.” Perhaps such acts could be viewed as harassment, but, after all, we are concerned here with an injunction that specifically enjoins acts intended to harass. The intent language is not mere surplusage. Consequently, the various forms of conduct listed by appellant do not fall within the ambit of the injunction unless they are motivated by an intent to harass the persons listed therein. When motivated by a desire to peaceably inform, persuade, or inspire, for instance, such acts are not prohibited.
+Properly construed, the injunction issued below is not impermissibly broad. Appellant’s fourth assignment of error therefore is not well-taken.
+The appellant’s assignments of error are overruled. The judgment of the court of common pleas is affirmed.
+Judgment affirmed.
+Nahra and Krupansky, JJ., concur.
+Appellant has not violated- the injunction and, therefore, this is not a review of a contempt conviction. Cf. Walker v. Birmingham (1967), 388 U.S. 307.
+If the record in this case were devoid of evidence of prior disturbances, this writer would certainly be inclined to rule the trial court’s limitation an abuse of discretion. But such is not the case here.
+Compare the culpable mental state requirements in the following Ohio criminal statutes (emphasis added):
+R.C. 2917.01 (inciting to violence):
+“(A) No person shall knowingly engage in conduct designed to urge or incite another to commit any offense of violence * *
+R.C. 2917.11 (disorderly conduct):
+“(A). No person shall recklessly cause inconvenience, annoyance, or alarm to another * * *
+R.C. 2917.21 (telephone harassment):
+“(A) No person shall knowingly make or cause to be made a telephone call, or knowingly permit a telephone call to be made from a telephone under his control, to another, if the caller does any of the following:'
+<<# * *>)
