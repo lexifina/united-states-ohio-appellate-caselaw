@@ -1,0 +1,26 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1916-12-20"
+citations: ["28 Ohio C.C. Dec. 347"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Toledo Residence Local Option Petition."]
+source_url: "https://static.case.law/ohio-cc-dec/28/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8817304
+---
+
+# In re Toledo Residence Local Option Petition
+
+## Majority (BY THE COURT,)
+
+BY THE COURT,
+On the hearing of the above matter before the Honorable John P. Mantón, judge of the court of common pleas, it was. found and determined that the petition was sufficient. Informal written application has been made to this court by certain qualified electors opposing the petition, for leave to file a petition in error to reverse said judgment, under Sec. 6164 G. C.. This written application specifies five claimed grounds of error,, and a copy of the same has been furnished to counsel for the petitioners. We have heard arguments from counsel on both sides on the motion for leave to file this petition in error and will briefly announce the conclusions of the court.
+First. It appears from, the application made herein that after the petition which was heard and decided had been filed with the judge of the court of common pleas, and while the same was on hearing before said judge, a second so-called dry petition was filed with a judge of said court, and it is contended that, by virtue of the language contained in Sec. 6145 G. G., the judge was obliged to hear and examine said second petition and to decide as to the sufficiency thereof before disposing of, or attempting to dispose of, the first petition. This second petition does in fact contain the names of a greater number of resident electors than the first petition. The judge before whom the first petition was pending having begun the hearing thereon and the same having proceeded for substantially a week, was not required to suspend the héaring or delay the decision thereof and take up the hearing of the second petition which had been filed. There is no evidence in the case of any undue haste in proceeding with the hearing under the first petition. A petition is not pending within the meaning of the above section until it is filed and publication thereof made, and even then the pendency of such second petition will not justify the suspension of the hearing or decision of a prior petition if the hearing thereof was commenced before the second petition ■was pending.
+Second. The second claimed error is that the publication of the first petition was insufficient, notice thereof having been published in the Toledo Blade and in the Toledo News-Bee. The object of the publication is to give notice to the public of the pendency* and prayer of the petition. We hold that the publication in the papers above named was a substantial compliance with the statute.
+Third. Section 6152 G. C., provides that the judge shall ■cause a certified copy, or certificate of his findings, together with the original petition, to be filed with the clerk of the municipal corporation or council in not more than forty days after the filing of the petition with him. By reason of the large number of witnesses to be examined, the trial on this first petition was not completed within the time specified, and it is insisted that after the time had elapsed the judge was without power to render his decision. The statute referred to is intended to expedite the disposition of controversies arising on such petitions, but the requirement for the filing of a certificate of the decision is directory only and not mandatory.
+Fourth. The fourth contention is that the judge erred in holding the boundary lines given in the petition sufficient, it being claimed that the territory was not in all respects bounded by a street, corporation or other well recognized lines or boundaries. In one instance the line was a prolongation or projection of a street beyond the terminus of such street. We hold the petition is not fatally defective in this respect. The boundary as given is sufficiently definite to have conveyed the property if the description given were embraced in a deed thereof.
+Under this same heading it is urged that vacant property, on or in front of which were placed bill-boards of a corporation ■engaged in outdoor advertising, should be counted as business frontage. The judge before whom the petition was pending held that such frontage could not be considered as business frontage. In so holding he committed no error.
+Fifth. The fifth and last specification of error is based on the contention that with respect to substantially one hundred and fifty names on the petition, the only evidence as to the term of residence in the district consisted of the registers of ejectors. It appears that the registers for that district for the years 1915 and 1916 were introduced in evidence. The judge before whom the petition was heard held that these registers were competent and sufficient evidence to make a prima fade ease of residence within the district for the statutory period. “We hold that the judge in so ruling committed no error.
+No good cause being shown for granting the motion for leave to fife a petition in error, the same will be denied.
