@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "11,794"
+decided: "1931-06-22"
+citations: ["10 Ohio Law Abs. 92"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LEVINE, PJ, and VICKERY, J, concur."]
+parties: ["FRYE, Receiver v MacWILSON, et"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 896983
+cites_cases: ["106 Conn. 159"]
+---
+
+# Frye v. MacWilson
+
+## Majority (WEYGANDT, J.)
+
+WEYGANDT, J.
+In view of the foregoing recital of facts it is unnecessary for this court to comment upon the claims of the receiver as to the alleged fraud on the part of defendants in error or their indebtedness to the company on unpaid stock subscriptions. It will be sufficient to discuss the contention of defendants in error that as a matter of law a chattel mortgagee, or his assignee, is entitled to possession of the mortgaged property immediately upon default in payment. This is, of course, the general rule, but it is not without its limitations. The' law seems to be that the apopintment of a receiver for the mortgagor may or may not affect this right. It seems to be clear that although such a receivership, is ordinarily not permitted to interfere with the priority of the mortgage lien, it, may quite properly affect the method by which such lien may be asserted, especially in cases in which the evidence does not show that the value of the mortgaged property is less than the unpaid portion of the debt. In other words the mortgagee may be required to file his claim with the receiver and allow the property to remain in custodia legis so that the receiver may have the opportunity of attempting to effect a sale for an amount in excess of the mortgage debt and thereby realize something for the benefit of other creditors as well as paying in full any valid claim of the mortgagee.
+Section 420 in High on Receivers contains the following general statement:
+“As against mortgagees of chattels, equity will extend the aid of a receiver upon the application of judgment creditors, if by reason of the fraudulent conduct of the mortgagee, or otherwise, such interference is necessary to protect the rights of all parties in interest. For example, when judgment creditors have reduced their claims to judgment and have levied upon a stock of goods in the debtor’s possession, they are entitled to an injunction and a receiver to take charge of the stock, as against the debtor and a third person claiming the goods as mortgagee, upon a bill alleging that the goods claimed to be covered by the mortgage are more than sufficient to pay the mortgage debt, and the debtor has no other property out of which the judgment may be satisfied; the bill also alleging that the mortgagee has permitted the debtor -to use and dispose of the' goods mortgaged, and that a portion of the stock levied upon is not covered by the. mortgage. So when a mortgagee of chattels in possession, having sold part, and occupying as to the residue the position of a trustee for other creditors, is about to dispose of the residue to the prejudice of a judgment creditor of the mortgagor or original debtor, a receiver may be appointed to take the proceeds of the unsold property, for the purpose of protecting the rights of all parties in interest.”
+In Section 1118 of the more recent work of Lawrence on Equity Jurisprudence appears the following:
+“As to all assets lawfully within the receiver’s possession or control, the court will protect his custody and authority against all interference, requiring all claimants of liens, interests or rights therein to submit their claims to the receivership court. Any interference with the receiver’s possession, or the bringing of a suit in another tribunal to recover possession of assets in his hands, without the consent of the appointing court, or even a refusal to surrender possession when the court has jurisdiction of the person and the subject matter is in the nature of contempt. Even paramount tax liens mús.t be enforced in the receivership proceeding rather than by ulterior process. Property in his hands is not subject to 'attachment or levy.”
+No Ohio authority is cited on the precise point involved, but in the fourth syllabus of the case of The American Bank and Trust Company v The Feeney Tool Company, Incorporated, et als, 106 Conn. 159, the following language is found:
+“Immediately upon the appointment of á receiver, he is entitled to possession of the corporate property but, whether he takes actual possession or not, the property is in the custody of the court and, thenceforth, it cannot be encumbered in such a way as to prejudice the rights of the receiver or to thwart the objects or purposes for which the law places it in his control, nor can it be sequestered by attachment or repossessed by a conditional vendor or chattel mortgagee to the disadvantage of the receiver or of the creditors whom he represents.”
+As applied to the facts in the instant case this rule will operate equitably among all creditors, including defendants in error. There is no evidence in the record tending to show that the present market value of the hearse is less than $295, but if the investigation of the receiver should so show and if it should further appear that the claim of defendants in error is valid he can obtain leave of court to abandon the property to them. However, this contingency would seem to be extremely unlikely in view of the fact that the hearse cost at least $1077 but two .years ago. If, on the other hand, the received should succeed in selling it for more than $295 (or whatever amount, if any, may be found justly due defendants in error) some benefit will then inure to other creditors — at least to the second mortgagee. In any event the sale will be effected and the proceeds administered by the receiver under the supervision and scrutiny of the court rather than by one or two creditors whose only concern is the satisfaction of their own claim.
+In view of the foregoing the judgment of the Municipal Court must be reversed and final judgment rendered in this court in favor of the receiver as to- the present right of possession of the property in question.
+LEVINE, PJ, and VICKERY, J, concur.
