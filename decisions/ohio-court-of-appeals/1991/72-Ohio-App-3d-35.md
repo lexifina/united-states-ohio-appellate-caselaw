@@ -1,0 +1,79 @@
+---
+court: "Ohio Court of Appeals"
+docket: "59272"
+decided: "1991-01-07"
+citations: ["72 Ohio App. 3d 35"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matia, P.J., and John F. Corrigan, J., concur."]
+parties: ["STASIUK et al., Appellees, v. CITY OF CLEVELAND, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/72/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1470231
+cites_cases: ["113 N.E. 659", "1988 WL 39293", "21 O.O.3d 228", "21 O.O.3d 406", "22 O.O.3d 47", "295 F.2d 695", "33 Ohio App.3d 268", "423 N.E.2d 1099", "425 N.E.2d 947", "426 N.E.2d 526", "44 Ohio St.3d 86", "44 Ohio St.3d 92", "45 Ohio St.3d 241", "49 Ohio App.3d 81", "515 N.E.2d 953", "540 N.E.2d 1381", "541 N.E.2d 64", "543 N.E.2d 1277", "550 N.E.2d 208", "573 F.Supp. 1454", "642 F.2d 1065", "67 Ohio App.2d 87", "67 Ohio St.2d 363", "68 Ohio App.2d 58", "787 F.2d 1039", "94 Ohio St. 110"]
+---
+
+# Stasiuk v. City of Cleveland
+
+## Majority (Nahra, Judge.)
+
+Nahra, Judge.
+Defendant-appellant, city of Cleveland (the “city”), appeals from a judgment in favor of plaintiffs-appellees Mitchell Stasiuk et al., a class of former building and construction trades employees of the city. The trial court awarded money as compensation for unpaid sick leave from October 1,1972 to October 29, 1980, which is the subject of the appeal herein.
+The plaintiffs received paid sick leave during the period from May 7,1969 to October 1, 1972 pursuant to city Ordinance No. 216-69, which mandated:
+“All full-time annual rate employees and full-time hourly rate employees shall be entitled to sick leave with pay * *
+On August 1, 1973, the city’s Board of Control adopted Resolution No. 475-73, which became effective October 1, 1972. Such ordinance deprived plaintiffs of paid sick leave credit. It provided in pertinent part:
+“(a) Accrual of Leave
+“All regular full time employees except members of the building trades paid under Section 1.474101 of The Codified Ordinances of the City of Cleveland, shall be credited with sick leave at the rate of ten (10) hours per month or fifteen (15) work days per year. Unused sick leave shall be cumulative and available for future use.” (Emphasis added.)
+This ordinance remained in effect until October 29,1980 when the Cleveland City Council amended Section 1.4767 (now Section 171.31) of the Cleveland Codified Ordinances.
+This case originated on November 19, 1975 when Michael Kavalec, a building tradesman employed by the city, filed a complaint seeking payment of a claim for sick leave that had been denied. On July 14, 1976, an amended complaint was filed seeking a class action for unpaid holidays, vacation pay and sick leave that had been wrongfully denied to Kavalec and other similarly situated city employees. On November 17, 1976, the trial court certified the action as to a class comprised of “plaintiff Michael Kavalec and all other members of the building and construction trades employed by the City of Cleveland between May 7, 1969 and July 14, 1976.”
+On July 23, 1981, the trial court issued a summary judgment for plaintiffs and determined that the Board of Control exceeded its authority in denying sick leave pay to building and construction trade employees based on Resolution No. 475-73 and recodified Section 171.31(a). The trial court also determined that the denial of holiday pay was an unconstitutional denial of equal protection under the law to the members of the named class.
+Ón appeal, this court reversed and remanded the decision of the trial court with respect to issues relating to vacation and holiday pay as well as sick leave on equal protection grounds. This court affirmed the trial court’s ruling that the board exceeded its authority by the denial of paid sick leave to plaintiffs pursuant to Board of Control Resolution No. 475-73. This court remanded the case to the trial court for further proceedings. See Stasiuk v. Cleveland (Apr. 28, 1989), Cuyahoga App. No. 53718, unreported, 1988 WL 39293.
+On January 18,1990, the trial court entered an order for plaintiffs’ damages concerning the denial of sick pay during the period of October 1, 1972 to October 29, 1980. The damages awarded came to $1,965,888 including an award of $534,463 for prejudgment interest. In its judgment entry, the trial court stated that there is “no just reason for delay.”
+The issues of vacation and holiday pay as well as sick leave on equal protection grounds are pending in the lower court. This appeal follows.
+I
+Appellant’s first assignment of error states:
+“The trial court abused its discretion in certifying the judgment of January 18, 1990 as a final order pursuant to Civil Rule 54(B).”
+An order of a court which adjudicates one or more but fewer than all the claims or the rights and liabilities of fewer than all the parties must meet the requirements of R.C. 2505.02 and Civ.R. 54(B) in order to be final and appealable. Noble v. Colwell (1989), 44 Ohio St.3d 92, 540 N.E.2d 1381, syllabus.
+R.C. 2505.02 provides in pertinent part:
+“An order that affects a substantial right in an action which in effect determines the action and prevents a judgment, an order that affects a substantial right made in a special proceeding or upon a summary application in an action after judgment, or an order that vacates or sets aside a judgment or grants a new trial is a final order which may be reviewed, affirmed, modified, or reversed, with or without retrial. * * *”
+Civ.R. 54(B) provides:
+“When more than one claim for relief is presented in an action, whether a claim, counterclaim, cross-claim or third-party claim, or when multiple parties are involved, the court may enter final judgment as to one or more but fewer than all of the claims or parties only upon an express determination that there is no just reason for delay.” (Emphasis added.)
+The parties agree that the judgment on appeal affects a substantial right. However, the city contends that the trial court’s judgment concerning the wrongful deprivation of sick leave pay neither determines the action nor prevents a judgment. The city asserts that the trial court issues pending on remand with respect to an equal protection violation are identical to those raised in this appeal.
+The plaintiffs maintain that they have two separate and distinct claims for paid sick leave that arise out of different sets of facts and pertain to different periods of time. Since the decision on remand before the trial court will have no effect on the judgment giving rise to this appeal, the action before us has been determined in compliance with R.C. 2502.02. We agree.
+In Aldrete v. Foxboro Co. (1988), 49 Ohio App.3d 81, 82, 550 N.E.2d 208, 209, this court stated:
+“ ‘The term “claim,” as used in the context of Civ.R. 54(B), refers to a set of facts which give rise to legal rights, not to the various legal theories of recovery which may be based upon those facts. CMAX, Inc. v. Drewry Photocolor Corp. (9th Cir.1961), 295 F.2d 695, 697. Unless a separate and distinct recovery is possible on each claim asserted, multiple claims do not exist. Local P-171 v. Thompson Farms Co. (7th Cir.1981), 642 F.2d 1065, 1970-71' ”
+Here, we agree with the plaintiffs that they have two separate and distinct claims for paid sick leave that arise out of different acts or facts and different periods of time. The first claim arises out of the Board of Control’s attempt to deny sick paid leave to plaintiffs which had been granted as a right by virtue of city Ordinance No. 216-69. Such claim covers the period from October 1, 1972 to October 29, 1980. The plaintiffs’ second claim for paid sick leave arises out of the city’s amendment of the sick leave ordinance which denied paid sick leave to plaintiffs. The latter claim rests on the basis of equal protection under the Ohio Constitution and covers the period after October 29, 1980 when the sick leave ordinance was amended. The outcome of this second claim on remand shall not have any effect on the judgment on the first claim which is before us. The city cannot obtain a judgment on the plaintiffs’ first claim stemming from the Board of Control’s unauthorized actions.
+The requirement of Civ.R. 54(B) was also met in the present case insofar as the trial court inserted the requisite language that “there is no just reason for delay.” Therefore, we believe that the trial court judgment giving rise to this appeal is final and appealable insofar as it meets the requirements of R.C. 2505.02 and Civ.R. 54(B). Chef Italiano Corp. v. Kent State Univ. (1989), 44 Ohio St.3d 86, 541 N.E.2d 64. Accordingly, appellant’s assignment of error is overruled.
+II
+Appellant’s second assignment of error states:
+“The trial court erred in awarding prejudgment interest to plaintiffs.”
+The city argues that the trial court erred in awarding prejudgment interest to plaintiffs because the amount of the award is uncertain and the claim is unliquidated.
+R.C. 1343.03(A) provides:
+“In cases other than those provided for in sections 1343.01 and 1343.02 of the Revised Code, when money becomes due and payable upon any bond, bill, note, or other instrument of writing, upon any book account, upon any settlement between parties, upon all verbal contracts entered into, and upon all judgments, decrees, and orders of any judicial tribunal for the payment of money arising out of tortious conduct or a contract or other transaction, the creditor is entitled to interest at the rate of ten percent per annum, and no more, unless a written contract provides a different rate of interest in relation to the money that becomes due and payable, in which case the creditor is entitled to interest at the rate provided in that contract.”
+Prejudgment interest may be assessed against a municipality. State, ex rel. Crockett, v. Robinson (1981), 67 Ohio St.2d 363, 21 O.O.3d 228, 423 N.E.2d 1099. Prejudgment interest is available under R.C. 1343.03(A) when the claimed amount due is “capable of ascertainment by computation or reference to well-established market values at the time the cause of action arose.” Worrell v. Multipress, Inc. (1989), 45 Ohio St.3d 241, 249, 543 N.E.2d 1277, 1285; see Mahon-Evans Realty, Inc. v. Spike (1986), 33 Ohio App.3d 268, 515 N.E.2d 953. When the amount is unliquidated and not sum-certain, a party is not entitled to prejudgment interest. Braverman v. Spriggs (1980), 68 Ohio App.2d 58, 22 O.O.3d 47, 426 N.E.2d 526, paragraphs one and two of the syllabus; see Jeppe v. Blue Cross (1980), 67 Ohio App.2d 87, 21 O.O.3d 406, 425 N.E.2d 947, paragraph two of the syllabus. Here, the judgment of the trial court indicates that the amount owed to the plaintiffs could be ascertained by mere computation and reference to the city’s sick leave ordinance and Board of Control resolutions. The trial court’s judgment giving rise to this appeal stated:
+“The City compensated those persons who retire from its service with accumulated but unused sick days by ‘buying’ those days back at the rate of one day’s pay for each three days of accumulated sick time. Those Class members who have retired are thus eligible for payment based on the described formula at a rate of pay computed in accordance with established City practice at the time of retirement with interest at the lawful rate to be calculated from the date of retirement to the day of payment. The City shall credit to a sick leave account the number of earned days to those employees who have not yet retired as their interest appears on ‘Exhibit A’ hereto. Such credited days may be taken as sick leave days in accordance with the practices, regulations, and ordinances applicable to non-Class City employees who enjoy a sick leave benefit. Unused days at the time of retirement shall be compensated in the same manner as non-Class City employees are compensated.”
+The applicable board resolution, No. 475-73, which was in effect during the period prior to October 1, 1972, entitled retired employees to have their accumulated sick time purchase on a one-for-three basis. It states:
+“Sick Leave Conversion
+“Upon retirement, an employee shall have the right to convert his accumulated paid sick leave into a cash bonus at the rate of one (1) day’s pay for each three (3) days of unused accumulated paid sick leave. The pay rate shall be the same five (5) year coverage as used under P.E.R.S. rules or the Police and Fireman’s [sic] Disability and Pension Fund whichever is applicable.”
+Resolution No. 475-73 withdrew sick leave benefits from the plaintiffs’ class. While the trial court struck down Resolution No. 475-73 because the Board of Control had exceeded its authority in withdrawing sick leave credit from the plaintiffs, we believe that the court’s ruling negated only the specific language of the resolution that excepted plaintiffs from being credited with sick leave. The cash conversion rate for plaintiffs based on Resolution No. 475-73 applies as follows:
+Sick days accumulated x rate of pay = cash
+3
+The determination of base wage period, rates, and amount of accumulated sick leave can be completed with reference to the city’s employment records. We find the trial court did not err when it awarded prejudgment interest to the plaintiffs.
+Accordingly, appellant’s assignment of error is overruled.
+Ill
+Appellant’s third assignment of error states:
+“The trial court erred in refusing to offset amounts released by members of the class against the award of cash conversion payments.”
+The city contends that members of the class executed releases representing an offset against the amounts awarded to plaintiffs.
+The trial court granted plaintiff’s motion in limine in the proceeding giving rise to this appeal which sought to exclude such releases.
+The plaintiffs maintain that the releases were properly excluded based on the trial court’s grant of a motion in limine insofar as the releases were not supported by consideration.
+A review of the record presented before us on appeal does not indicate the basis for the trial court’s ruling. In the absence of a complete record, we must presume the validity of the judgment below. Bly v. Smith (1916), 94 Ohio St. 110, 113 N.E. 659. The releases are not in the record before us. We presume that the trial court properly excluded the releases insofar as they were not supported by adequate consideration. See Runyan v. NCR Corp. (S.D.Ohio 1983), 573 F.Supp. 1454, affirmed (C.A.6, 1986), 787 F.2d 1039.
+Accordingly, appellant’s assignment of error is overruled.
+IV
+Appellant’s fourth assignment of error states:
+“The trial court erred in issuing an order granting sick leave conversion payments to persons not members of the class of claimants certified pursuant to Civ.R. 23.”
+The plaintiffs constitute a certified class comprised of “Michael Kavalec and all other members of the building and construction trades employed by the City of Cleveland between May 7, 1969 and July 14, 1976.”
+The judgment below appears to require payment or credit of sick leave accrual to approximately thirty former or present Cleveland employees who are not within the certified class insofar as their employment commenced after July 14, 1976. Accordingly, the judgment is vacated insofar as it includes employees not within the certified class. However, since it appears that except for date of hire these employees would be entitled to the same relief, we remand to the trial court solely to determine if the class certification should be expanded to include the employees in question and, if so, the entry of judgment accordingly.
+The judgment of the trial court is affirmed in part and vacated and remanded in part.
+Judgment accordingly.
+Matia, P.J., and John F. Corrigan, J., concur.
