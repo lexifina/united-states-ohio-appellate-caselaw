@@ -1,0 +1,64 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2211-M"
+decided: "1993-09-22"
+citations: ["90 Ohio App. 3d 321"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cook, P.J., and Dickinson, J., concur."]
+parties: ["SCHALMO BUILDERS, INC., Appellant, v. MALZ et al.; Bank One, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/90/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1701149
+cites_cases: ["10 O.O.3d 481", "100 Ohio St. 88", "101 Ohio St. 34", "11 Ohio St.2d 195", "125 N.E. 130", "126 N.E. 820", "13 OBR 493", "13 Ohio App.3d 408", "15 Ohio St.2d 6", "153 N.E. 909", "22 Ohio App. 487", "228 N.E.2d 841", "238 N.E.2d 760", "384 N.E.2d 250", "40 O.O.2d 182", "44 O.O.2d 4", "469 N.E.2d 535", "56 Ohio St.2d 347"]
+---
+
+# Schalmo Builders, Inc. v. Malz
+
+## Majority (Quillin, Judge.)
+
+Quillin, Judge.
+In this case we must determine whether the trial court correctly granted summary judgment in favor of appellee, Bank One, as holder of a secured interest senior to the mechanic’s lien held by appellant, Schalmo Builders, Inc. We affirm.
+Sam and Grace Malz applied for a loan from appellee, Bank One, to fund the construction of ten six-unit buddings in Medina, Ohio. A construction loan for $2,400,000 was approved, for which the Maizes executed a construction loan agreement and an open-end mortgage deed. On May 31, 1989 the open-end mortgage deed was properly recorded.
+The Maizes engaged appellant, Schalmo Builders, as general contractor for construction of the apartment buildings. Appellant performed its obligations under the construction contract, but was unable to recover payment from the Maizes. Appellant sued the Maizes and was awarded judgment under the contract. Appellant recorded an affidavit of mechanic’s lien pursuant to R.C. Chapter 1311 on January 23, 1991.
+The Maizes defaulted on their loan payments, causing Bank One to bring an action for mortgage foreclosure. The Medina County Court of Common Pleas entered summary judgment, establishing Bank One’s right to foreclose and awarding Bank One’s mortgage priority over Schalmo Builders’ mechanic’s hen.
+Schalmo Builders appeals the summary judgment and asserts two assignments of error.
+Assignment of Error II
+“The trial court erred in granting Bank’s motion for summary judgment to establish the priority of Bank’s mortgage over the hen of Plaintiff-Appellant because there exists a genuine issue of material fact as to whether or not Plaintiff-Appellant commenced ‘reasonably apparent’ and ‘readily visible’ construction at the property prior to Bank’s May 31, 1989 recordation of the mortgage.”
+Appellant argues that its hen attached prior in time to Bank One’s filing of the open-end mortgage and, accordingly, that its hen should be given priority. We do not agree.
+R.C. 1311.13(A)(1) provides:
+“Liens * * * for labor or work performed or materials furnished prior to the recording of the notice of commencement pursuant to section 1311.04 of the Revised Code are effective from the date the first visible work or labor is performed or the first materials are furnished by the original contractor, subcontractor, materialman, or laborer at the site of the improvement.” (Emphasis added).
+“The mechanics’ liens thus attach at the time of such commencement of construction, the same as mortgage liens ‘take effect’ from the date of filing * * *." Wayne Bldg. & Loan Co. v. Yarborough, (1967), 11 Ohio St.2d 195, 217, 40 O.O.2d 182, 196, 228 N.E.2d 841, 856. R.C. 1311.13(B) gives such mechanic’s liens priority over “all other titles, liens or encumbrances” which may attach to the subject of the mechanics’ labor and are recorded after “construction, excavation or improvement” is commenced.
+Bank One properly filed its open-end mortgage on May 31, 1989. Therefore, the appellant’s mechanic’s lien will take priority over appellee’s mortgage only if visible work or labor was performed or materials were delivered prior to May 31, 1989.
+In Rider v. Crobaugh (1919), 100 Ohio St. 88, 125 N.E. 130, paragraph four of the syllabus, the Supreme Court of Ohio held:
+“If it is reasonably apparent to the mortgagee that the construction, excavation or improvement had not actually and obviously commenced when the mortgage was filed for record, then such mortgage would retain priority.” (Emphasis added).
+Although the Rider court never articulated what constitutes “commencement of construction,” as that concept appears in R.C. 1311.13, intermediate courts have developed a component-part test. See, e.g., Huntington Natl. Bank of Columbus v. Treasurer (1983), 13 Ohio App.3d 408, 13 OBR 493, 469 N.E.2d 535. The component-part test has been structured to require “the work * * * deemed the commencement of construction * * * [to] form a part of the work necessary for the construction and [to] be of a nature that can afterward be considered a component part of the structure.” (Emphasis added.) Id. at 409, 13 OBR at 495, 469 N.E.2d at 537, citing North Shaker Blvd. Co. v. Harriman Natl. Bank (1924), 22 Ohio App. 487, 153 N.E. 909. The purpose of the component-part test is to ensure adequate notice of potentially conflicting hens to those considering business dealings with the landowner. See id. We believe that the component-part test is consistent with the standard announced in Rider, and significantly furthers the legislature’s goals in drafting R.C. 1311.13.
+In the case sub judice, appellants argue that readily apparent and visible labor had commenced prior to Bank One’s filing of the open-end mortgage in that:
+“(a) Appellant caused the contemplated building improvements to be located and staked upon the Property; and,
+“(b) Appellant performed certain soil testings/soil work where the building improvements were to be located.”
+Neither the act of staking out the improvements, nor the soil testing constituted an act that could be considered a component-part of the structure. As a consequence, neither act is sufficient to have established the effectiveness of appellant’s mechanic’s lien under R.C. 1311.13. Accordingly, we hold that Bank One’s mortgage lien is senior to the mechanic’s lien held by appellant.
+Appellant’s second assignment of error is overruled.
+Assignment of Error I
+“The trial court erred in not concluding as a matter of law that the mechanic’s lien of Plaintiff-Appellant has priority over the mortgage of Defendant-Appellee, Bank One, Akron, N.A., (‘Bank’), and in otherwise determining that the mortgage maintained priority over the lien, because:
+“(i) Bank failed to include within the mortgage the statutorily required covenant authorizing Bank to do all things provided to be done under Section 1311.14 of the Ohio Revised Code.
+“(ii) Bank did not comply with Section 1311.14 of the Ohio Revised Code in making disbursements from the construction loan account because Bank did not retain sufficient funds to complete the improvements in accordance with the contract price and Bank improperly disbursed from the account to satisfy Bank’s accrued interest, Bank’s closing/settlement charges and the insurance obligations of Defendants-Appellees, Sam D. Malz and Grace C. Malz (Bank’s borrowers).
+“(in) A portion of Bank’s $2,400,000.00 construction loan account equal to $223,463.52 was not disbursed as prescribed in Section 1311.14 of the Ohio Revised Code and was not ‘actually used’ to pay for construction.
+“(iv) Bank was not obligated to make definite and certain advances of definite and certain amounts under Bank’s construction loan.
+“(v) Bank’s improper disbursements rendered the construction project significantly underfunded to the detriment of Plaintiff-Appellant.”
+Appellant relies on the application of R.C. 1311.14 and Wayne Bldg. & Loan Co. v. Yarborough, supra, to support its first assignment of error. Such reliance is misplaced.
+In Yarborough, the Supreme Court of Ohio held that:
+“[Wjhere nonobligatory advances are made after the commencement of construction and not in accordance with Section 1311.14, Revised Code (or are not shown to have been actually used in the construction for which hens are claimed), under a mortgage contemplating future advances which was recorded prior to such commencement of construction, the hen of such advances is held subsequent in priority to the mechanic’s hens arising from such construction.” (Emphasis added.) Id., 11 Ohio St.2d at 219, 40 O.O.2d at 197, 228 N.E.2d at 857.
+The Yarborough court implicitly retained the mandate of Kuhn v. S. Ohio Loan & Trust Co. (1920), 101 Ohio St. 34, 126 N.E. 820, that:
+“1. A mortgage duly recorded, given for definite future advances which the mortgagee is obligated to make, is entitled to priority for the full amount of such advances over a subsequent mortgage recorded after the former one though prior to the making of such future advances. * * *
+“2. Where a mortgage for obligatory advances is duly recorded, such record is notice to subsequent encumbrancers of a prior lien for the full amount of such obligatory advances.” (Emphasis added.) Id. at paragraphs one and two of the syllabus; see Akron S. & L. Co. v. Ronson Homes, Inc. (1968), 15 Ohio St.2d 6, 9, 44 O.O.2d 4, 6, 238 N.E.2d 760, 761-762; Yarborough, supra, 11 Ohio St.2d at 216, 40 O.O.2d at 195, 228 N.E.2d at 855.
+Accordingly, the requirements of R.C. 1311.14 only become applicable where a mortgagee makes advances which are not obligatory as that term is defined in Yarborough, supra.
+Subsequent to the Ohio Supreme Court decision in Yarborough, the Ohio legislature enacted R.C. 5301.232. R.C. 5301.232 provides for the creation and use of “open-end mortgages” and contains a provision establishing the priority of such a mortgage over competing liens. “Under R.C. 5301.232(B), an advance made by the holder of an open-end mortgage has priority over other liens unless the mortgagee (1) has [written] notice of the other liens and (2) is not obligated to make the advance.” (Emphasis sic.) Colonial Mtge. Serv. Co. v. Southard (1978), 56 Ohio St.2d 347, 349, 10 O.O.3d 481, 482, 384 N.E.2d 250, 252. The Southard court read the conjunctive use of “and” to require both conditions be satisfied before subordinating the rights of an open-end mortgagee to intervening lienholders.
+Moreover, R.C. 5301.232 includes a definition of the term “obligated.” R.C. 5301.232(E)(4) states:
+“A holder of a mortgage is ‘obligated’ to make an advance if such holder or the person to whom the repayment of such advance is owed has a contractual commitment to do so, even though the making of such advance may be conditioned upon the occurrence or existence, or the failure to occur or exist, of any event or fact.”
+In Southard, the court held that the mortgagee was “obligated,” not only according to the terms of R.C. 5301.232, but additionally under the Yarborough standard, requiring the advancement of “a certain and definite sum in a particular manner.” Id., 56 Ohio St.2d at 351, 10 O.O.3d at 483, 384 N.E.2d at 252-253. The open-end mortgage analyzed in Southard required the mortgagee to advance a maximum of $2,000,000 in installments of not more than one a month during the construction period. The obligation to make advancements was terminable upon the mortgagor’s default or the mortgagee’s advancement of a $2,000,000 total sum. Id. The Southard court noted that “[t]he fact that the agreement contained conditions precedent to payments of a given advance does not affect the obligatory nature of those advances.” Id. at 351, 10 O.O.3d at 483, 384 N.E.2d at 253, fn. 3.
+In the case sub judice, Bank One was similarly obligated to advance funds to the Maizes. The construction loan agreement obligated Bank One to disburse a total of $2,400,000 as construction of the buildings progressed. While advancements were conditioned upon the owners’ compliance with certain procedures, they were undoubtedly to be advanced in a definite sum and in a particular manner. Accordingly, the future advances. were obligatory under both R.C. 5301.232 and 1311.14, as interpreted in Yarborough.
+Having determined that Bank One’s advances were obligatory, its mortgage is entitled to priority to the extent it was properly recorded prior to the date that appellant’s mechanic’s lien became effective. As previously discussed, Bank One’s mortgage is, in fact, senior to appellant’s mechanic’s lien. The obligatory nature of Bank One’s advancements obviates the need for the bank to comply with subsections (A) through (G) of R.C. 1311.14. Therefore, it is not necessary for this court to pass on Assignment of Error I, Parts (i), (ii), (in) or (v).
+Appellant’s first assignment of error is overruled. Accordingly, the trial court’s judgment is affirmed.
+Judgment affirmed.
+Cook, P.J., and Dickinson, J., concur.
