@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "81AP-881"
+decided: "1983-02-24"
+citations: ["9 Ohio App. 3d 68"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCormac, J., concurs.", "Whiteside, P.J., concurs in part and dissents in part."]
+parties: ["The State, ex rel. Franklin County Welfare Department, Appellee, v. Freeman, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/9/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707760
+---
+
+# State ex rel. Franklin County Welfare Department v. Freeman
+
+## Majority (Strausbaugh, J.)
+
+Strausbaugh, J.
+This is an appeal from a judgment that defendant, Vellena Freeman, collected an overpayment from the Aid to Dependent Children program. The parties agreed to submit the case to the trial court on written stipulations. The stipulations indicated that defendant was receiving benefits from the Franklin County Welfare Department (hereinafter “FCWD”) through the Aid to Dependent Children program (hereinafter “ADC”). Defendant began working at a paying job as a Clerk II for FCWD on February 26, 1979 and received her first paycheck from FCWD on March 9, 1979. Defendant notified her caseworker of her job in March 1979 and received notice of the termination of her case and benefits from FCWD on March 20,1979. A hearing was held on July 12, 1979. The decision was rendered on October 15, 1979 affirming the earlier termination of benefits. After judgment for plaintiff, a timely notice of appeal was filed and the following assignments of error were raised:
+“I. The trial court erred in not finding that appellant’s receipt of ADC benefits in the amount of $340.00 for the month of April, 1979, did not constitute an overpayment under Ohio Public Assistance Manual Section 437.3, and a finding that appellant owes this amount is both contrary to law and against the weight of the evidence.
+“II. The trial court erred in not finding that appellee allowed the overpayment to be unnecessarily increased and that appellee is not entitled to recover the increased loss which could have been prevented by the performance of its duty.
+“HI. The trial court erred in finding that equitable estoppel is not applicable in this case, and such finding was both contrary to law and against the weight of the evidence.
+“IV. The trial court erred in not finding that even if appellee is permitted to recover ADC benefits for August, 1979, a recalculation must be made for August to determine the amount of overissuance in food stamps since full recovery would give appellee a double recovery, and a finding that appellant owes both amounts is contrary to law and against the manifest weight of the evidence.”
+The first assignment of error involves benefits received by defendant in April 1979. Section 437.3 of the Ohio Public Assistance Manual (hereinafter “OPAM”) (now Ohio Adm. Code 5101:1-25-06[D]) provides that overpayments are calculated from the second calendar month following the month of a change in circumstance which requires a decrease in the amount of the grant. Defendant claims that receipt of her first paycheck was the change in circumstance which required a decrease in the amount of the grant. Since the paycheck was received in March 1979, any overpayment calculations would not start until May 1979, which is the second calendar month following the receipt of the paycheck and no overpayment would have accrued in April 1979.
+The rule does not define the term “change in circumstance” and the question presented by this assignment of error is whether the change occurred in the month she began work at a paying job or in the month she first received a paycheck. OP AM 437.3 is designed to provide a grace period after a change occurs which would account for the normal situation where there may be a delay in the receipt of income despite the fact that the individual has become employed. Therefore, when the change of circumstance is calculated from the time when she became employed, she is covered by the grace period. Her first check was received on March 9, 1979 and her benefits were terminated April 1, 1979. However, if the position is taken that the change occurs when the recipient is paid for the first time, then OPAM 437.3 may operate as a windfall benefit. Conceivably, a recipient could get a job in January and get paid once every six months. Although the recipient may not be paid until the beginning of July, he would be entitled to pay from the job and ADC benefits for the six months. Once paid, the recipient would continue to collect for the time following the change as set forth in OPAM 437.3. This type of benefit windfall is possible if the change is calculated from the time of receipt of pay.
+We conclude that the section was designed to provide a short grace period after employment was obtained to cover the normal delay in the receipt of income; that the change occurs when employment at a paying job is obtained; and, that the trial court properly ruled that the April check was an overpayment. The first assignment of error is overruled.
+The second and third assignments of error are interrelated and will be treated together. The stipulation indicates that defendant received notice of termination of benefits on March 20,1979 and that she was informed that she had a right to appeal the benefits termination to a state hearing officer. She requested a hearing on March 23, 1979 and pursuant to law continued to receive benefits during the pendency of the decision. 45 C.F.R. 205.10(a)(16) requires that a final administrative action should be made within ninety days from the date of the request for a hearing. In the case at bar, the hearing decision was not rendered until two hundred five days after the request. As a result of the state’s failure to render a timely decision, the accrued overpayment is greater than an overpayment accrued after the ninety-day period. No penalty is specified for an untimely failure to render a decision by a state hearing officer.
+OPAM 687.5 (now Ohio Adm. Code 5101:l-35-07[F]) is more specific and permits a local agency to recover to the fullest extent of the overpayment from an appellant (who is the defendant in this case) whose appeal is overruled. In view of the fact that the appeal of defendant was overruled, we hold, pursuant to OPAM 687.5, that FCWD may recover the overpayments. The second and third assignments of error are overruled.
+In the fourth assignment of error, defendant claims that if defendant had not received ADC benefits in August 1979, she would have been eligible based on income to receive food stamps for herself and her family during that month. Defendant asserts that if the court finds that she owes FCWD an overpayment in ADC benefits from August, then FCWD should recalculate her food stamps eligibility. We find the fourth assignment of error is well-taken.
+This case is remanded to the trial court for recalculation and deduction from the judgment any amount equivalent to the amount of food stamps that she would have been entitled to had she not received the payments she did. The fourth assignment of error is sustained.
+Judgment affirmed in part, reversed in part and remanded with instructions.
+McCormac, J., concurs.
+Whiteside, P.J., concurs in part and dissents in part.
+
+## Concurring in part and dissenting in part (Whiteside, P.J.,)
+
+Whiteside, P.J.,
+concurring in part and dissenting in part. While I concur in the overruling of the second and third assignments of error and in the sustaining of the fourth, I must dissent from the overruling of the first.
+There is no need to discuss the “policy” of the regulations or engage in conjecture as to potential undue windfalls, none of which is possible. Rather, the clear and unambiguous mandate of the regulations is that appellant not be required to refund benefits received for April 1979.
+Section 437.3 of the Ohio Public Assistance Manual specifically provides that “[a]ll overpayments are calculated from the first day of the second calendar month following the month of change.” The only other question is the “month of change.” The answer is provided by OPAM 434.2 (now Ohio Adm. Code 5101:1-25-03[A][1]) which provides that “[i]f a recipient is eligible for assistance on the first day of a month, he is eligible for the remainder of the month.”
+Appellant became employed on February 26, 1979. Thus, her “month of change” was March 1979 since eligibility is determined by status on the first day of the month. “Month of change” as used in the regulations must mean the first month in which the person was no longer eligible for benefits. This for appellant was March 1979 because of the application of the regulations, rather than the date of receipt of the first paycheck.
+Accordingly, I would sustain the first assignment of error.
