@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2340"
+decided: "1931-05-29"
+citations: ["10 Ohio Law Abs. 564"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges JUSTICE, CROW and KLINGER, (3rd Dist), sitting.", "JUSTICE, PJ and CROW, J, concur.", "KLINGER, J, dissents."]
+parties: ["SMITH, Tr., v DETWILER et"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 896995
+---
+
+# Smith v. Detwiler
+
+## Majority (BY THE COURT.)
+
+BY THE COURT.
+The evidence which is contained in the bill of exceptions is very voluminous, but after a earéful consideration of it a majority of the court is of the opinion that the defendant George K. Detwiler is the owner by 'adverse possession of the elevator .shaft and vent affixed to the east wall of the property known as the Hotel Toledo; that at the time of the execution and delivery of the deed from the plaintiff to the defendants, said, defendants did not know nor cduld they, by the exercise of reasonable diligence, ascertain that said elevator shaft and vent were upon the premises described in the petition; that said elevator shaft and vent are a ^material encroachment upon said premises, and that by reason thereof said defendants, Thomas Bentley, James Bentley' and Harold W. Fraser did not receive the property for which they bargained.
+A majority of the court further finds that the plaintiff was ignorant of the fact that said elevator shaft and vent occupied a part of said premises; that plaintiff intended to and did agree to convey to the defendants all of the square at the corner of Jefferson and Superior Streets, being 120x120 feet, except a strip 40x90 feet out of said square; that plaintiff intended to and agreed with the defendants to give to them the full and undisturbed possession of said premises on or before January 1, 1928. A majority of the court further finds that in the mortgage deed defendants acknowledged that plaintiff was in possession of said real estate but that said recital was made by said defendants by reason of certain representations made to them by plaintiff on which they relied and without which they would not have made them.
+There are, of course, many other facts in this case, but as a majority of the court sees it, they are -not controlling.
+Manifestly the defendants Thomas Bentley, James Bentley and Harold W. Fraser, ought not to be required to accept property materially different from that for which they bargained. The mere fact that they paid their proportionate part of the cash payment, namely, about $10,000.00, and have executed notes, does not estop them from obtaining relief which equity and good conscience demand that they receive. Surely the plaintiff o.ught not to receive their part of the purchase price, to-wit: $400,000.00, and not give to them the property which they bought, and in as much as plaintiff can not convey to them the property which they purchased, it seems proper that this court Should, po far as possible, place Thomas Bentley, James Bentley and Harold W. Fraser and the plaintiff in the position which they occupied prior to the execution of the agreement out of which this controversy arises.
+As to George K. Detwiler, a different situation entirely exists. He, it is true, did not know at the time that he entered into the agreement with plaintiff, that his hotel property extended over and upon the real estate being sold by plaintiff. But he, by reason of the adverse possession and the deed from plaintiff, now has all for which he contracted. True, he has purchased his own real estate and to the extent that he has so done an abatement should be made of the purchase price. The evidence which we have before us at this time is not such as to permit us to arrive at the amount to be deducted. Testimony should be taken ■ before a referee or before this court in the comparatively near future, in order to arrive at the amount which should be deducted from the notes owing by George K. Detwiler to the plaintiff. After the deduction has been made, there seems to be no reason why the plaintiff should not'have the relief which he seeks in his petition, so far as it concerns George K. Detwiler.
+The contention that George K. Detwiler is estopped to assert the adverse possession against the defendants Thomas Bentley, James Bentley and Harold W. Fraser; is not tenable. George K. Detwiler has not done anything which would warrant a court of equity in invoking against him the equitable doctrine of estoppel. He did not know , his property was upon the real estate sold' by plaintiffs to defendants. He learned of it after the deal had been consummated. As soon as he learned of the fact he sought to rescind the transaction. He has done all that could be asked of him. Nor can it be said that George K. Detwiler is estopped to question the possession of the plaintiff in the real estate sold. The mere fact that he stated in the mortgage deed that the plaintiff had poásession of the real estate falls far short of saying that plaintiff has the title to the elevator shaft and the vent.
+Our conclusion is that Thomas Bentley, James Bentley and Harold W. Fraser are entitled to a cancellation of their $87,500.00 notes and their proportionate part of the ■ $40,000.00 note. They are also entitled to have the mortgage securing the $87,500.00 note set aside and held for naught and to receive from the plaintiff their proportionate part of the $10,000.00 which is the cash payment. But, as to the other defendant, George K. Detwiler, he is not entitled to have his notes cancelled nor to have the mortgage set aside and held for naught. All that he is entitled, in equity and in good conscience, to have is an abatement to the value of the part of the real estate which he owned, deducted from the amount which he contracted and agreed to pay to plaintiff.
+Entertaining these views, a decree should be entered fn conformity with these findings. Decree accordingly.
+JUSTICE, PJ and CROW, J, concur.
+KLINGER, J, dissents.
