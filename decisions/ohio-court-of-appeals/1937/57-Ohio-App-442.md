@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1937-04-17"
+citations: ["57 Ohio App. 442", "26 Ohio Law Abs. 313"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guernsey, P. J., Crow and Klinger, JJ., concur."]
+parties: ["Decker, Appellant, v. Kolleda, Appellee."]
+source_url: "https://static.case.law/ohio-app/57/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1354361
+cites_cases: ["122 Oh St 500", "122 Ohio St., 500", "172 N. E., 361", "172 NE 361", "26 L. R. A., 313", "26 L.R.A. 313", "33 Oh St 355", "33 Ohio St., 355", "38 N. E., 1011", "38 NE 1011", "52 Oh St 12", "52 Ohio St., 12", "57 N. E., 57", "57 NE 57", "62 Oh St 368", "62 Ohio St., 368"]
+---
+
+# Decker v. Kolleda
+
+## Majority (By the Court.)
+
+By the Court.
+Under the terms of the automobile liability insurance policy in controversy in this action, the condition of the policy that “upon the occurrence of any loss or accident covered under this section, the assured shall give written notice to the company at its home office at Columbus, Ohio, or its duly authorized agent, as soon as is reasonably possible with the fullest information obtainable at the time” is, by the further condition appearing in the policy that “no suit or action on this policy, for the recovery of any claim on account of loss or damage to the automobile insured hereby, shall be sustainable in any court of law or equity, unless the assured shall have fully complied with all the foregoing requirements that relate to such loss or damage * * *,” made one of the conditions precedent to the liability of the insurance company on the policy, and the burden is on the plaintiff, judgment creditor of the assured, to plead and prove compliance with this provision in order to entitle her to recover from the defendant on the policy. 33 Corpus Juris, 85, Section 798; 36 Corpus Juris, 1124, Section 123; Union Ins. Co. of Dayton v. McGookey & Moore, 33 Ohio St., 355; Moody v. Ins. Co., 52 Ohio St., 12, 38 N. E., 1011, 26 L. R. A., 313, paragraph 2 of the syllabus.
+The petition does not allege performance by the plaintiff or the assured of this condition precedent, or any waiver, estoppel or excuse for non-performance of this condition.
+It is alleged in the answer that the accident in which the plaintiff herein was injured occurred on the 22nd day of August, 1931, and that no notice of any accident or claim under this policy was received by this defendant or defendant’s agent, until the 10th day of June, 1933, and that as a result thereof the sections of the policy requiring notice of accident as soon as is reasonably possible was violated, and that any action on the policy as a result- of the accident alleged in plaintiff’s petition was and is wholly barred.
+This allegation of the answer remedied the deficiency of the petition in failing to allege that notice of the accident had been given, but as under the allegation of the answer the accident occurred on Augnst 22, 1931, and notice was not given until June 10, 1933, almost twenty-two months after the accident, which is charged to have been in violation of the provisions of the policy, and as it cannot be said as a matter of law that such notice was given as soon as was reasonably possible after the accident occurred, it was incumbent on the plaintiff to allege facts showing that such notice was given as soon as reasonably possible after the accident occurred, or of waiver, estoppel or excuse for non-performance. Eureka Fire & Marine Ins. Co. v. Baldwin, 62 Ohio St., 368, at page 382, 57 N. E., 57.
+The plaintiff did not amend her petition to allege such facts, and did not allege such facts in her reply to the answer, but instead alleged that the defendant was given notice by the assured of the filing of an action against the assured by plaintiff for recovery for injury coming within the terms of the policy and that defendant failed to defend such action and thereby waived the conditions of the policy as to notice. As the giving of the notice of the accident was a condition precedent to the liability of the defendant to the plaintiff on the policy, the refusal of the defendant to defend the action brought by the plaintiff against the assured did not constitute a waiver of the giving of the notice of the accident. The allegation referred to did not remedy the deficiencies in plaintiff’s pleadings, and the defendant if it had so moved would have been entitled to judgment against the plaintiff on the pleadings, but as no such motion was made, we will proceed with the consideration of the case as submitted to the trial court.
+Under the. provisions of Sections 9510-3 and 9510-4 of the General Code, the supplemental petition of the plaintiff, judgment creditor of the assured, to reach and apply the insurance money under the policy of the defendant, to the satisfaction of plaintiff’s judgment against the assured, was filed in the action in which such judgment was rendered, wherein the defendant insurance company, insurer, was made a new party defendant to the action.
+Under these statutory provisions, the action of the plaintiff against the defendant, being filed in the original action of plaintiff against the assured, became a part of it, and being a part of the original case was subject to the general rules applicable to courts taking judicial notice of all proceedings in the same case.
+In 15 Ruling Case Law, 1113, Section 44, it is stated:
+“Notice will uniformly be taken by a court of its own records in the case at bar, and of all matters patent on the face of such records, including all prior proceedings in the same case.”
+Or, considered from another viewpoint, as the action brought by the plaintiff against the defendant is an action to reach and apply the insurance money to the satisfaction of plaintiff’s judgment, it is in the nature of a proceeding in aid of execution and if it is not technically a part of the original action, it is an action collateral to the original action in which class of actions the court will recognize the proceedings in the principal suit. 15 Ruling Case Law, 1112, Section 43.
+For the purpose of identifying the questions litigated and decided in the principal action, the court may consider the pleadings therein. State Automobile Mutual Ins. Assn. v. Lind, 122 Ohio St., 500, 172 N. E., 361.
+Under the authorities mentioned, the court in the case at bar had a right to take judicial notice of all matters patent on the face of the records in the original case including all prior proceedings in the same case, although such records were not formally presented in evidence in the case.
+When the petition of the plaintiff in the action brought by her against the assured is considered in connection with the agreed statement of facts upon which this cause was submitted to the court, the decision of the Common Pleas Court herein is sustained by competent, credible, substantial evidence and is neither contrary to law nor against the weight of the evidence, and is not subject to reversal herein.
+For the reasons mentioned, the' judgment of the Court of Common Pleas will be affirmed.
+Judgment affirmed.
+Guernsey, P. J., Crow and Klinger, JJ., concur.
