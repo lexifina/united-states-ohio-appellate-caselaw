@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1-92-39"
+decided: "1993-03-12"
+citations: ["86 Ohio App. 3d 684"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hadley, P.J., and Shaw, J., concur."]
+parties: ["The STATE ex rel. SNEARY et al., Appellees and Cross-Appellants, v. MILLER; WEBB et al., Appellants and Cross-Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/86/cases/0684-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1692059
+cites_cases: ["115 Ohio St. 55", "15 O.O.3d 53", "152 N.E. 646", "173 Ohio St. 402", "183 N.E.2d 376", "20 O.O.2d 36", "374 N.E.2d 641", "399 N.E.2d 81", "54 Ohio St.2d 41", "574 N.E.2d 552", "61 Ohio St.2d 42", "62 Ohio App.3d 39", "8 O.O.3d 36"]
+---
+
+# State ex rel. Sneary v. Miller
+
+## Majority (Evans, Judge.)
+
+Evans, Judge.
+This is an appeal by Cecil Webb et al., the defendant/intervenors, from a judgment of the Court of Common Pleas of Allen County granting plaintiff Greg Sneary’s request for a writ of mandamus ordering American Township to issue a “Change in Use Permit” for use of his property which had been improperly designated on the township zoning map as “commercial use” property. Additionally, Sneary has filed a cross-appeal from the court’s granting of the defendant/intervenors’ motion to intervene in the suit, and from the court’s denial of his motion to strike from the record two transcripts of township meetings, filed by the intervening defendants.
+This action arose out of an administrative error made upon redrafting of the American Township zoning map in 1983, pursuant to the rezoning of an area designated as “industrial” to “commercial.” The new map identified the previously zoned industrial area as commercial, but incorrectly reflected that an adjacent residential area was also rezoned as commercial property. Based on the township map, the assurances of the American Township Zoning Inspector, and the representations of the property sales agent, Greg and Sarah Sneary (“appellees”) purchased property for the purpose of establishing a “used car” sales business. Appellees expended considerable effort and funds to improve the property, including clearing of the land, construction of a building, installation of a sewage system, etc. Approximately two days before appellees’ “grand opening,” they received notice from the zoning inspector that the land had been improperly designated as commercial property on the zoning map, and, in fact, was still classified as Class I Residential property, and that a used car lot was not a permitted use under the American Township Zoning Resolution.
+Although they maintained throughout this action that the property was, in fact, rezoned when the new map was incorrectly drawn and presented to the public, appellees applied to the township for a rezoning of their property to conform to its present use. Following hearings before the zoning board and the township trustees, appellees’ application for rezoning was denied due to opposition by appellees’ residential neighbors. Thereafter, appellees filed this action in mandamus requesting the common pleas court to order the zoning officer to issue a “change of use” permit allowing appellees to operate a used car dealership in a residential zone. Appellees claimed a right to relief pursuant to Section 24 of the American Township Zoning Resolution. Shortly before the hearing was held on appellees’ complaint, the appellants herein filed a motion to intervene, contending that their interests in the zoning dispute were not properly represented by the attorney for the township trustees. The court granted the intervenors’ motion.
+A hearing on the complaint was held on October 8, 1991. The trial court granted the requested writ, and ordered the American Township Zoning Inspector to issue appellees a zoning permit, finding as follows:
+“[T]he defendant American Township Trustees designated and rezoned by law the subject premises * * * as ‘Commercial District’ in 1983:
+“(1) by its own action of incorporating and publishing the Zoning Map as part of the Zoning Ordinance;
+“(2) by its action of having said Zoning Map on record at the Township Office and Allen County Regional Planning Commission and relied upon by the general public and specifically the Plaintiff-Relators Greg Sneary and Sarah Sneary.”
+On October 16, 1991, the zoning inspector issued the permit as ordered by the court. Appellees have since operated their dealership on the “rezoned” lots.
+The intervening defendants in this action, Cecil Webb et a!., appealed the trial court’s granting of the requested writ and resulting “rezoning” of appellees’ property; the American Township trustees have not appealed the court’s decision. Appellees have appealed, on cross-appeal, the court’s granting of the neighbors’ motion to intervene.
+FIRST ASSIGNMENT OF ERROR
+“The trial court erred by granting a writ of mandamus and thereby rezoning an area of American Township.”
+SECOND ASSIGNMENT OF ERROR
+“The trial court erred in the granting of an extra-ordinary writ.”
+This was an action in mandamus. “The basic purpose of a writ of mandamus is to compel a public officer [here, the township zoning inspector] to perform the duties imposed on him by law.” State ex rel. Scott v. Masterson (1962), 173 Ohio St. 402, 404, 20 O.O.2d 36, 37, 183 N.E.2d 376, 379. The Supreme Court of Ohio has delineated the circumstances under which a writ of mandamus shall issue. In State ex rel. Westchester Estates, Inc. v. Bacon (1980), 61 Ohio St.2d 42, 15 O.O.3d 53, 399 N.E.2d 81, the court stated as follows:
+“In order to grant a writ of mandamus, a court must find that the relator has a clear legal right to the relief prayed for, that the respondent is under a clear legal duty to perform the requested act, and that relator has no plain and adequate remedy at law.” Id. at paragraph one of the syllabus (citing State ex rel. Harris v. Rhodes [1978], 54 Ohio St.2d 41, 42, 8 O.O.3d 36, 37, 374 N.E.2d 641, 642).
+Contrary to the trial court’s assertion that mandamus is an equitable remedy, the Supreme Court has found that “the remedy by mandamus rests upon the legal rights of the relator, on the one hand, and the legal obligations and duties of respondent, on the other, and cannot be predicated solely upon the equitable rights and obligations existing between the parties.” State ex rel. Carson v. Stock Twp. Bd. of Edn. (1926), 115 Ohio St. 55, 58, 152 N.E. 646, 647. The court in Carson went on to point out that the “principal extraordinary remedy” to seek for equitable relief is an injunction.
+’ Clearly, the trial court in the case before us granted the requested relief on equitable principles, finding that, since appellees had relied to their detriment on the misrepresentations of the township officials and the zoning map, the township should be estopped to deny the requested zoning permit. Consequently, we find that the trial court erred in granting the writ of mandamus, when the requisite legal rights and coincident duties are not present.
+Zoning ordinances are enactments authorized by the legislature, and must therefore conform to the procedures prescribed by statute. A court of law or equity may not judicially rezone properties subject to zoning regulations properly promulgated pursuant to the statutes. R.C. 519.12 sets forth the procedure which must be followed in order to rezone property. Obviously, then, one may not request a court to “rezone,” or order rezoned, a property whose zoning status may only be changed through procedures prescribed by law.
+We therefore find that the appellees herein had no legal right to a zoning permit, and that American Township had no legal duty to grant the permit. Appellees’ application for rezoning was subjected to all the required procedures under the zoning ordinance, and was properly rejected by the board in consideration of the wishes of township citizens who would have been affected by the zoning change. Moreover, legal remedies exist which appellees could have pursued, further illustrating appellees’ lack of need to pursue the extraordinary remedy of mandamus. Thus, we find this appeal well taken; the assignments of error are sustained.
+ASSIGNMENT OF ERROR ON CROSS-APPEAL
+“The Appellants/Cross-Appellees lacked standing to intervene in this matter because their interests were adequately represented in this action and therefore the trial court erred by granting their Motion to Intervene.”
+This assignment of error is not well taken. It was within the discretion of the trial court to find that the intervenors’ interests were not adequately -represented by the township trustees. Therefore, pursuant to Civ.R. 24(A)(2), appellants were properly permitted to intervene. See, e.g., Norton v. Sanders (1989), 62 Ohio App.3d 39, 43, 574 N.E.2d 552, 555.
+Having found error prejudicial to appellants herein, in the particulars assigned and argued, we reverse the judgment of the trial court and remand the cause to that court for an order to the zoning inspector to revoke the zoning permit at issue herein.
+Judgment reversed and cause remanded.
+Hadley, P.J., and Shaw, J., concur.
+. Although cross-appellants filed a notice of appeal from the court's denial of their motion to strike, they did not assign error to or brief that issue. Thus, pursuant to App.R. 16(A) and 12(A)(2), we decline to address the issue.
+. Section 24 details the procedure for obtaining a "zoning permit.”
+. Subsequently, when the zoning map was corrected to show the proper zoning designations pursuant to the 1983 amendment to the zoning ordinance, appellees’ property was shown to be rezoned as commercial property, while the surrounding adjacent lots were designated residential.
+. Since the only appellants herein are the intervenors it must be obvious that their interests have not been represented by the township trustees, who promptly issued appellees the zoning permit upon order of the court, and have not appealed the order.
