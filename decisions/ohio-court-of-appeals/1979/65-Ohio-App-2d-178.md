@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "79AP-21 and 79AP-22"
+decided: "1979-06-12"
+citations: ["65 Ohio App. 2d 178"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Strausbaugh, P. J., and Whiteside, J., concur."]
+parties: ["United States Steel Corporation, Appellant, v. Williams, Director, Appellee."]
+source_url: "https://static.case.law/ohio-app-2d/65/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1486694
+cites_cases: ["412 F. 2d 65", "55 Ohio App. 2d 272"]
+---
+
+# United States Steel Corp. v. Williams
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+In 1974 United States Steel (hereinafter U. S. Steel) applied to the Ohio Environmental Protection Agency for variances to operate its Lorain Coke Plant and its Cuyahoga Work Boilers claiming that granting of the variances was required because it was technically infeasible and economically unreasonable to meet the strict requirements for Ohio particulate emissions limitations and sulfur dioxide emissions limitations. U. S. Steel further asserted that granting of the variances would not interfere with the attainment and maintenance of the national ambient air quality standards. The Director of Environmental Protection issued a proposed denial of the variances from which U. S. Steel filed a timely request for an adjudication hearing, pursuant to R. C. 3745.07.
+The director summarily dismissed the application for an adjudication hearing on the ground that his regulation, Ohio Adm. Code 3745-35-03 (formerly EP-32-03), prohibits granting any variance after April 15, 1977. The Environmental Board of Review affirmed.
+U. S. Steel presents the following assignments of error:
+“I. The Ohio Environmental Board of Review erred in denying United States Steel Corporation an opportunity to present factual evidence as to its right to variances from Ohio air pollution control regulations.
+“II. The Ohio Environmental Board of Review erred in denying United States Steel Corporation an opportunity to present factual evidence for the purpose of demonstrating the unreasonableness of certain Ohio air pollution control regulations as applied to its facilities.
+“HI. Refusal of the Ohio Environmental Board of Review or the Director to grant an adjudication hearing to allow U. S. Steel to present factual evidence as to its rights for variances from Ohio air pollution regulations is a denial of U. S. Steel’s right to due process of law under the United States and Ohio Constitutions.”
+The basic issue is whether R. C. 3704.03(H) requires the director to consider an application for variance for emissions in excess of applicable emissions standards when the variance will not affect the attainment and maintenance of national air quality standards.
+In Cleveland Electric Illum. Co. v. Williams (1977), 55 Ohio App. 2d 272, we pointed out that R. C. 3704.03(H), which provides that the Director of Environmental Protection has the power to issue, revoke, modify or deny variances from his regulations under certain stated conditions, was at first blush inconsistent with the director’s regulation which absolutely prohibits granting a variance to operate an air contaminant source in the region in which U. S. Steel is operating in violation of emission standards applicable to such region and source after April 15,1977. However, in Cleveland Electric Ilium. Co. we resolved the apparent conflict by pointing out that R. C. Chapter 3704 was amended in 1971 (134 Ohio Laws 635 et seq.) in order to comply with the 1970 amendments to the Federal Clean Air Act (84 U. S. Statutes 1676 et seq., P.L. 91-604) and that it was necessary to enact an approvable plan in order to prevent the federal administrator from promulgating federal regulations enforceable by the United States Environmental Protection Agency against sources of air pollution in Ohio. With this consideration in mind and in light of the fact that the federal standards required compliance by April 15, 1977, we concluded that the director’s regulation absolutely prohibiting variances which would offend the Federal Clean Air Act after that date was reasonable and consistent with the philosophy of R. C. Chapter 3704 and R. C. 3704.03(H). We did not address the issue of whether a regulation totally prohibiting variances from Ohio regulations only, where the Ohio regulations are not in violation of federal regulations, is permissible in light of R. C. 3704.03(H). That is the issue in this case as U. S. Steel asserts that, if given the opportunity, it will prove that the variances sought will not affect the timely attainment of national air quality standards or be in violation of federal law.
+It is inconsistent with the legislative directive of R. C. 3704.03(H) for the director to adopt a regulation flatly refusing to consider variances where the variance will not violate federal law and, thus, jeopardize Ohio Environmental Law. The General Assembly has mandated that the director shall hear and consider applications for variances based upon the criteria set forth in R. C. 3704.03(H). The director’s regulation, Ohio Adm. Code 3745-35-03 (formerly EP-32-03), if interpreted to absolutely prohibit consideration of a variance despite no conflict with federal law or objectives, undermines the purpose of R. C. 3704.03(H) and is invalid. The statute requires the director to exercise his discretion in accordance with the provisions of R. C. 3704.03(H), rather than refuse to consider the matter. See Marsano v. Laird (C.A. 2, 1969), 412 F. 2d 65, 69.
+The director argues that a more flexible regulation for variances has been proposed, but that adoption should be solely within his prerogative. He also argues that if we eliminate the flat prohibition part of his variance regulation that we will be rewriting the regulation. Neither argument is valid. The remainder of his variance regulation is still in effect and the statutory considerations criteria of R. C. 3704.03(H) must be followed in considering variances. The only effect of this decision is that there can be no absolute refusal to consider variance requests where the variance will not affect the timely attainment of national clean air standards or be in violation of federal law. When a variance is sought from more strict Ohio standards, R. C. 3704.03(H) can be utilized to determine whether a variance should be granted.
+U. S. Steel’s first and second assignments of error are sustained. The causes are remanded to conduct an adjudicatory hearing to determine whether granting of the variances would violate federal law and, if not, to then consider whether U. S. Steel is entitled to variances under R. C. 3704.03(H) and the director’s regulations.
+U. S. Steel’s third assignment of error is overruled as moot, as the director is required to conduct an adjudication hearing.
+U. S. Steel’s first and second assignments of error are sustained. U. S. Steel’s third assignment of error is overruled. The orders of the Ohio Environmental Board of Review are reversed and the causes are remanded for further procedure consistent with this decision.
+Orders reversed and causes remanded.
+Strausbaugh, P. J., and Whiteside, J., concur.
