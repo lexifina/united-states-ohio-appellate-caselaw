@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3940"
+decided: "1948-07-09"
+citations: ["84 Ohio App. 113"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doyle, P. J., and Stevens, J., concur."]
+parties: ["Williams et al., Appellants, v. The Goodyear Aircraft Corp., Appellee."]
+source_url: "https://static.case.law/ohio-app/84/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395295
+cites_cases: ["44 Ohio Law Abs., 407", "45 Ohio Law Abs., 606", "61 N. E., 152", "64 N. E., 123", "65 Ohio St., 104", "66 Ohio St., 316", "67 Ohio App., 175"]
+---
+
+# Williams v. Goodyear Aircraft Corp.
+
+## Majority (Hunsicker, J.)
+
+Hunsicker, J.
+This case arises as an appeal and cross-appeal on questions of law from an order of the Common Pleas Court of Summit county, sustaining in part and overruling in part a demurrer filed by the cross-appellant, Goodyear Aircraft Corporation, to the petition of the plaintiffs, Weldon M. Williams and others.
+Williams and others commenced an action against their former employer, Goodyear Aircraft Corporation, hereinafter called corporation, to recover, in their own behalf and in behalf of all persons similarly situated, a money judgment under a claim for time spent by them in going from the entrance to the corporation property to the place where the employees rang their clock cards to begin the day’s work, and the time spent in leaving the corporation premises after they had rung the clock cards at the end of the day’s work.
+After this petition was filed, 213 additional employees, by leave of court, were made parties plaintiff and sought relief on the same claim as the original plaintiffs.
+The corporation filed a demurrer to the petition claiming that (1) the petition did not state a cause of action and (2) there was an apparent misjoinder of parties plaintiff.
+The trial court sustained the demurrer to the claim that the petition did not state a cause of action and overruled the demurrer to the second claim of misjoinder of parties plaintiff.
+This appeal on questions of law has been taken by all of the plaintiffs from the order made against them, and a cross-appeal has been perfected by the corporation from the order with respect to misjoinder of parties plaintiff.
+The plaintiffs alleged that this action did not arise under the provisions of the Fair Labor Standards Act and was not a claim for minimum wages, unpaid overtime, or liquidated damages arising by reason of nonpayment of minimum wages or overtime compensation. The plaintiffs did say that their claim was for compensation on defendant’s promise implied in law to pay plaintiffs for all time spent in discharging plaintiffs’ duty to the defendant which was necessarily incident to the day’s work.
+The plaintiffs alleged that they were former employees of the corporation, but were no longer employed by it. The plaintiffs alleged further that, for the entire period covered by plaintiffs’ employment, the corporation was under contract with the United States Government on a cost-plus fixed-fee agreement, in which contract, as a part.of the labor cost charged by the corporation to the United States Government, the time of plaintiffs and all others employed by the corporation in going to and from the entrance to the time clock for purposes of ringing in and out of work was used as a basis for computation of the corporation profits on its government contract.
+There was no direct, allegation that the plaintiffs, and other employees, for whom they claimed compensation, had not been paid for the time spent in the corporation employment after ringing in and before ringing out at the time clock. The only inference that can necessarily follow is that they had been so paid, and that this claim was for additional compensation.
+The plaintiffs have disclaimed, in their petition, briefs and oral arguments, any intention to ask for ■compensation under the so-called portal-to-portal cases. Plaintiffs, in their brief and in oral argument, also specifically deny that they seek compensation based on a contract implied in fact, but do say that their claim is based on a common-law doctrine which in law implied a promise to compensate the employees for time spent on the corporation premises, over and beyond that compensation which these employees received for work done between the period of ringing in and ringing out at the time clock. We direct our attention, then, to this claim of the plaintiffs.
+All true contracts grow out of the intentions of the parties, and it is essential that there be a meeting of the minds in an implied as well as an express contract. Columbus, H. V. & T. Ry. Co. v. Gaffney, 65 Ohio St., 104, 61 N. E., 152; Price v. Cleveland Trust Co., 45 Ohio Law Abs., 606, 68 N. E. (2d), 133.
+“Contracts are express when their terms are stated by the parties. Contracts are often said to be implied when their terms are not so stated. The distinction is not one of legal effect, but in the way in which mutual assent is manifested.” 1 Williston on Contracts (Rev. Ed.), Section 3.
+Under the common law, all rights enforced by actions ex contractu, such as actions of assumpsit, were regarded as based on contract. Some of those rights were created not by mutual assent but were imposed by law.
+' Mutual assent was not a necessary element to establish the rights, so they were said to have arisen from contracts implied in law. In this class of cases the notion of a contract is fictitious, for there are none of the elements of a contract necessarily present. As a result, there has developed considerable confusion in the decisions through the use, by the courts, of the words “implied contract” to designate what is not a real contract.
+The term now used to describe obligations enforcibleby an action ex contractu where there has been no-mutual assent is “quasi contract.” 17 Corpus Juris Secundum, Contracts, Section 6; 1 Restatement of Contracts, Section 5.
+It is necessary, then, to realize the difference between the way in which rights arise under real contracts and the way they arise under quasi contracts,, and to distinguish the legal relations created by them.
+Quasi contracts developed from the desire of the-law to bring about justice without any reference to-the intention of the parties, and sometimes contrary to their intention. The principle upon which they are-founded is prevention of unjust enrichment, and the-remedy provided is by an action as though it were upon a contract. 12 American Jurisprudence, Contracts,. Section 6.
+Typical examples of quasi-contract rights are the-right of recovery for money paid by mistake, the right of obtaining payment for the value of property or services obtained by fraud, the right to recover money expended by a political subdivision for the support of paupers whose legal settlements are in a different subdivision and the right to recover the value of necessities furnished an infant or married woman.
+The law does not recognize the coexistence of a-quasi contract and an express contract covering the-same subject. Cale v. Kiner, Exr., 44 Ohio Law Abs., 407, 63 N. E. (2d), 839; 17 Corpus Juris Secundum, Contracts, Section 6; 3 Page on Contracts (2 Ed.),. Section 1438.
+The plaintiffs alleged that they were former employees of the corporation, which in effect was an allegation that a contract of employment had been entered' into between the plaintiffs and the corporation.
+A contract includes not only the terms set forth in-express words, but by implication all the provisions indispensable to effectuate the intention of the parties, without which the contract itself could not be performed. Therefore, in order to completely perform the contract of employment into which the parties had entered, it became necessary to pass over a portion of the corporation property to get to the place where productive work could begin.
+The parties in the instant case made a contract covering the whole subject matter, and no promise can be implied to pay for travel and time-clock ringing over and beyond that which was inherent in the original contract of employment. The only logical conclusion which can be reached is that it was the intention of the parties that the work to be performed would require going to and from the place of productive work, and that the pay received was the full compensation contemplated by the parties for all time expended by plaintiffs in performing their customary services for the defendant.
+The plaintiffs did hot allege facts which set forth •a cause of action, and hence the demurrer, on that ground, was properly sustained.
+In our consideration of the cross-appeal, we think the trial court was in error in overruling the demurrer .as to an apparent misjoinder of parties plaintiff. Section 11254, General Code, reads:
+“All persons having an interest in the subject of the .action, and in obtaining the relief demanded, may be joined as plaintiffs except as otherwise provided.” Section 11257, General Code, is:
+“When the question is one of a common or general interest of many persons, or the parties are very numerous, and is impi'acticable to bring them all before the court, one or more may sue or defend for the benefit of all.”
+This was an action at law to recover a judgment for money only. The plaintiffs were employed at the same-place, it is true, but their duties were different, their travel and clock-ringing times were different, and their rates of pay per job or hour were different. Each cause of action, if any existed, was peculiar to the individual as to days worked, time spent, and all the-other matters relating to each employee individually.
+This was not a class suit, as that term is used, for the interest of each was separate from the claim of the-other, and, notwithstanding the allegation of the petition to that effect, the facts as pleaded demonstrate that it was not a proper case for the joinder of the parties as plaintiffs. Pemberton v. Board of Edn., Toledo, 67 Ohio App., 175, 36 N. E. (2d), 170; Brown v. Ginn, Trustee, 66 Ohio St., 316, 64 N. E., 123.
+There was no liability of the corporation to the-plaintiffs jointly, but only a claimed liability to each severally, and their joinder in this action was improper.
+The judgment of the trial court, sustaining the demurrer on the ground that the petition did not state-a cause of action, is affirmed.
+The judgment overruling the demurrer as to misjoinder of parties plaintiff is reversed, as being contrary to law. This court will enter the judgment which the trial court should have rendered. The demurrer is sustained upon the second ground thereof for misjoinder of parties plaintiff.
+Judgment accordingly..
+Doyle, P. J., and Stevens, J., concur.
