@@ -1,0 +1,66 @@
+---
+court: "Ohio Court of Appeals"
+docket: "165"
+decided: "1951-07-02"
+citations: ["89 Ohio App. 161"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hildebrant, P. J., and Matthews, J., concur."]
+parties: ["Bolser, Appellant, v. Smalley, Appellee."]
+source_url: "https://static.case.law/ohio-app/89/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1403364
+cites_cases: ["111 Ohio St., 502", "145 Ohio St., 538", "146 N. E., 71", "146 Ohio St., 657", "148 Ohio St., 365", "23 Ohio St., 626", "46 Ohio App., 177"]
+---
+
+# Bolser v. Smalley
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an action to recover damages for injuries alleged to have been received by the plaintiff through defendant’s negligence while she was a passenger for hire in a taxicab owned and operated by defendant.
+The issues of fact were submitted to a jury which returned a verdict for the defendant, upon which judgment was rendered. This appeal is from that judgment.
+The first error assigned is that the court erred in dismissing the original panel which had been seated in the jury box and in continuing the cause until a later date when the jury was selected from a new panel. The action of the court was motivated by the fact that plaintiff’s counsel had asked one of the panel, in the presence of the others, about having an action against an insurance company growing out of an automobile accident. The court considered the question as prejudicial and for that reason dismissed the whole panel.
+We find no prejudicial error in such action. It was a matter which rested within the sound discretion of the trial court and we find no abuse of discretion.
+Furthermore, there is no claim that the jury which was finally impaneled was prejudiced or in any other respect incompetent to weigh the evidence fairly and render an impartial verdict.
+This action differs from most actions for damages for personal injuries caused by negligence in that the defendant not only denied any negligence but also denied any injury. The defendant alleged that there was no violent movement of the taxicab which could have caused physical injury to a passenger, and followed that allegation with the assertion that in fact no injury was suffered. There was evidence that plaintiff had been injured in a prior accident and also had suffered for years with a chronic ailment, and that this,' rather than any injury caused by defendant, accounted for her physical condition. This evidence required these two issues to be submitted to the jury, and they were so submitted.
+In the general charge the court stated the issues as follows: “First, was the driver of the cab negligent in the manner claimed by the plaintiff, and, secondly, was the plaintiff injured as a proximate result of such negligence.”
+The court also stated to the jury, among other things, that “it, therefore, becomes necessary for you to determine whether the injury that she complains of now is a proximate result of the mishap in 1948, or the mishap in 1939, or from some other cause, as from degeneration of the body tissues or disease.”
+An examination of the assignments of error and brief discloses that no error is claimed to have been committed relating to the issue of whether the plaintiff had in fact been injured in any way by the conduct of the defendant. All the alleged errors relate to the issue of negligence and the damage in the event the jury found that defendant had been negligent and plaintiff had been injured as á direct result.
+Such being the situation, it seems to us that the two-issue rule, as announced in Sites v. Haverstick, 23 Ohio St., 626, and applied in Bush, Admr., v. Harvey Transfer Co., 146 Ohio St., 657, 67 N. E. (2d), 851, and other cases, precludes us from reversing the judg-' ment appealed from.
+The plaintiff’s whole case was based on her allegation that she had been injured. If she was not injured the conduct of the defendant, negligent or otherwise, became immaterial. No special interrogatories were submitted or requested. We cannot say that the general verdict in favor of defendant was not predicated on the finding of the jury that the piaintiff had received no injury.
+We have examined all the assignments of error and find that, with three exceptions, they relate to rulings on matters falling within the sound discretion of the court on matters of an immaterial nature. We find no abuse of discretion.
+One of the exceptions relates to the refusal of the court to give a special charge requested by plaintiff. This charge purports to state abstractly the duty of a common carrier toward his passengers without any attempt to relate the charge to the issues in the case at bar. It is not error for the court to refuse to give an abstract statement of the law, even though it is a correct statement. The charge is also incorrect in that it would require the carrier to insure the safely of the passengers. For these two reasons, the court was justified in refusing to give it.
+There is another feature of this record, which, if we read it correctly, bears on the reversibility of the refusal to give the special' charge requested by plaintiff and the giving of the special charge requested by the defendant, and that is that the plaintiff alleged that the defendant was a common carrier, which was denied by the defendant. Our examination of the record fails to disclose any evidence on that subject, unless the reference to the vehicle as a taxicab and the answer of the defendant as that of a taxicab operator would justify an inference that he was holding hihiself out as a common carrier. Of course, the burden was on the' plaintiff to prove the allegation. In the absence of such proof the rule of ordinary care would be the measure of the defendant’s duty to the plaintiff. We 'call attention to this apparent failure of proof, without, however, making it the basis of our decision.
+The special charge requested by the defendant, which the court gave, related to the defendant's duty when confronted with an emergency. This charge contained the statement that when so confronted, if “he did or attempted to do what any reasonably prudent person would have done under the same or similar circumstances, then he was not negligent.” It is claimed that this statement ignores the duty of a common carrier to use the highest degree of care toward passengers, which an ordinarily careful person would use under similar circumstances.
+In 10 American Jurisprudence, 214, Section 1344, it is stated that “the decisions are in accord upon the proposition that a carrier is not liable for injuries to a passenger resulting from the application of the emergency brakes in order to avoid or prevent an imminent danger not otherwise avoidable, and reasonably believed to be attended with more serious consequences than the sudden application of brakes.”
+In the general charge also the court applied the rule of ordinary care. At no place in the charge did the court refer to the defendant as a common carrier. This may be accounted for by the absence of proof on that subject. It seems that the only places where there is any suggestion that the defendant was being charged as a common carrier were the petition and the special charge presented by plaintiff. No exception was reserved to the refusal to give the Special charge or to’ the general charge as given.
+We have concluded that the record as a whole shows no reversible error, and that substantial justice has been done.
+For these reasons, the judgment is affirmed.
+Judgment affirmed.
+Hildebrant, P. J., and Matthews, J., concur.
+
+## Concurrence (Ross, J.,)
+
+Ross, J.,
+concurring. I concur in the judgment of this court and also in the conclusion of the majority of the court that the application of the “two-issue rule” is required.
+The special charge, mentioned in the majority opinion, and given at the request of the defendant, is as follows:
+“The court charges you that where one, without fault of his own, is placed in a position of great mental stress or sudden emergency, the same degree of judgment and care is not required of him as is required of one who is acting under normal conditions. The test to be applied is whether or not the person in such a position of great mental stress or sudden emergency did, or attempted to do, what a reasonably prudent person would have done under the same or similar circumstances.
+“If, therefore, you find from the evidence in this case, that the driver of the taxicab, without fault on his part, was placed in a position of great mental stress or sudden emergency, and that while in such a position, he did or attempted to do what any reasonably prudent person would have done under the same or similar circumstances, then he was not negligent.”
+The first sentence of this charge does not state a correct principle of law, as is indicated by the later statement in the same charge of the correct rule.
+In Pennsylvania Rd. Co. v. Lindahl, Admr., 111 Ohio St., 502, 511, 146 N. E., 71, Judge Allen stated the correct rule, as follows:
+“When Lindahl was confronted with the sudden emergency of finding himself in an automobile crossing a track upon which a train was bearing down, he was required to use only that degree of care which an ordinarily prudent person would exercise under the same or similar circumstances. It was a question of fact whether Lindahl saw the train in time to avoid the accident so far as he was concerned, and used the requisite degree of care, and that question was. rightly submitted to the jury.” See, also, 29 Ohio Jurisprudence, 408, 424, Sections 26, 35.
+In a great many cases, error in instructions of the court is predicated upon a more or less academic viewpoint of the language used.
+In this particular type of charge, however, it is my opinion that the language used has great influence upon a jury. It is told in definite and simple language that there is a different degree of care required of one presented with an emergency from that required of one confronted with an ordinary situation.
+The applicable true rule is so simple that any attempt to modify it is bound to create confusion in the minds of the jurors.
+I think the objectionable portion of the charge was prejudicially erroneous to the plaintiff and constituted reversible error.
+Where the court in an instruction presents to the jury a correct and incorrect rule, the latter predominates, and the error, if prejudicial, vitiates the entire charge upon the particular point involved. Westropp v. E. W. Scripps Co., 148 Ohio St., 365, 366, 74 N. E. (2d), 340; Bosjnak v. Superior Sheet Steel Co., 145 Ohio St., 538, 539, 62 N. E. (2d), 305
+But, as indicated in the majority opinion, there is no criterion before us to test the basis for the jury’s verdict for the defendant, so that unless we are brought within the scope of Bush, Admr., v. Harvey Transfer Co., 146 Ohio St., 657, 67 N. E. (2d), 851, the “two-issue rule” applies.
+Obviously, the question of whether the plaintiff suffered any injury or consequent damages as a proximate result of defendant’s negligence, if such existed, presents a separate issue in the case. Section 11377, General Code; 39 Ohio Jurisprudence, 576, “Trial,” Section 2.
+In this case the plaintiff alleged that she suffered injuries as the proximate result of defendant’s negligence. The defendant denied that she was so injured. As far as the record shows the issue of injury and damage was free from error prejudicial to the plaintiff.
+In Bush, Admr., v. Harvey Transfer Co., supra, the third paragraph of the syllabus is:
+“The two-issue rule is that error in the charge of the court dealing exclusively with one of two or more complete and independent issues required to be presented to a jury in a civil action will be disregarded, if the charge in respect to another independent issue which will support the verdict of the jury is free from prejudicial error, unless it is disclosed by interrogatories or otherwise that the verdict is in fact based upon the issue to which the erroneous instruction related.”
+In that case where the two issues of negligence and contributory negligence were considered, it was held that the latter issue does not arise until the former is found to exist, so that the jury is, perforce, bound to first consider the issue of negligence, where contributory negligence is involved. Such, of course, is not the case here.
+There seems, therefore, no reason for failing to apply, the two-issue rule to the instant case requiring affirmance of the judgment for the reasons inherent in the rule, in spite of the error in the charge on negligence. It may well be that the jury found negligence, but not proximate injury and consequent damage to plaintiff. It is questionable, even if this court were aware of the injurious effect of the special charge on negligence, whether the judgment should be reversed if it was also apparent that the jurj found no injury or damage.
+The writer is bound to recede from his expression of approval of the charge here in question, as stated in Woodward v. Gray, 46 Ohio App., 177, 180, 188 N. E.; 304.
