@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-06-25"
+citations: ["49 Ohio App. 122"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton, P. J., and Richards, J., the latter of the Sixth Appellate District, concur,"]
+parties: ["Flamm v. The Coney Island Co."]
+source_url: "https://static.case.law/ohio-app/49/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1344753
+cites_cases: ["107 Ohio St., 204", "115 Ohio St., 262", "140 N. E., 634", "152 N. E., 726", "194 N. E., 433", "48 Ohio App., 494"]
+---
+
+# Flamm v. Coney Island Co.
+
+## Majority (Ross, J.)
+
+Ross, J.
+This is a proceeding in error from the Court of Common Pleas of Hamilton county, wherein judgment was rendered for the defendant upon a verdict instructed at the close of the evidence for defendant.
+The action was brought to recover damages for injuries suffered by the plaintiff in error, Thelma Flamm, by reason of an infection which she claimed to have contracted from a germ received while in and about the swimming pool and sand beaches operated by defendant in error.
+She alleged that the defendant in error permitted a large number of people to use the pool and' beach, permitted the water to become poisonous, infectious, and injurious to the health of persons using the pool and beach, permitted certain foreign bodies to enter the sand and beach, and knew, or by the exercise of reasonable care should have known, that such was the case.
+It is further alleged that the plaintiff in error became infected with some germ allowed by the defendant in error to exist in the water or sand, and that this infection increased in intensity, finally resulting in a diseased condition of the skin, tissues and muscles of her limb, rendering her permanently disabled.
+The evidence shows that the defendant in error operates a swimming pool and bathing beach in connection with a summer resort; the pool and beach being located just outside the limits of the city of Cincinnati.
+Evidence was introduced showing that the greatest care was used to chlorinate the water, and also to free the sand from any infectious germs or substance.
+It appears that the plaintiff in error in company with a friend, who it does not appear suffered any infection, spent several hours during the middle of the day of July 3,1930, in the pool and upon the beach of defendant in error. The plaintiff in error and her companion were exposed to the sun, which was unclouded practically during the entire time they spent at the resort. On the return of plaintiff in error to her home she found that she was suffering from a severe case of sunburn. She wore no stockings either while going to or from the resort. During the evening she felt an itching on her leg, and, as she stated to one of her physicians, “scratched it a little.” She also applied various remedies to relieve the irritation, which, however, became worse and ultimately resulted in a serious condition which seems to be very slow in responding to treatment. It was the opinion of her physicians that she had in some manner become infected with a malignant germ, and had contracted what is styled a “staphylococcic” infection. There is not one scintilla of evidence in the whole record upon which a jury would be justified in concluding that, first, there was such a germ in the pool or sand controlled by the defendant in error; second, that if there were such a germ present it had come in contact with the person of the plaintiff in error; and, third that that particular germ had caused the infection of which she suffered.
+Giving the evidence introduced the most favorable construction, and assuming that some lack of care might be inferred from the evidence, it would be necessary for the jury in order to find against defendant to predicate upon this inference another inference that such lack of care resulted in the presence of the germ in the sand, and, further, upon this inference to predicate a further inference that such germ being present came in contact with the person of the-plaintiff in error; and a still further inference that having come in contact with her person 'such germ caused the injury of which complaint is made. 29 Ohio Jurisprudence, 629, Section 152, states the rule against consecutive inferences.
+A mere statement of such situation is sufficient to conclusively show that the court was fully justified in instructing a verdict for the defendant in error. Had it done otherwise, error prejudicial to the defendant in error would have intervened.
+Having so concluded, we find it unnecessary to consider assignments of error predicated upon the existence of negligence on the part of defendant in error, since for the purpose of this opinion we have considered that there was sufficient evidence to go to the jury upon this point. The question presented is, was there any evidence directly addressed to proof of the causal connection between the negligence claimed to exist and the injuries suffered by plaintiff in error? As we have recently said the mere co-existence of negligence and injury is not sufficient to establish a causal connection between them. Wartik v. Miller, Admx., 48 Ohio App., 494, 194 N. E., 433; 29 Ohio Jurisprudence, 654; Sobolovitz v. Lubric Oil Co., 107 Ohio St., 204, 140 N. E., 634.
+It is also true that difficulty in securing evidence of such causal connection between negligence and injury can not be substituted for such proof or furnish any reason for becoming illogical in considering the same.
+It is further urged that the doctrine of res ipsa loquihir requires that the case be submitted to the jury. The rule is stated in 29 Ohio Jurisprudence, 635, Section 156:
+“As shown above, the view taken in Ohio seems to be that the doctrine of res ipsa loquitur does not raise a presumption of negligence, but merely warrants an inference of negligence. The rule of res ipsa loquitur is a rule of evidence which permits the jury, but not the court in a jury trial, to draw an inference of negligence, where the instrumentality causing the injury is under the exclusive management and control of one of the parties, and an accident occurs under circumstances where, in the ordinary course of events, it would not occur when ordinary care is observed.”
+However, it is stated in Cleveland Ry. Co. v. Sutherland, 115 Ohio St., 262, at page 264, 152 N. E., 726:
+“It is stated in 29 Cyc., 624, that ‘the maxim res ipsa loquitur relates merely to negligence prima facie and is available without excluding all other possibilities, but it does not apply where there is direct evidence as to the cause, or where the facts are such that an inference that the accident was due to a cause other than defendant’s negligence could be drawn as reasonably as that it was due to his negligence’. ”
+In order for the doctrine to apply here it would be necessary to conclude that the germ which caused the injury to plaintiff in error could not have been acquired by her in any other manner or place than in the pool or sand under the control of the defendant in error. Obviously such a conclusion is not warranted by the facts. There is not even a strong inference that she so acquired it. There is no evidence — not a scintilla, or suggestion — that such germs existed in the pool or sand of the resort. The statements of the physicians that such germs are found in sand, or might have been present, are not sufficient foundation for a contention that they were present.
+Judgment affirmed.
+Hamilton, P. J., and Richards, J., the latter of the Sixth Appellate District, concur,
