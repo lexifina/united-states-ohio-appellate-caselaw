@@ -1,0 +1,62 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA85-04-006"
+decided: "1986-01-31"
+citations: ["30 Ohio App. 3d 228"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Koehler, P.J., Hendrickson and Castle, JJ., concur."]
+parties: ["Christman v. Washington Court House [School District], Appellant; Miami Trace Local School District, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/30/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707468
+cites_cases: ["11 Ohio App. 2d 114", "211 N.E. 2d 57", "228 N.E. 2d 923", "33 O.O. 2d 6", "339 N.E. 2d 820", "4 Ohio App. 2d 4", "40 O.O. 2d 262", "44 Ohio St. 2d 208", "73 O.O. 2d 507"]
+---
+
+# Christman v. Washington Court House
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal from the Court of Common Pleas of Fayette County.
+The facts in the case at bar are not in dispute. On November 13,1984, Gary C. Christman, a minor, was charged with being a delinquent child as a result of an incident that occurred at the Washington Court House Middle School. Two other boys were also charged as a result of the incident. Christman was a student at the middle school and his mother, who had legal custody of Christman, resided within appellant Washington Court House School District.
+On December 13, 1984, Christman entered an admission to the charge and was adjudicated delinquent. One of the other boys was also adjudicated delinquent on the same day. The court delayed the dispositional hearings until after the third boy’s adjudicatory hearing which was scheduled for December 14, 1984. Christman was placed under house arrest and left in the custody of his mother. At the adjudicatory hearing on December 14,1984, a fourth boy was implicated and the prosecuting attorney announced his intention to file charges against the fourth boy. The court then continued the dispositional hearings on all three boys until an adjudicatory hearing could be held for the fourth boy.
+On January 1, 1985, Christman’s family began moving into a new residence in appellee Miami Trace Local School District. The move was completed on January 7, 1985. On January 3, 1985, Christman started school in the Miami Trace School District and his mother signed transfer papers and school forms on that date.
+On January 11, 1985, the disposi-tional hearings for all four boys were held simultaneously. By a judgment entry filed January 14, 1985, the juvenile court committed Christman to the permanent legal custody of the Department of Youth Services for institutionalization. The court ordered that the Washington Court House School District bear the costs of educating Christman. On March 20, 1985, the court ordered that Christman’s commitment to the Department of Youth Services be terminated effective March 29, 1985, that Christman be placed on probation with the Fayette County Juvenile Probation Department, and that Christ-man attend Bogg’s Academy. Washington Court House School District brings an appeal to this court and assigns as error the following:
+“The court below erred by failing to grant the motion of the Washington [Court House] City School District to require the Miami Trace [Local] School District to pay the tuition for Gary C. Christman.”
+The issue before us is whether the school district within which Christman resided at the time permanent custody was granted to the Department of Youth Services should pay the costs of educating Christman or whether the school district within which Christman resided at the time he was adjudicated delinquent should pay the costs?
+Appellant argues that R.C. 3313.64 (C)(2) and 2151.357 require that the school district within which Christman resided at the time permanent custody was vested in the Department of Youth Services is required to pay the costs. Appellee argues that pursuant to Juv. R. 34(C), the court has the discretion to determine which school district should pay the costs and can indulge in equitable considerations in making its determination. Appellee contends that Juv. R. 34(C) is in conflict with R.C. 3313.64 and 2151.357; and, therefore, because the rule and the statutes are procedural, the rule is controlling pursuant to Section 5(B), Article IV, Ohio Constitution.
+Juv. R. 34 governs the procedure to be followed at the dispositional hearing. Juv. R. 34(C) states as follows:
+“After the conclusion of the hearing, the court shall enter an appropriate judgment within seven days. A copy of the judgment shall be given to any party requesting such copy. * * * If the child is not returned to his own home, the court shall determine which school district shall bear the cost of his education and may fix an amount of support to be paid by the responsible parent, or to be paid from public funds.” (Emphasis added.)
+R.C. 2151.357 states in pertinent part as follows:
+“In the manner prescribed by division (C)(2) of section 3313.64 of the Revised Code, the court shall, at the time of making any order that removes a child from his own home or that vests legal or permanent custody of the child in a person or government agency other than his parent, determine the school district that is to bear the cost of educating the child. Such determination shall be made a part of the order that provides for the child’s placement or commitment.” (Emphasis added.)
+R.C. 3313.64 governs inter alia tuition for nonresidents of a school district. R.C. 3313.64(C)(2)(a) provides as. follows:
+“(C) If the district admits a child under division (B)(2) of this section, tuition shall be paid to the district that admits the child as follows:
+* *
+“(2) Except as otherwise provided in division (C)(2)(d) of this section, if the child is in the permanent or legal custody of a government agency or person other than the child’s parent, tuition shall be paid by:
+“(a) The district in which the child’s parent resided at the time the court removed the child from his home or at the time the court vested legal or permanent custody of the child in the person or government agency, whichever occurred first; * * *.” (Footnotes added.)
+We cannot discover any case law that construes the relationship between Juv. R. 34(C), R.C. 2151.357, and R.C. 3313.64(C)(2). However, in 1980, the Ohio Attorney General analyzed the relationship between Juv. R. 34(C), R.C. 2151.357, and R.C. 3313.64. 1980 Ohio Atty. Gen. Ops. No. 80-095. The Attorney General concluded that the juvenile court should follow R.C. 3313.64 in determining which school district was to bear the cost of educating a child who had been placed in the permanent custody of a government agency. (In 1980, R.C. 2151.357 did not include any reference to R.C. 3313.64.)
+In 1981, the legislature amended R.C. 2151.357 to specifically state that the court was to determine the school district that was to bear the costs “[i]n the manner prescribed by division (C)(2) of section 3313.64 of the Revised Code * * (See 139 Ohio Laws, Part I, 438.) Therefore it is apparent that if R.C. 2151.357 is applicable, the juvenile court is required to follow R.C. 3313.64(C)(2) in determining which district bears the cost.
+We find that R.C. 2151.357 is applicable. Juv. R. 34(C) must be read in conjunction with R.C. 2151.357. Both the rule and the statute make it the court’s duty to determine the school district that is to bear the cost. Juv. R. 34(C) sets forth the “time” at which the court is to make the determination regarding which school district bears the cost of education, i.e., at the time of entering judgment. R.C. 2151.357 sets forth the “specific manner” by which the court shall determine which school district bears the cost of education.
+The fact that Juv. R. 34(C) does not set forth guidelines for making the determination, does not make the matter one within the juvenile court’s discretion. The juvenile court must follow the applicable statutes and law and make a determination in accordance therewith. The legislature has specifically provided, via R.C. 2151.357 and 3313.64(C)(2), how a determination is to be made regarding which district is to bear the cost of the education of a child who has been placed in the permanent custody of a government agency. If we were to adopt appellee’s position that the court can employ any standard it wishes in making its determination, R.C. 2151.357 and 3313.64(C)(2)(a) would become virtually meaningless. It is a cardinal rule of statutory construction that a statute should not be interpreted so as to make the statute ineffective. A court must construe the statute so as to render it compatible with other related enactments and construe it so as to avoid unreasonable consequences. Gulf Oil Corp. v. Kosydar (1975), 44 Ohio St. 2d 208, 73 O.O. 2d 507, 339 N.E. 2d 820; In re Appeal of Crabtree (1966), 11 Ohio App. 2d 114, 40 O.O. 2d 262, 228 N.E. 2d 923; Commonwealth Loan Co. v. Downtown Lincoln Mercury Co. (1964), 4 Ohio App. 2d 4, 33 O.O. 2d 6, 211 N.E. 2d 57.
+Therefore, based upon the foregoing discussion, we conclude that Juv. R. 34(C) is not in conflict with R.C. 2151.357 and that R.C. 2151.357 and 3313.64(C)(2) are applicable in determining which school district should bear the cost of educating Christman. Christ-man’s family resided in the Miami Trace Local School District at the time Christman was removed from his home and at the time the court vested permanent custody in the Department of Youth Services; therefore, pursuant to R.C. 3313.64(C)(2)(a), Miami Trace Local School District must pay the cost of educating Christman.
+We note that it is not inequitable, as Miami Trace would have us believe, to require Miami Trace to pay for the cost of educating Christman. Miami Trace would have had to provide Christman with a free education if Christman had remained with his family, and Miami Trace was, in fact, providing Christman with a free education before he was removed from his home. R.C. 3313.64 (B)(1).
+Accordingly, appellant’s sole assignment of error is hereby sustained and judgment is entered ordering Miami Trace Local School District to pay the costs of Christman’s education while attending school in another district.
+The assignment of error properly before this court having been ruled upon as heretofore set forth, it is the order of this court that the judgment or final order herein appealed from be, and the same hereby is, reversed.
+Judgment reversed.
+Koehler, P.J., Hendrickson and Castle, JJ., concur.
+Castle, J., retired, of the Twelfth Appellate District, was assigned to active duty pursuant to Section 6(C), Article IV, Constitution.
+Section 5(B) states in part as follows:
+“The supreme court shall prescribe rules governing practice and procedure in all courts of the state, which rules shall not abridge, enlarge, or modify any substantive right. * * * All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect.”
+R.C. 3313.64(B)(2) provides in part:
+“(B) A child who is at least five but under twenty-two years o'f age shall be admitted to school as provided in this division, but the time in the school year at which beginners may enter elementary school shall be subject to section 3321.01 of the Revised Code and the rules of the board of education of the district in which the school is located.
+(I* * *
+“(2) A child who does not reside in the district where his parent resides shall be admitted to the schools of the district in which he resides if any of the following apply:
+“(a) He is in the legal or permanent custody of a government agency or a person other than his natural or adoptive parent;
+“(b) He resides in a home;
+“(c) He requires special education.”
+R.C. 3313.64(C)(2)(d) is not applicable to the case at bar.
+R.C. 2151.357, in 1980, stated in part as follows:
+“The court shall at the time of making any order which removes a child from his own home determine which school district shall bear the cost of educating such child. Such determination shall be made a part of the order which provides for the child’s placement or commitment.” (See 133 Ohio Laws, Part II, 2040, 2066.)
+The fact that Christman had resided within the Miami Trace Local School District approximately two weeks is not a consideration. There is no specific length of time required to establish a residence under R.C. Chapter 3313. There has been no contention that Christman’s family does not reside in the Miami Trace Local School District.
