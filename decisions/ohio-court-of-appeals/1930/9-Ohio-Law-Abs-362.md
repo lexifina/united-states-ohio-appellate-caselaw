@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 3597"
+decided: "1930-04-14"
+citations: ["9 Ohio Law Abs. 362"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cushing, PJ, and Hamilton, J, concur."]
+parties: ["ROVER, et v DAY WOOD HEEL CO"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895898
+cites_cases: ["1 Cranch, C. C. 109", "12 Oh App 477", "142 Wash. 259", "20 A. L. R. 1101", "25 Texas Rep., 557", "252 Pac. Rep., 939"]
+---
+
+# Rover v. Day Wood Heel Co.
+
+## Majority (ROSS, J.)
+
+ROSS, J.
+In so ruling, we hold the court was ih error: first, because -the opening statement did not conform to the allegations in the’amended petition; and, second, because if these allegations were true, they would have entitled the plaintiffs in error to recover.
+The plaintiffs in error alleged more than they were required to, as will be shown later. They have assumed the burden of proving that the fire was not unavoidable. Even if it be incumbent upon them to carry out this obligation, they should not be precluded from performing this duty, and they were entitled to present their case to the jury, upon the statement made.
+The allegations or the statement that the' fire was not unavoidable means in simplified language, eliminating the double negatives that it was (avoidable; or, in other words, that it occurred because of the fault or neglect of the defendant in error.
+It is the contention of counsel for the defendant in error, and was also the view ©f the court below that it is necessary in an action of this kind that the lessor allege and prove that the tenant was guilty of negligence in causing the fire which destroyed or damaged the premises. We find upon examination that such a position is not sustained by the weight of authority.
+This is an action based upon a lease contract and is not an,action in tort. It is an action predicated upon the promise of the tenant to restore the premises to the lessor in as good order as they were received or may be put by the lessor. This promise, however, was qualified by several exceptions relating to causes of damage to the premises, among which are fire or other unavoidable casualty. We think it manifest that it could not have been the intention of the parties to the lease that the basic covenant of the lessee, to restore tbe premises in as good order as when received, should be modified, yes abrogated, by an exception thereto, including wilful ór negligent destruction of the premises by fire. Carstens v. Western Pipe & Steel Company, 142 Wash. 259 (252 Pac. Rep., 939, at page 941):
+“It would be natural and customary for the lessee to want to escape liability for purely accidental fires and for the lessors to be Willing to grant that relief, but it would not be natural that the lessors would be willing to release the lessee from damages caused by its own active negligence. Such a concession would hardly be looked for in a contract between business men. If the parties intend such a contract we would expect them to so state in clear terms. We think the doctrine of the- case of Price & Co. v. Union Lighterage Co., 6 B. R. C. 119, is quite correct when it says that—
+“When there is a clause in a contract which is ‘capable of two constructions, one of which will make it applicable where there is no negligence on the part of the carrier or his servants, and the other will make it applicable where there is such negligence, it requires special words to make the clause cover non-liability in case of negligence, x x x That being so, the principle that to exempt the carrier from liability for the consequences of his negligence there must be words that make it clear that the parties intended that there should be such an exemption is applicable, x x x x ,and the learned trial judge was right in holding that the contract does not exempt the defendants from liability for their own negligence.’ ” -
+The words “unavoidable casualty” or “inevitable casualty” have been construed as a fire occurring without fault of the tenant. Hodgson v. Dexter (1802) 1 Cranch, C. C. 109, Fed. Cas. No. 6,565, affirmed without decision upon this 'point in (1803) 1 Cranch (U. S.) 345, 2 L. ed. 130. 20 A. L. R., p. 1103. We quote from the opinion as follows:
+“By common acceptation, unavoidable accident means a casualty which happens when all the means which common prudence suggests have been used to prevent it.........When we consider the subject of this contract, that it was the lease of a house for eight months only, we can hardly suppose that the lessee would take pains to insert a clause to guard himself from accidents which might arise from the unusual casualties of earthquakes, tempests, lightning, or public enemies, and entirely overlook the common accident of fire, or that he mean to make himself or the United States insurer against fire. It is not usual for lessees for short terms to become the insurers of the premises against accidental fire, and I shall not presume a contract of that kind, unless it is in very express terms.”
+See also: Howeth, et al v. Anderson, 25 Texas Rep., 557.
+. These decisions, in including fire, extend the application of the. term “unavoidable casualty” beyond the usual acceptation of the words, which are customarily applied not to common and ordinary hap- ■ penings which are within human foresight and control, but rather to occurences of an unusual, unexpected, and extraordinary character which occur without- any direct participation of the landlord or tenant; See Note: 20 A. L. R. 1101.
+However, when “fire” is linked with the clause “other unavoidable casualty”, it would seem that the reasonable intention of the parties was to apply the characteristics of unavoidable to fire as well as to an .exigency which it by propinquity especially described to-wit: casualty. Such was the interpretation adopted by the trial court and ap; jroved by the court of appeals in the case df Karl v. Jackson, 12 Oh App 477.
+We are of opinion, therefore, that, under proper pleading, the lessor basing his cause of action upon such a claim in the lease as is involved herein, may require the lessee to perform the covenant to return the premises in as good order as'when received, and that the lessee may defend-by answering and proving that he is unable to do so, and that his inability is due to a fire caused without his fault or neglect, that is, unavoidable, as the term is commonly understood. Moreover, such holding we conceive is justified by the position of the parties with reference to the availability ef evidence, as for example, in the instant case the facts incident to the fire would naturally be more easily available to the tenant, who was in possession, custody, and control of the premises, than to the lessor, who was out of possession, and to a large extent unfamiliar .with the manner in which the premises were used by the tenant and its employes.
+A reformation of the pleadings will manifestly simplify the issues as they are presented by the lease contract.
+As to the second cause of action, it is interesting to note that the record 'fails to show that the lessee attempted to avail itself of the provisions of 8521 GC. Possibly such failure was due to the fact that the premises were not seasonably surrendered.
+For the reasons given, the judgment of the court of common pleas is reversed, and the cause is remanded for such further proceedings as are in accordance with law.
+Cushing, PJ, and Hamilton, J, concur.
