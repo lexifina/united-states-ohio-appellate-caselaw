@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 506"
+decided: "1937-04-12"
+citations: ["24 Ohio Law Abs. 535"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, PJ, HORNBECK and GEIGER, JJ, concur."]
+parties: ["JENKINS v LANSDOWNE et"]
+source_url: "https://static.case.law/ohio-law-abs/24/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679460
+cites_cases: ["10 O.C.C. 63", "10 Oh St 559", "2 O. Dec. Rep. 597", "2 Oh St 1", "82 Oh St 113"]
+---
+
+# Jenkins v. Lansdowne
+
+## Majority (By THE COURT)
+
+OPINION
+By THE COURT
+The plaintiff, the duly appointed, qualified and acting guardian of Falkland MacKinnon Lansdowne, a minor, instituted her action against the defendant, .John K. Lansdowne, executor of the estate of Elizabeth K. Lansdowne, deceased, Harry Lansdowne, George A. Katzenberger and Conrad Kipp, defendants, sureties on the bond of John K. Lansdowne, executor.
+The petition sets forth Item II of the will of Elizabeth K. Lansdowne, deceased:
+“I .give, devise and bequeath all of my property, both real and personal, share and share alike to my three children, John Knox Lansdowne, Harry M. Lansdowne, and Zachary Lansdowne, and their legal representatives, except a payment of $300.00 to St. Paul’s P. E. Church of Greenville, Ohio to be first paid.”
+Plaintiff says that Zachary Lansdowne died before the testatrix, Elizabeth K. Lansdowne; that by the terms of the will of Zachary Lansdowne, deceased. Margaret Ross Lansdowne, widow, was named sole beneficiary and heir at law; that in an action instituted in the Court of Common Pleas, Darke County, Ohio, wherein John K. Lansdowne, executor of the estate of Elizabeth K. Lansdowne, deceased, was plaintiff and John K. Lansdowne and Harry M. Lansdowne, children of Elizabeth K. Lansdowne, deceased, Margaret Lansdowne, daughter of Zachary Lansdowne, deceased, Margaret Ross Caswell, formerly Margaret Ross Lansdowne, widow of Zachary Lansdowne, deceased, Margaret Ross Caswell, guardian of Margaret Lansdowne, a child of Zachary Lansdowne. deceased, Mildred M. Jenkins, guardian of Falkland Lansdowne, a child of Zachary Lansdowne, deceased, were named parties defendants and that by a decree of court in the action Falkland MacKinnon Lansdowne and Margaret Lansdowne were declared the true and lawful heirs of Zachary Lansdowne, and “together entitled to the 1/3 share of the estate of Elizabeth K. Lansdowne, deceased”; further averred that the defendant, executor of the estate of Elizabeth K. Lansdowne, has paid out and distributed as said executor to Harry Lansdowne the sum of $9,000.00, to John K. Lansdowne the sum of $9,028.00 and to Margaret Ross Caswell the sum of $9,000.00, and that the sum so paid to Margaret Ross Caswell should have been paid to the guardians of Falkland MacKinnon Lansdowne • and Margaret Lansdow-ne, minor children of Zachary Lansdowne, deceased, and that the plaintiff as guardian of Falkland MacKinnon Lansdowne was entitled to receive the sum of $4,500.00 from the executor of Elizabeth K. Lansdowne, 'deceased; further averred that the plaintiff “has made demand for said sum upon John K. Lansdowne, executor of the estate of Elizabeth K. Lansdowne, deceased, and upon the defendants, bondsmen of said executor, which demand was refused.”
+The prayer of the petition is for a judgment in the sum of $4,500.00, with interest and costs. To this- petition a general demurrer was interposed by the defendant executor and by the defendant George A. Katzenberger, which was sustained. The plaintiff desiring to plead no further, judgment was entered against the plaintiff for costs. From this judgment of the trial court appeal on questions of law is presented.
+We find an amended petition in the transcript of docket and journal entries which, together with demurrers thereto, is a part of the transcript but the final entry appears to have been drawn and filed with reference to the original petition. We have, therefore, considered the demurrer as though directed to the original petition.
+A consideration of the averments of this petition discloses that there is much left unsaid which would be most helpful in stating a cause of action.
+However, in testing the pleading, as upon demurrer, it must be liberally construed and if it sets out a sufficient cause of action though it may be defectively stated a demurrer will not lie. No matter how awkward the pleading if the necessary facts can be derived therefrom, a demurrer will not be sustained. Bowling Green v C. H. & D. R. Co., 10 O.C.C. 63.
+The brief of counsel for the appellee very succinctly and properly sets out the essentials of a cause of action in this case as follows:
+(1) , That appellant’s ward is entitled to participate in the distribution of the estate in question.
+(2) The extent, and how, the amount of such distributive share determined.
+(3) Has demand been made upon such executor therefor?
+It requires considerable deductive interpretation to find the necessary allegations to constitute the plaintiff’s cause of action, but we believe they are to be found. Item 2 of the will of Elizabeth K. Lansdowne, deceased, is set forth. The relationship of parties interested who take under the item and of the plaintiff who takes through her father, Zachary, also appears. Item 2 devises and bequeaths all of Elizabeth Lansdowne’s property to her three children, John Knox, Margaret M. and Zachary Lansdowne, except a payment of $300.00 to St. Paul’s P. E. Church of Greenville, Ohio. It is averred that a court of competent jurisdiction determined that the two children of Zachary Lansdowne were “together entitled to the one-third share of the estate of Elizabeth K. Lansdowne, deceased.” One of these children is the plaintiff.
+That is sufficiently certain which can be made certain. Under the decree thus plead, these children were entitled to the one-third share of any money “distributed” by the executor of the estate of Elizabeth K. Lansdowne. The petition further avers that said executor paid out and “distributed” the sum of $9,000.00 to Harry Lansdowne, $9,028.00 to John K. Lansdowne and $9,000.00 to Margaret Boss Caswell.
+Distribution as employed in the petition has a definite meaning, indicates a division among legatees or heirs of the personal estate of the decedent. It refers to the ultimate division of an estate of a deceased person after the estate is free from debt and there is no recognition of the applicability of the term “distribution” to the payment of debts. Words and Phrases Judicially Determined (1904) Volume 3. p. 2134.
+Thus, when the executor distributed $27,000.00 by a specific decree of.a court of competent jurisdiction the children of Zachary Lansdowne were entitled to one-third thereof. This may be inferred from the averments of the petition. Prom any amount paid out by the executor as upon distribution, so reported, the children of Zachary Lansdowne were entitled to one-third to one-half of which or $4500.00 the plaintiff asserts her claim. The petition does not aver that an order of distribution was made but whether .or not the distribution was made upon order or by the election of the executor to distribute without such order is immaterial.
+The personal property of an estate passes to the executor for the benefit of the. creditors, legatees and distributees and after the payment of debts, the executor may, if he so desires, deliver the remaining property over to those entitled by the will to receive it without the approval of the final account, an order of distribution being unnecessary. Goshorn v Alexander, 2 O. Dec. Rep. 597.
+This would have like application to distribution, independent of will, if the amount to be distributed was fixed. It is common practice for executors and administrators to make distribution without a final order therefore and to recite such distribution in the final account. Of course, where the distribution is made under these conditions, it is done at the peril of the executor or administrator. Nunn v Hubacher, 25 Oh Ap 265 (5 Abs 469).
+The petition does not set forth whether or not- the distribution was final or that there is any other or further sum to be distributed, but it docs appear that $27,-000.00 was available for distribution, has been distributed and as to this sum the interest of the children of Zachary Lansdowne has been fixed.
+Giving then to the cases cited by counsel for appellees their full meaning and import, the petition is sufficient. State v Cutting, 2 Oh St 1; Henry, Executor v Doyle, Executor, 82 Oh St 113, 2nd Syl.; McCarter v Snorf, 10 Oh St 559.
+We are of opinion that the demurrer to the petition should have been overruled. The judgment will therefore be reversed and cause remanded.
+BARNES, PJ, HORNBECK and GEIGER, JJ, concur.
