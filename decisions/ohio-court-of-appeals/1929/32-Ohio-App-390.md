@@ -1,0 +1,27 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-01-28"
+citations: ["32 Ohio App. 390"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Williams, JJ., concur."]
+parties: ["Elwell v. Industrial Commission of Ohio."]
+source_url: "https://static.case.law/ohio-app/32/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1315234
+---
+
+# Elwell v. Industrial Commission
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+The plaintiff in error, Fern Elwell, as plaintiff, filed a petition in the court of common pleas against the defendant in error, the Industrial Commission, as defendant, appealing from an adverse finding of the commission, and she seeks “an award in satisfaction of the injuries and death of Louis O. Elwell.”
+Thereafter an amended petition was filed, to which defendant in error filed a demurrer, which was sustained by the trial court, judgment thereupon being rendered in favor of the defendant in error. Plaintiff in error seeks to reverse this judgment. The demurrer was based upon the following reasons:
+1. The court has no jurisdiction of the subject-matter.
+2. The amended petition does not contain allegations sufficient to constitute a cause of action against the defendant.
+The amended petition alleges, among other facts, that the plaintiff filed a claim for compensation under the Workmen’s Compensation Act upon which an oral hearing was had in Toledo, Ohio, before a claim referee on January 20, 1927; that thereafter, on April 8, at a hearing before defendant in error in Columbus, Ohio, defendant in error disallowed said claim “on its finding that proof on file does not show that death of decedent was the result of an injury sustained in the course of and arising out of his employment.” The amended petition also alleges that in the month of April plaintiff received, at Des Moines, Iowa, a notice of said action of the commission; that she was not informed by said commission, who sent said notice to her by mail, that she should file an application for rehearing within 30 days after she received said notice, in case she desired to have her claim heard on appeal by the court of common pleas, and that it was the duty of the commission to have so informed her; that on August 27, 1927, as soon as she learned of the requirements for filing an application for rehearing, she so notified the supervisor of claims on the 29th of An-gust, 1927, and filed therewith newly discovered evidence in proof of her claim; that said application for rehearing was heard at Columbus, Ohio, on October 31, 1927, and on November 10, 1927, she received notice in Des Moines, Iowa, that her application for rehearing had been denied; that on November 7, 1927, she also filed an application for reconsideration of her claim, which was filed three days before she was notified at Des Moines, Iowa, that her application for rehearing was dismissed; that on December 17,1927, her attorney received notice that the claim was set for hearing at Columbus, Ohio, at 9:30 a. m., December 23, 1927, which hearing, at the request of her attorney, was postponed to 9 a. m., January 6,1928; that on January 12,1928, plaintiff’s attorney was notified that plaintiff’s claim had been referred to a referee to review the additional proof which had been filed and resubmit the claim to the commission; and that on or about January 19, 1928, the commission made a final finding denying claimant’s claim and ordering that the application for reconsideration and for rehearing of the claim be dismissed.
+The right to file a petition in the court of common pleas in a case such as this is governed by Section 1465-90, General Code. This section provides that if the Industrial Commission finds that it has no jurisdiction to inquire into the claim, or, in other words, disallows the claim, the plaintiff may, within 30 days after receipt of notice of such finding, file an application with the commission for a rehearing of his claim. It further provides for the manner of introducing evidence. If the commission again finds it has no jurisdiction of the claim, and no anthority to inquire into the extent of disability or amount of compensation claimed, then a petition may be filed in the court of common pleas within 60 days after receipt of notice of such action of the commission. The amended petition of plaintiff clearly shows that the application for rehearing was not filed within the 30-day period provided by statute. The plaintiff attempts to excuse the failure to file an application for rehearing within the time limited on the ground that she was not aware that the same had to be filed within any particular time; but, since one may not avoid the effect of a statutory provision simply by pleading ignorance thereof, it is evident that this would not operate as a waiver of the explicit provisions in this regard of Section 1465-90, General Code. Since the application of plaintiff for rehearing was filed more than 30 days after receiving notice from the Industrial Commission of the final disposition of the claim filed by her, the application for a rehearing was properly denied by the commission, and it is apparent that plaintiff lost her right to file a petition on appeal in the court of common pleas, and therefore that the demurrer was properly sustained.
+Judgment affirmed.
+Richards and Williams, JJ., concur.
