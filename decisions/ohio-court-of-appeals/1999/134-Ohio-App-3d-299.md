@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "74536"
+decided: "1999-09-07"
+citations: ["134 Ohio App. 3d 299"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kilbane, J., concurs.", "Karpinski, P.J., concurs in judgment only."]
+parties: ["THOMAS L. MEROS CO., L.P.A., et al., Appellants, v. GRANGE MUTUAL CASUALTY COMPANY et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/134/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1060080
+cites_cases: ["16 O.O.3d 169", "27 OBR 447", "27 Ohio St.3d 31", "31 OBR 459", "31 Ohio St.3d 256", "35 Ohio St.3d 123", "404 N.E.2d 144", "450 N.E.2d 1140", "5 OBR 481", "5 Ohio St.3d 217", "501 N.E.2d 617", "51 Ohio App.3d 60", "510 N.E.2d 379", "519 N.E.2d 370", "554 N.E.2d 929", "62 Ohio St.2d 151", "640 N.E.2d 265", "94 Ohio App.3d 123"]
+---
+
+# Thomas L. Meros Co., L.P.A. v. Grange Mutual Casualty Co.
+
+## Majority (Michael J. Corrigan, Judge.)
+
+Michael J. Corrigan, Judge.
+Plaintiffs-appellants, Thomas L. Meros Co., L.P.A., and Galati, Pyros & Associates, Inc. (hereinafter “appellants”), appeal from the order of the trial court granting the motion of appellees Nasser Youssef, Salwa Youssef, and Physician’s Diagnostic Imaging, Inc. (hereinafter “appellees”) to disqualify attorney Thomas L. Meros as counsel for the appellants. Because we find that the trial court did not abuse its discretion in granting the motion, we affirm.
+The appellants filed this lawsuit on December 22, 1997, after they reached an impasse with the appellees in an effort to distribute the proceeds of a judgment the appellees had recovered, subsequent to a jury trial, against Grange Mutual Casualty Insurance Co. (hereinafter “Grange Mutual”). Grange Mutual was also named as a defendant in the complaint filed in the within action. The jury verdict, which was returned on July 23, 1997, was for a total of $1,361,000.
+On April 1, 1998, the appellants filed a motion with the trial court titled “Defendants’ Youssef and Physician’s Motion to Disqualify Attorney Meros as Counsel for Plaintiffs.” The trial court granted the motion as unopposed in an order dated April 16, 1998, which was journalized on April 21, 1998. A review of the docket does indicate that the appellants filed a brief in opposition to the motion to disqualify on April 16, 1998, the same date as the trial court’s entry, and at least five days out of rule. The record does not reflect that the appellants were given leave by the court to file their brief in opposition out of rule.
+The disqualification of a party’s chosen counsel by a trial court is a final appealable order. Ross v. Ross (1994), 94 Ohio App.3d 123, 640 N.E.2d 265.
+The appellants assign the following error for our review:
+“The trial court erred in granting defendant/appellees Youseffs’ motion to disqualify appellants’ counsel.”
+A trial court has the “ ‘inherent power to regulate the practice before it and protect the integrity of its proceedings * * *’ including the ‘ “authority and duty to see to the ethical conduct of attorneys.” ’ ” Mentor Lagoons, Inc. v. Rubin (1987), 31 Ohio St.3d 256, 259, 31 OBR 459, 462, 510 N.E.2d 379, 382. “A trial court has wide discretion in the exercise of its duty to supervise members of the bar * * *, and the court’s [disqualification of an attorney] will not be disturbed absent a showing that the court abused its discretion.” Maple Hts. v. Redi Car Wash (1988), 51 Ohio App.3d 60, 61, 554 N.E.2d 929, 931, citing Royal Indem. Co. v. J.C. Penney Co. (1986), 27 Ohio St.3d 31, 35-36, 27 OBR 447, 450-451, 501 N.E.2d 617, 620-622. An abuse of discretion connotes more than an error of judgment, it implies that the court’s attitude is unreasonable, arbitrary, or unconscionable. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 5 OBR 481, 450 N.E.2d 1140, citing State v. Adams (1980), 62 Ohio St.2d 151, 157, 16 O.O.3d 169, 172-173, 404 N.E.2d 144, 148-149.
+In the instant case it cannot be said that the decision of the trial court to disqualify attorney Meros from representing the appellants was an abuse of discretion. The record indicates that Meros and the appellees had a close relationship during the period of time that he was representing the appellees in the prosecution of their claims against Grange Mutual. This relationship necessarily involved the disclosure of sensitive financial information and other confidential matters. DR 4-101, which is titled “Preservation of Confidences and Secrets of a Client,” states as follows:
+“(A) ‘Confidence’ refers to information protected by the attorney-client privilege under applicable law, and ‘secret’ refers to other information gained in the professional relationship that the client has requested to be held inviolate or the disclosure of which would be embarrassing or would be likely to be detrimental to the client.
+“(B) Except when permitted under DR 4-101(C), a lawyer shall not knowingly:
+“(1) Reveal a confidence or secret of his client.
+“(2) Use a confidence or secret of his client to the disadvantage of the client.
+“(3) Use a confidence or secret of his client for the advantage of himself or of a third person, unless the client consents after full disclosure.”
+Although DR 4 — 101(C)(4) permits an attorney to represent himself in an action to collect attorney fees from a former client, the facts of this case go far beyond the narrow exception outlined in that section. In the case sub judice, the appellant was attempting not only to represent his own interests against his former clients, but was also representing co-appellant Galati, Pyros & Associates, Inc. in its attempt to recoup financial consulting fees in the amount of $55,000 allegedly owed by the appellees for financial and tax advisory services. Additionally, the appellants’ complaint included causes of actions by one or both of the appellants for breach of contract, conversion, and promissory estoppel. In addition to appellees Nasser Youssef, Salwa Youssef, and Physician’s Diagnostic Imaging, Inc., the complaint also named as defendants Grange Mutual, Steve Riczo, Donald Powell, Esq., and First Federal of Lakewood. Thus, it is. abundantly clear that the within complaint amounted to far more than an attempt by an attorney to collect a professional fee.
+The appellants have presented no evidence demonstrating that they were prejudiced by the order of the trial court. The order of the court gave the appellants approximately six weeks to retain new counsel. There is no shortage of qualified counsel in Cuyahoga County who are competent to zealously represent the interests of the appellants in the within matter. Therefore, it cannot be said, as a matter of law, that the trial court abused its discretion when it granted the motion of the appellees to disqualify attorney Meros as counsel for the appellants.
+Accordingly, appellants sole assignment or error is not well taken. The trial court shall proceed to final determination of all remaining issues.
+Judgment affirmed.
+Kilbane, J., concurs.
+Karpinski, P.J., concurs in judgment only.
+. This lawsuit was originally filed in the Franklin County Court of Common Pleas. Although the trial court ruled that venue was proper in Franklin County, it nonetheless incorrectly transferred the case to the Cuyahoga County Court of Common Pleas under the doctrine of forum non conveniens. The case cited by the Franklin County trial court in support of its maneuver, Chambers v. Merrell-Dow Pharmaceuticals, Inc. (1988) 35 Ohio St.3d 123, 519 N.E.2d 370, actually stands for the proposition that the doctrine of forum non conveniens is not recognized in Ohio in cases where a party seeks an intrastate (rather than interstate) change of venue. The court in Chambers reasoned that the drafters of Civ.R. 3 did not see a need to permit courts to transfer cases from one proper venue in Ohio to another proper venue within the state for reasons of convenience because Ohio is a "geographically small ■ state * * * and * * * any inconvenience to witnesses in such a situation could be remedied by the use of deposition.” Chambers at 131, 519 N.E.2d at 377.
+. The appellees' lawsuit against Grange Mutual alleged that Grange Mutual failed to adequately compensate the appellees, per the terms of an insurance policy, for losses incurred subsequent to a fire that damaged the business premises of appellee Physician’s Diagnostic Imaging, Inc.
+. DR 4-104(C)(4) states that "[a] lawyer may reveal * * * [c]onfidences or secrets necessary to establish or collect his fee or to defend himself or his employees or associates against an accusation of wrongful conduct.”
