@@ -1,0 +1,67 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9388"
+decided: "1980-01-09"
+citations: ["67 Ohio App. 2d 111"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bell, P. J., and Mahoney, J., concur."]
+parties: ["In re Winstead, Alleged to be Mentally Ill."]
+source_url: "https://static.case.law/ohio-app-2d/67/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1487434
+cites_cases: ["28 Ohio App. 497", "378 U. S. 52", "387 U. S. 1", "428 F. Supp. 1351", "443 U. S. 901"]
+---
+
+# In re Winstead
+
+## Majority (Victor, J.)
+
+Victor, J.
+On February 7, 1979, Sherry Winstead filed an affidavit under R. C. 5122.11 alleging her mother to be a “mentally ill person subject to hospitalization,” R. C. 5122.01(B). On the same day, the Court of Common Pleas of Summit County, Probate Division, issued an order of detention. One week later, Mary Ann Winstead (respondentappellee) was admitted to Fallsview Psychiatric Hospital for observation and treatment.
+On February 22, 1979, the case was set for a probable cause hearing pursuant to R. C. 5122.141. Respondent’s attorney waived the probable cause hearing, and the cause thereupon proceeded to a full hearing under R. C. 5122.15. The Ohio Attorney General, charged by statute with presenting the case for hospitalization, called Peter Kontos, D.O., of the Fallsview staff, who was the hospital’s examining physician. By stipulation, he was also regarded as the respondent’s treating physician. The respondent’s attorney objected to the doctor’s testimony on two grounds: first, as the treating physician, Dr. Kontos’ testimony was inadmissible under R. C. 2317.02, the physician-patient privilege; and, second, the respondent’s privilege against self-incrimination would be violated since Dr. Kontos did not inform respondent that any statements made by respondent to the doctor or any observations made by the doctor might be used against respondent in any future court proceedings. The referee overruled the objection and allowed Dr. Kontos to testify.
+At the conclusion of the hearing, the referee found respondent mentally ill. A judgment entry, signed by the probate judge, ordered the respondent hospitalized at Fallsview for a period not to exceed 90 days. R. C. 5122.15(C).
+On February 28,1979, respondent’s attorney, pursuant to R. C. 5122.15(J), filed written objections to this order with the Probate Court, contending that the finding of mental illness was improper for the following reasons:
+(1) The daughter’s affidavit was insufficient under R. C. 5122.11 for failure to state any underlying facts leading to the conclusions stated thereon.
+(2) A copy of the required report was not sent to the attorney for respondent pursuant to R. C. 5122.14.
+(3) The doctor’s testimony was improperly admitted in violation of the physician-patient privilege (R. C. 2317.02) and the privilege against self-incrimination.
+(4) The finding of the referee was against the manifest weight of the evidence.
+After oral argument and the filing of written briefs, the probate judge, by a judgment order, rejected respondent’s objections one and two, but, found ground three well taken. With Dr. Kontos’ testimony thus excluded, the probate judge found that the referee’s findings were against the manifest weight of the evidence. The judgment order concluded that if respondent was still a patient at Fallsview, she was entitled to an immediate rehearing.
+The Ohio Department of Mental Health and Mental Retardation (appellant) then perfected this appeal from that judgment.
+Assignment of Error No. I.
+“I. The probate court erred in applying the physician-patient privilege to communications between an involuntary hospital patient and a physician employed by the hospital for purpose of a civil commitment hearing.
+“A. Communication between an involuntary hospital patient and a physician employed by the hospital is not [a] privileged communication pursuant to Section 2317.02 of the Revised Code for purposes of a civil commitment hearing because there is no traditional relationship existing between the patient and the physician.
+“B. Communication between an involuntary hospital patient and a physician employed by the hospital is not [a] privileged communication pursuant to Section 2317.02 of the Revised Code for purposes of a civil commitment hearing because of the public policy supporting involuntary commitments for the protection of society and the furnishing of care to the person.
+“C. Communication between an involuntary hospital patient and a physician employed by the hospital is not [a] privileged communication pursuant to Section 2317.02 of the Revised Code for purposes of a civil commitment hearing because there is an express waiver in Chapter 5122 of the privilege.”
+At common law, the courts did not recognize a privilege for information disclosed to a physician through the treatment of his patient. Today, however, the majority of states have statutorily established some form of privilege protecting disclosures made in the physician-patient relationship. See McCormick on Evidence (2 Ed. 1972), Sections 98-105. In Ohio, R. C. 2317.02 provides, in part, as follows:
+“The following persons shall not testify in certain respects:
+(( * * *
+“(B) A physician concerning a communication made to him by his patient in that relation or his advice to his patient***.”
+The rationale for excluding material evidence offered by a treating physician is to encourage free disclosure by the patient to the doctor and, thus, to facilitate proper diagnosis and treatment.
+When the privilege arises, it belongs to the patient. The primary prerequisite to the creation of “***the privilege is that the patient must have consulted the physician for treatment or for diagnosis looking toward treatment.***” McCormick on Evidence, supra, Section 99, at page 213.
+Here, respondent did not consult Dr. Kontos for treatment, but rather, was forced to undergo examination and treatment as part of the judicial hospitalization procedures. The initial thrust of such examination and treatment is to determine whether (1) the facts alleged in the affidavit are true; (2) the respondent presents a danger to herself; and (3) respondent can provide for her basic physical needs because of mental illness. Thereafter, the court must “ * * * consider the diagnosis, prognosis, and projected treatment plan for the respondent and***[implement] the least restrictive alternative available and consistent with treatment goals.” R. C. 5122.15(E).
+By the very nature of the involuntary commitment proceeding, the physician faces a “hostile” patient; a patient who is not seeking treatment but is having it imposed upon him for his own good and the good of the state. In Wills v. National Life & Accident Ins. Co. (1928), 28 Ohio App. 497, at page 504, the court recognized the distinction between a voluntary and an involuntary patient as follows:
+“ * * * [W] e cannot hold that, where the issue is whether the patient was in sound health at the time of the issuance of the [life insurance] policies, the testimony of a physician in a public institution, where he is taken to prevent the disease spreading, is incompetent, or that he is estopped from testifying what the patient’s condition appeared to be upon his entry to the hospital and what the nature of his disease is. There is not that professional relationship existing under circumstances of this kind as where a patient voluntarily selects a physician and communicates to him the nature of the disease, or submits his body for examination for the purpose of having the physician or surgeon determine the character of his disease. ***” (Emphasis added.)
+Likewise, the physician-patient privilege does not arise where the involuntary patient is examined and treated by the same physician for the purposes of judicial hospitalization proceedings. Whether the institution is public or private or whether the physician is appointed by the state or retained by the family is not determinative. The crucial prerequisite for creation of the privilege is the voluntary consultation by the patient. This must be present to create the privilege in the patient, for if the patient is not voluntarily seeking help, then the underlying rationale for the privilege is not present, i.e., the promotion of free and full discourse between physician and patient. Thus, there is no reason to exclude the relevant and material testimony of such physician. Accord 13 U.L.A., Uniform Rules of Evidence, Rule 503.
+Assignment of Error No. I is well taken, with the following caveat. We are not presented with a case where the physician, treating an involuntarily committed patient, over sufficient time and course of treatment, changes the working relationship from involuntary to voluntary. The physician’s authority to reveal the patient’s past revelations, over the now “voluntary” patient’s objection, is not at issue here.
+Assignment of Error No. II.
+“The probate court erred in holding that the Fifth Amendment privilege against self-incrimination requires the patient to voluntarily consent to a psychological exam.
+“The Fifth Amendment privilege against self-incrimination does not apply to civil commitment hearings since those hearings are substantially different from any type of criminal action and not calculated to lead to conviction.”
+The Fifth Amendment to the United States Constitution and Section 10, Article I, of the Ohio Constitution grant the accused in a criminal proceeding the privilege against self-incrimination. The courts have extended the privilege outside the criminal arena. See In re Gault (1967), 387 U. S. 1, and Murphy v. Waterfront Commission (1964), 378 U. S. 52.
+An involuntary commitment proceeding is denominated as a civil case, although, as in a criminal case, the individual’s liberty interest is at stake. However, the liberty interest is not coextensive with the penal interest. Involuntary commitment proceedings are not penal in nature, but humanitarian. In French v. Blackburn (M.D.N.C. 1977), 428 F. Supp. 1351, at page 1354, affirmed (1979), 443 U. S. 901, the court stated the following:
+“***Fundamentally, the state is attempting to temporarily withdraw from society those persons whose mental state is such that their presence may pose a danger to society or to themselves. Secondly, the state is providing treatment to those individuals who may not otherwise have the wisdom or the wherewithal to seek it themselves. * * * ”
+Therefore, we are faced with a hybrid proceeding involving a possible deprivation of liberty to facilitate treatment for the benefit of the individual and society.
+We believe Ohio’s statutory framework for judicial hospitalization provides numerous and effective safeguards for the protection of the individual’s liberty interest: notice, R. C. 5122.12; pre-hearing medical examination, R. C. 5122.14; probable cause hearing, R. C. 5122.141; full hearing in private proceedings, with subpoena power, right to counsel and right to cross-examination, R. C. 5122.15; as well as, periodic review and right to appeal, R. C. 5122.15(F), (H) and (K).
+Upon this framework, the respondent and the Probate Court seek to impose another right — the right to silence or privilege against self-incrimination. The Probate Court’s judgment order reads, in part, as follows:
+“Furthermore, to comport with due process, a person who is alleged to be mentally ill pursuant to Section 5122.11 of the Ohio Revised Code should be told by his counsel and/or his examining physician that he is going to be examined with regard to his mental condition, that the statements he makes may be the basis for civil commitment, and that he does not have to speak to the psychiatrist. This Court does not hold, however, that the individual is entitled to the presence of counsel at such a psychiatric examination.”
+Under R. C. 5122.15(A)(12), the respondent may testify at the hearing, but “shall not be compelled” to do so, and “shall be so advised by the court.” An extension of the privilege against self-incrimination or the right to silence to the physician-patient relationship thwarts the valid objectives and beneficial treatment purposes of the entire judicial hospitalization process. The physician, whether treating or examining, is not an adversary. Silence in no way aids the diagnosis or treatment processes. Evidence gained through examination or treatment is not used against the individual, but rather to aid the court in evaluating alternate treatment plans. The primary source for this evaluation is the patient’s revelations to the physician and the physician’s opinion therefrom. Therefore, we hold no warning as to a right of silence need be given prior to examination or treatment. The privilege against self-incrimination should not be applied to involuntary treatment or diagnosis procedures—to do so would make treatment “unworkable and ineffective.” French v. Blackburn, supra, at page 1359.
+Assignment of Error No. II is well taken.
+Accordingly, we reverse and remand this cause to the Probate Court for such further proceedings as it may deem appropriate, consistent with this opinion.
+Judgment reversed and cause remanded.
+Bell, P. J., and Mahoney, J., concur.
+
+## Concurrence (Mahoney, J.,)
+
+Mahoney, J.,
+concurring. I concur in this judgment as to an involuntary patient, but reserve any judgment as to a voluntary state institution patient.
