@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7602"
+decided: "1927-06-13"
+citations: ["5 Ohio Law Abs. 628"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Sullivan, PJ., and Levine, J., concur.)"]
+parties: ["BROOKINS v. NATIONAL REFINING CO."]
+source_url: "https://static.case.law/ohio-law-abs/5/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8773988
+---
+
+# Brookins v. National Refining Co.
+
+## Majority (VICKERY, J.)
+
+VICKERY, J.
+Brookins brought this action against the Refining Company to recover $6,000 which he claimed by virtue of circumstances which hereafter will be detailed.
+The trial court at the close of plaintiff’s testimony, directed a verdict in favor of the defendant. Brookins, prior to the transaction hereinafter detailed, was a sales agent for the Refining Company in selling oil, greases, etc., the products of the Company. While in such employment he ' conceived an advertising scheme called “En-Ar-Co Automobile Tour Game,” and it consisted of . certain devises which could be used, as he claimed advantageously in advertising. He had a talk with Mr. Smith who seemed to have been the Sales Manager of the Company and out-lined his plan. He and Smith had some talk whereby Brookins was encouraged to go forward and produce drawings- for the purpose of procuring a copyright and the company promised, if they could use it they would pay him the reasonable value for such services.
+The plaintiff went on and perfected his drawings and preliminary sketches when he was drafted into the Ordinance Department of the United States Army, this country being then at war with Germany and its Allies. Before he entered into the war, conversation took place between him and Smith, whereby Smith advised him to assign his rights in the patent or coypright to the Company, so that they could proceed to perfect the work he had started, and, in the event that it was a success and they could procure a copyright, he should, when he returned from the war, have his old position back and they would pay him the value of his ideas with respect to the advertising. This is the testimony of -the plaintiff in this action.
+Brookins made the assignment that is set up in the answer of the defendant and went to war, and when he returned they not only refused to re-employ him in his old employment, but refused to settle with him, denying that they had secured a patent or copyright, or had done anything with his invention so-called. Subsequently he learned that the defendant company had procured the patent or copyright and had proceeded to manufacture and to put into circulation more than one million three hundred thousand of these advertisements, the idea of which was wholly his own the right to procure the patent on which had been assigned by him to- the defendant company as detailed above.
+Brookins sought, by interviews, to get an adjustment of what he claimed was due him. The company refused, not only to re-employ him, but to settle for anything, claiming that nothing was due plaintiff, alleging that he had signed a release to them of his right, title and interest to the patent or copyright, and declined to pay him anything, whereupon the suit was brought, resulting, as already stated, in a directed verdict for the defendant.
+It seems that an objection was made to Brookin’s testimony and subsequently it was ruled out by the court, because as the court stated while he might testify as to the value of his visible property this being an invisible property he could not testify as to its value. We do not know of any such distinction. If a man could testify as to the value of his visible property he might with equal propriety testify as to the value of his invisible property, all the more so because, in the latter case, it would be difficult to get testimony other than his own. We think the court erred in striking this testimony out or in refusing its admission.
+It is further argued that, because the value of the invention was not capable of being ascertained, it had no value, and that therefore the plaintiff was not entitled to recover. We do not understand that, because the value was difficult of ascertainment, or incapable of ascertainment, the plaintiff would not be entitled to recover at least nominal damages.
+Charles W. Mears, than whom there is no greater expert on the value of advertising schemes, was brought in as’ a witness and was asked to testify as to the value of this so-called patent scheme as an advertising medium. He said that he could not tell its value. Of course nobody could. But it was put to him as to what the custom would be where an advertising scheme was perfected and cai-ried into effect by the defendant who had expended, in publishing- and circulating this advertising proposition, moneys to the extent of $40,000 or better and what would be the fair price allowable to the inventor of that scheme based upon the amount of money expended by the defendant. This was objected to and the objection was sustained. The plaintiff then read into the record what the answer would be if Mears were permitted to answer, and that was to the effect that, under such circumstances, the value of the services of the inventor of the idea would be about 15%, or totaling about $6,000.
+Attorneys — J. B. Dworken for Brookins; Tolies Hogsett & Ginn for Refining Co.; all of Cleveland.
+It is argued strenuously by counsel for the defendant company that, because Mears said that he could not tell what this scheme was worth, that he was not able to testify at all. What Mears did say, or would have said, was that it was the custom to pay 15% of the amount of money that it would cost the distributor, and that 15% would be a fair price to pay the inventor of .the idea, and he was not permitted to testify to this. We think that was error.
+It is argued that there was a release of the claim of the plaintiff and that, in order that the plaintiff might recover, he must prove, by clear and convincing evidence that this release was obtained by fraud and that plaintiff did not meet the burden thus imposed upon him. There was no release here. If the plaintiff's theory was right, he was about to go away and could" not look after this invention, and, for the purpose of having this materialized, he made an assignment to the defendant company of all his right, title and interest, and, if his testimony is to be believed, that the distinct understanding and agreement was to the effect that, if it could be patented and could be used, the company would pay him the fair value of his invention. This is not a release of any claim.
+We' think that the court was clearly in error in directing a verdict.
+Judgment reversed.
+(Sullivan, PJ., and Levine, J., concur.)
