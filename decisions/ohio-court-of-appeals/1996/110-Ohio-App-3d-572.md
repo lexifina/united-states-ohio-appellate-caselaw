@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "S-95-039"
+decided: "1996-04-26"
+citations: ["110 Ohio App. 3d 572"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Melvin L. Resnick, P.J., Handwork and Glasser, JJ., concur."]
+parties: ["BEARD, f.k.a. Pannell, Appellee, v. PANNELL et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/110/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1791366
+cites_cases: ["36 Ohio St.3d 213", "522 N.E.2d 563", "626 N.E.2d 82", "68 Ohio St.3d 250"]
+---
+
+# Beard v. Pannell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from a judgment of the Sandusky County Court of Common Pleas. Pursuant to Loc.App.R. 12(D), we sua sponte transfer this matter to our accelerated calendar.
+Appellants set forth the following assignment of error:
+“The trial court committed substantial, prejudicial and reversible error in dismissing appellants’ motion for grandparents [sic ] visitation.”
+The facts giving rise to this appeal are undisputed. Lloyd Pannell, son of appellants, Beverly and Carlos Pannell, and appellee, Deborah L. Pannell, n.k.a. Beard, were married and had one daughter, Savannah Pannell. The couple were later divorced, after which Lloyd committed suicide. One year later, appellants filed a motion for specific visitation, requesting that they be granted visitation and companionship rights with their granddaughter. An evidentiary hearing, which commenced on appellants’ motion on January 4, 1995, was continued for further testimony on March 23, 1995. On February 13, 1995, appellee filed an application for continuance, which stated that on February 10, 1995, appellee’s current husband, Charles Beard, Jr., had filed a petition for adoption of Savannah in the Sandusky County Probate Court. The continuance was granted. On April 7,1995, Charles Beard’s petition for adoption was granted.
+The only issue in this case is whether grandparents are divested of visitation and companionship rights with a grandchild when one natural parent is deceased and the new spouse of the other natural parent adopts the child. If the grandparents are to have visitation rights, they must be statutorily provided. In re Whitaker (1988), 36 Ohio St.3d 213, 217, 522 N.E.2d 563, 567-568. For example, R.C. 3109.051(B)(1) provides that a grandparent may be granted visitation rights by a court in a divorce, dissolution, or separation. Also, R.C. 3109.11 allows for judicial discretion in granting visitation rights to the parents of a deceased parent. In granting visitation rights to the grandparents, the court must decide that the visitation is in the best interests of the child, as determined by the factors set forth in R.C. 3109.051(D).
+In this case, the issue is whether the adoption of Savannah Pannell by her stepfather, Charles Beard, ends grandparent visitation. The Ohio Supreme Court, in interpreting R.C. 3107.15(A)(1), has stated that a stepparent adoption terminates a child’s relationship with the biological grandparents for all purposes. In re Martin (1994), 68 Ohio St.3d 250, 254, 626 N.E.2d 82, 84-85. Thus, grandparents lose visitation rights when their child is no longer the legal parent of their grandchild.
+Appellants ask this court to distinguish In re Martin and other Ohio Supreme court cases that disallowed grandparent visitation because in this case the adoption occurred after the death of one of the natural parents. Appellants argue that R.C. 3107.15(B) applies in this situation, rather than R.C. 3107.15(A). However, appellants misread this statute because it preserves the child’s rights that flow from and through the deceased parent and is not applicable to visitation rights.
+Appellants contend that R.C. 3109.11 is relevant to this case. R.C. 3109.11 states that “the remarriage of the surviving parent of the child does not affect the authority of the court * * * to grant reasonable companionship or visitation rights” to grandparents or other relatives. However, while this section preserves the right of grandparent visitation when the surviving spouse remarries, it does not provide for the preservation of visitation rights after an adoption by a stepparent. R.C. 3109.11.
+While this court is sympathetic to appellants’ situation, the statutes do not support their arguments. As the Ohio Supreme Court stated in In re Martin, 68 Ohio St.3d at 254, 626 N.E.2d at 84-85, and other cases, grandparent visitation rights are statutorily provided. Thus, any changes in this legal area must be initiated by the General Assembly.
+Appellants’ assignment of error is not well taken.
+On consideration whereof, the court finds that substantial justice has been done the parties complaining, and the judgment of the Sandusky County Court of Common Pleas, Domestic Relations Division, is affirmed. Appellants are ordered to pay the court costs of this appeal.
+Judgment affirmed.
+Melvin L. Resnick, P.J., Handwork and Glasser, JJ., concur.
+. R.C. 3109.051(B)(1) provides: "In a divorce, dissolution of marriage, legal separation, annulment, or child support proceeding that involves a child, the court may grant reasonable companionship or visitation rights to any grandparent, any person related to the child by consanguinity or affinity, or any other person other than a parent, if all of the following apply
+. R.C. 3109.11 provides: "If either the father or mother of an unmarried minor child is deceased, the court of common pleas of the county in which the minor child resides may grant the parents and other relatives of the deceased father or mother reasonable companionship or visitation rights with respect to the minor child during his minority if the parent or other relative files a complaint requesting reasonable companionship or visitation rights and if the court determines that the granting of the companionship or visitation rights is in the best interest of the minor child. In determining whether to grant any person reasonable companionship or visitation rights with respect to any child, the court shall consider all relevant factors, including, but not limited to, the factors set forth in division (D) of section 3109.051 of the Revised Code. * * *
+"The remarriage of the surviving parent of the child does not affect the authority of the court under this section to grant reasonable companionship or visitation rights with respect to the child to a parent or other relative of the child's deceased father or mother.”
+. R.C. 3107.15 provides: "(A) A final decree of adoption and an interlocutory order of adoption that has become final, issued by a court of this state, shall have the following effects as to all matters within the jurisdiction or before a court of this state:
+"(1) Except with respect to a spouse of the petitioner and relatives of the spouse, to relieve the biological or other legal parents of the adopted person of all parental rights and responsibilities, and to terminate all legal relationships between the adopted person and his relatives, including his biological or other legal parents, so that the adopted person thereafter is a stranger to his former relatives for all purposes including inheritance and the interpretation or construction of documents, statutes, and instruments, whether executed before or after the adoption is decreed, which do not expressly include the person by name or by some designation not based on a parent and child or blood relationship^]”
+. R.C. 3107.15(B) provides: "Notwithstanding division (A) of this section, if a parent of a child dies without the relationship of parent and child having been previously terminated and a spouse of the living parent thereafter adopts the child, the child’s rights from or through the deceased parent for all purposes, including inheritance and applicability or construction of documents, statutes, and instruments, are not restricted or curtailed by the adoption.”
