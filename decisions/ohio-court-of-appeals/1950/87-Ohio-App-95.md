@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7213"
+decided: "1950-03-13"
+citations: ["87 Ohio App. 95", "58 Ohio Law Abs. 316"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ross, P. J., IIildebrant and Matthews, JJ., concur."]
+parties: ["Welge, Appellee, v. Welge, Appellant."]
+source_url: "https://static.case.law/ohio-app/87/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399698
+cites_cases: ["127 Oh St, 255", "127 Oh St, 499", "127 Ohio St., 255", "127 Ohio St., 499", "145 Oh St, 79", "145 Ohio St., 79", "149 Oh St, 72", "149 Ohio St., 72", "187 N. E., 857", "189 N. E., 244", "77 Oh St, 518", "77 Ohio St., 518", "78 Oh St, 243", "78 Ohio St., 243", "83 N. E., 899", "85 N. E. 38", "85 N. E., 38", "99 Oh St, 47", "99 Ohio St., 47"]
+---
+
+# Welge v. Welge
+
+## Majority (By the Court.)
+
+By the Court.
+In its opinion (Welge v. Welge, ante, 93) this court stated that “the bill of exceptions, certified to as containing all the evidence, shows no evidence on the subject of residence.” (Emphasis added.)
+The action was for divorce, and, under the statute, the court should have rendered judgment for the defendant, in the absence of some substantial evidence showing statutory residence of the plaintiff. This court ordered a new trial. Is the defendant entitled here to final judgment?
+■ It has long been the rule of reviewing courts that action or inaction of a trial court cannot first be assigned as error in such reviewing courts. In other words, the trial court must be given the opportunity of avoiding error by having the claimed error brought to the attention of the court. 2 Ohio Jurisprudence, “Appellate Review” (Pt. I), 296, Section 150; Id., 311, Section 155.
+The divorce case was submitted by the parties at the conclusion of the evidence, without comment, and the trial court’s attention was not directly called to the dearth of evidence upon the issue of domicile.
+The problem presented by this motion is what action should the defendant have taken to raise this assignment of error in the trial court?
+Obviously, under the practice applicable, the action having been filed after September 27, 1947, no motion non obstante veredicto could be filed after the judgment, even if such motion were appropriate in a trial to the court without a jury. Section 11599-1, General Code, effective September 27,1947. Also, it is obvious under such circumstances that a motion for an instructed verdict would have been inappropriate, there being no jury to so instruct.
+What would have been the effect of a motion for judgment? Would not such motion under the circumstances have been mere surplusage, if not also wholly inappropriate, in view of the fact that upon final submission of the case by the parties at the conclusion of the evidence, both parties were claiming the right to a judgment?
+It is true that by such submission, the weight of the evidence is involved, but certainly under the state of the record at that time, the defendant was also entitled to judgment by reason of the absence of any evidence upon an essential element of the case of the plaintiff.
+Is the defendant, at his peril, bound to indicate to the court then that he is by submission of the case relying on both grounds — no evidence and the weight of the evidence? Again, how would he do this?
+In Euclid Arcade Building Co. v. H. A. Stahl Co., 99 Ohio St., 47, it is held that a motion for judgment at the close of plaintiff’s evidence in a trial to the court without a jury raises the question of the weight of the evidence, as well as the question of the absence of any evidence. In the opinion at page 49, it is stated:
+‘ ‘ The trial of a law case to the court without the intervention of a jury is tantamount to the trial of a chancery case. If the plaintiff at the close of his ease has offered no evidence upon a material fact required to be proved, or has offered evidence of such a character as to overwhelm any prima facie case made by him, common sense would require that at the instance of the defendant the litigation should be then terminated. There is no presumption that later in the trial the defendant would offer more substantial evidence in the plaintiff’s favor than plaintiff himself offered.”
+Does not this same situation exist at the close of the case? A motion for judgment would, therefore, raise no issue of law or fact not raised by mere submission of the case to the trier of the facts and law.
+In McKellips v. Industrial Commission, 145 Ohio St., 79, 60 N. E. (2d), 667, a case was tried to the court without a jury — no motion of any kind was made at the conclusion of the evidence. In the per curiam opinion, at page 80, it is stated:
+“An examination of the record herein shows that no motion for a directed verdict or for nonsuit was made by the defendant after all the evidence had been introduced. By such failure to move for a directed verdict, which would challenge the legal sufficiency on the entire evidence adduced, the defendant submitted the issues to the trial court as a question of fact. ‘Without such challenge the whole case goes to the jury.’ Cincinnati Traction Co. v. Durack, Admx., 78 Ohio St., 243, 85 N. E., 38.
+“Unless a motion for a directed verdict is renewed at the close of all the evidence, error cannot be predicated upon the refusal of the court to direct a verdict.
+“Upon appeal to the Court of Appeals, the issue presented was simply whether the judgment of the trial court was sustained by sufficient evidence. The defendant was not entitled to a judgment in its favor based on the legal insufficiency of the evidence, since he had made no such challenge by appropriate motion. This court, in the case of Whitaker, Admr., v. Michigan Mutual Life Ins. Co., 77 Ohio St., 518, 83 N. E., 899, paragraph two of the syllabus, held:
+“ ‘Although a party against whom a verdict is returned and a judgment is rendered in the Court of Common Pleas may have been entitled to an instruction to the jury to return a verdict in his favor, he is not, on that account, entitled to a final judgment in his favor in a reviewing court unless upon the trial he has requested that such instruction be given.’
+“The Court of Appeals found the judgment not to be ‘against the weight of the evidence.’ This court does not weigh the evidence. It follows, therefore, the judgment of the Court of Appeals should be and is hereby affirmed.”
+References to the cases cited by the court show that in those cases a jury was actually employed. Under such circumstances the trier of the facts (the jury) is not the trier of mere issues of law.
+It is true that Section 11421-3, G-eneral Code, provides :
+‘ ‘ So far as in their nature applicable, the provisions of this chapter respecting trials by jury, apply to trials by the court. ’ ’
+However, it is apparent that an entirely different situation prevails in a jury case from that existing in a case tried only to the court. Where a jury is employed, the court, on motion, may deprive the jury of the right to pass upon the facts because the issue of law (the existence of any substantial evidence) is decided by the judge alone. Would any motion, therefore, split the judge into a trier of facts and law? It may be presumed that the judge is able to determine both the issues of law and fact and, if there is no evidence, will predicate his judgment upon the absence of proof. The record shows no evidence, and it may be presumed also that the judge when considering the evidence presented becomes aware of such absence of proof and enters his judgment accordingly.
+It has been repeatedly held that where it appears that by reason of absence of proof the trial court should have rendered a judgment and has failed to do so, the Court of Appeals is required to enter the judgment which the trial court should have rendered. Leighton v. Hower Corp., 149 Ohio St., 72, 77 N. E. (2d), 600; Greyhound Lines, Inc., v. Martin, 127 Ohio St., 499, 189 N. E., 244; Majoros v. Cleveland Inter. Rd. Co., 127 Ohio St., 255, 187 N. E., 857. However, in each of these cases, and especially in McKellips v. Industrial Commission, 145 Ohio St., 79, 60 N. E. (2d), 667, it is apparent that the absence of evidence as a ground for nonsuit was called to the attention of the trial court, by a motion for instructed verdict at the conclusion of all the evidence, a motion for judgment based upon a failure of the plaintiff to sustain an element of the plaintiff’s case or a motion non obstante veredicto.
+Regardless of what has been said, therefore, herein it seems clear that under our present practice before final judgment may be entered in this court by reason of a total failure of proof of an essential element of plaintiff’s case, the trial court must be given an opportunity to enter such judgment upon the dearth of proof being called to the attention of the court, and the record must show that the parties took appropriate action to permit such action by the trial court.
+It would seem the appropriate motion should be made before submission, and that a motion for non-suit would be proper in a case tried to the court without a jury.
+No motion of any kind having been made before submission by the defendant in the instant case, this court feels bound to follow the rule sustained by the authorities noted and cannot, therefore, now, in the state of the record here, enter final judgment.
+It is suggested the rule does not apply where the court lacks jurisdiction to enter judgment. This is, however, not the same as lacking jurisdiction over the subject matter or the person of the defendant, ab initio. See 2 Ohio Jurisprudence, “Appellate Review” (Pt. I), 309, Section 154, supra.
+The Court of Common Pleas had jurisdiction over divorce, the subject matter of the instant action now considered. It had jurisdiction over the person of the defendant. Failure to establish residence merely required the court to enter judgment for the defendant. The absence of proof appearing at the conclusion of the case upon submission could not relate back and render the court unable to entertain the action. The question, therefore, presented is one of proof and evidence, not jurisdiction over either the subject matter of the action or jurisdiction over the person of the defendant.
+The judgment was voidable, not void, and a motion by the defendant of some sort was required, as hereinbefore indicated, to call the attention of the trial court to the defect in proof.
+The motion of the defendant for final judgment, therefore, must be denied.
+Motion denied.
+Ross, P. J., IIildebrant and Matthews, JJ., concur.
