@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "96-JE-28"
+decided: "1997-09-30"
+citations: ["123 Ohio App. 3d 178"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vukovich and Waite, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. WILLIAMS, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/123/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 368501
+cites_cases: ["10 Ohio St.2d 230", "227 N.E.2d 212", "39 O.O.2d 366", "574 N.E.2d 492", "61 Ohio St.3d 259"]
+---
+
+# State v. Williams
+
+## Majority (Gene Donofrio, Presiding Judge.)
+
+Gene Donofrio, Presiding Judge.
+Defendant-appellant, Lloyd Williams, Jr., appeals his conviction on a single count of aggravated burglary, in violation of R.C. 2911.11(A)(3), a felony of the first degree.
+An indictment was filed against appellant on the above count on April 18, 1996, in the Common Pleas Court of Jefferson County, the matter having been transferred from the juvenile division. Appellant waived his right to jury trial, and the case was tried before the Honorable John J. Mascio on July 9, 1996.
+At trial the evidence tended to show that on March 16, 1996 appellant was at a party in the 400 block of Maxwell Avenue in Steubenville, Ohio in the company of his girlfriend at the time, Jackie Hilton. At some point during the party, appellant and Hilton engaged in an argument during which appellant grabbed Hilton. Hilton then left the party and walked across the street to 427 Maxwell Avenue, the home of her cousin, Michael Ross. Appellant followed Hilton across the street, where the argument continued. Although the evidence is unclear, it appears that at some point the police arrived and disbursed the gathering. Ross testified that when Hilton arrived at the house, he telephoned Hilton’s mother, who requested that he bring Hilton home. Ross further testified that he had his girlfriend take Hilton home while he remained in the house with his seven-year-old nephew and his girlfriend’s nine-year-old son.
+Some time after Hilton left, the front door to Ross’s home was forcibly smashed open. Ross’s next-door neighbor, Shauna Wallace, testified that she heard a car pull up outside Ross’s home and then saw three men banging on Ross’s door. Wallace also testified that she saw the three individuals enter the house. At that time, Ross was in the upstairs bathroom while the children who were in his care were in an adjacent bedroom. Ross testified that he heard the front door strike the interior wall of the house. He then went to the room where the children were and barricaded the door by placing his foot and shoulder against it. Ross then heard footsteps running up the stairs and shortly after-wards felt the individuals banging against the door. The door was struck between ten and twenty times, and each time the top of the door swung open, sometimes as much as twelve inches. Each time the door swung open Ross was able to see appellant through the opening. Ross also testified that the individuals shouted a variety of statements from behind the door, including “Open the mother-fucking door,” “Let me blast through the door. We’re going to blast through the door,” and a statement that Ross was going to “get fucked up.”
+After one or two minutes, the individuals gave up their attempt to enter the bedroom and descended to the ground floor. As they fled the house, they were spotted by Officer Moray, who apprehended two of the individuals, one of them being appellant.
+Also offered at trial was a letter written by appellant and addressed to Ross. The letter apologizes to Ross for the damage done to the door and assures Ross that appellant did not intend to cause him harm. The letter was written some time after the incident, while appellant was in the custody of the Tobin Detention Center.
+Plaintiff-appellee, state of Ohio, offered the testimony of five witnesses and introduced the letter from appellant to Ross. At the close of appellee’s case, appellant moved for acquittal, claiming appellee had failed to prove the existence of an intent on the part of appellant to commit a felony as required under R.C. 2911.11(A)(3). The motion was overruled, and appellant took the stand in his own defense. At the close of appellant’s testimony, the trial court found appellant guilty of aggravated burglary. This appeal follows.
+Appellant’s sole assignment of error is as follows:
+“The trial court committed reversible error by convicting Appellant of aggravated burglary in violation of R.C. 2911.11(A)(3), because the evidence was not sufficient to establish beyond a reasonable doubt that Appellant had the requisite purpose to commit any theft offense, or any felony at the time he entered the Ross house.”
+In this case, appellant was convicted under R.C. 2911.11(A)(3), which provides:
+“(A) No person, by force, stealth, or deception, shall trespass in an occupied structure, as defined in section 2909.01 of the Revised Code, or in a separately secured or separately occupied portion thereof, with purpose to commit therein any theft offense, as defined in section 2913.01 of the Revised Code, or any felony, when any of the following apply:
+"* * *
+“(3) The occupied structure involved is the-permanent or temporary habitation of any person, in which at the time any person is present or likely to be present.”
+Additionally, appellee argued and the trial court found that appellant intended to commit felonious assault, a violation of 2903.11(A)(1), which provides:
+“(A) No person shall knowingly:
+“(1) Cause serious physical harm to another.”
+Hence, a conviction under R.C. 2911.11(A)(3) requires that an offender (a) trespass, (b) by force, (c) in an occupied structure which is a permanent or temporary habitation, (d) with intent to commit a felony, in this case felonious assault. It is the .latter of these elements that is the focus of appellant’s assignment of error.
+Appellant claims that the only direct evidence offered to show appellant’s purpose for entering Ross’s house indicated that appellant had no intent to commit felonious assault. Appellant further claims that the circumstantial evidence relied on by the trial court does not support a finding of intent to commit any felony. In particular, appellant points to the fact that none of the witnesses identified him as the individual that forced open the door of Ross’s house, and that while the evidence shows that appellant grabbed Hilton in the course of their argument, no evidence was presented from which it could be inferred that appellant intended serious physical harm either to Hilton or to Ross.
+Subsequently, appellant also points to the failure of Ross to identify appellant as the individual issuing threats from behind the bedroom door. Appellant urges that the failure to present evidence sufficient for the trial court to infer an intent to commit a felony on the part of the appellant requires reversal of the conviction, or in the alternative, remand of the cause for resentencing on the lesser included offense of burglary, a violation of R.C. 2911.13.
+In response, appellee points out, and we agree, that direct evidence is not essential to prove an element of an offense, and that circumstantial evidence is equally probative. See State v. Jenks (1991), 61 Ohio St.3d 259, 574 N.E.2d 492. This is especially the case when the element sought to be proven is a mental state, direct evidence of which is entirely within the domain of the accused. Appellee further contends that the facts and circumstances attested to at trial were sufficient from which the trial court could reasonably have inferred an intent to commit felonious assault.
+In deciding whether the evidence is sufficient to sustain a criminal conviction, the relevant inquiry for this court is whether, after viewing the evidence in a light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime proven beyond a reasonable doubt. See Jenks, supra. In Jenks, at paragraph two of the syllabus, the Ohio Supreme Court held:
+“An appellate court’s function when reviewing the sufficiency of the evidence to support a criminal conviction is to examine the evidence admitted at trial to determine whether such evidence, if believed, would convince the average mind of the defendant’s guilt beyond a reasonable doubt.”
+This standard of review is applicable to both direct evidence and evidence that is circumstantial. See id. Determining the weight to be given the evidence and the credibility of the witnesses is primarily the task of the trier of fact. See State v. DeHass (1967), 10 Ohio St.2d 230, 39 O.O.2d 366, 227 N.E.2d 212.
+Appellant himself testified that earlier in the evening he and Hilton had an argument in which he grabbed her. The testimony of Ross identified appellant as one of the individuals behind the door from where threats of physical harm emanated. Although appellant denies shouting threats from behind the door, the weight to be given this evidence is for the trier of fact, in this case the trial court, to decide. Even if the threats were not directly from appellant, nonetheless, he was identified by the victim as part of the group that the threats came from. Notwithstanding that the threats of harm occurred once Ross had taken refuge in the bedroom, the statements may nonetheless be used to infer appellant’s state of mind moments earlier when he entered the building. We cannot say from a review of the entire record that a reasonable trier of fact could not have found beyond a reasonable doubt that appellant entered the house with the intent of causing serious bodily harm to Ross or to Hilton.
+Appellant’s sole assignment of error is without merit.
+The judgment of the trial court is hereby affirmed.
+Judgment affirmed.
+Vukovich and Waite, JJ., concur.
