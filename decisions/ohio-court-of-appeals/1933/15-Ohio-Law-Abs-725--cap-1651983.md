@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 306"
+decided: "1933-04-28"
+citations: ["15 Ohio Law Abs. 725"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK, PJ, and KUNKLE, J, concur."]
+parties: ["SCHENK, Guardian v SWANK et"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0725-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651983
+cites_cases: ["4 C.C., 38"]
+---
+
+# Schenk v. Swank
+
+## Majority (By BARNES, J.)
+
+OPINION
+By BARNES, J.
+Secs 12012 and 12013 GC are cited by counsel for plaintiff as authorizing the relief prayed for. These sections were originally §5714 (a) Revised Statutes and the original enactment was in 1893 Ohio Laws, Volume 89, 131. An amendment was enacted in April 1926. See Ohio Laws, Volume 92, 314. The section appears in the chapter under dower and at the time of the enactment and amendment such provision for dower included §§5707 to 5725 inclusive; at the present time §§12004 and 12025 GC inclusive. §12012 GC under which plaintiff claims the right for relief reads as follows:
+“When an estate of which a widow or widower is dowable, or in which a widow or widower owns a dower interest heretofore assigned to or vested in her or him, consists, in whole or part, of timber lands or other unimproved lands or lots, commissioners, • appointed as before provided, shall return to the court a true appraisement of such lands in money, and also a true appraisement of their annual rental value. Upon the hearing of such report, if it appears to the court that the assignment of dower in such lands either by metes and bounds or as of the rents, issues and profits, can not be or has not been made so as to provide ■such widow or widower with an income from the lands or lots so charged commensurate with their value, as fixed by such commissioners, the court shall determine the value of such dower in money, and make an order directing the sheriff to advertise and sell such lands, or so much thereof as may be necessary, as upon execution. The sheriff shall not cause the lands to be appraised; but their value as returned by the commissioners shall be the appraised value and they shall not be sold for less than two-thirds of that value. Upon the confirmation of such sale the court shall order the payment to the widow or widower out of the money arising therefrom the value of the dower so by it determined.”
+Undoubtedly the reason for the enactment of §5714 (a) Revised Statutes now §12012 GC was to take care of dower interests in estates wherein the prior existing provisions for dower would be of little or no value to the surviving spouse. In order to grant relief under this section there must be an estate of which a widow or widower is dowable or in which a widow or widower owns a dower interest heretofore assigned to or vested in her or him.
+The estate must consist -in whole or in part of timber land or other unimproved lands or lots.
+It can readily be " seen that do.wer assigned by metes and bounds in timber lands or unimproved lands or lots might not bring in any revenue whatever. Likewise where no division could be made by metes and bounds a dower assigned as of a third part of the rents, issues and profits would be valueless. In actions of partition or by executors or administrators to pay debts §12018 GC grants to the widow the right to waive the assignment of dower by metes and bounds, ask to have the estate sold free of dower and to be allowed, in lieu thereof, such sum of money out of the proceeds of sale as the court deems the just value of the dower interest therein. Under no other situation aside from the provisions of §12012 GC can the widow or widower have dower assigned except by metes and bounds or as a third part of the rents, issues and profits. In all real estate except timber lands or other unimproved lands or lots it is a theory of the law that the assignment by metes and bounds or as of the rents, issues and profits will be just and equitable to the widow or widower. Apparently it is a contention of counsel for plaintiff that the following language found in §12012 GC “dower interest heretofore assigned to” would authorize the relief prayed for in the instant case regardless of the fact that in 1919 dower was assigned to her in the premises by metes and bounds on her application in a legal proceeding before the Probate Court, Miami County, Ohio.
+We do not think the language of the statute could or should be given any such construction. We think the provisions of the constitution guaranteeing full faith and credit to the judgments of other courts if for no other reason would deny the relief sought at this time. In the proceedings by administrator to sell the premises to pay debts the widow was in court and filed her answer asking that her dower be assigned to her' in metes and bounds. If she had desired at that time she could have asked for an allowance in money, under the provisions of §12018 GC formerly §5719 Revised Statutes. In the proceedings then had dower was assigned to her in accordance with her request and the remainder of the premises sold subject to such dower interest. The proceeding being affirmed hy the Probate Court constituted a judgment. Schime v Schime, 4 C.C., 38. Attention is also called to the first part of this section §12012 GC wherein it says:
+“When an estate of which a widow or widower is dowable, etc., etc.”
+We think the use of the word “estate” is indicative of the legislative intent.
+While the word “estate” is very broad and has various meanings, yet by reference to the chapter in which it is used we think it refers to an estate of a deceased person before it is fully administered. In the instant case the estate is fully administered and this is an additional reason why the relief should not be given to the plaintiff.
+What the legislature probably intended in the amendment of §5714 (al in including dower “heretofore assigned” was endeavoring to take care of situations existing before the enactment of the amendment. It is true that to give the section such a construction would raise its constiutionality but even so it can be given application at this time in unsettled estates.
+Another reason why relief could not be granted to the plaintiff in this case is that the petition in the description .of the premises-set off as dower can not be classified as “timber lands or other unimproved lands or lots.” An old orchard can not be said to be timber lands neither can it enter into the classification of unimproved lands or lots. The fact that the 12.16 acres is not productive is not sufficient standing alone. The reference in the section to “such lands that do not provide such widow or widower with an income” refers to timber lands or other unimproved lands or lots.
+It is our conclusion that the trial court was right in sustaining the demurrer to ihe amended petition. Judgment of the court below will be affirmed and cause remanded.
+HORNBECK, PJ, and KUNKLE, J, concur.
