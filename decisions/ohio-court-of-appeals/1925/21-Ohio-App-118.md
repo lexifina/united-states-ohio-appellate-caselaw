@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1925-11-23"
+citations: ["21 Ohio App. 118"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Young, JJ., concur."]
+parties: ["Pendleton et al. v. Foley."]
+source_url: "https://static.case.law/ohio-app/21/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1851189
+cites_cases: ["1 W. Va., 50", "187 N. W., 254", "21 A. L. R., 1", "218 Mich., 248", "27 Colo., 342", "36 Ohio St., 331", "45 Ill. App., 469", "62 P., 222", "64 Ill., 11"]
+---
+
+# Pendleton v. Foley
+
+## Majority (Richards, J.)
+
+Richards, J.
+Emmet E. Foley commenced an action in the court of common pleas to recover an amount claimed to be due him arising out of the sale of certain property. The trial resulted in a verdict and judgment in his favor in the amount of $1,149.12, which judgment this proceeding in error seeks to reverse.
+Only such facts will be stated as may be necessary to make clear the rights of the parties and the errors claimed to have been committed by the trial court.
+In January, 1923, Charles H. Pendleton and Emmet E. Foley, by written agreement, purchased of one I. J. Smila a certain business building with the fixtures, furniture, and stock contained therein, located in the village of McComb. The fixtures, machinery, and furniture were used by Smila in the business of conducting a bakery, and the consideration agreed on for the entire property was $4,500, only a portion of which was paid. The purchasers took possession of the property on April 1, 1923, and began the business of conducting a bakery on the premises as partners. Ten days after they commenced business Foley sold out his interest in the firm to his copartner, and the following indorsement was made on that day on the contract with Smila:
+“McComb, Ohio, April 11, 1923.
+“For value received, I hereby assign all my right, title and interest in and to the within contract to Charles H. Pendleton.
+“E. E. Foley.”
+While the writing indorsed on the Smila contract purports to transfer Foley’s interest in that contract only, it is apparent from the oral evidence that he also agreed to, and did, in fact, sell to his copartner whatever interest he had in the firm business, in addition to the transfer of his interest in the written contract.
+At the threshold of this case, we are met with the claim that an action at law cannot be maintained, for the reason that a partnership accounting will be first necessary. The agreement on which the action is based is outside and independent of the partnership, and, if the contention of the plaintiff be maintained, no accounting is necessary, for the defendant, if liable at all on the claim made by the plaintiff, would be liable for the amount agreed to be paid.
+The assignment does not name the consideration to be paid, and it is contended on behalf of Foley that he was to be paid the entire amount that he had put into the business, and the amount awarded by the jury is, in fact, that amount, less $154 paid at the time the assignment was made. On the other hand, it is contended on behalf of Charles H. Pendleton that Foley was only to be paid whatever amount would be coming to him after the closing up of the firm business and tbe payment of tbe debts of tbe firm.
+Tbe sale to Charles H. Pendleton was effected by his father, Charles F. Pendleton, the son being ill at the time, and not present, and it is contended on behalf of Foley that, as a part of the agreement, the father, Charles F. Pendleton, orally promised that he himself would pay the amount remaining due to Foley. Counsel for Charles F. Pendleton contend that whatever promise he made, if any, was not his promise to pay personally whatever remained due to Foley, but only to pay in the event that his son failed to' pay, and that such promise is void as being in violation of the statute of frauds.
+Foley testified that the father said: “I will pay you everything you got in there; I am good for it and I will pay it.”
+This statement is corroborated with more or less clearness by certain other testimony. On the other hand, testimony was introduced on behalf of the Pendletons to the effect that what the father said was that if there was “anything coming to Foley out of the business, I will see that you get it.” It will be observed that the testimony as given on behalf of Foley is sufficient, if believed by the jury, to establish the direct personal promise of the father to pay the amount to Foley, and the father, by such promise, if made, would become directly indebted for the amount as his own indebtedness, while the testimony introduced on behalf of the Pendletons would, if believed by the jury, make the father a guarantor only of the
+indebtedness of Ms son to Foley on closing up tbe business, and would be within the statute of frauds. If the oral promise of the father was made in that form, it was inhibited by the statute of frauds, within the rule announced by Birchell v. Neaster, 36 Ohio St., 331. In that case a man engaged in plastering a house for the owner declined to proceed with the work, and a third person said to him: “Finish the plastering, and I will see you paid.”
+It was there held that this verbal promise was within the statute of frauds. In view of this state of the law, it became important that the jury should be correctly instructed so that it could distinguish between a direct and collateral promise. On this branch of the case the trial court instructed the jury as follows:
+“If Charles F. Pendleton did say to Foley, ‘I will see you are paid,’ or, ‘I will pay this,’ he can be held personally. If he had said, ‘If Charles H., my son, does not pay you, then I will see you are paid,’ he cannot be held.”
+In view of the testimony on this subject, found in the record, this language of the trial court could not fail to be confusing and misleading to the jury, and certainly prejudicial. This error requires a reversal of the judgment.
+The parties to this action differ widely as to who should pay the indebtedness of the firm. Foley testified that, in the sale by him to Pendleton, the debts of the firm were not mentioned, and the question therefore arises whether under the circumstances there would be an implied liability on the partner, Charles H. Pendleton, to pay those debts, and relieve Foley therefrom. The situation was not exactly the same as if Foley had sold to a person other than his partner. The partner wonld be presumed to know what the existing indebtedness of the partnership was, and that partnership would be ipso facto terminated by the sale, because Charles H. Pendleton would become the sole owner of all the property. The rules of law relating to the assumption of debts, applicable when a new partner is taken into a firm, can have no bearing on the question at bar. In Cobb v. Benedict, 27 Colo., 342, 62 P., 222, it was directly held:
+“ Where a partnership is dissolved by one partner selling to his copartners all his interest in the business and assets of the firm, it is competent for them to contract as between themselves who shall assume the liabilities of the partnership, and if the contract is silent on the question it will be inferred that the purchasing partners assumed the payment of the debts of the partnership.”
+This case has been cited in various judicial opinions, and quoted with approval in encyclopedias and text-books on partnership. To the same effect is Norman v. Hudleston, 64 Ill., 11. See, also, Clark v. Carr, Adm’r., 45 Ill. App., 469, and Hobbs, Barnes & Co. v. Wilson, 1 W. Va., 50. In French v. Mulholland, 218 Mich., 248, 187 N. W., 254, 21 A. L. R., 1, it is held that the acceptance by one partner of a give or take proposition, submitted by the other, puts an end to the partnership relation, and, in the absence of fraud or deceit, operates as an adjustment and settlement of the partnership affairs.
+The trial judge instructed the jury that Foley must prove by a preponderance of the evidence that Charles H. Pendleton assumed all of the indebtedness. This was erroneous, and prejudicial to Foley, who prevailed in the trial court. It, of course, would not be ground for a reversal of the judgment, and we only mention it because the case will have to be remanded for new trial.
+We find no reversible error, so far as the son, Charles H. Pendleton is concerned, and as to him substantial justice has been done, and the judgment will be affirmed. But, for the reasons given, the judgment will be reversed as to Charles F. Pendleton, and the cause remanded for new trial as to him.
+Judgment reversed and cause remanded.
+Williams and Young, JJ., concur.
