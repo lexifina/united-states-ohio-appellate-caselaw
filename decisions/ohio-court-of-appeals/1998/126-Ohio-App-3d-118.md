@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "98 C.A. 60"
+decided: "1998-04-16"
+citations: ["126 Ohio App. 3d 118"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gene Donofrio, Vukovich and Waite, JJ., concur."]
+parties: ["The STATE ex rel. KING et al. v. MAHONING COUNTY BOARD OF ELECTIONS et al."]
+source_url: "https://static.case.law/ohio-app-3d/126/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 738860
+cites_cases: ["115 Ohio App.3d 180", "129 N.E.2d 623", "14 Ohio St.2d 175", "164 Ohio St. 193", "18 O.O.3d 128", "1996 WL 204278", "237 N.E.2d 313", "33 Ohio St.3d 53", "367 N.E.2d 879", "412 N.E.2d 393", "43 O.O.2d 286", "5 O.O.3d 381", "51 Ohio St.2d 178", "51 Ohio St.3d 83", "514 N.E.2d 709", "554 N.E.2d 1288", "569 N.E.2d 875", "57 O.O. 402", "58 Ohio St.3d 147", "602 N.E.2d 636", "609 N.E.2d 1266", "630 N.E.2d 319", "64 Ohio St.2d 5", "65 Ohio St.3d 194", "66 Ohio St.3d 157", "684 N.E.2d 1289", "685 N.E.2d 1219", "69 Ohio St.3d 13", "80 Ohio St.3d 255"]
+---
+
+# State ex rel. King v. Mahoning County Board of Elections
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+On March 18, 1998, relators, Keri King and Robin K. Pitts, filed a complaint in mandamus seeking to compel respondent, Mahoning County Board of Elections, to accept their respective petitions for election to positions of Member of the County Central Committee of the Democratic Party for the precinct within which each resided.
+The complaint further avers that each relator had been disqualified for the reason that the “Petition for Candidate” part of the nominating petition contained blanks that were not filled in with a designation of the party affiliation and the name of the candidate.
+Attached to the complaint were copies of declaration of candidacy petitions of each relator. Also attached as Exhibit “C” was the declaration of candidacy petition of one Charles E. Hageman, whose petition was accepted even though he had omitted his name from that part of the petition designated as petition for candidate.
+On April 2, 1998, the respondents filed an answer and asserted numerous defenses, including failure to state a claim upon which relief could be granted, statute of limitations, estoppel, waiver, laches, mandamus as not a proper remedy, and a bar to the claims by the common-law and statutory doctrines of qualified and good faith immunity.
+Given the pending primary election to be held on May 5, 1998, this court established an expedited schedule for filing stipulations and respective motions for summary judgment.
+This matter now comes on for decision.
+In order for a writ of mandamus to issue, the relator must demonstrate that (1) he or she has a clear legal right to the relief prayed for, (2) respondent is under a corresponding legal duty to perform the requested act, and (3) relator has no plain and adequate remedy. See State ex rel. Glass, Molders, Pottery, Plastics & Allied Workers Internatl. Union, Local 333, AFL — CIO, CLC v. State Emp. Relations Bd. (1993), 66 Ohio St.3d 157, 609 N.E.2d 1266. See, also, State ex rel. Foster v. Jenkins (Apr. 24, 1996), Columbiana App. No. 95-CO-66, unreported, 1996 WL 204278.
+Clearly, a writ of mandamus is the proper action in these types of fact-pattern situations, since declaratory judgment, or any other type of action to compel the Mahoning County Board of Elections to certify the sufficiency and validity of the petitions in question, would not be sufficiently speedy or complete. See State ex rel. Arnett v. Winemiller (1997), 80 Ohio St.3d 255, 685 N.E.2d 1219.
+Furthermore, as noted in State ex rel. Durkin v. Mahoning Cty. Bd. of Elections (1996), 115 Ohio App.3d 180, 183, 684 N.E.2d 1289, 1291:
+“* * * The Supreme Court of Ohio has relaxed the ‘ordinary course of law doctrine in election cases where the relator seeks to have his name placed on the ballot, and is inclined to entertain an original action despite the theoretical possibility of a protracted administrative appeal. State ex rel. Smart v. McKinley (1980), 64 Ohio St.2d 5, 6-7, 18 O.O.3d 128, 128-129, 412 N.E.2d 393, 393-395. Time is of the essence in such cases, and the normal appellate process is simply too slow to provide potential candidates with adequate relief.”
+Accordingly, we find mandamus to be an appropriate and available remedy.
+Respondent board of elections has a statutory duty under R.C. 3501.11(K) to “[r]eview, examine, and certify the sufficiency and validity of petitions and nomination papers, and, after certification, return to the secretary of state all petitions and nomination papers that the secretary of state forwarded to the board[.]”
+The pertinent language of R.C. 3513.07 reads as follows:
+“The form of declaration of candidacy and petition of a person desiring to be a candidate for a party nomination or a candidate for election to an office or position to be voted for at a primary election shall be as substantially as follows: * * *” (Emphasis added.)
+The only defect of relators’ petitions was that they did not “fill in” the name “Democrat” in the petition section and also did not “fill in” their names in that section of the petition. A review of the petition shows that both relators had their names in the “Declaration of Candidacy” section of the petition along with the declaration that they were a candidate for the Democratic Party, and also signed the petitions as the candidate. Moreover, relators personally circulated their petitions and properly signed their names and party affiliation in the circulator’s affidavit.
+There was no allegation that relators did not sign their petitions, have sufficient number of elector signatures, have correct signatures, or properly sign the petitions as circulator.
+The test of validity on such petition is substantial compliance with the legal requirements so as to avoid fraud or deception:
+“Absolute compliance with every technicality should not be required in order to constitute substantial compliance, unless such complete and absolute conformance to each technical requirement of the printed form serves a public interest and a public purpose.” (Emphasis sic.) Stern v. Cuyahoga Cty. Bd. of Elections (1968), 14 Ohio St.2d 175, 180, 43 O.O.2d 286, 289, 237 N.E.2d 313, 317.
+The law in Ohio is summarized in the case of Stern, supra, at 184, 43 O.O.2d at 291, 237 N.E.2d at 319, wherein that court, in the course of its opinion, stated:
+“The public policy which favors free competitive elections, in which the electorate has the opportunity to make a choice between candidates, outweighs the arguments for absolute compliance with each technical requirement in the petition form, where the statute requires only substantial compliance, where, in fact, the only omission cannot possibly mislead any petition signer or elector, where there is no claim of fraud or deception, and where there is sufficient substantial compliance to permit the board of elections, based upon the prima facie evidence appearing on the face of the jurat which is a part of the petition paper, to determine the petition to be valid.” (Emphasis sic.) See, also, State ex rel. Osborn v. Fairfield Cty. Bd. of Elections (1992), 65 Ohio St.3d 194, 602 N.E.2d 636; State ex rel. Green v. Casey (1990), 51 Ohio St.3d 83, 554 N.E.2d 1288; State ex rel. Maurer v. Franklin Cty. Bd. of Elections (1987), 33 Ohio St.3d 53, 514 N.E.2d 709; and State ex rel. Wilson v. Hisrich (1994), 69 Ohio St.3d 13, 630 N.E.2d 319.
+The appropriate position on the matter is well expressed by Justice Douglas in his concurring opinion in State ex rel. Green v. Casey (1990), 51 Ohio St.3d 83, 86, 554 N.E.2d 1288, 1292, where he stated:
+“* * * We should be encouraging interested citizens to participate- in the political process. We should not, using inappropriate technicalities, prohibit or discourage those who choose to be of service.”
+An examination of the petitions in question reveals that the section not completed referred to the fact the signers of the petition for candidate were members of the same political party as the candidate, were qualified electors of the state of Ohio, and attested to the fact that the candidate was well qualified to perform the duties of the office or position to which the person desired to be elected. Immediately above that section is the declaration of candidacy, wherein the candidate is named, the party affiliation identified, and the position to which the party sought election was clearly listed. Furthermore, as circulator the candidate attested to the fact “that all signers were to the best of my knowledge and belief qualified to sign.”
+Those qualifications include being a member of the same political party as the candidate. The signers also acknowledged that the candidate was well qualified to serve in the position sought by election.
+It should also be noted that the petition signers acknowledged that the declaration of candidacy was filed contemporaneously with the petition for candidate. That declaration was not challenged and appears proper in all respects. There was no fraud, deception, or possible attempt to mislead by the inadvertent omission to fill in the blanks above the electors’ signatures in the petition for candidate.
+Respondent, in its motion for summary judgment, identifies the standard for overturning a board of elections’ decision on the sufficiency and validity of petitions and nomination papers. As noted in State ex rel. Senn v. Cuyahoga Cty. Bd. of Elections (1977), 51 Ohio St.2d 178, 175, 5 O.O.3d 381, 382, 367 N.E.2d 879, 880:
+“The decision of the board on these matters is final and, in the absence of allegations of fraud, corruption, abuse of discretion, or a clear disregard of statutes or applicable legal provisions, is not subject to judicial review. State ex rel. Flynn v. Bd. of Elections (1955), 164 Ohio St. 193 [57 O.O. 402, 129 N.E.2d 623].”
+Respondent goes on to argue that it is within the board’s discretion to allow a petition with one blank space (the name of Charles E. Hageman omitted from his petition), but to disallow those petitions where the name and party affiliation are omitted in the petition for candidate section.
+We disagree. We recognize that an abuse of discretion connotes more than an. error of law or judgment; it implies that the court’s attitude is unreasonable, arbitrary, or unconscionable. Tracy v. Merrell Dow Pharmaceuticals, Inc. (1991), 58 Ohio St.3d 147, 152, 569 N.E.2d 875, 880-881.
+Upon an examination of the respective petitions and application of statutory and case law, we find that the declaration of candidacy petitions for relators herein substantially complied with the election statutes, and the respondent abused its discretion in disqualifying them as candidates.
+Accordingly, the respondents’ motion for summary judgment is overruled. Judgment is entered in favor of relators.
+Writ to issue and the respondent board of elections is ordered to accept the petitions of Keri King and Robin K. Pitts and place their names on the ballots for the respective positions to which they seek election.
+Final order. Clerk to serve notice as provided by the Civil Rules.
+Judgment accordingly.
+Gene Donofrio, Vukovich and Waite, JJ., concur.
