@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-10-22"
+citations: ["49 Ohio App. 53"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Washburn, P. J., and Funk, J., concur."]
+parties: ["Transcontinental Car Forwarding Co. v. Sladden, Admx."]
+source_url: "https://static.case.law/ohio-app/49/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1344696
+cites_cases: ["127 Ohio St., 69", "173 S. W., 518", "186 N. E., 722", "194 N. W., 542", "205 N. Y. Supp., 474", "210 App. Div., 149", "224 Mich., 88"]
+---
+
+# Transcontinental Car Forwarding Co. v. Sladden
+
+## Majority (Stevens, J.)
+
+Stevens, J.
+Error is prosecuted to this court from the Court of Common Pleas of Summit county, in which court the positions of the parties were the reverse of those in which they here appear. Reference, however, will be made to them as they appeared below.
+Plaintiff, Hazel D. Sladden, Admx., sought damages for the alleged wrongful death of plaintiff’s decedent, resulting from a collision between the automobile driven by plaintiff’s decedent and a truck of defendant, asserted to have been left upon the highway in the night season without lights as required by statute.
+The trial resulted in a verdict and judgment in favor of plaintiff.
+The principal error relied upon by defendant, the Transcontinental Car Forwarding Company, to secure a reversal of the judgment is the refusal of the trial court to give defendant’s special requests Nos. 1 and 5, which dealt with the subject of “assured clear distance.”
+Since the trial in the Court of Common Pleas, the decision of the Supreme Court in Skinner v. Pennsylvania Rd. Co., 127 Ohio St., 69, 186 N. E., 722, has been announced, and it is therein stated that a violation of the “assured clear distance” portion of Section 12603, General Code, constitutes negligence per se.
+The special requests to charge having stated propositions of law which were in conformity to the rule announced in the Skinner case, supra, the refusal of the trial court to give said special instructions constituted error, for which the judgment must be reversed.
+Counsel for defendant further contend that the rule announced in the Skinner case requires this court to render final judgment in favor of defendant.
+With that contention we cannot agree. There is a great disparity between the facts of the Skinner case and those revealed by the record in the instant case.
+In the Skinner case there was nothing from which it might be inferred that the train in question was not in the lawful use of the grade crossing; in the instant case it is alleged that the vehicle of defendant was unlawfully upon the highway.
+In the Skinner case the opinion states that the driver of the car “was driving the automobile through the rain, mist and fog at a speed of approximately forty miles per hour. ’ ’ In this case the evidence shows that the driver of the ear was proceeding upon the proper portion of the highway, at a lawful rate of speed except with reference to being able to stop within the “assured clear distance ahead.’-’
+To recover for damage allegedly occasioned by a violation of a statute, it is necessary to prove facts showing that the breach of the statute was the proximate cause of the injury, and likewise, the plaintiff’s violation of a statute, to constitute a defense, must be a contributing proximate cause of the injury; and to be the proximate cause, or a contributing proximate cause, the injury must be the ordinary and natural result of the violation of the statute; that is, such a result as is usual, and which therefore might reasonably have been expected. Beebe v. Hannett, 224 Mich., 88, 194 N. W., 542; Keevil v. Ponsford (Tex. Civ. App.), 173 S. W., 518; Hall v. Hepp, 210 App. Div., 149, 205 N. Y. Supp., 474; 4 Ohio Jurisprudence, “Automobiles”, Sections 16 and 18; 29 Ohio Jurisprudence, “Negligence”, Sections 40, 63, 64, 67, 68, 90 and 207.
+Contributory negligence on the part of plaintiff is a bar to an action only when it proximately contributes to the infliction of the injury; and if the damage is not the necessary, ordinary or likely result of such contributory negligence, but is due to some wholly unlikely fact or unexpected event which could not reasonably have been anticipated or regarded as likely to occur, such contributory negligence is too remote to be a bar to an action.
+The negligence of the plaintiff may be concurrent with the negligence of the defendant, and not be, strictly speaking, a proximate cause of an injury.
+It is not the belief of this court that the Supreme Court of Ohio, by its decision in the SJdomer case, intended to absolve the operators of motor vehicles from all responsibility for rear-end collisions resulting from the parking of vehicles on the highways without compliance -with the statutory requirements with reference to lights. On the contrary, it is our opinion that, in considering the question of whether the negligence of the driver of an automobile, driven in violation of the “assured clear distance” portion of Section 12603, General Code, was a contributing proximate cause of a collision with a vehicle standing upon the highway in violation of law, a jury may consider whether or not the circumstances were such as to have justified the operator of the moving motor vehicle in assuming that other persons in their use of said highways would likely comply with, rather than violate, the laws governing the use of the highways and the operation of motor vehicles thereon. And when a motor vehicle operator, driving his vehicle in compliance with the laws governing its operation in the night season, except with reference to the “assured clear distance” portion of Section 12603, General Code, is suddenly confronted with the presence of an unlighted vehicle in his path, which presence has not been made known by an exhibition of the lights required by statute, or otherwise, we believe that an emergency is thereby created which a jury may be justified in finding was not created by a violation of the “assured clear distance” portion of Section 12603, General Code, but by the unlawful act of the operator of the unlighted vehicle, and that therefore a factual question as to what was the proximate cause of the resultant collision is presented for the consideration of the jury.
+In other words, where the negligence of plaintiff and the negligence of defendant consist of violations of laws, all the circumstances should be considered in determining whether the negligence of one or the other, or of both, was a proximate cause; that presents a jury issue, unless reasonable minds cannot reasonably differ as to the conclusion that should be reached from a consideration of all the facts and circumstances.
+In the present case we think that reasonable minds may reasonably differ in arriving at a conclusion as to whether the violation by plaintiff of the “assured clear distance” portion of Section 12603, General Code, was a contributing proximate cause of the injury concerning which complaint is made, or whether such injury was proximately caused by the presence of the unlighted truck of the defendant standing upon the highway in violation of law. The presence of said unlighted truck, in the position occupied by' it, being an unexpected event which would not reasonably have been anticipated by an ordinarily careful and prudent person, we are of the opinion.that the court ought not to determine as a matter of law that the negligence of plaintiff was a contributing proximate cause of the collision in question.
+Inclining, as we do, to the opinion above announced, we reverse the judgment, and remand the case for further proceedings in conformity to this opinion.
+Judgment reversed and cause remanded.
+Washburn, P. J., and Funk, J., concur.
