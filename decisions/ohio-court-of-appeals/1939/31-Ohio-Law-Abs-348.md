@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "899"
+decided: "1939-04-20"
+citations: ["31 Ohio Law Abs. 348"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WASHBURN, PJ., DOYLE, J„ & STEVENS, J., concur."]
+parties: ["STATE v HENSLEY"]
+source_url: "https://static.case.law/ohio-law-abs/31/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1698825
+---
+
+# State v. Hensley
+
+## Majority (PER CURIAM:)
+
+OPINION
+PER CURIAM:
+The defendant (appellant), a colored youth 21 years of age, was indicted and tried for, and convicted of, the crime of murder committed in the perpetration of a rape. Mercy was recommended by the jury. The victim was Louise Hornbeck, a white girl 19 years of age, who was in a dentist’s office the evening of October 18, 1937, where she was regularly employed, and whose body was found in the early morning of October 19 in a vacant lot near her home in the village of Grafton. She had been raped, and killed by a blow of some instrument on her head.
+The defendant, who was a trusty in a state penal institution close to Grafton, was not indicted for this offense until early in February, 1938.
+Between the time of the killing, and the time of the indictment of the defendant, two youths had each confessed to the commission of the offense, one of whom had been indicted and had plead guilty to the offense. Later, however, that plea was withdrawn, and an inquiry into his sanity was had before three judges, with the result that he was committed to a state institution. Several others had been suspected and had been investigated by various state and other public officials assisted by experts, and among such investigators there was a difference of opinion as to who committed the offense.
+Because of these facts and apparently by common consent, evidence was introduced not only as to the acts and conduct of the defendant, but also as to the acts and conduct of all the other suspects, including the mental condition of some of them.
+The state claimed that the defendant had attempted to commit rape upon other girls, and offered evidence to prove the claim. Because of such and other unusual and extraordinary circumstances appearing in the record, we have given to every part of the record of more than 1000 pages and scores of exhibits, the most careful consideration of which we are capable.
+On the night of February 3, 1938, an assault was made upon a girl in the village of Grafton under conditions somewhat similar to the earlier assault upon Louise Hornbeck, and within less than an hour thereafter the defendant was arrested and confessed that he committed the assault for which he was arrested, but claimed that his purpose was robbery and not rape; but regardless of the confession the jury would have been fully justified in finding that the defendant made that assault, and that he intended to commit rape.
+Soon after the defendant’s arrest for the February 3, 1938 assault, a guard of the penal institution of which he had been a trusty, and who knew that the defendant had not been in the dormitory of the penal institution until about 11 p. m. on the night of the Hornbeck assault, told the defendant that he thought he was also guilty of the Horn-beck assault, and, if that was so, it would be best for him to confess it; and he gave to him in his cell a pad of paper upon which to write, and left him alone for some time, and the defendant, while in his cell and alone, wrote out and signed a confession that he made the assault of October 18, 1937, upon Louise Hornbeck.
+Later that same day, which was the third day after his arrest, he gave a complete description of the Hornbeck assault to the prosecuting attorney, who, in the presence of the defendant and another person, prepared a detailed statement thereof, which the defendant signed in the presence of witnesses.
+Said statement also included a reference to other assaults to rape which the defendant at that time told the prosecutor he had committed.
+The state offered evidence tending to prove that the defendant was absent from said penal institution at the time of each of the Grafton assaults, and to corroborate some of the other details of the confession by the defendant of the Hornbeck assault.
+The defendant, while admitting that he signed said confessions, claimed that they were obtained under circumstances which rendered them inadmissible as evidence against him. ‘
+The court, after a preliminary hearing in the absence of the jury, admitted such confessions, and also statements claimed to have been made by the defendant in- conversations with other persons, but cautioned the jury that they should be “closely scrutinized” and that the jury should determine from all the evidence in the case whether they “were made of his own free will and choice, and voluntarily.” The court further charged the jury that if they found that such confessions and statements were so made, they should “give such evidence such weight as you deem it justly entitled to.” The claim is made that the admission of such evidence was error prejudicial to the defendant.
+There is evidence in the record of statements made by the defendant concerning the circumstances under which said confessions were made, and the evidence of the defendant denying the making of such statements, although admitting the interview, and there is no claim made that at the time of the interview the defendant was under any coercion whatsoever or was influenced in any degree to make such statements; and if the statements were made, they constitute an admission on the part of the defendant that the confession of the defendant as to the Hornbeck assault was freely and voluntarily made by him.
+Our conclusion upon the claim of the defendant as to the confession in the H'ornbeck assault, is that the court was clearly right in admitting it in evidence, and that, as to the confession relating to the Feb. 3rd assault, in view of the compelling evidence of the state as to the facts in reference thereto,
+and in view of all of the evidence in the record in reference to the circumstances under which said confession was made, it was not prejudicial error for the court to leave it to the jury to determine whether the defendant made such confession of his “own free will and choice, and voluntarily”.
+It is also claimed that the court erred in admitting iñ evidence the testimony of two young women of Youngstown as to experiences they had with the defendant — one experience being in 1935 and one in 1933; it being claimed by the defendant that such evidence was predicated upon Juvenile Court proceedings and was prohibited by §1669 GC.
+The state claimed that such transactions constituted assaults with intent to commit rape, and were offered to show motive, intent or purpose of the defendant, and were authorized by §13444-19 GC, and that they were not offered for the purpose of being considered upon the question of the credibility of the defendant.
+The Common Pleas judge, in the charge to the jury, referring to such evidence, said:
+“You are instructed that this evidence is to be considered by you only for its bearing, if any you find it has, upon the motive, intent, schemes, plan or system, if any, that the defendant had in connection with the crime charged in the indictment. Consider it for that limited purpose only, and keep in mind that evidence of one offense is not competent proof tending to show the commission of another offense.”
+As to this claimed error, it is to be observed that there is no evidence in the record to show that the evidence offered was predicated upon Juvenile Court proceedings, and there was no attempt made to show what disposition, or what order, judgment or finding, was made by any court, nor was there any attempt to prove what evidence was given in any such proceeding, if there was one. The state made no inquiry in reference to any of said matters, and there was no objection to the evidence as a whole when it was received; and in the few instances where objections were made to specific questions, there was no error in the rulings of the court. The evidence offered came within the provisions of §13444-19 GC, and the charge of the court protected the rights of the defendant in reference thereto. We find that there was no prejudicial error in the admission of said evidence.
+We have examined the other claims of error in the admission and rejection of evidence, and find no prejudicial error concerning them. In the admission of evidence on behalf of the defendant, the court was very liberal indeed.
+The claim is also made that there was misconduct on the part of the prosecuting attorney in the trial of the case.
+We find that that claim is not well taken.
+Finally, it is urged that, taking the record as a whole, the defendant did not have a fair trial, and that the finding of the jury that he was proven guilty beyond a reasonable doubt is manifestly against the weight of the evidence.
+So far as we can ascertain from the record, the trial judge was exceptionally careful to see that all of the defendant’s rights were preserved and that he had a fair trial, and we find nothing in the record to indicate that the defendant did not have a fair trial.
+As to the finding of the jury being against the weight of the evidence, the members of this court are unanimously of the opinion that, notwithstanding the many unusual, and in some instances exceptional, circumstances shown by the record in this case, the finding of the jury is not manifestly against the weight of the evidence, but that on the contrary the verdict of the jury is fully sustained by the evidence.
+Judgment affirmed.
+WASHBURN, PJ., DOYLE, J„ & STEVENS, J., concur.
