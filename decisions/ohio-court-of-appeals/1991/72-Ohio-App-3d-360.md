@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "17-89-25"
+decided: "1991-02-04"
+citations: ["72 Ohio App. 3d 360"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shaw, P.J., and Evans, J., concur."]
+parties: ["ROBBINS, Appellant, v. FRY et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/72/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1470481
+cites_cases: ["135 N.E.2d 404", "16 OBR 9", "16 Ohio App.3d 9", "165 Ohio St. 286", "379 N.E.2d 239", "474 N.E.2d 357", "55 Ohio App.2d 59", "59 O.O. 369", "9 O.O.3d 220"]
+---
+
+# Robbins v. Fry
+
+## Majority (Thomas F. Bkyant, Judge.)
+
+Thomas F. Bkyant, Judge.
+This is an appeal from the judgment of the Court of Appeals for Shelby County granting summary judgment in favor of appellees, William Fry, James Horn and Officer R.J. Smith.
+This action for malicious prosecution arises out of a criminal prosecution instituted against appellant, William V. Robbins, Jr., charging one count of grand theft auto and five counts of theft in violation of R.C. 2913.02. The count of grand theft auto and one count of theft were dismissed by the state prior to trial. Two additional counts of theft were dismissed on motion of the appellant at the conclusion of trial. The jury subsequently returned a verdict of not guilty on the remaining two charges of theft.
+Following the conclusion of the criminal proceedings, appellant instituted this action for malicious prosecution against his former employers, William Fry and James Horn, and investigating officer, R.J. Smith. Appellees moved for and were granted summary judgment. It is from this judgment appellant now appeals asserting the following sole assignment of error:
+“The decision of the trial court sustaining defendants-appellees’ motions for summary judgment was contrary to law, in that evidence presented for the trial court’s review regarding plaintiff-appellant’s complaint for malicious prosecution presented genuine issues of material fact from which reasonable minds could conclude favorably in plaintiff-appellant’s behalf.”
+To sustain an action for malicious prosecution, appellant must prove that there was a criminal prosecution instituted against him by these appellees, the criminal action was resolved favorably to the appellant, and the criminal prosecution was instituted with malice and without probable cause. See Clermont Environmental Reclamation Co. v. Hancock (1984), 16 Ohio App.3d 9, 11, 16 OBR 9, 11, 474 N.E.2d 357, 361.
+The institution of a criminal prosecution by these appellees and the resolution of the criminal proceeding favorably for appellant are not disputed by the parties. The dispute revolves around the presence of malice and absence of probable cause.
+We have carefully examined the record in this case, particularly the documents before the trial court upon these motions for summary judgment. It is evident from the record Officer Smith conducted an extensive investigation of the charges brought by William Fry and James Horn. It is also evident Officer Smith consulted with Prosecuting Attorney James Bennett and provided Bennett with a full report of his investigation including the conflicting opinions and statements of Fry, Horn, and Robbins. Upon review of the investigation file, Bennett concluded probable cause existed and there was sufficient evidence to support a presentation of the case to the grand jury using Smith as a witness. There is no indication Officer Smith provided to Bennett anything but a full and fair disclosure of all the material facts as revealed by his investigation, including Robbins’ exculpatory statements. Notwithstanding his investigative activities, his status in the prosecution of appellant was no more than that of witness or informant. Prosecutor Bennett, not Officer Smith, concluded that the matter should be presented to the grand jury. The grand jury’s indictment thus insulates Smith from suit.
+The question with regard to Fry and Horn is can their actions be protected by the rule of Archer v. Cachat (1956), 165 Ohio St. 286, 59 O.O. 369, 135 N.E.2d 404. Archer, 165 Ohio St. at 288, 59 O.O. at 370, 135 N.E.2d at 406, affirms the proposition that a citizen who serves only as an informer of criminal activity is not regarded as having instituted the criminal proceedings. The protected status of informer can be lost, however, when the informer provides false information or the informer demonstrates a desire, direction, request or pressure for the initiation of criminal proceedings. The record discloses that appellees Fry and Horn believed appellant had robbed them while he was employed as a sales manager for their business. Appellees Fry and Horn did not merely serve as a source of information concerning criminal activity, but filed a complaint against the appellant asserting commission of the criminal acts. However, if an informer merely provides a statement of his belief of criminal activity and leaves the decision to prosecute entirely to the uncontrolled discretion of the prosecutor, or if the prosecutor conducts an independent investigation or prosecutes for an offense other than the one charged by the informer, the informer is not regarded as having instituted the criminal proceedings. Archer, 165 Ohio St. at 288, 59 O.O. at 370, 135 N.E.2d at 406.
+In the case before us, Prosecutor Bennett stated in his affidavit his decision to prosecute was based on his review of Officer Smith’s investigatory file and a personal interview with Officer Smith. Appellant claims Smith, Fry, and Horn knowingly provided false, incomplete, or misleading information to the prosecutor. Appellant’s claim is not supported by the record. From our review of the record, we conclude the indictment was the product of the prosecutor’s uncontrolled discretion to prosecute and as a result there exists a presumption of probable cause created by the indictment.
+In a malicious prosecution action, when the plaintiff fails to show the indictment was not the result of the prosecutor’s uncontrolled discretion to prosecute, the presumption of probable cause raised by the indictment is unrebutted. See Epling v. Express Co. (1977), 55 Ohio App.2d 59, 62, 9 O.O.3d 220, 222, 379 N.E.2d 239, 241.
+Upon a motion for summary judgment, there must be no genuine issue of material fact, and, when construing the evidence most favorably to the nonmoving party, reasonable minds can reach but one conclusion, that conclusion being adverse to the nonmoving party. Civ.R. 56(C). We find no error in the trial court’s decision to grant the appellees’ motion for summary judgment upon appellant’s failure to rebut the presumption created by the indictment. Appellant’s assignment of error is overruled.
+For the reasons stated above and upon the authorities cited and discussed, the judgment of the Court of Common Pleas of Shelby County is affirmed.
+Judgment affirmed.
+Shaw, P.J., and Evans, J., concur.
