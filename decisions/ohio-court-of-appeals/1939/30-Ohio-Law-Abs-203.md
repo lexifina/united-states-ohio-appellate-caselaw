@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+docket: "16931"
+decided: "1939-05-25"
+citations: ["30 Ohio Law Abs. 203"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAMILTON, PJ. and MATTHEWS, J., ■ concur."]
+parties: ["ROWE v BURT’S INC."]
+source_url: "https://static.case.law/ohio-law-abs/30/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1696324
+cites_cases: ["128 Oh St 366", "129 Oh St 23", "131 Oh St 217", "132 Oh St 629"]
+---
+
+# Rowe v. Burt's Inc.
+
+## Majority (By ROSS, J.)
+
+OPINION
+By ROSS, J.
+Appeal on questions of law and fact from the Court of Common Pleas of Cuyahoga County, Ohio.
+It is somewhat difficult to determine exactly whether the plaintiff is presenting its appeal upon questions of law merely or upon questions of law and fact.
+In plaintiff’s brief he considers several assignments of error, which would seem to indicate that the case is presented upon questions of law. However, as the case is a chancery case, and it seems that counsel, took for granted that the evidence taken in the trial court could be considered here as the evidence presented to this court, we proceed to consider the case upon appeal on questions of law and fact.
+The answer, in effect, is a general denial.
+An examination of the record, develops that previous to the filing of the petition on August 2nd, 1932, the defendant had offended against the statute and law of the state in the conduct of its business, which is that of a general department store. Even after the filing of the petition, there were certain practices against which an injunction would have lain, which continued although the practices as compared to those previously, noted, were much less serious.
+Trial was not had upon the'issues until January 3, 1938, when it is claimed all violations of the law had ceased. .
+The profession- of Optometry is defined in §1295-21, GC, as follows:
+The practice of Optometry is defined to be the application of optical principles, through technical methods and devices in the examination of human eyes for the purpose of ascertaining departures from the normal, measuring their functional powers and adapting optical accessories for the aid thereof.”
+The Supreme Court of Ohio has had occasion to consider violations of the law applicable to the practice of professions in a number of cases.
+In State ex Harris, et v Myers, Secretary of State, 128 Oh St 366, it was held that a corporation was not entitled to practice the profession of Optometry, in view of the limitations contained in §8623-3, GC.
+In Land Title Abstract & Trust Company v Dworken et, 129 Oh St 23, a like conclusion was reached as to the practice of the law.
+In State ex Bricker, Attorney General v Buhl Optical Company, 131 Oh St 217, decided June 3, 1936, the Supreme Court considered certain specific practices of the optical business, and in that case laid down specific definite limitations upon the operation of such optical business, as it was related to the profession of optometry. We quote the three paragraphs of the Syllabus in full:
+“1. A foreign corporation lawfully authorized to do an optical business in Ohio may not engage in the practice of optometry in this state.
+2. A corporation, foreign or domestic, engaged in the business of grinding, polishing and selling eye-glasses fitted to the eyes in accordance with prescription may (a) employ an optometrist in its optical business, (b) rent equipment or a part of its quarters for an office to an optometrist not so employed and receive prescriptions from him, (c) advertise an optometrist, as such, who has an office in its quarters but has no connection with it, by employment, by contract or otherwise except as indicated herein, (d), fit eye-glasses to the face by frame bending after they are ground •according to prescription mounted and otherwise ready to use, and (e), do all kinds of work in preparing and furnishing eye-glasses except those enumerated in §1295-21, GC.
+3. Such corporation may not (a) employ on optometrist to do optometrical work in connection with its business, (b), fill a prescription issued by an optometrist who is employed in its business to do optical or other legitimate work, (c) exercise any control over such an optometrist, as such, in regard to his prices or charges or over the records of his office or any part of his optometrical work, (d). advertise so as to lead the public to believe it is practicing optometry, nor (e) practice optometry directly or indirectly.”
+Again, the Supreme Court was called upon to consider the practice of this profession in the case of Rowe v Standard Drug Company, 132 Oh St 629. In this case the ostensible relation of lessor and lessee was considered as .an evasion of the limitation upon the practice of optometry. Some of the paragraphs of the syllabus are pertinent to the issues presented to us. We quote the following:
+“1. A corporation does not engage in the practice of optometry by the mere act of leasing a portion of its premises for optical purposes with a provision in the lease that the lessee may sublet a part of the demised premises to an optometrist with the consent of the lessor.
+2. A lease demising premises and containing the usual covenants cannot be deemed to create the relation of licensor and licensee unless there are provisions in the contract of lease which give rise to that relation and preclude that of landlord and tenant. >
+3. Where a lease is a sham or a device to cover up the real transaction, a court will look beyond the ostensible contract to discover the real relationship of the parties, and, if a corporation is directly or indirectly engaged in the practice of optometry, in violation of an injunction,'the pretended lease will afford no defense to a charge in contempt.
+4. An optician, not licensed to practice optometry in this state, is unlawfully engaged in the practice of that profession, when he employs optometrists to do optometrical work in connection with nis business as an optician.
+6. A person not authorized to practice optometry who engages in the optical - business and advertises that he fits glasses, holds himself out as practicing optometry; as an optician he may.' •only advertise that he fits the frames to the face by frame bending.” •
+The following facts appear supported by substantial evidence.
+The defendant conducts a department store in the Terminal Tower Building in Cleveland, Ohio, to which location it moved from 507 Euclid Avenue, where it was located at the time the petition was filed. Just prior to the filing of the petition, the defendant was engaged in the jewelry and optical business — sold, to its customers upon credit, and upon what is commonly known as the installment plan — hired optometrists upon a salary basis, and advertised these facts .to the public. About the time this action was commenced, it cancelled the employment of its optometrists, and entered into contracts with them, whereby it was provided that the optometrists leased from the defendant rooms and in two cases optometrist’s equipment. In the defendant’s advertising, statements indicating employment of the optometrists ceased. In the earlier lease contracts provision was made for a percentage rental, requiring an accounting of fees, deduction of expenses, etc. Later contracts were entered into by which the rent was fixed at $50.00 per month, and the defendant ceased to adjust the compensation by a balance between fees and expenses. However, the optometrists contracted with defendant that they would furnish optometrical services to such persons as should require same during hours when the place of business of the defendant was open. They further agreed that their fees for examination should not exceed $3.00, and that they would keep a complete record of all receipts and sales and cause such records to be available to the defendant.
+It is claimed that such latter provision was made necessary by reason of the contract of the defendant with its lessor.
+The optometrists in question are located in the place of business of the defendant as an integral, part thereof. To the average member of the public they undoubtedly appear to be still a part of defendant’s business organization. Upon the door of their quarters appear signs, it is true, indicating that they are independent professional men. However, receptionists, paid partly by the defendant and to a small extent by the optometrists, • rotate customers or ■“patients” among the three professional men. The great mass of prescriptions issued by the optometrists are filled in the optical department of the defendant, and the work done elsewhere at the homes of these optometrists is very slight, if not entirely negligible.
+The president of the ■ defendant stated:
+“A. I wouldn’t say it was getting the benefit of their services.
+“Q. As a matter of good business, you would not want to have those optometrists up there unless you could fill their prescriptions, isn’t that so?
+“A. I would not rent space in my store for someone else to sell jewelry in my store, would I?”
+The defendant still continues to advertise and broadcast over the radio. In such advertisements and broadcasts it refrains from direct statements that would imply that it engaged in the practice of optometry and limits advertising to its optical business, however, calling attention to the fact that its glasses are especially adapted to fitting the personality of the customers.
+We are impelled to, the conclusion that the defendant has reluctantly brought itself within the letter of the law in nearly every respect.
+It cannot be said that any of the practices' still retained constitute a control over the practice of the optometrists . with the possible exception of the regulation of the maximum limit of the fee. The evidence indicates that the optometrists do not consider themselves bound by such regulations and charge higher fees.
+The manifest purpose of the renting of space to the professional .men is to serve the convenience of tne defendant’s cutomers, and increase the amount of the defendant’s optical business. Professionally, an optometrist should have no interest in any way in who fills his prescriptions.- It is manifestly apparent, that the situation here prevailing ■ cannot permit the freedom in the optometrists which should exist in- purely professional men.
+The clause in the sub-lease contract between the defendant' and the . optometrists, requiring the keeping of records subject to inspection by the defendant is justified by reason of a percentage lease contract between the defendant and its lessor, which provision is approved in Rowe v Standard Drug Company supra. We consider that such contracts when permitted to exist between professional men and laymen are extremely apt to be the basis of an arrangement with reference to compensation, which may make it very difficult to put the finger of disapproval upon an unlawful practice.
+We are unable to find, however, in the record direct evidence of such unlawful practices, in spite of the arrangement for an accounting. It is, however, now asserted that such accounting is rendered entirely unnecessary by reason of the fact that the business of the defendant has reached the guarantee limits rendering unnecessary any accounting upon a percentage basis. Such being the case, we see no reason why the defendant should not, therefore, be enjoined from controlling in any way the fees to be charged by the optometrists or from inspecting their records, or requiring the keeping of same, and it is so ordered.
+HAMILTON, PJ. and MATTHEWS, J., ■ concur.
