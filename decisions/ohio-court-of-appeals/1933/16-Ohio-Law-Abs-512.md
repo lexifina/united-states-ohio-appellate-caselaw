@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2027"
+decided: "1933-12-26"
+citations: ["16 Ohio Law Abs. 512"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WILLIAMS, RICHARDS and LLOYD, JJ, (6th Dist), sitting.", "RICHARDS, J, concurs."]
+parties: ["NEFF v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/16/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1654852
+cites_cases: ["103 Oh St, 434"]
+---
+
+# Neff v. State
+
+## Majority (By WILLIAMS, J.)
+
+OPINION
+By WILLIAMS, J.
+One of the contentions of the defendant is that the trial court should have directed the jury to return a verdict of not guilty. The defendant in his testimony admits pointing the firearm at his wife in violation of §12422, GO, and such action on his part constituted an illegal act which resulted in the death of his wife, and therefore, according to the admissions of the defendant, he was guilty of manslaughter at least. Black v State, 103 Oh St, 434. For this reason alone, a verdict of not guilty could not have been directed.
+The defendant also claims that the verdict of second degree murder is not sustained by sufficient evidence and is manifestly against the weight of the evidence. Murder in the second degree is the unlawful, malicious and intentional killing of a human being. If the defendant shot his wife intentionally and maliciously, it would constitute murder in the second degree. Malice is made out by showing the doing of a wrongful act intentionally without just cause or excuse, and intent to kill may be presumed where the natural and probable consequence of the intentional and wrongful act done is to produce death.
+In determining whether the proof warrants the verdict returned, there is one question that is important. What caused this gun to be discharged? It required a pressure of about ten pounds to cock- the hammer, and a blow of several ounces on the hammer, when down, to discharge the shell. Defendant makes no claim that the hammer of the gun was struck against anything. In fact, according to his testimony, it was not. There is no claim by defendant that the trigger was hit or that he touched it, and according to the evidence it would take eight pounds of pressure upon the trigger to cause the hammer, when cocked, to fall. Although he claims the killing was accidental, he testifies to no accident which caused the gun to be discharged. Under these circumstances, the jury was justified in finding that the defendant intentionally pulled the trigger and caused the gun to be discharged. Intentional pointing of a loaded gun at the deceased’s head and intentionally causing the load to be discharged at her, would warrant an inference of 'malice and intent to kill. In many respects, the instant case is similar to Kelsey v State, 42 Oh Ap, 291, in which a motion for leave to file a petition in error was overruled by the Supreme Court.
+There is another thing worth noting. The defendant testifies that at the time the gun was discharged the deceased had her hand up near her head, and that upon the firing of the gun, the only movement she made was to drop her arm down. There is also evidence in the record which tends to show that the gun would not scatter more than an inch when fired at one foot from the object hit, nor more than two inches when fired at a distance of four feet. The deceased’s hand was not lacerated by the discharge, but it did have in it two or three shot. According to the defendant’s testimony, the gun was very close to the head when discharged and, in fact, the shot could not have entered the hand under the testimony of the experts unless the muzzle of the gun, when discharged, was some feet from the victim’s head.
+There are many other facts proven in the case which tend to show intentional and malicious shooting, including conflicting statements of the defendant made out of court, as to just how the shooting took place. The question of guilt under the second degree charge was one for the jury and this court, in the opinion of the majority, would not be warranted in holding the verdict and judgment of sentence are not sustained by sufficient evidence.
+The question is made that the trial court committed error in appointing Mr.- Henderson as special prosecuting attorney to assist in the prosecution, because, it is claimed, he was hired and to be paid by relatives and friends of the deceased and the public interest did not require nor permit such appointment. We think the contention of defendant’s counsel is not sustained by the authorities. In fact, in our judgment, the action of the trial court is sustained by numerous authorities and to undertake to cite them here would be a work of supererogation.
+It is also contended that the court erred in stating to the jury the punishment for murder in the second degree. §13442-9, GC, required that the court instruct the jury that it must not consider the punishment in determining the question of guilt and that the punishment rests with the judge, but makes an exception as to murder-in the first degree. The court instructed the jury in accordance with this section and it certainly was not prejudicial error in and of itself for the court to state the punishment for second degree murder. It is interesting to observe that the jury were brought back into court and submitted a request for fur-their instructions as to the penalty for second degree murder, and the court, referring to the section of the statutes last above referred to, refused to make any statement regarding the penalty for that offense other than to reiterate what was said to them in the charge, to the effect that they should not consider the question of punishment.
+It is also contended that there was misconduct of counsel for the state which warrants a reversal. A careful examination of every instance of this kind called to our attention py defendant’s counsel convinces us that this contention is without foundation. We - think it unnecessary to discuss in detail the different claims made by counsel for the defendant in this regard.
+It is also maintained by defendant’s coim- . sel that the court erred in the admission of evidence. In our judgment this was peculiarly a case in which the disposition of the husband and wife toward each other and the conduct of the one toward the other in their marital relations and the matrimonial experiences of the defendant, had more or less bearing upon the motives of the defendant at the time of the transaction in question. The trial court very properly permitted a wide scope in this inquiry and, we think, committed no error in so doing.
+One item of evidence, the admission of which is claimed to have been error, was a picture on the back of which the deceased had written the words “Robert Richholt, Holgate, Ohio.” The testimony shows that when Dr. F. F. Monroe, a brother-in-law, and his wife, were at breakfast one morning about 9:00 or 9:30, the deceased came into the house and'said: “If anything happens, where can I put this name where it won’t be lost.” She thereupon went to the wall, took down the picture and wrote the name and address on the back thereof. It would seem strange indeed to reverse the judgment merely for the introduction of this evidence, if it could upon any theory be held to be of such character as to require a holding that it was error. Even if the admission were erroneous, it could hardly be said to be prejudicial.
+There are other questions made on the admission of evidence, but none is presented that requires a reversal of the judgment.
+We have examined all the questions ip this case with care, and a majority are of the opinion that there is no reversible error apparent upon the face of the record, that substantial justice has been done as between the parties as shown by the record and that the judgment should be affirmed.
+Judgment affirmed.
+RICHARDS, J, concurs.
+
+## Dissent (By LLOYD, J.)
+
+DISSENTING OPINION
+By LLOYD, J.
+No purposeful object is to be attained by a recital of the facts as they appear to me to be and of the testimony sustaining them. Sufficient it is to say, that considering all of the evidence, much of which seems to me to be incompetent and irrelevant, as well as other happenings shown by the .-record, my conclusion is that Neff is guilty of manslaughter only, and that the verdict should be so modified and sentence passed in accordance therewith.
