@@ -1,0 +1,66 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1150"
+decided: "1958-01-15"
+citations: ["107 Ohio App. 268"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hunsicker, P. J., concurs."]
+parties: ["The State of Ohio, Appellee, v. Harmon, Appellant."]
+source_url: "https://static.case.law/ohio-app/107/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1434389
+cites_cases: ["10 Ohio St., 287", "106 N. E., 52", "118 Ohio St., 167", "118 Ohio St., 397", "119 N. E., 730", "12 Ohio St., 146", "121 Ohio St., 562", "149 Ohio St., 226", "153 N. E., 157", "153 N. E., 301", "160 N. E., 683", "161 N. E., 211", "170 N. E., 355", "20 Ohio App., 112", "20 Ohio App., 528", "82 Ohio App., 318", "89 Ohio St., 390", "97 Ohio App., 339", "97 Ohio St., 280"]
+---
+
+# State v. Harmon
+
+## Majority (Doyle, J.)
+
+Doyle, J.
+Pursuant to indictment by the Grand Jury of Wayne County, Ohio, Chester Harmon was tried on five counts of sodomy. Each count related to an offense or offenses with a different boy.
+The charges were that he “did unlawfully have carnal copulation against nature” with the named boys, “in an opening of the body, other than the sexual parts.”
+Trial was had to the court, a jury having been formally waived by the accused in compliance with the statute.
+In consideration of the evidence, the court found the defendant guilty of three of the five counts, and not guilty of the remaining two.
+From the judgment of guilt and the accompanying sentence, the defendant has appealed to this court on questions of law, and submits the following claimed errors:
+“Now comes the defendant-appellant and for his assignment of error says that the verdict and judgment of the Court of Common Pleas of Wayne County, Ohio, was not sustained by sufficient evidence, and was against the manifest weight of the evidence in that it was based upon testimony which was in itself contradictory and biased.”
+The prosecution presented the testimony of four juveniles, two of them 15 years of age, and two of the age of 16 years. They resided in the vicinity of a gasoline station owned and operated by the accused. Each of the boys may be characterized as delinquent, and each, according to his testimony, was a willing accomplice to the crime of sodomy with the defendant. They each testified to a sordid association with the defendant, during which, on numerous occasions, and at various places, they individually submitted to and participated in the offense of fellatio with the defendant.
+The juvenile delinquents (one of whom had burglarized the defendant’s gasoline station, and another had stolen an automobile), were, as heretofore stated, accomplices of the defendant, in the offenses charged, by their own testimony.
+If in the instant ease it may be argued that there is no corroboration of the testimony of each of the boys, nevertheless there is no rule of law in this state requiring a jury, or a judge hearing a case after a waiver of a jury, to refuse to convict one charged with crime upon the uncorroborated testimony of an accomplice. State v. Lehr, 97 Ohio St., 280, 119 N. E., 730; Allen v. State, 10 Ohio St., 287; State v. Neal, 97 Ohio App., 339, 117 N. E. (2d), 622, 118 N. E. (2d), 424.
+However, there is some evidence in corroboration of elements of each of the offenses charged, although the direct evidence indicates the commission of each offense secretly with each accomplice. This evidence is the testimony of each of the accomplices as bearing upon the defendant’s offense with the others. If the defendant had been charged only with an offense with but one of the boys, nevertheless the testimony of the other boys, in respect to his relationship with them, would have been admissible in evidence, and would have had a bearing upon the case relating to the one boy.
+Section 2945.59, Revised Code, which is declarative of the common law of this state, provides:
+“In any criminal case in which the defendant’s motive or intent, the absence of mistake or accident on his part, or the defendant’s scheme, plan, or system in doing an act is material, any acts of the defendant which tend to show his motive or intent, the absence of mistake or accident on his part, or the defendant’s scheme, plan, or system in doing the act in question may be proved, whether they are contemporaneous with or prior or subsequent thereto, notwithstanding that such proof may show or tend to show the commission of another crime by the defendant. ’ ’
+As stated by this court in State v. Jackson, 82 Ohio App., 318, at p. 322, 81 N. E. (2d), 546, “The evidence is not at all admissible for the purpose of raising a presumption of guilt on the hypothesis that a man who commits one crime will probably commit another, but for the sole purpose of showing a passion, an emotion, a degeneracy, of exactly the same type prompting the commission of the offense laid in the indictment. ’ ’
+The separate claimed acts of sodomy with the several boys in the instant case are so related that they tend to prove moral degeneracy and lascivious conduct, which may properly be said to disclose a motive or purpose for the commission of the offenses charged in the indictment. See: State v. Reineke, 89 Ohio St., 390, 106 N. E., 52, L. R. A., 1915A, 138; State v. Moore, 149 Ohio St., 226, 78 N. E. (2d), 365.
+It is urged that the judgment is against the weight of the evidence, “in that it was based upon testimony which was in itself contradictory and biased.”
+A Court of Appeals in its review of a case on questions of law can look only to the record presented to it from the lower court. It must draw the line between trying the facts and determining the credibility of witnesses, and passing upon the record as a matter of law.
+It has long been established in this state that “In a criminal prosecution, questions of fact are for the jury, and a judgment of guilty will not be reversed as not sustained by sufficient evidence unless the verdict and judgment are clearly and manifestly contrary to the evidence. (Breese v. The State, 12 Ohio St., 146, * * * approved and followed.)” Scaccuto v. State, 118 Ohio St., 397, 161 N. E., 211.
+The criterion governing a reviewing court, in weighing the evidence, is not what it would have done if it stood in the place of the judge or jury and were considering the matter in the first instance, but whether it is prepared to say that the judgment as rendered is manifestly and clearly against the weight of the evidence. 3 Ohio Jurisprudence (2d), Appellate Review, Section 815, and cases there cited.
+In determining the weight of the evidence, a reviewing court must determine whether there is evidence of such a nature that its very character is sufficient to satisfy reasonable minds of the guilt of the accused. It cannot appraise the credibility of the witnesses who have given testimony, for that duty rests solely with the jury or trial judge, and a reviewing court cannot invade the province of the trier of the facts as to the credibility of the witnesses no matter how conflicting is the evidence. It is the sole function of the trier of the facts in the trial court to weigh the conflicting evidence, and, by doing so, to determine where the truth lies.
+In the instant case, the trial judge found from the evidence the defendant guilty. He believed sufficient of the testimony of the accomplices to convince him beyond a reasonable doubt that the defendant had committed, in violation of law, the acts which constituted the basis of the charges against him. In appraising this finding, we find sufficient evidence, when believed to be true, of such a nature and character to satisfy a reasonable mind of the accused’s guilt beyond a reasonable doubt. The judgment is not against the weight of the evidence in the light of the record, which includes evidence on every element of the crime.
+It is further claimed that the testimony of the various witnesses for the prosecution was “contradictory and biased.”
+We find no evidence indicating bias, but in several instances the testimony may be said to be contradictory. The law relating to this claim may be stated as follows: When the testimony of several witnesses is contradictory, conflicting or inconsistent, the question of the credibility and the weight thereof is one of fact to be determined by the trier of the facts, either the court or a jury. It is a matter exclusively within the province of the trier of the facts, and it is the duty of the jury or court trying the facts to determine which of the several witnesses they or it will believe, the degree of credit to which each is entitled, and to reconcile, if possible, the conflicts and inconsistencies.
+The rule of law making the credibility and weight of the testimony questions for the trier of the facts, applies notwithstanding there are contradictions or inconsistencies in the testimony of a particular witness. It is the duty of the court or jury to determine which portion of his evidence or version of the matter they or it will believe.
+While Painesville Utopia Theatre Co. v. Lautermilch, 118 Ohio St., 167, 160 N. E., 683, is a civil case, nevertheless the following rule of law there pronounced applies to criminal cases:
+“Whenever, from conflicting evidence of the same witness or of different witnesses, it becomes necessary to weigh such conflicting evidence to determine wherein the probable truth lies, or from a combination of circumstances determine an ultimate fact upon the determination of which different minds might reasonably arrive at different conclusions, it is the province of the jury to perform that function. ’ ’
+If, after weighing such evidence, a jury or judge is convinced beyond a reasonable doubt of tbe guilt of an accused, and such evidence is sufficient to meet the requirement of proof beyond a reasonable doubt, it then becomes a duty to find the defendant guilty. See: Cooper v. State, 121 Ohio St., 562, 170 N. E., 355; Glowaski v. State, 20 Ohio App., 112, at pp. 115-116, 153 N. E., 157.
+As heretofore indicated, we find that the evidence meets this legal requirement.
+It may be that the defendant was “framed” by the delinquent youths. It is difficult to believe that a man with such an excellent social background, a former soldier who served his country with distinction in World War II, and the head of a splendid family, would be guilty of the offenses charged.
+Be that as it may, if the trial judge honestly believed the state’s witnesses, as was his judicial authority, and as he undoubtedly did, it was his duty to find the defendant guilty.
+A majority of this court fails to find error in the record prejudicial to the defendant, and, as a consequence, the judgment must be and is affirmed.
+Judgment affirmed.
+Hunsicker, P. J., concurs.
+
+## Dissent (Stevens, J.,)
+
+Stevens, J.,
+dissenting. I emphatically disagree with the conclusion reached by my associates.
+I am unable to believe that the testimony of four delinquent boys, two and possibly three of whom are delinquent because of the commission of felonies, attains that degree of probity necessary to establish the guilt of defendant beyond a reasonable doubt. Especially is that true in view of the probability of a vindictive conspiracy on the part of the delinquents to get even with the defendant because he had the temerity to charge Bonald Frontz, one of the prosecuting witnesses, with burglary of his gasoline station, the commission of which offense Frontz admitted.
+The testimony of the four minors, all willing accomplices to the offenses charged, assuming them to have been committed by defendant, was entirely uncorroborated, as to any of the offenses, by the direct testimony of any other witness.
+In my opinion, this judgment is manifestly against the weight of the evidence, when the testimony of the state is balanced against the previous good reputation of defendant, his 4% years service in the army, his conduct in the army and during his incarceration at Lima State Hospital, and the testimony of witnesses as to his good character. See opinions of this court in Glowaski v. State, 20 Ohio App., 112, at pp. 115-116, 153 N. E., 157, and City of Lorain v. Jameson, 20 Ohio App., 528, at p. 529, 153 N. E., 301; and Cooper v. State, 121 Ohio St., 562, 170 N. E., 355.
+In 1 Underhill’s Criminal Evidence (Fifth Ed.), Section 181, at pp. 372-373, the following appears:
+“An accomplice’s testimony is subject to grave suspicion and should be acted on with the utmost caution. * * * the rule that evidence of accomplices should be received with caution applies only when the 'witnesses joined in committing the particular crime for which the defendant is being tried.”
+(Such was the case here, if we assume the commission of the offenses charged.)
+Although I am fully aware of the rule that a reviewing court should not reverse a judgment of a lower court where there is credible evidence presented in support of the judgment, which, if believed by the trier of the facts, would justify the judgment rendered, I am firmly convinced that the evidence offered by the state in this case was not credible evidence.
+It is my conclusion that this judgment should be reversed.
