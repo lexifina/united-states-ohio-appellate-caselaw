@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 762"
+decided: "1939-05-24"
+citations: ["29 Ohio Law Abs. 453"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAMILTON, PJ, & ROSS, J, concur."]
+parties: ["BUELL et v INDIAN REFINING CO"]
+source_url: "https://static.case.law/ohio-law-abs/29/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1693621
+cites_cases: ["106 Or., 1", "113 Oh. St 121", "128 Oh St 134", "27 A L. R. 510", "96 U. S. 595"]
+---
+
+# Buell v. Indian Refining Co.
+
+## Majority (By MATTHEWS, J.)
+
+OPINION
+By MATTHEWS, J.
+This is an appeal on questions of law from the common pleas court of Butler County.
+In their amended petition, the appellants alleged a cause of action for unpaid installments of rene under a lease dated January 26th, 1929. for a term of ten years. To this amended petition, the defendant filed an answer, in which it admitted that the lease was executed and then alleged affirmatively that the premises were leased +'or the purpose of using them for an oil and gasoline filling station, and that the lease contained the following provision:
+“If, after the first payment of rent, during the term of, this agreement, or any renewal .thereof, the us§ -of. the said premises as ,an oil and gasoline filling station be prevented, suspended, or impaired by any zoning law or any other municipal or governmental action, or valid law, ordinance, regulation or by the widening, altering, or improving of any street or highway fronting, or adjoining, said premises, or by fire, tornado, or any other Act of God, or any other cause not within the control of Indian, then Indian may cancel this agreement by giving thirty (30) days’ notice to Lessor, and, if it does not do so, Indian need pay no rent for the period during which it is compelled to suspend business at the said premises.”
+It was then set forth in the answer that the premises were located on Ohio Route No. 127, and that about one thousand feet southwardly therefrom there was a bridge across a river known as Four Mile Creek, over which vehicles passed and repassed, that on or about the 9th day of January, 1934, this bridge was destroyed and thereafter the said highway was not used for motor vehicles traffic and subsequently said route No. 127 was changed, so that it did not pass the leased premises. These allegations were followed by others to the effect that the destruction of the bridge and the re-location of route No. 127 were not within its control, but were entirely beyond its control, and prevented, suspended and impaired the use of said premises and rendered them wholly unfit for the purpose for which .they were leased, and that defendant .thereupon exercised its option to cancel said lease as of the 31st day of May, 1934, and since said date has not used or occupied said premises to which date the rent had been fully paid and that it — the defendant — was not indebted to the plaintiffs in any sum whatsoever.
+The plaintiffs demurred to this answer on the ground- that- it did not .state a defense. The court overruled the demurrer and, the plaintiff not desiring to plead further, judgment was rendered dismissing the action at their costs. It is from that judgment that this appeal was taken.
+Whether the development of the situation alleged in this answer conformed to the description of the circumstances set forth in the lease, which would give the lessee the option of terminating the lease depends upon the connotation of the noun “use” and the verb “impair” in the setting in which we find them-. They are the chief vehicles of intention in this provision of the lease, and, of course, it is the intention of the parties as expressed that controls. Blosser v Enderlin, 113 Oh. St 121, at 133.
+Undoubtedly, by the destruction of the bridge and the relocation of route No. 127, the traffic upon which the defendant depended in the operation of the filling station was lessened, and the demurrer admits that thereby the premises were rendered wholly unfit for use as a filling station. The demurrer also admits that this condition was brought about by external agencies over which the defendant had no control.
+It would seem, therefore, that the situation contemplated by the parties at the time of executing the lease had eventuated giving rise to the option to cancel.
+In Edwards v Kearzey, 96 U. S. 595, it is said:
+“The lexicon definition of ‘impair’ is ‘to make worse; to diminish in quantity, value, excellence or strength; to lessen in power; to weaken; to enfeeble; to deteriorate.’ Webster’s Diet.”
+Now what was it upon which this effect was to be produced in order to justify a cancellation? The provision clearly points to the “use” of the premises as a filling station as the subject. Appellants’ counsel quotes from 66 C. J., 65, upon the meaning of the word “use”. It is said that it is one of the most comprehensive words in our language and may be used in many senses. It is said that its primary meaning as a noun is "the act of employing anything, or,the.state of being employed. The act of employing anything or of applying it to one’s service.” In Smith v Cameron, 106 Or., 1, 27 A L. R. 510, 210 Pac. 716, its secondary meaning is said to be synonymous with “advantage.” But whether it is given its primary or secondary meaning in this lease, it seems to us that the thing described, use of the premises for the specific purpose of conducting the business of a filling station, — was impaired by the destruction of the bridge and the relocation of route No. 127.
+The highway by which the leased premises were reached by the lessee and the traveling public was in the strict legal sense to a limited extent an appurtenance to the leasehold. The lessee’s right to ingress and egress for himself and the traveling public was a part of that for which the rent was made payable. It was proprietary in its nature. The lessee needed no covenant to insure the inviolability of this right. N. Y. Chicago & St. Louis Ry. Co. v Bucsi, 128 Oh St 134. The parties surely intended an interference other than such against which the lessee could protect himself. The parties contemplated the condition of the premises and its approaches at the time of the execution of the lease, and, the benefit to the lessee of its continuance in that condition, so as to constitute the unobstructed channel in which the stream of traffic could flow by the leased premises, and by this provision in the lease stipulated that if that condition should be changed, so as to interrupt that stream and thereby substantially affect the use of the premises for the specific purpose for which they were leased, to the detriment of the lessee, without any fau.rt attributable to it, then this option to cancel should arise in its favor.
+The alteration of the highway on which the premises abut, whether on that part directly in front of the premises, or at some other place, which substantially affected the use of the premises for a filling station, and this without the fault of the lessee was the hazard against which the lessee stipulated. It wanted the premises for use as a filing station, and for no other purpose. When surrendered to the owners, they could use them for any lawful purpose.
+It seems to us that the “use” was impaired by that obstruction or diversion and that it was an alteration of the highway, and, that it also is embraced within the omnibus provision of the lease — “any other cause not within the control of Indian.”
+For these reasons, the judgment is affirmed.
+HAMILTON, PJ, & ROSS, J, concur.
