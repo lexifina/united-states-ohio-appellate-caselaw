@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-02-20"
+citations: ["45 Ohio App. 359"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Williams, JJ., concur."]
+parties: ["Paxton v. The Spicer Manufacturing Corp."]
+source_url: "https://static.case.law/ohio-app/45/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336762
+cites_cases: ["104 Ohio St., 561", "123 Ohio St., 334", "13 Ohio Law Abs., 39", "136 N. E., 283", "152 N. E., 792", "166 N. E., 380", "175 N. E., 449", "21 Ohio App., 148", "31 Ohio App., 430"]
+---
+
+# Paxton v. Spicer Manufacturing Corp.
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+Plaintiff in error, Ruth Paxton, was plaintiff, and defendant in error, the Spicer Manufacturing Corporation, was defendant, in the court of common pleas, and will be so referred to here.
+Plaintiff seeks to reverse a judgment of the court of common pleas consequent upon the sustaining of a general demurrer of the defendant to the amended petition of the plaintiff. The action commenced by plaintiff in the court of common pleas was an appeal from an adverse finding of the Industrial Commission on her application as widow and dependent of Vincent J. Paxton for compensation under the Workmen’s Compensation Act. Surviving Paxton, as dependents, are also five minor children.
+■ In the amended petition of the plaintiff it is alleged: “On the 9th of February, 1930, and prior thereto, the \ defendant had qualified as and had become a self-insurer under the provisions of the Workmen’s Compensation Law of the State of Ohio, and had fully complied with said Act on its part; that on said 9th day of February, 1930, the decedent was engaged by defendant as a wet grinder, and while working in the course and scope of his employment in defendant’s factory in the city of Toledo, Lucas county, Ohio, he was injured through the contact of his hands and wrists with the ice cold soda water solution in which it was necessary for the decedent to work in order to perform his duties as a wet grinder; that said ice cold soda water solution was furnished by the defendant for the deceased on this particular day; that the decedent was also injured by reason of exposure in that the defendant provided no heat in that portion of the factory in which it was necessary for plaintiff to work; that as a direct consequence of said injuries, the decedent suffered severe and intense chills and was unable to continue his work after the noon hour on said day; and that as a direct and proximate result of said injuries, the decedent contracted pneumonia, and thereafter died from the pneumonia so contracted as herein-before set forth, on the 16th day of February, 1930.”
+The court of common pleas decided that the foregoing allegations of fact failed to state a cause of action, but plaintiff contends and argues that “the only question presented to this court is whether or not the allegations of plaintiff’s petition state that the decedent received an injury in the course of his employment,” and that “an examination of these allegations reveals that plaintiff clearly and unequivocally states that the decedent was injured while working in the course and scope of his employment with the defendant and that as a direct and proximate result of said injuries the decedent contracted pneumonia, which resulted in his death,” it being claimed that, whatever the evidence may disclose, the broad, general allegation that “he was injured,” the defendant not having asked that the amended petition be made definite and certain, is sufficient as against a demurrer.
+No compensation can be had under the Workmen’s Compensation Act (Section 1465-37 et seq., General Code) for the death of Paxton from pneumonia unless proximately caused from a physical injury received by him in the course of his employment. Youngstown Sheet & Tube Co. v. Redolphi, 13 Ohio Law Abs., 39; Industrial Commission v. Cross, 104 Ohio St., 561, 136 N. E., 283; Industrial Commission v. Betleyoun, 31 Ohio App., 430, 166 N. E., 380.
+Counsel for plaintiff in error say in their brief that much of what is said in the opinion in the Cross case “is pure dicta and wholly unnecessary to a decision of the case,” for the reason that, as stated at page 336 of the opinion in Thackery v. Helfrich, 123 Ohio St., 334, 175 N. E., 449, written by Judge Eobinson, who also prepared the opinion in the Cross case, the Supreme Court “announces the law only through the syllabi of cases and through per curiam opinions,” and for the reason as also stated therein that “individual opinions speak the conclusions of their writer. What useful purpose they serve is an open question.” If this statement is literally correct, then it would seem that the opinion announcing it should be appraised by the same measure of value.
+Does the amended petition of plaintiff allege a physical injury? As we analyze it, the amended petition states no more than that the decedent, Paxton, contracted pneumonia as a direct and proximate consequence of severe and intense chills occasioned by exposure in the nonheated “portion of the factory in which it was necessary” for him to work, and by “contact of his hands and wrists with the ice cold soda water solution” in order “to perform his duties as a wet grinder.”
+It was suggested in argument that the cause of action of plaintiff as stated in her amended petition was the counterpart of that of the plaintiff in Doehler Die Castings Co. v. McNeely, 21 Ohio App., 148, 152 N. E., 792, the only differentiating facts being that in that case the decedent died of cerebral apoplexy superin- ' duced by overheating, instead of pneumonia caused by exposure to severe cold. The factual difference, however, is that the cerebral apoplexy in that case was caused by a ruptured blood vessel, an injury within the meaning of the Workmen’s Compensation Act.
+Interpreting the legal effect of the allegations of the amended petition of plaintiff to be as above stated, this court concludes that the judgment of the court of common pleas should be, and therefore is, affirmed.
+Judgment affirmed.
+Richards and Williams, JJ., concur.
