@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1913-03-25"
+citations: ["1 Ohio App. 306", "24 Ohio C.C. Dec. 226"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, Thomas A., J.; Metcalfe and Ferneding, JJ., concurring (sitting, by designation, in place of Winch, Meals and Grant, JJ.)."]
+parties: ["Sanders v. The State of Ohio. Post v. The State of Ohio. Pfaff v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-app/1/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1832559
+cites_cases: ["31 C. C., 352", "31 O. C. C. 352", "81 Ohio St. 489", "81 Ohio St., 489"]
+---
+
+# Sanders v. State
+
+## Majority
+
+Plaintiffs in error, John A. Sanders, Jasper Post and August Pfaff, were each brought before and convicted by J. R. MacQuigg, mayor of East Cleveland, upon affidavits based upon Section 13195,. General Code, charging them with keeping a place in the adjoining city of Cleveland where intoxicating liquors were sold in violation of law. The convictions were each affirmed by the common pleas court, and proceedings in error are here instituted to reverse the judgment of the lower courts.
+. The cases involve similar questions except that in the Pfaff case the- additional claim is made that Pfaff, as shown by the record, has been once in jeopardy for the same offense before a Cleveland city justice of the peace, and that when he had demanded a jury before the East Cleveland mayor, upon a plea in bar, he was denied the same.
+It is claimed in all three cases that the judgments below are against the evidence, in that the showing of a single sale could not be held to be a violation of the statute as to keeping, etc.; that the defendant, Sanders, was not shown to be the John A. Sanders who was on trial. The testimony refers to the defendant as “J- A. Sanders;” the internal revenue and state licenses were issued to “J. A. Sanders,” but it is insisted that this “J- A. Sanders” was not shown to be the John A. Sanders charged in the affidavit. .The record does not show that defendant made any issue of the fact on the trial, but reserved it for review only. The variance is not material. Courts will take judicial notice that Christian and surnames are abbreviated. If tried under indictment it would not appear to be prejudicial to the defendant under Section 13582, General Code. While the section is not made applicable, in terms, to procedure before magistrates, we think that no prejudice arose to the defendant which would necessitate reversal for that cause. Furthermore, no proper action was taken at the time by defendant objecting because of variance. What has been said as to Sander’s case applies as well to the Pfaff case.
+Again, it is urged that proof of a single sale on a single day does not dignify the offense as one of keeping a place. Strictly speaking, that is true Under the law a single sale is of itself an offense punishable as such. Where, however, a single sale is accompanied by proof evidencing the indicia of a place where liquors are kept, showing the connection wherewith a room furnished with fixtures, bartender or other evidence connecting such sale with the place, such proof in connection with a single sale may be sufficient to justify “keeping a place,” etc. We are not convinced that there was a failure of proof in this regard, or that the judgment was against the evidence. The circuit court of the fourth circuit has held as above stated in cases of similar character. But here appears the additional fact that the sale in question was made on the first day of the week. Therefore, a showing of the place and a single sale therein would fall within the inhibition of Section 13195, General Code. This view is supported by the case of Lynch v. State, 31 C. C., 352, 12 C. C., N. S., 330, affirmed without opinion, Lynch v. State, 81 Ohio St., 489.
+While the sale in the foregoing case was in viotion of law, as being made in dry territory, the principle is analogous where the violation of law claimed is under Section 13050, General Code.
+Plaintiffs in error urge that Section 13195, General Code, applies only to the keeping of places and the violation of law in dry territory. It is somewhat difficult to follow counsel in this phase of the case, for the reason that Section 13195, General Code, was substantially as it is now long before the local-option laws were effective in this state, and in its original form applied to the entire state.
+But the argument is wholly unavailing for the ■reason that the plain import of the section applies to any place where intoxicating liquors are sold in violation of law. Furthermore, under the local-option sections of the General Code, Sections 13225 and 13226, special provisions are made for punishment and abatement in cases where the places are within dry territory.
+The defendant below, August Pfaff, filed before the mayor of East Cleveland his plea in abatement, alleging former acquittal for the same offense before a justice of the city of Cleveland, and demanded a jury upon that issue. This the mayor refused and himself heard the entire case, including the issue of former acquittal. Plaintiff in error, Pfaff, relies for his right to a jury on Section 13630, General Code, found in title two, part four of criminal procedure. Section 13630, General Code, is made applicable to criminal proceedings upon indictment and is lodged in title two, part four.
+Sections 10490 and 10491, General Code, do not apply the procedure of Section 13630, General Code, to justices’ and mayors’ procedure, as will be seen from an inspection of those sections.
+Under Section 4528, General Code, the mayor has final jurisdiction in misdemeanor cases, unless the accused is, by the constitution, entitled to a jury trial. The offense charged under Section Í3195, General Code, against the defendant was punishable by fine only. The mayor had complete and full jurisdiction to hear and determine the offense, incuiding every issue made and including the plea of former jeopardy. Section 4528, General Code, clothes him with full final jurisdiction to “hear and determine any prosecution for a misdemeanor.” Any issue embraced within that “prosecution” maj be determined therefore by him without the intervention of a jury.
+Mr. Geo. W. Shaw and Mr. M. Bernstein, for plaintiffs in error.
+Mr. John A. Chamberlain; Mr. David E. Green and Mr. Cyrus Locher, prosecuting attorney, for defendant in error.
+Upon a second conviction, the defendant’s place may be abated as a nuisance and the constitutional right to a jury trial would then accrue to him, which, therefore, need not now be discussed for the obvious reason that a second offense was not charged.
+Upon an inspection of the record in the three cases we are constrained to hold that no prejudicial error has been committed, and the judgments of the mayor’s and common pleas courts will be affirmed.
+Cause remanded to the mayor’s court for execution and for further proceedings according to law.
+Judgment affirmed.
