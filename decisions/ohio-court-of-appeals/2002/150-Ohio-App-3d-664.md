@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "19373"
+decided: "2002-12-06"
+citations: ["150 Ohio App. 3d 664"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Fain and Frederick N. Young, JJ., concur."]
+parties: ["In re BAILEY."]
+source_url: "https://static.case.law/ohio-app-3d/150/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1042402
+cites_cases: ["116 Ohio App.3d 237", "1983 WL 2516", "1994 WL 673098", "2002-Ohio-6792", "383 U.S. 375", "509 U.S. 389", "650 N.E.2d 433", "687 N.E.2d 507", "72 Ohio St.3d 354"]
+---
+
+# In re Bailey
+
+## Majority (Grady, Judge.)
+
+Grady, Judge.
+{¶ 1} Defendant, Allen Bailey, appeals from his adjudication as a delinquent child by reason of his having committed a felony offense.
+{¶ 2} Bailey was charged by complaint in Montgomery County Common Pleas Court, Juvenile Division, with delinquency by reason of having committed aggravated robbery. R.C. 2151.02; 2911.01(A)(1). A firearm specification was attached to the charge. R.C. 2941.145.
+{¶ 3} The state filed a motion requesting the juvenile court to relinquish jurisdiction and transfer the case to the general division so that Bailey could be tried as an adult. R.C. 2151.26. Bailey filed a motion requesting a competency evaluation. The juvenile court found probable cause to believe that Bailey had committed the acts alleged, and it ordered both a competency and an amenability evaluation.
+{¶ 4} On March 26, 2002, an amenability hearing was held. The psychologist who had examined Bailey, Dr. Williams, opined that while Bailey was not competent to stand trial, he was nevertheless competent for purposes of entering an admission to the offense in juvenile court. At the conclusion of Dr. Williams’s testimony, Bailey immediately entered into a negotiated plea agreement with the state.
+{¶ 5} Bailey entered an admission to the charge and specification in exchange for the state’s withdrawal of its motion to transfer the case to adult court. The juvenile court accepted Bailey’s admission, adjudicated him a delinquent child, and committed him to the Department of Youth Services for a period of four years.
+{¶ 6} Bailey has now timely appealed to this court from his delinquency adjudication.
+FIRST ASSIGNMENT OF ERROR
+{¶ 7} “Did the juvenile court commit reversible error in allowing a juvenile accused to admit after being found not competent to stand trial, but subsequently-found competent to enter an admission, since this is a simpler to understand proceeding.”
+{¶ 8} Bailey argues that the juvenile court erred in accepting his admission to the aggravated robbery charge when his competency evaluation revealed that he was not competent to stand trial in adult court, but was competent to admit responsibility for the offense and thus stand for adjudication in juvenile court.
+{¶ 9} The state agrees with Bailey’s contention and has confessed error. Relying upon Godinez v. Moran (1998), 509 U.S. 389, 113 S.Ct. 2680, 125 L.Ed.2d 321, the state argues that the competency standard is the same to stand trial as it is to enter a guilty plea. Thus, if Bailey is not competent to stand trial, he cannot as a matter of law be competent to enter a guilty plea or admission to the offense. We disagree with that claim but nevertheless reverse the judgment in this case because the juvenile court failed to make a determination as to Bailey’s claim of competency.
+{¶ 10} Consistent with the notion of fundamental fairness and due process, a criminal defendant who is not competent may not be tried or convicted. Pate v. Robinson (1966), 383 U.S. 375, 86 S.Ct. 836, 15 L.Ed.2d 815; State v. Berry (1995), 72 Ohio St.3d 354, 650 N.E.2d 433; In re Williams (1997), 116 Ohio App.3d 237, 687 N.E.2d 507. Although Bailey is not a criminal defendant, the right not to be tried or convicted while incompetent is as fundamental in juvenile proceedings as it is in criminal trials of adults. In re Johnson (Oct. 25, 1983), Montgomery App. No. 7998, 1983 WL 2516; In re Williams, supra.
+{¶ 11} Pursuant to R.C. 2945.37(G), a defendant is presumed to be competent unless it is demonstrated by a preponderance of the evidence that he is incapable of understanding the nature and objective of the proceedings against him or of presently assisting in his defense. Although Juv.R. 32(A)(4) provides that the court may order a mental examination where the issue of competency has been raised, no standard has been articulated to guide competency determinations in juvenile proceedings. This court, however, has held that the standard enunciated in R.C. 2945.37(G) governs the competency evaluations of juveniles so long as it is applied in light of juvenile rather than adult norms. Johnson, supra; Williams, supra.
+{¶ 12} At the hearing held on March 26, 2002, both parties stipulated to the reports prepared by Dr. Michael Williams, a psychologist who examined Bailey. Dr. Williams opined in his oral testimony that while Bailey was not competent to stand trial, presumably as an adult, he was competent to enter an admission in the juvenile court proceeding. In support of his conclusion, Dr. Williams testified that Bailey could not understand everything going on at a trial and could not effectively assist in his own defense.
+{¶ 13} There is authority to support a juvenile court’s finding that while a child may be incompetent to stand trial in adult court, he or she may nevertheless be competent to enter an admission and stand for adjudication in juvenile court, because of the differences in the complexities in adult criminal proceedings versus juvenile proceedings. In re McWhorter (Dec. 5, 1994), Butler App. No. CA94-02-047, 1994 WL 673098. A juvenile court can properly consider those differences in determining whether a child is competent to enter an admission per R.C. 2945.37(G), because that statutory standard must be assessed in light of juvenile, rather than adult, norms. Johnson, supra. The problem here is not that the juvenile court was prohibited as a matter of law from finding Bailey competent to stand for adjudication as a delinquent on the basis of Dr. Williams’s testimony. Rather, the problem is that the juvenile court failed to make any finding as to Bailey’s competency.
+{¶ 14} If the issue of competency is properly raised before trial, the trial court must hold a hearing on that issue and after considering the evidence presented by the parties at that hearing make a finding as to defendant’s competency. R.C. 2945.37(B), (C), (D), (E), and (G). The defense timely raised the issue of Bailey’s competency before the juvenile court, per Juv.R. 32(A)(4). The court held a hearing on that matter at which the parties presented their evidence. The court thereafter failed to enter a finding regarding Bailey’s competency. Instead, the court accepted Bailey’s admission that he committed the offense, found him delinquent, and committed him to the Department of Youth Services. The juvenile court’s failure to make a determination on the competency issue violates R.C. 2945.37 and Bailey’s due process rights.
+{¶ 15} The assignment of error is sustained. The judgment of the juvenile court will be reversed and the case remanded to that court to make a finding regarding Bailey’s competency to enter an admission in these juvenile proceedings.
+{¶ 16} We note that Dr. Williams’s statements at the hearing that Bailey is competent to enter an admission to the offense in juvenile court appear to contradict his own findings in the report he submitted concerning Bailey’s inability to understand and explain the charge, and his view that Bailey was “clueless” as to how to assist in his own defense. See R.C. 2945.37(G). These issues were not explored. In resolving conflicts in the evidence, and in reaching its determination regarding Bailey’s competency, the juvenile court may rely upon the record as it presently exists or it may order additional hearings, if necessary.
+Judgment reversed and cause remanded.
+Fain and Frederick N. Young, JJ., concur.
