@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-03-12"
+citations: ["47 Ohio App. 212"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lieghley, P. J., and Levine, J., concur."]
+parties: ["Village of Beachwood v. The Ohio Casualty Ins. Co."]
+source_url: "https://static.case.law/ohio-app/47/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341365
+cites_cases: ["120 N. E., 309", "44 N. E., 95", "51 N. E., 52", "54 N. E., 372", "54 Ohio St., 439", "58 Ohio St., 558", "60 Ohio St., 406", "62 N. E., 127", "65 Ohio St., 219", "98 Ohio St., 266"]
+---
+
+# Village of Beachwood v. Ohio Casualty Ins.
+
+## Majority (McGill, J.)
+
+McGill, J.
+The Ohio Casualty Insurance Company, defendant in error, brought an action against the village of Beachwood, in the Court of Common Pleas, to recover damages in the sum of $19,217.90 for an alleged breach of contract. The insurance company recovered a judgment in the Common Pleas Court, and the village of Beachwood has prosecuted error to this court.
+The record discloses that on or about September 20, 1929, the Freshwater Construction Company entered into a contract with the village of Beachwood for the improvement of certain streets, which involved paving, constructing sidewalks, and re-seeding the tree lawns.
+As provided for in the contract, the construction company furnished bond to the village, upon which bond the Ohio Casualty Insurance Company appeared as surety. This bond was executed pursuant to the provisions of Section 2365-1 et seq., General Code, and contained the following proviso: “We hereby agreeing and consenting that this undertaking shall be for the use of any laborer, materialman or mechanic now having a just claim as aforesaid.”
+The estimated cost of the improvements was $217,-1 984, and the actual cost was $192,282.55. The specifications provided for the methods of payment, and the' material portion of the contract relating to payment, around which the controversy centers, reads as follows:
+‘ ‘ The ten percent remaining unpaid will be retained as a guarantee that the contractor will faithfully and completely fulfill all the obligations and conditions imposed by the contract and specifications, and will pay the damages caused by reason of any failure on the part of the contractor to fulfill all the conditions and obligations herein contained. The unpaid balance will be paid within thirty days after the final inspection of the work by the Engineer. In case the contractor fails to comply with the terms of these specifications or fails to comply with the orders or directions of the Engineer herein provided for, the Second Party reserves the right and the contractor hereby assents to the same of withholding the payment of all estimates until the terms, orders, or directions are complied with, to the satisfaction of the Engineer.”
+Payments were made by the village to the contractor from time to time. The tenth payment, based on the tenth estimate, was paid October 15, 1930, in the sum of $19,858.42. On or about November 11, 1930, the work was approved by the engineer, and the village retained $1,922.50, which was one per cent, of the total earnings under the contract. This one per cent, was retained on account of reseeding of the tree lawns, to be done later. On December 6, 1930, the casualty company wrote to the engineer of the village, and also to its legal counsel, notifying them that a claim had been filed with it by a material house, and requesting them to make no further payments without its consent. The contractor failed to pay materialmen in an amount in excess of the $19,858.42. Subsequently, the casualty company, under its bond, paid to the materialmen amounts in excess of the 10 per cent, of the total earned under the contract.
+The casualty company claims that it was the duty of ; the village to retain 10 per cent., that this clause fur- , nished additional security to the casualty company, and that the casualty company having later paid these materialmen is entitled to hold the village to the extent ;of the 10 per cent.
+It is to be borne in mind that this contract was between the village of Beachwood and the Freshwater Construction Company, and was not between the village and the Ohio Casualty Insurance Company. Inasmuch as the village of Beachwood is a municipal corporation, its contractual powers are limited. It cannot be made liable, as can private parties, in relations quasi ex contractu. McCloud v. City of Columbus, 54 Ohio St., 439, 44 N. E., 95; City of Lancaster v. Miller, 58 Ohio St., 558, 51 N. E., 52; Buchanan Bridge Co. v. Campbell, 60 Ohio St., 406, 54 N. E., 372; City of Wellston v. Morgan, 65 Ohio St., 219, 62 N. E., 127; Frisbie Co. v. City of East Cleveland, 98 Ohio St., 266, 120 N. E., 309.
+Turning now to the 10 per cent, provision relating to payments, it is to be noted that the 10 per cent, remaining unpaid “will be retained” as a guaranty of performance on the part of the contractor. This provision then sets forth that the unpaid balance “will be paid within thirty days” after the final inspection of the work by the engineer. It further provides that the village reserves the right to withhold payment of all estimates until the terms of the contract are complied with.
+Sections 8324 and 8325 of the General Code set forth ■, the steps by which any subcontractor, materialman,; laborer, or mechanic, who has performed labor or furnished material, can perfect a lien for public improvements. The materialmen did not comply with these, provisions or even undertake to perfect a lien.
+It is unnecessary to decide whether or not the mate-, rialmen could have perfected a lien against the fund, for the reason that no steps were taken to obtain such lien.
+It must be conceded that the rights of the casualty j company can rise no higher than the rights of the 1 materialmen. Inasmuch as the materialmen did not perfect any lien against the village, or against the 10 per cent, before it was paid out, it follows that the casualty company cannot recover by virtue of any lien rights.
+In the instant case all but one per cent, had been paid out nearly a month before the casualty company gave notice that the materialmen had not been paid. This raises the question whether or not under the contract the village was obligated and required to retain the 10 per cent, for the benefit of the casualty company until the materialmen were paid. We find nothing in the statutes which required the village to withhold this 10 per cent., and, inasmuch as the contract was between the village and the construction company, we think that there was no obligation or duty upon the village to withhold the 10 per cent. While the village had a right to withhold 10 per cent, for thirty days after the approval of the engineer, and not longer than thirty days, it was not obligated to do so either by statute or by the- terms of the contract.
+Inasmuch as the facts are not disputed, and a question of law only is presented, the judgment is reversed, and final judgment is entered for plaintiff in error.
+Judgment reversed and judgment for plaintiff in error.
+Lieghley, P. J., and Levine, J., concur.
