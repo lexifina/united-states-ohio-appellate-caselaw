@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2238"
+decided: "1932-12-05"
+citations: ["13 Ohio Law Abs. 594"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and KUNKLE, JJ, concur."]
+parties: ["STATE ex BECHDOLT et v THOMAS"]
+source_url: "https://static.case.law/ohio-law-abs/13/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1644995
+---
+
+# State ex Bechdolt v. Thomas
+
+## Majority (ALLREAD, J.)
+
+ALLREAD, J.
+Two questions are raised by the demurrer: the first question is as to the legality of the joinder of the plaintiffs other than Barney Bechdolt; and the second is as to the sufficiency of the facts stated in the petition. We are in grave doubt as to whether the parties other than Barney Bechdolt are properly joined. It is apparent that the court below did sustain this claim and we will allow the question tó rest as was done in the Court of Common Pleas. We therefore consider the question as to the sufficiency of the averments of the petition.
+The principal and perhaps the only question depends upon whether the averments of the petition are sufficient to show that the Warden of the Ohio Penitentiary acted illegally in removing Barney Bechdolt for lack of funds. The petition after alleging that the plaintiffs were and are in the classified Civil Service of the state, and that their tenure was during good behavior, contains the following averments:
+“And that the defendant, the Warden of the Ohio Penitentiary has never determined or charged that their behavior has not been good of their service inefficient, or that they or any of them have been guilty of incompetency, inefficiency, dishonesty, drunkenness, immoral conduct, insubordination, discourteous treatment of the public, neglect of duty, violation of the civil service laws or the rules of the State Civil Service Commission, or of any other failure of good behavior, or of any acts of misfeasance, malfeasance or nonfeasance in office.”
+The petition then avers that
+“The defendant, * * in violation of §10, Art. XV of the Constitution of Ohio, the civil service statutes of Ohio, and the rules of the State Civil Service Commission, did deprive relator and those in whose behalf he sues of their status and standing and emoluments as classified civil service incumbents of their said positions, by assuming to lay them off because of a lack of funds.”
+It is then averred that
+“Relator avers that said violation of the said §10 of Article XV of the Constitution of Ohio, the civil service laws of Ohio, and the rules of the Civil Service Commission of Ohio, consisted in the following acts and omissions, to-wit:
+“In so laying off Relator and those on v/hose behalf he sues, the defendant Warden did not make any comparison of the quality or efficiency of the service, of the merit and fitness of those laid off with other guards who were retained in the service; and that he failed to keep any efficiency records of any of the guards of the institution as required by §486-18 CtC, then in full force and effect.”
+It is then averred that,
+“The defendant Warden made no investigation to determine which guards among the whole number of those in that grade of employment in the institution were the least efficient; and did not comply with the mandatory provisions of §5, of Rule X of the State Civil Service Commission, then in force and effect, said section of said rule being as follows:
+“ ‘Section 5. Whenever it becomes necessary in any department, through lack of work or funds or for other causes, to reduce the force in any employment, the employe in that particular grade of such employment in said department shown to be the least efficient shall be laid off first’.”
+The remaining averments of the petition show that the Warden in laying off and removing Barney Bechdolt and the other complainants, acted arbitrarily and contrary to his rules as to seniority of service and contrary to instructions given him by the State Civil Service Commission, and asks for the issuance of a writ of mandamus. This demurrer was sustained by the Court of Common Pleas, and the question is whether the Court of Common Pleas was justified in such action.
+The opinion of the Court of Common Pleas is elaborate ’ and instructive. We have considered the opinion and have also read and considered the briefs and authorities therein presented. We are impressed with the idea that, according to the averments of the petition, there was a violation of the Civil Service Laws in the method and order of removal and lay-off. It may be observed that the alleged order of lay-off claimed in the brief of counsel for defendant in error is not shown in the petition to which the demurrer is addressed. In the course of the consideration of this case we have carefully considered the case of Curtis v State ex, 108 Oh St, p. 292, and Vansuch v State ex, 112 Oh St, p. 688. We have no trouble in differentiating the facts as shown in the petition in the present case from those contained in the special findings of fact in the Curtis case.
+The averments in the present petition are more definite and certain as to the violation of the Civil Service Statutes from those found in the case in the 108th Oh St. Nevertheless, there is one branch of the opinion of that case to which attention must be called. The language of Judge Marshall on page 304 is as follows:
+“Whatever language may have been employed by the legislature in the enactments of the Civil Service statute, that statute must be construed in the light of the underlying principles of the Civil Service Commission, as hereinafter declared, and we can not agree that the legislature intended to empower the Commission to interfere with the administration of the city government in such a way that the working forces in the classified service could not be reduced in the interest of public economy and to prevent deficiencies in the public funds, it must be admitted that the responsibility of keeping the expenditures of the city within its income rests with the legislative branch of the city government, and the service and safety departments and not with the Civil Service Commission.”
+This case as reasonably interpreted holds that the question of removals under the City Civil Service Act were invoked in the interest of economy is a legislative purpose and that the authority of the Civil Service Commission is not interfered with where the removal or lay-off is invoked with reasonable instructions which does not in any way effect the tenure of the appointee under the Civil Service Acts. To apply this decision of the present case one necessary fact is lacking from the petition, namely, that the warden suspended the employees for economical purposes only and left their status under the Civil Service statutes unaffected. The petition does not contain an averment that the employee or employees were merely suspended for economical reasons subject to the right to reinstatement when the financial stress which occasioned their suspension was over. This in our judgment is the distinguishing feature between the present case of the City Service Cases of Curtis v State ex, 108 Oh St, p. 292 and of Vansuch v State ex, 112 Oh St, p. 688. In the absence of such averment, we think that the petition presents a violation of the Civil Service Act and that the demurrer should have been overruled.
+The judgment is therefore reversed and cause remanded with instructions to overrule the demurrer.
+HORNBECK and KUNKLE, JJ, concur.
