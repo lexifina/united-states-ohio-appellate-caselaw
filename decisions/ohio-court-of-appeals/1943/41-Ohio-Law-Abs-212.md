@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3655"
+decided: "1943-12-31"
+citations: ["41 Ohio Law Abs. 212"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, P. J., HORNBECK and GEIGER, JJ., concur."]
+parties: ["FIFTY WEST BROAD, INC., Plaintiff-Appellant v. POULSON, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/41/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1724353
+cites_cases: ["134 Oh St 333", "138 Oh St 110", "138 Oh St 249"]
+---
+
+# Fifty West Broad, Inc. v. Poulson
+
+## Majority (BY THE COURT:)
+
+OPINION
+BY THE COURT:
+This matter is before the Court as a result of motions filed by both appellant and appellee. We will treat both motions in this opinion.
+To bring the matter to our present attention we refer to our decision of the 30th of October, 1943, where we considered the appeal from the judgment of the Municipal Court. We considered the notation made by the Municipal Judge to the effect, “Cause called. Witnesses sworn and testified. Trial had and concluded. Court finds for the defendant.” This entry was made on May 28, 1943, and on June 9th a formal final entry was filed. Notice of appeal was given from the judgment entered on the 28th of May, 1943. We held that the notation of May 28th .was not a judgment, and that the final entry was made on June 9th. We held that there was no appeal from the final judgment and on our own motion held that the appeal be dismissed “unless the parties avail themselves of the power of the Court under §12223-5 GC, to permit amendment of the notice to correct error as provided in Couk v Corporation, 138 Oh St p. 111.” We also called attention to the fact that depositions and exhibits were not properly referred to in the bill of exceptions.
+On November 3rd, 1943, the appellant filed a motion for an order granting to it leave to amend its notice of appeal by adding certain matters.*
+The defendant-appellee on November 20, 1943, filed a motion to dismiss the appeal for the reasons:
+(a) No notice of appeal in accordance with law was filed herein and therefore this Court does not have jurisdiction to hear and determine this appeal.
+(b) The exhibits offered are not in the bill of exceptions, etc.
+In the alternative the motion is made to affirm the judgment for the reason that the bill of exceptions is incomplete. Counsel for appellee to sustain his motion to dismiss, advances the view that the notation made by Judge Fogle on May 28th is not “the order, judgment or decree appealed from mentioned in §12223-5.” The notation is not a finding and counsel asserts that no decided case supports the proposition that a notice of appeal may be so amended that in its amended form it first makes any reference to the order from which the appeal is taken. Counsel states that they are aware of the broad language in the third sentence of §12223-5, providing that the notice of appeal may be amended in the furtherance of justice for good cause shown, and concludes by stating that none of the reasons advanced in favor of amending notices of appeal in the decided cases can be advanced in support of the amendment of the notice in this case. Counsel for appellant in support of his motion for leave to amend notice of appeal cites a number of cases, among them, Couk v Ocean Accident & Guaranty Corporation, 138 Oh St 110, and our comment upon this case in the case of Manhattan Terrazzo Strip Company v Benzing & Sons, 35 Abs 492. Our examination of the matter will enable us to determine the motion of the plaintiff-appellant and of the defendant-appellee.
+The case of Capital Loan & Savings Company, Appellant v Biery, et, Defendants, 134 Oh St 333, holds that where notice of appeal is incorporated in the journal entry in the words, “defendant hereby gives notice of appeal, it is not error under the circumstances of that case for the Court of Appeals to overrule the motion to dismiss the case.”
+Myers, J., delivering the opinion of the Court, says on page 339:
+“Manifestly, the purpose of such a motion is to apprise the opposite party of the taking of an appeal. * * * Under the circumstances plaintiff could not be prejudiced or taken by surprise.”
+Four Judges of the Supreme Court concurred in this opinion and two dissented. The dissenting opinion states clearly the objection to this form of notice.
+In Couk et, Appellees, v. Ocean Accident & Guaranty Corporation, Appellant, 138 Oh St 110, it was held in the second syllabus that where a notice of appeal to the Court of Appeals designates the judgment appealed from as a “judgment of the Municipal Court” * * * upon the opening statement of the appellant on a certain day, but the judgment was actually rendered a day later, that the Court of Appeals has power under §12223-5 to permit an amendment of the notice to correct such error. Bettman, J., delivering the opinion of the Court, examines the statute and prominently mentions the provision “and the notice of appeal may be amended by the appellate court in favor of justice for good cause shown.” He states,
+“The statute is remedial in nature and should be liberally construed.”
+And further states, in substance, it is a part of the appellate procedure, the express purpose of which was to establish a simplified method of appellate review and to liberalize procedure upon appeals. The statute does not require that the judgment appealed from be designated by date. Since there was but one judgment in the case appellee could not have been misled and the final statement is made the type of error in the present notice of appeal, we hold to be subject to correction by amendment permitted “in furtherance of justice for good cause shown.”
+In the case of Mosey, Appellant, v Hiestand, Trustee, Appellee, 138 Oh St 249, this Court was reversed in its' holding that the appeal should be dismissed because the notice did not properly identify the judgment from which the appeal was taken. The Court there refers to the opinion by Bettman, J„ in the Couk case, and holds as to the two cases then under review,
+“In each of the present cases the Court of Appeals refused leave to amend and dismissed the appeal.”
+“At that time the practice had not been settled by a decision in the Couk case which removes the doubt as to correct procedure”, and the Cojirt reverses the judgment of the two Courts of Appeals for error in refusing the amendments and in dismissing the appeals. The foregoing are Supreme Court decisions.
+In the case of Mosey v Hiestand, Preble County, (33 Abs 595) in an original opinion and in two rehearings, this Court holds tha,t notice of appeal- from an order made on a certain date, which was in fact nothing more than the overruling of the motion for a new trial, was not a notice sufficient to bring the case into our Court, we holding that,
+“The overruling of a motion for new trial is not a final entry, consequently the notice has no efficacy in lodging this case in this court. We are” without authority and are impotent to make any order and must on our own motion dismiss the appeal.”
+The Mosey opinions, (33 Abs 595), of which there were three, are not published. They were tried in Preble County and furnished the grounds for the decision of the Supreme Court in Mosey v Hiestand, 138 Oh St 249, wherein our decision was reversed.
+In the case of Loftus v Palmer, decided by this Court on August 3, 1942, 37 Oh Ap 177, we held:
+“Under the recent rulings of the Supreme Court an appellant should be permitted to correct patent errors in his original notice of appeal, such as giving the wrong notice and a notice from the verdict of a jury instead of from the final judgment on another date.”
+The Court, through Geiger, P. J., stated that the appeal was from a judgment of the Court of Common Pleas rendered on the 22nd day of November, 1940/ No action of the Court is noted in the transcript of that date, but that date was the one upon which the jury filed its verdict and its answer to the interrogatories submitted. On October 22, 1941, the Court made the final entry overruling the motion for a new trial and rendering judgment. That action of the Court taken on the 22nd of October, 1941, was the final judgment of the-Court from which notice of appeal should have been taken. The Judge delivering the opinion of the Court then states:
+“Some members of our Court are still out of harmony with the ruling of the Supreme Court granting to appellants the right to amend their notice of appeal so as to correct the same in this Court. Here was a case in which counsel not only gave the wrong notice but gave the same to the verdict of the jury and not to the final judgment of the Court. But, under the recent rulings of the Supreme Court we assume that the appellant should be permitted to correct the error patent in his original notice.”
+Under the cases cited, we are of the opinion that the Supreme Court is taking the position that all that is necessary is to note the intention of the appellant to appeal. If the appellant makes a mistake in the nature of his appeal or in the judgment from which he appeals he may still amend his notice under the provisions of the 'statute. In other words, all that is necessary for the appellant to do is to say, “I appeal”, and if he says it within the proper time, the jurisdiction provision of the statute is complied with, and the case is lodged in the Court of Appeals. Unless the Supreme Court modifies this view we are compelled to hold that the motion of the appellant to amend his notice should be sustained and the motion of the appellee to dismiss the appeal should be overruled.
+EXHIBITS.
+Both counsel argue the question as to whether or not the exhibits, which have not been identified in the bill of exceptions, can be considered in this Court.
+We are of the opinion that the discussion of this matter is premature, for the reason that we have held that the case is not before us for the reason that the appellant failed to give proper notice of appeal. Theoretically, we do not know that the appellant will ever correct his notice of appeal so as to bring the case before us. Of course, we know that as a matter of fact he will do so, but until he does, this Court is without jurisdiction to consider the questions presented as to the exhibits or the bill of exceptions or to make any order concerning the same.
+Judgment accordingly.
+BARNES, P. J., HORNBECK and GEIGER, JJ., concur.
