@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1927-04-25"
+citations: ["26 Ohio App. 79"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton, P. J., and Cushing, J., concur."]
+parties: ["Reed, Jr., v. Hensel."]
+source_url: "https://static.case.law/ohio-app/26/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1857234
+---
+
+# Reed v. Hensel
+
+## Majority (Buchwalter, J.)
+
+Buchwalter, J.
+The action was for damages for personal injuries, claimed to have been received as a result of being struck by an automobile driven by the defendant, Horace Reed, Jr., now plaintiff in error.
+The jury returned a verdict for the plaintiff, Marie E. Hensel, upon which judgment was entered. Error is now prosecuted to reverse that judgment.
+The plaintiff below, an elderly woman, was attempting to cross from the south to the north side of McMillan street, at its intersection with Ashland avenue, in the city of Cincinnati. She walked halfway across and stopped in what is known as the devil strip, being the center of McMillan street, to look for traffic coming westwardly on the north side of McMillan street. At this time the automobile operated by the defendant was proceeding westwardly along the north side of McMillan street, toward Ashland avenue.
+Plaintiff admitted seeing the automobile as she left the south curb of McMillan street; that it was then about 300 feet away; that, as she stopped at the center of the street to look, she saw it was about 150 feet away; and that she then started from the center of McMillan street to hurry across to the northwest corner of Ashland avenue and McMillan street. The distance to the north curb was about 30 feet, and when she had proceeded about 15 feet she was struck by the automobile of defendant, as it was being swerved toward the north curb.
+Various estimates of the speed at which the automobile was being operated were given.
+It is claimed that the verdict is contrary to law and to the evidence; that there was error in the charge of the court; and that certain evidence was improperly excluded from the consideration of the jury.
+The claim that the verdict is contrary to the evidence is predicated upon the overruling of the motion to direct a verdict, and the overruling of the motion for a new trial.
+Counsel for plaintiff in error contend that the plaintiff’s evidence raised a presumption of contributory negligence, which was not removed, and that, therefore, the said motions should have been granted.
+Cases are cited showing facts which would entitle defendant to a directed verdict, but these are all cases where the only reasonable inference from the evidence was that plaintiff was guilty of negligence which was either the sole cause of, or proximately contributed to cause, the injury. These cases admit of no rational inference but that of negligence on the part of plaintiff. For the purposes of the motion, the plaintiff’s evidence must be given the ¡most favorable interpretation.
+Where plaintiff had an equal right to use the street, was at a regular crossing, and was attempting to hurry across a distance of 30 feet, and had in fact only proceeded about 15 feet when struck by the automobile, which, according to her testimony, was 150 feet away when she started from the center of the street, and, according to other testimony, 100 to 150 feet distant, with no other traffic on that 30-foot portion of the street, we cannot say that there is raised snch presumption of contributory negligence as to warrant a court in directing a verdict for defendant. In fact, the evidence is to the effect that she was crossing in a cautious manner.
+We find that the verdict and judgment are not manifestly against the weight of the evidence.
+It is urged that the court erred in instructing the jury. The portion of the charge complained of follows:
+“The defendant and the plaintiff were using a public road or highway in the city of Cincinnati and each had equal rights in the street. Both were charged with equal duties. Each was bound to exercise reasonable care under the circumstances. The defendant proceeding along a public street and approaching a street crossing was obliged to travel at a reasonable rate of speed within the law, as stated in the ordinances of the city of Cincinnati and the law of the state of Ohio. The latter law is as follows, which is quite similar to the ordinance of the city of Cincinnati :
+“ ‘Whoever operates a motor vehicle on the public roads or highways at a speed greater than is reasonable and proper, having regard for the width, traffic, use and the general and usual rules of such road or highway, or so as to endanger the property, life or limb of any person, shall be punishable according to the laws of the state. A rate of speed greater than twenty (20) miles an hour in the business and closely built-up portions of a municipality, or more than twenty-five (25) miles in other portions thereof, shall be presumptive evidence of a speed greater than is reasonable or proper.’
+“Under the law of Ohio if yon find that the defendant was traveling in excess of 15 miles an hour at the time of this collision, and the place of the collision was a business or closely built-up portion of the city, that would be negligence as a matter of law, or, if you find that the defendant was traveling in excess of 25 miles an hour at the time of this collision, and the place of the collision was not a business or closely built-up portion of the city, that would be negligence as a matter of law; or, if you find that at the time and place of the collision the defendant was traveling at an improper or unreasonable rate of speed, having regard for the width, traffic, use and the general and usual rules of said road or highway, that would be negligence as a matter of law. As regards the 15 miles and the 25 miles an hour, that is only presumptive negligence; that is, it would be negligence which the defendant would have a right to show did not cause the accident or did not directly contribute to cause the accident; or any other evidence which would countervail or counterbalance this presumption of negligence on his part.”
+The court does not quote what he states is the law of the state of Ohio. This law (Section 12603, General Code) had been amended at the time of the accident and trial. However, this was a correct statement of what was contained in the ordinance of the city of Cincinnati, which had been pleaded, and, while the court referred to it as a state law similar to the ordinance, it was still a valid enactment, if the ordinance was valid.
+Counsel, however, contends that this ordinance is invalid, as being in violation of Section 12608, General Code, in that it undertook to “diminish, restrict, or prohibit” the provisions of Section 12603, General Code, as amended.
+Section 12603 did not contain the language, “or so as to endanger the property, life or limb of any person,” and it did provide that speeds in excess of those mentioned should be “prima facie” and not “presumptive” evidence of a rate of speed greater than is reasonable and proper. An examination of the ordinance as given does not show that it either diminished, restricted, or prohibited any of the provisions of Section 12603.
+The jury could not have been misled by the fact that the court referred to it as a provision of the Code similar to a city ordinance, instead of referring to it as a city ordinance.
+Objection is made to the expression, “obliged to travel at a reasonable rate of speed,” etc. We find no error in this. Taking the charge as a whole, this did not mislead, as in other parts of the charge the court stated that the plaintiff must establish by a preponderance of the evidence the negligence alleged, and that such negligence was the proximate cause.
+It appears that the court said 20 miles per hour, whereas the ordinance was 15 miles per hour. However, the defendant cannot complain of this. Nor is the use of the term “presumptive evidence” instead of “prima facie” evidence an added burden upon the defendant.
+It is claimed that the court erred in allowing the jury to find whether or not the place where the accident occurred was a “business or closely built-up” part of the municipality, since the evidence did not support any theory except that it was not a “business” or “closely built-up” section.
+The defendant testified that there were houses on every lot, and the witness Kuehm testified as to what buildings there were in the immediate vicinity. While the evidence on this point was not as explicit and comprehensive as it might have been, there was sufficient evidence introduced to warrant the submission of this question to the jury.
+The remaining question is the exclusion from the consideration of the jury of Exhibit A-3, a portion of a record of the Cincinnati Hospital.
+The portion of the record excluded is what is called the history of the case, a statement made by plaintiff’s daughter, not in the hearing of plaintiff:
+“Plaintiff struck by automobile while crossing street. Unconscious for a time, but no subsequent return of unconsciousness. For many years has had attacks of Meniere’s disease with associated severe headaches and short attacks of irrationality. Hearing in right ear has been poor. Since accident, cannot hear with either ear.”
+All other portions of the hospital record were admitted in evidence.
+These contained a diagnosis of Meniere’s disease by both Dr. Crimes and Dr. Murphy. Dr. Murphy later changed his diagnosis as Meniere’s disease to Meniere’s syndrome.
+The portion excluded, which is complained of, did not refer to any transaction occurring in the course of the public duty of any one connected with the hospital, nor was it a matter of the personal observation of any of them. It did not relate to what transpired to cause the patient to be sent to. the hospital, except that she had been in an automobile accident. This was an attempt to introduce into the record purely hearsay testimony, and its rejection was not erroneous.
+An examination of the record discloses that the contested questions of fact were fairly presented to the jury, with the law applicable thereto.
+We find no errors prejudicial to the defendant, now plaintiff in error. The judgment of the court of common pleas will be affirmed.
+Judgment affirmed.
+Hamilton, P. J., and Cushing, J., concur.
