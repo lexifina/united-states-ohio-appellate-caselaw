@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "44710"
+decided: "1982-12-09"
+citations: ["8 Ohio App. 3d 176"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PRYATEL, C.J., and Day, J., concur."]
+parties: ["Wade et al., Appellees, v. City of Cleveland, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/8/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711709
+cites_cases: ["12 Ohio Law Abs. 200", "245 U.S. 337", "33 Ohio App. 2d 94", "35 O.O.2d 424", "54 Ohio St. 2d 279", "6 Ohio St. 2d 263", "62 O.O.2d 146", "8 O.O.3d 261"]
+---
+
+# Wade v. City of Cleveland
+
+## Majority (Patton, J.)
+
+Patton, J.
+This is an appeal from the Court of Common Pleas of Cuyahoga County in which the city of Cleveland (hereinafter “appellant”), contests the judgment of the trial court ordering appellant to furnish appellees, Joseph V. Wáde et al., the use permit sought for continued operation of his auto repair business. The facts giving rise to this appeal are essentially as follows:
+On May 9, 1980, appellee received notice from the appellant city that the present use of the premises located at 17605 Lorain Avenue was in violation of zoning ordinances for that city. Appellee was therefore ordered to cease using the premises as an “auto body repair shop.” Appellee, thereafter, sought a use permit from the city of Cleveland to enable ap-pellee to use the Lorain Avenue property for “automobile reconstruction and retail sales.” The permit sought by appellee was denied, however, in that the repair of automobiles as defined by the appellant city’s zoning code constituted an activity zoned as a semi-industrial use. As such, appellee’s intended use was not in conformity with the city’s zoning code.
+Appellee thereafter appealed to the board of zoning appeals. On July 21,1980, the board dismissed appellee’s appeal, ordering that the past change of use permits sought and similarly denied by the board after a full evidentiary hearing (i.e., in 1959, 1960, 1961 and 1979) constituted a judgment upon the merits of appellee’s claims. It was therefore ordered that absent appellee’s showing of changed circumstances, the doctrine of res judicata prevented any further litigation on the same action.
+An appeal was subsequently taken to the court of common pleas in which it was held that the proposed use of appellee’s property fell within the purview of appellant’s zoning code for the area in question. It was therefore ordered that the ap-pellee be granted the use permit sought.
+It is upon the foregoing facts and circumstances that appellant has brought this appeal, raising for our review the following assigned errors:
+“I. The common pleas court erred in not affirming the decision of the board of zoning appeals because the prior decisions of that board were res judicata in regard to the appellees’ requested use of their property.
+“II. The common pleas court erred in ordering that a permit be issued to the plaintiffs-appellees.”
+It is initially contended by appellant that the trial court erred in not finding that the earlier determination by the board of zoning appeals constituted res judicata with regard to appellee’s present change of use permit sought. In support of this position, appellant specifically refers this court to the prior change of use petition sought by appellees in 1979, at which time a full evidentiary hearing was had on the claims raised by appellees in support of such change of use petition.
+Careful review of the record establishes that the change of use sought by ap-pellee in 1979 was for the purpose of establishing a rustproofing operation, which required extensive ventilation of the rustproofing solution into the open air. Based upon the location of appellee’s building (within ten feet of property zoned for and developed with one-family homes) and lack of local necessity for such a business operation, it was determined that the change of use permit was properly denied.
+In the instant action, however, the change of use permit sought was for the establishment of an automobile reconstruction and retail sales operation. Though both operations, admittedly, deal in some form with the fixing of automobiles, there exist sufficient changed circumstances in the intended use of the Lorain Avenue property to have entitled appellee to a full evidentiary hearing upon his petition.
+“ ‘The doctrine of estoppel by judgment, or res judicata as a practical matter, proceeds upon the principle that one person shall not a second time litigate, with the same person or with another so identified in interest with such person that he represents the same legal right, precisely the same question, particular controversy or issue, which has been necessarily tried and finally determined, upon its merits, by a court of competent jurisdiction, in a judgment in personam in a former suit.’ ” Fightmaster v. Tauber (1932), 12 Ohio Law Abs. 200, 201, citing United States v. California Bridge Co. (1917), 245 U.S. 337, 341.
+While application of the doctrine of res judicata is generally made with regard to actions which have proceeded to judicial review and determination, it is similarly applicable to actions which have been reviewed before an administrative body, in which there has been no appeal made pursuant to R.C. 2506.01. See State, ex rel. Bingham, v. Riley (1966), 6 Ohio St. 2d 263 [35 O.O.2d 424]; Mitroff v. Cleveland (Dec. 6, 1979), Cuyahoga App. No. 39999, unreported; Noble v. Bd. of Zoning Appeals (Feb. 13, 1975), Cuyahoga App. No. 33562, unreported. Though the doctrine of res judicata is therefore applicable to determinations made by the board of zoning appeals, in the action sub judice, there exists a substantial difference between the 1979 change of use petition sought for the establishment of a rustproofing business and the intended automobile reconstruction business of the present action. As such, there did not exist the same controversy or legal issue heard and determined in 1979, and the trial court was therefore correct in ruling the doctrine of res judicata inapplicable to the appeal before that court. We therefore affirm the trial court on this issue.
+Having concluded that the trial court properly refused to regard the 1979 board of zoning appeals determination as res judicata to appellee’s appeal, we now turn to appellant’s second assigned error, in which it is claimed that the trial court erred in ordering appellant to provide ap-pellee with the change of use permit sought.
+It is well-established that in reviewing a decision of a board of zoning appeals on a matter committed by the zoning regulations to the discretion of such board, the courts will presume that the decision is reasonable and valid. In the absence of evidence that the decision was an abuse of discretion, or an act in excess of the power of the board, or was unreasonable under all the circumstances, the board’s decision will be upheld. Libis v. Bd. of Zoning Appeals (1972), 33 Ohio App. 2d 94, 98 [62 O.O.2d 146], citing 58 Ohio Jurisprudence 2d 632, 633, Zoning, Section 178.
+In the instant action, appellee’s appeal to the board of zoning appeals was dismissed prior to a hearing on grounds of res judicata. In appealing this matter to the trial court, there therefore existed no substantive evidence upon which the trial court could adequately adjudicate the issues presented for its review, or determine, as a matter of law, that the refusal of the change of use permit sought constituted an abuse of that board’s discretion.
+While it is well-recognized that judgments supported by some competent, credible evidence going toward all the essential elements of a case will not be reversed by a reviewing court as being against the manifest weight of the evidence, C.E. Morris Co. v. Foley Construction Co. (1978), 54 Ohio St. 2d 279 [8 O.O.3d 261], in the present action the record contains no evidence to support the trial court’s ruling that the appellee’s proposed use of the Lorain Avenue property falls within the purview of Codified Ordinance Section 343.11.
+We are therefore compelled to reverse the judgment of the trial court wherein it ordered appellant to provide appellee with the change of use permit sought. Case remanded to the trial court with instructions to remand the case to the board of zoning appeals for a hearing on that issue. Accordingly, this matter is affirmed in part, reversed in part, and remanded for further action consistent with this opinion.
+Judgment accordingly.
+PRYATEL, C.J., and Day, J., concur.
+“Appellee” refers to appellee Joseph V. Wade.
+R.C. 2506.01 provides:
+“Every final order, adjudication, or decision of any officer, tribunal, authority, board, bureau, commission, department or other division of any political subdivision of the state may be reviewed by the common pleas court of the county in which the principal office of the political subdivision is located, as provided in sections 2505.01 to 2505.45, inclusive, of the Revised Code, and as such procedure is modified by sections 2506.01 to 2506.04, inclusive, of the Revised Code.
+“The appeal provided in sections 2506.01 to 2506.04, inclusive, of the Revised Code is in addition to any other remedy of appeal provided by law.
+“A ‘final order, adjudication, or decision’ does not include any order from which an appeal is granted by rule, ordinance, or statute to a higher administrative authority and a right to a hearing on such appeal is provided; any order which does not constitute a determination of the rights, duties, privileges, benefits, or legal relationships of a specified person; nor any order issued preliminary to or as a result of a criminal proceeding.”
+“Assignment of Error I:
+“The board of zoning appeals erred in their [sic] interpretation of Section 341.11 [sic] of the Codified Ordinances of the city of Cleveland.
+“Assignment of Error II:
+“The evidence adduced at the administrative hearings was insufficient to sustain a denial of petitioners’ application for use permit.
+“Assignment of Error III:
+“The board of zoning appeals erred in not using the powers bestowed on it pursuant to Section 329.03 in consort with Section 325.30 and 325.31 of the Codified Ordinances of the city of Cleveland.”
