@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1924-06-30"
+citations: ["19 Ohio App. 60"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Middleton, P. J., and Sayre, J., concur.", "Judges of the Fourth Appellate District sitting in place of Judges Sullivan, Vickery and Levine, of the Eighth Appellate District."]
+parties: ["Village of Dover v. Village of Bay."]
+source_url: "https://static.case.law/ohio-app/19/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849445
+cites_cases: ["16 Ohio St., 595", "39 L. R. A., (N. S.), 285"]
+---
+
+# Village of Dover v. Village of Bay
+
+## Majority (Mauck, J.)
+
+Mauck, J.
+The village of Bay brought its action in the Common Pleas against the village of Dover and others to quiet title to certain real estate. The trial court decreed the relief sought and error is now prosecuted to this court.
+The record is incomplete, but we think that the facts at issue are not uncertain. It appears that ini 1899 Dover was one of the townships in the county of Cuyahoga, and that the trustees of that township bought the land in question, consisting of less than two .acres along the lake shore and within the township, and that the purpose of such land was to afford a public park; that in 1901 the hamlet of Bay was erected in. said township under the municipal laws then prevailing, and the boundaries of the hamlet included the land in question. By virtue of the municipal code enacted in 1902, under which hamlets were no longer authorized, the hamlet of Bay became the village of Bay. Later by such process as the law prescribed the territory in the village of Bay was detached from the township of Dover and erected into the separate township of Bay. Another part of the residue of the township of Dover was detached therefrom about 1909 and erected into another separate township, and the remnant left of the township of Dover was incorporated into and now constitutes the village of Dover. Neither the old township of Dover nor any of the subdivisions into which it has been carved has executed any conveyance of the land in question.
+Actual equities would be impossible of ■ proof. The taxpayers whose money went into the original purchase are beyond identification and the real estate subjected to taxation at that time is partly in the village of Dover, partly in the village of Bay and partly in the village of North Olmsted. The decree in the Common Pleas was against the village of North Olmsted as well as the village of Dover, but the former is not complaining of the decree rendered. The question before this court, therefore, is whether by operation of law the legal title of the property in question passed into the township in which it was situated or remained in the old township which retained the original name of Dover.
+It is unnecessary for us to review the authorities so fully afforded in the interesting and exhaustive briefs herein. Some of them involve the construction of statutes ; others hinge upon their own peculiar facts. We are content to adopt as onr own the summary made by an editor in a note to Union Township v. Oakdale Township, 39 L. R. A., (N. S.), 285, as follows:
+“It has been frequently declared in general terms that, in the absence of a specific statutory adjustment of the matter, the old corporation owns all the public property within her new limits, and is responsible for all debts contracted by her before the act of separation was passed; and that the new subdivision has no claim to any portion of the public property except what falls within its boundaries
+It is not necessary for us, however, to go to the full length of the text quoted in holding that all public property within its boundaries vests in the new political unit. There might be some classes of property that would not so pass. Its acquisition by the original unit might have been for such purposes, and the relations of the old to the new unit might be such, as to create a situation requiring the court to recognize the continuing title of the old unit to that particular property. Board of Education v. Board of Education, 16 Ohio St., 595. In this case we are dealing, however, with property admittedly acquired for park purposes. The original township would certainly not be heard to claim title to township roads or bridges or other property or improvements of like character. They passed, of course, to the new township. It seems that there was no statute conferring authority on townships to establish and maintain parks, but there was as much authority for Bay township to control the park as there was for Dover township to do so. Now that both townships have become municipal corporations, and this park, a fact accomplished, is found within the limits of Bay and not within the limits of Dover, the former, and not the latter, is charged with its upkeep and regulation. Section 3714, General Code. After all, as we view it, this litigation involves only the bare legal title to the lands in question. The holder of that legal title has only the power to administer a trust for the benefit of the public. While the petition recites that the village of Bay owns the property in fee simple, another allegation thereof negatives that averment by pleading that the trustees of Dover township “purchased the property aforesaid for a public park.” And the testimony shows that to have been the purpose.
+The decree of the Oommon Pleas will be modified to conform to the petition and evidence by a finding and decree that the village of Bay is the holder of the legal title to the property in question for the use and benefit of the public as a public park, and with this modification the judgment will be affirmed at the costs of the defendant in error.
+Judgment modified, and affirmed as modified.
+Middleton, P. J., and Sayre, J., concur.
+Judges of the Fourth Appellate District sitting in place of Judges Sullivan, Vickery and Levine, of the Eighth Appellate District.
