@@ -1,0 +1,62 @@
+---
+court: "Ohio Court of Appeals"
+docket: "68519"
+decided: "1995-12-11"
+citations: ["107 Ohio App. 3d 723"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Harper, P.J., and Matia, J., concur."]
+parties: ["The STATE of Ohio, Appellee, v. JOHNSON, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/107/cases/0723-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1785661
+cites_cases: ["1991 WL 259552", "1993 WL 114493", "20 OBR 215", "20 Ohio App.3d 172", "20 Ohio St.2d 95", "253 N.E.2d 749", "399 U.S. 235", "457 U.S. 31", "485 N.E.2d 717", "49 O.O.2d 428", "605 N.E.2d 1337", "608 N.E.2d 1114", "619 N.E.2d 527", "632 N.E.2d 589", "78 Ohio App.3d 784", "80 Ohio App.3d 150", "85 Ohio App.3d 268", "91 Ohio App.3d 301"]
+---
+
+# State v. Johnson
+
+## Majority (O’Donnell, Judge.)
+
+O’Donnell, Judge.
+Randell Johnson appeals convictions for receiving stolen property and failure to comply with the order of a police officer, and the imposition of $7,500 in fines, $5,000 and $2,500 respectively for the two offenses, imposed by the trial court. For the following reasons, we affirm the judgment of the trial court.
+On July 24, 1994 at 12:30 a.m., Cleveland Police Officer Richard Sheppard responded to a domestic disturbance at 3158 East 66th Street in Cleveland. Upon arrival, Sheppard spoke to Anna Epler, who reported a domestic incident and identified the perpetrator as Randell Johnson. Based on Epler’s description of Johnson, Sheppard checked around two houses, but when he could not locate Johnson, Sheppard left the scene.
+As Officer Sheppard drove away, he observed a red Pontiac Fiero driving slowly without headlights. Sheppard turned on his high-beam lights and recognized the driver as fitting the description of Johnson. Sheppard then activated his overhead lights and siren in order to pull the vehicle over and investigate further. At that point, the Fiero sped away, and Sheppard chased the car until the Fiero crashed into a parked car as it turned onto Bower Avenue. The driver and passénger got out and ran in different directions. Sheppard pursued the driver, whom he believed to be Johnson, on foot, but without success. Sheppard testified at trial that during the chase he came within ten feet of Johnson and noticed a distinctive tattoo on the his shoulder.
+Thereafter, Sheppard returned to the site of the crashed Fiero and learned from other officers on the scene that Johnson had returned to Epler’s home. Sheppard then went to Epler’s home and arrested Johnson.
+At trial, a jury found Johnson guilty of both receiving stolen property — the Pontiac Fiero — and failure to comply with an order of a police officer. The trial judge sentenced Johnson to terms of two years and one and one-half years and imposed aggregate fines of $7500. Johnson appeals and assigns two errors for our review, which we consider separately.
+I
+For the first assignment of error Johnson argues:
+“I. The verdict is against the manifest weight of the evidence when there is no substantial evidence upon which a trier of fact could reasonably conclude that the elements of the offense had been proven beyond a reasonable doubt.”
+Johnson contends the verdict is against the manifest weight of the evidence because the state did not identify Johnson as the person driving the stolen Fiero who failed to comply with the police order. Johnson further urges that Sheppard based his description of the Fiero driver on that given by Anna Epler and argues that the time of night and the distance between Sheppard and the person fleeing from the Fiero make Sheppard’s testimony unreliable.
+The state, on the other hand, argues that the manifest weight of the evidence supports the conviction on all the elements of the offenses, including identity.
+In determining whether a verdict is against the manifest weight of the evidence on appeal, this court weighs the evidence. As explained by the court in State v. Martin (1983), 20 Ohio App.3d 172, 175, 20 OBR 215, 219, 485 N.E.2d 717, 720:
+“The court, reviewing the entire record, weighs the evidence and all reasonable inferences, considers the credibility of witnesses and determines whether in resolving conflicts in the evidence, the jury clearly lost its way and created such a manifest miscarriage of justice that the conviction must be reversed and a new trial ordered. See Tibbs v. Florida (1982), 457 U.S. 31, 38, 42 [102 S.Ct. 2211, 2216, 2218, 72 L.Ed.2d 652, 659, 661-662].”
+In this case, Sheppard identified the person whom he saw driving the car and who led him on a high-speed chase and ran from him after the Fiero crashed into a parked car as the same man he later arrested at Anna Epler’s house, namely, the defendant, Randell Johnson.
+In weighing the evidence, as we are required to do under Martin, supra, we conclude that Officer Sheppard offered credible evidence on the issue of the identity of the Fiero driver, from which the jury reasonably inferred that Johnson was the driver of the Fiero. Therefore, we cannot conclude the jury clearly lost its way and created a manifest miscarriage of justice. Accordingly, the first assignment of error is without merit.
+II
+In the second assignment of error, Johnson states:
+“II. The trial court erred and abused its discretion when it imposed a $7,500 fine notwithstanding appellant’s indigence and incarceration.”
+The legislature has authorized the imposition of fines as part of a criminal sentence for felony offenses in R.C. 2929.11 and specifically mandated imposition of fines in R.C. 2925.03(L). However, R.C. 2929.14 directs the court’s exercise of discretion in situations where a fine is not mandatory and is the focus of our attention on this appeal.
+R.C. 2929.14 reads in part:
+“(A) In determining whether to impose a fine for a felony and the amount and method of payment of a fine, the court shall consider the nature and circumstances of the offense, the victim impact statement prepared pursuant to section 2947.051 of the Revised Code, the history, character, and condition of the offender, and the ability and resources of the offender and the nature of the burden that payment of a fine will impose on him.
+“(B) The court shall not impose a fine in addition to imprisonment for felony, unless a fine is specially adapted to deterrence of the offense or the correction of the offender * * *.
+“(C) The court shall not impose a fine or fines for felony that, in the aggregate and to the extent not suspended by the court, exceed the amount that the offender is or will be able to pay by the method and within the time allowed without undue hardship to himself or his dependents * * *.”
+We concern ourselves then with the application of subsections (B) and (C), which restrict the court’s discretion in imposing fines to situations of correction or deterrence by reasonable fines levied on those who can pay without undue hardship.
+Johnson argues that the trial court abused its discretion by imposing fines despite the fact that Johnson was indigent and had trial and appellate counsel appointed for him. Hardship is not raised.
+In contrast, the state urges that the question whether a fine was properly granted should not be decided on appeal because Johnson never objected or adequately demonstrated his inability to pay the fines.
+The Ohio Supreme Court considered the issue of imposition of a fine and a maximum confinement sentence in Strattman v. Studt (1969), 20 Ohio St.2d 95, 49 O.O.2d 428, 253 N.E.2d 749, and held at paragraph one of the syllabus:
+“A court sentence pursuant to law which imposes both a maximum confinement and a fine does not, standing alone, deny an indigent equal protection of the laws.”
+At paragraph four of the syllabus, however, the court stated:
+“An indigent defendant, committed to jail until his fine is paid or secured to be paid, who receives credit upon the fine at the rate of three dollars per day, is denied equal protection of the laws in violation of the Fourteenth Amendment to the United States Constitution.”
+In a concurring opinion, Justice J. J.P. Corrigan wrote:
+“Thus, in my view, the commitment under Section 2947.20, Revised Code, of a person to jail or workhouse until he pays or serves out his fine and costs, where the person has already served the maximum substantive sentence of days provided by the ordinance under which he was convicted, is a denial of equal protection of the laws in a case where the person so committed is indigent and, because of such indigency, is unable to pay the fine and costs for which the commitment is made.” Id. at 107, 49 O.O.2d at 435, 253 N.E.2d at 756.
+And in Williams v. Illinois (1970), 399 U.S. 235, 243, 90 S.Ct. 2018, 2023, 26 L.Ed.2d 586, 594, Chief Justice Burger stated: ‘We hold only that a State may not constitutionally imprison beyond the maximum duration fixed by statute a defendant who is financially unable to pay a fine.”
+Here, however, we are not concerned with imprisonment for failure to pay a fine, but rather with the propriety of the imposition of the fine in the first instance. Several appellate courts have reviewed this issue both as to mandatory fines imposed pursuant to R.C. 2925.03(L) and the discretionary fines imposed pursuant to R.C. 2929.14.
+In State v. Powell (1992), 78 Ohio App.3d 784, 605 N.E.2d 1337, the court concluded that indigency for purposes of receiving appointed legal counsel is not necessarily indigency for purposes of determining ability to pay a fine, because the ability to pay a fine over a period of time is not equivalent to the ability to pay a retainer fee required by private counsel at the outset of criminal proceedings. See, also, State v. Brown (June 6, 1990), Summit App. No. 14393, unreported; State v. Lefever (1993), 91 Ohio App.3d 301, 632 N.E.2d 589; State v. Gibson (Apr. 12, 1993), Montgomery App. No. 13476. unreported, 1993 WL 114493; State v. Slife (Dec. 5, 1991), Shelby App. No. 17-91-5, unreported, 1991 WL 259552; and State v. Horton (1993), 85 Ohio App.3d 268, 619 N.E.2d 527. In Horton, the court considered the imposition of a two-year maximum sentence and a $500 fine where the trial court did not hold a hearing on ability to pay the fine and the only evidence consisted of the original affidavit of indigency for purposes of appointing counsel. That court determined that R.C. 2929.14 must be read together with R.C. 2947.14, which requires the court to conduct a hearing before imposing fines. Horton, swpra, mandates the hearing at the time the trial court imposes sentence on any defendant.
+R.C. 2947.14(A) states:
+“If a fine is imposed as a sentence or part of a sentence, the court or magistrate * * * may order that the offender be committed to the jail or workhouse until the fine is paid * * *, if the court * * * determines at a hearing that the offender is able, at that time, to pay the fine but refuses to do so. The hearing required by this section shall be conducted at the time of sentencing. * * *” (Emphasis added.)
+Carried to its logical conclusion, then, Horton requires every sentencing court, including traffic referees and even mayor’s court officers, to conduct a hearing on the defendant’s ability to pay a fine without undue hardship at the time of sentencing. That burden is not the requirement of the United States Supreme Court, the Ohio Supreme Court, or R.C. 2947.14. We believe the word “sentencing” as used in the sentence italicized in the above quotation of that code section refers to a hearing held after the original sentence has been imposed, but prior to committing the delinquent offender to jail for nonpayment.
+In this case, the trial court imposed sentence and ordered payment of the fines presumably in accordance with R.C. 2929.14(B), which states that a court shall not impose a fine unless it is adapted to deterrence of the offense or correction of the offender. We can presume regularity from a silent record (see State v. Morgan [1992], 80 Ohio App.3d 150, 608 N.E.2d 1114), and while we are persuaded that R.C. 2947.14 requires a hearing prior to incarceration for nonpayment, we do not believe that the hearing must be conducted before imposing the fíne. Accordingly, we find that the trial court did not abuse its discretion in this regard or violate appellant’s constitutional rights.
+Appellant’s second assignment of error is not well taken and is overruled.
+Judgment affirmed.
+Harper, P.J., and Matia, J., concur.
