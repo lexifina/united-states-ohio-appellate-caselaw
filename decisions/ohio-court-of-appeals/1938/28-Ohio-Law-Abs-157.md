@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 166"
+decided: "1938-06-16"
+citations: ["28 Ohio Law Abs. 157"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCURDY, PJ, and GILLEN, J, concur, '"]
+parties: ["KIDWELL v McPHERSON"]
+source_url: "https://static.case.law/ohio-law-abs/28/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1691170
+---
+
+# Kidwell v. McPherson
+
+## Majority (By BLOSSER, J.)
+
+OPINION
+By BLOSSER, J.
+In the Court of Common Pleas the plaintiff, Homer Kidwell, recovered a judgment against the defendant, H. C. McPherson, for personal injuries and property damage to his truck caused by the alleged negligence of the defendant. The defendant appealed to this court on questions of law.
+At the time in question the plaintiff was traveling westwardly in a truck loaded with coal on a state route in Pickaway County after dark. When he reached a place called Pherson and near the residence of the defendant he passed a slow moving automobile also traveling westwardly. As he passed the automobile and some distance eastwardly from Pherson and near a small one way culvert - he encountered the bright lights of the defendant’s automobile' which were directed eastwardly. The defendant’s car had been traveling eastwardly on the north or his wrong side of the road and had come to a stop and was parked on the north side of the road with his car and lights directed to the east. The plaintiff testified he was misled by the position of the defendant’s automobile and lights and evidently thinking that the automobile was on its proper side of the road guided his truck to the right and against one of the concrete abutments of the culvert. The plaintiff stated that as soon 'as he saw the abutment he applied the brakes on the truck and attempted to turn his truck to the left but was unable to avoid striking the abutment, and that the lights of the defendant’s automobile were glaring in his eyes as he started to turn to the right. The plaintiff offered evidence that he had received some personal injury, was deprived of the use of the truck for about fifteen days, that his truck was practically demolished, that he had his truck repaired and the amount of the repair bill. The jury returned a general verdicc for the plaintiff. The defendant submitted special interrogatories which were answered by the jury finding that the defendant was guilty of negligence which was the proximate cause of the plaintiff’s injury, that the defendant’s negligence consisted in parking on the wrong side of the highway and bright lights, and that the plaintiff was not guilty of contributory negligence.
+It is urged by che defendant that the court should have directed a verdict for the defendant and that there should have been judgment for the defendant notwithstanding the verdict for the reason that it was the duty of the plaintiff when he encountered the glaring lights of the defendant’s automobile to have stopped his truck. We can not agree that under the facts presented in this case the court should have taken the action suggested.
+The admissions of the defendant together with the other evidence in the case tend to prove that the defendant was guilty of negligence per se in that he violated the statutes with reference to parking on the wrong side of the highway and in not properly controlling the lights on his automobile. The position of the defendant’s automobile on the wrong side of the highway with its glaring lights would tend to and no doubt did mislead the plaintiff. He probably did what any ordinary prudent person would have done under the circumstances. He had a right to assume that the defendant was obeying the law and was on his right side of the road and an ordinarily prudent person would naturally turn to the right for the approaching automobile, and this was a question for the jury.
+The defendant asserts that the court erred with reference to the admission and rejection of evidence but it is our conclusion that the ruling of the court in this respect is not alone of sufficient importance to warrant a reversal of the judgment.
+It is also urged that the verdict was a quotient verdict and therefore improper. This was fully gone into by the trial court on the motion for a new trial. While it appears that each juror fixed an amount and these amounts were totaled and divided by the number of jurors it was agreed before hand that the quotient arrived at was to be the verdict. This amount was used only as a basis for their calculations and deliberations in arriving at the proper amount of the verdict. It cannot be considered that such a verdict is improper or illegal.
+The most serious objection to the judgment is with reference to the proof of and the measure of damages. The plaintiff provea the amount of the repair bill and the value of the damaged tires, bumper and wheels. There was no evidence that the repairs were necessary or that the amount was reasonable nor the effect of the repairs on the truck or its value, nor of the value of the truck before or after the collision. The evidence also disclosed that the truck was practically demolished and that the plaintiff was deprived of its use for about ten days. The evidence disclosed that the plaintiff received personal injuries and was treated by a physician.
+The court in the general charge on the matter of damages instructed the jury as follows:
+“If you return a verdict for the plaintiff you will award him such sum as damages as the evidence warrants. The amount of wamages is left entirely to the sound discretion and fair judgment of you as jurors.
+“In arriving at these damages you will take into consideration the nature of the injuries the plaintiff shows he has received, the extent of it, the pain which he has suffered, the effect upon his ability to labor, but for his personal injuries you can allow him not more than $500. You will consider the damage to his truck and the loss he has sustained if any because of, the loss of the use of said truck, and you will consider the overhead expense in making up your verdict. You can not find for a larger sum than the amount prayed for in the petition, to-wit, $984.99.”
+This charge was probably sufficient to guide the jury in making up its verdict as to the personal damage of the plaintiff but was not sufficient to guide the jury in making up its verdict with reference to the damage to the truck. The verdict was a general one for $679.16 and there is no way to determine what amount the jury allowed the plaintiff for personal injury and what amount the jury allowed for damage to the truck.
+It is well settled that the measure of property damages arising from an automobile collision is the difference in the market value immediately before and the market value immediately after the collision. Frazier v Semnoff, 21 Oh Ap 6, Augustine v Montgomery-Ward Co., 12 Abs 221, 223.
+It is said in 13 O. J. 139:
+“Although the general rule that the measure of damages for .an injury to personal property by the tort of another is the difr ference in the market value of the property immediately before and immediately after the injury, the cost of repairs may be shown as shedding light upon the true measure of damages, though the true measure of damages is declared to be the difference between the market value before tiie damage and the value immediately afterwards and not the amount expended in repairs.”
+To the same effect is 5 Am. Jur. 906.
+It was incumbent on the plaintiff to prove the amount of the damage to his truck in conformity with the rule set forth. This the plaintiff failed to do. The trial court failed to properly instruct the jury as to the measure of damages which was to be applied in determining the damage to the truck of the plaintiff.
+The judgment is reversed and the cause remanded to the Court of Common Pleas for further proceedings according to law.
+Judgment reversed,
+McCURDY, PJ, and GILLEN, J, concur, '
