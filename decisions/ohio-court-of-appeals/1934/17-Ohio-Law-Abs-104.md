@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 4550"
+decided: "1934-03-26"
+citations: ["17 Ohio Law Abs. 104"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROSS, J-, concurs."]
+parties: ["RAGLAND, Assignee, Etc v FIRST NATIONAL BK OF CINCINNATI, Gdn, Etc"]
+source_url: "https://static.case.law/ohio-law-abs/17/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1657365
+cites_cases: ["112 Oh St, 306", "31 Ark. Rep. 580", "42 N. H., 296"]
+---
+
+# Ragland v. First National Bk
+
+## Majority (By HAMILTON, PJ.)
+
+OPINION
+By HAMILTON, PJ.
+The only question for this court is, whether or not the surviving' widow is entitled to dower in any interest John B. Swift may have had in the real estate in question. The facts- necessary to determine this question appear from the petition and the decree granting partition.
+In 1913, a trust agreement was entered into between John B. Swift and others to take over certain property described in the petition from The Eagle White Lead Company. One Frank Hill Smith, a subscriber to the trust agreement, was named trustee for the Cheapside Trust. The property was conveyed by a lease for 99 years, renewable forever, with the privilege of purchase for $25,000.00. During the continuance of the trust agreement, John- B. Swift acquired by purchase ll/12ths interests of the other subscribers to the trust agreement, being all the interests with the exception of the l/12th interest belonging to the wife of J. Gordon Taylor, a subscriber. He had acquired all the interests of Smith, trustee, and this was the situation on April 23, 1931, at which time, Swift, by his deed of assignment conveyed the property to Howard N. Ragland, assignee. The- action in partition was commenced May 10, 1931, and Swift died 'January 16, 1932.
+Under the deed of assignment, Swift transferred all his interests in the real estate and nothing more. He could convey no more than he owned.
+Plaintiff in error contends that the interest of Swift in the real estate was equitable only, and, since, under the statute, dower only attaches to an equitable estate of which the deceased was the owner at the time of his death, that by the deed of assignment, the equitable interest was terminated prior to the death of Swift, therefore, no dowefi attached.
+The claim of the widow is that, John B. Swift, by virtue of being trustee, had a legal interest and was also the beneficial owner of ll/12ths of the leasehold, and that she is, therefore, entitled to dower to the extent of her deceased husband’s beneficial interest therein.
+Counsel for plaintiff in error in their brief proceed altogether on the theory that John B. Swift was not the trustee and holder of the legal interest at the time of the deed of assignment; that he had only a beneficial interest in ll/12ths of the leasehold.
+Under the record of the case, this court is bound to consider the case from the standpoint that John B. Swift prior to the making of the assignment was a trustee for the Cheapside Trust. It is alleged in the petition as follows:
+• “Subsequently John B. Swift acquired by purchase the three-twelfths interest of Frank Hill Smith, in said Trust, who duly assigned to John B. Swift, his interest therein in writing, and withdrew as trustee and said John B. Swift became his successor as such trustee, and thereby acquired an eleven-twelfths interest therein.”
+In the decree, the court found:
+“That subsequently John B. Swift acquired by purchase the three/twelfths interest of Frank Hill Smith, in said Trust, who duly assigned to John B. Swift, his interest therein, in writing, and withdrew as trustee and said John B. Swift became his successor as such trustee, and thereby acquired an eleven-twelfths interest therein.”
+This decree was acquiesced in by all the parties in the case. No exception was taken thereto, and it must be'taken as the basis for the distribution of the funds.
+It is suggested that nó date is proven as to. when Swift became trustee, but the facts alleged in the petition and that part of the decree quoted conclusively show that it was necessarily prior to the making of the assignment.
+The allegation of the petition is, that this property in question was duly assigned to 'the plaintiff' in error, plaintiff below.
+It is the law and is not disputed -that dower attaches- to a 99 year lease, renewable forever, and becomes a freehold estate in real' property; and that such an estate is -subject to dower under the' provisions of §8606,'GC; Ralston Steel Car Co. v Ralston, 112 Oh St, 306.
+Paragraph 6 of the Trust Agreement provides:'
+“The first Trustee under this Agreement shall be Frank Hill Smith of Dayton, Ohio, one of the subscribers hereto, who hereby signifies his • acceptance of the trust by special and additional signature hereto, afid to and in whom title to the real estate and other property shall be- made, taken, vest and rest, as ‘Trustee of the Cheapside Building.’ Upon resignation, decease, incapacity,- ■ or removal, or vacancy for any cause, the Subscribers hereto, or-their legal representatives in case of death, shall choose by á majority vote a new Trustee, from amongst the Subscribers, or their legal representatives in case of death, in whom the title of the whole trust property shall thereupon vest and rest, and who shall perform the same duties and exercise the same powers as would have devolved upon and been exercised by said outgoing Trustee.”
+It cannot be successfully contended that, under this agreement, the legal estate did not vest in the Trustee. It is clear that it did so vest, and it was the intention of the subscribers to the- agreement that it should, so vest. Section 6, above quoted, provides: In case of a “vacancy for any cause, the Subscribers * * * shall choose by a majority vote a new Trustee, from amongst the subscribers, ' * in whom the title of the whole property shall thereupon vest and' rest.”
+As heretofore stated, it is alleged in the petition and found in the decree that. John B. Swift succeeded Smith as such Trustee. The trust property in question did thereupon vest in him as such Trustee, and he became the holder of the legal title, with a beneficial interest in ll/12ths thereof.
+Counsel for plaintiff in error suggests in the brief that this question of merger can only be determined from the intention of the parties. That intention is so specifically set forth in paragraph 6 of the Trust Agreement, above 'quoted, that there can be no question that the legal title is'to be in the Trustee.
+In this situation, we. find the law well stated In 19 Corpus Juris, §72, pages 480, 481, wherein it is stated:
+“The rule is that in equity the wife of a trustee is not dowable of the lands held by him in trust, although he holds the legal title. This rule applies, although'the . wife had no knowledge of the trust. But if there is coupled with the legal estate of the husband a substantial beneficial interest in the trust estate, it has. been held.that the wife’s dower will attach to the extent of such beneficial interest, if it can be decreed to her without interfering with the' trust estate, or defeating the purposes of the trust. But in no event does dower attach to lands of which the husband was seized as trustee in behalf of others further than his own beneficial interest therein. Where the husband as trustee acquires by purchase or otherwise the estate or intex-est of the beneficiary, the equitable estate is merged in the legal estate and the wife becomes entitled to dower.” '
+Supporting this proposition of • law, we find the case of Robinson v Codman, 20 Fed. cases, No. 11970, at page 1059, where Judge Story states the law as follows:
+“The next question is, whether Elizabeth Robison, the widow of Thomas Robison, the son, is entitled to dower in any part of the estate -so held by her husband, under the conveyance of McLellan, and, if in any, what part. So -far as her husband held the property merely in trust, it is not subject to dower, for estates held by .the husband in trust are not liable to the dower of his wife. The only point worthy of consideration is, whether, so far as respected his own share in the trust estate under his father’s will, there was not a merger of the trust estate in the legal estate, so as to unite them, and give him protanto a seisin in fee discharged of the trust. I rather think, that this is the true legal result, as the legal estate as to his share is co-extensive with the trust estate, that is, each is a fee. If so, Mrs. Robison would have been entitled -to her dower in such share of her- husband, (which the bill states to be one-eighth .part), if her husband had survived his mother.”
+See also: Hopkinson v Dumas, 42 N. H., 296. Cockrill v Armstrong, 31 Ark. Rep. 580, 591.
+We, therefore, hold that Swift, on becoming trustee of the Cheapside Trust, was the holder of the legal interest in the whole of the real estate, and had a beneficial interest 'therein of ll/12ths of the real estate, and as-to this ll/12ths interest the surviving widow is. entitled to dower therein.
+Moreover, in the partition proceedings, all parties in interest disregarded the trust-agreement and -proceeded on the theory that the property was held in fee, and in the proceeding the fee was perfected in them. The legal and equitable interests were merged, -although worked out on a fictitious mortgage theory, the result and effect was the same.- Equity deals with substance and not form. The proceeding was instituted during the lifetime of Swift; the assignee standing in the shoes of Swift, the assignor. Equity will not permit some of the parties to reap the benefit under the proceeding and- deny the benefit to others.
+The widow having waived the assignment of her inchoate dower by metes and bounds, and electing to take the value thereof in money, the Court of ■ Common Pleas was correct ■ in awarding her the sum that it did in lieu of dower. The judgment is affirmed. ’
+ROSS, J-, concurs.
