@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "14-91-23"
+decided: "1992-01-10"
+citations: ["73 Ohio App. 3d 112"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Thomas F. Bryant, P.J., and Evans, J., concur."]
+parties: ["ELSASS, Appellant, v. COMMERCIAL CARRIERS, Inc., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/73/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1473035
+cites_cases: ["102 Ohio St. 1", "125 N.E.2d 1", "128 Ohio St. 129", "130 N.E. 38", "162 Ohio St. 569", "19 OBR 456", "19 Ohio App.3d 285", "190 N.E. 400", "20 O.O.3d 376", "364 N.E.2d 267", "4 O.O.3d 466", "423 N.E.2d 96", "484 N.E.2d 257", "49 Ohio St.3d 275", "50 Ohio St.2d 317", "55 O.O. 472", "551 N.E.2d 1271", "66 Ohio St.2d 441"]
+---
+
+# Elsass v. Commercial Carriers, Inc.
+
+## Majority (Hadley, Judge.)
+
+Hadley, Judge.
+This is an appeal by claimant-appellant, Larry Elsass (“appellant”), from an amended judgment of the Union County Common Pleas Court, entered April 16, 1991, overruling appellant’s motion for summary judgment and sustaining the motion for summary judgment of employer-appellee, Commercial Carriers, Inc. (“appellee”).
+The case originated as an appeal, to the court of common pleas, from a decision of the Industrial Commission, granting appellant’s workers’ compensation claim for injuries allegedly sustained in the course of and arising out of his employment as a truck driver.
+The record reflects that on February 5, 1988, appellant, an over-the-road truck driver with appellee, delivered a load of cars from Columbus, Ohio, to Falls Church, Virginia. Thereafter, appellant drove his semi-tractor trailer to a motel in Alexandria, Virginia, where he had earlier agreed to meet two other truck drivers who also were employed with appellee. Evidently, the three drivers intended to spend the night and then try to get a “backhaul” to Columbus. Appellant’s driving log book showed that, upon arriving at the motel, at 6:30 p.m., he went off-duty.
+Appellant and the two other drivers checked into the motel and began to get cleaned up. Allegedly, they then decided to go out for dinner, so they called a taxicab for transportation. They admittedly drank several beers apiece prior to the cab’s arrival.
+When the cab finally arrived, appellant states that they told the driver to take them someplace where they could get something to eat. The cab driver states that appellant and his co-workers told him that they wanted to go into Washington D.C. for some food and “action,” meaning a restaurant with topless waitresses or nude dancing. While enroute, approximately three hundred yards from the nightclub that was their presumed destination, the taxicab was involved in a traffic accident that allegedly caused the injuries leading to this action.
+Upon appellant’s filing of his claim for workers’ compensation benefits, and the subsequent appeals, the trial court granted appellee’s motion for summary judgment and dismissed the case. It is from this judgment that appellant now appeals, asserting as error the following:
+“There is a genuine and material issue of fact as to whether the appellant was in the course of employment when injured, therefore, the lower court erred by granting summary judgment in favor of the employer.”
+In reviewing a summary judgment, the reviewing court must follow the standard set forth in Civ.R. 56(C), which specifically provides that before summary judgment may be granted, it must be determined that:
+“No genuine issue as to any material fact remains to be litigated; the moving party is entitled to judgment as a matter of law; and it appears from the evidence that reasonable minds can come to but one conclusion, and viewing such evidence most strongly in favor of the party against whom the motion for summary judgment is made, that conclusion is adverse to that party.” Petrey v. Simon (1984), 19 Ohio App.3d 285, 19 OBR 456, 484 N.E.2d 257, paragraph one of the syllabus, citing Temple v. Wean United, Inc. (1977), 50 Ohio St.2d 317, 4 O.O.3d 466, 364 N.E.2d 267.
+In light of the statutory guideline found in R.C. 4123.95, calling for workers’ compensation statutes to be liberally construed in favor of employees, the relevant statute in this matter, R.C. 4123.01(C), provides in pertinent part:
+“ ‘Injury’ includes any injury, whether caused by external accidental means or accidental in character and result, received in the course of, and arising out of, the injured employee’s employment. * * * ”
+It has been stated that the test of the right to participate in the Workers’ Compensation Fund is not whether there was any fault or neglect on the part of the employer, or his employee, but whether a causal connection existed between an employee’s injury and his employment either through the activities, the conditions or the environment of the employment. Indus. Comm. v. Weigandt (1921), 102 Ohio St. 1, 130 N.E. 38; Indus. Comm. v. Gintert (1934), 128 Ohio St. 129, 190 N.E. 400; Fox v. Indus. Comm. (1955), 162 Ohio St. 569, 55 O.O. 472, 125 N.E.2d 1. Moreover, the Ohio Supreme Court has expressly recognized the conjunctive nature of the coverage formula, requiring that the injury be received “in the course of and arising out of” the employment. See Fisher v. Mayfield (1990), 49 Ohio St.3d 275, 277, 551 N.E.2d 1271, 1274.
+In Lord v. Daugherty (1981), 66 Ohio St.2d 441, 20 O.O.3d 376, 423 N.E.2d 96, syllabus, the court adopted an illustrative list of factors (see Fisher, supra, at 279, 551 N.E.2d at 1275, fn. 2) for determining whether a “causal connection” existed between an employee’s injury and his employment.
+“Whether there is a sufficient ‘causal connection’ between an employee’s injury and his employment to justify the right to participate in the Workers’ Compensation Fund depends on the totality of the facts and circumstances surrounding the accident, including, (1) the proximity of the scene of the accident to the place of employment, (2) the degree of control the employer had over the scene of the accident, and (3) the benefit the employer received from the injured employee’s presence at the scene of the accident.”
+In the case sub judice, under the foregoing authority, based on the totality of the facts and circumstances surrounding the accident, we find that appellant’s injuries were not received “in the course of and arising out of” his employment with appellee.
+It is uncontested that under Section 395 of the Federal Motor Carrier Safety Regulations, appellant, having already driven for some nine and one-half hours that day, was required to spend the night in the area of his delivery point. Accordingly, the mere fact that appellant had finished his work for the day and his log book showed him to be “off duty” is not dispositive on the issue of whether or not appellant is eligible to participate in the Worker’s Compensation Fund, as appellee seemingly argues. Rather, we find that the analysis advanced in Lord is the better approach in the instant circumstance.
+Consequently, we find that the scene of the accident, downtown Washington D.C. at approximately 12:30 a.m., was too far removed in time, space and purpose from appellant’s last employment, whether that be considered the delivery point in Falls Church, Virginia or the motel in Alexandria, Virginia. Moreover, it is clear that appellee had no control over where appellant went that evening. Appellant and his companions could go wherever and do whatever they chose as they were on their own time. The motel room was the only expense that they would be reimbursed for by appellee. Thus, whether appellant truly sought food, “action,” or both, under these circumstances, he did so at his own peril. For in either instance, appellee received no benefit from appellant’s presence in Washington D.C. at 12:30 a.m.
+Therefore, as we hold that the trial court did not err in finding that no genuine issue of material fact existed as to whether appellant was injured in the course of his employment, appellant’s sole assignment of error is overruled and the judgment of the Union County Common Pleas Court is affirmed.
+Judgment affirmed.
+Thomas F. Bryant, P.J., and Evans, J., concur.
