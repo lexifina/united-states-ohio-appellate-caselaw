@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2489"
+decided: "1935-04-22"
+citations: ["19 Ohio Law Abs. 340"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STEVENS and WASHBURN, JJ, concur in judgment. . ”"]
+parties: ["SHAFFER, Tee v WILSON-WESTERN SPORTING GOODS CO"]
+source_url: "https://static.case.law/ohio-law-abs/19/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1663635
+---
+
+# Shaffer v. Wilson-Western Sporting Goods Co.
+
+## Majority (By PUNK, PJ.)
+
+OPINION
+By PUNK, PJ.
+The questions thus presented are, first, whether or not said accumulated commissions retained by defendant are within the classification of “mutual debts or mutual credits” between the estate of the bankrupt and defendant, under said'§68 of the Bankruptcy Act, and, second, even if it can be said that said commissions come within said classification, is it not a preference obtained within four months before the filing of the petition in bankruptcy with knowledge of the insolvency of said' Akron Co.?
+It will be' observed that, although the contract provided that defendánt' was to ship merchandise to the Akron Co. as consignee and that the Akron Co. -Was not entitled to deduct or retain its commissions or any charges from the money received from the sale thereof, and that although defendant did ship merchandise to Akron in the name of said Akron Co. as consignee, yet the manner in which said contract was carried out, made such shipments of merchandise in reality only pretended consignments; in other words, said Akron Co.'was consignee in name only, for the reason that the defendant did not trust said Akron Go; to have charge of said merchandise or to collect the money received thereof, instead sending its special representative to Akron, who came into said Akron Co.’s store and took charge of all merchandise so received from defendant, and who also took charge of all money received from the Sale thereof, put it into a separate cash register furnished by defendant for that purpose as sales were made, and remitting daily to defendant the total amount of money received that day from the sale of said merchandise; so that it is quite apparent that said Akron Co. had said merchandise on consignment and received and remitted the purchase money for the sale of it in name only.
+It will be further noted that said Akron Co. was not only required to furnish the store room fully equipped in which to keep and sell said consigned merchandise, but was also required to pay defendant’s said special representative for his said services in taking charge of said merchandise and the proceeds of the sale of it, without any expense whatever to defendant, and that said representative, upon instruction from defendant and without notice to said Akron Co., in conformity with the provisions of the contract, returned the unsold portion of said pretended consigned merchandise to defendant on or about May 31, 1932, thereby causing said Akron Co. to immediately file its petition in voluntary bankruptcy.
+Under such a situation and all the sur-' rounding facts and circumstances as shown by the evidence, and all reasonable inferences that'may be drawn therefrom, we do not think that reasonable minds can differ on the proposition that said Akron Co. was hopelessly insolvent for some time before defendant’s credit manager and its assistant sales manager came to Akron in March, 1932, and remained insolvent at all times thei'eafter, and that defendant knew at all times since and for some time before the time of the signing of said contract that said Akron Co. was hopelessly insolvent, and that the obtaining of said contract by defendant was but a clever scheme or device on its part to knowingly obtain an advantage and preference over said Akron Co.’s other creditors, by making sure that the things which said contract provided should be done on the part of said Akron Co. were carried out and by then deliberately violating the provisions .of. said contract on its part to be performed in failing to “promptly remit” to Said Akron Go, Said commissions “upon receiving the purchase money of such sale.’-
+We therefore hold' that, ürider such circumstances, said Commissions Were held by defendant in the nature of a tflist account and Were not the subject of á mutual debt or credit account, but that, even if it could be said that they wex-e the subject of a mutual debt or credit account, then they surely constituted a prefex-ence obtained with knowledge of insolvency within four months prior, to xhe filing Of the petition in bankruDh"”.
+. Moreover, ihe fact that defendant never remitted any part of said commissions to said Akron Co., but retained all of the commissions in a “special account.” and did not credit them on the amount due- defendant until after said Akron Co. had filed its petition in bankruptcy and after defendant had prepared and filed its proof of claim with -the referee in bankruptcy without giving credit therefor on its account against said- Akron Co., and did not file with said referee until Mai-ch 12. 1934, its amended proof of claim in which it is claimed that credit was given -therefor’ on June 24, 1932, is some indication that defendant must have x-ecognized that it was holding said commissions in the nature of a trust account and not as a mutual debt. and credit account. and that when it did attempt to credit said commissions on the general account due it, such crediting was the obtaining of a preference with knowledge of insolvency over the other creditors of said bankrupt.
+We may say further. that we have examined the authorities cited by counsel for defendant, and while they are no doubt proper conclusions under the facts of the respective cases, none of them px-esent a situation such as we have in the instant case, and thus have little, if any, application to the instant case.
+A decree and judgment may accordingly be entered in favor of plaintiff, and against defendant, in accordance with this opinion.
+STEVENS and WASHBURN, JJ, concur in judgment. . ”
