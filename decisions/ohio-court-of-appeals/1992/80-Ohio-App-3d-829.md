@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "L-91-383"
+decided: "1992-07-31"
+citations: ["80 Ohio App. 3d 829"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Glasser, P.J., and Melvin L. Resnick, J., concur."]
+parties: ["WIGGINS, Appellant, v. OHIO BUREAU OF EMPLOYMENT SERVICES, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/80/cases/0829-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1673922
+cites_cases: ["345 N.E.2d 438", "46 Ohio App.2d 110", "75 O.O.2d 88"]
+---
+
+# Wiggins v. Ohio Bureau of Employment Services
+
+## Majority (Sherck, Judge.)
+
+Sherck, Judge.
+This is an appeal from an order issued by the Lucas County Court of Common Pleas which dismissed a suit by a party seeking to obtain a transcript of a hearing before the Ohio Unemployment Compensation Board of Review. Because the trial court properly found that the material sought was exempt from disclosure, we affirm.
+On August 29, 1986, appellant, Clawzelle Wiggins, was terminated from his employment at Chrysler Corporation’s Toledo machining plant. Shortly thereafter, appellant filed a claim with appellee, the Ohio Bureau of Employment Services. Appellant also apparently filed a federal suit against Chrysler on grounds which are not clear from the record.
+In September 1986, appellee issued a finding that appellant had been terminated for just cause: chronic absenteeism. Appellant was denied unemployment compensation benefits. From this determination appellant filed an administrative appeal to the Ohio Unemployment Compensation Board of Review (“board”). On January 26, 1987, the board held a hearing. Appellant wants the transcript of that hearing. Appellant asserts that, at the board hearing, agents of his employer made statements which would be useful to appellant in his federal suit. Appellant requested that appellee provide him with a copy of the transcript of this hearing, but appellee refused.
+Appellant then brought an action in the Lucas County Court of Common Pleas where he sought an order from the court requiring that appellee provide him with the transcript of the January 26 hearing. Appellant argued that the transcript was a public record and that, as such, he was entitled to it by reason of R.C. 149.43, the Ohio Public Records Act. Appellee responded with a motion that appellant’s claim be dismissed pursuant to Civ.R. 12(B)(6). The trial court granted appellee’s motion and entered an order dismissing appellant’s claim. This appeal followed. Appellant raises a single assignment of error:
+“The court erred in dismissing appellant’s complaint on the basis that the records requested by appellant are not covered by the Ohio Freedom of Information Act.”
+Appellant relies on R.C. 149.43 of the Ohio Public Records Act, which he refers to as the “Ohio Freedom of Information Act.” R.C. 149.43(B) provides:
+“(B) All public records shall be promptly prepared and made available for inspection to any person at all reasonable times during regular business hours. Upon request, a person responsible for public records shall make copies available at cost, within a reasonable period of time. In order to facilitate broader access to public records, governmental units shall maintain public records in such a manner that they can be made available for inspection in accordance with this division.”
+The statute defines a “public record” as “ * * * any record that is kept by any public office, including, but not limited to, state, county, city, village, township, and school district units, except medical records, records pertaining to adoption, probation, and parole proceedings, * * * trial preparation records, confidential law enforcement investigatory records, and records the release of which is prohibited by state or federal law." (Emphasis added.) R.C. 149.43(A)(1).
+In response to appellant’s argument that the transcript must be disclosed, appellee directs our attention to R.C. 4141.21, which provides, in material part, that:
+“Except as provided for in [sections of R.C. Chapter 4141 providing for intragovernmental information sharing] the information furnished to the administrator of the bureau of employment services by employers or employees pursuant to this chapter is for the exclusive use and information of the bureau of employment services in the discharge of its duties and shall not be open to the public or be used in any court in any action or proceeding pending therein, or be admissible in evidence in any action, other than one arising under such sections. All of the information and records necessary or useful in the determination of any particular claim for benefits or necessary in verifying any charge to an employer’s account under sections 4141.23 to 4141.26 of the Revised Code shall be available for examination and use by the employer and the employee involved or their authorized representatives in the hearing of such cases, and such information may be tabulated and published in statistical form for the use and information of the state departments and the public.” (Emphasis and footnote added.)
+Appellant seizes upon language quoted above which states that such information shall be “available for examination and use by the employer and the employee involved * * * ” to show that R.C. 4141.21 does not prohibit release. Unfortunately for appellant’s position, the limiting phrases which follow and modify appellant’s quote may not be redacted from the law as easily as they are from his brief. A fuller quote of the statute provides that records necessary for benefit determination or verifying an employer’s account under R.C. 4141.23 to 4141.26 “shall be available * * * by the employer and the employee involved or their authorized representatives in the hearing of such cases * * *.” (Emphasis added.) “Such cases” clearly is meant to refer to those which determine a claimant’s benefits or those which verify an employer’s account. The language does not apply, as appellant contends, to matters outside the unemployment compensation statute.
+On consideration, then, we hold that R.C. 4141.21 exempts the disclosure of information provided to the Ohio Bureau of Employment Services from the disclosure requirements of the Ohio Public Records Act, R.C. 149.43; accord, Ohio Civ. Rights Comm. v. Campbell (1975), 46 Ohio App.2d 110, 75 O.O.2d 88, 345 N.E.2d 438. Accordingly, the trial court properly dismissed appellant’s claim pursuant to Civ.R. 12(B)(6). Appellant’s sole assignment of error is found not well taken.
+On consideration whereof, the court finds substantial justice has been done the party complaining, and judgment of the Lucas County Court of Common Pleas is affirmed. It is ordered that appellant pay the court costs of this appeal.
+Judgment affirmed.
+Glasser, P.J., and Melvin L. Resnick, J., concur.
+. ‘‘[T]he bureau of employment services * * * is possessed of the rights, authority, and powers formerly exercised by the bureau of unemployment compensation.” R.C. 4141.02.
+. Campbell was a pre-Sunshine Act decision which held that R.C. 4141.21 exempted Ohio Bureau of Unemployment Compensation information from subpoena. Campbell also held that this exception is not applicable to “that portion of the record of an appeal before the board of review.” Campbell at 114, 75 O.O.2d at 90, 345 N.E.2d at 442. The board of review, which statutorily is a separate entity from the Bureau of Unemployment Compensation, see R.C. 4141.06 and Campbell, supra, was not made a party to this suit, so we need not reach the issue of whether the transcript in question must be produced by that entity.
