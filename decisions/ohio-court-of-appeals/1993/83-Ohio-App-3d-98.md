@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "93AP-529"
+decided: "1993-04-21"
+citations: ["83 Ohio App. 3d 98"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Deshler and Martin, JJ., concur.", "John D. Martin, J., of the Fairfield County Court of Common Pleas, sitting by assignment."]
+parties: ["In re Complaint of JANE DOE."]
+source_url: "https://static.case.law/ohio-app-3d/83/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1683385
+cites_cases: ["10 OBR 408", "10 Ohio St.3d 77", "15 OBR 311", "15 Ohio St.3d 164", "19 OBR 123", "19 Ohio St.3d 83", "21 OBR 371", "21 Ohio St.3d 73", "461 N.E.2d 1273", "473 N.E.2d 264", "482 N.E.2d 1248", "488 N.E.2d 150", "53 Ohio St.3d 161", "559 N.E.2d 1301", "566 N.E.2d 1181", "57 Ohio St.3d 135"]
+---
+
+# In re Complaint of Doe
+
+## Majority (John C. Young, Judge.)
+
+John C. Young, Judge.
+This matter is before this court upon the appeal of Jane Doe, appellant, from the April 15, 1993 judgment of the Franklin County Court of Common Pleas, Division of Domestic Relations, Juvenile Branch, which ordered that her complaint be dismissed on the basis that appellant had failed to establish any of the criteria as set forth in R.C. 2151.85(A)(4). On appeal, appellant sets forth the following assignment of error:
+“The trial court abused its discretion in rendering a decision that was not supported by any of the evidence presented to the court.”
+On April 15, 1993, appellant filed a complaint alleging that she should be permitted to terminate her pregnancy without parental notification pursuant to R.C. 2151.85(A), which provides, in pertinent part, as follows:
+“The complaint shall be made under oath and shall include all of the following:
+“(1) A statement that the complainant is pregnant;
+“(2) A statement that the complainant is unmarried, under eighteen years of age, and unemaneipated;
+“(3) A statement that the complainant wishes to have an abortion without the notification of her parents, guardian, or custodian;
+“(4) An allegation of either or both of the following:
+“(a) That the complainant is sufficiently mature and well enough informed to intelligently decide whether to have an abortion without the notification of her parents, guardian, or custodian;
+“(b) That one or both of her parents, her guardian, or her custodian was engaged in a pattern of physical, sexual, or emotional abuse against her, or that the notification of her parents, guardian, or custodian otherwise is not in her best interest.”
+Appellant’s complaint alleged R.C. 2151.85(A)(1) through (3), as well as the following:
+“/ I am sufficiently mature and well enough informed to intelligently decide whether to have an abortion without the notification of my parent, guardian, or custodian.
+a * * *
+V Notification of my parent, guardian, or custodian of my desire to have an abortion is not in my best interest.”
+Pursuant to R.C. 2151.85(C), a complainant must establish one or more of the allegations set forth in division (A)(4)(a) or (b) by clear and convincing evidence. The juvenile court is vested with a certain amount of discretion in determining whether the minor is sufficiently mature to make the decision to terminate a pregnancy without parental notification, and/or whether parental notification of the minor’s desire to obtain an abortion would be in her best interest. On appeal before this court, the standard of review is whether the trial court abused its discretion in finding that appellant did not prove either R.C. 2151.85(A)(4)(a) or (b) by clear and convincing evidence.
+An abuse of discretion connotes more than just an error of law. It exists where the court’s attitude, evidenced by its decision, was unreasonable, arbitrary or unconscionable. Worthington v. Worthington (1986), 21 Ohio St.3d 73, 21 OBR 371, 488 N.E.2d 150; Huffman v. Hair Surgeon, Inc. (1985), 19 Ohio St.3d 83, 87, 19 OBR 123, 126, 482 N.E.2d 1248, 1252; and State v. Jenkins (1984), 15 Ohio St.3d 164, 222, 15 OBR 311, 361, 473 N.E.2d 264, 313.
+When applying the abuse-of-discretion standard, a reviewing court is not free to merely substitute its judgment for that of the trial court. Berk v. Matthews (1990), 53 Ohio St.3d 161, 169, 559 N.E.2d 1301, 1308. Furthermore, a reviewing court should be guided by a presumption that the findings of a trial court are correct, inasmuch as the trial judge “ * * * is best able to view the witnesses and observe their demeanor, gestures and voice inflections, and use these observations in weighing the credibility of the proffered testimony. * * *” Seasons Coal Co. v. Cleveland (1984), 10 Ohio St.3d 77, 80, 10 OBR 408, 410, 461 N.E.2d 1273, 1276.
+In reviewing the testimony proffered in the case sub judice under this standard, this court finds that the trial judge did abuse his discretion in finding that appellant failed to sustain her burden of proving, by clear and convincing evidence, the allegations outlined in R.C. 2151.85(A)(4)(a).
+Appellant testified as follows: appellant would turn eighteen years of age on August 28, 1993; appellant is a senior in high school, taking college preparatory classes, and has maintained a 3.6 grade point average; appellant is also involved in several extracurricular activities; appellant is employed and works approximately thirteen hours each week; the money appellant earns from her employment is given to her mother in order to help pay for appellant’s college education; appellant will be starting college in the fall; appellant has a steady boyfriend and, ordinarily, appellant’s boyfriend used condoms as a form of birth control; although appellant’s boyfriend ordinarily used condoms, on this one occasion he did not and she became pregnant; appellant has spoken with her boyfriend concerning the pregnancy and he supports her decision to have an abortion; neither appellant nor' her boyfriend is financially or emotionally prepared to take care of a child at this time; appellant has a good relationship with her mother, but fears that her mother would lose all trust in her if appellant informed her of this pregnancy; appellant would need to put her college education on hold if she was to have the baby and she believes that her mother would also put her career on hold in order to help appellant raise the child; appellant has an aunt with whom she could confide concerning her decision to have this abortion and the difficulty that she may have following the abortion; and appellant indicated that she was well informed of the risks inherent not only in having an abortion but, also, inherent in carrying this baby full term.
+The trial judge determined that appellant had failed to establish, by clear and convincing evidence, any of the criteria set forth in R.C. 2151.85(A)(4)(a) or (b). In light of the foregoing testimony, it was unreasonable for the trial judge to dismiss the complaint by essentially finding that appellant did not prove her “maturity” allegation by clear and convincing evidence. This court notes that, although the fact that appellant, an unemancipated minor, is pregnant indicates a certain level of immaturity, the legislature has envisioned that, notwithstanding this fact, she may be sufficiently mature to make the decision to terminate the pregnancy. After reviewing the transcript in this case, this court cannot perceive what other evidence appellant could have presented before the trial court to establish her “maturity.” Although a panel of this court has recently set forth fourteen factors to be considered in addressing the pertinent issues in parental notification cases which do not involve allegations of sexual abuse, this panel believes that it would be improper to do so in light of the Supreme Court’s decision in In re Jane Doe 1 (1991), 57 Ohio St.3d 135, 566 N.E.2d 1181, wherein the court stated as follows:
+“While appellant’s proposal appears comprehensive in spelling out the various factors that juvenile court judges would- in all likelihood consider when evaluating a complaint brought under R.C. 2151.85, we decline to expand the statutory-parameters enacted by the General Assembly, since such expansion would clearly involve a legislative function.” Id. at 139, 566 N.E.2d at 1185.
+Appellant’s testimony clearly established that she is well enough informed to make an intelligent decision and she has sought consultation and informed advice. Although the trial court must have had some reason to believe that appellant was not mature, it would have been helpful to this court if the trial court would have made its rationale part of the record. Under the circumstances presented, it was an abuse of discretion on the part of the trial court not to find clear and convincing evidence that appellant has the maturity of an eighteen year old and, thus, is “sufficiently mature and well enough informed to intelligently decide whether to have an abortion without the notification of her parents.” R.C. 2151.85(A)(4)(a).
+Accordingly, appellant’s sole assignment of error is sustained and the judgment of the Franklin County Court of Common Pleas, Division of Domestic Relations, Juvenile Branch, is reversed, and judgment is entered for Jane Doe without the necessity of a remand to the trial court.
+Judgment reversed and entered for Jane Doe.
+Deshler and Martin, JJ., concur.
+John D. Martin, J., of the Fairfield County Court of Common Pleas, sitting by assignment.
