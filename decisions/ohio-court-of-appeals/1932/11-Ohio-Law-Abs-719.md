@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2615"
+decided: "1932-02-15"
+citations: ["11 Ohio Law Abs. 719"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RICHARDS and WILLIAMS, JJ, concur."]
+parties: ["LA BOUNTY v BRUMBACK et"]
+source_url: "https://static.case.law/ohio-law-abs/11/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 898932
+---
+
+# La Bounty v. Brumback
+
+## Majority (LLOYD, J.)
+
+LLOYD, J.
+The evidence also shows that he made such repairs to the premises as were necessary, paid some taxes and some insurance premiums and made at least one sublease. In his answer to the amended petition of Brumback he stated that on February 14, 1927, Schackne assigned the lease to him and that he had possession of the premises from that date until January 1, 1930. In a letter to Brumback, dated May 12, 1927, enclosing a check .for $73.37, he stated that this amount was “for insurance on the building that I hold under lease from you”. There can be no question therefore concerning his having purchased the lease from Schackne or his possession thereunder of the leased premises, and although he did not formally by writing agree to the conditions imposed by Brumback upon the assignment of the lease by Schackne appearing thereon when the lease was delivered to him by Schackne and possession of the premises was taken by him, he must nevertheless be held to have received the lease and taken possession of the premises pursuant to and upon the conditions so imposed, and having so taken possession and entered upon the performance of the terms and conditions of the lease, the fact that there was no formal written acceptance of the assignment would not operate to avoid the obligations assumed by him.
+The leased premises consisted of stores, a theatre and eight apartments, which were leased to- subtenants. LaBounty did not himself at any time occupy any part thereof. The evidence shows that because of changing conditions the venture proved unprofitable and LaBounty declined further to' continue under the lease and that about August 1, 1929, when he was considerably in arrears in the payment of accruing rentals, Brumback advised him that he was contemplating “starting suit to collect the rent that was due” and that it would be necessary to have a receiver appointed to collect the rent. Thereupon it was agreed, that LaBounty, who was in the real estate business, should act unofficially in that capacity, which he accordingly did, collecting the rent and paying the balance remaining after payment of bills to Brumbaek. Thereafter, on December 14, 1929, this arrangement ceased and Brumbaek filed a petition ip the court of common pleas against LaBounty and Schackne, wherein he sought a judgment for unpaid rent and asked for a receiver to take charge of the leased premises and collect the rentals until the termination of the action. The court appointed a receiver who collected and accounted for the rents and later, on September 22, 1931, upon the trial of the action, a jury having been waived, a judgment was rendered in favor of Brumbaek for $7065.00, with interest thereon from May 4th, 1931. Schackne is not complaining in this codrt of the judgment so rendered.
+La Bouaty contends that not having agreed thereto in writing, he can not be held to have assumed the obligations of the lease and that in any event he was released therefrom by the appointment of the receiver, which he claims constituted an eviction. Our conclusion as to the first contention has already been stated. As to the second, our conclusion is that the evidence does not show a cancellation of the lease but, on the contrary, does show an abandonment thereof by LaBounty without the consent or acquiescence of Brumbaek.
+Under such circumstances Brumbaek was entitled to recover of LaBounty the rent stipulated in the lease, less whatever sums received from tenants occupying the premises during the unexpired term of the lease remained after the payment of taxes and other expenses which, by the terms of the lease, the lessee was to pay.
+LaBounty contends in his brief that if Brumbaek is entitled to recover a judgment on his alleged cause of action, the amount of the judgment rendered by the court of common pleas is excessive and he bases this contention upon the claim that the report of the receiver filed in that court includes among the enumerated expenses certain items not properly deductible from the rentals collected by the receiver from the tenants occupying the leased premises. The receiver’s report was filed in the court of common pleas on April 29, 1931, and is not verified by oath of the receiver. It was not offered in evidence nor was the receiver called as a witness, nor is there anything in the record to show that the report was ever submitted to or approved by the court. The only evidence of the amount claimed by Brumbaek is a general statement marked Exhibit 2 and offered and received in evidence without objection bn the part of counsel for LaBounty. This exhibit shows only the amount of the unpaid rent and the amounts paid to Brumbaek by the receiver and does not include therein the items of expense incurred nor the gross rentals received by the receiver. We assume that when the evidence disclosed the nonpayment of rent for which the lease called, if LaBounty claimed that there were credits not disclosed by the evidence offered by Brumbaek which should be charged against the unpaid rent, then it was incumbent on counsel for LaBounty to produce evidence thereof. However, it would seem that without other explanatory evidence the following items appearing on the receiver’s report are patently not chargeable against La-Bounty, viz:
+Telephone .....................$ 10.50
+Alteration — new front .......... 102.38
+Cement walks .................. 100.00
+Miscellaneous expenses and supplies ....................... 93.66
+Ruud Heater and Motor and installation ................... 77.73
+This court concludes, therefore that the sum of $384.27 should be remitted from thg judgment of the court of common pleas as of the date of the judgment and as so modified the judgment will be affirmed; If Brumbaek refuses his consent to this remittitur the judgment will be reversed as manifestly against the weight of the evidence. Judgment accordingly.
+RICHARDS and WILLIAMS, JJ, concur.
