@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4145"
+decided: "1948-10-14"
+citations: ["84 Ohio App. 202"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wiseman, P. J., Miller, and Hornbeck, JJ., concur."]
+parties: ["Blubaugh, Appellee, v. The Lincoln National Life Ins. Co., Appellant."]
+source_url: "https://static.case.law/ohio-app/84/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395288
+cites_cases: ["110 N. E., 475", "136 Ohio St., 551", "62 Ohio App., 54", "91 Ohio St., 155"]
+---
+
+# Blubaugh v. Lincoln National Life Ins.
+
+## Majority (By the Court.)
+
+By the Court.
+This is an appeal on questions of law from the judgment of the Common Pleas Court of' Franklin county, rendered in favor of the plaintiff.
+The action is one to recover benefits under a double-indemnity dause of an insurance policy, the defendant having admitted and discharged its liability for the face amount of death benefits of the policy.
+The policy of insurance expressly provided that should the insured ‘ ‘ sustain bodily injury, effected directly through external, violent and accidental means * * * exclusively and independently of all other causes, which shall within ninety (90) days of the event causing the accident, result in the death of the insured,” double indemnity would be paid. Thé insured sustained an injury on December 13, 1943, which necessitated a surgical operation which was performed on December 21, 1943. Following the operation the insured contracted pneumonia and died on January 28, 1944.
+The case was tried to the court, without the intervention of a jury, on an agreed stipulation and several depositions. The trial court gave judgment for the plaintiff in the sum of $2,000, being- the amount of the -double indemnity benefit.
+The defendant, appellant herein, assigns as error that the finding and judgment is contrary to law and the weight of the evidence, and is not sustained by any -evidence.
+The record shows that the insured, who was a proprietor of a garage, on the day in question moved a drum of oil weighing about 350 pounds from the front to the rear of the garage and unassisted upended the drum so that the oil pump could be placed in position. The concrete floor of the garage at the place where the drum was upended was oily and slippery. There is no evidence that the insured in moving- or upending the drum slipped, fell or got his body in an unexpected position. A short time after upending the drum the insured went home. On examination he and his wife found a lump near the left groin. Later the same day, he consulted a physician who found the insured had a. protruding hernia in the left inguinal region. By stipulation the record shows that the insured told his physician that the protrusion had developed that day;, that the physician found the protrusion to have been of recent origin; that one of the common causes of' hernia is a strain in lifting; and that a protruding hernia commonly first appears after a strain in the-abdominal region.
+From this evidence, the trial court made a finding-as follows:
+“Based upon the direct and circumstantial evidence-in this case, the court finds that Blubaugh, the insured,, got his body in an unexpected position resulting in the-hernia injury and his ultimate death through accidental means; and therefore, the plaintiff who was the beneficiary named in the policy of insurance herein is entitled to recover according to the provisions of said policy.”
+Was this finding justified under the evidence? In the absence of any evidence that the injury was caused by a slip, twist, or fall, could the court find from the-evidence adduced that the insured “got his body in an unexpected position resulting in the hernia injury and his ultimate death through accidental means”?' In brief, the trial court found that the injury was effected by “accidental means” and based its finding-on direct and circumstantial evidence.
+Before an injury can be said to be effected through “accidental means” it must be shown that the means by which the injury was produced was accidental. It is not sufficient that the resulting injury be unexpected,, unforeseen or accidental; the means by which the injury resulted must be shown to be unexpected, unforeseen or accidental. This distinction must be kept in. mind.
+In the case at bar, the resulting injury was unintentional, unforeseen and accidental. However, there is no evidence supporting a finding that the means which produced the injury was unintentional, unforeseen or accidental. The insured did voluntarily what he intended to do and in the manner intended. There is no evidence that he slipped, twisted, fell or got his body in an unexpected position, or that anything unexpected or unforeseen took place while moving and upending the drum. The evidence shows proof of an accidental injury and not an injury effected through ‘ ‘ accidental means.” Upon such proof there can be no recovery. The factual situation requires the application of the principle of law established in Mitchell v. New York Life Ins. Co., 136 Ohio St., 551, 27 N. E. (2d), 243. On page 555 the court stated:
+“The facts in the instant case clearly show that the ‘means’ which produced the injury and consequent death of decedent was voluntarily and intentionally employed and in the manner intended. Means which are thus employed cannot reasonably be said to be accidental. ’ ’
+But it is contended that because injury does not ordinarily result from the act performed by the insured, it may be inferred that the injury was effected through accidental means. Apparently the trial court followed this line of reasoning. It found for the plaintiff on the theory that the insured ‘ ‘ got his body in an unexpected position.” Since there is no evidence supporting this finding it must have been inferred. No inference can be drawn that something unexpected or unforeseen happened to the insured while moving or upending the drum from the fact that the insured sustained an injury while in the performance of the act. What evidence existed from which plaintiff claims an inference may be drawn? It is elaimed the drum of oil was heavy; the drum was circular in shape with flat ends making it an uncommon shaped object and difficult to handle; and the floor was oily and slippery, making the insured’s footing uncertain. The plaintiff contends that from these facts, the eourt may infer that the insured got his body in an unexpected position. These admitted facts in no way explain the injury. This court in the Mitchell case (62 Ohio App., 54, 22 N. E. [2d], 998), held that it may be inferred from the facts showing accidental death that such death was effected through accidental means. The Supreme Court rejected this theory and reversed the judgment of this court giving judgment for the defendant. In discussing this question on page 553 the eourt held:
+“It is true that the result produced was not that which was intended, and hence accidental. However, the fact that the result was accidental does not make the means, which produced such result, likewise accidental.”
+While other courts hold that an inference may be drawn, as claimed by the plaintiff, our Supreme Court has clearly held that it may not be done. Mitchell v. New York Life Ins. Co., supra. See, also, New Amsterdam Casualty Co. v. Johnson, Admx., 91 Ohio St., 155, 110 N. E., 475, L. R. A. 1916B, 1018.
+In applying the law of the Mitchell case to the evidence in the instant case,, we are required to hold that the finding and judgment of the trial court is not sustained by any evidence and is contrary to law. Judgment will be entered for the defendant.
+Judgment reversed.
+Wiseman, P. J., Miller, and Hornbeck, JJ., concur.
