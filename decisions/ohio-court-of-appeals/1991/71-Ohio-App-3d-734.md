@@ -1,0 +1,63 @@
+---
+court: "Ohio Court of Appeals"
+docket: "90-P-2183"
+decided: "1991-04-02"
+citations: ["71 Ohio App. 3d 734"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Christley, J., concurs.", "Ford, P.J., concurs in judgment only."]
+parties: ["The STATE of Ohio, Appellee, v. COLBERT, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/71/cases/0734-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1467724
+cites_cases: ["14 O.O.3d 199", "1987 WL 15713", "1989 WL 54694", "1990 WL 125701", "1991 WL 6017", "27 Ohio St.2d 92", "271 N.E.2d 852", "298 N.E.2d 603", "318 N.E.2d 416", "35 Ohio St.2d 101", "364 N.E.2d 1163", "368 N.E.2d 843", "396 N.E.2d 757", "40 Ohio App.2d 139", "5 O.O.3d 52", "51 Ohio St.2d 86", "517 N.E.2d 990", "52 Ohio St.2d 27", "56 O.O.2d 52", "56 Ohio St.3d 106", "564 N.E.2d 474", "6 O.O.3d 112", "60 Ohio St.2d 34", "64 O.O.2d 62", "69 O.O.2d 152"]
+---
+
+# State v. Colbert
+
+## Majority (Nader, Judge.)
+
+Nader, Judge.
+This appeal is from the trial court’s denial of appellant’s motion to vacate and set aside plea and sentence, which was filed on March 16, 1990.
+On November 12, 1987, appellant, Will Colbert, was indicted on the charges of aggravated trafficking in cocaine, with a prior conviction of felony drug abuse offense (three counts); trafficking in marijuana, with a prior conviction of felony drug abuse offense; and with the specification of a prior conviction of offense of violence. Appellant entered pleas of not guilty to all the charges on November 27, 1987.
+The matter was set for trial on June 7, 1988, and appellant entered a negotiated plea on that morning. Appellant would plead guilty to count three, aggravated trafficking in cocaine with a prior felony drug abuse conviction, and to an amended count four, attempted aggravated trafficking in cocaine, a third degree felony. In exchange, the state would nolle prosequi counts one and two of the indictment, aggravated trafficking cocaine and marijuana, respectively.
+The trial court referred the matter to the Adult Probation Authority on June 13, 1988, and appellant was released on a $5,000 personal recognizance bond. On March 9, 1989, appellant was sentenced to five to fifteen years on the aggravated cocaine trafficking charge, and sentenced to three to ten years on the “attempted” charge. Those sentences were to run concurrently.
+On April 20, 1989, appellant filed a motion for suspension of sentence, and the record does not indicate that any action was taken by the trial court with regard to this motion. On January 16,1990, appellant again filed a motion for suspension of sentence, and the trial court, after reviewing the files, the report of the adult probation board, and hearing arguments of counsel, found appellant’s motion to be not well taken. Thereafter, on March 16, 1990, appellant filed a motion to vacate and set aside plea and sentence, alleging that the negotiated plea agreement had promised him “super shock probation,” and that the promise was not fulfilled. On March 27, 1990, the trial court denied appellant’s motion (on March 29, 1990, the trial court by nunc pro tunc entry sentenced appellant to three years’ actual incarceration), stating the following grounds:
+“The Court specifically finds that there was no promise of shock probation to the Defendant; that the Defendant’s motion for shock probation had not been timely filed in that it was filed beyond the sixty (60) day maximum period; that the Defendant's motion for shock probation had been properly denied; that the Defendant had been charged with the offense of robbery while undergoing his pre-sentence investigation in this case and was convicted at trial of the offense of petty theft; and that the Defendant is in fact ineligible for shock probation because the offense of Aggravated Trafficking in Cocaine, with a prior drug conviction, in violation of O.R.C. 2925.03(A)(1) & (C)(1), by law carries a three (3) year term of actual incarceration as part of the minimum sentence and that a nunc pro tunc entry shall be prepared and filed correcting the original entry of sentencing which had been filed in this case.”
+It is from this order that appellant appeals, raising the following assignment of error:
+“The Court of Common Pleas abused its discretion in overruling appellant’s motion to vacate and set aside plea and sentence.”
+Appellant alleges that the trial court failed to comply with Crim.R. 11(C)(2)(a), and argues that, based on State v. Bowen (1977), 52 Ohio St.2d 27, 6 O.O.3d 112, 368 N.E.2d 843, his conviction should be vacated as his plea was not knowingly or voluntarily made. Crim.R. 11(C)(2)(a) states:
+“Determining that he is making the plea voluntarily, with understanding of the nature of the charge and of the maximum penalty involved, and, if applicable, that he is not eligible for probation.”
+Appellant contends that the trial court failed to inform him that he was ineligible for probation prior to accepting his plea. Appellant’s ineligibility was a result of the sentencing requirement that a minimum of three years be served as actual incarceration. Appellant further relies on State v. Scott (1974), 40 Ohio App.2d 139, 69 O.O.2d 152, 318 N.E.2d 416, for the proposition that the trial court’s failure to inform him on the issue of probation negates his plea.
+Appellee relies on State v. Stewart (1977), 51 Ohio St.2d 86, 5 O.O.3d 52, 364 N.E.2d 1163, in which the Supreme Court of Ohio distinguished Scott, supra, based on the additional constitutional violations by the trial court in Scott.
+Appellee correctly focuses on constitutional/nonconstitutional dichotomy involved in the review of Crim.R. 11 procedures. This court recently discussed this dichotomy in State v. Grundy (Jan. 25, 1991), Trumbull App. No. 89-T-4251, unreported, at 7, 1991 WL 6017, stating:
+“In relation to the constitutional rights, Ohio courts have held that strict compliance with the dictates of Crim.R. 11(C) is necessary before it can be determined that the plea was given knowingly. See, State v. Gibson (1986), 34 Ohio St.[App.]3d 146 [517 N.E.2d 990],
+“However, as to the remaining items discussed under section (C)(2), it has been held that substantial compliance with the requirements of the rule is sufficient to establish a valid plea. Id., citing State v. Stewart (1977), 51 Ohio St.2d 86 [5 O.O.3d 52, 364 N.E.2d 1163]. As a result, a finding of compliance with the rule can be based upon a consideration of the totality of the circumstances surrounding the entry of the plea. See, State v. Carter (1979), 60 Ohio St.2d 34 [14 O.O.3d 199, 396 N.E.2d 757], and State v. Nero (1990), 56 Ohio St.3d 106 [564 N.E.2d 474].” (Emphasis sic.)
+While appellee argues that the trial court need only substantially comply with Crim.R. 11(C)(2)(a), with regard to probation, the state fails to demonstrate that substantial compliance. State v. Drake (May 24, 1989), Lorain App. No. 88CA004443, unreported, at 3-4, 1989 WL 54694, illustrates what is required of the trial court with regard to probation, stating:
+“Crim.R. 11(C)(2)(a) does not require the trial court to specifically inform the defendant about probation ineligibility, but requires the trial court to determine that the defendant understands he is not eligible for probation.”
+Stewart, supra, was further distinguished in State v. Shackleford (Aug. 31, 1990), Montgomery App. No. 11666, unreported, 1990 WL 125701, and State v. Lee (Aug. 14, 1987), Lake App. No. 11-242, unreported, 1987 WL 15713. These cases demonstrate that while a lesser burden of compliance is placed upon the trial court in nonconstitutional areas, the failure to inform the defendant of his ineligibility for probation, under certain circumstances, may be prejudicial error requiring the vacation of the defendant’s plea.
+In the instant case, appellant was not only unaware of his ineligibility, but appears to have been led to believe that shock probation would be granted. At the proceeding in which appellant entered his plea, the following dialogue occurred:
+“BY THE COURT:
+“Do you also want to' put upon the record the matter on the shock?
+“BY THE PROSECUTOR:
+“Also, pursuant to these discussions Defense Counsel has indicated that he will make a written motion that the Defendant be given Super Shock Probation in six months and we will not oppose that.
+“BY THE COURT:
+“For the record the court had indicated in chambers that the court would recommend it upon proper motion.”
+During the same proceeding, while the court was addressing appellant, the following question was posed: “Have you been promised anything other than what has been placed upon the record here today to secure your plea of guilty?” Appellant answered, “No sir, just Super-Shock that’s all.”
+The court then concluded the proceedings by stating:
+“The court will continue the bond pending pre-sentence investigation. You take your client down to see the adult probation department right away.”
+Further distinguishing Stewart, the court in that case placed great emphasis on the lack of referral to the probation department, and the language contained in the plea signed by the defendant. The written plea of guilty in the instant case differs greatly as the “no promises” clause merely states that no promises “other than those stated pursuant to Criminal Rule 11(F) (Plea Bargaining) of which my attorney has full advised me and stated in open Court * *
+Moreover, the June 13, 1988 entry, by which the trial court accepted appellant’s plea, in part, stated:
+“The Court indicated that it would allow the Defendant to be brought back from prison on motion by the Defendant after the Defendant has served six months in prison.”
+Thus, a review of the totality of circumstances demonstrates the trial court erred in failing to substantially comply with Crim.R. 11(C)(2)(a).
+Appellee makes several arguments as to why “manifest injustice” under Crim.R. 32.1 is not demonstrated, most of which lack merit. Appellee asserts that there is no such animal as “super shock probation,” only shock probation. However, the prosecution was the first party to call it “super shock,” and should not be now heard to complain of the misnomer.
+Appellee also contends that the motion for shock probation was untimely filed outside the sixty-day limit of R.C. 2947.061. This argument is also lacking in merit as the motion filed by appellant on April 20, 1989, although timely filed, was never acted upon by the trial court. Further, the prosecutor again was the first to state the time period as six months, and the trial court echoed that time frame in its June 13, 1990 judgment entry. As such, this argument is equally undeserving.
+Moreover, the trial court’s finding that no promise of shock probation was ever made is contradicted by the transcript of the proceeding, at which the plea was entered, when the court stated:
+“For the record the court had indicated in chambers that the court would recommend it upon proper motion.”
+Appellee also relies on State v. Piacella (1971), 27 Ohio St.2d 92, 56 O.O.2d 52, 271 N.E.2d 852, and State v. Griffey (1973), 35 Ohio St.2d 101, 64 O.O.2d 62, 298 N.E.2d 603, for the proposition that appellant’s plea was motivated by his desire to seek a lesser penalty, and therefore, the plea was entered voluntarily. In light of our determination that the trial court erred in failing to instruct appellant that he was ineligible for probation, appellee’s position is not maintainable. The elements set forth in the syllabus of Piacella, supra, are connected by the conjunctive “and” rather than the disjunctive “or”; thus, appellant’s desire for a lighter penalty does not negate the trial court’s failure to instruct on his ineligibility for probation.
+Finally, appellee contends that not only was there never a promise to grant shock probation (although the record contradicts this contention,) but that this issue became moot when appellant was arrested and convicted of petty theft during the pre-sentencing investigation period. Even though this subsequent arrest and conviction marred appellant’s probable probation, it cannot cure the demonstrated defect in the trial court’s acceptance of appellant’s plea, nor does it render it merely harmless error.
+Based on the foregoing analysis, the" plea and sentence of appellant are hereby vacated, and this case shall be remanded to the trial court for further proceedings not inconsistent with this opinion.
+Judgment accordingly.
+Christley, J., concurs.
+Ford, P.J., concurs in judgment only.
