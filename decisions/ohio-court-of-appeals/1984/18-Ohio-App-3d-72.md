@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "83AP-990 and -991"
+decided: "1984-06-28"
+citations: ["18 Ohio App. 3d 72"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCormac, P.J., and Lynch, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Collins, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/18/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711168
+cites_cases: ["242 N.W. 2d 298", "312 U.S. 52", "373 U.S. 132", "374 A. 2d 1118", "411 U.S. 624", "430 U.S. 519", "434 U.S. 1011", "487 F.Supp. 135", "621 F. 2d 227", "71 So. 2d 495"]
+---
+
+# State v. Collins
+
+## Majority (Norris, J.)
+
+Norris, J.
+Defendant appeals his convictions for failing to exhibit his pilot’s license upon demand of a police officer (R.C. 4561.14), and for carrying a passenger without possession of a valid airman’s certificate (R.C. 4561.15[A]).
+Defendant filed a motion to dismiss the charges. An oral hearing was held in which the testimony revealed the following facts relevant to this appeal: that, in the early morning hours of June 5,1983, defendant radioed Port Columbus Airport that he wished to land his airplane; that he encountered some difficulty in locating the airport and eventually was led to the airport by the Columbus police helicopter unit; that, upon landing, two Columbus police officers assigned to the airport were dispatched to the area where defendant was taxiing his plane; that the officers noted a passenger in the airplane; and that, when one of the officers asked defendant to produce his pilot’s license and log book, he was unable to do so.
+The trial court overruled defendant’s motion to dismiss. Defendant entered pleas of no contest to the charges, and the court made findings of guilty on each.
+In support of his appeal, defendant raises one assignment of error:
+“The trial court erred in holding that Ohio Revised Code Sections 4561.14 and 4561.15(A) constitute the valid exercise of police power generally.”
+R.C. 4561.14 states in part:
+“No person shall operate any aircraft in this state unless such person is the holder of a valid airman’s license issued by the United States.
+“No person operating an aircraft within this state shall fail to exhibit such license for inspection upon the demand of * * * any peace officer, * * * upon landing said aircraft.”
+R.C. 4561.15(A) provides:
+“No person shall commit any of the following acts:
+“(A) Carry passengers in an aircraft unless the person piloting the aircraft is a holder of a valid airman’s certificate of competency in the grade of private pilot or higher issued by the United States; * *
+In his brief, defendant contends that his convictions should be reversed on the ground that the Ohio Department of Transportation is vested with authority to administer and enforce the provisions of R.C. 4561.01 through R.C. 4561.16 (see R.C. 4561.05), and not the city prosecutor. Because it does not appear from the record that defendant raised this contention in the trial court, the issue is not properly before this court. See State v. Nelms (Oct. 6, 1981), Franklin App. No. 81AP-339, unreported.
+Defendant’s second contention is that the statutes under which he was convicted are invalid inasmuch as the federal government, through the Federal Aviation Administration, has acted to the exclusion of state and local governments in the field of pilot licensing. This exclusivity, it is argued, necessitates a finding by this court that the statutes are void under the doctrine of preemption and the Supremacy Clause of Article VI, United States Constitution.
+Our review of the cases in the area of preemption reveals essentially a two-prong test — first, a determination of whether Congress has expressly or implicitly excluded state action in the field and, if not, then, whether the state law and federal law “* * * can be enforced without impairing the federal superintendence of the field, * * Florida Lime & Avocado Growers, Inc. v. Paul (1963), 373 U.S. 132, at 142; Jones v. Rath Packing Co. (1977), 430 U.S. 519.
+Thus, our initial inquiry is whether Congress has expressly claimed dominion over the field of pilot licensing. We have found no provision, nor has defendant brought one to our attention, in which the federal government has reserved the exclusive authority to license pilots. Therefore, it is clear that Congress has not expressly preempted the field.
+Nor has Congress impliedly preempted the field, as was found to be the case in City of Burbank v. Lockheed Air Terminal, Inc. (1973), 411 U.S. 624; United States v. City of Blue Ash (S.D. Ohio 1978), 487 F.Supp. 135, affirmed (C.A. 6, 1980), 621 F. 2d 227. Those cases involved ordinances enacted by each of the cities designed to regulate the noise levels of aircraft arriving at and departing from city airports. While the courts in both cases found the ordinances represented a valid exercise of each city’s police power, they were nonetheless held invalid under the doctrine of preemption. The court, in City of Burbank, held that, although there was no intention on the part of Congress to expressly preempt the field of aircraft noise regulation, “[i]t is the pervasive nature of the scheme of federal regulation of aircraft noise that leads us to conclude that there is pre-emption. * * *” City of Burbank, supra, at 633. This decision was cited as controlling in City of Blue Ash, supra.
+Here, no such “pervasive” regulatory scheme exists with regard to pilot licensing. While Congress has enacted statutes and the FAA has issued regulations dealing with this subject matter, we cannot say that they are of the same pervasive nature as those in the field of aircraft noise. Therefore, we conclude that the federal government has not impliedly preempted the licensing field.
+The final question is whether state statutes under consideration conflict with federal laws or regulations requiring the licensing of pilots. This necessitates the determination of “* * * whether [the state regulation] stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.” Hines v. Davidowitz (1941), 312 U.S. 52.
+It has been said that states may enact criminal statutes concerning aircraft and their operation. See 8 American Jurisprudence 2d (1980) 561, Aviation, Section 158. Specifically, state statutes which make the reckless operation of an aircraft a criminal offense, punishable by imprisonment and fine, have weathered challenges on preemption grounds (Ward v. State [Md. 1977], 374 A. 2d 1118, certiorari denied [1978], 434 U.S. 1011; State v. Bahl [Iowa 1976], 242 N.W. 2d 298) on the theories that they represent a valid exercise of the police power of the states and enhance, not obstruct, the objective of the federal laws. See, also, Tatum v. City of Hallandale (Fla. 1954), 71 So. 2d 495 (ordinance requiring operators of aircraft flying over the city for advertising purposes to obtain permit not invalid on preemption grounds).
+Turning to our case, the statutes were passed for the purpose of ensuring the safety of Ohio citizens. This is unquestionably the same goal on a nationwide basis that Congress and the FAA had in mind in enacting laws and regulations regarding pilot licensing. The Ohio statutes do not provide for licensing by the state. Furthermore, one cannot reasonably argue that they are in conflict with federal licensing laws since they promote and encourage the goal of federal licensing, that of aviation safety, by providing for criminal penalties (as distinguished from the civil sanction provided for in federal law), with the purpose of enhancing the safety of Ohio citizens by assuring that only federally licensed pilots will operate aircraft and carry passengers in Ohio. It should be noted here that the Ohio Department of Transportation is required by R.C. 4561.06 to report probable violations of R.C. 4561.15 and federal aviation laws to the proper governmental authorities. This further enhances the goal of federal regulation.
+This is not to say that the state may act freely in the field of pilot licensing. If a state law was enacted which is clearly contrary to the purpose of federal law, or if compliance by a pilot with a state law would result in a violation of federal law, then, under the Supremacy Clause and the doctrine of preemption, the state law would be invalid. However, where, as here, the federal and state regulations are designed to promote the same objective, the state law will be held to be a valid exercise of police power. Because the state’s goal in enacting R.C. 4561.14 and 4561.15(A) is not contrary to the purpose of the federal laws, and because enforcement of the statutes will not result in conflict with federal laws, we hold that the statutes represent a valid exercise of the state’s police power. Accordingly, the assignment of error is overruled.
+The assignment of error is overruled, and the judgments of the trial court are affirmed.
+Judgments affirmed.
+McCormac, P.J., and Lynch, J., concur.
+Lynch, J., retired, of the Seventh Appellate District, was assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution.
