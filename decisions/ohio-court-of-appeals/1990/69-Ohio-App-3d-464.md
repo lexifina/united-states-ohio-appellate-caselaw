@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-890380"
+decided: "1990-09-19"
+citations: ["69 Ohio App. 3d 464"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, P.J., Klusmeier and Hildebrandt, JJ., concur."]
+parties: ["The STATE, ex rel. COLE, Appellee, v. LAUMANN et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/69/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463336
+cites_cases: ["15 OBR 166", "15 Ohio St.3d 73", "17 OBR 1", "17 Ohio Misc. 193", "17 Ohio St.3d 1", "1986 WL 6525", "1988 WL 37898", "1988 WL 88395", "243 N.E.2d 777", "46 O.O.2d 279", "472 N.E.2d 357", "476 N.E.2d 1019"]
+---
+
+# State ex rel. Cole v. Laumann
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Relator-appellee, Lawrence Cole, filed an action in mandamus against respondents-appellants, J. Michael Laumann, Mayor of the city of Cheviot; Robert S. Buchanan, Director of Public Safety of the city of Cheviot; and the Civil Service Commission of the city of Cheviot. The relator and the respondents filed motions for summary judgment. The trial court granted the relator’s motion for summary judgment, and denied the respondents’ motion for summary judgment. The respondents then filed this appeal.
+On appeal, the respondents raise four assignments of error. We find these assignments of error to be well taken.
+On April 5, 1988, the Cheviot Civil Service Commission (“the commission”) conducted a promotional examination for the position of lieutenant in the Cheviot Fire Department. Michael Hayes, Donald Clark, the relator, and Mark Reuss took the examination. Hayes received 109 points on the examination; Clark received 107 points; the relator received 105 points; and Reuss received 102 points. The commission then added points for seniority resulting in a final score of 108 points for both Clark and the relator.
+The commission then prepared an eligibility list for the position of fire lieutenant. To break the tie between Clark and the relator, the commission relied upon the date on each applicant’s letter stating his intent to take the examination. Clark sent his letter on February 18, 1988, and the relator sent his letter on March 1, 1988. Accordingly, the applicants were placed on the eligibility list as follows: (1) Michael Hayes; (2) Donald Clark; (3) Lawrence Cole (relator); (4) Mark Reuss.
+Subsequently, two positions for lieutenant in the fire department became available. In compliance with the eligibility list, Hayes and Clark were promoted to the position of lieutenant.
+In his complaint in mandamus, the relator requested the trial court to do the following:
+“[I]ssue a Writ directing the Civil Service Commission, Public Safety Director and/or Mayor to set aside the Eligibility List dated April 12, 1988; to direct the Civil Service Commission to prepare a corrected Eligibility List pursuant to the provisions of the Ohio Revised Code; to direct the Civil Service Commission to place the name of Petitioner second on the corrected Eligibility List; to direct the Director of Public Safety, under the direction of the Mayor, to promote Petitioner to the position of Lieutenant of the City Fire Department in the place of Donald Clark; to direct the Director of Public Safety, under the direction of the Mayor, to cause to be paid to Petitioner back pay and afford Petitioner any other additional benefits to which he would have been entitled, retroactive to the date of promotion of Donald Clark to the position of Lieutenant of the City Fire Department; to pay Petitioner’s costs incurred herein; and for such other and further relief as the Court may deem appropriate.”
+The trial court granted the relator's motion for summary judgment and issued the requested writ.
+In their second assignment of error, the respondents contend that the trial court erred in granting the relator’s motion for summary judgment because the use of the extraordinary remedy of mandamus was not appropriate in this case.
+Before issuing a writ of mandamus, the court must find that the relator has a clear legal right to the relief prayed for, that the respondent is under a clear legal duty to perform the requested act, and that the relator has no plain and adequate remedy at law. State, ex rel. Halloran, v. Zapatony (1984), 15 Ohio St.3d 73,15 OBR 166, 472 N.E.2d 357. The respondents argue that the relator had a plain and adequate remedy at law available to him under R.C. 2506.01.
+R.C. 2506.01 provides for a review by the common pleas court of every final order, adjudication or decision of any commission of any political subdivision of the state. However, pursuant to R.C. 2505.07, the decision of an administrative agency must be journalized before an appeal from such decision may be taken under R.C. 2506.01. State, ex rel. Hanley, v. Roberts (1985), 17 Ohio St.3d 1, 17 OBR 1, 476 N.E.2d 1019.
+An agency has the duty to journalize its rulings by reducing them to writing. State, ex rel. Hanley, supra, citing Grimes v. Cleveland (C.P.1969), 17 Ohio Misc. 193, 46 O.O.2d 279, 243 N.E.2d 777. The written entry of a decision of an administrative board should be the written minutes of its meeting at which the decision was rendered. State, ex rel. Hanley, supra.
+In this case, the record fails to contain the actual minutes of the commission’s meeting at which it decided to place the applicants for the promotional examination in a certain order on the eligibility list. The record merely contains the eligibility list which reflects the scores, the points added for seniority and the dates the applications were received. The eligibility list, standing alone, is not sufficient to constitute a journalization of the commission’s decisions. See Davidson v. London Bd. of Zoning Appeals (Aug. 22, 1988), Madison App. No. CA88-02-005, unreported, 1988 WL 88395. Cf. Dayton Progress Corp. v. West Carrollton (Apr. 11,1988), Montgomery App. No. 10613, unreported, 1988 WL 37898 (income tax review board’s signed findings of fact constitute a final entry because all minutes of their meetings are private). The relator, therefore, had no ordinary legal means available by which to seek redress of his grievances. Accordingly, he was able to resort to the extraordinary remedy of mandamus. See State, ex rel. Hanley, supra; Radcliff v. Ironton (June 5, 1986), Lawrence App. No. 1754, unreported, 1986 WL 6525.
+Although the relator was entitled to pursue a writ of mandamus for the limited purpose of providing the necessary basis for judicial review of the commission’s decision under R.C. 2506.01, the specific relief sought in his complaint was, under the circumstance of the case, too broadly drawn to serve the proper office of such a writ. At this point, the only clear legal duty the commission has to perform is to journalize its decisions by reducing them to writing. See State, ex rel. Hanley, supra. Accordingly, the relator was only entitled to have the trial court order the commission to provide a written entry of its decision to place the relator third on the eligibility list for lieutenant of the fire department through written minutes of its meetings.
+We, therefore, find the respondents’ second assignment of error to be well taken. The respondents’ remaining assignments of error are also well taken because the trial court only had the authority to order the commission to journalize its rulings.
+The judgment of the trial court is reversed, and this cause is remanded so that the trial court may consider an appropriate amendment of the relator’s complaint, and so that it may conduct whatever further proceedings may be necessary to accord with this decision and the law.
+Judgment reversed and cause remanded.
+Shannon, P.J., Klusmeier and Hildebrandt, JJ., concur.
