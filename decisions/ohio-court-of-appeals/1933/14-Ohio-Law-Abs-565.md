@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-03-24"
+citations: ["14 Ohio Law Abs. 565"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["POLLOCK and ROBERTS, JJ, concur in the judgment."]
+parties: ["U S FIDELITY & GUARANTY CO v COMMERCIAL SHEARING AND STAMPING CO"]
+source_url: "https://static.case.law/ohio-law-abs/14/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1648569
+---
+
+# U S Fidelity & Guaranty Co. v. Commercial Shearing & Stamping Co.
+
+## Majority (FARR, J.)
+
+FARR, J.
+The first point raised in this connection is that the material furnished was not suitable or practical for use in the tunnel. It will be noticed, however, that the contract and the bond as well, carries the same provision, which is to the effect “including those for labor and -materials furnished.” It would seem, therefore, that if these materials were furnished and accepted by the contracting company, that such delivery ended the dispute so far as liability was concerned upon the part of the Engineering Company. It will be noticed that neither the contract nor the bond provides that the materials should be built into the work. It simply provides for labor and materials “furnished.” Furnished would no doubt imply acceptance upon the part of the contractor for the material sent. So that the first proposition does not appeal strongly as being of paramount importance in this connection. It really-becomes an issue as to whether or not the contractor accepted this third shipment of liner plates, but there is another reason why this contention could not avail in this behalf. The trial court charged the jury at page 356, request number three, as follows:
+“The court says to you as a matter of law that if the material furnished by The Commercial Shearing & Stamping Company was not suitable for the work to be done on the Rockford Sanitary District job, then you must find for the defendant.”
+The trial court was in error in giving this instruction, but the defendant in error can not complain in view of the verdict rendered by the jury, but the jury in passing upon this issue evidently determined that the liner plates were suitable for the purpose intended, because the court had instructed upon that proposition. That is the additional reason why that contention can not avail.
+The next question which arises is whether or not these liner plates were ordered and whether they were delivered to the Company. Mr. Schobinger, the secretary of The Marshall Engineering Company, speaks with some authority in this behalf. He speaks of a third consignment and says that the same was ordered by Mr. Marshall of the Marshall Engineering Company. The consignment came into the yard in due time on a bit of trackage that The Engineering-Company was using for its convenience, and he says in this connection, among other things, when he was asked the question, “Now, of your own knowledge do you know whether any part of the merchandise specified in plaintiff’s exhibit 22 was used in this Rockford Sanitary sewer job,” and that relates to the third consignment, answer, “I know that two or three days after, two days after the cars were delivered we needed a certain type of plates which were in these cars, and I know that we opened the cars for the purpose of getting these plates.” In fact, there can be but little question but what the record discloses the fact to be that this third consignment of plates was received in this yard, that the car was opened and some plates removed from it. At any rate, this issue was fairly submitted to the jury and this court could not now say in the light of this testimony that the conclusion of the jury is so clearly, so manifestly against thé weight of the evidence as to permit a reversal upon that gro.und.
+It is next complained that the trial court committed error in the admission of testimony, as follows:
+“Q. In your opinion, taking into account the existing conditions and the character of the soil existing there at the place where this tunnel was to be constructed, were the liner plates suitable for constructing a tunnel under those conditions?
+A. No, I don’t think so.”
+This complaint can not avail in view of the conclusion reached by the jury. It is sufficient to say that it was not a question of suitability to be determined after this fashion. It was merely a question of whether or not the labor and materials had been furnished. If the material had been furnished and the car opened and some material taken out, it certainly would be too late for the engineering company to complain that the material was not suitable for the purpose.
+The next and last assignment for error is to the charge of the trial court and the refusal of certain requests. The first complaint is that the plaintiff in error’s request number one was refused. It reads as follows:
+“The court says to you as a matter of law that if you find that no one in authority from The Marshall Engineering-Company ordered the third load of material, then you will find that the defendant herein is not responsible for the payment of said material, and that the amount represented in the third load should be de>ducted from the total amount sued for.”
+There is no error in refusing this request for the reason that it is not a material matter whether some one “in authority” had ordered the consignment or not. It might have been an entire stranger, an outsider, but if the material was furnished, accepted and used or'even accepted and partly used that would be entirely sufficient, so there was no error in refusing that instruction.
+The next complaint is that the trial court refused to submit plaintiff in error’s request number two, which reads as follows:
+“The court says to you as a matter of law, that if the material furnished by the Commercial Shearing & Stamping Company to the Marshall Engineering Company could not be successfully used in the prosecution of the work to be done on the Rockford Sanitary District job, then you must find for the defendant.”
+The trial court properly refused this instruction because number three had been given, which submitted to the jury the question of the sufficiency or suitability of these plates, so that when the trial court gave number three that excused the giving of number two, which is the same in substance.
+Next, it is complained that the trial court refused to give numbers four and seven. Number four reads:
+“The court says to you as a matter of law, that if the material in question, furnished by this plaintiff, was not required in said construction in the reasonable contemplation of The Sanitary District and The Marshall Engineering Company at the time the bond in question of this defendant company was furnished, then I say to you that this plaintiff cannot recover in this action.”
+Request number seven reads:
+“The court says to you as a matter of law, that if you find from general engineering practices, that the use of liner plates was not within the reasonable contemplation of the Sanitary District or the Marshall Engineering Company at the time the contract for the construction of the sewers was entered. into, and the bond furnished, then I say to you as a matter of law that the plaintiff cannot recover.”
+It is only necessary to say in this behalf that the contract was in writing. It was the duty of the trial court to construe the contract and then submit the facts to the jury. There was no error in the refusal of the trial court to give numbers four and seven. There is also a complaint made as to the general charge, but it is sufficient to say that upon examination of that complaint it was found not to be prejudicial to the substantial rights of the plaintiff in error.
+This disposes of the assignments for error and for the reasons given and there being no reversible error apparent upon the face of the record, the judgment is affirmed.
+POLLOCK and ROBERTS, JJ, concur in the judgment.
