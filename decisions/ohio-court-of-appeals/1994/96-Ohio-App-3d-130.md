@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "93 CA 33"
+decided: "1994-07-14"
+citations: ["96 Ohio App. 3d 130"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Harsha, P.J., and Stephenson, J., concur."]
+parties: ["The STATE of Ohio, Appellee, v. SMITH, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/96/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1761177
+cites_cases: ["1990 WL 155774", "1991 WL 28320", "24 OBR 61", "24 Ohio App.3d 38", "379 U.S. 89", "392 U.S. 1", "492 N.E.2d 1254", "573 N.E.2d 1244", "607 N.E.2d 54", "61 Ohio Misc.2d 87", "79 Ohio App.3d 224"]
+---
+
+# State v. Smith
+
+## Majority (Grey, Judge.)
+
+Grey, Judge.
+This is an appeal from a judgment of the Municipal Court of Lawrence County. Robert A. Smith appeals his conviction of violating R.C. 4511.19(A)(1), operating a vehicle while under the influence of alcohol.
+On January 23, 1993, at approximately 2:50 a.m., Sgt. R.L. Rogers of the Proctorville, Ohio, Police Department observed Smith apparently asleep in his vehicle in the Kroger grocery store parking lot. He noted that the vehicle’s engine was running and the headlights were on. Sgt. Rogers requested assistance from the Lawrence County Sheriffs Office because the parking lot was outside the jurisdiction of the Proctorville Police Department. Sheriffs Deputies Jerry Elliott and Holland were dispatched to the parking lot.
+Upon arrival, the two deputies approached the vehicle. They observed Smith asleep behind the steering wheel of his vehicle with a half-eaten taco lying in his lap. They also noted that the vehicle’s engine was running. Deputy Holland rapped on the driver’s side window, awakening Smith. Smith rolled the window down and Deputy Holland asked him if he was all right. Smith responded that he was O.K. Deputy Holland asked Smith where he had been. Smith responded that he had just been to Taco Bell. Deputy Holland asked Smith to turn off the vehicle and to step out of the vehicle. When Smith did so, Deputy Elliott took the car keys from Smith. Deputy Elliott then administered several coordination tests to Smith. Following these tests, Smith was placed in the sheriffs department patrol car and transported to the Proctorville Police Department. At the police station, Smith was administered a breathalyzer test. The BAC Verifier Test registered .195. He was charged with violating R.C. 4511.19(A)(1).
+On March 29, 1993, a probable cause hearing was held. The trial court held that probable cause existed for Smith’s arrest for the offense charged.
+On July 19, 1993, Smith entered a plea of no contest to the charge, resulting in a finding of guilty by the trial court. Smith filed a timely notice of appeal. He assigns a single assignment of error, arguing that no probable cause existed for his arrest.
+ASSIGNMENT OF ERROR
+“The court below erred in finding that no arrest had occurred prior to the administration of field sobriety tests where the defendant-appellant was instructed to step out of his vehicle and surrender his keys to the arresting officer.”
+A police officer may conduct brief investigative detention stops where the officer has reasonable suspicion, based on articulable facts, that the detainee has engaged in, is engaging in, or is about to engage in criminal activity. Terry v. Ohio (1968), 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889. If, during that brief detention, the officer develops probable cause to believe that the suspect has committed a crime, then the officer may make an arrest. The Supreme Court has held that an arrest is constitutionally valid, and the officers have probable cause to make it, when at that moment the officers have knowledge of facts or circumstances or reasonable, trustworthy information which is sufficient to warrant a prudent man to believe that the petitioner has committed the offense. Beck v. Ohio (1964), 379 U.S. 89, 91, 85 S.Ct. 223, 225-226, 13 L.Ed.2d 142, 145.
+Applying this standard to driving under the influence cases, usually results in two situations where the validity of the arrest is questioned — the initial contact or stop by the officer and the subsequent arrest. In this case, the initial contact by the officers was approaching a vehicle in a supermarket parking lot at 2:50 a.m. The driver appeared to be asleep but the car was running and the headlights were on. It is not unreasonable for a police officer to approach the vehicle and question the driver.
+Appellant relies strongly on State v. Finch (1985), 24 Ohio App.3d 38, 24 OBR 61, 492 N.E.2d 1254. In Finch, the court held that probable cause to arrest the driver for driving under the influence of alcohol required evidence indicative of both intoxication and impaired motor coordination. The court found that a park ranger lacked probable cause to arrest upon observing indicia of intoxication, ie., an odor of alcohol, bloodshot eyes, a flushed face and slurred speech, but did not observe any impaired motor coordination. The court noted that it is not a violation of the law to drive smelling of alcohol, or with bloodshot eyes, a flushed face, or slurred speech. The court stated that, in other words, merely appearing to be too drunk to drive is not enough to constitute probable cause to arrest. The court stated that a failed sobriety test combined with the above factors would provide sufficient probable cause for arrest.
+Smith argues that there was no probable cause to arrest him merely because he smelled of alcohol. He also argues that Deputy Elliott effectively placed him under arrest when he took his car keys away from him. We believe appellant misreads the decision in Finch. In that case, the officer arrested the driver and took his keys simply because he looked like he might be intoxicated. The court held that Finch was effectively under arrest “when she took the keys,” using “when” to mean “at the time she took the keys.” The taking of the keys was an act incident to the arrest, but, this arrest was made without any facts of bad driving, and before any field tests had been given, and was not based on any reasonable grounds. Appellant would have us construe Finch and its use of the word “when” to mean, “because she took the keys.”
+In this case, Deputy Elliott testified that both officers noticed a smell of alcohol inside the vehicle. Deputy Elliott testified that Smith’s eyes were glassy. He was not arrested at this point, as in Finch, but was asked to do some tests. The taking of the keys here was done incident to giving the field tests.
+Elliott testified that Smith did poorly on the field coordination tests, staggering on the heel-to-toe test, missing on the finger-to-nose test, and on the counting-while-standing-on-one-foot test. This testimony provides sufficient evidence of intoxication and impaired motor coordination to establish probable cause to arrest.
+In most cases , dealing with the issue of probable cause to arrest for driving under the influence, Ohio courts have based their findings of probable cause on the impaired motor coordination of the drivers. State v. Cloud (1991), 61 Ohio Misc.2d 87, 92, 573 N.E.2d 1244, 1249, citing State v. Arnold (Feb. 13, 1991), Ross App. No. 1678, unreported, 1991 WL 28320; State v. Butcher (Oct. 17, 1990), Lawrence App. Nos. 1929 and 1930, unreported, 1990 WL 155774; Wickliffe v. Gutauckas (1992), 79 Ohio App.3d 224, 607 N.E.2d 54.
+We find that the trial court properly found probable cause for the arrest. Smith’s sole assignment of error is overruled. The judgment of the trial court is affirmed.
+Judgment affirmed.
+Harsha, P.J., and Stephenson, J., concur.
