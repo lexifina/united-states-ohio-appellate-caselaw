@@ -1,0 +1,74 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-800639"
+decided: "1981-08-19"
+citations: ["2 Ohio App. 3d 460"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon and Keefe, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Brand, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/2/cases/0460-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710073
+cites_cases: ["126 Ohio St. 177", "204 Mass. 513", "347 U.S. 612", "380 U.S. 479", "408 U.S. 104", "413 U.S. 601", "42 Ohio St. 2d 295", "71 O.O.2d 288", "90 N.E. 864"]
+---
+
+# State v. Brand
+
+## Majority (Black, J.)
+
+Black, J.
+The defendant-appellant, James Brand, seeks reversal of his conviction by a jury of disturbing a lawful meeting in violation of R.C. 2917.12, alleging two assignments of error: (1) that the court erred in not granting his motions for dismissal and acquittal; and (2) that the court erred in its instructions to the jury. We find merit in the second assignment.
+I
+On May 16, 1980, the defendant was one of a crowd of people gathered on Fountain Square in Cincinnati for a Mental Health Association rally featuring then First Lady Rosalyn Carter among the speakers. During the course of Mrs. Carter’s brief address, the defendant shouted statements supporting the Iranian revolution and condemning the Carter administration’s policies toward Iran. The defendant persisted in this behavior for approximately one minute, despite three separate requests by a police officer to be quiet. The defendant was arrested and continued to “yell and scream” as he was escorted through the crowd and placed in a police cruiser. The sentence of thirty days was stayed on posting of a $1,000 bond pending disposition of this case on appeal.
+II
+Defendant’s first assignment of error alleges that the court erred in failing to grant his motions for dismissal and acquittal because (A) R.C. 2917.12 is on its face unconstitutionally vague and over-broad, (B) the statute is unconstitutional as applied in this case and (C) the verdict was against the weight of the evidence. We disagree. We find that the statute is constitutional and that the conviction is supported by sufficient evidence.
+A
+It is a basic principle of due process that an enactment is void on its face for vagueness if it “ * * * fails to give a person of ordinary intelligence fair notice that his contemplated conduct is forbidden by the statute. * * *” United States v. Harriss (1954), 347 U.S. 612, at 617. We believe that the statute sub judice is clear and unequivocal; it gives fair notice of what is forbidden. Its plain meaning is that it prohibits any person from acting with a purpose to prevent or disrupt a lawful gathering and from succeeding in that effort by actually obstructing or interfering with its due conduct. We find no imprecision in the statutory language that would prevent a person of ordinary intellect from knowing what is and what is not proscribed.
+B
+The invalidation of a statute because it is facially overbroad is an exception to the traditional rule that the challenger of a statute must have standing; that is, in the one instance of a challenge against a statute for an overbroad regulation of free speech, the challenger may assert that the statute would be unconstitutional when and as applied to others. Dombrowski v. Pfister (1965), 380 U.S. 479, 486. The effect of holding a statute to be facially overbroad is that enforcement is “* * * totally forbidden until and unless a limiting construction * * * so narrows it as to remove the seeming threat or deterrence to constitutionally protected expression. * * *” Broadrick v. Oklahoma (1973), 413 U.S. 601, 613. Under this rubric, we find R.C. 2917.12 may reasonably be limited and narrowed in its application so as to meet the constitutional requirement that legislation affecting free speech shall not be overbroad.
+R.C. 2917.12 is not the Ohio legislature’s first attempt to prohibit the disruption of lawful assemblies. Its predecessor was R.C. 3761.11, which was upheld against a challenge of facial overbreadth in State v. Schwing (1975), 42 Ohio St. 2d 295 [71 O.O.2d 288]. Therein the Ohio Supreme Court found, first, that because the statute as written made no distinction between nondisruptive interruptions of a lawful assemblage on the one hand, or on the other hand, disruptions that block the business of the assemblage, the statute was facially over-broad. The court then proceeded to validate the statute by restricting it so that it could be applied only against constitutionally unprotected activity. The court held that the following two types of willful interferences are not constitutionally protected: “* * * those which cause a lawful assemblage to terminate in an untimely manner * * *” id., at 306, and “* * * those which substantially impair the conduct of the assemblage * * *” id. The court limited the statute to the prohibition of those two types of willful interference. Id.
+The Schwing decision was rendered after the repeal of R.C. 3761.11 and after the enactment of R.C. 2917.12, which replaced it. We believe that the Supreme Court’s limiting construction must apply to the new statute, thereby saving it from unconstitutional overbreadth.
+C
+Defendant next asserts that R.C. 2917.12 is unconstitutional as applied because it is contrary to the First and Fourteenth Amendments. We reject the assertion. The statute is designed to preserve the free speech of those conducting a lawful meeting by preventing others from disrupting it. The statute does not regulate the context of any person’s speech, but it applies to his conduct and the act of speaking when the actor’s intent is not to facilitate the exchange of ideas but rather to disrupt or prevent either an exchange or the legitimate expression of ideas by others.
+Clearly a state legislature may regulate both conduct and speech which is antagonistic to legitimate public interests by placing reasonable restrictions on the time, place and manner of expressive activity. Grayned v. City of Rockford (1972), 408 U.S. 104; State v. Schwing, supra. The interests of free people are served by legislation which balances in a reasonable way the First Amendment rights of those desiring to express opposing points of view. As construed and as applied in this case, the language sub judice is not unconstitutional.
+D
+Defendant also asserts in his first assignment of error that his conviction was against the weight of the evidence because his conduct amounted to no more than the brief heckling of a public figure that did not substantially impede the conduct of the gathering. We disagree. While the testimony was in conflict, one of the defense witnesses testified that Mrs. Carter stopped talking for as long as forty-five seconds and only resumed after the defendant was led away. We find that there was ample probative evidence from which reasonable minds could conclude that the defendant acted with the purpose to disrupt a lawful meeting and that his shouts and screams substantially obstructed the due conduct of the meeting.
+The first assignment of error is overruled.
+Ill
+In his second assignment of error, the defendant raises four issues about the court’s instructions to the jury. We find merit in one of his contentions.
+A
+He first maintains that the court erred in charging the jury that R.C. 2917.12 is constitutional, claiming that this suggested to the jury that all interrupting speech can be constitutionally prohibited. We find no merit in this argument. An instruction that the statute is constitutional does not direct a jury that any particular statement of the defendant was made with the requisite purpose to obstruct the meeting, or had that desired effect.
+Instructions about the validity of criminal statutes are, in general, completely unnecessary, because questions of validity are matters of law for the court to decide, not the jury.' We hold, however, that the instruction about constitutionality was not prejudicial error in this case.
+B
+Defendant argues that the court committed prejudicial error when it defined “disrupt” as follows: “to intercept or impede progress of something.” He contends that this diminished the state’s burden to prove an element of the offense. The error, if any, was cured shortly thereafter when the court charged that “before you can find him guilty, you must find that he did some act which substantially interfered with the due conduct of the gathering in question.” The jury was properly told that only substantial interference is a violation of the statute. The argument has no merit.
+C
+Defendant alleges that the court erred in failing to make available to the jury a means of viewing a television videotape of the incident that had been offered by defendant and admitted in evidence as an exhibit. In addition, defendant contends that the court unfairly commented on its evidentiary value. Just before the jury retired to deliberate, the court said:
+“There’s not much that you’ll be able to do with that television tape. I don’t know of any way you’ll be able to review it, because there’s no equipment to do it with. But, since it is an exhibit, we’re going to send it out with you and it should be retained in the possession of the foreman until you announce your verdict in open court.”
+Defendant argues that the court erred by foreclosing the possibility of the jury’s reviewing the tape and by denigrating its probative value. We disagree.
+During the course of the trial, at defendant’s initiative, the jury had been driven to a local television studio where they viewed the videotape which had been admitted as an exhibit in evidence, but the defendant failed to supply any equipment to enable the jury to view it during deliberations. That was his obligation, not the court’s. We hold that the court’s ruling was not erroneous.
+As to the court’s comment that there was not much the jury could do with the exhibit, we believe that the court was making the obvious observation that, without the proper equipment in the jury room, they could not see and hear it again. We do not believe the court intended to say that the exhibit had no probative value; nor do we believe that reasonable minds would so construe' the comment.
+D
+Defendant contends that the court erred in its definition of the term “substantial.” We agree with him. In keeping with the statutory construction from State v. Schwing, supra, and as previously noted, the court properly instructed the jury that before they could find guilt, they must find that the defendant substantially interfered with the due conduct of the meeting. The court, however, defined “substantial” as follows:
+“* * * a strong possibility as contrasted with a remote or insignificant one that a certain result may occur or that certain circumstances may exist.”
+This was derived from the definition of “substantial risk” found in R.C. 2901.01(H), the only section containing any definition that includes the adjective “substantial.” The use of this definition was, we believe, erroneous because “substantial risk” looks to the future, to the prospective consequences of some present act. The statute sub judice prohibits conduct that has the immediate effect of substantially obstructing the due conduct of the meeting. The proscription is not against creating strong possibilities of some result in the future, but against the actual, concurrent result, in prae-senti.
+The adjective “substantial” has a number of meanings as it is generally used, but as used in the statute sub judioe, (see State v. Schwing, supra, at page 306),. it is a relative term designating the degree or the extent of the disruption. In this sense it means major, consequential, effective or significant; it means that the offending act is of considerable quantity or dimension, or of solid effect. Any act that brings the meeting to an early termination obviously constitutes a substantial interference, but the statute also reaches conduct that effectively impairs, interferes with or obstructs its due conduct in a major, consequential, significant or considerable manner. The statute is designed to protect the right of free speech of those conducting a lawful meeting against the conduct of others that terminates the meeting or that impedes its conduct to a degree effectively preventing the exercise of that constitutional right.
+In this one respect, the second assignment of error has merit.
+IV
+We reverse the judgment below and remand this cause for further proceedings.
+Judgment reversed and cause remanded.
+Shannon and Keefe, JJ., concur.
+R.C. 2917.12, disturbing a lawful meeting, reads as follows:
+“(A) No person, with purpose to prevent or disrupt a lawful meeting, procession, or gathering, shall do either of the following:
+“(1) Do any act which obstructs or interferes with the due conduct of such meeting, procession, or gathering;
+“(2) Make any utterance, gesture, or display which outrages the sensibilities of the group.
+“(B) Whoever violates this section is guilty of disturbing a lawful meeting, a misdemeanor of the fourth degree.”
+R.C. 2917.12 clearly prohibits two distinct types of conduct: (1) doing any act which obstructs or interferes with the due conduct of a lawful meeting and (2) making an utterance or gesture which outrages the sensibilities of a group. The complaint and amended complaint charged the defendant only with a violation of subsection (A)(1) of the statute. The only issue before this court, therefore, is the constitutionality of subsection (A)(1), which is severable from subsection (A)(2) under the rule set forth in State v. Kassay (1932), 126 Ohio St. 177.
+R.C. 3761.11, prohibition against disturbing meetings (repealed, effective January 1, 1974) read as follows:
+“No person shall willfully interrupt or disturb a lawful assemblage of persons or a person while he is at or about the place where such assemblage is to be held, or is or has been held.”
+As quoted in X Oxford English Dictionary (1933), Su-Sz, at page 55, Capt. J. Smith used the adjective “substantial” in Virginia III, xii, 94, as follows:
+“Ten good workemen would haue done more substantiall worke in a day, then ten of them in a weeke.” Id., definition 10c (1624).
+And Crowley used it in Way to Wealth 30 as follows:
+“The most substancial! waye in curinge diseases is by puttinge awaye the causes.” Id., definition 11 (1550).
+In contract law, “substantial performance” is an approximation of full performance so that the parties obtain, in the main, what the contract called for, although it is not a complete and full performance in every particular. Handy v. Bliss (1910), 204 Mass. 513, 90 N.E. 864. See 17 American Jurisprudence 2d 821, Contracts, Section 378.
