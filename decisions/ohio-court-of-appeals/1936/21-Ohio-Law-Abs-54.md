@@ -1,0 +1,57 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 363"
+decided: "1936-01-16"
+citations: ["21 Ohio Law Abs. 54"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BODEY, J, concurs.", "HORNBECK, J, concurs in judgment."]
+parties: ["COLUMBIA DISCOUNT & LOAN CO v TAYLOR"]
+source_url: "https://static.case.law/ohio-law-abs/21/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670145
+cites_cases: ["270 Ill. App. 453"]
+---
+
+# Columbia Discount & Loan Co. v. Taylor
+
+## Majority (By BARNES, PJ.)
+
+OPINION
+By BARNES, PJ.
+The sole and only question in this controversy involves a consideration and construction of pertinent portions of §§6346-5 and 6346-5a GC. We quote these sections in full.
+“Sec 6346-5 GC. No such licensee or licensees shall make a loan or purchase or furnish guaranty, or security, as hereinbefore provided at a greater total charge, including interest, than three per cent, per month; except that on loans that do not exceed fifty dollars in amount, in whatever manner made payable, an inspection fee of not to exceed one dollar may be collected at the time the loan is made, when such loan is made for a period of not less than four months; and such inspection fee shall not be imposed upon the same borrower for any new or additional loan made within four months after such charge has been imposed. Said three per cent, per month shall not be paid in advance and shall be computed on unpaid monthly balances, without compounding interest on charges. No bonus, fees, expenses, or demands of any nature whatsoever, other than said inspection fee and said total charge of three per cent, per month (which shall include interest) as hereinbefore provided, shall be made, paid, or received, directly or indirectly, for such loans, purchases or furnishing guaranty or security, wage assignments or advancements except court costs upon the actual foreclosure of the security or upon the entry of judgment. Nothing in this act shall apply to pawn brokers who obtain a municipal license as provided in §§6337 to 6348 GC, inclusive, or to national banks or to state banks or any person, partnership, association or corporation %whose business now comes under the supervision of the superintendent of banks. No charge or fee shall be made unless the loan is actually made. A copy of this section shall be furnished each borrower at the time the loan is made.”
+(Effective August 12, 1915).
+“Sec 6346-5a GC. Provided, however, that upon the amount in excess of three hundred dollars ($300.00) for principal owing to the lisensee for any such loan, purchase or furnishing guaranty or security, no licensee shall directly or indirectly charge, contract for or receive any interest or consideration greater than at the rate of eight per cent, per annum, which shall include all charges, shall not be paid in advance and shall be computed on unpaid monthly balances, without compounding interest or charges. The foregoing eight per cent, per annum limitation of rate herein made shall also apply to any licensee who permits any person, as borrower, or as endorser, guarantor, surety for, or as spouse of any borrower, to owe directly or contingently, or both, to the licensee at any time the sum of more than three hundred dollars ($300.00) for principal.
+If interest, consideration or charges in excess of those permitted by this act shall be charged, contracted for or received, the contract and all the papers in connection therewith shall be void and the licensee shall have no right to collect or x-eceive any principal, interest or charges whatsoever.”
+(Effective July 4, 1929).
+The emphasized portions of the two sections is ours and will be referred to later.
+We have not been favored with the opinion of the trial court, but the statement is made that the lower court based its conclusions on the authority of Northern Finance Corporation v Weiss et, 31 N.P., (N. S.), 196. The opinion in the cited case was by Honorable P. J. Lausehe, a very fine lawyer and able jurist, then presiding in the Municipal Court of Cleveland, Ohio.
+Counsel for plaintiff. urge that the reported Cuyahoga County case is to be distinguished from the instant case, due to the fact that the amount of the loan therein was more than $300.00 and therefore is controlled by §6346-5a, GC, and the loan in the instant case, being less than $300.00, is controlled by §6346-5. If counsel for plaintiff is correct in that the last paragraph of §6346-5a GC is limited in its application to that section, then, of course, there would be no applicable penal provisions voiding the contract under the facts in the instant case. It is our conclusion that such last paragraph has general application to §6346 GC and all other supplemental sections This conclusion is based on the language of the paragraph wherein it says: “If consideration or charges in excess of those permitted by this act shall be charged * * .
+Had tlie Legislature intended to limit the application of the paragraph to §6346-5a, GC, it would not have used the words “by this act.”
+The only reported case in Ohio dealing with the penal provisions of §6346-5a GC, is the Weiss case, supra.
+Counsel for plaintiff attaches to his brief an unreported case decided by Judge Harrison W. Ewing, of the Common Pleas Court of Cuyahoga County, wherein it was determined that a provision in a chattel mortgage requiring the borrower to keep property insured for a reasonable amount would not invoke the penal provisions of §6346-5a GC. This conclusion was arrived at notwithstanding that the $5.00 insurance premium was taken out of the face $165.00 loan, and would thereby, as a matter of calculation, increase the total charge beyond the 3% per month, as prescribed in the Code. This holding was upon the theory that the insurance was for the benefit of both parties and that the premium was not in fact received by the loan company, but was paid to the insurance company. Judge Ewing cites the case of Niles v Kavanaugh, 179 California, 98 (175 Pacific, 462), in support of his conclusions. An examination of the California case will disclose that it was in point and supports the opinion of Judge Ewing.
+Other cases cited by counsel for plaintiff are the following:
+Snow v Anderson, 270 Ill. App. 453;
+Mason v City Finance Co., 151 Southern (Florida) 521;
+The Foundation Finance Co. v Robbins, 153 Southern (Louisiana) 833.
+There are some points of difference in the reported cases from the instant case, but reasoning by analogy these cases strongly support plaintiff’s contention. In fact, in both the Florida and Louisiana cases, under somewhat similar statutes to ours, the courts of last resort in each state have sustained the chattel mortgage contracts under facts more urgently demanding a contrary decision than in the instant case.
+We have reached the conclusion that under the state of the record in the instant case we can readily and satisfactorily arrive at our conclusion on the letter and spirit of the law as applied to the quoted language from the chattel mortgage independently of precedents from reported cases.
+We again return to the last paragraph of §6346-5a GC. This is the only provision of the act declaring the mortgage contract void and denying right to collect. This provision is in the nature of a penalty or forfeiture. Neither are favored under the law, and therefore must be strictly construed. Note the language in the first few lines of this penalty paragraph:
+“If interest, consideration or charges in excess of those permitted by this act shall be charged, contracted, for or received, * * * .” (Emphasis ours).
+This penalty provision cannot be invoked unless it affirmatively appears that the interest, consideration or charge is in excess of those permitted by the act.
+Sec 6346-5 GC is applicable and controls the amount that might be charged in the instant case. The pertinent portion of this section reads as follows:
+“No bonus, fees, expenses, or demands of any nature whatsoever, other than * * * said total charge of 3% per month * * * •shall be made, paid or received, directly or indirectly, for such loans * * * except court costs upon the actual foreclosure of the security or upon the entry of judgment.” (Emphasis ours).
+The emphasized portion clearly indicates that court costs upon the actúa1 foreclosure and so forth, may be over and above the 3% per month provision.
+Referring now to the quoted portion of the chattel mortgage as contained in defendant’s answer, we draw therefrom the portion providing for additional charges:
+“and out of the proceeds of said sale to pay first, the reasonable cost and expense of taking and keeping and selling the same, including costs; second, the amount of principal and interest and shall be due thereon.”
+It being provided under the Code (§6346-5 GC) that court costs upon the actual foreclosure of the security are collectible over and above the 3% per month, we are led to inquire as to whether or not it affirmatively appears in the pleadings that the interest, consideration or charges are in excess of those permitted by the act.
+It is true. that the ways and means of taking possession of the property on default, disposing of the same and making collection differ from the method contemplated under the act. It may even be said that, in view of the provisions of §8560, GC, the mortgage contract provided for a method of taking possession of the property contrary to Jaw. However, merely being contrary to the contemplated procedure, or even contrary to law, would not work a forfeiture, unless it comes within the clear provisions of the penalty statute. It will only come within the clear provisions of the penalty statute if it affirmatively appears that the mortgage contract provided for interest, • consideration or charges in excess of those permitted by the act. We are unable to so find under the pleadings. We think the fact is that a foreclosure under court proceedings proves more expensive than the not infrequent method of taking possession of property and selling same without court action. It is well recognized that in the ordinary chattel mortgage provision is made for taking possession of property without court action.
+In the instant case there was no attempt to take possession of the property under authority of the quoted portion of the mortgage contract. Plaintiff adopted the procedure of foreclosure as prescribed under the Code. The property covered by the mortgage was household goods and furniture and §8586, GC, specifically provides that property of this description may not be taken except under foreclosure.
+The penal provisions of §6346-5a GC are broad enough to include merely contractual charges, if they be in excess of those permitted by the act. We make this comment for the purpose of showing that we are not in any sense basing our conclusions upon the fact that plaintiff did not attempt to invoke the improper and unlawful provisions of the mortgage contract.
+It is our determination that since the pleadings do not affirmatively show charges in excess of those permitted under the act, the demurrer to the answer should have been sustained.
+The judgment of the lower court will be reversed and the cause remanded for further proceedings according to law.
+Exceptions will be allowed.
+BODEY, J, concurs.
+HORNBECK, J, concurs in judgment.
