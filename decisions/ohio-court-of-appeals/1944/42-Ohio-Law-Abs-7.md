@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3698"
+decided: "1944-05-03"
+citations: ["42 Ohio Law Abs. 7"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, PJ., HORNBECK and GEIGER, JJ., concur."]
+parties: ["EVANS, ESTATE OF, IN RE. WOOLLEY, Exrx., Appellant v. JONES, Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/42/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1725872
+cites_cases: ["140 Oh St 223"]
+---
+
+# Woolley v. Jones
+
+## Majority (BY THE COURT:)
+
+OPINION
+BY THE COURT:
+This is an appeal on questions of law from a judgment of the Probate Court against appellant, Ray Lantz Wooley, as executrix of the estate of Amanda L. Evang, deceased.
+The action originates on a complaint of the executrix against Mary T. Jones, appellee, for concealing assets consisting of jewelry set with diamonds of considerable value. The Probate Judge referred the cause to a Common Pleas Judge for trial who acting as and for the Probate Judge determined the cause in favor of Mary T. Jones and after overruling a motion for new trial entered judgment on the finding. An appeal was prosecuted to this Court. Several grounds of error were assigned. The cause was reversed upon one error which we found to be prejudicial, namely, the refusal of the Court to admit competent and relevant evidence tendered on behalf of the Executrix, Appellant. For the facts and discussion of question decided on the former appeal, see Estate of Evans, 35 Abs. 295. The cáuse was then remanded to -the Probate Court and the subsequent occurrences appear, in part, from the transcript of the docket and journal entries, the bill of exceptions and the explanation thereof in the briefs of counsel for the parties. Of course, we can properly only consider in this Court that which comes to us upon the record and it might be that upon a technical view of the matter the error assigned respecting this phase of the case is not exemplified. However, inasmuch as there seems to be a substantial agreement as to what was done in the trial court, we examine it in the light of all that has come to our attention.
+When the cause was remanded to the Probate Court the matter came on for hearing. At that time, although no formal objection was interposed to Judge McClelland trying the cause, the question whether or not he would try it, upder all the circumstances, was discussed. It seems to have been the understanding that he would endeavor to secure a Common Pleas Judge to act for him in the trial of the cause. However, probably through inadvertence, and possibly without full recollection of the tacit agreement, or probably, because it was not made plain to him that it would be preferred that another Judge hear the matter, he, in a comparatively short time, handed down a written opinion finding for the executrix and against Mary T. Jones, appellee. Some time elapsed, more than three days after the release of this opinion, when a motion for new trial was filed by counsel for Mary T. Jones. Thereafter, counsel met with the Probate Judge and after a discussion of the status of the case, Judge McClelland declined to journalize the opinion rendered by him and thereupon, formally certified, the cause to the Honorable Joseph M. Clifford, Judge of the Common Pleas Court of Franklin County, to act in the place of the Probate Judge in the hearing and determination of the proceédings. The counsel for the executrix objected to this procedure and noted her exceptions thereto.
+The cause then came before Judge Clifford and at this time counsel again objected to further proceedings before Judge Clifford, which objections were overruled and trial was had. Judge Clifford found for Mary T. Jones. Upon motion for new trial being filed he overruled it and entered judgment on the finding. This appeal is prosecuted from that judgment.
+There are eight numbered assignments of error in this Court which may be epitomized under two general headings:
+1. Error in the proceedings in the Probate Court and subsequent to the filing of Judge McClelland’s decision.
+2. That the judgment entered is contrary to law and against the manifest weight of the evidence.
+It is our best judgment, that the action of Judge McClelland in declining to journalize his decision and in certifying the cause to Judge Clifford for trial was not prejudicial error. His opinion never attained the dignity of a decision and no order was made thereon which is final or a judgment. It was an interlocutory occurrence. True, it reached an unusual stage. The reason for that which was done is plain, — obviously a desire of Judge McClelland to step aside if there was any question urged as to the propriety of his entering final judgment in the cause. It is well established that the overruling of a motion for new trial is not a final order, and that in the situation here presented the only order which would have been final and which could have been the basis of an appeal would have béen the entering of a judgment on the decision of Judge McClelland. We are not without authority on the question presented by this appeal:
+“A trial court may withdraw its opinion prior to entry of judgment. Similarly, an appellate court has inherent power to withdraw its'opinion at any time, so long as it retains jurisdiction of the case, in which case of withdrawal such opinion should be treated as not rendered.” 21 C. J. S., 405.
+We are confronted with In re Estate of Lowry, 140 Oh St 223. We do not purpose to consider or discuss the ramifications of this decision. We are satisfied to say that, if in this case it be given full force and effect in all of its implications, it would do no more than to provide appellant the opportunity to take steps to require Judge McClelland to act further after he had handed down his opinion and thereafter declined to do more, if in fact he did not withdraw his opinion. In the Lowry ease there was a judgment formally journalized and the question presented was certain in this situation. The filing of the written decision of the Court caused the time to begin to run within which the motion for a new trial should be filed.
+The second error assigned is that the judgment is against the weight of the evidence.
+The fact that three judges have passed upon the evidence in this case, two of them having resolved it in favor of the appellee and one in favor of the executrix, is convincing that reasonable minds may differ upon the probative effect of the evidence. True, Judge Reynolds opinion was rendered without all of the evidence upon which the other two Judges acted. However, Judge Clifford considered and acted upon all of the competent and relevant evidence.
+It would' serve no good purpose to set forth and discuss the evidence in detail. We realize that, as presented by counsel for appellant, there are developments which do very properly raise serious questions as to the weight to be given some of the testimony.
+In the last analysis this case must be decided on this review upon the weight of the evidence. To reverse the judgment all three members of this Court must concur. We have not been able to reach such a decision, although one member is committed to the proposition that the judgment is manifestly against the weight of the evidence. In the situation thus developed the judgment must be affirmed.
+BARNES, PJ., HORNBECK and GEIGER, JJ., concur.
