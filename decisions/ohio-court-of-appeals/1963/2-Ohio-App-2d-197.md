@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1594"
+decided: "1963-11-29"
+citations: ["2 Ohio App. 2d 197"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., and Jones, J., concur."]
+parties: ["Bailes et al., Appellees, v. Martino, Zoning Inspector; Hunt et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-2d/2/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1456982
+cites_cases: ["160 Ohio St. 9", "173 Ohio St. 168", "69 Ohio Law Abs. 289", "89 Ohio App. 289"]
+---
+
+# Bailes v. Martino
+
+## Majority (France, J.)
+
+France, J.
+This matter was heard on the motion of the plaintiffs, appellees herein, to dismiss appeal taken by Leonard Hunt et al., as affected property owners, from a judgment of the Court of Common Pleas of Trumbull County which reversed a decision of the Zoning Zoard of Appeals of Howland Township and ordered the issuance of zoning permits for seven house trailers.
+Plaintiffs, owners of a tract of land used as a trailer pari; established before the adoption of the township zoning resolution as a nonconforming use, applied for a zoning certificate for additional units from the zoning inspector. It was refused, Appeal and request for variance was taken to the Board oí Zoning Appeals, where notice was given and hearing had. At this hearing appellants participated as individual protestante but without counsel claiming to represent them individually. The appeal was disallowed, the variance refused and the decision of the zoning inspector affirmed by the board.
+Appeal was taken by plaintiff to the Court of Common Pleas pursuant to Chapter 2506, Revised Code, with the adverse parties denominated in the notice of appeal as the zoning inspector, the Howland Township Trustees, and the Board of Zoning Appeals itself. Briefs were filed and proceedings had, with counsel for plaintiff and counsel for the township and its zoning inspector participating. There is nothing in the record of the Common Pleas Court proceeding to indicate that appellant property owners were specially notified of the appeal, or that they participated in the proceedings there, or that they applied for leave of court to become parties appellee or even thaf they had then engaged counsel to represent them. It was only at the conclusion of the proceedings that they appeared to file notice of appeal.
+Appellees claim that appellants were not parties to the Common Pleas Court proceedings and that, since Section 2506.04, Revised Code, limits the right of appeal from the court to “any party,” they have no standing to appeal. Appellants claim that by appearing and voicing individual objections to the variance at the Board of Zoning Appeals level they became parties within the meaning of Roper v. Board of Zoning Appeals, 173 Ohio St. 168, and could not be deprived of that status thereafter.
+We express considerable doubt that appellants here ever net the test set by the Roper ease. There are about thirty inlividual appellants and it is by no means clear that any substantial number attended the board hearing. Of the group mly two spoke more than a sentence there; only seven spoke as nuch as a complete sentence; and two others in a roll call of ;he audience responded “against” the variance. None made my showing that his property adjoined or was even close to ;he trailer park and none indicated a desire to appeal if the lecision of the board was adverse to his wishes. Even assumng, however, that this would entitle them to become parties to ;he appeal to Common Pleas Court if they wished, it is significant that not one of them showed desire to intervene as a party lefendant when the decision was appealed to Common Pleas Dourt. They were apparently content that their interests were adequately protected by the zoning inspector and the township, attorney. It was only when these latter officials were unsuccessful in the Common Pleas Court proceeding that the present apcellants interested themselves in court procedure.
+It seems clear to us that present appellants were entitled, on their application, to intervene as parties defendant-appel.ees in the appeal from the board’s decision to the Court of Common Pleas. See statement of facts in Roper v. Board of Zoning Appeals, 173 Ohio St. 168, and cases collected in 46 A. L. R. 2d at 1060. Had they done so they would have had status as parties within the meaning of Section 2506.04, Revised Code, to appeal the judgment of that court. But since they never acquired the status of parties in the court below or sought in any way to be heard there, they acquired no right to be heard in this court in protest of the alleged errors.
+Appellants argue that they must be given status as such for otherwise no one could appeal the judgment of the Common Pleas Court. In support of their claim that neither the board nor the inspector could appeal, they cite Minnis v. Hamilton County Board of Zoning Appeals, 89 Ohio App. 289 (First District), and Union Cemetery Assn. v. Franklin County Board of Zoning Appeals, 69 Ohio Law Abs. 289 (Tenth District), which in turn relies upon Corn v. Board of Liquor Control, 160 Ohio St. 9. We think these decisions, so far as they affect the right of the zoning inspector to appeal, are no longer controlling since they were decided before the passage of Chapter 2506, Revised Code, which eliminated the test of “person adversely affected” and substituted that of “any party” which would include the zoning inspector.
+We conclude that, unlike appellants, the zoning inspector was a party to the Common Pleas Court proceeding and that, as such, he was entitled to appeal its decision if he chose. He apparently did not choose to. But present appellants could not require him to appeal nor can they substitute themselves for him in exercising the right of appeal. They voluntarily elected to rely on him to support their point of view through the lower court proceedings; they cannot now be heard to say “we could have done it better and we want a chance to show it on the next round.” Having failed to protect their interests by becoming parties to the first appeal, they should not now be permitted to prolong a litigation which they participated in and then abandoned.
+The motion to dismiss the appeal is sustained.
+Motion sustained.
+Brown, P. J., and Jones, J., concur.
