@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2389"
+decided: "1930-08-16"
+citations: ["8 Ohio Law Abs. 682"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges JUSTICE, CROW and GARLING (3rd Dist) sitting.", "Crow and Garling, JJ, concur."]
+parties: ["EDMUND E BURKE v MARGARET BURKE"]
+source_url: "https://static.case.law/ohio-law-abs/8/cases/0682-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1634163
+---
+
+# Burke v. Burke
+
+## Majority (JUSTICE, PJ.)
+
+JUSTICE, PJ.
+The trial court, over the objection and exception of the defendant received in evidence a certain conversation between plaintiff’s mother and defendant’s mother, which occurred without the presence of the parties and without their knowledge, but the substance of which was thereafter communicated to them. In admitting this conversation in evidence, the trial court erred, but not to the prejudice of the defendant, as the utterances of the plaintiff’s mother therein tend to impeach testimony theretofore given by her to the effect that the defendant had never told her he desired to live with his wife and child, apart from his wife’s parents.
+Counsel have not invited our attention, either in argument or by brief, to other instances of claimed error in the admission of evidence. None, therefore, other than as aforesaid, has been considered. Section 12248 GC.
+The other claim of error relates to the sufficiency of the evidence. In passing upon this assignment of error, we were compelled to, and have re,ad the entire record. It discloses the following facts:
+Defendant is twenty five years of age. He is honest, upright, industrious, kind hearted and forgiving. He is a graduate of the industrial engineering department of the University of Michigan. He has an excellent reputation in the community in which he lives. He has an earning power of $3900.00 yearly. Plaintiff is an only child. She is well educ'ated, and has a good reputation. Prior to her marriage she was a school teacher. She is temperamental, domineering and self centered. Since their marriage, which occurred on March 18, 1926, the parties have lived at plaintiff’s insistence, with her parents. Defendant, for a long time prior to their separation, which took place on November 16, 1929, had been desirous ,of living with his wife and his child, who was born in December following the marriage, separate and apart from his wife’s parents. He frequently had so told his wife. She, however, would not leave her parents’ home.
+The defendant’s parents live in the City of Toledo. They are respectable folks. In the early days of her married life, plaintiff would go to their home. They always treated her kindly. Long prior to the separation of the parties, however, plaintiff, without any reason or justification for so doing, not only ceased her visitations to defendant’s parents’ home, but insisted that he have nothing to do with them. Naturally, he refused to comply with such a wicked request. Occasionally, he would have luncheon with his mother, which would cause his wife to become enraged, and for days thereafter, she and her mother, would heap abuse upon him. On such occasions the plaintiff’s mother would usually end the tirade by ordering him to leave the house. He adores his wife, strange as it may seem, and dearly loves his child, and stood for such abuse just as long as it was humanly possible to endure it, and then he left. Prior to and after his leaving, he pleaded with his wife to go with him. He was financially able to care for her and his child, and was willing and anxious to do so. He went to a priest, his wife being a Catholic, and asked the good father to intercede in his behalf, which the father did. But, all was to no avail. The plaintiff was .adamant, and her answer to his entreaties to come and live with him in a house, which she could select, was this action for divorce.
+There are, of course, other facts in this case, but they are not controlling and hence are not mentioned.
+In the light of the foregoing facts, established, as we see them by the greater weight of the evidence, we are unanimously of the opinion that the judgment is clearly and manifestly against the weight of the evidence.
+The judgment of the court of common pleas is obviously wrong. The defendant is the one who is aggrieved; not the plaintiff. He was kind to the plaintiff and considerate of her every wish. True, he refused to give up his people, especially his beloved mother. In so doing, however, he did absolutely right. He would have been entirely devoid of decency and manhood if he had done otherwise. He had the right to select the matrimonial domicile, and it was the duty of the plaintiff to submit to his determination and to follow him to the domicile of his choice, provided, of course, that he, in making the selection, acted in good faith and with due regard to her comfort, health, welfare, safety and peace of mind. That he did so act, is not questioned. Her parents live in the City of Toledo and all, that he asked of her was to select, in said city, a house within his means, and therein live with him and their child. Surely, such a request was reasonable. Volume 30 Corpus Juris, page 511.
+It seems fitting to say in passing, especially in view of the record, that marriage is more than a mere civil contract between the parties. To some of us it is a sacrament, and to all of us it is a status which is not revocable at the will of the parties, but which can be dissolved only by authority of the state.
+The grounds for divorce in Ohio are purely statutory. The marriage relation, therefore,' should never be dissolved until and unless some statutory ground exists. Incompatability, disappointments in social and financial aspirations and mutual desires of the parties to obtain their freedom from the bonds of matrimony, are not grounds for divorce in this state, and it is high time that the courts cease recognizing them as such. Society is not sub-served by the judicial destruction of homes.
+It - will indeed be most lamentable if plaintiff does not recant and live out her days with her husband. Society, the interests of the child Gloria, and the teaching of plaintiff’s church require it. However, this court cannot make her be true to her plighted troth, but it can and does say that she shall not, in this cause, divorce and receive maintenance from one who has never wronged her.
+Entertaining these views, it follows that the judgment of the court of common pleas should be reversed. Judgment reversed and cause remanded.
+Crow and Garling, JJ, concur.
