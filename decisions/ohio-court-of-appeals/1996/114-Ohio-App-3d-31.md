@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA95-11-185 and CA95-11-194"
+decided: "1996-09-16"
+citations: ["114 Ohio App. 3d 31"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Walsh, P.J., William W. Young and Powell, JJ., concur."]
+parties: ["GOLDEN YEARS NURSING HOME, INC., Appellee and Cross-Appellant, v. GABBARD et al.; Star Bank Corporation, Appellant and Cross-Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/114/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 281673
+cites_cases: ["14 OBR 205", "14 Ohio App.3d 187", "375 N.E.2d 46", "470 N.E.2d 459", "54 Ohio St.2d 64", "640 N.E.2d 1186", "8 O.O.3d 73", "94 Ohio App.3d 430"]
+---
+
+# Golden Years Nursing Home, Inc. v. Gabbard
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be considered upon notices of appeal, the transcript of the docket and journal entries, the transcript of proceedings and original papers from the Butler County Court of Common Pleas, and upon the briefs and oral arguments of counsel. Now, therefore, the assignments of error having been fully considered, they are passed upon in conformity with App.R. 12(A) as follows:
+Defendant-appellant and cross-appelíee, Star Bank Corporation, appeals an order of the Butler County Court of Common Pleas denying appellant’s motion for summary judgment and sustaining the summary judgment motion of plaintiffappellee and cross-appellant, Golden Years Nursing Home, Inc.
+From 1972 until 1991, Nancy Gabbard, appellee’s office manager, received at the nursing home Social Security checks drawn on the United States Treasury and made payable either to individual patients or to “Golden Years Nursing Home for [an individual patient].” From 1986 until 1991, Gabbard engaged in an embezzling scheme involving the checks whereby she would have certain patients indorse their own checks in blank, ie., each patient-payee would sign his own name on the back of the check placing no restrictions on the manner in which the check could subsequently be negotiated. Gabbard would then cash the checks and either keep the cash or deposit the funds into her personal bank account.
+In 1992, after Gabbard’s scheme was discovered, appellee filed this action against appellant, alleging that appellant had converted appellee’s property by cashing checks with forged indorsements. In June 1992, appellant moved for summary judgment. The trial court granted appellant’s motion with respect to the Social Security checks, finding that appellant was a holder in due course (“HIDC”) of the checks. Appellee appealed the trial court’s decision to this court. We reversed the judgment of the trial court on the issue of the Social Security checks, finding that a question of fact existed as to whether appellant had been negligent in cashing the checks. We remanded the cause to the trial court. See Golden Years Nursing Home, Inc. v. Gabbard (1994), 94 Ohio App.3d 430, 640 N.E.2d 1186.
+After further developing the record, appellant and appellee filed cross-motions for summary judgment. In May 1995, the trial court granted summary judgment to appellee, finding that appellant was not an HIDC because it negotiated the Social Security checks over forged indorsements. The trial court also held that appellant failed to produce evidence supporting its affirmative defenses and, therefore, summary judgment was appropriate as to these defenses. A trial was held on the issue of damages, and appellee was awarded $34,225.21. Both parties now appeal.
+Appellant presents the following assignments of error for review:
+Assignment of Error No. 1:
+“The trial court erred to the prejudice of appellant cross-appellee Star Bank in holding that Star Bank negotiated the checks at issue over ‘forged’ or ‘unauthorized’ signatures.”
+Assignment of Error No. 2:
+“The trial court erred to the prejudice of appellant/cross-appellee Star Bank in granting summary judgment against it when appellee/eross-appellant failed to address Star Bank’s affirmative defenses.”
+Appellee cross-appealed, raising two assignments of error:
+Assignment of Error No. 1:
+“The trial court erred in denying GYNH’s [Golden Years Nursing Home’s] request for prejudgment interest.”
+Assignment of Error No. 2:
+“The trial court erred in disregarding a portion of GYNH’s uncontested evidence on the amount of its damages.”
+In its first assignment of error, appellant argues that the genuine indorsement of the individual payee designated on face of an instrument cannot constitute an unauthorized signature or a forged indorsement. Under the circumstances presented in this case, we agree.
+Under the Ohio Uniform Commercial Code, the term “unauthorized signature” “includes both a forgery and a signature made by an agent exceeding his actual or apparent authority,” i.e., it occurs in the context of an agency relationship. 6 Anderson, Uniform Commercial Code (3 Ed.1993) 326, Section 3-404:1, Official Code Comment 1; R.C. 1301.01(QQ) (UCC 1-201). Appellee does not argue that the patients forged their own signatures as that term is commonly understood. Rather, appellee contends that the signatures • constitute unauthorized indorsements and, thus, were also forged indorsements because “for purposes of a [Section 3-419] conversion action, a forged indorsement and an unauthorized indorsement are synonymous.” In addition, appellee does not argue that the patients were agents of the nursing home who signed the checks without actual or apparent authority. Rather, appellee contends that because the patients had assigned their beneficial interest in the checks to appellee, any signature other than appellee’s corporate stamp was “unauthorized.”
+We note that appellee’s use of the term “unauthorized signature” does not fall within the scope of the UCC definition of that term, ie., “made without actual, implied or apparent authority.” More important, assuming that the patients had assigned their interest in the checks to appellee, any separate agreement between the patient-payees and appellee would not affect the negotiability of patients’ cheeks bearing the patients’ genuine indorsements.
+R.C. 1303.18(B) (UCC 3 — 119[2]) provides that a “separate agreement does not affect the negotiability of an instrument.” Negotiability “is always to be determined by what appears on the face of the instrument alone * * 5A Anderson, Uniform Commercial Code 389, Section 3-119:1, Official Code Comment 5. See, also, Alves v. Baldaia (1984), 14 Ohio App.3d 187, 188, 14 OBR 205, 207, 470 N.E.2d 459, 462 (“a separate writing may affect the terms of an instrument * * *, [but] the Official Comment * * * makes clear that the inquiry is controlled by what the instrument itself states or reflects, not what the collateral agreement says.”) (Emphasis sic.)
+If an instrument is payable to order it is negotiated by delivery with any necessary indorsement. R.C. 1303.23 (UCC 3-202). However, once a payee indorses the check in blank, it becomes bearer paper which can be “negotiated by delivery alone.” R.C. 1303.25(B) (UCC 3-204). “Negotiation is the transfer of an instrument in such form that the transferee becomes a holder.” R.C. 1303.23(A) (UCC 3-202). Thus, in this case, Gabbard became a holder of the checks when the checks, indorsed in blank by the patient-payees, were delivered to her. When appellant accepted the checks that were indorsed with the genuine signatures of the payees, the checks bore no indication that they had been assigned to appellee. Appellant cashed the checks in good faith without notice of any defenses and thus became a holder in due course. R.C. 1303.31 (UCC 3-302).
+This analysis does not change even if Gabbard presented the checks to the payees for their indorsement with the intent to embezzle the funds eventually:
+“Assuming that the stolen bearer instrument does not bear a restrictive indorsement, the thief will himself be a holder and whether or not he is a holder, he can constitute his transferee a holder simply by transfer. If his transferee then cashes the check and so gives value in good faith and without notice of any defense, that transferee will be a holder in due course under 3-302, free of all claims to the instrument on the part of any person and free of all personal defenses of any prior party.” White & Summers, Uniform Commercial Code (1988) 765, Section 17-3.
+Summary judgment is appropriate when a trial court finds “(1) that there is no genuine issue as to any material fact; (2) that the moving party is entitled to judgment as a matter of law; and (3) that reasonable minds can come to but one conclusion, and that conclusion is adverse to the party against whom the motion for summary judgment is made, who is entitled to have the evidence construed most strongly in his favor.” Harless v. Willis Day Warehousing (1978), 54 Ohio St.2d 64, 66, 8 O.O.3d 73, 74, 375 N.E.2d 46, 47.
+Under the circumstances of this case, we cannot find as a matter of law that the genuine signatures of the payees were forged. Nor, for the reasons stated above, can we find that the signatures were unauthorized. Therefore, we find that the trial court erred in granting summary judgment for appellee. Appellant’s first assignment of error is sustained.
+Because of our decision on the first assignment of error, appellant’s second assignment of error and appellee’s assignments of error under the cross-appeal are rendered moot.
+The assignments of error properly before this court having been ruled upon, it is the order of this court that the judgment appealed is reversed, and this cause is remanded for further proceedings according to law and not inconsistent with this decision.
+Judgment accordingly.
+Walsh, P.J., William W. Young and Powell, JJ., concur.
