@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "E-86-58"
+decided: "1987-08-14"
+citations: ["41 Ohio App. 3d 113"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Connors, Resnick and Glasser, JJ., concur."]
+parties: ["Fish, Appellant, v. Ford Motor Company, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/41/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713013
+cites_cases: ["149 Cal. Rptr. 847", "25 OBR 55", "367 N.E. 2d 651", "375 N.E. 2d 46", "42 N.Y. 2d 952", "506 P. 2d 329", "54 App. Div. 2d 659", "54 Ohio St. 2d 64", "8 O.O. 3d 73", "8 Wash. App. 347", "85 Cal. App. 3d 969"]
+---
+
+# Fish v. Ford Motor Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause is before the court on appeal from a decision of the Erie County Court of Common Pleas granting summary judgment to defendant-appellee on November 3, 1986. It is from that judgment that plaintiff-appellant, Larry B. Fish, filed a timely notice of appeal asserting the following assignment of error:
+“The trial court erred in the granting of summary judgment against the plaintiff.”
+The facts leading to the instant appeal can be briefly stated. Appellant is a tool and die maker employed for the past thirty years by defendant-appel-lee, Ford Motor Company. Under ap-pellee’s employee suggestion program, appellant submitted an idea for building a common adapter for carburetors or fuel injection, utilizing a remote air cleaner system. If appellant’s idea was accepted, he was eligible for awards up to a maximum of $6,882.
+Appellant submitted his first proposal on May 20, 1977. This idea was rejected by appellee on the ground that it was not cost effective and would not work. On August 28, 1980, appellant resubmitted the idea, and again appel-lee rejected the idea. On February 1, 1982, appellant submitted his idea for the third time. Prior to this third submission, appellee began using this idea in certain models of cars. Appellee first used this idea in the 1982 Ford Escort. On June 28, 1982, appellee gave appellant final rejection of the idea for the following reasons:
+“Additional components (bennet, hose with sealing ends) reduced performance of hot and cold system. Additional cost for extra parts. On a conventional system (carburetor) it is cheaper to mount an air cleaner on the engine that [sic] go remote. Additionally, a hot air system loses its effectiveness if it gets very far away from intake manifold. Engine sizes and packaging constraints complicate this issue further.”
+Appellee did not give appellant a cash award but presented him with a certificate of award for his proposal on September 2,1983 in recognition of his contribution to the improvement of operations in the Ford Motor Company. Appellant initiated this claim for compensation based upon appellee’s failure to award monetary recognition for his idea. Upon appellee’s motion for summary judgment, the motion was granted and the complaint dismissed.
+The standard for granting summary judgment consists of three criteria:
+“* * * (1) that there is no genuine issue as to any material fact; (2) that the moving party is entitled to judgment as a matter of law; and (3) that reasonable minds can come to but one conclusion, and that conclusion is adverse to the party against whom the motion for summary judgment is made, who is entitled to have the evidence construed most strongly in his favor.” Harless v. Willis Day Warehousing Co. (1978), 54 Ohio St. 2d 64, 66, 8 O.O. 3d 73, 74, 375 N.E. 2d 46, 47.
+The issue at hand is whether appellant is entitled to a monetary award under the employee suggestion plan.
+In September 1956, appellant signed an employment agreement and began working for appellee. The employment agreement contained a clause which conveyed ownership of any invention, discovery or improvement made, conceived or developed by appellant to the company. Each time appellant submitted his idea through the suggestion plan he signed documents with similar clauses. The suggestion plan documents also contained an additional clause which stated:
+“I agree that any decision made by my employer regarding eligibility, adoption, rejection, award or commendation with reference to my idea shall be final and binding, and that my employer shall have the right to withdraw or change the program at any time.”
+The signing of these four documents (the employment agreement and the • three proposal plan documents) created a contractual relationship between appellant and appellee. Under the terms of this contract, appellee’s decision regarding compensation was final and binding.
+One jurisdiction in Ohio has addressed the validity of an employee suggestion program contract and determined that the employer’s decision is final and binding. In Alderton v. Armco, Inc. (1985), 25 OBR 55, 57, the Court of Appeals for Butler County stated: “* * * By submitting his suggestions to Armco, [the plaintiff] * * * submitted to the terms of that suggestion program. * * *”
+Other state’s courts have also upheld suggestion program contracts, such as a Washington appellate court which held that the employer’s decision was final and binding based upon the following:
+“* * * By the terms of the present suggestion system, there were no limits on the authority of the committee.
+“* * * The employee knew [payment was within the discretion of the employer] * * * and proceeded under the rules of the employer’s suggestion system nevertheless.* * *” Calkins v. Boeing Co. (1973), 8 Wash. App. 347, 352-353, 506 P. 2d 329, 332.
+Courts in California and New York have also found suggestion program contracts to be valid. See Lisec v. United Air Lines, Inc. (1978), 85 Cal. App. 3d 969, 149 Cal. Rptr. 847; Milich v. Schenley Industries, Inc. (1976), 54 App. Div. 2d 659, 387 N.Y. Supp. 2d 641, affirmed (1977), 42 N.Y. 2d 952, 398 N.Y. Supp. 2d 145, 367 N.E. 2d 651.
+The purpose of having an employee suggestion plan is to reward ideas and promote employee participation in the manufacturing process. These programs are to give the employees incentives to work harder and generate possible improvements. The rewards given may be minimal compared to the benefits to the company, but an employee that is rewarded may work more eagerly knowing quality work will be appreciated.
+At the same time, the clauses in the employment contract and the proposal plan documents must be upheld in order to protect the company’s interests. Companies such as the Ford Motor Company must be allowed to protect themselves from situations in which employees use the company’s technology, time, equipment and money to develop inventions only to market them either for themselves or to the employer’s competitors.
+In the instant case, the rejection letter contained a clause which allowed appellant to reopen his file for up to one year by resubmitting his idea within thirteen months. The letter reads in part:
+“* * * Should you fail to resubmit and the idea is later used by the Company or later submitted by someone else, no consideration for an award or commendation can be given to you for this case.* * *”
+Appellant submitted proposals on May 20, 1977, August 28, 1980 and February 1, 1982. Both resubmissions were beyond the allowable thirteen-month period. By failing to meet the time-limit clause of the rejection letter, appellant is precluded from consideration of a monetary award.
+This case presents an unpleasant situation for both the employer and employee. Prior to submitting his idea in 1977, appellant had worked for the Ford Motor Company for over twenty years. He was interested and willing to give that extra effort to improve the quality of the products of his employer. Appellant was not guaranteed a reward, nor was he obligated to either work on his ideas or submit them to the Ford Motor Company, but because of his loyalty and his faith in the suggestion program, appellant submitted his idea to the company. After being rejected, he continued to work on his idea and resubmitted it on two separate occasions.
+Allegedly, appellee is presently using a system similar to appellant’s proposal. The record does not disclose whether it was solely appellant’s idea which led to the use of the adapter for carburetors or whether this idea came from other sources as well. In any event it is clear that appellant, as a result of the rejection of his idea and alleged later use by appellee, has lost faith in Ford Motor Company and its fairness in administering the employee suggestion program. It also can be assumed' that his co-workers were aware of this situation and they also may have lost respect for the fairness of appellee toward its employees. As a result, incentives to submit ideas may have been drastically reduced if employees have seen workable suggestions and inventions of other employees going unrewarded.
+This court, however, having considered the evidence most strongly in favor of appellant, finds appellant ineligible for a monetary award based upon the provisions of the suggestion program as well as his failure to resubmit his idea within the time limit prescribed by the program. Accordingly, no genuine issue as to any material fact exists and reasonable minds could only come to a conclusion adverse to appellant. Appellee is, therefore, entitled to judgment as a matter of law. Harless, supra. We, therefore, find that the trial court did not err in granting summary judgment in favor of ap-pellee. Appellant’s sole assignment of error is found not well-taken.
+Judgment affirmed.
+Connors, Resnick and Glasser, JJ., concur.
