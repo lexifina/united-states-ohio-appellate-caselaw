@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1461"
+decided: "1938-01-13"
+citations: ["26 Ohio Law Abs. 682"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, PJ. and HORNBECK, J. concur."]
+parties: ["STATE v MONTAVON"]
+source_url: "https://static.case.law/ohio-law-abs/26/cases/0682-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685456
+cites_cases: ["133 Oh St., 111", "44 Oh St., 679", "66 A.L.R., 628"]
+---
+
+# State v. Montavon
+
+## Majority (By GEIGER, J.)
+
+OPINION
+By GEIGER, J.
+This matter is before this court challenging the authority of the court of common pleas to sentence and confine in a penal institution a defendant, who has plead guilty to an indictment under such circumstances as would lead the defendant to believe that he would receive a suspended sentence.
+The claim of the defendant is that the court should permit him to withdraw his plea of guilty and enter a plea of not guilty. Much has been said in reference to the circumstances under which the defendant plead guilty, but manifestly this court is confined to errors apparent on the record as there is no bill of exceptions. To present other errors claimed a bill is necessary.
+There appears from the docket to be considerable confusion in the procedure, which ultimately resulted in the ■ sentence imposed upon the defendant.
+According to the entry on January 27, 1936, the defendant plead not guilty. On February 17, 1937 a motion was filed asking permission to withdraw former plea of guilty and on the same day an affidavit was filed supporting motion to withdraw plea of guilty. The docket discloses that on March 20, 1937 a motion for new trial was filed, although the file mark indicates that it was filed February 20, 1937. The motion was on the ground that the court erred in refusing to permit the defendant to withdraw his former plea of guilty and enter a plea of not guilty for the reasons given and for irregularities in proceedings of the court in failing to comply with §13451-1 GC that the verdict is not sustained by sufficient evidence and for other errors.
+So far as we can find from the docket as submitted to us, neither on February 20 nor March 20 had there been a plea of guilty entered. On April 22, 1937, an entry nunc pro tunc as of February 17, 1937 overruling a motion to withdraw the plea of guilty was filed, and a further entry showing that the defendant retracts his former plea of not guilty and enters a plea of guilty. Whereupon, on the usual inquiry being made, the court finds that the defendant is over 16 years of age and under 30 years of age, towit, of the age of 30 years and adjudged that he be imprisoned in the Ohio Reformatory and the entry concludes, "It is hereby ordered that this entry be filed nunc pro tunc as of February 17, 1937 to which defendant excepts.” On the same day an entry was filed striking from the files the motion for a new trial and another entry finds that said motion has no place on the record and it is therefore ordered that the motion be dismissed from the files. On that date also a notice was given of appeal from the judgment and sentence to the Court of Appeals.
+The first matter urged by defendant is-that the common pleas court had no authority .to enter a nunc pro tunc order on April 22, effective as of February 17, either upon the motion for permission to withdraw former plea of guilty or upon the judgment imposing sentence.
+The power to enter orders nunc pro tunc i§ restricted to placing on the record evidence of a judicial action which has actually been taken by the court as of the date on which the order is directed to be effective.
+The province of such order is to correct the record so as to make it set forth an act of the court which though actually done, _ was not entered upon the journal and it can not be used so as to make it show that some act was done at the former date which might or should have been, but was not then performed. See Insurance Co. v Kohn 133 Oh St., 111, Ohio Bar December 27, 1937. The province of such entry is to make the record speak the truth and to make it show what did occur that does not appear in the record to have occurred. Both nunc pro tunc entries being mads effective as of February 17, we must address ourselves to that particular date to ascertain, if we can from the record, why it was to be effective on that date.
+On February 17, a motion was filed to withdraw plea of guilty, accompanied by an affidavit, and nothing further appears from the docket entries. From the file mark a motion for new trial was filed on February 20, but docketed as of March 20.
+From this record, we conclude that on February }7 there was an appearance before the court upon the motion to withdraw former plea of guilty which was overruled and that thereupon the defendant was- arraigned and sentenced and that the entries of April 22nd refer back to this date and for that reason are made effective as of February 17. The entry in which the sentence was imposed filed April 22nd, effective February 17, states that he retracts his plea of not guilty, presumably the plea entered on January 27. The power to make a nunc pro tunc entry may be exercised in crirninal prosecutions as well as in civil cases. Benedict v State 44 Oh St., 679. The time for motion for new trici! and appeal began to run not from February 17 but from April 22.
+Withdrawal of Plea of Guilty
+The next matter complained of is that the court abused its discretion in refusing to permit the defendant to withdraw a plea entered under a promise of a suspended sentence, after the court had shown its intention to and did disregard the promise alleged to have been so made to the defendant and which induced his plea of guilty.
+Whether or not the court should grant the motion of the defendant, to withdraw a plea of guilty rests within the sound discretion of the court.
+“A motion to withdraw a plea of guilty and to be allowed to enter a plea of not guilty addresses itself to the discretion of the trial judge before whom the plea is entered, and, in the absence of a clear abuse of that discretion, the appellate court will not interfere.” 66 A.L.R., 628.
+Pleas should only be set aside upon showing that the defendant is not guilty of the crime charged and a showing of the nature of the defense. Of course, sound discretion means sound discretion guided by the law and must be governed by rule and not by humor. Where the defendant lias been denied his constitutional right, the rule as to discretion will not control. The presumption is in favor of the ruling of the trial court and his refusal to grant a withdrawal should be sustained, unless there is a showing of circumstances indicating that the discretion was abused.
+The judgment of the court overruling the motion is entitled to every reasonable intendment in its support and it should be set aside only upon a clear showing of a prima facie defense on the merits, or an abuse of discretion.
+Counsel has cited a number of cases all of which are of interest, but all involve a showing of facts from which the reviewing court could determine whether or not there was an abuse of discretion.
+In this case there is no showing of facts except the single affidavit of the accused himself. To be sure, counsel recited in his motion the facts that he claims existed, but a motion is not evidence, neither is the statement of counsel in his brief, evidence.
+Dismissal of Motion for New Trial
+A further complaint of the defendant is the disposition made of a motion for new trial filed by the defendant under date of February 20, 1937, (but- docketed March 20, 1937) to which allusion has heretofore been made.
+On April 22, 1937, the court made the following order: “This cause coming on to be heard upon the motion of the defendant herein for a new trial, upon consideration the court finds that said motion has no place on the record of these proceedings and it is therefore ordered, adjudged and decreed that said motion be stricken from the files.”
+The motion asks that the verdict and sentence be set aside and a new trial granted for the alleged error of the court m refusing to permit the defendant to withdraw his former plea of guilty and enter a plea of not guilty and that the verdict is not sustained by sufficient evidence and for other errors occurring at the trial.
+We are of the opinion that the defendant had the right to file such a motion and it was the duty of the court to pass upon it and not strike it from the files as having no place on the record. Possibly the court proceeded on the theory that the defendant having plead guilty there was no occasion for a motion for new trial, but the motion itself presents thé claim that the court erred in not permitting the withdrawal of this plea. The defendant would have no way to present this error to this court unless the motion was passed upon by the court. We think there is error in the court striking from the files this motion.
+The ruling of the court upon the grounds stated in the motion, and the overruling of the motion may afford the defendant his only opportunity to present to this court any errors he may assert or any abuse of discretion by the trial court he may claim. Such abuse of discretion must be shown by a bill of exceptions disclosing the evidence upon which the claim is based, unless it is disclosed by the record.
+Cause remanded to trial court with instructions to hear and pass on the motion, for new trial. Cause remanded in accordance with this opinion.
+BARNES, PJ. and HORNBECK, J. concur.
