@@ -1,0 +1,64 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2600"
+decided: "1961-04-15"
+citations: ["115 Ohio App. 145"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kerns and Sherer, JJ., concur."]
+parties: ["Mein, Appellee, v. United States Car Testing Co. et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/115/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1447646
+cites_cases: ["110 Ohio App., 540", "120 S. E., 553", "134 Ohio St., 163", "138 Ohio St., 376", "2 P., 840", "30 Kan., 585", "31 Ga. App., 303"]
+---
+
+# Mein v. United States Car Testing Co.
+
+## Majority (Crawford, P. J.)
+
+Crawford, P. J.
+This appeal on questions of law is taken from a judgment of the Court of Common Pleas entered in favor of the plaintiff, appellee herein, against the defendants, appellants herein, in the sum of $1,076.82, with interest. This judgment was based upon a judgment previously recovered in the District Court of Mead County, Kansas. The judgment appealed from was rendered by the court, a jury having been waived.
+We have not been supplied with a bill of exceptions. The transcript and original papers, supplemented by the briefs, indicate that the Kansas judgment was rendered upon a cause of action in contract. Plaintiff claims it was a contract of insurance ; that defendants ’ entering into the contract constituted engaging in the insurance business in the state of Kansas within the meaning of Section 40-2002 of the General Statutes of Kansas without having been authorized to do so; that such activity rendered the defendants subject to the jurisdiction of the Kansas courts under the Unauthorized Insurance Act of that state; and that, accordingly, valid service was made upon the defendants imder favor of Section 40-2001 et seq. of the General Statutes of Kansas. Defendants say the contract was not one of insurance but was one of warranty and that, therefore, the entire argument of the plaintiff fails and the Kansas court was without jurisdiction.
+Several questions suggest themselves and have been touched upon in the briefs. However, both sides agree that the case turns upon the single question whether the contract between the parties was one of insurance.
+Strictly speaking, in the absence of a bill of exceptions we do not have this crucial document before us. However, the parties having assumed its existence and provisions throughout their briefs and arguments, we deem it appropriate to consider the same in the form in which it partially appears in connection with the briefs. Dearbaugh v. Dearbaugh, 110 Ohio App., 540. Otherwise, appellants would be technically defeated for failure to exemplify the claimed error.
+The contract was set forth in the briefs as follows and its form was not challenged:
+“1. The United States Car Testing Company agrees to maintain the parts listed below in good repair on the above automobile, including both labor and parts for a period of one year from the above date.
+[Parts listed.]
+“2. Whenever any of the above parts require repair or replacement, within the period of this contract, the Company must be promtly notified.
+“3. All repairs and replacements shall be performed or directed by an authorized representative of the Company.
+“4. This maintenance contract applies solely to automobiles in personal use. It shall not apply in commercial or other use.
+5. This contract is valid anywhere in the United States.
+(Paragraphs 6, 7, 8 and 9 of the contract exclude from its coverage parts not specified in Paragraph 1, etc.)
+It further contains the following language:
+10. Repairs shall not be performed without prior notice to and authorization by the Company.
+11. Failure to register this contract with the company within fifteen days after purchase of the car, shall render it void, *
+“* * * The Company further certifies that where so found, the defective parts have been corrected, and the present condition of all of the above parts is such, that they will give a minimum of one year’s service under normal usage and wear. * * *
+“The Company shall not be liable for any consequential damage; nor for injury to persons or property resulting from failure of the above warranted parts. * * *
+“The Company does not assume responsibility for defects or repairs required, due to damage by windstorm, fire, earthquake, water, riot, or other accidental causes, or hazards. * * *
+“If the parts warranted herein are damaged by accident, collision, negligence, misuse or alteration, or if the car is sold, stolen, or possession transferred by the purchaser named herein, this warranty shall thereupon become void.”
+Defendants do not contend that they complied with the laws of Kansas requiring authorization to carry on an insurance business in that state. They simply say that they are not doing such a business, and that their contract is one of warranty or maintenance and not one of insurance.
+Section 40-1102 of the General Statutes of Kansas reads, in /part, as follows:
+“Any insurance company, other than a life insurance company, organized under the laws of this state or authorized to transact business in this state may make all or any one or more of the kinds of insurance and reinsurance comprised in any one of the following numbered classes, subject to and in accordance with its articles of incorporation and the provisions of this code.
+“* * * (m) To insure against liability, loss or damage from any other risk, hazard, or contingency which may lawfully be the subject of insurance, and specific authority for the transaction of which has not been exclusively delegated to any other class or kind of company: * *
+It is conceded that the defendants had not sold the parts to the plaintiff.
+It is this subsection (m) which plaintiff says is applicable to defendants’ activity. It was clearly within the power of the Kansas Legislature to provide for obtaining jurisdiction over and service upon defendants carrying on a specified activity within that state. 9 Ohio Jurisprudence (2d), 690, Conflict of Laws, Section 29.
+We must begin with the assumption that the Kansas court acted regularly and considered whether defendants’ acts came within the provisions of this statute when it decided the question in the affirmative. And we must accord great weight to any reasonable interpretation and application which that court made of the statutes of its own state. That its conclusions are in accordance with the established view in that state is said to be indicated by the case of State, ex rel., v. Vigilant Ins. Co., 30 Kan., 585; 2 P., 840.
+The general law appears to be in harmony with that of Kansas in defining the nature of insurance. Relying heavily upon Ohio cases, 1 Couch Cyclopedia of Insurance Law (2d Ed.), 42, Section 1.15, has pointed out the distinction between warranties and insurance in connection with property similar in nature to that involved in our present case. Incorporating the footnotes into the text, we quote from that treatise:
+“Whether a warranty amounts to insurance depends upon its terms. A warranty or guaranty issued to a purchaser in connection with the sale of goods containing an agreement to indemnify against loss or damage resulting from perils outside of and unrelated to inherent weaknesses in the goods themselves constitutes a contract substantially amounting to insurance within the purview of a statute regulating the right of a foreign corporation to do business in the state. [Ohio: State, ex rel. Herbert, v. Standard Oil Co., 138 Ohio St., 376.] Similarly, a contract by which the vendor of automobile tires undertakes to guarantee the tires sold against defects in material or workmanship without limit as to time, mileage, or service, and further expressly guarantees them for a specified period against ‘blowouts, cuts, bruises, rim cuts, underinflation, wheels out of alignment, faulty brakes or other road hazards that may render the tire unfit for further service (except fire or theft),’ or contracts to indemnify the purchaser, ‘should the tire fail within the replacement period’ specified, without limitation as to cause of such ‘failure,’ is a contract ‘substantially amounting to insurance’ within the provision of a statute which requires such guarantor or insurer to comply with the laws of the state authorizing and regulating the business of insurance. [Ohio: State, ex rel. Duffy, v. Western Auto Supply Co., 134 Ohio St., 163.] But a written warranty representing that the articles sold are so well and carefully manufactured that they will give satisfactory service under ordinary usage for a specified length of time, and providing for an adjustment in the event of failure from faulty construction or materials, but expressly excluding happenings not connected with imperfections in the articles themselves, is not a contract substantially amounting to insurance within the meaning of such a statute. [Ohio: State, ex rel. Herbert, v. Standard Oil Co., 138 Ohio St., 376.] Nor is a manufacturer of automobile lubricants selling its product under an express warranty and guaranteeing to reimburse the retailers for any expenditures in replacing gears broken as the result of wear and tear while using such lubricants, to be deemed an insurance company so as to require a license. [Ga: Evans & Tate v. Premier Ref. Co., 31 Ga. App., 303, 120 S. E., 553.]”
+A warranty is ordinarily an obligation assumed by a seller of goods. One authority has been cited to the effect that there can be no warranty without a sale. 77 Corpus Juris Secundum, 1117, Sales, Section 302 (b).
+The name by which the contract is called is, of course, not determinative. 29 American Jurisprudence, 436, Insurance, Section 5.
+The present issue must turn upon the essential nature of the contract. The question is not whether it contains a warranty, but whether, either with or without a warranty, it contains elements in the nature of insurance.
+In State, ex rel. Duffy, Atty. Genl., v. Western Auto Supply Co., 134 Ohio St., 163, the court said:
+“3. A warranty promises indemnity against defects in an article sold, while insurance indemnifies against loss or damage resulting from perils outside of and unrelated to defects in the article itself.”
+This distinction is adopted in 44 Corpus Juris Secundum, 474, Insurance, Section 1 b.
+Some language used by the Supreme Court, but unimportant to the issue involved, in State, ex rel. Herbert, Atty. Genl., v. Standard Oil Co., 138 Ohio St., 376, might seem to imply that the obligation of an insurer must be in a stated and ascertainable amount. However, in the Duffy ease just cited, where the point was of some importance, the court said, on page 169:
+“It seems well settled that to constitute insurance the promise need not be one for tbe payment of money, but may be its equivalent or some, act of value to the insured upon tbe injury or destruction of tbe specified property. * * *”
+Applying tbe distinction between warranty and insurance laid down in tbe Duffy case, and adopted in Couch on Insurance, let us examine tbe present contract. Tbe substance of defendant’s undertaking is set forth in tbe first paragraph of tbe contract, as quoted above. It will be seen that this is an indemnity, not against defects in any articles sold, but against loss or damage resulting from perils outside and unrelated to such defects. That defendants recognize their undertaking to be comprehensive in nature is attested by tbe precaution taken in tbe latter portion of tbe contract to restrict its liability by excluding certain perils.
+There is no further language in tbe contract to change its essential nature. Perhaps tbe nearest approach to such a result is found in tbe statement that tbe defendant company certifies that defendants have corrected defective parts “where so found” and that tbe present condition of all tbe parts mentioned is such that they will give a minimum of one year’s service under normal usage and wear.
+This is a statement of existing facts and future usefulness without obligating tbe company to do anything about it if tbe statement should prove erroneous. Such statement does not limit tbe positive obligation assumed in tbe first paragraph of tbe contract. Tbe only limitations (as distinguished from conditions named elsewhere) are contained in tbe last three paragraphs. Whatever is not specifically excluded is included, whether or not a failure occurs under normal use and wear.
+It is our conclusion that tbe contract includes elements of insurance, so that tbe Kansas court bad jurisdiction of tbe parties under tbe Kansas statutes and rendered a valid judgment, which supports the Ohio judgment now appealed from.
+Tbe judgment will be, and hereby is, affirmed.
+Judgment affirmed.
+Kerns and Sherer, JJ., concur.
