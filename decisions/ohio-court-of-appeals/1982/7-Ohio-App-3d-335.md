@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "81AP-766"
+decided: "1982-09-23"
+citations: ["7 Ohio App. 3d 335"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reilly and Brown, JJ., concur."]
+parties: ["Economy Fire & Casualty Co. et al., Appellees, v. Craft General Contractors, Inc., Appellant; Wolfe, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/7/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711400
+cites_cases: ["10 Ohio St. 2d 90", "12 Ohio St. 2d 107", "135 Ohio St. 241", "14 O.O. 85", "164 Ohio St. 275", "26 Ohio St. 2d 94", "27 Ohio App. 2d 177", "37 O.O. 568", "39 O.O.2d 94", "41 O.O.2d 412", "54 Ohio St. 2d 279", "55 O.O.2d 165", "56 O.O.2d 344", "58 O.O. 51", "8 O.O.3d 261", "82 Ohio App. 266"]
+---
+
+# Economy Fire & Casualty Co. v. Craft General Contractors, Inc.
+
+## Majority (Moyer, J.)
+
+Moyer, J.
+This matter is before us on the appeal of defendant-appellant, Craft General Contractors, Inc. (“defendant”), from a judgment of the Municipal Court of Franklin County finding defendant and defendant-appellee, Michael Wolfe, liable for damages to an automobile owned by plaintiff William A. Fields, Sr., insured by plaintiff Economy Fire & Casualty Company, and driven by the son (“Fields”) of plaintiff Fields, Sr., resulting from a collision between the vehicle driven by Fields and a vehicle operated by defendant’s employee, defendant Michael Wolfe.
+At approximately 10:00 p.m. on August 1, 1979, defendant’s front end loader was being used to repair part of North High Street in Worthington, Ohio. Heavy rain on that day had washed out gravel backfill causing potholes to form in the roadway. Defendant Wolfe was operating the front end loader in the northbound curb lane of High Street facing northbound traffic. As Wolfe worked on the road, he periodically stopped the equipment to allow oncoming traffic to pass by him. Fields, who was northbound on North High Street, drove into the front end loader while it was stopped in the northbound curb lane facing south and while the bucket on the front end loader was raised three to four feet off the ground.
+Plaintiffs’ complaint alleged that defendant’s negligent failure to equip the front end loader with proper lighting caused the accident and the damages to the Fields vehicle.
+The trial court entered judgment for plaintiffs. The defendant asserts the following four assignments of error in support of its appeal:
+“I. The Court erred in finding that O.R.C. 4511.04 requires flashing lights on defendant’s vehicle.
+, “II. The Court erred in finding that on proximate cause of the collision the failure of defendant’s vehicle to display a flashing light [sic].
+“III. The Court erred in refusing to allow evidence of the discernability [sic] of defendant’s vehicle.
+“IV. The Judgment of the Trial Court is against the manifest weight of the evidence and contrary to law.”
+Defendant’s first two assignments of error are related and are considered together. They appear to be' based on remarks the trial judge made at the close of trial in response to questions raised by counsel for defendant. After the court entered judgment for the plaintiffs, the defendant’s attorney asked whether it was “the Court’s position that the lighting situation was causedly related to the collision?” The following conversation occurred:
+“THE COURT: What lighting?
+“MR. WARBURTON: The violation of the statute which you referred to on lights.
+“THE COURT: Yes, I think it was. And I think, further, that when there is a specific safety requirement which has been violated, that is negligence in and of itself. * * *” (Emphasis added.)
+R.C. 4513.11 is the only statute concerning lights on vehicles requested by the trial court. The court had also stated that “these specific sections just related by counsel for the plaintiff” applied to the defendant’s front end loader. In addition to R.C. 4513.11, the plaintiffs had cited R.C. 4513.03 and 4511.04 in their closing argument. The trial court also found that the defendant had violated “the safety requirement” by working without “any flashing lights on [the front end loader] * * * and so forth.”
+It is not clear to which statute counsel for the defendant was referring when he asked whether the trial court thought the violation of the lighting statute was causedly related to the collision. Nor is it clear which statute the trial court meant when it answered affirmatively.
+R.C. 4513.03 specifies that:
+“Every vehicle upon a street or highway within this state during the time from one-half hour after sunset to one-half hour before sunrise, and at any other time when there are unfavorable atmospheric conditions or when there is not sufficient natural light to render discernible persons, vehicles, and substantial objects on the highway at a distance of one thousand feet ahead, shall display lighted lights and illuminating devices as required by sections 4513.04 to 4513.37 * *
+R.C. 4513.11, dealing with lights on slow-moving vehicles, reads in part:
+“(A) All vehicles * * * not specifically required to be equipped with lamps or other lighting devices by sections 4513.03 to 4513.10 of the Revised Code, shall, at all times specified in section 4513.03 of the Revised Code, be equipped with at least one lamp displaying a white light visible from a distance of not less than one thousand feet to the front of the vehicle * sH * ))
+R.C. 4511.04, the “flashing lights” statute, reads in part:
+“The drivers of * * * vehicles utilized in * * * road surface maintenance, while engaged in work upon a highway, provided such vehicles are equipped with flashing lights and such other markings as are required by law, and such lights are in operation when the vehicles are so engaged shall be exempt from criminal prosecution [section listings omitted] * * (Emphasis added.)
+It is the defendant’s contention that the trial court based its finding of negligence on the “flashing lights” statute, R.C. 4511.04. Defendant’s claim is supported by the trial court’s final statement on the last page of the transcript. After the court stated that the violation of a specific safety requirement is “negligence in and of itself,” counsel for defendant replied, “I understand that.” The trial court then stated: “He did not have flashing lights as required by Section 4511.04.”
+Defendant correctly observes that R.C. 4511.04 does not require flashing lights. This section merely exempts drivers from criminal liability under the designated sections if their vehicles are equipped with the lights required by other sections of the Revised Code.
+Although the trial court’s finding of negligence may have been based on an erroneous interpretation of R.C. 4511.04, the Supreme Court has held innumerable times that a court speaks only through its journal entries. E.g., Andrews v. Board of Liquor Control (1955), 164 Ohio St. 275 [58 O.O. 51], paragraph three of the syllabus.
+If the journal entry and the judge’s opinion conflict, the journal entry controls. Andrews, supra; Will v. McCoy (1939), 135 Ohio St. 241 [14 O.O. 85], paragraph one of the syllabus. In the present case, the journal entry of judgment and the trial judge’s comments in reference to the statutes do not conflict. The journal entry simply awards damages to the plaintiffs without mentioning any grounds for the court’s decision.
+Judges have discretionary control over the journals of their courts. State, ex rel. Ruth, v. Hoffman (1947), 82 Ohio App. 266 [37 O.O. 568]. A judge can change his mind before making a journal entry without giving the parties grounds for an appeal, because the court has not spoken until its journal entry is filed. State, ex rel. Ruth, supra.
+The parties can appeal only errors in the judgment of the court, that is, the journal entry; they cannot appeal errors in the judge’s comments that are not a part of the judgment entry. It is the judgment of the court and not its opinion that is the subject of review. In its discussion of an appeal from an intermediate appellate court, the Supreme Court in Andrews, at 282, stated:
+“ * * [T]he judgment entered was one reversing the trial court, and it is that judgment, and not the reasons assigned in the opinion, that is subject to review by this court. * * *’ ”
+The judge’s opinion may be used to interpret or clarify its judgment. Pennington v. Dudley (1967), 10 Ohio St. 2d 90 [39 O.O.2d 94], paragraph one of the syllabus. However, the judgment entry still controls. The record in the present case does not clarify the judgment entry. Rather, the record introduces an ambiguity by revealing that the trial judge may have relied on the correct statute, the incorrect statute or both statutes.
+Although it appears from the judge’s final comment on the last page of the transcript that the judge may have relied on the wrong statute, there is no appeal-able error since the judgment of the trial court did not contain any error. Even if the judgment entry had contained an erroneous reference to R.C. 4511.04, such error would not require reversal since the defendant has not demonstrated prejudice. An appellant must demonstrate both error and prejudice to gain a reversal. Smith v. Flesher (1967), 12 Ohio St. 2d 107 [41 O.O.2d 412], paragraph one of the syllabus.
+Defendant cannot demonstrate prejudice since the trial court reached the correct decision. While the evidence is somewhat conflicting, there is ample evidence in the record to support a finding that the defendant violated R.C. 4513.11 by failing to display a lamp which was visible from one thousand feet in front of the vehicle. There was evidence from which the trial court could conclude that, even though the front end loader displayed at least one white light, the light was not visible at the time of the accident because the bucket of the loader was blocking a driver’s view of the light. Violation of R.C. 4513.11 constitutes negligence per se since the section was enacted for the public safety. Roszman v. Sammett (1971), 26 Ohio St. 2d 94, 96 [55 O.O.2d 165].
+The record also contains sufficient evidence, albeit disputed, to support a finding that the failure to display the light in a manner that it was visible to oncoming traffic as required by R.C. 4513.11 was the proximate cause of the accident.
+Defendant’s first and second assignments of error are not well-taken and are overruled.
+The third assignment of error is overruled because evidence of the discernibility of defendant’s front end loader was irrelevant. Even if the driver of the car was negligent in failing to see a discernible object, as he may have been if the statement of the driver of the front end loader was believed, the negligence of the driver of the automobile cannot be imputed to plaintiff Fields, Sr., the owner of the automobile. Globe Indemnity Co. v. Johnson (1971), 27 Ohio App. 2d 177 [56 O.O.2d 344].
+Defendant’s fourth assignment of error is also overruled. “Judgments supported by some competent, credible evidence going to all the essential elements of the case will not be reversed by a reviewing court as being against the manifest weight of the evidence.” C. E. Morris Co. v. Foley Construction Co. (1978), 54 Ohio St. 2d 279 [8 O.O.3d 261], There was evidence supporting the judgment of the trial court that the front end loader carried two white lights but that the light from the lights was blocked by the bucket from the front end loader and therefore was not visible to oncoming traffic. That evidence supports a finding that R.C. 4513.11 was violated.
+For the foregoing reasons, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Reilly and Brown, JJ., concur.
+Brown, J., retired, of the Court of Common Pleas of Coshocton County, was assigned to active duty under authority of Section 6(C), Article IV, Constitution.
