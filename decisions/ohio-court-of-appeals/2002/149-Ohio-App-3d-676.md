@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "19306"
+decided: "2002-10-11"
+citations: ["149 Ohio App. 3d 676"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan and Frederick N. Young, JJ., concur."]
+parties: ["The STATE of Ohio, Appellant, v. FORD, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/149/cases/0676-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1163504
+cites_cases: ["125 Ohio App.3d 411", "128 Ohio App.3d 255", "1994 WL 543210", "1995 WL 328159", "2001 WL 501942", "2002-Ohio-5529", "645 N.E.2d 1257", "655 N.E.2d 738", "700 N.E.2d 334", "708 N.E.2d 782", "71 Ohio St.3d 1477", "714 N.E.2d 461", "74 Ohio St.3d 1418", "83 Ohio St.3d 1452"]
+---
+
+# State v. Ford
+
+## Majority (Fain, Judge.)
+
+Fain, Judge.
+{¶ 1} Plaintiff-appellant state of Ohio appeals from an order suppressing evidence. The state contends that the evidence was obtained as the result of a search incident to an arrest, and that the arrest was pursuant to a proper warrant. Defendant-appellee Demettri Ford contends that the evidence was obtained as the result of an unlawful search and seizure, because his identity was ascertained as the result of the unlawful seizure of an identity card, resulting in his arrest pursuant to an outstanding warrant, a search incident to the arrest, and the discovery and seizure of a baggie containing crack cocaine.
+{¶2} We conclude that this case cannot be distinguished from State v. Jamison (May 11, 2001), Montgomery App. No. 18453, 2001 WL 501942, in which we held that evidence must be suppressed when it is obtained as the result of a search incident to an arrest when the arrest, itself, results from the discovery of the defendant’s identity as a consequence of an unlawful search and seizure. Accordingly, the judgment of the trial court is affirmed.
+I
+{¶ 3} According to Dayton police officer Shawn Emerson, he had a consensual encounter with Ford in the early morning hours of December 29, 2001. Emerson testified that his partner, Ted Reboulet, drove their police cruiser up alongside Ford, who was walking down the street, that Emerson got out of the cruiser, that Emerson asked Ford whether he minded talking to him for a minute, and that Ford agreed to do so.
+{¶ 4} When, during this conversation, Ford could remember neither his new address (he had just moved), nor his old address, “[Reboulet] asked [Ford] if he had any ID on him and the suspect provided a State of Ohio ID card and gave it to Officer Reboulet.”
+{¶ 5} When the police officers ran this information through the data base to which they had access in their cruiser, they discovered that Ford was the subject of an outstanding arrest warrant and capias order. Ford was taken into custody, handcuffed, and patted down. The patdown turned up a 13-inch knife inside an inner coat pocket. During the trip to the jail, the police officers observed behavior suggesting that Ford might be trying to hide something. At the sally port at the jail, after the officers got Ford out of their cruiser, they found a plastic baggie containing what appeared to be crack cocaine under the back seat of their cruiser. They had examined that area before starting their patrol that night.
+{¶ 6} Police officer Emerson was not the only witness at the suppression hearing. Also testifying was Susan Estes, who lived near the place where Ford’s encounter with police took place. Estes testified that she observed this encounter. She testified that she did not know Ford.
+{¶ 7} Estes’s testimony concerning the stop was in conflict with Emerson’s testimony. Estes testified as follows:
+{¶ 8} “The police came real fast up in the thing and before they even stopped, the officer on the passenger side had his door open ready to get out. He said, come here. He already stopped and they jumped out and grabbed him. And the other officer came around, he grabbed him and handcuffed him and searched him. They found a big knife on him. They put him up against the car and they searched him again, then they put him in the car.”
+{¶ 9} Estes testified that she did not hear the officer ask Ford whether he, minded whether they had a conversation. She also testified that she “could hear exactly what the exchange was between the officers and the defendant.”
+{¶ 10} Ford was indicted for possession of crack cocaine. He moved to suppress the evidence. Following a hearing, the trial court granted his motion and suppressed the evidence. From the order of the trial court suppressing evidence, the state appeals.
+II
+{¶ 11} The state’s sole assignment of error is as follows:
+{¶ 12} “The trial court erred in granting the motion to suppress evidence.”
+{¶ 13} The state contends that the interaction between Ford and the police was a consensual encounter. In its brief, the state says that it “cannot agree that a reasonable, person in Ford’s position would not have felt free to walk away.” In making this assertion, the state “recognizes the futility of challenging the trial court’s decision to believe one person over another” and yet advances arguments as to why the trial court ought not to have credited Estes’s testimony.
+{¶ 14} From our review of the trial court’s order, it is clear that the trial court did decide to credit Estes’s testimony. The trial court opined: “Although Ms. Estes was confused about which officer was driving the cruiser, her account was credible and her demeanor on the witness stand reveals candor and a lack of bias.”
+{¶ 15} We have reviewed the transcript of the hearing, and we conclude that in deciding to credit Estes’s testimony, the trial court did not lose its way. We cannot say that the trial court’s decision to credit Estes’s testimony is against the manifest weight of the evidence.
+{¶ 16} In finding that Ford’s interaction with the police officers was not a consensual encounter, the trial court made the following observations:
+{¶ 17} “In this case, driving the cruiser off the roadway, over the curb, across walkways and into the grass lead this Court to conclude this was clearly not a consensual encounter. The officers were ‘determined’ to stop this Defendant because ‘it was a little suspicious, he kept looking over his shoulder at us.’ (Tr. pg. 16 line 20-21).
+{¶ 18} “Officer Emerson testified their maneuver is one they use often while patrolling on bicycles. However, there’s a clear distinction between a mountain bike and a one [sic] ton police cruiser. Any reasonable citizen would feel intimidated if police pursue him in a cruiser by driving over a curb and sidewalks. In this case, by both physical force and show of authority the defendant’s liberty was restrained, leading a reasonable person to feel he was not free to decline the officers’ request or otherwise terminate the encounter.
+{¶ 19} “In fact, Ms. Estes’ account of the incident reveals the defendant had no opportunity to ‘decline’ the encounter.”
+{¶ 20} Later in its opinion, the trial court opined: “[CJlearly the seizure of the defendant and his identification card leading to his arrest on the warrant [was] unlawful. Absent the illegal means of seizing and identifying the defendant, he would have never been placed in the cruiser.”
+{¶ 21} The trial court found that Ford’s identification card was not voluntarily produced at the request of the police officer during a consensual encounter. To the contrary, the trial court found that it was seized during an unlawful stop. Estes’s testimony, which the trial court credited, would support that conclusion. Thus, we reject the state’s argument that there was no unlawful search and seizure in this case.
+{¶ 22} Next, the state argues that even if Ford was unlawfully stopped, his arrest was authorized by warrant, which validated the search subsequent to his arrest. The state cites for that proposition Dayton v. Click (Oct. 5, 1994), Montgomery App. No. 14328, 1994 WL 543210, discretionary appeal not allowed (1995), 71 Ohio St.3d 1477, 645 N.E.2d 1257; State v. Meyers (May 31, 1995), Montgomery App. No. 14856, 1995 WL 328159, discretionary appeal not allowed (1995), 74 Ohio St.3d 1418, 655 N.E.2d 738; State v. Ingram (1998), 125 Ohio App.3d 411, 708 N.E.2d 782; and State v. Pierson (1998), 128 Ohio App.3d 255, 714 N.E.2d 461, discretionary appeal not allowed (1998), 83 Ohio St.3d 1452, 700 N.E.2d 334.
+{¶ 23} Ford cites State v. Jamison, supra, for the proposition that where the identification of a suspect as a person subject to an outstanding arrest warrant is the result of an unlawful stop and seizure, the discovery of evidence as the result of a search subsequent to, and incident to, that arrest, is the result of the original unlawful stop and seizure, and must, therefore, be excluded. In Jamison, as in the case before us, the identity of the person encountered by the police was ascertained as the result of the seizure of an identification card from the individual’s person. We concluded that because the police officer had learned of the suspect’s identity unlawfully, the subsequent search of his vehicle, after his arrest pursuant to an outstanding warrant, violated the Fourth Amendment.
+{¶ 24} Although the state argues that the case before us is distinguishable from Jamison, we see no way to distinguish it. Nor are we persuaded that we should overrule Jamison.
+{¶ 25} The issue is not free from difficulty. On the one hand, as the state argues, where there is an outstanding arrest warrant, the authority for the arrest does not derive from unlawful police conduct but from the warrant. It can then be argued that a search subsequent to, and incident to, that arrest is lawful, and evidence obtained as the result of that search ought not to be excluded.
+{¶ 26} On the other hand, as Ford argues, if evidence is not excluded when it is found as a result of an arrest that is, itself, at least triggered by learning the suspect’s identity as the result of an unlawful search and seizure, then police have open season, limited only by the prospect of civil suits for civil rights violations, to conduct sweeps, stopping dozens, or hundreds, of persons, without any particularized suspicion, in the hope of catching a few persons who are subject to outstanding arrest warrants.
+{¶ 27} As is evident from the citations, above, of our earlier line of cases, beginning with Dayton v. Click, defendants were unsuccessful in obtaining review by the Ohio Supreme Court. The state has informed us that it was unsuccessful in obtaining review of State v. Jamison by the Ohio Supreme Court. We understand the state is likely to seek review of our decision in this case. We encourage the Ohio Supreme Court to accept this case for review. Any assistance the Ohio Supreme Court might provide in this troublesome area of Fourth Amendment jurisprudence would be gratifying.
+{¶ 28} The state’s sole assignment of error is overruled.
+Ill
+{¶ 29} The state’s sole assignment of error having been overruled, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Brogan and Frederick N. Young, JJ., concur.
