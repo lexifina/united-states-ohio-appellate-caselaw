@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1940-04-25"
+citations: ["64 Ohio App. 310"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton, P. J., Matthews and Ross, JJ., concur."]
+parties: ["Wendel, County Treas., Appellee, v. Hughes, Appellant, et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/64/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1363895
+cites_cases: ["120 Ohio St., 216", "165 N. E., 848"]
+---
+
+# Wendel v. Hughes
+
+## Majority (By the Court.)
+
+By the Court.
+In this case an affidavit of bias and prejudice on the part of the judge was filed on June 26, 1939. It was prepared and filed by Mary M. Hughes, a litigant, without the assistance of counsel, and is very informal. However, it does allege that the judge was prejudiced against her and had already indicated the decision he would render in the case against her. We are not now concerned with the truth of the averments of the affidavit.
+No praecipe was filed with the affidavit and the clerk did not notify the Chief Justice of its filing.
+With this affidavit on file and the issue of disqualification raised thereby undisposed of, the judge proceeded to hear the cross-petitioners on their allegations against Mary M. Hughes, and on July 3, 1939, rendered judgment in foreclosure of a mortgage against her in favor of The Oxford Loan & Building Association, and on July 5, a judgment in foreclosure of his mortgage in favor of Johnson against her.
+On July 24, 1939, Mary M. Hughes filed motions to vacate these judgments.
+On October 6, 1939, these motions were overruled, and on the same day (October 6, 1939) notice of appeal on law and fact was filed from the orders overruling these motions to vacate the judgments. A bond staying execution was filed on the same day.
+In Wolf v. Marshall, 120 Ohio St., 216, 165 N. E., 848, the court had before it the question of the validity of a judgment rendered by a judge after an affidavit had been filed charging him with bias and prejudice. The court at 219 et seq. said:
+“The trial.judge was without authority in this case, under the attending facts, as stated, which are not disputed, to.proceed with the trial and enter a judgment therein, and for the reasons stated the judgment must be held to be a nullity and reversed, and the case remanded for further action in accord with this opinion. ’ ’
+This precedent is binding upon this court. We, therefore, hold that the' judgments rendered in this case were void and of no effect, and that the court erred in overruling the motions to vacate them, and proceed in the case as a pending case according to law.
+It is objected that this affidavit was not properly filed inasmuch as no praecipe directing the clerk to notify the Chief Justice was filed with it. While, as already noted, the affidavit is lacking in artistry, nevertheless, it clearly bears the caption “Affidavit of Bias and Prejudice,” and the clerk so noted it on the appearance docket. It cannot be said that the clerk was misled as to the nature of the filing, or that he did not know its nature. The statute (Section 1687, General Code) provides that upon the filing of such an affidavit the clerk shall “forthwith notify the Chief Justice of the Supreme Court * * *.” The statute thereby makes it the duty of the clerk to give the notice upon the filing and not upon a praecipe of the party filing it. 1
+For these reasons, the orders overruling the motions to vacate the judgments are reversed and the cause remanded for further proceedings according to law.
+Judgment reversed and cause remamded.
+Hamilton, P. J., Matthews and Ross, JJ., concur.
