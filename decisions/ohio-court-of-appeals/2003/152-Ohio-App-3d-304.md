@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "OT-02-031"
+decided: "2003-03-31"
+citations: ["152 Ohio App. 3d 304"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richard W. Knepper and Arlene Singer, JJ., concur."]
+parties: ["POPSON, by and through his Father, Appellant, v. DANBURY LOCAL SCHOOLS BOARD OF EDUCATION et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/152/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 770171
+cites_cases: ["14 OBR 414", "14 Ohio App.3d 346", "1983 WL 6527", "1988 WL 69147", "2000 WL 1729485", "2003-Ohio-1625", "471 N.E.2d 509"]
+---
+
+# Popson v. Danbury Local Schools Board of Education
+
+## Majority (Pietrykowski, Judge.)
+
+Pietrykowski, Judge.
+{¶ 1} This is an accelerated appeal from a judgment of the Ottawa County Court of Common Pleas that dismissed an administrative appeal filed by appellant, Benjamin Popson, by and through his father, John Popson. Appellant now challenges that judgment through a single assignment of error:
+{¶ 2} “On motion by appellees, the Common Pleas Court of Ottawa County, Ohio, committed error in dismissing the appeal prior to the transcript of the hearing before the Superintendent being filed, to determine if the Superintendent was the Board of Education’s ‘Designee.’ ”
+{¶ 3} On June 4, 2002, appellee, Halley Leffler, the principal of Danbury Elementary School, notified Benjamin Popson’s parents that Benjamin was suspended from school for causing bodily harm to another student. Leffler ordered that Benjamin serve the suspension “in-school” on June 6, 2002. Benjamin’s parents sought review of the in-school suspension by appellee, Martin R. Fanning, the local superintendent. In an undated letter, Fanning notified the Popsons as follows: “I have reviewed the facts that resulted in the assignment of a one day in-school suspension to your son Ben. I affirm the in-school suspension. He may serve the in-school suspension any day next week. Since there is no property right implicated and Ohio Revised Code 3313.66 does not speak to in-school suspensions there is no further appeal.”
+{¶ 4} On June 28, 2002, appellant filed a notice of appeal with the Ottawa County Court of Common Pleas pursuant to R.C. 2506.01. Appellants Leffler, Fanning, and the Danbury Local Schools Board of Education responded by filing a motion to dismiss, asserting that the common pleas court did not have jurisdiction to hear the appeal. On August 15, 2002, the trial court issued a decision and order granting the motion to dismiss. The court held that it did not have jurisdiction to review the appeal because a suspension of a student is not appealable until the board of education has entered an appropriate resolution on its minutes and that the opinion letter of Fanning did not constitute a final order within the meaning of R.C. 2506.01.
+{¶ 5} In his appeal before this court,•, Popson asserts that the lower court erred in dismissing the appeal without first reviewing the transcript of administrative proceedings to determine whether Fanning was acting as a designee of the school board in his affirmance of Popson’s in-school suspension.
+{¶ 6} R.C. 3313.66(A) permits a principal of a public school to suspend a pupil from school for not more than ten days. R.C. 3313.66(E) then sets forth a pupil’s right to appeal a suspension or expulsion. The statute reads: “A pupil or the pupil’s parent * * * may appeal the pupil’s * * * suspension by a superintendent, principal, assistant principal, or other administrator to the board of education or to its designee. The pupil or the pupil’s parent * * * may be represented in all appeal proceedings and shall be granted a hearing before the board or its designee in order to be heard against the suspension * * *. At the request of the pupil or of the pupil’s parent * * * the board or its designee may hold the hearing in executive session but shall act upon the suspension * * * only at a public meeting. The board, by a majority vote of its full membership or by the action of its designee, may affirm the order of suspension * * * reinstate the pupil, or otherwise reverse, vacate, or modify the order of suspension * * *. The board or its designee shall make a verbatim record of hearings held under this division. The decisions of the board or its designee may be appealed under Chapter 2506. of the Revised Code.”
+{¶ 7} Reading R.C. 2506.01 and R.C. 3313.66 together, a common pleas court can review only a “final order, adjudication, or decision” of a board of education or its designee. It is well established, however, that the time period for the perfection of an administrative appeal commences when the “matter for review” is reduced to record form and approved. Swafford v. Norwood Bd. of Edn. (1984), 14 Ohio App.3d 346, 348, 14 OBR 414, 471 N.E.2d 509; LaPlant Enterprises v. Toledo (June 30, 1988), Lucas App. No. L-87-369, 1988 WL 69147. Because a public board speaks only through its minutes, written record of resolutions, directives, or actions, action by a public board is not final until such a written record is made and approved. Swafford, supra, at 348, 14 OBR 414, 471 N.E.2d 509. This procedure is equally applicable to action by a board of education, whether the action is taken by the board as a whole or by its designee. See Kipp v. Lorain Bd. of Edn. (Nov. 22, 2000), Lorain App. No. 99CA007373, 2000 WL 1729485; Cashdollar v. Bd. of Edn., Northridge High School (1983), Licking App. No. CA 2951, 1983 WL 6527.
+{¶ 8} In our view, the undated letter of Local Superintendent Fanning does not meet the requirements of a final order of a public board. It is undated, is on plain white paper without a letterhead, and does not appear to be an official record of anything. Absent a final order of a public body, a common pleas court does not have jurisdiction to review an administrative appeal. R.C. 2506.01. Accordingly, the trial court properly dismissed Popson’s appeal for lack of jurisdiction, and the sole assignment of error is not well taken.
+{¶ 9} On consideration whereof, the court finds that substantial justice has been done the party complaining, and the judgment of the Ottawa County Court of Common Pleas is affirmed. Court costs of this appeal are assessed to appellant.
+Judgment affirmed.
+Richard W. Knepper and Arlene Singer, JJ., concur.
