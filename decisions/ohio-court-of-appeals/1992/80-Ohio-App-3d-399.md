@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA91-11-023"
+decided: "1992-06-01"
+citations: ["80 Ohio App. 3d 399"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["William W. Young and Walsh, JJ., concur."]
+parties: ["In re Estate of AULT."]
+source_url: "https://static.case.law/ohio-app-3d/80/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674092
+cites_cases: ["108 N.E.2d 300", "14 OBR 272", "14 Ohio App.3d 243", "1987 WL 18199", "1988 WL 37092", "20 O.O.3d 371", "26 Ohio App.2d 221", "270 N.E.2d 660", "283 N.E.2d 172", "30 Ohio St.2d 178", "423 N.E.2d 90", "470 N.E.2d 425", "48 O.O. 385", "55 O.O.2d 383", "566 N.E.2d 1189", "57 Ohio St.3d 107", "59 O.O.2d 186", "65 Ohio Law Abs. 522", "66 Ohio St.2d 433"]
+---
+
+# In re Estate of Ault
+
+## Majority (Jones, Presiding Judge.)
+
+Jones, Presiding Judge.
+Appellant, Judith A. Ault, appeals a decision of the Fayette County Court of Common Pleas, Probate Division, overruling her objections to the inventory of the estate of decedent, David H. Ault, and denying her motion to compel delivery of a deed for a parcel of real property.
+The record indicates that the decedent and appellant were husband and wife. On August 30, 1985, they entered into a lease with Jacob Fischer for a 6.56-acre parcel of land, with an option to purchase. On April 5, 1990, they exercised their option to purchase, and Fischer delivered a deed to the 6.56-acre parcel to the Aults through their attorney, David Bender. The deed stated that the parcel was conveyed to the Aults jointly for their lives, with a remainder to the survivor. It further recited consideration for the conveyance in the amount of $29,651, with credit for payments made under the lease.
+When Bender attempted to record the deed, he was informed by the recorder’s office that the conveyance would result in a land-locked parcel and that the deed could therefore not be recorded. Subsequently, Fischer executed a second deed and delivered it to the decedent. This second deed purported to convey, to the decedent only, a 19.99-acre parcel of land that included the , 6.56-acre parcel described in the first deed. It is undisputed that the second deed was duly recorded on May 8, 1990.
+On November 23, 1990, the decedent died and the 19.99-acre parcel described in the second deed was included in the inventory of his estate. Appellant filed objections to the inventory, contending that, as the 6.56-acre parcel was conveyed as joint property with the right of survivorship, that portion of the 19.99-acre parcel was not properly included in the decedent’s estate. Appellant also filed a motion to compel Bender to give her possession of the deed to the 6.56-acre parcel.
+A hearing on the objections was held on August 12, 1991, and the court overruled appellant’s objections to the inventory. The probate judge ruled that, as the stated consideration in the first deed had not been paid and the deed had not been recorded, the deed did not pass title to appellant and the decedent. Therefore, the second deed operated to convey the entire 19.99 acres to the decedent only, and that parcel was properly included in his estate. The court also stated that, as the first deed was a nullity, there was no necessity for appellant to gain possession of it. Accordingly, it overruled appellant’s motion to compel delivery of the deed. The court’s judgment entry was filed on September 5, 1991.
+Appellant brings the instant appeal, setting forth the following assignments of error:
+“Assignment of Error No. 1:
+“The trial court erred in overruling Appellant’s objections to inventory.
+“Assignment of Error No. 2:
+“The trial court erred in overruling Appellant’s motion for order to deliver deed.”
+In her first assignment of error, appellant argues that the first deed operated to convey the 6.56-acre parcel to her and the decedent as joint property with survivorship rights. Therefore, she argues, it was erroneous to include that property in the inventory.
+R.C. 2115.02, governing inventory of a decedent’s estate, provides, in part, as follows:
+“Within one month after the date of his appointment, unless the probate court grants an extension of time for good cause shown, every executor or administrator shall make and return on oath into court a true inventory of the real estate of the decedent located in this state, and the chattels, moneys, rights, and credits of the decedent that are to be administered and that have come to his possession or knowledge.”
+It is well settled that property conveyed to parties to be held jointly, with rights of survivorship, is not property of the decedent, but passes to the surviving party by operation of law. Such property, then, is not properly included in the inventory of the estate pursuant to R.C. 2115.02. In re Estate of Hollingsworth (Mar. 31, 1988), Warren App. No. CA87-06-050, unreported, 1988 WL 37092; In re Estate of Thompson (1981), 66 Ohio St.2d 433, 20 O.O.3d 371, 423 N.E.2d 90; Pietro v. Leonetti (1971), 26 Ohio App.2d 221, 55 O.O.2d 383, 270 N.E.2d 660, affirmed (1972), 30 Ohio St.2d 178, 59 O.O.2d 186, 283 N.E.2d 172.
+Therefore, we must address the issue of whether the first deed was a valid conveyance of the 6.56-acre tract as joint property with rights of survivorship. Appellant contends that the probate court erred in finding the deed invalid for failure to record and for failure of consideration.
+We find appellant’s argument to be well taken. A deed is effective for purposes of passing title between the parties at the time when delivery and acceptance are completed. Gatts v. GMBH (1983), 14 Ohio App.3d 243, 14 OBR 272, 470 N.E.2d 425. It is fundamental under Ohio law that recording is not necessary to give validity to instruments of conveyance. Id. It is undisputed in the instant case that the deed was properly delivered and accepted, and the failure to record the instrument had no effect on its validity.
+Similarly, the asserted failure of consideration did not render the conveyance invalid. Consideration is not necessary to validate a deed as between the parties to the transaction, and a validly delivered and accepted deed will not be invalidated due to a failure of consideration. Gem Savings Assn. v. Edwards (Oct. 6, 1987), Montgomery App. No. 10411, unreported, 1987 WL 18199; Vesy v. Giles (C.P.1952), 65 Ohio Law Abs. 522, 48 O.O. 385, 108 N.E.2d 300; 1 McDermott, Ohio Real Property Law and Practice (4 Ed.1988) 240, Section 8-12B. As such, the probate court erred in finding the deed invalid on that basis.
+We further note that the second deed, which was recorded on May 8, 1990, did not affect the conveyance of the 6.56-acre parcel in the first deed. Pursuant to R.C. 5301.25, a prior unrecorded deed is invalidated by a later recorded deed only if the later conveyance is made to a “bona fide purchaser having, at the time of purchase, no knowledge of the existence of such former deed * * *.” It is beyond dispute in the case at bar that the decedent, as one of the grantees in the first deed, had knowledge of that deed and was therefore not a bona fide purchaser as to the 6.56-acre tract in the second transaction. See, generally, Emrick v. Multicon Builders, Inc. (1991), 57 Ohio St.3d 107, 566 N.E.2d 1189. As such, the second deed did not affect the validity of the first. While the second deed operated to convey the remainder of the 19.99-acre tract, Fischer had already conveyed the 6.56 acres to appellant and the decedent jointly and no longer had an interest in that parcel to convey.
+In sum, we find that the earlier deed effectuated the conveyance of the 6.56-acre parcel to appellant and the decedent as joint owners with survivor-ship rights. Thus, the 6.56-acre tract was erroneously included in the inventory, and appellant’s first assignment of error is sustained.
+In her second assignment of error, appellant contends that the court erred in denying her motion to order Bender to give her possession of the deed to the 6.56-acre parcel. Having concluded that appellant is the owner of that parcel, we further find that the court erred in refusing to order Bender to produce the deed. In any event, Bender held the deed only as the agent of the Aults and had absolutely no right to refuse possession of the deed to appellant, regardless of whether he perceived the deed to be invalid. We can conceive of no possible justification for Bender’s refusal to produce the deed and find his conduct to be unconscionable and detrimental to his client’s interests. Appellant’s second assignment of error is sustained.
+The judgment of the probate court is reversed and the cause is remanded for further proceedings consistent with this opinion.
+Judgment accordingly.
+William W. Young and Walsh, JJ., concur.
