@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1925-04-14"
+citations: ["24 Ohio App. 282"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards, P. J., and Young, J., concur."]
+parties: ["The Brenard Manufacturing Co. v. Beeckel."]
+source_url: "https://static.case.law/ohio-app/24/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1855020
+---
+
+# Brenard Manufacturing Co. v. Beeckel
+
+## Majority (Williams, J.)
+
+Williams, J.
+The Brenard Manufacturing Company, as plaintiff, brought an action in the court below upon six promissory notes, which were given by A. E. Beeckel in payment for four phonographs called claxtonolas, and records, purchased under a written contract executed between the parties. The defendant below, A. E. Beeckel, set up in his amended answer certain alleged fraudulent representations which he claimed were made to him by the agent of the plaintiff company at the time the notes and contract were executed. The averments of the petition were not denied, and the case was tried upon the issue of fraud made by the amended answer and the reply thereto. The allegations as to fraudulent representations as alleged in the amended answer and submitted to the jury by the court in the charge were as follows:
+“The plaintiff’s agent falsely represented to the defendant that he was engaged in the business of establishing agencies for said plaintiff for the handling and sale of certain musical instruments described in tbe contract, a blank copy of whicb he produced and exhibited; that he had been- establishing such agencies by the exhibition of a sample musical instrument, but that his automobile had broken down and he had left the same, with the sample-, at a garage for repairs.
+“He further falsely represented that the instruments were what is known as phonographs for the production of sounds from records, together with ft radio attachment which could be attached to any of the said musical instruments or phonographs.
+“He further falsely exhibited to defendant a picture of the outside of said musical instrument, containing thereon in red ink print the words ‘radio-phonograph/ and further falsely represented that such connection could be made with radio by attaching the same to a part of the inner construction of said phonograph or musical instrument, by removing therefrom a cabinet in which phonograph records were ordinarily kept and making the attachment, and the same would be attached to the horn or throat of said musical instrument so that the message conveyed over the wire could be intensified, heard, and understood by any person or persons near to said instrument.”
+There were the other allegations in the amended answer necessary to constitute a defense.
+The claim is made by the plaintiff in error that the court erred in refusing to give plaintiff’s. requests Nos. 1, 3, and 4.
+In plaintiff’s request No. 1 plaintiff asked the court to instruct the jury to return a verdict for plaintiff. It is claimed that the court erred in refusing to give this request, because defendant had read the face of the contract, and knew its terms, and therefore could not be deceived by any statement that contradicted those terms which might be made by the agent of plaintiff. The principle upo» which counsel for plaintiff below relies is thus stated in 1 Page on Contracts (1st Ed.), Section 64:
+“If on the other hand the party to whom the false statement is made reads the instrument, no fraud exists, as he has full knowledge of all material facts.”
+From the undisputed evidence it appears that the defendant read the face of the written contract, but did not read the back thereof. On the face of the contract the four claxtonolas were described as styles A, B, C, and F, with the retail price, and then there followed the following provision: “For specifications and equipment of Golden Throated claxtonola see reverse side.”
+On the back of the contract were somewhat detailed descriptions of the different styles, with pictures; but nowhere, either upon the face or the back of the contract, was there anything to show whether or not there was any radio attachment. The undisputed evidence, however, shows that before the contract was signed the agent of the plaintiff exhibited to the defendant a slip of paper with a picture of a phonograph thereon with the words “radio-phonograph” printed across the face thereof in red ink, and upon the back of such slip of paper, in lead pencil, were the discounts which appeared upon the face of the contract in question. The defendant testified to statements made by the agent which, to some extent, at least, sustained the allegations of the amended answer as to false representations. While we concede the principle of law above quoted to be correct, we are of the opinion that the defendant did not have such full knowledge of all material facts that we can say, as a matter of law, that he was not warranted in relying upon such alleged false representations of the agent. There was evidence tending to prove each of the essential elements which go to make up the defense of fraud, and the question whether the defense set up in the amended petition had been made out was a question for the jury under the instructions of the court. The issues seem to have been fairly presented in the charge, which does not in any sense lack color.
+Plaintiff in error also claims that the court erred in refusing to give plaintiff’s request No. 3, as follows: “If you find from the evidence that the defendant sold any of the goods, such sale would be an acceptance.”
+We think it is a sufficient answer to the refusal of the court to give this request to say that there is no evidence in the record tending to show that the defendant sold any of the goods covered by the contract. Early in his testimony the defendant stated that he believed some records had ‘been sold and he was not sure which ones had been sold, but later, when the question was put to him squarely, he stated that none of the records shipped under the original contract had been sold by him. It was therefore a sufficient reason for not giving that request that there was no evidence upon which to base it.
+Plaintiff in error also complains of the refusal to give plaintiff’s request No. 4, which reads as follows: “If you find from the evidence that the defendant kept the goods after the lapse of a reasonable time, your verdict must be for the plaintiff. ’ ’
+We think it would not constitute an acceptance merely to keep the goods after the lapse of a reasonable time. Section 8428, General Code, provides as follows:
+“The buyer is deemed to have accepted the goods when he intimates 'to the seller that he has accepted them, or when the goods have been delivered to him, and he does any act in relation to them which is inconsistent with the ownership of the seller, or when, after the lapse of a reasonable time, he retains the goods without intimating to the seller that he has rejected them.”
+It will be seen from a reading of this section that it would constitute an acceptance to retain the goods after the lapse of a reasonable time “without intimating to the seller that he has rejected them.” We think that the request was rendered insufficient in law by failing to include the words, “without intimating to the seller that he has rejected them,” or words substantially the equivalent.
+We are of the opinion that there was no error in refusing to give the requests in question, and the judgment will be affirmed.
+Judgment affirmed.
+Richards, P. J., and Young, J., concur.
