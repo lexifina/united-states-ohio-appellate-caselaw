@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4430"
+decided: "1950-10-18"
+citations: ["91 Ohio App. 164", "61 Ohio Law Abs. 209"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, P. J., and Wiseman, J., concur."]
+parties: ["The State of Ohio, Appellant, v. Columbus Green Cabs, Inc., Appellee."]
+source_url: "https://static.case.law/ohio-app/91/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1406349
+---
+
+# State v. Columbus Green Cabs, Inc.
+
+## Majority (Hoknbeck, J.)
+
+Hoknbeck, J.
+This is an appeal on questions of law from a judgment of the Common Pleas Court of Franklin County in. favor of the defendant.
+The plaintiff, by its petition setting forth five causes of action, sought a money judgment against the defendant for the amounts of the findings of the Administrator of the Bureau of Unemployment Compensation against the defendant for the years 1937, 1938, 1939, 1940 and 1941.
+The giving of notice to the defendant of the findings and defendant’s refusal to pay the amount thereof are alleged. Defendant, by answer, admits that during the times set out in the petition it was an employer subject to the provisions of the Unemployment Compensation Act; that the findings were made and notice thereof given by the bureau; and that it failed to pay. Answering further, defendant avers that the findings were based upon gratuities (tips) allegedly received by the taxicab drivers employed by.the defendant, the amounts of which were not taken into account by defendant in determining its total payroll as reported to the Bureau of Unemployment Compensation for the period involved. Defendant alleges further that it had no control over such gratuities; that it never required its drivers to account for any gratuities; that such gratuities were not considered when fixing the wages of its drivers; and that the rule prescribed by the bureau for determining the amount of the alleged gratuities received by the defendant’s drivers is arbitrary and unfair. The defendant denies generally all allegations of the petition not specifically admitted. No reply was filed by the plaintiff and the canse was submitted to a judge without a jury upon a stipulation of. facts by the parties.
+The stipulation provides that the bureau in its findings computed contributions due based upon an estimate of the amount of'gratuities received by the employees of defendant as ten per cent of their regular wages and “that the figure of 10 per cent was not based upon any actual knowledge within the possession of the commission nor upon the basis of actual-figures reflecting tips received by the drivers.”
+Under the provision of Section 1345-28, General Code, the Administrator of the Bureau of Unemployment Compensation was under the duty of making a determination of the amount of contribution which the defendant should pay, and, a certified copy of the administrator’s finding having been attached to the petition' filed herein, such certified copy constituted prima facie evidence of the truth of the facts therein contained.
+The finding, signed by the administrator, contains a statement to the effect that Columbus Green Cabs, Inc., is indebted to the state of Ohio for certain unemployment compensation contributions, and, thereafter, sets forth the contribution period covered; the amount of contribution due for such period; the amount thereof remaining unpaid; that the employer has failed to comply with the provisions of Section 1345-28, General Code; and that the employer is delinquent.
+As we interpret the controlling section, these findings, standing alone, are sufficient to support the regularity and validity of the determination of the administrator that the contribution is in the amount therein set but and that such amount is due and payable, and the judgment prayed for.
+Section 1345-4(b), General Code, provides for the determination of contribution rates based upon percentage of wages (or remuneration) subject to contribution. Section 1345-1 f, General Code, provides that remuneration shall include “gratuities customarily received by an individual in the course of his employment from persons other than his employer.” This latter' provision clearly indicates a purpose to include gratuities received by employees as a part of remuneration or wages paid to them, and upon which, in part, the amount of the contribution should be com-' puted. Section 1345-13 (a) 4, General Code,’ requires employers to furnish information as to the amount of wages paid and other necessary information.
+The bureau is authorized to promulgate reasonable rules affecting its procedure. Buie 2 requires, as a part of the necessary information to be provided, that “the employer shall include as remuneration payable the amount of gratuities or tips actually received by each worker or the reasonable estimate thereof.” (Emphasis ours.)
+Manifestly, under the stipulation here, the defendant failed to comply with this rule by including as remuneration the amount of gratuities actually received by each worker, or a reasonable estimate thereof.
+Upon the presentation of exhibit A, the certificate of the bureau, the burden was cast upon the defendant to go forward with the evidence and meet the prima facie case made by the certificate. The defendant, having made in open court the stipulation heretofore set out, was satisfied to rely thereon.
+Counsel for the state freely admitted in his oral argument and brief that the sole basis of the estimate of the remuneration of defendant’§ employees, upon which contribution could be fixed, was an opinion that employees of defendant customarily received as tips an amount equal to ten per cent of their wages. No other factual consideration whatever entered into the estimate. The determination not only assumed that the employees received tips but, also, assumed the amount thereof. "We believe that the first of these assumptions might be justified, but with no basis whatever for the second except some opinion of the amount of tips commonly given, the bureau arrived at the ten 'per cent figure. The stipulation, in our judgment, completely met the effect of the prima facie case ma.de by the presentation of the certificate of the- bureau. Rule 2 of the bureau provides that the employer, in making report, shall include as remuneration the amount of tips actually received by each worker or the reasonable estimate thereof. This rule is much like the present section of the Code. The estimate contemplated is one relative to tips actually received. In our judgment, the method adopted by the bureau did not result in a reasonable estimate of the tips actually received by defendant’s employees.
+We are cited to a number of cases where estimates of unemployment compensation bureaus were supported, but in all such instances we find some basis in fact for the computation made, and, since that element is lacking here, the judgment is affirmed.
+Judgment affirmed.
+Miller, P. J., and Wiseman, J., concur.
