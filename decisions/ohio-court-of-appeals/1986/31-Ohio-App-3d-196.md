@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-860094"
+decided: "1986-12-31"
+citations: ["31 Ohio App. 3d 196"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doan, P.J., and Keefe; J., concur.", "Black, J., dissents."]
+parties: ["Sycamore Messenger, Inc., Appellant, v. Cattle Barons, Inc., d.b.a. Red River Cattle Co., Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/31/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713266
+cites_cases: ["1 O.O. 3d 86", "18 O.O. 3d 442", "361 N.E. 2d 113", "416 N.E. 2d 605", "47 Ohio St. 2d 146", "64 Ohio St. 2d 243"]
+---
+
+# Sycamore Messenger, Inc. v. Cattle Barons, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon the appeal from the Hamilton County Municipal Court.
+Appellee purchased weekly advertising space in appellant’s newspaper. Ap-pellee was charged for the advertising on a weekly basis, appellant keeping a running account of the balance due. In March 1985, appellee’s balance exceeded $2,000. Appellee made a payment on July 10, 1985. On September 25,1985, appellant filed the within complaint for the balance due on the account. Certified mail service on appellee was returned “unclaimed.” Ordinary mail service was issued. Appellee failed to respond. On December 9, 1985, the trial court granted appellant a default judgment in the amount of $1,879.54 plus interest of $78.
+Appellee filed a Civ. R. 60(B) motion to set aside the default judgment on December 20, 1985. In support of its motion, appellee submitted the affidavit of one of its officers, John Reherman. The affidavit stated that Reherman dealt with appellant’s representatives concerning the account. A dispute arose over the amount which appellee owed to appellant. Appellee had requested a written contract for the advertising services. No contract was ever executed. The affidavit also stated that the appel-lee had approved only a $70 per month advertising service. Further, the affidavit stated that when the certified mail summons and ordinary mail summons were effected, appellee’s bookkeeper failed to forward the papers to the appropriate person. Therefore, appellee argues, it did not have proper notice of the lawsuit. The bookkeeper was subsequently fired by appellee. Based upon the affidavit and arguments of counsel, on January 14, 1986, the trial court granted appellee’s motion to set aside the default judgment. Appellant timely appealed.
+Appellant’s sole assignment of error alleges the trial court abused its discretion in granting appellee’s Civ. R. 60(B) motion for relief from the default judgment rendered against it. Following a complete review of the record, we find the trial court’s decision to grant relief from the default judgment in this case does not constitute an abuse of discretion. See Oberle v. Valihora Motor Transp., Inc. (June 5, 1985), Hamilton App. No. C-840549, unreported.
+In Oberle, supra, defendant Vali-hora Motor Transportation, Inc. was served with a summons. Valihora did not respond to the complaint within the time allotted. Plaintiffs were granted a default judgment. Approximately four and one-half months later, Valihora moved the court to grant it relief from judgment. At the evidentiary hearing on its Civ. R. 60(B) motion, Valxhora produced evidence that its newly hired office manager had received a copy of the complaint, the summons, and the motion for a default judgment. The manager erroneously mailed the material to Vali-hora’s insurance carrier, expecting the insurance carrier to defend the action, as it had handled the case previously. The trial court granted Valihora’s Civ. R. 60(B) motion. This court affirmed the trial court’s judgment, holding the court below had not abused its discretion in granting the motion.
+GTE Automatic Electric, Inc. v. ARC Industries, Inc. (1976), 47 Ohio St. 2d 146, 1 O.O. 3d 86, 361 N.E. 2d 113, provides that in order for a defendant-movant to prevail on a Civ. R. 60(B) motion, he must demonstrate that: (1) he has a meritorious defense to present if relief is granted; (2) he is entitled to relief under one of the grounds stated in Civ. R. 60(B)(1) through (5); and (3) he has made his motion within a reasonable time, and except with respect to the grounds provided in Civ. R. 60(B)(4) and (5), the motion must be made within one year after judgment. In support of its Civ. R. 60(B) motion, appellee submitted the affidavit of John Reherman, an officer of appellee. The affidavit stated that when certified mail service and ordinary mail service were effected, appellee’s bookkeeper failed to forward the summons to the appropriate person. Therefore, appellee argues, it did not have proper notice of the lawsuit. The bookkeeper was subsequently fired by ap-pellee.
+The trial court did not abuse its discretion in determining from the aforementioned evidence that two parts of the three-pronged GTE Automatic Electric test were met: (1) appellee was entitled to relief because of excusable neglect on its part in defending the suit, provided as a ground for relief in Civ. R. 60(B)(1), Colley v. Bazell (1980), 64 Ohio St. 2d 243, 18 O.O. 3d 442, 416 N.E. 2d 605; (2) likewise there is adequate evidence to support a determination that appellee’s Civ. R. 60(B) motion was made within a reasonable time.
+With respect to the third requirement of the GTE Automatic Electric test, that appellee demonstrate it has a meritorious defense to present, appellee satisfied that requirement by producing evidence indicating that it approved only a $70 per month advertising service and that, therefore, it owes only a portion of the amount claimed by appellant.
+Appellant’s sole assignment of error is overruled and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Doan, P.J., and Keefe; J., concur.
+Black, J., dissents.
+This court has sua sponte removed this case from its accelerated calendar and placed it on the court’s regular calendar.
+
+## Dissent (Black, J.,)
+
+Black, J.,
+dissenting. The pivotal question is whether the court abused its discretion in determining that the defendant’s failure to respond to service of summons was excusable. Civ. R. 60 (B)(1). The certified mail summons was returned as “unclaimed,” and the complaint was served on defendant by ordinary mail. The envelope was never returned with an endorsement showing failure of delivery. Civ. R. 4.6(D). Defendant concedes that service was duly completed. The summons stated, among other things:
+“A complaint has been filed against you * * *.
+<<* * *
+“IT IS STRONGLY RECOMMENDED THAT YOU CONSULT AN ATTORNEY.
+“The complaint of plaintiff will be taken as true, and a Default Judgment will be rendered against you, unless you do both of the following:
+“1. Within 28 days after you receive this summons, serve a written answer upon the Plaintiff’s Attorney, if any, or upon the Plaintiff.
+<<* * *
+“2. Within the 3 days thereafter, file a copy of that answer with the Clerk of Courts, Room 202-C, Alms & Doepke Bldg., Cincinnati, Ohio 45202.
+The one and only reason presented by defendant for its failure to answer the complaint was that the bookkeeper responsible for handling claims against defendant did not process the paper properly. The pertinent statement in John D. Reherman’s affidavit reads:
+“6. That at or about the time suit was filed and ordinary mail service was made on defendant, the bookkeeper in charge of said items was not processing these or other important papers properly and was terminated by defendant.
+“7. That as a result of the bookkeeper’s inaction, defendant did not have proper notice of the pending cause.”
+The failure to respond was neglectful, not willful, but it was not excusable, in my opinion. Inefficient, improper or negligent internal procedures in an organization cannot comprise excusable neglect; they cannot, ipso facto, permit the vacation of a default judgment. Miller v. Sybert (July 25,1985), Auglaize App. No. 2-84-13, unreported (ordinary mail delivered to defendant’s post office mail box where the mail was accessible to other persons and where it was never picked up by either of defendant’s friends while he was out of state; this failure is not excusable); LaKing Trucking, Inc. v. Coastal Tank Lines, Inc. (Feb. 9, 1984), Allen App. No. 1-83-3, unreported (summons received in a corporate mail room but lost before being brought to the attention of the proper officer; this is not excusable neglect). See Bell v. Sandhu (Feb. 27, 1986), Cuyahoga App. No. 50144, unreported (failure of defendant to contact his attorney until too late [the attorney was out of town shortly before hearing] and failure to notify the court or request a continuance even though present in the courthouse on the day of the default hearing).
+There may be circumstances in addition to the negligence of the recipient that may entitle defendant to claim the failure was excusable. For instance, the failure of a wife who picked up the certified mail envelope at the couple’s post office box to make sure of delivery to her estranged husband with whom she did not communicate adds an element that supports the finding of excusable neglect. Continental Supply, Inc. v. Covey (Feb. 4, 1985), Warren App. No. CA84-03-021, unreported. It was also excusable for an employee of defendant’s corporation to return the certified mail envelope to the post office when she noticed it was addressed not to the corporation but to the defendant individually. Lynd v. Mason (Nov. 19, 1985), Franklin App. No. 85AP-461, unreported.
+When the recipient of the summons or complaint takes action by forwarding it to his insurance carrier, which fails to take any action to protect its insured, the courts have held that this is excusable neglect, even though the recipient failed to make further inquiries about the status of the litigation. Colley v. Bazell (1980), 64 Ohio St. 2d 243, 18 O.O. 3d 442, 416 N.E. 2d 605; Oberle v. Valihora Motor Transp., Inc. (June 5, 1985), Hamilton App. No. C-840549, unreported.
+We have never held that the unexplained inaction of a recipient who is duly served with a summons or complaint amounts to excusable neglect. It would undermine and subvert the judicial process if we allow the negligent handling of official court communications, in and by itself, to be a sufficient excuse for a failure to answer. Such a rule will cause doubt on every service by mail. It will allow an extraordinary number of judgments to be vacated even though they were duly obtained in accordance with established court procedures.
