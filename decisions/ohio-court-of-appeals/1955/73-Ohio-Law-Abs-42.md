@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "498"
+decided: "1955-10-31"
+citations: ["73 Ohio Law Abs. 42"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(GRIFFITH, J, of the Seventh District, sitting by designation in the Second District.)", "MILLER, PJ, HORNBECK, and GRIFFITH, JJ, concur."]
+parties: ["WAGNER AND MOTORISTS MUTUAL INSURANCE COMPANY, a Corporation, Plaintiffs-Appellants, v. MAGILL, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/73/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1785772
+---
+
+# Wagner & Motorists Mutual Insurance v. Magill
+
+## Majority (By THE COURT:)
+
+OPINION
+By THE COURT:
+This is a law appeal from a judgment of the Common Pleas Court in favor of the defendant-appellee and tried by the court without the intervention of a jury which was waived. The action was one for damages arising out of a collision between the automobiles of Jess M Wagner, one of the plaintiffs, and Donald I. Magill, defendant. The record discloses that Wagner was insured by the Motorist Mutual Insurance Company for all damages arising out of the collision in excess of the sum of $50.00, and for which he has been reimbursed. To this extent the insurance company has been subrogated to the rights of the plaintiff, Jess M. Wagner.
+The only errors assigned relate to the sufficiency of the evidence to support the verdict and judgment of the court. It appears that at approximately 6:15 P. M. on the night of October 27th, 1951, the defendant was driving his light delivery truck south on Main Street in the City of Piqua, Ohio; that he made a left-hand turn into a private driveway for the purpose of turning around; that he backed out onto said street and was struck in the rear by the automobile of the plaintiff which was proceeding north on said Main Street and being driven by plaintiff’s son. Paul Wagner. The defendant is charged with the following acts of negligence, to wit:
+1. In backing the said Chevrolet panel truck without first determining that such backing could be made with reasonable safety.
+2. In backing the said Chevrolet panel truck without giving any warning and without exercising vigilance not to injure the automobile of Jess M. Wagner which was then being operated on said South Main-Street at said time.
+The plaintiff offered the deposition of his son, Paul Wagner, who testified that he was the driver of the plaintiff’s automobile: that he had just pulled out from the curb about one-half of a square south of the private driveway from which the defendant suddenly appeared as he was about two car lengths from the same; that he was operating his automobile in a northerly direction on the east side of South Main Street and could not stop because the street was wet and slippery; that he was going not over twenty miles per hour when he first saw the defendant backing out into his lane of traffic; that the truck was at an angle when he hit it in the rear; that its driver gave no signal prior to his backing. On cross-examination he admitted that he had no lights on his car although it was rather dark. One other witness was called by the plaintiff, who stated that he was seated in his automobile which was parked several car lengths north of the private driveway and saw the truck backing out. He testified that the truck had just completed its backward motion and was ready to proceed forward when it was struck. He did not see the collision, but only heard it. The defendant, testifying in his own behalf, stated that he had pulled into the driveway in order to turn around; that before starting his backward motion he blew no horn but he looked south on Main Street and saw a car with lights on coming north; that he waited for it to pass before starting his backward movement; that he saw nothing else coming north so he proceeded to back out onto the street while looking to his rear; that just as he straightened out the steering wheel and shifted into first gear, he was hit in the rear. He said that there was no car approaching when he backed out and he did not know where the plaintiff’s car came from. He stated that the street lights were on at the time and that he could see about three-fourths to a block away. In regards to the visibility at the time he testified as follows at page 21 of the record:
+“Q. Now, if he had been coming down the street, the way you were looking while you were backing out, you would have seen him?
+“A. From the point where he was supposed to be parked at I could have seen him.”
+It was not claimed that the driver of the plaintiff’s car was acting for or on behalf of the plaintiff; hence, any negligence on his part cannot be imputed to the plaintiff. Therefore, the only question presented is whether the defendant was guilty of any acts of negligence which were a proximate cause of the injuries complained of. The plaintiff urges that the trial court made a special finding of law and fact which was not in accord with the evidence and was contrary to law. These findings are claimed to be grounded upon a certain letter which was sent by the trial judge to each of counsel when he advised them of his verdict. A request was not made for such a finding and the letter was not made a part of the record; therefore, it may not be considered by a reviewing court. The duties and obligations imposed upon the defendant under the facts presented are found in §6307-37 GC (now §4511.38 R. C.), to wit:
+* *
+“(b) Before backing, operators of vehicles, street cars or trackless trolleys, shall give ample warning and while backing shall exercise vigilance not to injure person or property on the street or highway.”
+In finding for the defendant the court was compelled to conclude that he had not violated the provisions of this section of the Code or if he had committed a violation that the same was not a proximate cause of the injury. For the court to arrive at either of these conclusions we hold would be against the manifest weight of the evidence since it appears that even though the plaintiff’s car was proceeding without lights it could have been seen when three-fourths to one block away. The defendant testified to this effect. Therefore, if he had complied with the requirements of the statute he would have seen the plaintiff’s car approaching and yielded to it the right of way. Failure to so yield was, in our opinion, a proximate cause of the plaintiff’s injury. The judgment will be reversed as being against the manifest weight of the evidence and the cause will be remanded for further proceedings according to law.
+MILLER, PJ, HORNBECK, and GRIFFITH, JJ, concur.
