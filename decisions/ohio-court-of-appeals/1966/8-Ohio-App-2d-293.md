@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9938 and 9939"
+decided: "1966-11-28"
+citations: ["8 Ohio App. 2d 293"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hildebrant, P. J., and Hover, J., concur."]
+parties: ["City of Cincinnati, Appellee, v. H. & S. Pogue Co., Appellant; et al., Appellees. (Two cases.)"]
+source_url: "https://static.case.law/ohio-app-2d/8/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1461847
+cites_cases: ["166 Ohio St. 249"]
+---
+
+# City of Cincinnati v. H. & S. Pogue Co.
+
+## Majority (Long, J.)
+
+Long, J.
+These are appeals on questions of law from a judgment of the Common Pleas Court of Hamilton County fixing the rights of the prime lessee and a sublessee to share the award in an appropriation proceeding.
+There is no dispute that the city of Cincinnati filed an application to assess compensation against Hilda Knoll as the owner of property at 405 Race Street, Cincinnati, Ohio. Hilda Knoll leased the property to the H. & S. Pogue Company for a term of ten years at a monthly rental of $650. Subsequently, Pogue sublet the property to Solway for the balance of the term of the Pogue lease at a rental of $500 per month. The prime lease and, of course, the sublease both expire on February 14, 1967. Under the Pogue department store expansion program it could no longer use the premises in question and sought the lease with Solway as a method of, at least, saving $500 per month on its obligation to Knoll.
+On December 10, 1965, the jury in the court below assessed the value of all interests in the property at $92,400. Among other interests included for determination were those of Pogue, prime lessee, and Solway, sublessee. No appeal has been taken from the gross award of $92,400. Motions were made by Pogue and Solway for apportionment of the proceeds of the appropriation award, and both motions were denied — the entire proceeds were awarded to Knoll.
+The sole issue in this case, as this court sees it, is whether a subtenant in lawful possession of real estate, with the consent of the owner and in pursuance of the express terms of the prime lease between the owner and the prime lessee, has an interest in such real estate entitling such subtenant to a right to share in an appropriation award. In the judgment of this court this issue must be answered in the affirmative. There is no dispute as to the facts.
+When Pogue sublet to Solway the balance of its term with the consent of Knoll, Pogue no longer had a right to possession or enjoyment as tenant of the property.
+As to the rights of the subtenant, Solway, we think the reasoning of Judge Taft, in Queen City Realty Co. v. Linzell, Dir., 166 Ohio St. 249, applies: While there is no evidence that the sublease was made at a bargain price for rental, there is substantial evidence that the reasonable rental value of comparable property in the vicinity has increased since the sublease was made; that improvements have increased the reasonable value of the property.
+The only evidence offered as to the value of the sublease-hold is that of the Solway expert who gave as his opinion, $7,-000. The witness then goes on to explain how he arrives at that figure: (1) The rental to be paid without improvement; (2) improvements which were made; (3) reasonable value of the use of the real estate still remaining.
+Claim is made that one of the experts testified that the balance of fourteen months remaining of the sublease had no rental value; that is to say, it would be impossible to procure a tenant to go into the premises and pay rent for the fourteen months remaining in the lease. For this reason it is urged that there should not be allowed any award of participation in the jury’s allowance. It is true that it might be impossible to get anyone to rent the premises for only fourteen months at any price, but this is not the yardstick to measure the value of the leasehold. As Judge Taft says in Queen City Realty Co. v. Linzell, Dir., 166 Ohio St. 249:
+‘ ‘ The value of a leasehold interest will always be necessarily dependent upon at least two factors, i. e., (1) the rental to be paid for the real estate leased, and (2) the reasonable value of the use of that real estate for the period of the lease. * * *” (Emphasis added.)
+The judgment of the trial court is sustained in part and reversed in part. The judgment of the court overruling the motion of H. & S. Pogue Company to apportion in its favor proceeds of the appropriation award to Hilda Knoll is affirmed. The denial of the motion of Gail F. Solway and Carl E. Solway to apportion in their favor proceeds of the appropriation award is reversed; and the court, coming on to render the judgment which the lower court should have rendered, hereby apportions to Gail F. and Carl E. Solway the sum of $7,000, to be paid them out of the appropriation award.
+Judgments accordingly.
+Hildebrant, P. J., and Hover, J., concur.
