@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6485"
+decided: "1945-02-19"
+citations: ["75 Ohio App. 310"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hildebrant, P. J., Matthews and- Ross, JJ., concur in the syllabus and opinion."]
+parties: ["Lumpkin, Appellant, v. Metropolitan Life Ins. Co., Appellee."]
+source_url: "https://static.case.law/ohio-app/75/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1379002
+cites_cases: ["143 Ohio St., 421", "15 Ohio Law Abs., 268", "162 N. E., 822", "23 Ohio Law Abs., 117", "28 Ohio App., 497", "29 A. L. R., 658", "30 Ohio Law Abs., 353", "33 Ohio Law Abs., 525", "56 N. E., 908", "58 Ohio App., 415", "60 Ohio App., 22", "62 Ohio St., 204", "64 Ohio App., 346", "67 N. E., 254", "68 Ohio St., 151"]
+---
+
+# Lumpkin v. Metropolitan Life Ins.
+
+## Majority (Ross, J.)
+
+Ross, J.
+This is an appeal on questions of law from a judgment of the Court of Common Pleas of Hamilton county, in favor of the defendant. Trial was to the court without a jury.
+The plaintiff is the beneficiary in a policy of insurance upon her daughter who died on May 28, 1943. The policy was issued on October 12, 1942. The cause of the death of the insured, according to the proof of death, was myocarditis. The policy contains the following clause:
+“When policy is incontestable and when voidable. This policy shall be incontestable after it has been in force during the lifetime of the insured for a period of one year from its date of issue, except for nonpayment of premiums.
+“Subject to the foregoing provision, if within two years prior to the date of issue of this policy, the insured has received institutional, hospital, medical, or surgical treatment or attention, and the insured or any claimant under the policy fails to show that the condition occasioning such treatment or attention was not of a serious nature or was not material to the risk, this policy shall be voidable by the company either before or after any claim, unless reference to such institutional, hospital, medical, or surgical treatment or attention is endorsed on this policy by the company; provided, however, that this policy shall not be voidable because of absence of endorsement referring to any information which was disclosed in a written application .for this policy.”
+The defendant for defense set out the quoted provision in the policy, and alleged that within two years prior to the date of the issue of the policy the insured had received hospital and medical treatment and attention, and that it had not been shown that the condition occasioning such treatment or attention was not of a serious nature or was not material to the risk.
+It appears from the entries in a report of the general hospital in Cincinnati, a public hospital, that the insured had been in such hospital many times during the two years preceding the date when the policy was issued. It also appears that she was suffering from and was treated in such hospital for acute diabetes. There is no evidence that such disease “was not of a serious nature.” There was evidence that “it may be mild and it may be severe.”
+The stipulation upon which the defendant relies is in the policy. The defendant does not rely upon a fraudulent answer to an interrogatory in the application, and Section 9391, General Code (Section 3625, Revised Statutes), lias no application. Metropolitan Life Ins. Co. v. Howle, 62 Ohio St., 204, 56 N. E., 908; Aetna Life Ins. Co. v. Dorney, 68 Ohio St., 151, 158, 67 N. E., 254; 29 A. L. R., 658.
+Complaint is made that the provisions of Section 11494, General Code, were violated in that the hospital record was admitted in evidence and hospital physicians permitted to testify as to treatment of the insured.
+Such record is admissible under the provisions of Section 12102-23, General Code. In Dickson, an Infant, v. Gastl, 64 Ohio App., 346, 28 N. E. (2d), 688, this court held the statute inapplicable as to á hospital record “because it is limited by its terms to such entries as the custodian testifies were made ‘at or near the time of the act, condition or event.’ ” The situation in the Dickson case does not apply in the instant case. The entries here were on the whole' applicable to the condition of the insured at the date of the entry in the record. The entries in the instant case were not mere self-serving declarations, made to a hospital attendant as was the situation in the Dickson case. The records were properly admitted in evidence and it is presumed the court excluded such portions thereof in its consideration of the case as were incompetent and irrelevant.
+In Kellogg v. Industrial Commission, 60 Ohio App., 22, 27, 19 N. E. (2d), 511, this court sustained -the competency of such a hospital record. That case was decided on June 6, 1938. Section 12102-23, General Code, became effective on September 6, 1939, and was, of course, not considered by this court in the Kellogg case.
+In Schmitt v. Doehler Die Casting Co., 143 Ohio St., 421, 55 N. E. (2d), 644, this statute was construed and limited in its application to exclude entries in such records which amount to no more than self-serving declarations. The evidence in the instant case has no such fault.
+The case of Eikenberry v. McFall, 33 Ohio Law Abs., 525, 36 N. E. (2d), 27, holding contrary to the rule here pronounced, is noted and will require certification of this case to the Supreme Court.
+Complaint is also made that a hospital physician was permitted to testify as to the physical condition of insured and her treatment. Even if such testimony could be considered as including confidential communications,^ it was admissible for the reason that^such physician was an employee of a public hospital and did not bear the relation of a private physician personally employed by the insured. Her contractual relation was with the hospital and not with its physician. This distinction has been noted in Dewert v. Cincinnati Milling Machine Co., 38 O. L. R., 318, 15 Ohio Law Abs., 268. See, also, Wills, Sr., Admr., v. National Life & Accident Ins. Co., 28 Ohio App., 497, 162 N. E., 822; Nelson v. Western & Southern Indemnity Co., 23 Ohio Law Abs., 117, 118.
+In Bowers v. Industrial Commission, 30 Ohio Law Abs., 353, the court stated a preference for the opinion of this court in Wills, Sr., Admr., v. National Life & Accident Ins. Co., supra, as against the contrary conclusion in Lamarand v. National Life & Accident Ins. Co., 58 Ohio App., 415, 16 N. E. (2d), 701. In the opinion in the Bowers case it is stated:
+“We recognize the principle announced in the case of Lamarand v. National Life & Accident Insurance Company, decided December 13, 1937, in the Court of Appeals, Lucas County, Ohio, and reported in Vol. 58 Oh Ap 415. In principle this case in effect announces the physician-patient privilege applies to the relationship between a physician and patient in a public hospital.
+“A contrary opinion was announced by the Court of Appeals of Cuyahoga County in the case of Wills, Sr., Admr., v. National Life & Accident Insurance Company, 28 Ohio App., 497.
+“In a proper case we would be inclined to follow the later decision which we find to be in line with the great weight of authority in other jurisdictions.”
+There seems to be no logical reason for departing from the previously expressed opinion of this court, nor for distinguishing the admissible record of the hospital containing the physician’s diagnosis and treatment from his testimony upon the same matters, especially, as is the case here, where the memory of the physician is refreshed from the admissible record. Again, there being a conflict with the judgment of another Court of Appeals, certification is necessary.
+Complaint is also made that the application was admitted in evidence. No prejudice to the plaintiff appears from such admission. The application’s relevancy to the issues presented, however, does not appear. The defendant did not rely upon the application, hut upon the policy. Upon the entire record, it conclusively appears that the insured had been in a public hospital many times within the two years immediately preceding her receipt of the policy; that she failed to divulge such information to the insurer; and that her beneficiary has failed to show that the diseases for which she received treatment were not of a serious character. Such being the case, the terms of the policy contract definitely apply and prohibit any recovery, other than the tendered premiums paid.
+The judgment is affirmed.
+In view of the conflict with the cases of Eikenberry v. McFall and Lamarand v. National Life & Accident Ins. Co., supra, the case is certified to the Supreme Court.
+Judgment affirmed.
+Hildebrant, P. J., Matthews and- Ross, JJ., concur in the syllabus and opinion.
