@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10410"
+decided: "1987-07-29"
+citations: ["41 Ohio App. 3d 109"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan and Wolff, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Brandenburg, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/41/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712976
+cites_cases: ["15 Ohio St. 2d 110", "18 O.O. 3d 472", "238 N.E. 2d 766", "24 OBR 61", "24 Ohio App. 3d 38", "280 N.E. 2d 376", "29 Ohio St. 2d 152", "301 N.E. 2d 709", "35 Ohio App. 2d 221", "379 U.S. 89", "384 U.S. 757", "392 U.S. 1", "407 U.S. 143", "414 N.E. 2d 1044", "44 O.O. 2d 81", "492 N.E. 2d 1254", "58 O.O. 2d 349", "64 O.O. 2d 342", "64 Ohio St. 2d 291"]
+---
+
+# State v. Brandenburg
+
+## Majority (Fain, J.)
+
+Fain, J.
+At approximately 2:80 a.m. on November 6, 1986, an Ohio State Trooper clocked the defendant-appellant, Kenneth Brandenburg, traveling fifty-six miles per hour in a posted thirty-five-miles-per-hour zone on Dixie Drive. The police officer did not immediately stop Brandenburg’s car, but followed the car for about a mile. During that time, Brandenburg’s car slowed to the posted speed limit and weaved off the road four times by about a foot and a half each time.
+The police officer then stopped the car under the suspicion that its driver was driving under the influence of alcohol. He noticed Brandenburg’s eyes were bloodshot, his speech was slurred, and there was a “strong” odor of alcohol about him. The police officer then asked Brandenburg to submit to several field sobriety tests, including the nystagmus test, the heel-to-toe test, the finger-to-nose test, and two simple balancing tests. Although Brandenburg scored fairly well on some of the tests, the police officer believed probable cause existed and placed Brandenburg under arrest for violation of R.C. 4511.19 and 4511.33. Brandenburg was advised of his Miranda rights on the way to the police station. At the police station, a blood-alcohol content reading of .15 was recorded.
+Brandenburg’s First Assignment of Error is stated as follows:
+“The trial court erred in denying appellant’s motion to dismiss the action for the reason that the appellant’s arrest was not based upon probable cause.”
+Brandenburg’s arguments are more properly divided into two parts. The first involves the sufficiency of reasonable cause to make the initial investigative stop, and the second involves the sufficiency of probable cause to arrest for driving under the influence of alcohol. The two standards are distinct and therefore must be considered separately.
+Brandenburg argues that there was insufficient cause for the investigative stop by the police officer. Probable cause to arrest a suspect for driving under the influence is not necessary in order to stop a vehicle for suspected criminal activity. See Terry v. Ohio (1968), 392 U.S. 1, 22; State v. Freeman (1980), 64 Ohio St. 2d 291, 294, 18 O.O. 3d 472, 473, 414 N.E. 2d 1044, 1046. As this court stated in State v. Fallon (Oct. 21, 1985), Montgomery App. No. 8868, unreported, less than probable cause for an arrest is needed for police to make an investigative stop. There must be, however, specific and articulable facts warranting the stop.
+In this case, Brandenburg was going twenty-one miles per hour over the posted speed limit. He also weaved out of his lane and onto the berm of the road several times in a relatively short distance. These specific and articulable facts were sufficient to create a reasonable suspicion that Brandenburg was involved in criminal activity. When facts similar to these present themselves, a police officer is allowed to investigate the suspected criminal activity. This policy avoids requiring the police officer to ignore possible criminal activity and, in effect, to allow a possible criminal to escape. See, e.g., Adams v. Williams (1972), 407 U.S. 143; Terry v. Ohio, supra.
+There was also sufficient probable cause for the police officer subsequently to arrest Brandenburg for driving under the influence of alcohol. In Beck v. Ohio (1964), 379 U.S. 89, 91, the United States Supreme Court held that probable cause for an arrest existed when:
+“* * * the facts and circumstances within their [police] knowledge and of which they had reasonable trustworthy information were sufficient to warrant a prudent man in believing that the * * * [defendant] had committed or was committing an offense.”
+See, also, State v. Heston (1972), 29 Ohio St. 2d 152, 155-156, 58 O.O. 2d 349, 351, 280 N.E. 2d 376, 379. Ohio decisions have interpreted this definition to include the “totality” of. facts and circumstances surrounding the arrest. See State v. Finch (1985), 24 Ohio App. 3d 38, 24 OBR 61, 492 N.E. 2d 1254; Atwell v. State (1973), 35 Ohio App. 2d 221, 64 O.O. 2d 342, 301 N.E. 2d 709, paragraph two of the syllabus. Therefore, the totality of facts and circumstances includes Brandenburg’s activities immediately upon exiting his vehicle. Atwell v. State, supra.
+Probable cause may exist even in the absence of any evidence of impaired motor coordination. State v. Finch, supra. In this case, Brandenburg was speeding considerably and weaving out of his lane and onto the berm of the road. The police officer also noticed that Brandenburg had bloodshot eyes, slurred speech, and a “strong” odor of alcohol about him. In addition to these facts, Brandenburg failed the nystagmus field sobriety test and did poorly in three other tests. Although Brandenburg claims he did well on some of the tests, the facts and circumstances in their totality would allow a reasonably prudent person to believe a criminal offense had been committed. Brandenburg’s First Assignment of Error is overruled.
+Brandenburg’s Second Assignment of Error states:
+“The trial court erred in allowing the field sobriety test results into evidence violating the appellant’s right against self-incrimination.”
+Brandenburg argues that since the police officer believed probable cause existed only after the sobriety tests, the officer’s requiring him to undergo field sobriety testing violated Brandenburg’s privilege against self-incrimination. We disagree. This court has stated that under “circumstances preliminary to possible arrest a party is not entitled to' the safeguards of the Constitution guaranteed to one charged with a crime.” Huber Heights v. Cokins (Oct. 31, 1984), Montgomery App. No. 8822, unreported, at 2.
+Furthermore, the United States Supreme Court has held that only testimonial and communicative acts are protected by the privilege against self-incrimination set forth in the Fifth Amendment. Schmerber v. California (1966), 384 U.S. 757. That case excluded chemical tests to determine blood-alcohol content from the definition of “testimonial or communicative acts.” The Ohio Supreme Court has held that testimonial and communicative acts were those disclosing “matter communicated by the accused from his knowledge of the offense.” Piqua v. Hinger (1968), 15 Ohio St. 2d 110, 113, 44 O.O. 2d 81, 82, 238 N.E. 2d 766, 768. In Hinger it was held that physical sobriety tests and films made of them did not constitute “testimonial or communicative acts.”
+In the case before us, Brandenburg’s performance in the tests was not communication elicited from him regarding his knowledge of the offense. By holding the results of field sobriety tests are not testimonial or communicative acts, we do not reach the question whether roadside questioning is, in essence, custodial interrogation. The test results are “constitutionally admissible, even if compelled, and irrespective of whether the warnings required by Miranda are given.” (Emphasis added.) Id. Appellant’s Second Assignment of Error is overruled.
+Both of Brandenburg’s assignments of error having been overruled, the judgment of the trial court will be affirmed.
+Judgment affirmed.
+Brogan and Wolff, JJ., concur.
