@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1916-03-21"
+citations: ["5 Ohio App. 404"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shields, J., concurs.", "Powell, J., dissents."]
+parties: ["Pugh, Receiver, v. The American Bonding Co."]
+source_url: "https://static.case.law/ohio-app/5/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1836016
+---
+
+# Pugh v. American Bonding Co.
+
+## Majority (Houck, J.)
+
+Houck, J.
+This cause is in this court on error. It is sought by this proceeding to reverse the judgment of the common pleas court obtained by the defendant in error, plaintiff below, against the plaintiff in error, defendant below.
+The material facts in this case necessary to determine the rights of the parties hereto are as follows: George P. Webb, the then receiver of The Homestead Building & Savings Company, was authorized by the court by whom he was appointed receiver to bring suit and attach certain property reputed to belong to one Mary J. Lingafelter, which he did, giving bond with The American Bonding Company as surety, which bond was issued to him on his written application and contract with said bonding company. Said suit in attachment having terminated in favor of Mary J. Lingafelter, and the said George P. Webb having departed this life, the said Mary J. Lingafelter brought suit against the plaintiff in error here, Joseph N. Pugh, the successor of the said George P. Webb, as receiver aforesaid, and The American Bonding Company, for damages growing out of said suit in attachment. On motion made to the court the said Mary J. Lingafelter was required to elect which defendant she would prosecute and she elected to prosecute suit against the bonding company. The suit terminated in favor of the bonding company. The American Bonding Company then filed an intervening petition seeking to recover from the funds in the hands of said receiver the attorney’s fees and expenses incurred in defending said suit. The court below ordered and directed the receiver to allow said claim to the amount of $432.25, with interest. To this order and judgment of the court below the plaintiff in error prosecutes error to this court asking a reversal of judgment.
+Plaintiff in error contends, first, that the contract for the bond in question was not the contract of Joseph N. Pugh, receiver, but was the contract of George P. Webb, as receiver; second, that the agreement to indemnify the bonding company against litigation, costs, attorney fees, etc., was upon Webb only, and could not bind the funds in his hands as such receiver; and, third, that there was no liability on the bond.
+It is earnestly contended by counsel for plaintiff in error that because Webb, as receiver, made application for the surety bond in question, any agreement made by him and any liability incurred thereby does not bind his successor, Joseph N. Pugh, as receiver. We can not agree with counsel in this. A receiver is simply the creature of the court, and acts for the court, and to all intents and purposes, so far as the receivership is concerned, is the court to that extent; and the mere fact that a receiver dies, or resigns, or is removed by the court, and a new one is appointed, in no way lessens the legal liability of the receiver, and in no way affects or lessens the lawful acts done by his predecessor under authority of and direction of the court, which fully appears in the instant case. The claim that the liability, if any exists, is a personal one against Webb, and does not bind the funds in the hands of the receiver, is not well taken. The surety bond in question was secured by order of the court. The application and contract for the same was made with the bonding company by Webb, as receiver, in the interest of and for the benefit of the trust estate, and not in the interest of or for the benefit of Webb personally. The application was made by Webb as receiver, and the bond was issued to him as such, and his successor and the trust estate are bound thereby in just the same degree and to the same extent as if Webb had continued as such receiver.
+An examination of the application and contract made by the receiver, Webb, clearly shows an express contract whereby the receiver agrees to save the bonding company from any damages, costs, etc., as will fully appear in paragraph four of said contract, which is as follows:
+“That said applicant [Webb] hereby further agrees in the event of a failure to comply with any or all of the covenants, conditions and agreements hereinbefore expressed, to substitute other sureties on said bond within fifteen days after notice of such non-compliance or default has been given to said applicant, by the said company. Any’ damages, costs or expense which said company may sustain, or incur, or be put to, including traveling expenses, costs for investigations, court costs and lawyers’ fees, in obtaining a release or discharge from said bond as surety thereon, shall be borne and paid by said applicant, when and as said company’s liability for the same shall accrue.”
+In the light of the provisions, conditions and terms of the said contract between Webb, as receiver, and the bonding company, in the light of the law governing receivers, their rights and liabilities upon contracts, made in the interest of the trusts they represent, by and under the authority and direction of the court appointing them, and in the light of the law governing the rights of principal and agent, we can arrive at but one conclusion, and that is that the judgment of the court below is right; and a majority of the court being of that opinion, the judgment of the court of common pleas is affirmed.
+Judgment affirmed.
+Shields, J., concurs.
+Powell, J., dissents.
