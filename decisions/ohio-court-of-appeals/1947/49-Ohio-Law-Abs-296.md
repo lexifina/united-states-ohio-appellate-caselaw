@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "20680"
+decided: "1947-06-23"
+citations: ["49 Ohio Law Abs. 296"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HURD, PJ., concurs.", "MORGAN, J., concurs."]
+parties: ["COOPER-FORTIETH CO., Plaintiff Appellees, v KELLER, et Defendants Appellants"]
+source_url: "https://static.case.law/ohio-law-abs/49/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741400
+---
+
+# Cooper-Fortieth Co. v. Keller
+
+## Majority (By SKEEL. J.)
+
+OPINION
+By SKEEL. J.
+This case comes to this court on questions of law and fact.
+The record, as made in the trial court, is presented by the parties as the evidence upon which the issues of fact are to be determined. The record discloses that the plaintiff corporation was organized to take title to an old church property located at the corner of Cooper Avenue and East 40th Street in the City of Cleveland. Prior to such corporation becoming the owner of such property, title was in the First Evangelical Church. The stockholders of the corporation were those who held certain obligations against the church and who can-celled such obligations in exchange for shares of stock in the plaintiff corporation.
+The plaintiff corporation became the owner of the property in 1935 and from that time on was desirous of selling it so that each stockholder could realize his proportionate share of the assets of the company.
+One of the members of the Board of Directors of the corporation, a Mr. T. G. Melkerson, mentioned to the defendant the desire of the corporation to sell the property, while they were both attending a social gathering in November, 1945. The fact that the defendant was not a licensed real estate broker was given some consideration, and while the evidence is in conflict, it is clear that Melkerson indicated that the Board of Directors of the plaintiff corporation would be likely to grant the defendant a commission in the event he was successful in selling the property.
+There is no evidence that Melkerson was ever empowered by the Board of Directors to employ the services of the defendant as a real estate agent to dispose of its property or that the Board of Directors ever officially or otherwise directly authorized his employment.
+The defendant, on or about December 10, 1945, presented an offer to purchase the property which he procured from The Barker Products Company, for the sum of $5000.00. This offer was presented to the Directors and by them refused. Subsequently the defendant received a written offer from The Hodell Chain Company in the sum of $6000.00, out of which the plaintiff would have had to pay the real estate commission, if any commission was paid.- The offer further provided for the prorating of taxes. This offer was dated December 17, 1945.
+There is considerable conflict in the record as to whether the defendant reported the full context of the offer to Mr. Melkerson but at least the fact that an offer had been received was unquestionably made known to him. The defendant then, on or about December 27, 1945, offered to buy the property himself for $6000.00, which offer was substantially better than the Hodell Chain Company offer of December 17, 1945, in that the plaintiff was relieved of the obligation to paying a real estate commission and that the purchaser would assume to pay all unpaid taxes.
+Mr. Melkerson communicated the fact of such offer by telephone to each of the Directors and they directed that the offer should be accepted. Melkerson was directed by the Board members to secure a down payment. The down-payment of. $200.00 was received by Mr. Melkerson as secretary of the plaintiff corporation on January 7, 1946. The written agreement of purchase was signed on January 25, 1946 and the sale to defendant went into escrow on February 13, 1946 and was concluded February 19, 1946.
+After the verbal offer was made by defendant on Dec. 27, 1945, to purchase the property for $6000.00, the plaintiff introduced some evidence that the defendant received an offer from a Mr. John J. Koch of the Kinsman Supply Company to buy the property for $8000.00. Mr. Koch also Supports this claim. The offer was not communicated to the plaintiff by the defendant. The defendant denies ever having received such an offer. It is further denied by the defendant that on January 18, 1946, a verbal offer to buy the property was communicated to him' by an officer of The Hodell Chain Company for the sum of $12,000.00. This is the same company that, according to its letter of Dec. 17, 1945, just one month, previous, by authorization. of a resolution of its Board of Directors, offered $6000.00 for the property. There is no conflict in the evidence that if in fact the offer of the Kinsman Supply Company for $8000.00 and the second offer of the Hodell Chain Company for $12,000.00 was in fact made, they were not communicated to the plaintiff corporation by the defendant.
+It is the claim of the plaintiff, in seeking to set aside the transfer of title to the defendant, that the defendant as agent of the plaintiff owed the duty to disclose to his principal, offers received in his capacity as agent for a greater amount than the offer which he made to purchase the property in his own behalf, and his failure to disclose such offers constituted fraudulent conduct, entitling the plaintiff to set aside the sale of the property.
+The attempt to employ the defendant as a real estate agent was, because he had not complied with §6373-26 GC an unlawful act.
+Sec. 6373-26 GC provides as follows:
+“License required: No person, partnership, association or corporation shall act as a real estate broker or as a real estate salesman or advertise or assume to act as such without first being licensed so to do as provided in this act.”
+Sec. 6373-49 provides:
+“No right of action shall accrue to any person, partnership, association or corporation for the collection of compensation for the performance of the acts mention in §6373-25 GC, without alleging and proving that such person, partnership, association or corporation was duly licensed as a real estate broker or a real estate salesman, as the case may be, at the time the cause of action arose.”
+Sec. 6373-49 provides:
+“Whoever violates §6373-26 GC shall upon conviction thereof be fined not less than twenty-five dollars, nor more than one' thousand dollars, or imprisoned in the county jail not to exceed one year or both.”
+Paragraph 25 of §6373 GC referred to in paragraph 48 supra, defines a real estate broker and in part provides:
+“The term ‘real estate broker’ shall include any person * * * who for another and for a fee commission or other valuable consideration, or who with the intention or iri the expectation or upon the promise of receiving or collecting a fee, commission or other valuable consideration, sells, exchanges, purchases, rents, or leases or negotiates the sale * * * or offers or attempts or agrees to negotiate the sale * * * of any real estate *****.’’
+The fact that the defendant was not a licensed real estate broker was known to the plaintiff, and each of the members of the Board of Directors. Whether or not they could therefore impose upon the defendant the obligations of an agent when the relationship to the knowledge of all the parties could not be legally created, is open to considerable doubt.
+But even if the plaintiff could impose upon the defendant, the obligations of an agent, when, because he was not a licensed broker, they could not be legally compelled to pay for his services, it is clear that when the attempted relation of principal and agent was definitely concluded on December 27, 1945, no obligation to disclose events that took place after the relationship had been terminated survived. When the defendant offered to become the purchaser of the property, and his offer was accepted by the plaintiff, the agency relationship between them, if such relationship did in fact exist, was at once terminated.They were then dealing with each other as principals and there was no duty on the part of either to make disclosures to the other of offers made by third persons coming to their knowledge during the time they were consummating the agreement between the parties whereby the defendant agreed to become the purchaser of such property. The record is perfectly clear that there is not one bit of evidence prior to Dec. 27, 1945 that any better offers than the one made by the defendant on that day was known to the defendant.
+We conclude, therefore, that the plaintiff has failed to establish by the proper degree of proof that the defendant while acting as the real estate agent of the plaintiff received any offers that were not disclosed to the plaintiff and that on December 27, when he offered to become the purchaser of such property and such offer was accepted, the relationship of principal and agent ceased and thereafter there was no legal obligation to disclose any offers brought to his attention by other prospective purchasers, even though they were for more than the defendant agreed to pay for the property.
+The decree, therefore, will be entered for the defendants appellants. Order See Journal.
+HURD, PJ., concurs.
+MORGAN, J., concurs.
