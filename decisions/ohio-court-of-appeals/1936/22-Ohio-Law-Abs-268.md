@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 841"
+decided: "1936-05-29"
+citations: ["22 Ohio Law Abs. 268"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GUERNSEY and CROW, JJ, concur, the latter in the judgment."]
+parties: ["BOLENBAUGH v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/22/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1676208
+cites_cases: ["103 Oh St 585", "106 Oh St 150", "111 Oh St 698"]
+---
+
+# Bolenbaugh v. State
+
+## Majority (By KLINGER, PJ.)
+
+OPINION
+By KLINGER, PJ.
+Fred Bolenbaugh was indicted and convicted of the crime of grand larceny. He was charged in the indictment with the stealing of four steers. To this indictment he pleaded not guilty.
+The case was assigned for trial on the 14th of October, 1935. A jury was impaneled and the prosecutor asked leave to amend the indictment by changing the name of the owner of the cattle. To this request the defendant consented, and the amendment was made: The trial proceeded and the prosecutor asked leave to further amend by changing the date of the alleged theft, from July 23, 1935, to July 15, 1935. The defendant objected to proceeding to trial on the indictment as amended by changing the dates. The court granted a continuance and the cause was continued to the 6th day of November, 1935, when the case was again called for trial before the same jury.
+A thirteenth juror was impaneled to sit with the regular jury during the progress of the trial and after the case was submitted to the jury the panel of twelve jurors retired to the jury room for deliberation. The thirteenth juror remained in the court room. After deliberation by the twelve jurors who had retired, for some considerable time, one of the jurors became ill and he was excused and the thirteenth juror was substituted. This was done, however, with the consent of the defendant and his attorney.
+Shortly after the substituted thirteenth juror joined the jury in its deliberations, the jury returned a verdict finding the defendant guilty. The defendant filed a motion for new trial which was overruled by the court, and sentence was pronounced, to all of which the defendant excepted.
+The first objection raised is that the court was without jurisdiction to substitute the alternate juryman at the time same was done.
+Under the provisions of §11419-47, GC, an alternate juryman should be with the regular jury panel at all times, and the statute further provides that if a juror becomes incapacitated or disqualified before the final submission of the case to the jury, upon the order- of the judge the alternate juror shall become one of the jury and serve in all respects as though selected as an original juror.
+This being a criminal case, we believe that had objection been made to the alternate juror serving, it would have been error not to have sustained the objection. However, the defendant and his counsel having consented to the substitution of the alternate juror, they cannot now prosecute error to the action of the court.
+Headnote 2. The law is quite well settled in Ohio tnat the accused in a criminal case may waive non-mandatory constitutional or statutory rights, with the approval of the court, and the right waived in the instant case is of this character. §13442-4, GC. See also, State ex Warner v Baer, 103 Oh St 585, where the Supreme Court of Ohio held that “Agreements, waivers and stipulations made by persons accused of crimes, or by their counsel in their presence during the course of a trial for crime are after the termination of the trial as binding and enforceable upon such persons as like agreements, waivers and stipulations are upon parties to civil actions.” See also, State v Habig, 106 Oh St 150, 151. 12 Ohio Jurisprudence, page 144, and cases therein cited.
+The next point urged for reversal is that the state obtained the conviction of the defendant upon the unsupported testimony of one Foster Watts, for the reason that Watts was a self-confessed criminal; that he was at the time, under sentence to the penitentiary from the Court of Common Pleas of Union County for another theft of livestock, and made a confession that he helped steal the four head of cattle which the defendant was charged with stealing.
+T’'"': admission on the part of Watts, or the fact that he had been previously convicted and was then under sentence to the penitentiary, does not disqualify him from testifying as a witness. The jury was entitled to the information as to the witness’ criminal life, and so forth, for the purpose of weighing his testimony and deciding what if any credence, in’the light of the surroundings and circumstances, they would give to his testimony. The jury has a right, after weighing all the evidence, to give full faith and credit to the testimony of any witness and they have a right to believe or disbelieve a part or all the'testimony of a witness regardless of his previous record or life, and we as a reviewing court do not believe wo would be justified in setting aside the verdict on this ground.
+Another complaint made by the defendant is the refusal of the trial court to permit the introduction of the report of the grand jury as tending to show the return of the secret indictment against Watts for stealing these same cattle. Under the particular facts involved in the instant case the witnrss Watts having admitted his own guilt and participation in the stealing of these cattle for which the defendant was on trial, evidence tending to show the return of a secret indictment was neither relevant nor material and was properly excluded.
+The next error complained of is the procedure of the court in the examination of a witness by the name of William Woldock. Objections were made to questions asked Woldock about conversations with Foster Watts, Ralph Bolenbaugh and Allen Evans, who there are evidence tending to prove were accomplices and co-conspirators of the defendant. Tne court dismissed the jury and then proceeded to allow the examination of the witness Woldock in the absence of the jury, to determine whether his testimony was admissible. The court having determined the evidence to be admissible, then permitted the examination of the witness Woldock to continue after the jury had returned. The examination of Woldock in the absence of the jury for the purpose of determining whether his testimony was admissible, was designed to protect the defendant from the discussion of testimony the admissibility of which had not then been determined in the presence of the jury, and was not prejudicial to the defendant, and we find no error in this procedure.
+The defendant also excepts to the charge of the court upon the question of the “conviction upon the evidence of accomplice.” The court in its charge used the following language:
+“An accomplice is one who freely and voluntarily engages with another in the commission of a crime. It is left to the jury to determine from the evidence whether or not witness Watts, or others, are accomplices.
+The degree of credit which ought to be given to the testimony of an accomplice is a matter exclusively for the consideration of the jury. The jury should require his testimony to be corroborated by other evidence or circumstances, rather than convict upon his unsupported testimony.”
+Counsel for the defendant contend that this is not a complete and proper charge and in support of their contention cite the case of State v Reichert, 111 Oh St 698. In this case the court said:
+“I can’t say that you (the jury) can’t find a verdict upon his (Herron’s) testimony alone, but it is the safer rule not to find the defendant guilty upon the testimony of Herron alone, without corroboration, which corroboration should be in some matter material to the issue.”
+Counsel for the defendant complain that the charge of the court in the instant case does not measure up to the requirements laid down in the Reichert case. However, at the time the charge was delivered, the court said: “Do counsel have anything to suggest?” “By Mr. Traul: Nothing further.” “By Mr. Hoopes: That is all.”
+This court has repeatedly held that where counsel wish further charge or more detailed instructions than the court has given in its general charge, it is counsel’s duty to ask the court to do so and counsel’s failure to request further instructions on the question of “accomplice” and “accomplice’s testimony,” estops them from prosecuting error.
+The finding and judgment of the Court of Common Pleas will be affirmed.
+GUERNSEY and CROW, JJ, concur, the latter in the judgment.
