@@ -1,0 +1,30 @@
+---
+court: "Licking County Court of Appeals"
+decided: "1916-03"
+citations: ["26 Ohio C.C. (n.s.) 13"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shields, J., and Houck, J., concur."]
+parties: ["John L. Hughes et al v. Samuel Forsythe et al."]
+source_url: "https://static.case.law/ohio-cc-ns/26/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1604632
+---
+
+# Hughes v. Forsythe
+
+## Majority (Powell, J.)
+
+Powell, J.
+The parties to this ease stand in the same relative position in tliis court that they did in the court of common pleas. Plaintiffs filed their petition in the court of common pleas setting out that on the 14th day of January, 1909, they entered into a contract with the defendants in error for the purchase of certain real estate, which is described in the petition, by the terms of which they were to pay to the said defendants the sum of $12,500 for the land described, and that the defendants were to convey the same to them on or before the 1st day of April, 1909, by a good and sufficient deed of gneral warranty, free from encumbrances, except as against a gas'lease mentioned and described in said contract of purchase. The sum of $2,000 was paid at the time of the making of said contract, in January, 1909, and the balance of the purchase money to be paid was paid at the time of the- delivery of the deed, which was April 1, 1909.
+It is further alleged that 'by the terms of the gas and oil lease, which by the contract was to be conveyed to plaintiffs at the time the deed for said premises was to be delivered, the Columbus Natural Gas & Fuel Co. had obligated itself to pay, as rental for said farm, the sum of $200 per annum, in advance, payable semi-annually. The first payment, by the terms of said gas and oil lease, became due and payable in advance on March 3. 1909, and which payment was in satisfaction of the rent under said gas and oil lease from the 3d day of March, 1909, to the 3d day of September, 1909; and it is then alleged that said sum, .under the terms of said contract, and the deed from defendants to plaintiffs, was payable to the said plaintiffs, but in violation of the terms of said contract, the defendants, without authority of law, and without authority from the plaintiffs, and without their knowledge and consent, drew the sum of one hundred dollars from the said Columbus Natural Gas & Fuel Co., and converted the same to their own use, and refused to pay the same to these plaintiffs, and thereby kept an incumbrance upon said land, in violation of the covenants of warranty in their deed, from the 3d day of March, 1909, until the 3d day of September, 1909. By reason of the premises, they ask judgment against the defendants for said sum of $100, with interest from the 3d day of March, 1909.
+A second cause of action is set out in the petition, in which it is alleged that a certain wire fence had been removed from the posts to which it was attached, and that the same was taken away by the defendants without the knowledge or consent of plaintiffs, and to their damage in the sum of $20, for which they ask judgment.
+A demurrer was filed to the amended petition on the ground that there was no cause of action stated in the first cause of action set forth in such amended petition, and that by reason of the insufficiency of said first cause of action, the court was without jurisdiction over the second cause of action, the amount not being sufficient to give jurisdiction to the common pleas court.
+The question for determination is as to whether or not the defendants were entitled to receive as their own the installment of rent due on the gas lease March 3, 1909, a contract for the sale of the premises covered by said lease having been executed by them prior to that date, but the deed for which was not to be delivered until the first day of April following the date on which such installment of rent fell due.
+It is contended on the part of the plaintiffs that by the terms of the contract of sale entered into in January they became entitled to such rents; that otherwise it would be a violation of the covenants of warranty contained in their deed, which was after-wards executed by said defendants on the 1st day of April, but which had been agreed to be executed in said contract of sale. The defendants claim that they are entitled to such rent because the same accrued before said contract of sale was consummated.
+The payment of rent under this lease, as alleged in the amended petition, was in advance of the term during which the same accrued. An installment became due and payable on the 3d day oí March, 1909, but the term for the accrual thereof extended from March 3, 1909, to September 3, 1909. Defendants claim that because the same became due before the contract entered into by them with the plaintiffs for the sale of said land was to be carried into effect, such rent thereby became their property, and was not due and payable to the plaintiffs.
+It is a general principle of law that rents are .not apportionable as to time except by virtue of a contract to that effect, and that rents are the property of the owner of the reversion in the lands for which rent is due.
+Under this rule, we think that until the contract was carried into effect the real estate was the property of the defendants, and that by reason of such rule, the rents falling due prior to the execution of such contract of sale were also the property of the said- defendants. For .this reason, the court is of the opinion that the demurrer to said first cause of action was well taken, and that there was no error on the part of the court in sustaining the same, and that the judgment of that court should be affirmed.
+The first cause of action having failed for want of sufficient averments, it follows that the court was without jurisdiction over the second cause of action; and the judgment of the court of common pleas sustaining the demurrer to each of said causes of action will be affirmed.
+Shields, J., and Houck, J., concur.
