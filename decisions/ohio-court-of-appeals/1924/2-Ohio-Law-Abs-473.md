@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "399"
 decided: "1924-02-05"
-citations: ["2 Ohio Law Abs. 473", "2 Ohio Law Abs. 216"]
+citations: ["2 Ohio Law Abs. 473"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
