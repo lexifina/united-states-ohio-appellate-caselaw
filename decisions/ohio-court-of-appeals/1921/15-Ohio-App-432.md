@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1921-12-03"
+citations: ["15 Ohio App. 432"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ferneding and Kunkle, JJ., concur."]
+parties: ["Gilmore v. The State of Ohio."]
+source_url: "https://static.case.law/ohio-app/15/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1845011
+---
+
+# Gilmore v. State
+
+## Majority (Allread, J.)
+
+Allread, J.
+Roscoe Gilmore, the plaintiff in error, was convicted in the mayor’s court of the village of London of the possession of property, to-wit, a still, contrary to Section 4 of the Crabbe Act (Section 6212-16, General Code). The conviction was affirmed in the court of common pleas, and error is now prosecuted to the court of appeals..
+The case has been argued with unusual ability. The briefs are complete and exhaustive. The indus - try, learning and ability of counsel are worthy of a cause of first importance.
+Learned counsel for plaintiff in error challenge the regularity of the conviction:
+1. Because of an unlawful search and seizure and the offering in evidence of the property so seized.
+2. Insufficiency of the evidence.
+We have considered with deep interest the arguments pro and con upon the search and seizure question, and have reached the conclusion that the case here does not offend against the guaranties of the constitution in respect thereto.
+A brief statement of the outstanding facts is appropriate.
+Clark Murray was a tenant upon the Gwynn farm, containing about five thousand acres. Gilmore was foreman and lived at the Murray home. William Artis, a colored man, lived in a cabin back in the woods on the farm, about one-half mile from the Murray residence, and was a helper on the farm.
+June 10 this year, about 8:30 P. M., Henry Turner, a deputy sheriff, W. D. Jones, a state liquor law inspector, and a policeman from London came to the cabin of Artis. They had no warrant. The occurrences at the Artis home were shown by the testimony of Artis and Turner. Artis is not clear in his testimony that the officers represented that they had a search warrant. The clear weight of all the evidence is that they did not so represent. According to the evidence, the officers told Artis there was a still there — that they could smell it — that they were sure of it. They asked Artis to show it to them. Artis said, “It is no use to lie; I have it.” Artis then lit the light, walked upstairs ahead of the officers and showed them the still. The officers put kerosene in the mash and turned it back to Artis for stock feed. They took the still, and it was introduced in evidence over a general objection by Gilmore. No protest or objection to the search and seizure was made by Artis, nor was any attempt made by the officers to search the premises until after Artis confessed and offered to show them the still.
+This is not, therefore, a case where a party merely acquiesces in the demand of an officer to search the premises. Artis confessed the crime and agreed to show the officers the still in operation. There was, therefore, no unlawful search and seizure so far as Artis is concerned.
+Gilmore was not present at the time of the search and seizure. He did not claim in the trial court any possessory right in the Airtis home or to the property seized. Such claim would haye been inconsistent with his defense. The testimony as to the search and seizure was offered without objection. The general objection related only to the introduction of the property seized. Gilmore had full knowledge of the search and seizure before trial, and could have made a claim for the return of the property if he had so desired. This case is distinguishable from any of the cases cited by counsel for plaintiff in error. Gilmore’s defense was a general denial of any connection with the ownership or operation of . the still. Naturally it was inconsistent for him to claim an interest in the property. The general objection to the introduction of the still in evidence cannot after conviction be made the basis of a claim of unlawful search and seizure. Such claim should be made prior to conviction. The fact that Gilmore defended upon the theory that he had no interest in the premises searched, or the property seized, and made no such claim, is a complete answer in a proceeding subsequent to conviction.
+We have read the record with great care upon the question of the sufficiency of the evidence. The state relies largely upon the testimony of Artis, Grant Lemley and Luther Connell. Their testimony clearly implicates Gilmore, and is sufficient, if credible, to sustain the conviction. The plaintiff in error seeks to impeach their credibility, first, because Artis, although convicted and sentenced to jail, has been shown leniency; second, because Lemley and Connell have not been prosecuted; and third, because a part of their testimony is contradicted. The contradiction relates to the receipt of the second coil. The lack of corroboration in this respect weakens, but does not destroy the chain of evidence. The still was received at Mt. Sterling complete, and was found complete at the Artis home. The failure of the staté to corroborate Artis, Connell and Lemley as to Gilmore ’s obtaining the second coil eliminates that feature, and the case would stand upon the other evidence.
+The leniency shown Artis and the failure to prosecute Lemley and Connell would have, a tendency to weaken their testimony and lead the court to search for corroborating evidence.
+We find that the state is corroborated by the following circumstances-:
+(1) Gilmore admits that he accompanied Artis in the automobile to Mt. Sterling where Gilmore received the package containing the still from the express office, paid the charges, and signed the receipt'. The package containing the still was placed in the automobile and taken to the Murray home, from whence it was afterwards taken to the Artis cabin and put in operation. An inference might fairly arise in view of the relationship and intimacy of Gilmore and Artis that the former must have known the contents of the package which he had received and receipted for, and which, was carried in the automobile upon the return trip and afterwards installed and operated in the Artis cabin. Gilmore attempts to explain his receipt by a statement that he had no Knowledge of the contents of the package, and did this merely as an accommodation to Artis. Nevertheless the circumstance fits in with and corroborates the testimony of Artis.
+(2) A $65 check given by Gilmore to Artis is also a corroboration, although its connection with the operation of the still is made by oral testimony and Gilmore denies such testimony and offers an explanation of his own.
+(3) Gilmore admits that Artis asked for a vinegar barrel to be taken over to his, Artis’s house, from the Murray residence, and Gilmore furnished not only the one, but two other barrels, requesting Artis to take good care of and return them. These barrels were taken to the bam, cleaned and then taken to the Artis residence. Gilmore offers a plausible suggestion as to the one barrel, but the transaction as a whole is corroborative of the state’s testimony.
+(4) The testimony of the Brill boys that they were invited to the Murray cellar and given something to drink, which looked like water, but tasted like whiskey, also corroborates the testimony of the state as to the operation of the still and the manufacture of what is known as com whiskey, and of Gilmore’s connection therewith.
+(5) The testimony shows that fellow employes of Artis on the Gwynn farm knew of the possession by Artis of the still and whiskey. This circumstance of itself is little or no evidence against Gilmore, but may be considered with the other evidence. Taking all the evidence into consideration we are of the opinion that there is sufficient evidence to sustain the conviction.
+Judgment affirmed-
+Ferneding and Kunkle, JJ., concur.
