@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "56445"
+decided: "1989-06-26"
+citations: ["63 Ohio App. 3d 364"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Patton, P.J., Nahra and John F. Corrigan, JJ., concur."]
+parties: ["WELLS et al., Appellants, v. JOHENNING et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/63/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1449691
+cites_cases: ["10 O.O.3d 539", "13 OBR 8", "13 Ohio App.3d 7", "1981 WL 3576", "1983 WL 5706", "285 N.E.2d 19", "30 Ohio St.2d 319", "32 Ohio St.3d 38", "384 N.E.2d 296", "442 F.Supp. 310", "467 N.E.2d 1378", "512 N.E.2d 337", "56 Ohio St.2d 447", "59 O.O.2d 383"]
+---
+
+# Wells v. Johenning
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs James J. and Marian Wells appeal from a judgment entry which granted the motion for summary judgment of defendants Paul Johenning, M.D., and Forsythe, Stueber & Johenning, M.D., Inc. For the reasons set forth below, we reverse.
+I
+The record indicates that James Wells suffered from recurrent prostatitis for two years before defendant Paul Johenning operated on him for this condition on May 6, 1985. Due to post-surgical complications, Johenning subsequently performed additional surgery on Wells on May 17, 1985. Following these additional procedures, Wells was incontinent of urine, and he continued to treat with Johenning for the next several months in order to alleviate this problem.
+Wells’ last'appointment with Johenning was on January 8, 1986. Wells did not keep a follow-up appointment scheduled for March 12, 1986, however. Thereafter, on February 5,1987, Wells’ attorney notified Johenning that Wells was contemplating filing a malpractice action against Johenning. Wells subsequently filed this action against Johenning, Forsythe, Stueber & Johenning, M.D., Inc., and three other defendants on July 23, 1987.
+On March 7, 1988, defendants Paul Johenning and Forsythe, Stueber & Johenning, Inc., moved for summary judgment contending that the action was not filed within the statute of limitations set forth in R.C. 2305.11(A), because, defendants argued, the statute commenced to run on January 8, 1986, the date on which Johenning last treated Wells.
+Plaintiffs subsequently filed a brief in opposition, supported by an affidavit from Wells, which indicated that at the January 8, 1986 office visit, Johenning gave Wells a prescription for medication and also discussed other methods and procedures which could be employed to alleviate Wells’ incontinence. Wells further indicated in his affidavit that he needed time to consider these treatment options, and, at Johenning’s request, scheduled a follow-up appointment with Johenning for March 12, 1986. Thereafter, according to Wells’ affidavit, he decided to obtain a second opinion and subsequently met with Timothy Sidor, M.D., on March 5, 1986. Finally, Wells indicated, he considered his professional relationship with Johenning to be in effect until he failed to keep the March 12, 1986 appointment.
+The trial court subsequently granted defendants’ motion for summary judgment, and this appeal was commenced.
+II
+For their sole assignment of error, plaintiffs contend that the trial court erred in granting defendants’ motion for summary judgment because the parties contemplated that the March 12, 1986 appointment would be a followup to the January 8, 1986 appointment, and because medication was prescribed at this appointment. These two facts, plaintiffs argue, caused the physician-patient relationship to continue beyond January 8, 1986. As we find that reasonable minds could conclude that the physician-patient relationship did continue until Wells failed to appear for the March 12, 1986 appointment, we find that summary judgment was improvidently granted, and we reverse.
+Pursuant to R.C. 2305.11(A), an action for medical malpractice must be commenced within one year after the cause of action occurs. If, however, prior to the expiration of this one-year limitation period, the claimant gives written notice to the physician that he is considering bringing an action for malpractice, the action may be commenced within one hundred eighty days after the notice is given. R.C. 2305.11(B).
+The time at which the cause of action accrues, and the statute of limitations commences to run, is (a) when the patient discovers or in the exercise of reasonable care and diligence, should have discovered the resulting injury, or (b) when the physician-patient relationship is terminated, whichever occurs later. Frysinger v. Leech (1987), 32 Ohio St.3d 38, 512 N.E.2d 337, paragraph one of the syllabus.
+Where, as in this case, a surgery patient has a date for an appointment with his physician for post-operative care and fails to keep that appointment, and declines to ever see his physician again, the physician-patient relationship is finally terminated no later than the day of the appointment which the patient failed to keep. Millbaugh v. Gilmore (1972), 30 Ohio St.2d 319, 59 O.O.2d 383, 285 N.E.2d 19, paragraph one of the syllabus. In this situation, the precise point at which the physician-patient relationship terminates will be the point where the patient refuses to submit to further treatment by the physician, see Buckley v. Jefferies (Jan. 27, 1983), Cuyahoga App. No. 44724, unreported, 1983 WL 5706, or the point at which either party takes affirmative steps to terminate the relationship. See Smales v. Portman (Nov. 5, 1981), Franklin App. No. 81AP-522, unreported, 1981 WL 3576. Absent such action, the relationship is terminated by the patient’s failure to keep the next scheduled appointment. Id.
+Where there is a continuing course of treatment, however, the physician-patient relationship may be found to be in effect beyond the date of the missed appointment. Cf. Ishler v. Miller (1978), 56 Ohio St.2d 447, 457, 10 O.O.3d 539, 544, 384 N.E.2d 296, 303. A continuing course of treatment will be found, for example, where the patient is taking prescribed medication with the knowledge of the physician and under his supervision. Id.; Kraus v. Cleveland Clinic (N.D.Ohio 1977), 442 F.Supp. 310, 314.
+In light of the foregoing, the point of the termination of the physician-patient relationship, and the point at which the statute of limitations may commence to run pursuant to Frysinger v. Leech, supra, is dependent upon the conduct of the particular parties involved, and is, accordingly, a question of fact. Accord Fields v. Nilavar (June 7, 1982), Clark App. No. CA 1672, unreported; Wenning v. Syntex Corp. (July 27, 1981), Montgomery App. No. CA 6749, unreported.
+In this case, construing the evidence most strongly in favor of plaintiffs as required by Civ.R. 56(C), we find that reasonable minds could reach divergent conclusions as to whether Wells refused to submit to further treatment with defendants or took any affirmative steps to terminate his relationship with defendants until he missed the appointment scheduled for March 12, 1986. Since Wells does not indicate that he actually took the medication Johenning prescribed on January 8, 1986, but rather indicated that he only considered this and the other treatment options discussed at this appointment, reasonable minds could not conclude that the physician-patient relationship continued beyond the missed appointment by a continuing course of treatment, however. Cf. Kraus v. Cleveland Clinic, supra.
+In light of the foregoing, we find that the trial court improvidently granted defendants’ motion for summary judgment, and we reverse. Cf. Civ.R. 56(C); Vioclc v. Stowe-Woodward Co. (1983), 13 Ohio App.3d 7, 15, 13 OBR 8, 16, 467 N.E.2d 1378, 1387.
+Judgment reversed and cause remanded.
+Patton, P.J., Nahra and John F. Corrigan, JJ., concur.
