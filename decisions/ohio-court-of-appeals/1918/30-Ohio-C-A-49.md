@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1918-11-21"
+citations: ["30 Ohio C.A. 49", "11 Ohio App. 431"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Powell and Shields, JJ., concur."]
+parties: ["W. O. Phillips, as Executor of the Last Will and Testament of Thomas F. Cole, Deceased, v. S. P. Chase Cole et al."]
+source_url: "https://static.case.law/ohio-ca/30/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1611334
+---
+
+# Phillips v. Cole
+
+## Majority (Houck, J.)
+
+Houck, J.
+Appeal.
+This is a suit brought for the purpose of having the last will and testament of Thomas F. Cole, deceased, construed. The following are the conceded facts
+That on the 27th day of March, 1917, Thomas F. Cole departed this life, leaving a last will and testament, and W. O. Phillips was named as executor of said will, aud duly qualified in the premises; that at the time of the death of Thomas F. Cole, his son, M. Francis Cole, named as one of the legatees in Item Four of said will, was in full life, and afterwards, to-wit, on the 1st day of May, 1917, departed this life, leaving the defendant, Anna B. Cole, his widow, and the defendant, Maud Cole Ball, his daughter by a former marriage, his only heirs at law; that M. Francis Cole died testate, and that Anna B. Cole is the duly appointed, qualified and acting executrix of his last will and testament; that Thomas F. Cole left surviving him Charity Cole, his widow, and S. P. Chase Cole, W. U. Cole, M. Francis Cole, R. L. Cole, MJary Shellenbarger and Alice King, his children and legatees.
+The will of Thomas Cole (in part) is:
+‘ ‘ Item Third: I will and direct my executor hereinafter named to convert all of my property, both real and personal, into money as soon after my death as practicable, giving him authority to sell either at public or private sale, with or without appraisement, for the best price obtainable.
+“I direct my executor hereinafter named, after the payment of expenses and indebtedness above named to invest the sum of ten thousand dollars ($10,000) within a year after my death in some safe security or securities of undoubted value, and the proceeds thereof my said executor to pay semi-annually, or half yearly, the income or interest arising therefrom to my wife, Charity Cole, .this to be in full of her interest in my estate, except one year’s support, both real and personal, the income therefrom will be sufficient to maintain and support her.
+‘ ‘ Item Fourth: The rest and residue of my estate after the payment of debts above named and after setting apart and investing the said sum of ten thousand dollars ($10j,000) to be divided equally among my children as follows, share and share alike, M. Francis Cole, S'. P. Chase Cole, W. Utteridge Cole, Robert L. Cole, Mary Shellenbarger, Alice King. Should any one or more of my children above named die leaving a child or children, then said child or children shall take the parents’ share. If they should die leaving no child or children, or their legal representatives, then such share or interest I direct to be divided equally among the survivor or survivors.
+“Item Fifth: At the death of my said widow, after the payment of the expenses attending her last siclmess and burial, I direct the sum above named which is to be set apart, to-wit: $10,000 for the benefit of my said widow, to be divided equally among my children aforesaid; should any of them not be living at the time of my said wife’s death leaving child or children, then such child or children shall take the parents’ share; and in the event of any one or more of my said children heretofore named should die without leaving a child or children, or their legal representatives, then the survivor or survivors of them are to receive said $10,000 in equal portions.”
+"Question: Under these facts and the law applicable to wills, what are the respective rights of Anna B. Cole, as executrix of the will of M. Francis Cole, deceased; and his daughter, Maud Cole Ball, in and to the legacy of M. Francis Cole, as contained in Item Four of the will of the late Thomas F. Cole?
+The facts disclose that M. Francis Cole survived his father only thirty-five days. This fact raises two questions: (1) Did the legacy of M. Francis Cole vest in him upon the death of his father, and upon his death go to his personal representatives? (2) By reason of the death of M. Francis Cole before the payment of said legacy to him, and before the estate of Thomas F. Cole was distributed, did said legacy go to and vest in the daughter of the legatee, Maud Cole Ball ?
+• Certain fixed rules have been laid down by courts to be used in the construction of wills, but they are not to be applied where necessity does not require it. If the language is plain, and the intention of the testator can be ascertained from same, then the use of fast and court-made rules has no place in such eases.
+Each will stands alone, and the purpose and intention of the testator must be found and ascertained from the language used in the instrument. It is the exception and not the rule where we find two wills presenting exactly the same question, and it follows that unless an adjudicated ease cited by counsel is directly in point, it has little weight with an interpreting court. In our examination of authorities cited by counsel, as well as an exhaustivé research on our part, we have been unable to find a case directly in point, or decisive of the question made here.
+We hold that the vital point in this case is as to the legal effect .of the following language used in Item Four of the will of Thomas F. Cole, to-wit: ‘ ‘ Should any one or more of my children above named die leaving a child or children, then said child or children.shall take the parent’s share.”
+The testator was bound to know the law, and that his will would speak from the date of his death, and that a legacy, where not specifically postponed by language clearly indicating such intention and purpose, vests Immediately, on the death of the testator, in the legatee. The language in question does not designate any stated time for the payment of the legacies, but as to this it is silent.
+The testator was satisfied with the language employed, which in no wise postponed the time of vesting of the legacies beyond his death, and by his silence and failure so to do, the law intervenes and fixes the time to be the death of the testator. If he had intended the legacy now under consideration not to vest in his son, M. Francis Cole, upon his decease before that of his son, or desired its payment postponed to a certain time, or until the happening of some future event, he could have done so by making proper provisions for it by the use of such language as would definitely indicate such intention on his part.
+A careful study of Item Four of said will discloses that the only event to which the contingency of death can refer is the death of Thomas F. Cole, which is the period or time fixed when the legatees would come into the enjoyment of their legacies, and at that time their rights and interests in and 'to their respective legacies became vested absolutely, and therefore were no longer under the dominion of said will.
+Each legatee had a perfect right to dispose of his respective interest, and could pass a perfect title to the purchaser, or could convey same by will, as appears to have been done in the case at bar.
+We find no condition attached to the gift, and no postponement as to the time of its taking effect, and therefore we hold that upon the death of Thomas F. Cole the bequest made in his will to M?. Francis Cole became a fixed and absolute estate in him, and that it should be paid to Anna B. Cole, as executrix of the last will and testament of the said M. Francis Cole, deceased.
+Judgment accordingly.
+Powell and Shields, JJ., concur.
