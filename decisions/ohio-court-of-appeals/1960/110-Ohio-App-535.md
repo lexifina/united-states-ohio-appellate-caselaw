@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+docket: "25053"
+decided: "1960-01-22"
+citations: ["110 Ohio App. 535"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Skeel, J., and Hurd, P. J., concur."]
+parties: ["Hilltop Realty, Inc., et al., Appellees, v. City of South Euclid et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/110/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1439534
+cites_cases: ["1 Ill. App. (2d), 228", "116 Ore., 264", "136 A. L. R., 840", "137 Ore., 580", "138 Ohio St., 259", "140 Ohio St., 368", "140 Ore., 70", "162 Neb., 319", "168 Okla., 632", "170 Ohio St., 585", "379 Pa., 516", "49 Cal. (2d), 826", "77 R. I., 147"]
+---
+
+# Hilltop Realty, Inc. v. City of South Euclid
+
+## Majority (Kovachy, J.)
+
+Kovachy, J.
+This is an appeal on questions of law from a judgment entered in the Court of Common Pleas of Cuyahoga County restraining and enjoining the County Board of Elections from preparing ballots for a “referendum relating to Ordinance No. 15-58 of the City of South Euclid for an election to be held on November 3, 1959, or on any subsequent date.”
+The facts were stipulated in the trial court. Only facts essential for our consideration here are stated.
+On December 15, 1958, plaintiffs, appellees herein, acquired fee simple title to a parcel of vacant land in South Euclid, which property at the time was zoned in the single-family use classification under a general and comprehensive zoning ordinance enacted some years before. On March 9, 1959, South Euclid City Council, upon the application of plaintiffs, rezoned the property to a multi-family use classification by amending the comprehensive zoning ordinance. Such amendment is designated Ordinance No. 15-58. All statutory requirements with respect thereto were fully'met. This amendatory ordinance was vetoed by the mayor, but was repassed over the veto by the council. A referendum petition, proper in statutory form and containing the proper heading and the requisite number of valid signatures of electors of the city of South Euclid as required by statutes relating to initiative and referendum, was then filed with the city auditor. The auditor, as was his duty, certified the same to the county board of elections for placement upon the ballot for the general election to be held November 3, 1959, and plaintiffs filed their petition praying that the referendum be enjoined. The trial court rendered the judgment indicated above in favor of the plaintiffs, from which the defendants here appeal.
+Defendants, appellants herein, claim that the trial court was in error in holding that the amendatory zoning ordinance was not amenable to referendum procedures.
+The controlling question presented therefore is: Is a zoning ordinance passed by the council of a municipal corporation that amends a comprehensive zoning ordinance subject to referendum ?
+Section 1, Article VIII of the Charter of the City, of South Euclid reads:
+“Initiative, Referendum and Recall.
+“Section 1. Initiative and Referendum.
+“Ordinances and other measures may be proposed by initiative petition and adopted by election, and ordinances and other measures adopted by the council shall be subject to referendum, to the extent and in the manner now or hereafter provided by the Constitution or the laws of Ohio.” (Emphasis ours.)
+We must therefore look to the Constitution and the laws of Ohio to determine to what “extent” “ordinances and other measures adopted by the council” of South Euclid are subject to referendum.
+Section If, Article II of the Constitution of the state of Ohio reads:
+“The initiative and referendum powers are hereby reserved to the people of each municipality on all questions which such municipalities may now or hereafter be authorized by law to control by legislative action; such powers shall be exercised in the manner now or hereafter provided by law.”
+The legislative authority of the city of South Euclid— Section 1, Article II of the charter—is vested “in a council of seven members elected at large.” Under Section 713.07 of the Revised Code, the legislative authority of a municipality is empowered to pass on legislation necessary to establish and carry out a comprehensive zoning plan for the municipal corporation, and such legislative authority, under Section 713.10 of the Revised Code, is empowered to “amend or change the number, shape, area, or regulations of or within any district * * It seems plain to us that the Council of the City of South Euclid when passing this amendatory ordinance, changing plaintiffs’ property from a single-family use classification to a multi-family use classification, was concerned with a question authorized by law to be controlled by legislative action. If this be true, such legislative action comes within the purview of Section If, Article II of the Constitution of the state of Ohio, and is therefore subject to a referendum.
+Plaintiffs concede that a comprehensive zoning ordinance is subject to referendum but contend that a zoning ordinance of a city that amends an existing comprehensive zoning ordinance is not a legislative act but rather a matter of administration, since it merely serves to put into execution a previously enacted law, and as such is not amenable to the referendum procedures. They cite a case decided by the Supreme Court of Nebraska, Kelly v. John, 162 Neb., 319, 75 N. W. (2d), 713, in support of this contention. We have read that case. We are neither persuaded by its reasoning nor convinced that the applicable laws of Nebraska and Ohio are analogous, as claimed by the plaintiffs.
+We cannot agree that an amendment to a comprehensive zoning ordinance by a legislative body, under Ohio law, is administrative in nature. The change of the classification of the parcel of land here from a single-family use to multi-family use, in our view of the matter, was a legislative act of the same nature and character as was the enactment of the original ordinance because:
+1. Council was specifically authorized by statutory law to act in the matter with respect to each ordinance;
+2. Council was called upon to make and declare a rule of conduct in the use of this particular parcel of land with respect to each ordinance by the exercise of independent discretion and judgment;
+3. Council had to determine in each case whether the use classification decided upon promoted the public safety, health, morals, convenience, prosperity and welfare of the city;
+4. Council was required to follow the procedures provided by statutory law with respect to each ordinance and the procedures are alike in substance;
+5. Each ordinance was subject to the veto by the mayor.
+The Supreme Court, in State, ex rel. The Fairmount Center Co., v. Arnold, Dir., 138 Ohio St., 259,. 34 N. E. (2d), 777, 136 A. L. R., 840, state's in the second paragraph of the syllabus:
+“2. A municipal council, acting under Sections 4366-7 to 4366-11, General Code [Sections 713.06 to 713.12, Revised Code], may not' amend or change the number, shape, area or regulations of, or within, any zoning district without following the procedure provided in Section 4366-11, General Code.”
+Under these circumstances, it seems illusory to characterize the enactment of Ordinance No. 15-58 by the Council of the City of South Euclid as administrative and not legislative.
+The ordinance lays down a new rule of conduct as to the use of this land which every person, including the officials of the city administration, must follow, and in no sense, as far as such land is concerned, does it execute or administer a previously enacted law with respect to it. It was a legislative act performed by a legislative body pursuant to and in accordance with powers granted it by the statutory laws of the state of Ohio.
+In Whitbeck v. Funk, Aud., 140 Ore., 70, 12 P. (2d), 1019, the fifth paragraph of the syllabus provides as follows:
+“5. Test of what is legislative, within constitutional provision reserving referendum on municipal legislation to voters of municipalities, and what administrative is whether ordinance makes new law or executes existing law.”
+In R. I. Home Builders v. Budlong Rose Co., 77 R. I., 147, 74 A. (2d), 237, paragraph two of the syllabus roads:
+“1. When city council undertakes to enact or amend zoning ordinance pursuant to its delegated police powers under the enabling act, it is performing a legislative function and is governed by provisions óf enabling act.”
+See, also, Catholic Cemeteries Association of the Diocese of Pittsburgh Zoning Case, 379 Pa., 516, 109 A. (2d), 537; Campbell v. City of Eugene, 116 Ore., 264, 240 P., 418; Hayes v. City of Yonkers, 143 N. Y. Supp. (2d), 699; Jackson v. Denver Producing and Refining Co., 96 F. (2d), 457; Monahan v. Funk, Aud., 137 Ore., 580, 3 P. (2d), 778; People of City of Centralia v. City of Centralia, 1 Ill. App. (2d), 228, 117 N. E. (2d), 410; State, ex rel. Hunzicker, v. Pulliam, 168 Okla., 632, 37 P. (2d), 417; 101 Corpus Juris Secundum, 857, Section 102.
+The people of Ohio not only reserved the power of referendum for themselves with respect to legislation passed by the General Assembly but also for the people of each municipality on questions which such municipalities may “* * * be authorized by law to control by legislative action; * * *” (Section If, Article II, Constitution). And the Supreme Court has stated that these powers should be liberally construed to effectuate the rights so clearly expressed. In State, ex rel. City of Middletown, v. City Commission, 140 Ohio St., 368, 44 N. E. (2d), 459, paragraph one of the syllabus reads:
+“1. The provisions of the state Constitution authorizing and providing the manner of submission of municipal ordinances to a referendum vote should be so construed as to permit rather than preclude the exercise of the right conferred. The object clearly sought to be attained by such provisions should be promoted rather than prevented or obstructed.”
+Moreover, the Legislature of Ohio has passed statutes which specifically confer the right to a referendum on the people of unincorporated territories in relation to amendments and supplements to zoning regulations adopted by the county commissioners. Section 303.12, Revised Code. It would seem from such legislation on the part of the General Assembly that the policy of the state is in accord with an optional referendum with respect to ordinances of a municipality amending a comprehensive zoning ordinance.
+It necessarily follows from the above that an ordinance amending a comprehensive zoning ordinance enacted by a municipal legislative body is as clearly subject to a referendum as is the original ordinance.
+We hold, accordingly, that the judgment of the trial court restraining and enjoining the board of elections from preparing ballots for a referendum relating to Ordinance No. 15-58 of the City of South Euclid is contrary to law and should be and herewith is reversed and final judgment rendered herein for the appellants, and the cause remanded to the trial court with instructions to set the date of the election for such referendum. In Johnston v. City of Claremont, 49 Cal. (2d), 826, 323 P. (2d), 71, headnote one reads:
+“1. City council, in adopting rezoning ordinance which amended general zoning ordinance of city of sixth class by changing plaintiffs’ property from single family residence to commercial acted in a legislative capacity, and rezoning ordinance was subject to referendum.”
+Judgment reversed.
+Skeel, J., and Hurd, P. J., concur.
