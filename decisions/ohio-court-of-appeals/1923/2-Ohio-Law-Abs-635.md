@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "2173"
 decided: "1923-06-25"
-citations: ["2 Ohio Law Abs. 635", "1 Ohio Law Abs. 552"]
+citations: ["2 Ohio Law Abs. 635"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
