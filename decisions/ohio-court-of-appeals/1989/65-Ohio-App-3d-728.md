@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "14180"
+decided: "1989-12-20"
+citations: ["65 Ohio App. 3d 728"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cacioppo, P.J., and Cirigliano, J., concur."]
+parties: ["McINTIRE, Appellant, v. RAUKHORST, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/65/cases/0728-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1454919
+cites_cases: ["10 OBR 223", "10 Ohio App.3d 169", "16 OBR 1", "16 Ohio App.3d 1", "24 OBR 330", "24 Ohio App.3d 207", "46 A.L.R.3d 578", "461 N.E.2d 8", "473 N.E.2d 1216", "494 N.E.2d 133"]
+---
+
+# McIntire v. Raukhorst
+
+## Majority (Quillin, Judge.)
+
+Quillin, Judge.
+Thé issue presented in this appeal is whether the gift of an engagement ring, given in contemplation of marriage, is a conditional gift which, absent an agreement to the contrary, must be returned to the donor if the condition of marriage is not fulfilled. Because we hold that the ring or its value must be returned absent an agreement to the contrary, we reverse.
+According to the narrative statement of the evidence filed by appellant, Craig Mclntire, pursuant to App.R. 9(C), which appellee, Teresa Lee Rauk-horst, has not disputed, the parties began dating in October 1986. On January 30, 1988, Mclntire formally proposed marriage to Raukhorst. Mcln-tire gave her a diamond solitaire engagement ring when she agreed to marry him. They had previously chosen the ring on January 22, 1988, at Leroy’s Jewelers. Mclntire paid $440 for the engagement ring. He also purchased two wedding bands at that time, which he kept in his possession.
+Raukhorst began preparing for the wedding by choosing a wedding dress, placing a deposit on a hall for the wedding reception and by incurring other expenses. However, in late February or early March 1988, Mclntire told Raukhorst that he did not think that their marriage would work and ended the engagement. Mclntire asked for the engagement ring back but Raukhorst refused to return the ring.
+The trial court determined that Mclntire terminated the engagement and that the ring was a simple gift with no conditions or terms stated. The court held that Raukhorst was therefore entitled to keep the ring. The trial court denied Raukhorst’s counterclaim for her pre-marriage expenses, determining that the expenses were incurred without Mclntire’s consent or knowledge. Because Raukhorst did not file a cross-appeal concerning the trial court’s ruling on her counterclaim, we address only Mclntire’s assignment of error.
+Assignment of Error I
+“The trial court erred in denying Craig Mclntire either replevin of the engagement ring or damages for conversion.”
+The general principles of law concerning a donor’s right to the return of an engagement ring or its value when the marriage does not occur are contained in a collection of cases from multiple jurisdictions. See Annotation, Rights in Respect of Engagement and Courtship Presents When Marriage Does Not Ensue (1972), 46 A.L.R.3d 578. The court decisions concerning property rights in connection with the gift of an engagement ring in contemplation of marriage have generally fallen into two categories. Some jurisdictions have held that an engagement ring may be recovered by the donor only if the engagement is broken by mutual agreement or by the donee without justification. However, if the donor breaks off the engagement without justification, then he is not entitled to recover the ring from the donee. Annotation, supra. These courts have traditionally gone through a difficult analysis as to which party was “at fault” in order to determine whether a party acted with justification. Id. at 584. Other jurisdictions have held that the donor may recover an engagement ring without a determination of which party ended the engagement, or which party was at fault, absent an agreement to the contrary. Id.
+Ohio appellate courts have decided this issue both ways. In Wion v. Henderson (1985), 24 Ohio App.3d 207, 208, 24 OBR 330, 331, 494 N.E.2d 133, 133-134, the court held that, absent an agreement to the contrary, a party need not return an engagement ring when the donor unjustifiably breaks the engagement. In Wion, the court determined that ending an engagement in order to marry someone else was an unjustified reason. Id. at 207-208, 24 OBR at 330-332, 494 N.E.2d at 133-134. In many cases, however, no real fault exists because one or both of the parties merely changes his mind as to the desirability of the other person as a marriage partner. As a result, this view penalizes the donor for acting to prevent what he believes may be an unhappy marriage. See Lyle v. Durham (1984), 16 Ohio App.3d 1, 2-3, 16 OBR 1, 1-4, 473 N.E.2d 1216, 1217-1219.
+In Wilson v. Dabo (1983), 10 Ohio App.3d 169, 170, 10 OBR 223, 223, 461 N.E.2d 8, 9, the court held that a cause of action existed for the return of property, including property other than an engagement ring, transferred in reliance upon the promise of marriage under a theory of unjust enrichment. The transfer of the property, even if a gift, was based on the mutual understanding that the parties would be married. Id. Therefore, the property should be returned at least if the donor has not unjustifiably ended the engagement if the condition is not fulfilled. Id.
+In Lyle, supra, the court determined that because an engagement ring is a symbol or pledge of a future marriage, it signifies that the one who wears it is engaged to marry the man who gave it to her. Therefore, it is given in contemplation of the marriage and is a unique type of conditional gift. When the condition is not fulfilled, the ring or its value should be returned to the donor, no matter who broke the engagement or caused it to be broken. Id. at 3, 16 OBR at 3, 473 N.E.2d at 1218. As a result, in the absence of an agreement between the parties to the contrary, the engagement ring must be returned to the donor upon termination of the agreement regardless of fault. When the parties have not imposed an express condition, the law implies a condition because of an engagement ring’s symbolic significance. Namely, the ring is a symbol of a pledge to marry. Annotation, supra, at 599-600.
+We find the reasoning of the court in Lyle, supra, persuasive. Not only does this rule of law establish a “bright line” for situations where the parties involved are unlikely to have considered the necessity of making an “agreement to the contrary,” but the rule also eliminates the need for a trial court to attempt the often impossible task of determining which, if either, party is at fault.
+Based on the record before us, we hold that the trial court properly determined that Mclntire intended the engagement ring to be a gift. However, the trial court should also have found that, there being no agreement to the contrary, the engagement ring was a conditional gift. When the implied condition of marriage was not met, Mclntire was entitled to recover the ring even though he terminated the engagement.
+The judgment is reversed and the cause is remanded.
+Judgment reversed and cause remanded.
+Cacioppo, P.J., and Cirigliano, J., concur.
