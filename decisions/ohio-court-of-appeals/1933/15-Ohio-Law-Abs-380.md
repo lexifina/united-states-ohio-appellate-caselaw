@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-10-13"
+citations: ["15 Ohio Law Abs. 380"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FARR and ROBERTS, JJ, concur in the judgment."]
+parties: ["JARMAN, Admr v YOUNGSTOWN HIDE & TALLOW CO"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651992
+cites_cases: ["123 Oh St, 81", "14 A.L.R., 177", "43 Oh St, 224", "62 A.L.R., 1170", "63 Oh St, 236", "74 A.L.R., 163"]
+---
+
+# Jarman v. Youngstown Hide & Tallow Co.
+
+## Majority (By POLLOCK, J.)
+
+OPINION
+By POLLOCK, J.
+Our attention has been called by the plaintiff to at least two cases in this state, and possibly three. Thei third proposition in the syllabus in the case of Railway Company v Marsh, 63 Oh St, 236, reads as follows:
+“One who is invited by a servant of a corporation in charge of its work or services to assist him therein, and does so with some purpose or benefit to be subserved in his own behalf, in addition to the purpose of so assisting, is not a volunteer and is entitled while so assisting to be protected against the negligence of the servants of the company.”
+The claim is that the rule applies to the condition in the case now under consideration, but you will notice an important distinction, “invites such person to assist him and that person does so with some purpose or benefit to subserve in his own behalf; that is, in the invitee’s own behalf, in addition to the purpose of assisting in the master’s business.”
+In this case there was a boy who was employed by some one around a station of this railway company to do some work lighting lamps. Probably that is what he had gone out to do when this accident occurred. The boy was there for his own benefit, that is, to receive the compensation that was given him for this employment and to assist in doing the defendant railway company’s work. In the opinion the court discusses this feature of -the case on page 245:
+“But there is a class between mere volunteers and trespassers and partaking somewhat of the characteristics of each. That is where the person assists the servant at his request, not only for the purpose of assisting in the work of the master but also for a purpose and benefit of his own. In such cases it can not be said that he is wrongfully upon the premises, because he is invited by the servant in charge. The master may not have assented but neither has'he dissented, and being there upon the invitation of the servant .in charge, and there being no dissent of the master, he is regarded as being there by sufferance.”
+Then on the next page:
+“As such assistant is necessarily a trespasser and not a fellow servant and not a mere volunteer, the law assigns to him without name the position of one who being upon the premises of another by the sufferance of such other, performing labor or services for his own purpose and benefit in his own behalf is entitled to the right to be protected against the negligence of the owner of the premises or his servants.”
+Our attention is called to the case of Railway Company v Bolton, 43 Oh St, 224, and the case we are reading from refers to that case and discusses it. In that case there was a passenger on one of the cars of the defendant. The road was one track and in order to let the car pass going in the opposite direction the car should have stopped and turned on to a switch, but it failed to do so and for that reason it was necessary to push the car back past the point of the switch. The conductor or motorman, whichever it was, asked a passenger to assist in doing that work. He did so and in doing the work he was injured. The Supreme Court makes the same distinction in that case that it did in the case we are now reading, that the passenger was doing some service beneficial To himself, as well as service to the railroad company, namely, that he was a passenger in this car and it was to his interests to get on to his destination.
+Our attention is again called to the case of Eason v Ry. Company, 65 Texas, 577, which is cited and referred to in the case in the 43rd Oh St, Railway Company v Bolton, supra, that we have just referred to and also in Railway Company v Marsh, supra. In that case the owner of an animal wanted to ship it some place. The animal was crated and he assisted the servants of the railway company in loading this crate with the animal in it' on .a car. While doing so, the owner of the animal was injured. * For the same reasons he was permitted to recover. The injured party was not only doing something beneficial or necessary for the railway company, but he was doing something beneficial for himself in order to get the animal shipped on the first train.
+Our attention is also called to the recent case of Union Gas & Electric Company v Crouch, 123 Oh St, 81, and both parties appeal to this case. The first proposition of the syllabus is:
+“The owner of an automobile being driven by a servant in the business of the owner, within the scope of the servant’s employment, is not liable for damages to a guest of the servant for injuries caused such guest by the negligence of the servant while riding in the automobile without the knowledge and consent of the owner, it not ap-' pearing that such guest is at the time rendering necessary assistance to the servant within the scope of his employment.”
+The second proposition reads:
+“Where the owner of an automobile entrusts the same to a servant in the course of the business of the owner without authority to carry passengers, a guest of the servant riding in the automobile is neither an invitee nor a licensee of the owner, but on the contrary is a trespasser to whom no duty is owing by the owner except not to wilfully injure him.”
+The plaintiff claims that the last two lines in the first proposition of the syllabus applies to the same proposition that we have in this case, “it not appearing that such guest is at the.time rendering necessary assistance to the servant within the scope of his employment.” In the first place the present case does not come under the rule announced by the last named case. This young irían had no interest to serve for himself. He was taking a ride by the invitation of the driver and in addition to that this last syllabus says “it not appearing that such guest is at the time rendering necessary assistance.” It might have been a different proposition in this case if when the driver of the automobile had driven to where he was to load carcasses he could not load them and found that he had to call in some one in such emergency and the injury had occurred while he was assisting, that would be a different proposition, but this young man was taking a ride, going a distance of possibly fifty miles and was riding along the public highway in this automobile at the time rendering no assistance. We do not think that he was at the time doing services or rendering services for this corporation within the meaning of the cases to which our attention was called, but he was there as a passenger, as is provided in the second syllabus in the case of Union Gas & Electric Company, supra. Further authorities might be referred to, in the annotations of 14 A.L.R., 177; 62 A.L.R., 1170; 74 A.L.R., 163, where there is an annotation of cases coming under the same principle.
+We think there was no error in the court directing a verdict and the judgment is affirmed.
+Judgment affirmed.
+FARR and ROBERTS, JJ, concur in the judgment.
