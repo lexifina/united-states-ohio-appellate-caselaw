@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 13062"
+decided: "1933-01-16"
+citations: ["13 Ohio Law Abs. 456"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GARVER, PJ, SHERICK and LEMERT, JJ, (5th Dist), sitting.", "GARVER. PJ, and SHERICK, J, concur."]
+parties: ["DEUTSCH v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/13/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1644928
+---
+
+# Deutsch v. State
+
+## Majority (LEMERT, J.)
+
+LEMERT, J.
+As to the right of the plaintiff in- error to file a petition in error herein and the right of the Court of Appeals to grant that right, we find the law to be that a petition in error, unless otherwise provided, may be filed as a matter of right within thirty days after sentence and judgment. After thirty days from such sentence and judgment such petition in error may be filed only by leave of the court or two of the judges thereof. A statutory limitation for filing a petition in error to reverse a judgment in a civil action has no application to a criminal action.
+Plaintiff in error contends that there is error in the record in this case, in this, to-wit:
+First: Irregularity in the proceedings of the court and prosecuting attorney and irregularity in the rulings of the court on the testimony by reason of which defendant was prevented from having a fair trial.
+Second: That the verdict of the jury in the court below was not sustained by sufficient evidence and is contrary to law.
+Third: That said court erred in permitting the State to introduce testimony as to events which had transpired not in the presence of the defendant, which were highly prejudicial in their nature>nd prevented this defendant from having a fair trial.
+Fourth: For misconduct of the prosecuting attorney during the trial of said action and in his final argument to the jury.
+As to the first and second grounds of error claimed herein, after a careful examination of the record before us, we are of the opinion that neither of said grounds of error are well taken, and we find no error therein.
+On the third claimed ground of error, to-wit, that the court erred in permitting the State to admit testimony as to events which had transpired not in the presence of the defendant, which were highly prejudicial in their nature and prevented this defendant from having a fair trial, we find, as appears on pages eight to sixteen inclusive, in the direct examination of one Sol Turkin, which relates to conversations he had with attorneys in the Standard Bank Building and with certain officials of The Union Trust- Company at their branch office located corner East 140th Street and Kinsman Road, this testimony referred to, which is too lengthy to incorporate in this opinion, had to do with a transaction that said Sol Turkin had with the law firm of Mills, Silverman and Mitchell, relative to a transaction between these attorneys and Sol Turkin, the witness, about the cashing of a bond. All this testimony was held by the witness with these attorneys and the manager of The Union Trust Company, not in the presence of either Harry Deutsch or John Russo, who were being tried in said case, and no evidence was introduced by the prosecutor at any time, which in any .manner connected any of these defendants with the transaction.
+All this testimony was vigorously objected to at all stages of the trial by counsel for Harry Deutsch and by counsel for John Russo.
+We also note on page 67 of the bill of exceptions, in the testimony of James E. Mazach, a State’s witness who was assistant manager of The Union Trust Company, that he was permitted to testify to conversations held with the prosecuting witness, Sol Turkin, relative to an attempt which said Sol Turkin had made to cash a bond for the attorneys Mills, Silverman and Mitchell, although neither one of the defendants, John Russo nor Harry Deutsch, were present. This testimony was admitted over the strenuous objection made by counsel for both of these defendants.
+We note from the record also that the prosecutor was permitted to examine the said Sol Turkin as to conversations he had with Sol Turkin in his office not in the presence of this defendant. All of this testimony was improper and should not have been permitted. The same was highly prejudicial to the rights of plaintiff in error.
+As to the fourth ground of error, claimed misconduct of the prosecuting attorney during the trial of said action and his final argument to the jury, without quoting at great length the language of the Prosecuting attorney in his closing argument, we desire, however, to use a part of the language or argument used by the prosecutor, which in part is as follows:
+“Where is the terrorism in this community except that which defies the law alone? The underworld gangs, racketeers. They are the terrorism people of the communities. It is not the law-abiding citizens; it is not the conscientious members of the police department; it is not the judiciary or the prosecuting attorney, who becomes the arm of the court. If I commit an error in this court — they talk about passion and prejudice and terrorism, unconstitutional trial — they take a record of it. If I make an error, if the court makes an error, if the jury makes an error, they have their remedy. This court, if you make an error in your findings can reverse you, grant a motion for a new trial and give them a new trial. If this court thinks you go right, but if I go wrong, they still have a right to take this case to the Court of Appeals, where this whole procedure is reviewed. Three members of the court pass upon the errors. If that court is wrong, they still have a right to go to the Supreme Court of Ohio and have their case reviewed. If they talk about constitutionality, and the Supreme Court does hot give them redress, they can still go to the Supreme Court. Talk about rights.”
+This language is followed by other language discussing terrorism, underworld, gangland, and so forth. While we recognize the right of counsel in argument, and that counsel should be allowed considerable latitude in the argument of a case to the jury, yet there is a limit beyond which counsel cannot go, and that limit is well defined by the courts of Ohio. We believe the language used by the prosecutor in this closing argument was highly prejudicial to the rights of plaintiff in error; that it tended to and did influence and create a prejudice in the minds of the jury against the defendant.
+We are apprised of the fact, and have the record of the case before us, being Case No. 12,206 in the Court of Appeals of Cuyahoga County, Ohio, being the case of Russo v The State of Ohio, which was reviewed by the Court of Appeals of Cuyahoga County, wherein his conviction was reversed and the cause remanded for a new trial, and one of the grounds on which said reversal was based was misconduct of the prosecuting attorney in closing argument, which is the same argument herein quoted, made by the prosecuting attorney.
+We, therefore, find and hold that the third and fourth ground of claimed errors are well taken and the finding and judgment of the Court of Common Pleas will be and the same is hereby reversed, and the cause remanded to the Court of Common Pleas for a new trial according to law. Exceptions may be noted.
+GARVER. PJ, and SHERICK, J, concur.
