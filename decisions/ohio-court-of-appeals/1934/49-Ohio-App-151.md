@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-07-23"
+citations: ["49 Ohio App. 151"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ross, J., and Richards, J., the latter of the Sixth Appellate District, concur."]
+parties: ["The Washington Fidelity National Ins. Co. v. Herbert."]
+source_url: "https://static.case.law/ohio-app/49/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1344750
+---
+
+# Washington Fidelity National Ins. v. Herbert
+
+## Majority (Hamilton, P. J.)
+
+Hamilton, P. J.
+Plaintiff in error, The Washington Fidelity National Insurance Company, issued a life and accident policy to Robert L. Herbert, naming the defendant in error, Margaret Herbert, his wife, the beneficiary.
+Herbert, the insured, met his death in an automobile collision at the intersection of 7th and Walnut streets, in Hamilton, Ohio. He died on March 31, 1930, the accident occurring on March 27, 1930.
+At the time of the insured’s death all premiums were paid on the policy, and proof of his death was furnished The Washington Fidelity National Insurance Company within twenty days, as provided in the policy. Whether or not payment on the policy was refused by the company at the time of the filing of the suit does not appear. However, suit was filed by the beneficiary to recover on said policy on May 14, 1930.
+The policy provided that no action at law or in equity should be brought to recover on said policy prior to the expiration of sixty days after proof of loss had been filed in accordance with the requirements of the policy. The policy further provided that the company would only be liable for accidental death if the death of insured resulted directly and independently of all other causes through external, violent, and accidental means, and that the company would not be liable for accidental death occurring at a time when the insured Herbert was under the influence of an intoxicant, or while violating any law.
+The trial of the case resulted in a verdict for the plaintiff for the amount provided for in the policy, and judgment was entered on that verdict.
+The first proposition of error claimed is that the suit was filed within the sixty-day provision of the policy. The suit was filed within the sixty days. It appears, however, that on September 6, 1930, more than three months after the filing of the suit, the defendant insurance company filed an answer in no way raising the question of the premature filing of the suit. The case went to trial on the petition and answer, resulting in a verdict and judgment, which judgment was set aside, and a new trial ordered. This was more than one year after the suit was filed. Two years later the case came on for a second trial, at which time the insurance company sought to raise the question of the premature filing of the suit. This the trial court refused to permit. It therefore appears that the case was pending for three years, during which time the insurance company had full knowledge of all the facts and full opportunity to investigate. The sixty-day period is undoubtedly provided for the purpose of affording investigation before being subjected to suit. Having failed to raise the question within the period named, the insurance company must be held to have waived that question. Certainly no prejudicial error would result, as a reversal on that ground would but lead to the refiling and retrial of an action already twice tried.
+It is next claimed that the court erred in refusing to give special charges before argument, requested by the insurance company. These charges were refused, and correctly so, for the reason that they failed to state any causal connection of intoxication or violation of the law with the accident which caused the death of Herbert. The charges are based on the proposition that under the terms of the policy it is immaterial whether there is any causal connection between the intoxica'tion, or violation of the law, and the accident, the cause of the death. This construction would amount to this, that if the insured had lost his rear license tag, and was driving his ear without knowledge of that fact, and a collision occurred at an intersection, the insurance company would not be liable under the policy; or, if the insured was in an intoxicated condition and was struck by lightning, the company would not be liable under the terms of the policy. We cannot accede to such a construction. If this construction sought by the company were sustained it would amount to legal fraud. The courts will not construe a contract in a way that will produce such a result.
+Our conclusion on the question is that the trial court was correct in holding that there must be shown a causal connection between the intoxicated condition or the violation of law with the accident, resulting in death.
+Complaint is made against the ruling of the trial court in excluding the ordinances of the city of Hamilton, requiring automobile drivers to stop at an intersection where a stop sign is placed. It appears that a stop sign was placed on 7th street at the intersection of Walnut; that the insured was driving on 7th street, and failed to stop at the stop sign. The trial court excluded the ordinances for the reason that the provision of the policy, “violation of any law”, must be held to refer to state laws and not to ordinances. It has been held by the Supreme Court that in the provision in the Constitution stating that “laws may be passed” the reference is to laws enacted by the Legislature, and not to municipal ordinances.
+It is the law that a policy of insurance must be most strongly construed in favor of the insured, and against the insurer. There is no explanation in the policy as to what the insurer meant by the use of the term “law”. Our conclusion is, in the absence of any explanation, that the reference in the policy was to state laws and not to ordinances. Under this ruling the court properly excluded the ordinances. The court did charge fully on the violation of state laws. Moreover, the evidence is clear that the stop sign was absolutely obscured from view by a line of parked automobiles. If the court had permitted the introduction of the ordinance it could not have affected the verdict, for the reason that, being a misdemeanor, there is an absolute failure of proof of criminal intent, which it is necessary to establish in misdemeanor eases before there can be a conviction of a violation of an ordinance. One of the defenses set up in the answer was that Herbert at the time was intoxicated and violated the law, and the defendant introduced evidence tending to show these facts. The testimony on these two propositions was in conflict. The answers to interrogatories submitted by the insurance company are as follows:
+“No. 1. Was the insured, Robert L. Herbert, at the time of the collision with the Gregory car under the influence of any intoxicant?
+“Answer: No.
+“No. 2. Was the insured, Robert L. Herbert at the time of the collision with the Gregory car violating any law?
+“Answer: No.”
+These answers absolutely settle the question and practically eliminate the law question suggested and discussed above.
+We find no prejudicial error in the record, and the judgment is affirmed.
+Judgment affirmed.
+Ross, J., and Richards, J., the latter of the Sixth Appellate District, concur.
