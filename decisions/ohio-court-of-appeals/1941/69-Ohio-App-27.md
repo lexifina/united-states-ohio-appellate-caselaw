@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3761 and 3762"
+decided: "1941-03-17"
+citations: ["69 Ohio App. 27"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Overmyer and Lloyd, JJ., concur."]
+parties: ["Staunton, Admx., Appellee, v. The Provident Life & Accident Ins. Co., et al.; Herzberg, Admx., Appellant. Staunton, Admx., Appellee, v. The Hocking Valley Mutual Benerit Assn. et al.; Herzberg, Admx., Appellant."]
+source_url: "https://static.case.law/ohio-app/69/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1371023
+cites_cases: ["1 N. E., 324", "163 N. E., 310", "29 Ohio App., 399", "43 Ohio St., 270"]
+---
+
+# Staunton v. Provident Life & Accident Ins.
+
+## Majority (Carpenter, J.)
+
+Carpenter, J.
+About 1:15 a. m., February 19, 1939, in a bedroom of an apartment at Fort Lauderdale, Florida, Frank I. Stump sh'ot his wife, Mary M. Stump, and then shot himself back of the right ear in the mastoid region. Mary M. Stump was rushed to a hospital but died at 2:10 a. m. that day. From the testimony of all of the numerous witnesses who were in the room of the tragedy immediately after the shooting, no indications of life in Mr. Stump were observed at any time.
+Mr. Stump held policies of life insurance and various sick and accident benefits in The Provident Life & Accident Insurance Company and The Hocking Valley Mutual Benefit Association, and Mary M. Stump was the designated beneficiary in both policies.
+Mary E. Staunton, as administratrix of the estate of Mary M. Stump, filed separate actions against the insurers, based on the life insurance provisions of these policies, the former for $2,000, the latter for $1,000. It was alleged that Mary M. Stump died several hours after her husband. The petitions made Margaret E. Herzberg, as administratrix of the estate of Fran\ I. Stump, a party defendant, alleging that she claimed the proceeds of the policies. She filed answers admitting the deaths of the Stumps, and by what amounted to cross-petitions, alleging that Frank I. Stump survived Mary M. Stump, claimed such proceeds. In the petition filed against the Provident company she also alleged that there were unpaid sick benefits due her decedent at the time of his death, in the amount of $53.33, for which she prayed judgment.
+By affidavits in interpleader, the insurers admitted the amounts due from them, both as life insurance and as sick benefits, but alleged their uncertainty as to whom the money should be paid, and paid it into court and asked the court to determine the rights of the respective estates thereto.
+In the lower court these causes were consolidated for the purposes of trial and were tried to a jury as one case. The only fact issue submitted to the jury was: Which decedent died first? The verdict was for the plaintiff and the judgment ordered $3,000 paid to her and $53.33 to the defendant administratrix. From this judment, separate appeals were filed by the defendant, but they have been heard and considered together here.
+The first group of errors assigned relates to the requirement of the court that the jury be sworn as though the administratrices, one against the other, were the only parties, and that no mention be made to the jury of the insurance companies, the policies or insurance. This was proper. The insurers brought into court all of the money claimed from them. They were not in the trial, and had nothing to do with the issues to be decided. The sole fact question before the court under the pleadings was: Which decedent survived the other? That determined, it was for the court, construing the insurance contracts, to apply the law to the fact found by the jury and enter the required judgment.
+Various objections were made to some evidence admitted, particularly that of lay eyewitnesses, who, having observed Mr. Stump’s body as it lay slumped on the floor with the head and shoulder against the wall, said that in their opinion he was dead.
+The Ohio rules regarding the admissibility of opinion evidence are stated in Baltimore & Ohio Rd. Co. v. Schultz, 43 Ohio St., 270, 282, 1 N. E., 324. The court concluding with reference to opinions by non-experts, said, page 283:
+“Where the facts concerning their condition (fences, highways, etc.) can not be made palpable to the jurors so that their means of forming opinions are practically equal to those of the witnesses, opinions of such witnesses may be received, accompanied by such facts supporting them as they may be able to place intelligently before the jury.”
+Before stating their opinions, all the witnesses had described as best they could the position, wound and condition of Mr. Stump. Under the circumstances, whether the opinions were admissible was in the discretion of the trial court. This is a reasonable discretion, and unless the evidence was prejudicial, the verdict should not be disturbed. Cincinnati Street Ry. Co. v. Hickey, 29 Ohio App., 399, 163 N. E., 310.
+Regardless of these opinions, all of the fact evidence indicated that Mr. Stump’s death must have followed immediately after he shot himself. No fact evidence rehutted such conclusion. Under these circumstances, admission of the opinion evidence was not prejudicial error.
+Various other errors are assigned as to the admission and rejection of evidence, and as to other features of the trial. All of these have been examined and none found prejudicial to defendant.
+Plaintiff makes some claim that Section 10503-17, General Code, which provides that one convicted of murder cannot inherit from his victim, precludes the defendant from any right to the money in question; Defendant claims some benefit to her under Section 10503-5, General Code, the half-and-lialf statute, and Section 10503-18, General Code, the common disaster law. All of these laws relate only to the inheritance or descent of property, and hence have no application to the issues herein. Any right the plaintiff has herein arises solely out of the insurance contracts. Her decedent being the designated beneficiary in them, they were contracts made for the benefit of her decedent. If plaintiff is entitled to recover the insurance money, it is because the right to it accrued to her decedent on the death of the insured. If it did, that money was not Mr. Stump’s and never became a part of his estate, hence did not come to Mrs. Stump by inheritance.
+Except for her claim as to these statutes, the defendant concedes that if Mr. Stump died before bis’ wife, the plaintiff is entitled to the proceeds of the Hocking Valley Mutual Benefit Association policy, but in the Provident Life & Accident Insurance Company policy, there appears the following:
+“If there be no designated beneficiary surviving at the time any benefit shall become payable to the beneficiary, then such benefit shall be payable to the executors or administrators of such employee.”
+The defendant claims that the insurance was not “payable” until proof of death had been made to the company, and, assuming Mr. Stump died first, it would have been impossible for such proof to have been made by Mrs. Stump during the short time she lived after his death, hence when proof was made and the money was “payable,” there was no “designated beneficiary surviving” and it was payable to her as administratrix of Mr. Stump’s estate. The quoted provision does not have that effect. The life insurance money was “payable” on the death of the insured, and the right of the beneficiary to it accrued then, although the actual payment of the money would not be made until the insurer was informed and satisfied that the insured was dead. The latter requirement is for the benefit of the insurer. The trial court did not err when it so interpreted this provision.
+The jury, on sufficient evidence, having found that Mr. Stump predeceased his wife, and there appearing no prejudicial error in the record, the judgments are affirmed.
+Judgments affirmed.
+Overmyer and Lloyd, JJ., concur.
