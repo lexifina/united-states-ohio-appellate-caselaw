@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-860490"
+decided: "1987-08-05"
+citations: ["40 Ohio App. 3d 188"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, P.J., Black and Hildebrandt, JJ., concur."]
+parties: ["City of Cincinnati, ex rel. Cincinnati Private Police Association Company, Watchmen’s Local No. 13130 et al., Appellees, v. City of Cincinnati et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/40/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710753
+---
+
+# City of Cincinnati ex rel. Cincinnati Private Police Ass'n v. City of Cincinnati
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal from the Court of Common Pleas of Hamilton County. •
+In this appeal from a declaratory judgment, the only question is whether “private police officers” commissioned and appointed by the city of Cincinnati prior to January 1, 1966 are exempt from the training requirements required by the city under Chapter 887 of the Cincinnati Municipal Code which was enacted in 1983. That chapter requires certain training for all “private police officers” irrespective of the time of their original commission or appointment. The dispute arose because former R.C. 109.77(A) (now “[D]”) exempts “peace officers” from having to complete an approved basic training program if they received their original appointments prior to or on January 1, 1966. Contrary to the judgment below, we hold that the Cincinnati “private police officers” in question are not exempt from the city’s 1983 training requirements.
+Plaintiff-appellee Cincinnati Private Police Association Company (“CPPAC”) is an incorporated labor union composed entirely of private police officers commissioned by the city of Cincinnati. It provides private police services under contract to the Cincinnati Reds, Cincinnati Bengals, Riverfront Coliseum and other such entities. Five of the current members of CPPAC were commissioned as private police officers prior to January 1, 1966. Plaintiff-appellee Lenn Carboina is President of CPPAC and plaintiff-appellee Carl Lanzetta was commissioned a “private police officer” in 1956.
+R.C. 109.77, as adopted in 1965, required all individuals appointed as “permanent” “peace officers” after January 1, 1966 to be certified as having completed an approved state, county or municipal police basic training program. Following the enactment of R.C. 109.77, then Cincinnati Police Chief Jacob W. Schott issued regulations concerning the enforcement of the statute in Cincinnati. Relying on an opinion by the Attorney General of Ohio, he determined that “private police officers” were “peace officers” and were, therefore, required to complete the basic training required under R.C. 109.77. Further, Schott determined that no private police officer commissioned prior to January 1,1966 was required to do so as long as he continued to pay his annual license renewal fee and remained with the same employer.
+As noted, in 1983, the city of Cincinnati adopted Chapter 887 of the Cincinnati Municipal Code which established requirements for the commissioning of “private police officers”; in addition, regulations were issued establishing training requirements for them, including a provision that persons holding current private police commissions had to meet the training requirements by September 4, 1984. The city did not grant any exemption from these requirements, irrespective of the time of a private police officer’s original commission or appointment.
+Appellees filed the complaint sub judice seeking a declaratory judgment to establish that private police officers commissioned prior to January 1,1966 are “peace officers” entitled to an exemption from the city’s 1983 training requirements pursuant to R.C. 109.77 (A) (now “[D]”), as interpreted in opinions of the Attorney General of Ohio and Police Chief Schott’s administrative regulations. On cross-motions for summary judgment, the trial court ruled in favor of plaintiffs-appellees.
+Defendants-appellants’ single assignment of error is that the trial court erred in denying appellants’ motion for summary judgment and in granting ap-pellees’ motion for summary judgment. Appellants argue that “private police officers” are not “peace officers” pursuant to R.C. 109.77 and that, therefore, “private police officers” are not exempt from the statutory requirements or from the municipal requirements. On the other hand, appellees argue that “private police officers” commissioned by the city of Cincinnati are “peace officers” under R.C. 109.77 and that those commissioned prior to January 1,1966 are exempt from the training requirements contained in the statute. For the reasons set forth below, we sustain appellants’ assignment of error.
+. R.C. 109.77, as applicable herein, provided (see 139 Ohio Laws, Part II, 4361), in pertinent part:
+“(A) Notwithstanding any general, special, or local law or charter to the contrary, no person shall, after January 1,1966, receive an original appointment on a permanent basis as a peace officer of any county, township, or municipal corporation, or as a state university law enforcement officer unless the person has previously been awarded a certificate by the executive director of the Ohio peace officer training council, attesting to his satisfactory completion of an approved state, county, or municipal police basic training program; * * *.”
+In addition, R.C. 109.71, as applicable herein and in pertinent part, stated (see 139 Ohio Laws, Part I, 1479, 1479-1480):
+“As used in sections 109.71 to 109.77 of the Revised Code:
+“(A) ‘Peace officer’ means:
+“(1) A deputy sheriff, marshal, deputy marshal, member of the organized police department of a municipal corporation, or township constable, who is commissioned, and employed as a peace officer by a political subdivision of this state, and whose primary duties are to preserve the peace, to protect life and property, and to enforce the laws of Ohio, ordinances of a municipal corporation, or regulations of a board of county commissioners or board of township trustees, or any such laws, ordinances, or regulations[.]” (Emphasis added.)
+It is clear that the term “peace officer” as used in R.C. 109.77 refers only to those persons who are both commissioned and employed by a political subdivision. Appellees in the case sub judice are not employed by the city of Cincinnati; therefore, they are not “peace officers” for the purposes of R.C. 109.77.
+The trial court erred in granting appellees’ motion for summary judgment and in denying appellants’ motion for summary judgment. We rule on the denial of appellants’ motion in the instant case because it is clear from the record that there is no genuine issue of material fact and that appellants are entitled to judgment as a matter of law. We reverse the judgment of the trial court and enter judgment in favor of appellants, ruling that the five private police officers commissioned or appointed prior to January 1, 1966 are not exempt from the city’s training requirements under Chapter 887 of the Cincinnati Municipal Code.
+Judgment reversed.
+Shannon, P.J., Black and Hildebrandt, JJ., concur.
+The complaint also raised other issues which have been settled by the parties.
+We believe the meaning of “peace officer” under R.C. 109.71(A)(1) is clear and unambiguous. It is not necessary for us to turn to any rules of construction for assistance in determining the statutory meaning. Therefore, we do not give weight to Chief Schott’s administrative regulations exempting the five “grandfathered” private police officers or to the Opinions of the Attorney General on which Chief Schott relied.
