@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1679"
+decided: "1941-05-28"
+citations: ["34 Ohio Law Abs. 416"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES and HORNBECK, JJ., concur."]
+parties: ["HOYER v BREAKFIELD"]
+source_url: "https://static.case.law/ohio-law-abs/34/cases/0416-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1706704
+cites_cases: ["14 Oh St 276", "15 Oh St 212", "17 Oh St 450"]
+---
+
+# Hoyer v. Breakfield
+
+## Majority (By GEIGER, PJ.)
+
+By GEIGER, PJ.
+This matter is before us upon the assignment of errors remaining after the ruling of this Court upon a motion to dismiss, rendered on March 13, 1941. The Court in that opinion, after citing Westfall v Dungan, 14 Oh St 276 and Hoffman v Gordon, 15 Oh St 212, to which might be added Turner v Turner, 17 Oh St 450, held,
+“Of the five errors assigned, the first, ‘that the decision and judgment is not sustained by sufficient evidence’ may not be considered by this court. The other four assigned errors might be exemplified upon the record without weighing the evidence. The motion to dismiss the appeal will, therefore, be overruled.”
+In order to understand the assignment of errors upon which we now pass, we may briefly state as follows. The action was begun in the Municipal Court of the city of Dayton in which the statement of claim of the plaintiff, Ernest Hoyer, is to the effect that he was driving eastwardly on Yellow Springs Road and at the same time the defendant was driving westwardly on the same road; that when the plaintiff was approximately three hundred feet west of the Greene County Line Road and when in the act of passing through a bridge, the ’ defendant proceeding in the opposite direction drove his vehicle over onto the south half of the road striking the vehicle of the plaintiff and causing the damage complained of.
+An answer was filed denying the alallegations of plaintiff’s petition and setting up a cross-statement of claim to the effect that the collision occurred at ‘the west end of a narrow bridge While the defendant’s vehicle was on the right or north side of the road; that said motor vehicle had passed through the bridge at the time it was struck by that of the plaintiff going eastwardly; that the collision was the direct and proximate result of the negligence of the plaintiff in operating his vehicle on the north portion of the road.
+To this- cross-statement a reply wás filed denying all allegations. *
+The case was submitted to the Municipal Judge, who, in an opinion filed, examines the testimony and comes to the conclusion that the defendant was negligent in operating his automobile to the left of center line in violation of §6310-17 GC and that such negligence was the direct cause of the accident. The cross-petition of the defendant was dismissed and judgment rendered in favor of. the plaintiff in the sum of $325.00.
+An entry was filed on March 18, 1940, to the effect that the court finds for the plaintiff and against the defendant and that the plaintiff is entitled to recover in the amount stated.
+The defendant filed the following motion,
+“Now comes the defendant by his counsel and moves the court for leave to re-argue this case on which the decision was rendered on March 16th, 1940.”
+On June 13, 1940, the court rendered an opinion on the motion for leave to re-argue the case in which the court states “the court will consider the motion as filed on March 18, • 1940, as a motion for new trial” and the motion for new trial was overruled.
+The case was appealed to the court of common pleas. A motion was made to dismiss the appeal in the court of common pleas which was on November 13, 1940, overruled and thereupon, on the same day, the court filed an entry stating that the matter came on to be heard upon the assignment of errors, etc. and the court “hereby refuses to review the record as set forth in the bill of exceptions by weighing the evidence adduced in the lower court, and further finds that all other errors apparent of record and submitted by counsel for defendant-appellant are not well taken and are hereby overruled.” The cause was remanded to the municipal court for execution.
+■ On December 3, 1940, the defendant gave notice of appeal • to the court of appeals from the judgment of the common pleas court on questions of law.
+Thereupon the motion to dismiss the appeal was filed and overruled by this court as heretofore stated.
+The matter is again before this court on the question whether any of the other four assigned errors might be exemplified upon the' record without weighing the evidence, this court having held, as before indicated, that upon the question that the decision and judgment is not sustained by sufficient evidence, the evidence may not be considered.
+. The first assignment of error as presented by the défendant’s brief is that the judgment is not sustained by sufficient evidence. This assignment may not be passed upon py us because we can not consider the weight of the evidence as there has béen no proper motion for a new trial.
+The second assignment is that the decision and judgment is contrary to law. The cases cited by counsel as su .staining this position are to the effect that when all the facts are admitted, which the evidence tends to prove, only a question of law is before the court. The cited cases- deal with those in which the errors complained of do not involve the weight of the evidence but to the effect to be given to the .uncontradicted testimony of the plaintiff; that an error of law ..for. want of proof arises where there is no evidence fairly tending to establish one or more of the facts, the existence of -which is essential; that where'the court can not pass upon the weight of the ^.evidence,-in the absence of a. mation for new trial, such motion is-not necessary in order to-determine whether or •not there, was any evidence tending -to support.the claim, of :the -defendant. The defeated party' has - the right-.- to rest solely upon his- motion for. a directed verdict-and-- although he- may not do . so, he -is-not compelled to ask for a new-trial:.-that if th.ere..is..no disputed issue ■ of .fact no motion for. .-new 'trial is.-required.",
+“A motion for new trial is not -necessary to review error in granting or refusing to direct a verdict, nor to review a ruling on the admission or rejection of evidence, nor to review errors in the charge of the court. A motion for new trial is necessary to review disputed questions of fact and especially the question of .the weight of the evidence. These rules apply to cases tried to the court without a jury, and also to equity cases.” - Hornbeck & Adams Trial and Appellate Practice,. §113.
+The appellant claims that the physical facts lend, no support to the theory of the plaintiff and can only be reconciled upon the theory that the collision occurred on the north side of the pavement and that, therefore, the plaintiff and not the defendant was responsible for the accident. We are of the opinion that there is a conflict of evidence on this point. Where there is a conflict of evidence, a motion for new trial is necessary. The second assignment of error is dismissed.
+The third and fourth assignments are in reference to the admission of improper evidence and the exclusion, of proper evidence. We find no prejudicial error in the. ruling.of the court in this- matter, Assignments three and four will therefore be dismissed.
+• Assignment No, 5 is for other errors of law. . The one error presented is that the municipal court, in. construing the motion,to.re-argue .as" a motion for new trial did so .without basis -in .statute .and. that said, error deprived the- defendant. .of • an. opportunity- to file a motion for new--trial .after "the motion for re-argument could .and should have been disposed of. • We are ■unable to see -any.merit in this assignment. In • the - first place, counsel -for defendant ,in the. trial court filed, the form-of motion which has given rise to all. .the technical argument.-herein. He was- at .liberty to file, a proper motion for new trial. Further, -when-the- court passed upon his improper motion, he .was stijl-at..liberty, to file a proper motion fon new trial, if still within- time. If not within time, it was a result of his own error m endeavoring to improve upon the statutory form of the motion for new trial.
+J udgment of the court below affirmed. Cause remanded to the municipal court for execution. ••
+BARNES and HORNBECK, JJ., concur.
