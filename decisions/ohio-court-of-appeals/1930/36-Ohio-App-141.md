@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-05-06"
+citations: ["36 Ohio App. 141"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Funk, P. J., and Washburn, J., concur in judgment."]
+parties: ["Hostetler v. The National Acceptance Co."]
+source_url: "https://static.case.law/ohio-app/36/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321552
+---
+
+# Hostetler v. National Acceptance Co.
+
+## Majority (Pardee, J.)
+
+Pardee, J.
+The parties occupy positions in this court the reverse of those in the trial court, but for convenience will be designated in this opinion as plaintiff and defendant, as they were in that court.
+The plaintiff, an Ohio corporation, started an action in the court of common pleas to recover an automobile which it claimed to own, and had a writ of replevin issued to secure its possession, which it alleged the defendant unlawfully retained.
+The defendant answered, alleging that she had purchased the automobile from a partnership doing business in Wadsworth in said county, under the name of The Wadsworth Garage Company, hereinafter referred to as the dealer, and that she paid its full value and obtained a proper bill of sale for it.
+She further alleged that the automobile had been purchased in the regular way by said dealer from the manufacturer and that it had been placed upon the dealer’s salesroom floor for the purpose of selling it to one who might be attracted to it by reason of such display. She further alleged that said dealer, by its words and conduct, represented to her that the automobile was free and clear of incumbrances, that the representations thus made were for the purpose of inducing her to purchase said automobile and have her rely upon them, and that she did so rely when she purchased the same.
+Defendant further alleged that the plaintiff, if it had any interest in said automobile, knew that said dealer would make such representations when the automobile was allowed to remain in its possession, and that said plaintiff is estopped to deny their truth and assert that it is the owner of the same.
+To this answer the plaintiff filed a reply, in the form of a general denial.
+The case was tried to the court without a jury, upon an agreed partial statement of facts and other evidence. The trial court held in favor of the plaintiff, and the case is here on error to reverse that judgment.
+The record shows that the plaintiff is an automobile financing company, with its principal place of business in Youngstown, Ohio, but at the times in question in this suit it maintained an office in Akron, where its business with said dealer was transacted.
+The record also shows that said dealer bought and sold new and old automobiles and that it began to transact business with the plaintiff in September, 1928, and that 'it financed during the next six or seven months for said dealer fifteen or twenty automobiles, upon the so-called “floor plan.” This plan, according to the evidence, consisted of the plaintiff furnishing the money to said dealer by which it could buy from and pay the manufacturer for cars purchased as they were delivered, the plaintiff in turn taking chattel mortgages upon the cars for the sums furnished and which mortgages would be properly executed and filed as provided by law.
+The record further shows that the car in question was purchased by said dealer from the manufacturer on or about December 1, 1928, and immediately placed on the defendant’s salesroom floor; that on said day said dealer borrowed from plaintiff the sum of $942.10, and executed a note due on January 1, 1929, to said plaintiff for said amount and secured the same by a duly executed and filed chattel mortgage upon said car; and that on or about January 5, 1929, the defendant, seeing the car on said floor, in good faith and for a valuable consideration then paid, purchased in the ordinary course of trade said automobile from said dealer and took possession of the same with a duly executed bill of sale — all without any knowledge that plaintiff had a mortgage upon or interest in said automobile.
+The record further shows that the defendant kept and used said automobile from the day she purchased it until on or about the 25th day of July, 1929, when for the first time she learned that the plaintiff claimed to have a chattel mortgage upon it. Said dealer was declared a bankrupt on July 11, 1929.
+From the record it appears that said automobile was placed in the salesroom of said dealer with other cars which it had on hand for display and sale; that many of the cars upon which the plaintiff had mortgages were sold by the mortgagor without consulting the mortgagee before they were sold and that settlement was made by the dealer with the plaintiff after said sales; that the agents of the company knew, as stated by them, that the car was “immediately placed upon the salesroom floor for the purpose of sale to such person who might be attracted thereby;” that the plaintiff’s agents visited the dealer’s place of business occasionally but did not keep a close check-up on its mortgaged cars; that the mortgage upon the car in question was past due at the time the car was purchased by the defendant.
+By the express terms of the mortgage, the car was placed in the garage of the mortgagor “to be used for exhibition purposes only,” and by the admission of the agents of the plaintiff, the car was to be “immediately placed upon the salesroom floor for the purpose of sale to such person who might be attracted thereby,” and by the course of dealing between the parties it is established to our satisfaction that the plaintiff expected to have the dealer sell the car in the ordinary retail way and pay the mortgage from the sale price; that this was the way many similar transactions had been had by the mortgagor and mortgagee for several months, covering a period of time before and after the transaction in question; and that no objection was made by plaintiff to this course of conduct until it discovered that the dealer was bankrupt and could not pay its obligations and that plaintiff had been imposed upon by said dealer.
+No tags or marks were placed upon the cars to warn or notify prospective purchasers that the cars were mortgaged, the mortgagee relying solely upon its mortgage and the constructive notice with which it claimed innocent buyers were charged, if the dealer failed to account for the money received from the sales.
+By the contract and by the course of conduct of the mortgagor and mortgagee, the mortgagor was allowed to hold itself out to the public as a retail dealer in automobiles, with the right to sell the mortgaged cars without let or hindrance; and now to permit the mortgagee to assert its mortgage against the defendant, an innocent purchaser in the usual course of trade for value and without notice, would be, under the circumstances of this case, a fraud upon such innocent party, and would permit the one who made the fraud possible to take advantage of its own wrong. We hold the mortgage, as against the defendant, to be void and of no effect.
+The judgment of the trial court is therefore reversed; and the controlling facts which lead us to this conclusion being conceded, we now proceed to render the judgment which that court ought to have rendered, and enter final judgment for plaintiff in error.
+Judgment reversed.
+Funk, P. J., and Washburn, J., concur in judgment.
