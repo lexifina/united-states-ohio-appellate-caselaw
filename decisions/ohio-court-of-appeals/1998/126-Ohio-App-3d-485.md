@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA97-04-042"
+decided: "1998-03-02"
+citations: ["126 Ohio App. 3d 485"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Walsh and Powell, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. GARCIA, a.k.a. Chavez, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/126/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 738943
+cites_cases: ["11 OBR 71", "11 Ohio App.3d 38", "1997 WL 570695", "1997 WL 570701", "1997 WL 779085", "463 N.E.2d 47", "568 N.E.2d 1222", "58 Ohio St.3d 121", "612 N.E.2d 454", "82 Ohio App.3d 341"]
+---
+
+# State v. Garcia
+
+## Majority (William W. Young, Presiding Judge.)
+
+William W. Young, Presiding Judge.
+Defendant-appellant, Alfredo Garcia, a.k.a. Enrique Chavez, appeals the sentence imposed upon him by the Clermont County Court of Common Pleas pursuant to Ohio’s felony sentencing law, Am.Sub.S.B. No. 2 (“Senate Bill 2”).
+On October 16, 1996, appellant was indicted by the Clermont County Grand Jury for one count of grand theft of a motor vehicle in violation of R.C. 2913.02(A)(1), a fourth degree felony, and one count of theft in violation of R.C. 2913.02(A)(1), a fifth degree felony. Both offenses occurred on or about July 15, 1996. A jury trial was held on February 20 and 21, 1997. The jury found appellant guilty of grand theft of a motor vehicle and not guilty of theft. A presentence investigation was ordered. On March 21, 1997, following a hearing, the trial court filed a judgment entry sentencing appellant to eighteen months in prison, the maximum term permitted for a fourth degree felony under Senate Bill 2.
+Appellant now appeals, setting forth the following assignment of error:
+“The trial court abused its discretion by failing to make findings required by Ohio Revised Code Sections 2929.14(B) and 2929.14(C) thereby prejudicing the defendant-appellant.”
+In his assignment of error, appellant contends that the trial court erred by failing to make the findings required by R.C. 2929.14(B) and (C) prior to imposing the maximum sentence authorized for a fourth degree felony.
+Before a court may sentence an offender to prison for a fourth degree felony, it must first determine whether any of the factors listed in R.C. 2929.13(B)(1)(a) through (h) exist. The court then determines, based upon consideration of the seriousness and recidivism factors contained in R.C. 2929.12(B), (C), (D), and (E), whether a prison term or community control sanction is consistent with the purposes and principles of felony sentencing found in R.C. 2929.11. See R.C. 2929.13(B)(2)(a) and (b). If the court determines that a prison term is warranted, the court selects a definite term from the range available pursuant to R.C. 2929.14(A)(1) through (5). In this case, the sentencing range for a fourth degree felony is a prison term of six to eighteen months. R.C. 2929.14(A)(4).
+If the sentencing court elects to impose a prison term upon the offender and if the offender has not previously served a prison term, the court is required to impose the shortest authorized term of imprisonment pursuant to R.C. 2929.14(A), “unless the court finds on the record that the shortest prison term will demean the seriousness of the offender’s conduct or will not adequately protect the public from future crime by the offender or others.” (Emphasis added.) R.C. 2929.14(B). The sentencing court may impose the maximum authorized prison term for the offense “only upon offenders who committed the worst forms of the offense” or “pose the greatest likelihood of committing future crimes * * R.C. 2929.14(C). Furthermore, if the sentencing court imposes the maximum authorized prison term for one offense, it must “make a finding” and “give[ ] its reasons” for selecting the maximum sentence. R.C. 2929.19(B)(2)(d).
+Pursuant to R.C. 2953.08(G)(1)(a) and (d), an appellate court may not disturb a sentence imposed under Senate Bill 2 unless it finds by clear and convincing evidence that the sentence is not supported by the record or is contrary to law. Clear and convincing evidence is that evidence “which will provide in the mind of the trier of facts a firm belief or conviction as to the facts sought to be established.” Cincinnati Bar Assn. v. Massengale (1991), 58 Ohio St.3d 121, 122, 568 N.E.2d 1222, 1223; State v. Rose (Sept. 15, 1997), Clermont App. No. CA96-11-106, unreported, at 11, 1997 WL 570695. While clear and convincing evidence is “more than a preponderance of the evidence,” it does not rise to the level of “evidence beyond a reasonable doubt.” State v. Ingram (1992), 82 Ohio App.3d 341, 346, 612 N.E.2d 454, 458. See, also, State v. Danby (1983), 11 Ohio App.3d 38, 41, 11 OBR 71, 74-75, 463 N.E.2d 47, 50-51.
+The trial court sentenced appellant to eighteen months in prison, the maximum sentence authorized by R.C. 2929.14(A)(4) for a fourth degree felony. However, before imposing sentence, the trial court failed to comply with the provisions of R.C. 2929.14(B) because it failed to find on the record that the shortest prison term will demean the seriousness of appellant’s conduct or will not adequately protect the public from future crime by appellant.
+Before imposing the maximum sentence, the trial court determined that “pursuant to Revised Code section 2929.14(C) * * * [appellant] poses the greatest likelihood of recidivism,” and therefore satisfied its obligation under R.C. 2929.14(C). See Rose, Clermont CA96-11-106, unreported. However, the trial court did not satisfy the requirements of R.C. 2929.19(B)(2) because it did not state “its reasons for selecting” the maximum prison term. See R.C. 2929.19(B)(2); State v. Hammons (Dec. 15, 1997), Clermont App. No. CA97-02-007, unreported, 1997 WL 779085; State v. Boss (Sept. 15, 1997), Clermont App. No. CA96-12-107, unreported, 1997 WL 570701. In the absence of any reasons given, either orally or written, for imposing the maximum sentence, we find that this matter must be remanded for resentencing.
+Appellant’s sentence is hereby vacated, and this matter is reversed and remanded for resentencing. On remand, the trial court is instructed to address the provisions of R.C. 2929.14(B) and if the maximum sentence is imposed upon appellant, to state its reasons for imposing the maximum term of imprisonment pursuant to R.C. 2929.19(B)(2)(d).
+Judgment accordingly.
+Walsh and Powell, JJ., concur.
+. Because the record before us does not indicate that appellant had previously served a prison term, the trial court was required to impose the minimum sentence unless it found, on the record, that the minimum sentence would demean the seriousness of the offense or not adequately protect the public. We note that the presentence report indicates that on October 12, 1995, appellant was found guilty in Hamilton County, Ohio, of carrying a concealed weapon for which he was sentenced to twelve days in jail and one year's probation. However, "jail” and "prison” are not synonymous. See R.C. 2929.01(V) and (CC).
