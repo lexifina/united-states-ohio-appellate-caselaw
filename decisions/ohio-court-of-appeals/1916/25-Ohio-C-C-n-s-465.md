@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1916-02-07"
+citations: ["25 Ohio C.C. (n.s.) 465", "28 Ohio C.C. Dec. 525"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones (Oliver B.), J., and Gorman, J., concur."]
+parties: ["Margaret J. Dennedy and Michael Dennedy v. The St. Theresa’s Home for the Aged et al."]
+source_url: "https://static.case.law/ohio-cc-ns/25/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1603107
+cites_cases: ["28 Mo. App. 463", "28 Mo. App., 463"]
+---
+
+# Dennedy v. St. Theresa's Home for the Aged
+
+## Majority (Jones (E. H.), P. J.)
+
+Jones (E. H.), P. J.
+There is a petition in error in tbis ease asking a reversal of the judgment of the superior court dismissing the petition below. The petition was by Margaret Dennedy and her brother, Michael Dennedy, who sought an injunction against the St. Theresa’s Home for the Aged restraining it from ejecting the plaintiff, Miss Dennedy, from the home.
+Miss Dennedy is seventy-three years of age. Her brother, Michael Dennedy, in 1911 paid to the St. Theresa’s home the sum of $500 on condition that Ms sister be provided a borne and maintenance for life. Miss Dennedy’s occupancy may have been probationary at first; but sbe bas been there continuously and the record shows to this court’s satisfaction that the contract became absolute and binding on the home not later than March, '1912.
+The petition herein contains the necessary averments for injunction. It is not denied that action had been taken by those in charge of the institution to eject this old lady and that efforts were being made and steps being taken to make her leave. But ■it is claimed by way of defense that charges had been preferred, heard by the governing board and by it sustained, and that the order of ejectment was based thereon.
+As has been said, the rights of plaintiff are founded on contract, and in such respect differ from those of members of social, benevolent or religious organizations. • Under her contract Miss Dennedy has acquired rights which courts of law must recognize and take cognizance of. But whether she must resort to a court of law for damages or can obtain relief from a court of equity is a question dependent upon the nature of her damage — as to whether or not it can be measured in money, and whether the law court can-afford her adequate relief. See Mulroy v. Knights of Honor, 28 Mo. App., 463.
+We call attention also, in this connection, -to the case of The Parliament of the Prudent Patricians of Pompeii v. Marr, 20 App. Cas. D. C., 364. Paragraph 6 of the syllabus is this :
+“Although, as a rule, the courts will not interfere to determine a person’s ‘good standing’ in a fraternal or other association, when such good standing is based upon morals, religion, etc., yet when it appears that the governing body of a beneficial association has refused to pay a member’s policy of insurance on the ground that the member was not in good standing and that such good standing was based merely upon the payment of dues and that such dues had been paid, the courts will not hesitate to take cognizance of the matter.”
+We quote from the opinion in this ease the following pertinent paragraphs:
+Pages 374-5: “Even if it could be held that in an incorporated association, such as the appellant is, a by-law could be sustained which would prohibit recourse to the ordinary tribunals of law, in regard to which we entertain very grave doubt; and even if in a voluntary, and especially, a religious organization, by-laws and regulations for the discouragement of litigation have been upheld, yet most undoubtedly, in order to preclude one from resorting to the ordinary tribunals of the land for the enforcement of purely civil contracts, there must be some express and specific agreement shown for the substitution of some other mode of settlement. No such agreement is shown here; there is no mode pointed out by the pleas for the settlement of claims like that of the appellee ‘in the regulcvr channels of the order.’ It is not shown that the appellees or George Marr, agreed not to have recourse to the courts in eases like the present. He who would oust the courts of the land of their ordinary jurisdiction, must show with specific distinctness what substitute therefor ,has been established; and it is not shown by the pleas in the present case that any officer or tribunal has been established to pass upon this class of claims.”
+Pages 375-6: “Courts of law, it is true, will not ordinarily concern themselves with the question of the good standing of members of social, benevolent and religious organizations. Matters of morals, or religion, or dogma, or discipline, or gentlemanly conduct, must be left to these organizations to be settled as best they can in their own way. But good standing, with reference merely to a civil contract, and which depends on the payment of dues to the organization, is a thing of which the civil courts will not hesitate to take cognizance.”
+In further support of the principle involved here and upon which plaintiffs rely for equitable relief, we quote from High on Injunction:
+Section 30: “ The mere existence of a remedy at law is not in itself sufficient ground for refusing relief in equity by injunction. Nor does the existence or non-existence of a remedy at law afford a test as to the right to relief in equity. To deprive a plaintiff of the aid of equity by injunction, it must also appear that the remedy at law is plain and adequate; in other words, that it is as practical and efficient to secure the ends of justice and its proper and prompt administration as is the remedy in equity. And unless this is shown a court of equity may lend its extraordinary aid by injunction, notwithstanding the existence of a remedy at law.”
+Section 22: “By irreparable injury is not meant that the injury is beyond the possibility of repair by money compensation, but it must be of such a nature that no fair and reasonable redress may be had in a court of law, and that to refuse the injunction would be a denial of justice.”
+And Joyce, in his work on the same subject, says, Section 36:
+“The injury is irreparable when it is of such a nature that the injured person can not be adequately compensated therefor in damages, or when the damages which may result therefrom can not be measured by any certain pecuniary standard.”
+This action is based on contract, as we have heretofore remarked, and as the petition plainly shows. The situation of plaintiff is different, therefore, from one who is a member of a benefit society, and her right to apply to a court for relief much more firmly established and generally recognized. Yet cases are cited and eminent authors quoted in the brief of counsel for plaintiffs in error showing that even members of such organizations have been given relief in equity where they could show that the threatened damage was irreparable and incapable of settlement upon a pecuniary basis.
+Plaintiff was therefore entitled to show her inability to obtain adequate relief in a court of law. We can well imagine from the circumstances shown in the record the difficulty and lack of opportunity to procure a contract such as that held by plaintiffs. Such institutions are few in number. She may not have the money with which to again buy a home for life, and even if she could get the money she would be compelled to leave behind friendships and associations for which no substitute could be found in the new home.
+In this case the trial court should have gone fully into such an inquiry and should have allowed great latitude to plaintiff in her attempt to show any hardship or damage and the nature and extent thereof which may be worked by her expulsion. In such manner only can the court determine her right to the relief prayed for.
+The plaintiff was also entitled to show, if she could, any irregularity or defect in the proceedings leading to the order of expulsion. This would include the nature of the charges, the hearing thereon, and all things connected with the action of the board in expelling her. In denying these things to plaintiff in the trial below, we are of the opinion that the court erred to her prejudice.
+The portion of the record where the errors occur is pages 66, 67 and 68, and we quote only a part:
+On page 66: ‘ ‘ Q. Now, in the case of charges that are preferred by the matron, that a party did not show her the proper respect—
+“The Court: Gentlemen, we can not possibly go into all those details.
+“Whereupon counsel for plaintiff offered to prove by letters and papers in this case that no material or substantial charges were ever preferred against the plaintiff, Margaret Dennedy, before the board controlling the St. Theresa’s Home.
+“Whereupon said tender of proof was rejected by the court, to which ruling of the court, plaintiff, by their counsel, at the time, excepted.”
+Page 67: “Mr. Dawson: I also offer to prove that the plaintiff in this case, Margaret Dennedy, made a demand, after being notified that a trial before this board was to be had, requesting a copy of the charges to be met by her, and that this demand was refused.
+“Whereupon said tender of proof was rejected by the court, to which ruling of the court, plaintiffs, by their counsel, at the time, excepted.
+“Mr.. Dawson: I also offer to prove by documents in the matter, that this plaintiff made a demand for the names of the witnesses and that this demand was refused.
+“Whereupon said tender of proof was rejected by the court, to which ruling of the court, plaintiffs, by their counsel, at the time, excepted.
+“Mr. Dawson: I also offer to show by the papers in the case, that this plaintiff, Margaret Dennedy, demanded the right to be present with counsel at the inquiry into these matters concerning her right to remain in the home, and that she was refused the right to appear with her counsel or to have the assistance of counsel in meeting the charges made.”
+Page 68: “ Whereupon the court rejected said tender of proof, to which ruling of the court, plaintiffs, by their counsel, at the time, excepted.
+“Copies of said demand are hereto attached marked Exhibits H, I and J and made part hereof.
+“Mr. Dawson: I also offer to show that the plaintiff in this case, Margaret Dennedy, has conducted herself strictly in accordance with all rules and regulations, constitution and bylaws, and that the expulsion or pretended expulsion of her by the Saint Theresa’s Home for the Aged, and its officers and directors, has been without any cause or excuse.
+“Whereupon the court rejected said tender of proof, to which ruling of the court, plaintiffs, by their counsel; at the time, excepted. ’ ’
+For error in rejecting this evidence the judgment is reversed, and the cause remanded for new trial.
+Jones (Oliver B.), J., and Gorman, J., concur.
