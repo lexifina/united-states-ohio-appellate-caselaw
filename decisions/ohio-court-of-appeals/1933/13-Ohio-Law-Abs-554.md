@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 13032"
+decided: "1933-01-23"
+citations: ["13 Ohio Law Abs. 554"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LIEGHLEY, J, concurs.", "LEVINE, PJ, dissents."]
+parties: ["STATE ex FULTON v WEINBERGER et"]
+source_url: "https://static.case.law/ohio-law-abs/13/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1644886
+cites_cases: ["104 Oh St 436"]
+---
+
+# State ex Fulton v. Weinberger
+
+## Majority (McGILL, J.)
+
+McGILL, J.
+From this order of the court below, the Superintendent of Banks has prosecuted error proceedings to this court, and the real question involved is, whether or not the court below erred in granting the motion to make definite and certain, filed by the defendants.
+Article 13, §3 of the Ohio Constitution which became effective January J, 1913, provides as follows:
+“Dues from private corporations shall be secured by such means as may be prescribed by law, but in no case shall any stockholder be individually liable otherwise than for unpaid stock owned by him or her; except that stockholders of corporations authorized to receive money on deposit, shall be held individually responsible, equally and ratably, and not for one another, for all contracts, debts and engagements of such corporation to the extent of the amount of their stock therein, at the par value thereof, in addition to the amount invested in such shares.”
+Sec 710-75 GC reads as follows:
+“Individual liability of stockholders:
+Stockholders of banks shall be held individually responsible, equally and ratably, and not one for another, for all contracts, debts and engagements of such bank, to the extent of the amount of their stock therein, at the par value thereof, in addition to the amount invested in such shares. The stockholders in any bank who shall have transferred their shares or registered the transfer thereof within sixty days next before the failure of such bank to meet its obligations, or with knowledge of such impending failure, shall be liable to the same extent as if they had made no such transfer, to the extent that the subsequent transferee fails to meet such liability; but this provision shall not be construed to affect in any way recourse which such stockholders might otherwise have against those in whose names such shares are registered at the time of such failure. At any time after taking possession of a bank for the purpose of liquidation, when the superintendent of banks ascertains that the assets of such bank will be insufficient to pay its debts and liabilities, he may enforce the individual liability of the stockholders.”
+There is no question but that the Legislature intended to confer broad powers upon the superintendent of banks in pursuance. of the Constitutional provision above quoted.
+The Constitutional provision and legislative enactment in pursuance thereof, are for the purpose of carrying out a well defined policy, namely, to encourage thrift and savings, by surrounding the depositors with legal safeguards. As was said by Marshall, CJ, in the case of Allen v Scott, 104 Oh St 436:
+“The depositors in private banking corporations are seeking no profit from the corporation, and are in a very different situation from those persons who contract upon a speculative basis 'with other corporations.”
+Sec 710-75 GC, above set forth, gives to the Superintendent of Banks the right to enforce the individual liability of stockholders. The question arises: — At what time can the Superintendent of Banks assert this right? The section states that:
+“At any time after taking possession of the bank for the purpose of liquidation, when the superintendent ascertains that the assets will be insufficient to pay its debts and liabilities, he may enforce this individual liability.”
+The liquidation of the assets of a bank may require a number of years. This statute did not contemplate an unreasonable delay, but expressly provided for action when the superintendent determines the insufficiency of the assets.
+The right to have the amended petition made more definite and certain in the three particulars, seems to be predicated upon the theory that the liability of stockholders is secondary and that the Superintendent of Banks must show that the assets are liquidated to a reasonable extent before an action can be maintained to enforce the statutory liability.
+In the case of State ex v Melaranco et, (1930), 31 OLR 627, the stockholders contended that the superintendent of banks had delayed too long in attempting to enforce liability, and that by reason thereof the statute of limitations had run. In the instant case the claim that the liability of stockholders is secondary and that the assets must be first liquidated .to a reasonable extent, amounts to a claim that this action was brought prematurely. With this view we do not agree.
+The plaintiff in error devotes considerable space in his brief, to the effect, that the double liability provision of the Ohio Law is copied from the national banking act. Numerous state statutes are quoted which are copied from or are almost identical with the federal statutes, and numerous decisions in a number of states under their statutes, are cited to show that not only has the commissioner of banking the right to enforce the liability, but also that the commissioner is the final arbiter of the amount which must be paid by the stockholders who are held liable. Some of these cases indicate that the determination of the commissioner of banking is conclusive as to the amount, and that such determination is not the' subject of judicial inquiry, in an action to enforce liability. There are numerous federal decisions to the effect that the Comptroller, under the National Bank Act, has the sole right to determine when it is necessary to bring an action to enforce liability and his determination cannot be controverted. Crawford v Gamble, 57 Fed. (2nd) 15; Murray v Sill, 7 Fed. (2d) 589; Kennedy v Gibson, 8 Wall (75 W. S.) 489.
+Whether or not the superintendent of banks in Ohio can determine the amount ultimately, is not the question before this court at this time, and is therefore not decided. Suffice it to say that the amended petition in this case is in conformity with the' statute and alleges that from a proper accounting the superintendent of banks has ascertained that the assets of this bank, plus the full amount which could-be realized by reason of the double liability, will not be sufficient to pay the liabilities in full, and it is therefore necessary to collect the full amount of the superadded double liability.
+The things sought to be required by the motion to make definite'and certain, in all three particulars, are matters of evidence and are not essential in setting forth a good cause of action under this statute. When the superintendent of banks determines that the bank' is insolvent, and that the assets are insufficient to pay its liabilities, and avers that the full amount of the so-called double liability is necessary, there is no doubt of his right to maintain an action, there being no question of fraud or bad faith on the part of the superintendent of banks.
+As to the claim that the order of the Common Pleas Court was not a final order, we think that the journal entry setting forth that the plaintiff did not desire to plead further,, and the dismissal by the court of the amended petition, is a conclusive answer to that contention. The court erred in dismissing the amended petition.
+In accordance with these views, the order of the court below is reversed, and the Court of Common Pleas is directed to reinstate the amended petition, and the cause is remanded for further proceedings.
+LIEGHLEY, J, concurs.
+LEVINE, PJ, dissents.
+
+## Dissent (LEVINE, PJ,)
+
+LEVINE, PJ,
+dissenting:'
+I am constrained to dissent from the judgment of the majority of the court, which ordered a reversal of the judgment of the Common Pleas Court. The order of the Common Pleas Court was a dismissal of the petition on the ground of non-compliance with a former order of the same court to make the petition definite and certain. The plaintiff’s amended petition contained the following allegations:
+“Your petitioner, as such Superintendent of Banks, further says that from a proper accounting he has ascertained that the assets of said bank, plus the full amount which could be realized by reason of the double liability of the stockholders, will not be sufficient to pay its liabilities in full, and it is therefore necessary to collect the full amount of'the superadded double liability on said shares of stock to apply upon the payment of said obligation.”
+It was claimed by the defendants that the amended petition did not comply with the previous order of the court and therefore on February 6, the defendants again moved for an order:
+“1. Requiring the plaintiff to make his amended petition definite and certain by stating the amount and nature of the assets and liabilities of The Merchants Trust & Savings Bank.
+2. Requiring plaintiff to make his amended petition definite and certain by stating the amount and nature of the claims, demands and accounts receivable, if any, belonging to the Merchants Trust & Savings Bank, which remain unliquidated.
+3. Requiring plaintiff to make his amended petition definite and certain by stating the nature of the accounting of the assets and liabilities of The Merchants Trust & Savings Bank, and the date on which said accounting was had.”
+On March 4, the above motion to make definite and certain, was sustained by the Court of Common Pleas, to which exception was taken. Later the Common Pleas Court made an entry as follows:
+“It appearing to the court that plaintiff does not desire to plead further, as to defendants Joseph Spivack and Adolph Weinberger, and to defendants Dorothy Selman and Henry Pollock, it is ordered, adjudged and decreed that plaintiff’s amended petition be dismissed as to the above-named defendants at plaintiff’s costs, to all of which plaintiff excepts.”
+The majority opinion holds that the mere allegation “that from a proper accounting, he (meaning the superintendent of banks) has ascertained that the assets of said bank, plus the full amount which could be realized by reason of the double liability of the stockholders, will not be sufficient to pay its liabilities in full, and it is therefore necessary to collect the full amount of tits superadded double liability on said shares .of stock, to be applied upon the payment of said obligation” is in itself sufficient and that the rest is a matter of proof, when the matter comes before the court for trial upon the merits.
+While it may be true that the motion to make definite and certain as it is worded is too broad and enters into some phases of the evidence, yet, it seems to me that the least that the petitioner should be required to do is to set forth the total of the liabilities and the total of the assets, so that there will be contained in the petition not a mere opinion or conclusion of the superintendent of banks, but basic facts upon which such opinion is founded. Had the plaintiff complied with the order of the court to make the petition more definite and certain, to the extent of setting forth such totals, the Common Pleas Court would then be without authority to dismiss the petition for non-compliance.
+It appearing, however, that the plaintiff refuses to comply in any respect, with such order of the court, even to the extent of setting forth the total amount of liabilities, and the total amount of assets, the trial court was without choice to do anything else but to dismiss the plaintiff’s petition.
+In my opinion, the judgment of the Common Pleas Court for the reasons above stated, should be affirmed.
