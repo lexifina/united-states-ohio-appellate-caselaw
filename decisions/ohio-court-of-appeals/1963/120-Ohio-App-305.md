@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7215"
+decided: "1963-07-09"
+citations: ["120 Ohio App. 305"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bryant and Dueeey, JJ., concur."]
+parties: ["Gutter, Appellant, v. Frazer et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/120/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1453956
+cites_cases: ["105 Ohio App., 425", "112 Ohio App., 201", "141 Ohio St., 197"]
+---
+
+# Gutter v. Frazer
+
+## Majority (Troop, J.)
+
+Troop, J.
+This appeal is from a judgment for the defendant, Yan Sales Company, entered by the Columbus Municipal Court and affirmed by the Court of Common Pleas of Franklin County.
+Basic facts, as presented to the trial court, are essentially undisputed. The plaintiff, Simon Gutter, was driving west on East Broad Street, Columbus, Ohio, in the lane nearest the center line. The truck of the defendant, Van Sales Company, driven by Ronald Lee Frazer, was proceeding in the same direction in the lane toward the curb, which lane in the area of the accident is sufficiently wide to permit parking next to the curb and cars to move between any parked vehicle and the line dividing the two westbound lanes. A collision occurred in the right lane, or the lane on the curb side (plaintiff’s exhibit No. 8), the truck owned by the defendant striking the automobile of the plaintiff.
+Paragraph four of the amended petition sets out the specifications of negligence upon which plaintiff relies in his action for damages. Since they become important in our consideration of this appeal we set them out in full, as follows:
+“ (a) In operating their truck at a speed which was greater than was reasonable and proper, having due regard for the width of the pavement, the road conditions and any and all other conditions then and there existing, to wit: forty-five (45) miles per hour in a thirty-five (35) miles per hour zone.
+“(b) In failing to have their truck under control.
+“(c) In operating their truck at a speed greater than would permit them to bring it to a stop within the assured clear distance ahead.”
+Trial was had in the cause. At the end of plaintiff’s case he elected to proceed against defendant, Van Sales Company, and the defendant, Ronald Lee Frazer, was dismissed as a party defendant. At the close of plaintiff’s case defendant made a motion for a directed verdict, which was overruled. Defendant rested and renewed the motion for a directed verdict' which was sustained and judgment entered accordingly.
+It is from this ruling and judgment that an appeal was taken. The judgment of the trial court was affirmed by the Common Pleas Court.
+A motion for a directed verdict made at the close of plaintiff’s case requires the court to construe the evidence presented in the most favorable manner of which it is susceptible, and having done so, if he concludes that reasonable minds could come to only one conclusion, which is adverse to the plaintiff, he has the duty to direct a verdict for the defendant and against the plaintiff. Such rule is set out in the case of Bauer v. Cleveland Ry. Co. (1943), 141 Ohio St., 197. The language of paragraph two of the syllabus is also important. It is as follows:
+“The action of the court in directing a verdict at the close of plaintiff’s evidence is not finding facts, but a determination that, as a matter of law, plaintiff’s uncontradicted evidence does not entitle him to a judgment.”
+Plaintiff’s evidence is uncontradicted. Construed most favorably, could reasonable minds differ, or, as a matter of law, is the evidence presented so completely inadequate that the plaintiff is not entitled to judgment? The burden is upon the plaintiff to establish his allegations of negligence.
+The trial court indicated that his ruling on the motion of the defendant for a directed verdict, and consequent judgment, was based on plaintiff’s failure to establish the negligence of the defendant. At page 79 of the record, the trial court speaks, as follows:
+“* * * the only evidence of negligence that the plaintiff has attempted to prove — as far as evidence of negligence on the part of the defendant — would be that of speed * *
+Further, the court then observed that speed was only evidenced by testimony as to 81 feet of skid marks. The court correctly concluded that skid marks made by an automobile involved in an accident are not probative evidence in the absence of expert testimony as to the use of the marks in determining speed. Shelly v. Motter (1960), 112 Ohio App., 201. There was no expert testimony shown in the record.
+We look then to the record for further support of plaintiff’s allegation that defendant did not observe the assured-clear-distance-ahead rule. Section 4511.21, Revised Code, makes it necessary to consider other factors. Speed is not an absolute factor but a relative one. Speed must not be “greater or less than is reasonable or proper.” The driver must exercise “due regard to the traffic, surface, and width of the street * * * and any other conditions,” and must not drive faster “than will permit him to bring it to a stop within the assured clear distance ahead.”
+Plaintiff alleges that the driver of defendant’s vehicle failed to observe these requirements and particularly alleges that he traveled 45 miles per hour in a 35 miles per hour zone. The record is completely silent as to the miles per hour the defendant’s truck was traveling, but the question of whether defendant’s rate of speed, whatever it happened to be, was reasonable and proper, in view of all the conditions surrounding, is still one for the jury. See Tenhunfeld v. Parkway Taxi Cab Co. (1957), 105 Ohio App., 425, in which the court held that even though the plaintiff’s speed was shown to be in excess of the posted prima facie speed, whether or not it was reasonable and proper was a question for the jury.
+It is apparent that preceding the accident the car of the plaintiff and the truck of the defendant weré traveling in the same direction, toward the west, and in separate lanes of travel, the plaintiff in the left or center lane and defendant’s truck in the right lane next to the line dividing the two lanes. There were no vehicles in the lane ahead of the defendant until the plaintiff moved into it.
+The allegations of plaintiff’s amended petition and the evidence adduced by him raise an issue not easily resolved. There is no difficulty in concluding that the plaintiff moved out of the left lane of travel and into the right lane of travel in the direction of the north or right curb and into the path of the defendant’s truck traveling in the right lane. The very important question is the moment at which the plaintiff moved into the path of the truck. Just what were the relative positions of the vehicles when the entrance of the plaintiff into the path of the defendant occurred?
+No record could say less about relative distances than the one before us. Nowhere can a single reference to feet, yards, or car lengths be found. The trial court had before it only such descriptive efforts as the place of impact being in front of the fourth store from Broadleigh and that the plaintiff saw the truck “a little bit” behind him when he was in front of Martin’s. He later located the truck at that time in front of the theater at Chesterfield. The best that the record shows is that the plaintiff changed his course of travel somewhere within a city block and at that time the defendant’s truck was somewhere behind, perhaps within that same city block or beyond it.
+It appears that the very obscurity of the record as to distances, required that the issue of whether the assured clear distance ahead of the defendant’s vehicle was suddenly cut down so that he could not, with reasonable care, stop his vehicle, is one for the trier of the facts. The Tenhunfeld case, supra, holds that when a motion for a directed verdict in favor of the defendant is made at the conclusion of the plaintiff’s case, it must be sustained if, considering the plaintiff’s evidence most strongly in his favor, reasonable minds may differ as to that basic issue. The fact that, as in the instant case, the motion was renewed after the defense rested, having introduced no evidence, would make no difference in the situation. If reasonable minds could differ the issue must be resolved by the trier of the facts.
+The judgment of the Court of Common Pleas and the judgment of the trial court, Columbus Municipal Court, are reversed and the cause is remanded for a new trial.
+Bryant and Dueeey, JJ., concur.
