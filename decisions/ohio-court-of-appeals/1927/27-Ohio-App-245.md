@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1927-09-26"
+citations: ["27 Ohio App. 245"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, P. J., and Levine, J., concur."]
+parties: ["The Cleveland Metal Bed Co. v. Kutz."]
+source_url: "https://static.case.law/ohio-app/27/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1309181
+---
+
+# Cleveland Metal Bed Co. v. Kutz
+
+## Majority (Vickery, J.)
+
+Vickery, J.
+This cause comes into this court on a petition in error to the Common Pleas Court of Cuyahoga county, in which court the present defendant in error, Isidor Kutz, brought his action to recover something over $1,600 on three several causes of action. The issues were made up, and the case was tried to a jury. The jury brought in a verdict apparently for the full amount asserted in the petition, together with some interest, which made the amount of the judgment over $1,700. A motion for a new trial was made and overruled, judgment was entered upon the verdict, and error is prosecuted to this court for the purpose of reversing that judgment.
+Several errors are complained of, but when one analyzes and simplifies them, they resolve -themselves to the single proposition whether the verdict was against the weight of the evidence.
+It seems that the plaintiff had a contract whereby he was to have 'charge of the sales of the defendant company for a certain specified sum, and was to have a commission on the sales in addition to his stipulated salary. This, I believe, was a written contract. Subsequently, while this contract was still in force, plaintiff claims that an addition or supplement to it was verbally made, by virtue of which he was to spend a certain portion of his time in the shop, and was to have therefor, according to his version, an allowance of twenty cents per bed for every bed manufactured. Plaintiff further alleges that he performed his services for about ten months, and that the output of the factory during that time was something in excess of 8,000 beds, for which he would be entitled to something like $1,600. This claim was the major part of the claim asserted by the plaintiff against the defendant below, and most of the argument has been addressed to this claim.
+, The argument is made that the court erred in his charge to the jury, because he did not say, in so many words, that it would not be sufficient for the plaintiff to win by a preponderance of the evidence, but that it must be by clear and convincing proof.
+Undoubtedly, the courts in our state and other states have used words which would seem to indicate that certain kinds of civil actions must be proven by clear and convincing proof, and it is argued from that that necessarily the plaintiff, even though his evidence preponderated, would not be entitled to recover by a mere preponderance of the evidence, but only by clear and convincing proof.
+I am not surprised that lawyers are misled by the loose language used in this respect by some of the courts. I will try to distinguish what the courts mean, for I think the case at bar is a case in point.
+I do not know of any rule of evidence applicable to civil cases other than that the plaintiff is entitled to win, if his evidence preponderates over that of the defendant, and vice versa. Let us see.
+In the instant case the plaintiff asserted that his right was based, not only upon a written contract, but upon a supplemental addendum, or a modification of that contract. If such be the state of the pleadings, where a person asserts that a written contract has been added to by parol understanding and agreement subsequent thereto, the burden is upon the person who so asserts to prove it. Now, when the court says in that action that this must be done by clear and convincing proof, it only means that doubtful statements, or statements susceptible of more than one interpretation, would not be sufficient to enable the court to add that modification. In other words, before you can add to, or take from, or modify, a written instrument, it must be clear that the parties so intended and made their verbal agreement so clear and concise that there could be no mistake but that it was intended to be a part of the contract — that such modification together with the writing would constitute the contract sued upon.
+Does that necessarily mean that, when this degree of proof is presented to the court, the plaintiff must prove his case by more than a preponderance of the evidence ? Remember there is a distinction between a preponderance of the evidence and clear and convincing proof. Proof is only a link in the chain of evidence. It relates to a single thing, or the statement of a single witness, and it is these links of the entire proof which, taken altogether, go to make up the evidence, the burden of sustaining which is imposed upon the plaintiff or defendant, as the case may be.
+So now, when under the circumstances the court submitted the case to the jury, and told the jury that the plaintiff would not be entitled to recover unless he proved by a preponderance of the evidence that the contract had been made as he asserted it, this, as already stated, does not mean that certain parts of the proof must not be clear, because I think an investigation of the cases where the courts have held this proposition will show that it relates to a certain thing, as to which, where a change is sought to be effected, the proof relating to such change must be of such a character that it does add to or take away from a written contract, and then, when that is done, the whole proof goes into the record, and becomes the evidence which the court speaks of that the plaintiff must sustain his cause by, bat it never means that it must be more than a preponderance of the evidence.
+The only two rules of evidence that I know are: In criminal eases, where the evidence must be beyond a reasonable doubt; and in civil cases, where the party sustaining the burden must prove it by a preponderance of the evidence. The words that the courts have used in this respect are inclined to be misleading, and I do not wonder that lawyers have been misled by them.
+With this analysis, taken in connection with the charge of the .court, was there any error in it that could have misled the jury? We think not. We .think the case was fairly and squarely submitted to the jury, and that the jury brought in a verdict iri accordance with their understanding of the evidence, and we cannot say that the verdict is so manifestly against the weight of the evidence that a reviewing court would be justified in disturbing it.
+There being no other errors of importance ap pearing in the record, the judgment is affirmed.
+Judgment affirmed.
+Sullivan, P. J., and Levine, J., concur.
