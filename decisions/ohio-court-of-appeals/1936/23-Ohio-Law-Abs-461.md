@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2711"
+decided: "1936-11-18"
+citations: ["23 Ohio Law Abs. 461"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FUNK, PJ, and STEVENS, J, concur in judgment."]
+parties: ["LITTLE v REES"]
+source_url: "https://static.case.law/ohio-law-abs/23/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8754664
+cites_cases: ["29 Oh St 577", "61 Oh St 146"]
+---
+
+# Little v. Rees
+
+## Majority (By WASHBURN, J.)
+
+OPINION
+By WASHBURN, J.
+Plaintiff in error, Charles B. little, obtained a judgment by confession upon a promissory note signed by Thomas R. Lewis and Edith M. Lewis.
+Said judgment was taken on October 20, 1933, and it remained in full, force and effect until June 14, 1935. Some time during that time Thomas R. Lewis died, and Floyd A. Rees became administrator of his estate; and, in the subsequent proceedings in said case, said administrator was substituted as a party for Thomas R. Lewis.
+Apparently said judgment was called to the attention of said administrator-, and apparently he did not for some time question1 the validity of it, for, in a petition which1 he filed in Probate Court to sell lands to pay debts and legacies, he referred to the judgment without questioning its validity.
+On May 4, 1935, and eighteen months after said judgment had been entered, said administrator filed, in the action in which said judgment was entered, a petition setting forth that said Thomas R. Lewis had died seized of certain real estate, that the judgment had been entered against him “on a certain promissory note with warrant of attorney attached thereto,” and that said decedent was not summoned or notified of the time and place of the taking of said judgment, and never knew that said judgment had been taken against him, and asserting that said decedent did not knowingly sign said note, but that, if he did, the judgment taken thereon was for a larger sum than was due; and the prayer was for a vacation of the judgment so that the administrator might plead said facts as a defense to said action.
+The court granted the prayer of said petition — vacating the judgment against Thomas R. Lewis alone — and said administrator was granted the right to file his answer. This the administrator did, and he set forth his defense in the following language:
+“Further answering this defendant denies that any demand was ever made upon this defendant’s decedent during his lifetime for payment of said note, denies that the same became due or that any notice or demand or presentment of the same was ever made, and denies that this cause of action has been revived against this administrator, and for lack of information thereon, this de-.. fendant denies each and every statement allegation and averment in the petition contained and specifically denies that the plaintiff is entitled to any amount whatsoever by virtue of the note set forth in the petition.”
+The trial under review was a trial of the issues joined by such answer to the petition of Charles B. Little, plaintiff, in which he alleged that there was due him from Thomas R. Lewis and Edith M. Lewis on a certain promissory note dated August 20, 1931, a copy of which was attached to the petition, a certain sum of money, for which judgment was asked. A jury was impaneled, and, at the close of the evidence offered on behalf of the plaintiff, the trial judge granted the motion of the defendant administrator to discharge the jury and render judgment in favor of said administrat- or.
+The matter is now before this court upon a petition in error, in which it is claimed that the trial court committed error in refusing to submit said cause to the jury, and in rendering judgment against the plaintiff.
+The record discloses that Thomas R. Lewi3 signed said note, and there is no evidence whatsoever indicating that it was not voluntarily done or that he did not understand what he was doing.
+The record also discloses that the judgment taken upon said note was for the amount stated therein, but that it was for more than the amount then owing by Edith M. Lewis on her note to the bank; and lor that reason said cognovit judgment was taken for more than was due on the note of Thomas R. Lewis to Charles B. Little.
+The record also discloses that said note had endorsed on the face of it a peculiar notation as follows:
+“held as security for use of £500 Bonds, City of Calgary, 5% 1943, pledged as collateral for Edith M. Lewis.”
+To understand the situation it is necessary to state some further facts which the record discloses.
+At the time of the giving of this note, Chai-Ies B. Little, the payee, was the divorced husband of Edith M. Lewis, one of the makers of the note; and the other maker of the note, Thomas R. Lewis, was the father of Edith M. Lewis.
+A considerable time before the making of said note, Edith M. Lewis had borrowed money from the First-Central Trust Co. and given her individual note therefor, and, to secure the payment of the same, had deposited, as collateral, certain stocks belonging to her, and a certificate of stock for 15 shares of the common stock of the Bethlehem Steel Co., which was owned by her father, the said Thomas R. Lewis.
+Shortly before the giving of said note to Charles B. Little on August 20, 1931, Thomas R. Lewis asked said bank to surrender his certificate of Bethlehem stock, and he was informed that said bank could not release said stock without a substitution of collateral. Thereafter, said note dated August 20, 1931, signed by Thomas R. Lewis and Edith M. Lewis, and containing thereon the notation hereinbefore referred to, was delivered to Charles B. Little; and on the same day he agreed with said bank that his £500 bond, referred to in said notation on said note, should be substituted as collateral upon the note of Edith M. Lewis to said bank for said Bethlehem stock; and the bank thereupon released to said Thomas R. Lewis his said Bethlehem stock.
+Owing to the fact that said Charies B. Little was not a competent witness as to the negotiations and dealings between said parties which resulted in such substitution, and owing to the fact that Edith M. Lewis was not a witness, and the fact that Thomas R. Lewis had died, the record is incomplete as to the negotiations and dealings of the parties in reference to said transaction; but the record does disclose by the testimony of an officer of the bank that Thomas R. Lewis requested said bank to make such substitution of collateral, and that Charles B. Little signed a paper consenting that his said collateral should be substituted for the collateral of Thomas R. Lewis; that said consent was prepared by officials of said bank and was signed in the presence of said officials; that said note to Charles B. Little, including the notation thereon, was prepared by the same officer of said bank, and was signed by Edith M. Lewis and Thomas R. Lewis in the presence of said representative of said bank; and that said bank made such substitution, and delivered to Thomas R. Lewis his Bethlehem stock.
+The record also discloses that thereafter the indebtedness of Edith M. Lewis to said bank was reduced, and that Charles B. Little, to avoid the sale of his said bond, paid to said bank the balance due upon said Edith M. Lewis’ note; and further, that said Little claimed the right to have judgment against the administrator of Thomas R. Lewis for only the amount he had been compelled to contribute to the satisfaction of the indebtedness of Edith M. Lewis to said bank, and as to which amount there was evidence in the record.
+The record also discloses that said note to Charles B. Little was for the amount that Edith M. Lewis owed the bank on the day that said note was signed; but as has been said, the cognovit judgment on said note was for more than Edith M. Lewis owed the bank at the time said judgment was taken.
+The record also discloses that, upon cross-examination, Charles B. Little testified he “had no transaction with Mrs. Lewis at all” as to said substitution of collateral, and that he did not consider that she was indebted to him in any amount whatsoever on anything growing out of the transaction.
+The trial court gave several reasons for reaching the conclusion it did with reference to this case.
+On the record as it is, we are compelled to hold that the trial court erred in withdrawing the case from the jury and rendering judgment against Charles B. Little.
+Under the facts disclosed by the record, we hold that the fact that said judgment was not presented to said administrator for allowance is no defense to this action (Musser’s Exr. v Chase, 29 Oh St 577; and Ambrose, Admr. v Byrne, Exr., 61 Oh St 146), and the fact that no demand for the payment of the note given to Charles B. Little on August 20, 1931, was made upon Edith M. Lewis, was likewise not a defense to this action, for the reason that there is no evidence that Thomas R. Lewis was not liable on said note as a primary maker.
+We further hold that there was ample evidence of a consideration for the signing of said note to Charles B. Lit-tie by Thomas R. Lewis, and that if said administrator had submitted said cause upon the record as it is,, it would have been the duty of the court to direct the jury to find the amount due .from Thomas R. Lewis to Charles B. Little upon said note, and to return a verdict therefor.
+In view of the manner in which the case was disposed of, the defense not having an opportunity to introduce evidence, the case will be reversed and remanded to the Common Pleas Court for a retrial.
+FUNK, PJ, and STEVENS, J, concur in judgment.
