@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "495"
+decided: "1952-10-30"
+citations: ["94 Ohio App. 423"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hornbeck, P. J., and Miller, J., concur."]
+parties: ["Wiegel, Appellee, v. Burcham, Appellant."]
+source_url: "https://static.case.law/ohio-app/94/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1411337
+---
+
+# Wiegel v. Burcham
+
+## Majority (Wiseman, J.)
+
+Wiseman, J.
+This is an appeal on questions of law from a judgment of the Common Pleas Court of Clark County, rendered on a verdict returned in favor of the plaintiff in the amount of $2,500 on a claim for the support of a child of the plaintiff and the defendant, the latter having been adjudged the reputed father of the child in a bastardy proceeding.
+The defendant, appellant herein, has assigned 21 separate grounds of error, most of which involve the question of jurisdiction.
+A recital in chronological order of the various steps taken in these special proceedings is necessary for a full appreciation of the questions presented.
+On January 7, 1938, the plaintiff, an unmarried woman, filed an affidavit in bastardy against the defendant in the Municipal Court of Springfield. On February 10, 1938, the cause was transferred to the Common Pleas Court of Clark County. The cause was duly tried on August 4, 1939, and a judgment was entered on the verdict in which the jury adjudged the defendant to be the reputed father of the child born to the plaintiff. In the judgment, the court adjudged that the defendant pay to the plaintiff $250 for her support, maintenance and necessary expenses caused by pregnancy and childbirth. The judgment did not provide a weekly sum to be paid plaintiff for the support and maintenance of the child. On October 23, 1939, plaintiff filed an affidavit in the Juvenile Court of Clark County, charging the defendant with nonsupport of the child. The defendant could not be located and was not served. Soon thereafter the defendant entered the armed services of the United States, from which he was released in the latter part of 1944. After being released from the armed services and upon returning to Clark county, the defendant voluntarily appeared in Juvenile Court and discussed with the officer of that court his obligation to support the child. It was agreed that he should pay into the Juvenile Court the sum of five dollars per week for the child’s support. He began making payments to the Juvenile Court on January 22, 1945, and made weekly payments intermittingly until August 3, 1949, the date this action was instituted. The total sum paid by the defendant to the Juvenile Court up until this suit was instituted amounted to $844.35, which' was remitted to the plaintiff.
+The record shows that the Juvenile Court never held a hearing on the affidavit charging nonsupport. The arrangement to pay five dollars per week was unofficial and voluntary, and no court order was made in regard thereto. No further effort was made to prosecute the defendant for nonsupport.
+On the trial of this case, counsel for the defendant at different stages of the proceeding challenged the jurisdiction of the Common Pleas Court to hear and determine the issues presented. The point made by defendant is twofold: First, that the court in the bastardy proceeding failed to make an order for the support and maintenance of the child, as provided in Section 12123, General Code, now Section 8006-17, General Code, and, second, that the plaintiff had invoked the jurisdiction of the Juvenile Court in filing the nonsupport affidavit, and that, in consequence, the Juvenile Court still has jurisdiction in the matter, which deprives the Common Pleas Court from the exercise of jurisdiction in this action.
+The provision in Section 12123, General Code, requiring the court in a bastardy proceeding to adjudge the amount which, the reputed father shall pay to the mother for support and maintenance of the child was placed in that section by an amendment effective May 17, 1938. The amendment became effective prior to the date of the judgment in the bastardy proceeding, which was August 4, 1938. However, the amendment was not expressly made applicable to pending proceedings. Section 26, General Code, provides that an amendment shall not affect pending proceedings, and when the amendment relates to the remedy, such amendment shall not affect proceedings existing at the time of the amendment unless expressly provided in the act. The bastardy proceeding was pending at the time the amendment became effective. Therefore, Section 12123, General Code, as it existed prior to the amendment applies. Prior to the amendment this section did not require the court to adjudge the amount the reputed father should pay to the mother for the support and maintenance of the child. The judgment of the court was proper in every respect.
+Does the fact that a nonsupport charge was filed in Juvenile Court oust the jurisdiction of the Common Pleas Court? • We do not think so. The plaintiff in filing her affidavit in Juvenile Court was proceeding under Section 1639-46, General Code, which makes “nonsupport” a criminal offense. The filing of an affidavit in Juvenile Court charging the defendant with a criminal offense under this section in no way deprives the Common Pleas Court of the proper exercise of its jurisdiction in a civil action to recover for the support and maintenance of such child. Furthermore, the record shows that the nonsupport charge was not prosecuted. No hearing was had and no formal order was made by the court. The court speaks through its journal entries. The appearance of the defendant in • the Juvenile Court was unofficial and voluntary, and the understanding with respect to payments was unofficial and voluntary.
+The court charged the jury to take into consideration the payments made by the defendant to the Juvenile Court, which the plaintiff acknowledged receiving.
+We find no error in giving special instructions before argument or in the general charge. In view of the evidence presented, we cannot find the verdict to be excessive. In our opinion, the verdict and judgment are sustained by sufficient evidence and are not contrary to law. We have considered carefully all errors assigned and do not find any well made.
+Judgment affirmed.
+Hornbeck, P. J., and Miller, J., concur.
