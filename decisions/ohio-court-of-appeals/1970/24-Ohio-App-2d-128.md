@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3565"
+decided: "1970-11-25"
+citations: ["24 Ohio App. 2d 128"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rutherford and McLaughlin (Retired. Assigned to active duty under authority of Section 6 (C), Article IV, Constitution.), JJ., concur."]
+parties: ["Mossgrove, Appellee, v. All States Oil & Producing Co., Inc., Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/24/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1467819
+cites_cases: ["1 Ohio Law Abs. 107", "10 Ohio St. 372", "141 A. L. R. 1179", "20 Ohio St. 163", "282 S. W. 930", "38 Ohio St. 300", "5 Ohio 194"]
+---
+
+# Mossgrove v. All States Oil & Producing Co.
+
+## Majority (Putman, J.)
+
+Putman, J.
+This appeal on questions of law is from a judgment in the amount of $10,000 entered for plaintiff upon separately stated findings of fact and conclusions of law by the Court of Common Pleas of Stark County. A jury was waived. The trial court filed a nine page written opinion and thereafter upon motion, responded to thirty one separate interrogatories as upon a motion separately to state findings of fact from conclusions of law.
+The action was for damages for trespass to real estate by attempting to drill for oil. The defense claimed reliance upon a valid lease.
+The defendant cross-petitioned for damages.
+The trial court grounded its ultimate decision upon, first, the invalidity of the lease by reason of its defective execution and, second, the subsequent failure of the lessee to comply with the provisions of the lease requiring the commencement of a well within twelve (12) months or the payment of $25.00 per year.
+We find both holdings to be prejudicial error as a matter of law.
+The plaintiffs, James and Cecelia Mossgrove, appellees herein, acquired a six acre tract which is the subject of this lawsuit from Lawson G. Corbit and Priscilla V. Corbit on August 18,1967. The Corbits, on February 1,1967, had granted an oil and gas lease to the defendant, All States Oil & Producing Co., Inc., appellant herein, for a term of three years and as long as oil or gas was produced in paying quantities. However, one of the two attesting witnesses did not in truth actually attend or see the act of signing. The lease was promptly recorded in volume 142, page 82, of the Stark County, Ohio, lease records.
+Both plaintiffs admitted their actual knowledge of the lease prior to acquiring the land in question and that it had been a subject of negotiation when they bought the land. The resultant deed recited, among other things:
+“Subject also to an oil and gas lease recorded in volume 142, page 82 of the Stark County, Ohio, records.”
+“The grantors herein assign all right, title and interest in and to the oil and gas lease recorded in volume 142, page 82 of the Stark County, Ohio, lease records to the grantees herein.”
+I.
+A properly recorded lease which is regular on its face but subject to the latent defect that one of two attesting witnesses did not in truth actually attend or see the act of signing is validated by a subsequent deed from the lessor to a third party which recites expressly that it is subject to the recorded lease and that the grantor assigns all his right, title and interest in and to such lease to the third party grantee.
+In such a case both the grantor and grantee are estopped by the recitals of their deed to show the latent defect in the prior lease.
+The grantor is estopped by his recitals in the deed, and the grantee, standing in his grantor’s shoes, is estopped not only by the recitals but by his act of acceptance of the deed and the benefits of the rights under the lease therein assigned to him. See Wheeler v. Nims (1922), 1 Ohio Law Abs. 107, decided by the Franklin County Court of Appeals; Humble Oil & Refining Co. v. Davis (Tex. Civ. App. 1926), 282 S. W. 930, holding that a defective acknowledgment is cured by a subsequent deed recognizing its validity; 141 A. L. R. 1179; 33 Ohio Jurisprudence 2d 313-316, Landlord and Tenant, Section 44; Coe v. Col. Piq. and Ind. R. R. Co. (1859), 10 Ohio St. 372; Bercaw v. Cockerill (1870), 20 Ohio St. 163; and Bundy v. Iron Co. (1882), 38 Ohio St. 300, dealing with the same basic principle.
+Black’s Law Dictionary (3rd Ed. 1933), defining estoppel by deed, cites many cases including the Ohio Supreme Court case of Douglass v. Scott (1831), 5 Ohio 194, which contains at pages 197 and 198 the following summary of the principle of estoppel by deed:
+“The admission of a fact, however made, is always evidence of the fact against the party making the admission; but the effect of the admission depends upon the manner and purpose for which it is made. It may be presumptive evidence only of the truth, and liable to be denied or disproved. But if made for the purpose of influencing the conduct, or of deriving a benefit to another, so that it can not be denied without a breach of good faith, the law enforces the rule of good words as a rule of policy, and precludes the party from repudiating his representations and denying the truth of his admissions; and an admission of record, or made for the purpose of superseding proof, or deliberately made under the seal of the party, is of such binding efficacy that under no circumstances is the party permitted to disprove it. Such an admission, under the seal of the party, not only prevents him from disputing, not the truth of the deed itself, but the truth of any fact which it states. For a deed is a solemn act, to any part of which the law gives effect, as the deliberate admission of the maker, it stands to him for truth, and in every situation, that he may be placed in, to him it is true.
+“The obligation created by estoppel not only binds the party making it, but all persons privy to him; the legal representatives of the party, those who stand in his situation by act of law, and all who take his estate by contract, stand in his stead, and are subjected to all the consequences which accrue to him. It adheres to the land, is transmitted with the estate; it becomes a muniment of title, and all who afterward acquire the title take it subject to the burden which the existence of the fact imposes on it.
+“These principles had their origin at a very early period in the common law, and have been adopted in the most respectable courts in our own country.
+“If the condition of a bond recites there are divers suits, the obligor is estopped to say there are not suits. Cro. Eliz. 756.
+“If a condition be to perform the covenants of an indenture, he is estopped to say there is no indenture. 1 Roll. 872.
+“If a condition be that he and his wife shall do an act, he is estopped to say he has no wife. 1 Roll. 873.
+“The above are only examples to which a long list may be added. The case which is most usually presented is the recital of a lease or deed; that such recital is evidence of the existence of the lease has been repeatedly adjudged. 1 Salk. 285; 1 P. Wms. 432; Willis, 9.
+“The law seems to be summed up in Com. Dig., Estoppel, 77, A. 2: ‘In all cases where the condition of a deed has reference to any particular thing, the obligor shall be estopped to say there is no such thing.’
+“That the estoppel extends to all persons subsequently acquiring title has at all times been the doctrine of the books. In Trevian v. Lawrence, the court say: ‘Where the estoppel works on the interest in the land, it runs with the land into whose hands it may come;’ and Justice Story, in the case in 4 Peters, 85, reviewing the authorities, says: ‘ Such estoppel binds all persons claiming the land, not only in the same deed, but under any subsequent conveyance from the same party, that such an admission in a recital, by the same person transmitting the title, is a muniment of title, and travels with the land into whomsoever’s hands it may come.”
+We consider it to be worth emphasizing that in the above quoted opinion, the Ohio Supreme Court pointed out in 1831 that:
+“The case which is most usually presented is the recital of a lease or deed * * *.”
+n.
+Having concluded that the lease was validated by the deed to plaintiffs, we now turn to a review of the findings of the trial court that the lease subsequently became ineffective by reason of lessee’s failure to comply with paragraph three.
+Paragraph three provides as follows:
+“Lessee to commence a well on said premises within twelve months from this date or pay to lessor twenty five and 00/100 Dollars ($25.00) each year, payable yearly thereafter until said well is commenced or this lease surrendered; but the completion of a well upon said lands unproductive of oil or gas in paying quantities shall be considered as the equivalent of and regarded as the tender of delay rentals for a period of one year thereafter and in no event shall the written lease expire before one year after the drilling of a dry hole regardless of the primary term provided for in the written lease. In the event gas can be produced, but due to a lack of transmission facilities or lack of refining facilities same cannot be marketed, lessee shall pay or tender annually at the end of each yearly period during which said gas is not sold or used, as royalty, an amount equal to the delay rental provided in paragraph No. 3 hereof, and while said royalty is so paid or tendered this lease shall be held as a producing lease under paragraph No. 1 hereof. This lease shall become null and void for failure to pay rental for any period when same becomes due and payable, provided however that Lessee or his assigns is given 10 days written notice of his failure to pay said rentals and they are not paid within said 10 days.”
+There is no evidence that the lessee was ever given 10 days written notice of failure to make the payment provided for in paragraph three. The trial court erred in finding as a matter of law a non-compliance by the lessee with paragraph three absent any evidence of a 10 day written notice of failure to pay. It is not material that the lease does not indicate who shall “give” notice. What is crucial is that the lessee must “receive” notice and quite obviously anyone interested in voiding the lease under this paragraph would not succeed unless they gave or caused such notice to be given.
+in.
+The judgment of the trial court against the defendant upon the petition is reversed and a final judgment is entered against plaintiff and in favor of the defendant. The lease in question is adjudged to be a valid lease and binding upon the parties. We further find that no trespass was committed. The right is reserved to plaintiff to have determined the amount of damages, if any, for which the defendant may be liable to him under the terms of the lease.
+The judgment for the plaintiff on defendants’ cross-petition is reversed and this cause is remanded for further proceedings according to law not inconsistent with this opinion upon any claim of damages made by plaintiff under the terms of the lease and any claim of defendant upon the cross-petition.
+Judgment accordingly.
+Rutherford and McLaughlin (Retired. Assigned to active duty under authority of Section 6 (C), Article IV, Constitution.), JJ., concur.
