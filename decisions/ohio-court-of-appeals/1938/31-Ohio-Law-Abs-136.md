@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3091"
+decided: "1938-11-11"
+citations: ["31 Ohio Law Abs. 136"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STEVENS, PJ., WASHBURN & DOYLE, JJ., concur."]
+parties: ["MILLER v POTTS"]
+source_url: "https://static.case.law/ohio-law-abs/31/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1698851
+cites_cases: ["120 Oh St 239", "65 Oh St 403"]
+---
+
+# Miller v. Potts
+
+## Majority (PER CURIAM:)
+
+OPINION
+PER CURIAM:
+This case, which has been appealed on questions of law from the Court of Common Pleas of Summit County, and the case of John Potts v Stephen Miller, Jr., No. 3047, decided this day, are claims for damages growing out of an automobile accident which occurred in this county on June 20, 1937. There is presented for review the record of the trial, which resulted in a judgment for $8,000 in favor of Josephine Miller, a passenger in one of the colliding cars, and against the appellant, the driver of the other colliding car.
+Numerous errors are charged by the appellant which it is claimed compel this court to reverse the judgment of the Court of Common Pleas. It is urged that the “only possible reasonable interpretation of the physical facts leads to the conclusion that the collision could not have occurred in the manner claimed by the plaintiff.”
+The conclusion reached in case No. 3047, supra, is equally decisive of that point in this case, wherein the evidence is substantially identical. This court there held that: “A careful reading and consideration of the record leads us to the unanimous conclusion that the record is not such as tc justify our setting aside the verdict” for that reason.
+At the plaintiff’s request, the court instructed the jury in writing before argument as follows:
+“The doctrine of imputed negligence has no application in Ohio. The court charges you that even though you should find that Stephen Miller, Jr., the driver of the car in which plaintiff was riding at the time she was injured, was guilty of some negligence which directly and proximately contributed to plaintiff's injuries, the plaintiff is, nevertheless, entitled to a verdict at your hands, and it will be your duty to find in her favor, if you find from the evidence that the defendant was guilty of one or more of the negligent acts charged against him in the petition, and that such negligence on his part directly and proximately caused or contributed to cause plaintiff’s injuries, and you further find that plaintiff herself was free from negligence which directly and proximately contributed thereto.”
+It is true that the doctrine of imputed negligence does not ordinarily apply in Ohio. However, there are certain exceptions, such as where the parties' are engaged in a joint enterprise.
+Bloom v Leech, 120 Oh St 239.
+In the instant case there aré no facts to which the doctrine could be applied, and, in considering the claimed errors in the first sentence of the charge, we are of the opinion that a reading of the requested instruction as an entirety could have been construed in no other way by the jury than that, under the circumstances of this case, the negligence, if any, of the driver of the car in which the plaintiff was riding could not be imputed to the passenger, and that she could recover regardless of the negligence of the driver of the car in which she was riding if she herself was free from negligence proximately contributing to her injuries, and the negligence of the defendant was a direct and proximate cause of those injuries.
+It is further alleged by the appellant that the court erred in charging that a failure on the part of the defendant, to keep his car on the right side of the highway at the time of the collision was negligence as a matter of law, because the instruction failed to give the driver the benefit of §8310-20, GC, which regulates the conduct of a driver in “overtaking and passing” a vehicle on the public highways.
+The claim of the defendant throughout the trial was that he was not in the act of overtaking ana passing another vehicle at the time of the accident, and that he did not drive at any time on his left side of the highway. The theory upon which he tried his case, and which he attempted to prove, was that the accident occurred when the car iri which the plaintiff was riding swerved suddenly from its side of the highway and ran into and collided with his car on his own side of the road.
+The members of this court are of the opinion that the record reveals a situation in which reasonable minds could reasonably conclude that the defendant’s car had passed beyond the car ahead of it several hundred feet from the place of the accident, as claimed by and testified to by the defendant himself, and that he had completed the passage. This being so, it was not error to charge the exception in the statute, and the charge as given was correct under the defendant’s theory of the case and the evidence.
+The court further charged the general provisions of §12603, GC, and, without saying whether the accident took place within the limits of a municipal corporation or beyond such limits, stated that a rate of speed in excess of 45 miles an hour on highways outside of municipal corporations was prima facie unlawful, and that a rate of speed less than 45 miles an hour was prima facie lawful. The court then defined the phrase “prima facie”, and in conclusion said: “In other words, the test is what under the circumstances and conditions then existing was a reasonable rate of speed * *
+It is the claim of the appellant in this appeal that the accident occurred within the limits of a municipal corporation, and that he was entitled to have the jury instructed that a rate of speed more than 35 miles an hour was prima facie unlawful, and that a rate of speed of less than 35 miles an hour was prima facie lawful.
+In passing upon this point, it must be observed that the question of whether the place of collision was within or without a municipal corporation was not raised at the trial, and the only evidence in the record on the point is the testimony of the town marshal, who, in describing the place where the accident occurred, gave the following answers to the questions propounded:
+“Q. When you got there, where was this place you went to?
+“A. Right near the county line, in the village lines also, I would say, but I didn’t measure it — one hundred to one hundred and fifty feet west of the line.
+“Q. It was in the territory in which you have jurisdiction as marshal, then?,
+“A. Yes.”
+Other evidence in the case discloses that the place of the accident was two and one-half miles from the town proper, and that apparently none of the parties in the case knew that the municipal lines extended that far from the village; and that fact was not called to the attention of the court and no request was made to charge otherwise than the court did upon the question of speed. Under these circumstances, the claim of prejudicial error cannot be sustained.
+Complaint is also made by the appellant that the court in charging the jury charged that they should determine in their own sound judgment what would fairly, fully and adequately compensate the plaintiff for “such loss as she sustained by reason of what suffering she had gone through in the past, and what, if. any, with reasonable probability she will have in the future * * *. You will consider just what pain and suffering and loss she has sustained, up until now, and that which with reasonable probability she will sustain in the future; what incapacity or disability, if any, she now has, and what with reasonable probability she will have in the future • — such as she proves to you by a preponderance of the evidence.” (Emphasis ours).
+The appellant bottoms his complaint to this instruction upon the rule announced in Pennsylvania Co. v Files, 65 Oh St 403, where the Supreme Court said:
+“2. Where prospective damages from an injury are claimed, they should be limited by the. court in its charge to such as may be reasonably certain to result from the injury.”
+The authorities outside of Ohio are in conflict as to the instruction which should be given the jury in reference to prospective damages, but the rule adopted by the Supreme Court of Ohio is in accord with the great weight of authority. The object of the rule is to guard against the injustice of permitting a jury to base its judgment as to damages upon speculation, possibility, or even bare probability, and this object sought to be accomplished is not questioned in any of the cases, including those in which the rule set forth, supra, has not been definitely and explicitly adopted.
+Many of the cases hold that the result desired is accomplished by language which has been held to import a similar meaning. The rule, as announced in Ohio and applied in the courts of most of the states of the Union, is a simple rule, couched in language easily understood and admirably calculated to accomplish the desired object.
+While educated men, trained in the use of the English language, may find little difference in the expression “reasonable probability” and “reasonable certainty,” to the average juror the expression “reasonable certainty” conveys an impression of something more probable than “reasonable probability.”
+Considering that the rule announced by the Supreme Court has been for such a long time accepted and applied by the courts of this state, and that it so admirably expresses the idea which is sought to be conveyed, it is. desirable that trial courts use it rather than attempt to improve upon it. It does not follow, however, that if other language thought to be its equivalent is used it is necessarily prejudicial error.
+In the instant case, we are unable to find from the rule that the jurors in fixing the amount of damages probably indulged in uncertainties, mere probabilities or speculation. And while the language used is not the exact equivalent of the language of the rule, we do not deem it error of a prejudicial nature in view of the size of the verdict and the extreme seriousness of the injuries.
+There are other claimed errors which have been examined, and we find none of them prejudicial to the rights of the appellant.
+The judgment is affirmed'.
+STEVENS, PJ., WASHBURN & DOYLE, JJ., concur.
