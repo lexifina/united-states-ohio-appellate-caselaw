@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "480"
+decided: "1961-07-21"
+citations: ["116 Ohio App. 370"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Collier and BrowN, JJ., concur."]
+parties: ["Merkle et al., Appellees, v. Merkle, Appellant."]
+source_url: "https://static.case.law/ohio-app/116/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8809185
+cites_cases: ["1 C. C., 569", "10 Ohio St., 557", "108 Ohio App., 143", "42 Ohio St., 292", "49 Ohio St., 370", "78 Ohio App., 168"]
+---
+
+# Merkle v. Merkle
+
+## Majority (Radcliff, P. J.)
+
+Radcliff, P. J.
+The parties to this litigation are brothers and sister, and tenants in common in 248 acres of land situated in Twin Township, Ross County, Ohio. On June 9, 1960, the appellees in this court filed a petition in the trial court seeking partition of the above-mentioned farm. The land was appraised at $30,000, and the commissioners, being unable to effect partition by metes and bounds, recommended to the court that the land be sold. One of the plaintiffs and the defendant each filed an election to take the property at the appraised value. The result was obvious, and the trial judge ordered the' farm sold at public sale. The sale was held on October 28, I960; All the parties were present at the sale and the farm was “knocked off” to Robert Merkle for the sum of $23,700. Robert Merkle, thd appellant herein, deposited a check with the sheriff for more than the ten per cent required by the advertisement.
+On November 4, 1960, the plaintiff J. D. Merkle filed a motion to decline confirmation of the sale, urging that he had been confused at the sale by the procedure and that he had intended to bid at least $37,000 for the farm. With the motion to decline confirmation, J. D. Merkle attached a cashier’s check in the sum of $3,700 as evidence of good faith of his “up set bid” of $37,000. On November 15, 1960, the defendant, Robert Merkle, filed a motion to confirm the sale. A hearing on both motions was had on December 16,1960. A record was made of this hearing, which constitutes the bill of exceptions in this cause.
+The defendant, Robert Merkle, seasonably filed a request for separate findings of fact and conclusions of law. Responding to the request, the separate findings and conclusions were included in the journal entry approved by the court on February 23, 1961, refusing to confirm the sale and ordering it re-advertised and offered for public sale. From that order this appeal was perfected.
+There is no question in the minds of our profession that confirmation of a judicial sale is a matter entirely within the sound discretion of the trial judge, be it sale on execution, foreclosure or partition. The law requires the trial judge to fully examine the proceedings, and, if they are regular, the sale must be confirmed. Failure to so confirm when the proceedings are regular amounts to an abuse of discretion. This is borne out by a long line of cases. See, Ohio Life Ins. & Trust Co. v. Goodin, 10 Ohio St., 557; Lemert v. Clarke, 1 C. C., 569, 1 C. D., 318; Reed v. Radigan, 42 Ohio St., 292; Niles v. Parks, 49 Ohio St., 370; Ozias v. Renner, 78 Ohio App., 168; and Mitchell v. Crain, 108 Ohio App., 143. This same principle is drawn from the following secondary authorities: Merwine’s Judicial Conveyance of Real Estate, Sections 118 and 320; 22 Ohio Jurisprudence (2d), 168, 277, Sections 243 and 406; 32 Ohio Jurisprudence (2d), 520, 526, 527, Sections 79, 84 and 86; and 41 Ohio Jurisprudence (2d), 645, 669, Sections 111 and 137.
+It becomes apparent that the question of exercise of sound judicial discretion must be bottomed upon the factual situations surrounding each sale. In this cause the facts are in dispute as may be seen by examining the bill of exceptions herein. If one line of testimony is to be believed it would appear that one of the parties to the suit was confused by the procedure at the sale. If the view of the other party is adopted there was no confusion and the unsuccessful bidder merely became a disappointed bidder and did nothing until the day following the sale. Two conclusions are inescapable, however, upon which there is no dispute: the first, that the "up set bid” placed by J. D. Merlde was a 56 per cent increase in tire sale price of the farm; the second, that it is undisputed that Robert Merlde freely admitted under oath that he asked the tenant on the farm not to bid at the sale. The tenant was present at the sale and did not bid. The trial judge apparently accepted as true the contention of J. D. Merkle that he was confused by the procedure followed at the sale, and, accumulating this with the undisputed facts just referred to, held the entire proceedings were shocking to his conscience and refused to confirm the sale.
+We regret the necessity of a long quotation, but the opinion of the Circuit Court of Cuyahoga County in the case of Duckwitz v. Komito, 16 C. C. (N. S.), 180, 31 C. D., 483, is such a clear and logical statement of the law which applies to the factual situation before us that it is deemed necessary to include the syllabus and the entire opinion.
+Syllabus
+"An order confirming a sale of real estate made by the sheriff will not be reversed on the weight of the evidence, where the evidence on the motion for confirmation was conflicting, for the trial judge is better able to consider the credibility of the witnesses than a reviewing court.”
+Opinion
+‘ ‘ The unfortunate occurrence here involved is one in which we cannot grant the relief prayed for in the petition in error. We are asked to reverse an order of the Common Pleas Court confirming a sale of real estate made by the sheriff. The contention of the court below was that the sale confirmed was reported as made to Mary Duckwitz, plaintiff in this case, on the bid of her attorney, a reputable member of the bar, while in fact the bid was so made by mistake on the part of her attorney and wholly without authority from the plaintiff.
+“The bill of exceptions contains all the evidence taken on the hearing of the motion. The attorney and the plaintiff both state that the former had received no instructions from the latter to bid on the property; the attorney explains how he made his mistake and the plaintiff alleges that it would be a hardship for her to be compelled to take the property. Had this been all the evidence offered on the hearing, it would have been clearly an abuse of discretion and error on the part of the court to confirm the sale.
+“But the defendants in the action produced witnesses whose positive statements as to what transpired at the sale fully warranted the trial judge in confirming the sale, if he believed them. He chose to believe them and confirmed the sale. Under such conflicting evidence, the verdict of a jury would not be set aside, no matter which way it brought in a verdict.
+“How much more improper would it be for this court to reverse a judgment of a judge when his determination of a matter resting largely within his discretion is based upon his consideration of conflicting evidence. This court, under the circumstances shown by the evidence, might have decided differently, had the original hearing been before it, but that is not sufficient reason for reversing the judgment of the trial court.
+“Judgment affirmed.”
+If we follow the logic of the foregoing case, which we do, there is only one conclusion that we may reasonably reach, i. e., that the judgment herein appealed from should be, and it hereby is, affirmed.
+Judgment affirmed.
+Collier and BrowN, JJ., concur.
