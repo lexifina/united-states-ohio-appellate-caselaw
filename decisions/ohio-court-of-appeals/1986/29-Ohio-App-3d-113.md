@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "85AP-613"
+decided: "1986-01-23"
+citations: ["29 Ohio App. 3d 113"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Moyer and Norris, JJ., concur."]
+parties: ["Fairley, Appellant, v. State Personnel Board of Review et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/29/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712634
+cites_cases: ["19 O.O. 3d 105", "470 U.S. 532", "65 Ohio App. 2d 152"]
+---
+
+# Fairley v. State Personnel Board of Review
+
+## Majority (Strausbaugh, J.)
+
+Strausbaugh, J.
+This is an appeal by Danny Fairley from the judgment of the common pleas court finding that the order of the State Personnel Board of Review is supported by reliable, probative and substantial evidence and is in accordance with law, and affirming Fairley’s removal. Appellant Fairley sets fourth the following single assignment of error:
+“The State Personnel Board of Review and the Franklin County Court of Common Pleas errored [sic] in failing to vacate and set aside the removal order given to the appellant in that the appellant’s state and federal constitutional rights of due process under the law were violated by the Ohio Department of Youth Services’ failure to conduct a meaningful pre-termination hearing.”
+The record indicates that on September 24, 1978, appellant was employed by the Ohio Department of Youth Services as a youth leader at the Buckeye Youth Center-Training Center for Youth (“Buckeye-TCY Complex”) charged with the responsibility of maintaining the custody and supervision of convicted youthful offenders. On October 19,1983, appellant was handed an incident report and asked to fill it out and sign it as set forth below:
+“I thought I used for [sic] as prescribed by Mr. Washington & I disagree with the above statement in its entirity [sic]. I did not knowing [sic] cause physical harm to the above mentioned youths. I did not feel I used enough force to facillitate [sic] an incident report, in that what has been common practice (use of certain types of restrain [sic] is common) only I don’t have absolute clear recollection of said incident in that I have been under medication and mental duress for some time.”
+The record further indicates that on November 9, 1983, appellant was awakened at 7:00 or 7:30 a.m. by two people from the Ohio Department of Youth Services who handed him a pink slip advising him for the first time that he was being terminated.
+John L. Washington, Superintendent at the Buckeye-TCY Complex, testified that the incident report was the only instrument in the investigative process that they employed at that time, although subsequently he has been directed by the Department of Administrative Services that he must conduct a pre-termination hearing with an employee, and that appellant, after signing the incident report and after the investigation had been completed through the highway patrol, was not given an opportunity to discuss with him, or anyone else in authority, the findings and the decision to terminate him.
+The record further indicates that appellant filed a notice of appeal with the State Personnel Board of Review from the order of removal, and that a hearing was held on February 27,1984 by an administrative law judge who issued a recommendation affirming the order of removal. Thereafter, the State Personnel Board of Review considered the matter on March 22, 1984, and adopted the recommendation of the administrative law judge. Appellant appealed the order to the Franklin County Court of Common Pleas, pursuant to R.C. 119.12, which affirmed the order of the State Personnel Board of Review and the order is presently before us on appeal.
+We find appellant’s single assignment of error is well-taken based upon the law as set forth by the United States Supreme Court in Cleveland Bd. of Edn. v. Loudermill (1985), 470 U.S. 532. A classified employee has a property interest created by R.C. 124.34 which may not be revoked without a prior showing: of cause. Jackson v. Kurtz (1979), 65 Ohio App. 2d 152 [19 O.O. 3d 105], paragraph two of the syllabus.
+The United States Supreme Court in Loudermill, supra, at 543-544, discussed the matter which is before us in this case upon appeal:
+“First, the significance of the private interest in retaining employment cannot be gainsaid. We have frequently recognized the severity of depriving a person of the means of livelihood. * * * While a fired worker may find employment elsewhere, doing so will take some time and is likely to be burdened by the questionable circumstances under which he left his previous job. * * *
+“Second, some opportunity for the employee to present his side of the case is recurringly of obvious value in reaching an accurate decision. Dismissals for cause will often involve factual disputes. * * * Even where the facts are clear, the appropriateness or necessity of the discharge may not be; in such cases, the only meaningful opportunity to invoke the discretion of the decisionmaker is likely to be before the termination takes effect. * * *
+“The cases before us illustrate these considerations. Both respondents had plausible arguments to make that might have prevented their discharge. The fact that the Commission saw fit to reinstate Donnelly suggests that an error might have been avoided had he been provided an opportunity to make his case to the Board. As for Loudermill, given the Commission’s ruling we cannot say that the discharge was mistaken. Nonetheless, in light of the referee’s recommendation, neither can we say that a fully informed decisionmaker might not have exercised its discretion and decided not to dismiss him, notwithstanding its authority to do so. In any event, the termination involved arguable issues, and the right to a hearing does not depend on a demonstration of certain success. * * *” (Citations and footnotes omitted.)
+A pre-termination hearing, though necessary, need not be elaborate. The formality and procedural requisites for the hearing can vary, depending upon the importance of the interests involved and the nature of the subsequent proceedings. Something less than a full evidentiary hearing is sufficient prior to adverse administrative action. It should be an initial check against mistaken decisions, essentially, a determination of whether there are reasonable grounds to believe that the charges against the employee are true and support the proposed action. The opportunity to present reasons, either in person or in writing, why proposed action should not be taken is a fundamental due process requirement. An individual must be given an opportunity for a hearing before he is deprived of any significant property interest.
+Appellant, in this instance, was not afforded any such pre-termination hearing. The evidence is undisputed that the incident report gave appellant no hint that his employment was endangered. At no time was appellant given an opportunity to have a hearing of any kind before he was terminated. For the foregoing reasons, appellant’s single assignment of error is sustained. The judgment of the trial court is reversed, and this cause is remanded for further proceedings in accordance with law and this opinion.
+Judgment reversed and cause remanded.
+Moyer and Norris, JJ., concur.
