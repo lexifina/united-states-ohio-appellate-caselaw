@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5215"
+decided: "1957-03-29"
+citations: ["78 Ohio Law Abs. 395"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(FESS and DEEDS, JJ, of the Sixth District, sitting by designation in the Second District.)", "HORNBECK, PJ, DEEDS, J, concur."]
+parties: ["SHAUCET, Plaintiff-Appellant, v. DAVIS et, Defendants-Appellees."]
+source_url: "https://static.case.law/ohio-law-abs/78/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1792255
+cites_cases: ["31 Oh St 378", "31 Oh St 433"]
+---
+
+# Shaucet v. Davis
+
+## Majority (By FESS, J.)
+
+OPINION
+By FESS, J.
+Appeal on questions of law from a judgment for defendants entered by the court at the conclusion of plaintiff’s case with respect to the first, second and fourth causes of action of plaintiff’s petition, and a judgment entered upon a verdict returned by the jury for defendants upon plaintiff’s third cause of action.
+On September 4, 1951, plaintiff secured a judgment of the Municipal Court of Columbus against the defendant Bessie Davis for restitution and the sum of $180.00 as damages for detention and costs. Thereafter said defendant, having prosecuted an appeal to the Court of Common Pleas, executed a supersedeas bond in the sum of $720.00 with defendant Martha F. Hill as surety thereon. Under the terms of said bond, said defendants bound themselves to plaintiff in the sum of $720.00 that if said judgment be affirmed and not paid by the defendant Davis, said defendants “as sureties consent that judgment for the amount found due, together with the costs that have accrued, may be entered against us and for such purpose enter our appearance in the above case.” Under the terms of said bond the defendants further bound themselves that during the possession of the premises by defendant Davis she would not commit or suffer to be committed any waste thereon and that if the judgment be affirmed she would pay the value of the use and occupation of said property to the plaintiff from date until the delivery of the possession thereof together with all costs which may have accrued in both courts. Thereafter, on motion of the plaintiff to set aside the aforesaid bond, the Court of Common Pleas ordered that the defendant Davis provide an additional new supersedeas bond in the sum of $5,000.00, conditioned that if the judgment of the Municipal Court be affirmed, that judgment for the amount found due plaintiff against the defendant, together with costs be paid, “and that said principal and sureties will pay the value of the use and occupancy of said property to plaintiffappellee; and to pay all damages suffered by plaintiff-appellee during the possession of said property by defendant-appellant and for any waste committed or suffered to be committed by the defendant-appellant during her possession of the property.” Pursuant to said order, it appears that $2980.00 in cash was deposited in lieu of bond. Neither the bonds themselves nor copies thereof appear in the record upon this appeal, but excerpts therefrom as herein referred to were introducd 'as exhibits at the trial. It is alleged in the pleadings that in addition to the $1300.00 cash deposited incident to the Municipal Court bond, there was a $720.00 real estate bond upon which the defendant Hill was surety, and that the additional bond ordered by the Court of Common Pleas was in a total sum of $5,000.00.
+It is to be observed that not only were the bonds exorbitant, but that they did not carry the exact phraseology prescribed by §2505.14 R. C.
+In ner first cause of action, after setting forth the judgment of the Municipal Court, the execution of the bonds and the affirmance of the judgment by the Court of Common Pleas, plaintiff alleges that during the pendency of said appeal, from August 19, 1951 until March 5, 1952, the defendant Davis had exclusive possession and control of the subject premises and deprived plaintiff from the use and occupation thereof, and that the reasonable value of said occupancy was $3500.00, for which plaintiff sustained damages.
+In our opinion, a good cause of action for use and occupancy was stated in this first cause of action. At the trial, plaintiff introduced evidence tending to show that she was deprived of the use and occupancy of the premises during the period alleged. Therefore, the court erred in entering judgment for the defendants at the conclusion of plaintiff’s case.
+For her second cause of action, plaintiff alleges that because of her deprivation of the possession and control of said premises by defendant Davis, she suffered additional damages in the sum of $2117.50 due to the delay of some six months encountered by plaintiff in remodeling said premises. No substantial evidence to support this speculative claim was presented by the plaintiff. The judgment with respect to this cause of action is therefore affirmed.
+For her third cause of action, plaintiff alleged that the defendant Davis had agreed to pay plaintiff all charges for water furnished by the City of Columbus in connection with the use of the premises by defendant Davis and seeks recovery in the sum of $174.34 for reimbursement for such water bills. The issues arising under this cause of action were properly submitted to the jury, which returned its verdict for the defendants, and the judgment with respect to this cause of action is affirmed.
+For her fourth cause of action, plaintiff alleged that the defendant Davis suffered waste to be committed on the premises during the period in question, as a result of which plaintiff suffered damage in the sum of $500.00. A review of the record discloses no evidence in support of this cause of action and the judgment with respect thereto is affirmed.
+The journal entry in this case includes the judgment of the court upon the four causes of action. But upon review of the judgment, the reviewing court may consider the errors assigned as to each of the several causes of action and may determine separately whether the judgment with respect to each of the causes of action should be affirmed, reversed or modified. Sidner v. Alexander, 31 Oh St 378.
+Judgment with respect to the second, third and fourth causes of action affirmed. Judgment with respect to the first cause of action reversed and cause remanded to the Common Pleas Court for a new trial. Costs accruing upon this appeal should be equally divided between and assessed against the plaintiff and defendants. Sidner v. Alexander, 31 Oh St 433. Assessment of costs in the Common Pleas Court should abide the final judgment. Sec. 2505.41 R. C.
+HORNBECK, PJ, DEEDS, J, concur.
