@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2843"
+decided: "1938-03-21"
+citations: ["27 Ohio Law Abs. 697"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and GEIGER, JJ, concur."]
+parties: ["STATE ex GALLOWAY v INDUST COMM"]
+source_url: "https://static.case.law/ohio-law-abs/27/cases/0697-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1688697
+cites_cases: ["131 Oh St 140"]
+---
+
+# State ex rel. Galloway v. Indust Comm
+
+## Majority (By BARNES, PJ.)
+
+OPINION
+By BARNES, PJ.
+This is an original action' in this court instituted through- relator’s petition in mandamus praying for a mandatory writ requiring the defendant to consider his application for adjustment of claim numbered 251,977-22 and to determine relator’s rights to compensation under said application. Defendant within rule filed his answer to which plaintiff filed a general demurrer questioning the sufficiency of the answer as a defense.
+The following brief summary of allegations and averments in the pleadings will render understandable the nature and scope of the controversy.
+The relator, Wilbur Galloway, during ihe years 1933 and 1934, was an employee of the Spicer Manufacturing Corporation, a self-insuring employer under the laws of Ohio. On the 16th day of November, 1934, relator filed with the delendant on one of the regular forms printed and furnishect by the commission an “application for ad-' justment of claim” for claimed injury as the result of an accident during the latter part of October or the first part of November, 1933, by reason of metal getting ir; his right eye affecting both eyes and causing total disability of both eyes. The claim was duly heard by the commission on April 17, 1935, and after considering the claim and the proof filed in- support of same there was entered an order of disallowance on the gx-ound that the proof of record failed to show that the claimant’s disability was due to the alleged injury sustained -while in the employ of the employer named. Thereafter claimant filed an application for rehearing which is still pending.
+On the 22nd day of March, 1937, relator filed with the commission a second application for adjustment of claim, the same being No. 251,977-22, claiming injuries as a result of an accident occurring on the 5 th day of March, 1934, causing permanent total disability due to loss of vision in both eyes; relator claimed that this second accident was caused through cleaning compound thrown into his face from a combustion washer.
+In this second application for adjustment of claim relator erased from the printed form furnished him a clause expressly waiving as a privileged communication (§11494, GC) evidence of relator’s attending physicians. Following the filing of relator’s second claim the employer (being a self-insurer) filed motions to the application objecting to two claims being filed for the same injury resulting fi-om different accidents at different times and from different causes, and asking that relator be required to elect the particular accident and injury that caused the total disability of both eyes and that relator be restrained from obstructing the commission in investigating, inquix-ing into and determining the nature of the injury and extent of the disability by reserving to himself the right to determine the particular doctors who should testify or furnish proof in relation thei-eto.
+On August 5, 1937, defendant entered an order in said claim No. 251,977-22, which order was as follows:
+“This matter coming on for hearing on the motion to require the claimant to elect filed April 9, 1937 by the employer. The commission, on consideration of said motion, finds that same is well taken, and the motion is granted in the following particulars, to-wit:
+“(1) That the claimant is ordered to elect m to whether he will pursue his right to receive compensation under the application in claim No. 251,977-22, or proceed under claim No. 241,354-22.
+“(2) That claim 241,354-22 or claim No. 251,977-22 be dismissed without prejudice at the election of the claimant.
+“(3) That if the claimant elects to proceed under claim No. 251,977-22 and dismiss without prejudice claim No. 241,354-22 it is the order of the commission that fur-? ther proceedings be stayed until such time as claimant withdraws the “application for adjustment” of claim No. 251,977-22 and files a new application for adjustment of claim on the form provided by the commission, without any reservation as to privileged communications.”
+Relator declined to either elect as between his two claims or/and file a new application waiving privileged communications of his attending physicians.
+In line with the commission’s order sustaining motion no further action was taken by the commission and thereupon relator filed his action in mandamus in this court to test the legality of such order.
+Two qx-estions ax-e presented for our determination; First, the right of the commission to require claimant to waive privileged communications; second, the l-ight of the commission to require the claimant to elect as between his two claims. We will take up these questions in the order named. Counsel for the commission cite the case of Industrial Commission v Warnke, 131 Oh St 140, and argue that the principles therein announced are determinative of the commission’s right.
+We are unable to so conclude. The reported case goes no farther than determining that in an action by a widow to recover compensation under the Workmen’s Compensation Act for the death of her husband resulting from injuries sustained by him in the course of his employment she may waive the privileged communication provisions of §11494, GC, and permit the physician attending relator’s decedent to testify. In this reported case the Industx-ial Commission was raising" the question of privileged communication. This case was decided by a divided court, two members dissenting. The point of controversy arose by reason of the language of §11494, GC, wherein was provided the express right of waiver. The pertinent language of this section of the Code is as follows:
+“But the attorney or physician may testify by express consent of the client or patxent.”
+The minority ux'ge that to extend this provision of the section beyond its clear language would be judicial legislation. The majority opinion, which of course is controlling law, held to the view that this privilege might also be waived by the personal representative. We are unable to see how it may be urged that this decision would give to the commission a right to compel waiver.
+Certain excerpts from the opinion of the Judge writing the decision are quoted and standing alone are argumentative in support of defendant’s contention but in considering these excerpts we must keep in mind the well recognized rules of law that the law of the case is stated in the syllabus, the opinion being merely dicta. The Supreme Court has also frequently announced the rule that even the syllabus of a case must be read and construed in the light of the questions in issue.
+It is true that certain sections of the Workmen’s Compensation Code provide for liberality of procedure and also authorize adoption of rules and regulations controlling the investigation of claims for compensation.
+The statutory rule as to privileged communications creates a substantive right and can not be avoided by rules and regulations of the commission.
+It is our determination that the commission does not have the right to compel claimants to waive the provisions of §11494, GC, as to privileged communicatins before they will consider a filed application.
+We now consider the second question as to the right of the commission to compel the claimant to elect. No case in Ohio directly in point has been cited nor are we through an independent search able to find any. As a rule of reason of the Workmen’s Compensation Act and its purposes we are not able to follow the reasoning of the defendant. It is not difficult to conceive of instances where a person receiving two or more injuries at different times may not be able to determine with exactness which of the two was the proximate cause of the permanent injury following, although the evidence might be conclusive that one or the other was the proximate cause. This question would be very important where one of the injuries was outside of the employment and only one within the employment. It also would be important where Dne of the injuries was while in the employment of one employer and the other while in the employment of a second and wner'e both were self-insurers. Under the facts of the instant case where the claimed injuries were under the same employment this question is of little importance;
+The relator’s demurrer to defendant’s answer will be sustained. Should defendant desire to file an amended answer it may 'do so within fifteen days. If it is not desired to file amended answer or no answer be filed within the fifteen days allowed a mandatory writ will issue as prayed for in relator’s petition.
+Entry may be drawn accordingly.
+HORNBECK and GEIGER, JJ, concur.
