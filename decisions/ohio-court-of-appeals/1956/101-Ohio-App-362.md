@@ -1,0 +1,64 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4603"
+decided: "1956-05-09"
+citations: ["101 Ohio App. 362"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stevens, P. J., and Doyle, J., concur."]
+parties: ["Sparhawk et al., Appellees, v. Gorham et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/101/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1424138
+cites_cases: ["140 Ohio St., 281", "154 N. E., 47", "158 Ohio St., 313", "160 N. E., 646", "164 N. E., 237", "166 N. E., 698", "22 Ohio App., 146", "247 N. Y., 377", "30 Ohio App., 54", "300 N. Y., 334", "31 Ohio App., 525", "343 Mich., 230", "50 N. D., 465", "60 Ohio Law Abs., 559", "68 A. L. R., 239", "68 A. L. R., 245"]
+---
+
+# Sparhawk v. Gorham
+
+## Majority (Hunsicker, J.)
+
+Hunsicker, J.
+This is an appeal on questions of law from a judgment of the Municipal Court of Akron, Ohio.
+Mr. and Mrs. Alan Sparhawk, herein called “Sparhawk,” filed an action against Mr. and Mrs. Alvin Gorham, herein called “Gorham,” claiming a breach of a contract in the sale of a newly-built rural residence property.
+Sparhawk signed a printed contract of purchase of the residence, presented to him by a broker employed by Gorham. At the time the broker gave the printed sale contract to Spar-hawk, he handed Sparhawk a written memorandum of work which he said Gorham would do to complete the construction of the house. Sparhawk testified that this paper writing was a part of an oral agreement between the parties by reason of which Sparhawk signed the printed contract of purchase.
+The printed contract contained a clause which said, in part:
+“* * * this instrument contains the entire agreement between the seller and the buyer with respect to the purchase of said property, and it is expressly understood and agreed that no promises, provisions, terms, warranties, conditions or obligations whatsoever, either expressed or implied, other than herein set forth, shall be binding upon the buyer, seller or broker,”
+Upon the trial of the action, the court admitted, over the objection of counsel for Gorham, testimony relative to the oral agreement to complete the house, based upon the written memorandum which the broker-agent of Gorham gave to Sparhawk when he signed the printed contract to purchase the property.
+From the judgment for Sparhawk, the appellants Gorham appeal to this court, saying:
+“1. The court erred in accepting certain evidence offered by the plaintiffs over the objection of the defendants.
+‘ ‘ 2. The verdict and judgment of the court are not supported by sufficient evidence; are manifestly against the weight of the evidence; and contrary to the law applicable to the case.
+“3. The court erred in refusing to sustain defendants’ motion for a directed verdict in their favor at the close of plaintiffs’ evidence and again at the close of all the evidence.
+“4. The court erred in overruling the motion of defendants for a new trial.”
+The principal complaint is based upon the testimony relating to the oral agreement made concerning the work Gorham would do to complete the house if Sparhawk would agree to buy it. Gorham, through his counsel, insists that such testimony and all of the evidence relating thereto is not admissible, since it violates the parol evidence rule whereby the plain, unambiguous written terms of the contract of purchase are changed by the introduction of this written memorandum and the testimony relating thereto.
+The evidence established that there was a prior written contract signed by Sparhawk which provided for F. H. A. financing, but that Gorham, in order to ‘ ‘ get his money quicker, ’ ’ asked Sparhawk (through the broker) to sign the contract in the instant case for conventional financing, the broker saying that he, Gorham, would do the things contained on the list (known in this case as exhibit 2) to complete the house. Spar-hawk then signed the second contract of purchase as requested by the broker, and Gorham did proceed to do some of the things set out on that list.
+The petition in this case claimed that this oral agreement, with the written list of things needed to be done to complete the house, was a part of the contract of purchase. The proof did not so show, for the evidence herein did establish that there was a prior oral agreement, whereby Sparhawk consented to change the financing arrangements and sign a new contract, in return for a promise on the part of Gorham, through his agent, the broker, to complete the house by doing the work set out on the written list.
+In the foregoing respect this case is not controlled by Charles A. Burton, Inc., v. Durkee, 158 Ohio St., 313, 109 N. E. (2d), 265, where, subsequent to the contract, a letter by one of the parties sought to limit the terms of that agreement.
+We do not have herein the question of a violation of the parol evidence rule, but we do have the question of the breach of a separate and distinct oral contract which led to the signing of the printed agreement of purchase.
+It should also be noted that there is no claim of fraud in the inducement.
+In the case of Roan v. Hale, 60 Ohio Law Abs., 559, 102 N. E. (2d), 603, the court said, at page 560:
+“ * * * although the general rule is that parol evidence is inadmissible to vary the terms of the written contract, * * * there may be cases where parol evidence is admissible to prove a separate oral agreement constituting a condition precedent to the signing of the written instrument and where such condition precedent is proven and a separate agreement is breached by one of the parties, such breach may be a defense to the enforcement of the written contract. Since the written contract is admitted by all of the parties and the court recognized the proper legal principles applicable, the only remaining question is a factual one as to whether or not the collateral agreement was entered into.”
+In the instant case, of course, we have the converse of the above situation, but the rule with reference thereto is the same, for it is said generally that a parol agreement, operating as an inducement to a written agreement, is admissible in evidence. Thus, in Central Community Chautauqua System v. Rentschler, 31 Ohio App., 525, 166 N. E., 698, the court held that:
+“2. Evidence that defendants signed contract of guaranty with understanding and oral agreement with plaintiff that their signatures would be removed therefrom, and that they would not be held liable tbereon, unless plaintiff obtained signature of certain party and withdrew name of another therefrom, and, after obtaining 20 or more signatures, would submit contract to them for their approval, and that conditions were not fulfilled, did not tend to contradict, vary, add to, or subtract from, terms of contract of guaranty, and was admissible.”
+This court, in a case bearing on the general rule above expressed, said, in Martin, Trustee, v. Steinke, 22 Ohio App., 146, 154 N. E., 47:
+“1. The manual delivery of a written instrument may always be shown by parol evidence to have been on a condition which has not been fulfilled, in order to avoid its effect. ’ ’
+There is no general agreement in other jurisdictions with respect to the admissibility in evidence of an oral collateral agreement made at the time a written contract involving the same subject was signed.
+If there can be said to be any universal rule on the subject herein discussed, it is that a parol contemporaneous agreement cannot be admitted in evidence to contradict or to vary the terms of a written instrument involving the same subject matter. Nankas v. National Bank of Commerce, 30 Ohio App., 54, 164 N. E., 237; Smith v. Geis, 13 C. C. (N. S.), 336, 22 C. D., 666; Brachman v. Wheelock, Inc., 343 Mich., 230, 72 N. W. (2d), 246; III Williston on Contracts (Rev. Ed.), Section 639.
+Professor Williston, at pages 1811 to 1813 of Section 630 in the above named volume III, says, when speaking on the instant subject:
+“ * * * The writing merges the prior oral agreements, and evidence of them is inadmissible subject to three exceptions-— (1) If reformation or rescission of the writing is in question. (2) If the words of the writing will express equally well the intention shown by the oral negotiations, and another intention. The negotiations may then be used to show the actual intention of the parties not to subject them to a contract not expressed in the writing, but to show that the words of the writing bear a particular meaning. (3) Where the writing is not a complete integration of the parties’ agreement, and the oral agreement is intended to retain an independent collateral existence. The limits of this principle are hereafter considered.”
+The problem hence arises, in the instant case as well as in all other similar cases, whether the bond between the oral and the written contract is so close as to conflict with .the terms of the written contract, or whether it covers a matter distinct from, though related to, the express subject matter of the written instrument and not embodied therein.
+It has been said that, in general, an oral agreement may be proved only if it is ‘ ‘ not * * * so clearly connected with the principal transaction as to be part and parcel of it.” Fogelson v. Rackfay Const. Co., 300 N. Y., 334, at page 338, 90 N. E. (2d), 881, at page 882.
+In the case of Lilly v. Haynes Co-operative Coal Mining Co., 50 N. D., 465, at page 475, 196 N. W., 556, at page 559, the court said:
+“That a contract is delivered upon a condition precedent may be shown by parol evidence and that such evidence does not vary or contradict the terms of the written instrument, appears to be well established. ’ ’
+A collation of authorities on the subject before us may be found in 68 A. L. R., 245.
+A leading case in this country on this subject is Mitchill v. Lath, 247 N. Y., 377, 160 N. E., 646, 68 A. L. R., 239, and in that case the rule herein, which has been adopted in other jurisdictions, is set out as follows:
+“Under our decisions before such an oral agreement as the present is received to vary the written contract at least three conditions must exist, (1) the agreement must in form be a collateral one; (2) it must not contradict express or implied provisions of the written contract; (3) it must be one that parties would not ordinarily be expected to embody in the writing, or put in another way, an inspection of the written contract, read in the light of surrounding circumstances must not indicate that the writing appears ‘to contain the engagements of the parties, and to define the object and measure the extent of such engagement. ’ Or again, it must not be so clearly connected with the principal transaction as to be part and parcel of it. ’ ’
+The oral contract in the instant case covers the subject of work to be done by the seller which would make the house complete. The need for a satisfactory septic tank is imperative in a rural area. The written contract covered the subject of price, and place and terms of payment. No part of the written contract dealt with matters of repair or work necessary to complete the house.
+In such a situation, the rule, which we think applicable in cases such as the instant case, may be said to be that evidence of a collateral oral contract may be admissible in evidence along with a written contract, so long as such collateral contract does not conflict with the written contract and when such collateral oral contract covers a subject matter distinct from, though closely related to, the express subject matter of the written contract and not embodied in the written contract.
+It is not necessary to discuss other exceptions to the parol evidence rule, which concern matters such as warranties; consideration set out in deeds (Ayres v. Cook, 140 Ohio St., 281, 43 N. E. [2d], 287); stock subscription agreements (Martin, Trustee, v. Steinke, supra); and similar exceptions. The problem before us does not come within one of these exceptions to the rule.
+Our problem relates to an oral agreement to complete a dwelling, which oral agreement was entered into when a written contract to purchase such house was executed, and which written contract contained a clause limiting any promises or conditions to those contained in the formal undertaking.
+We therefore find, in the case before us, that, although the pleading did not allege the conditions surrounding this oral contract, yet the evidence clearly establishes the situation; and that it was not error prejudicial to the appellants, Gorham, to admit the evidence of the oral agreement.
+We have examined all other claimed errors, and find none prejudicial.
+The judgment is affirmed.
+Judgment affirmed.
+Stevens, P. J., and Doyle, J., concur.
