@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1955"
+decided: "1948-04-09"
+citations: ["52 Ohio Law Abs. 154", "83 Ohio App. 300"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MILLER and HORNBECK, JJ, concur."]
+parties: ["YENDES, Plaintiff-Appellee, v. SHAW, et, Defendants-Appellees, HALL, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/52/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1749228
+cites_cases: ["153 A. L. R. 538", "153 A. L. R., 538", "169 N. E. 315", "169 N. E., 315", "33 Oh St 283", "33 Ohio App., 371", "33 Ohio St., 283", "83 Or. 687", "83 Ore., 687"]
+---
+
+# Yendes v. Shaw
+
+## Majority (By WISEMAN, PJ.)
+
+OPINION
+By WISEMAN, PJ.
+This is an appeal on questions of law from the Common Pleas Court of Montgomery County, Ohio. Plaintiff’s demurrer to the second and third defenses in the answer and to the counter-claim of defendant-appellant, C. W. Hall, was sustained. The appellant not desiring to plead further, the second and third defenses and the counter claim were dismissed.
+The defendants, Harly L. Shaw and S. Esther Shaw, executed their promissory note for $6,000.00 payable to appellant, C. W. Hall, in connection with the purchase of a restaurant and in order to secure the payment of said note executed a chattel mortgage in favor of C. W. Hall on all the chattel property in the restaurant. A short time thereafter, and before maturity, C. W. Hall endorsed said note without qualification and transferred said chattel mortgage to the plaintiff-appellee, Harlan W. Yendes, who paid Hall therefor the sum of $4,500.00. The Shaws defaulted in payment of the note according to its terms and plaintiff-appellee instituted a suit on the note and asked for the foreclosure of the chattel mortgage. Default judgment was taken and the sale of the chattel property was ordered. The appellant at this stage of the proceedings filed a motion to vacate the judgment against him. The court vacated the judgment taken on the note but proceeded to sell the chattel property at public auction. The appellant filed an answer and counter-claim to which the demurrer was sustained.
+The appellant in his second defense alleges that: “He sold to plaintiff the note described in plaintiff’s petition and received therefor the sum of $4,500.00 same having been discounted to that extent in order that said defendant receive cash.” The fact that appellant sold a $6,000.00 note for $4,500.00 before maturity and endorsed said note without qualification to the order of the plaintiff did not constitute the appellant an endorser without recourse. The plaintiff became a holder in due course. Sec. 8157 GC. There is no claim made of any infirmity in the note existing between the Shaws and Hall. Consequently, the plaintiff is not deprived of his right to enforce payment of the full amount of the note. Sections 8162 and 8171 GC.
+For a- third defense appellant alleges that plaintiff’s agent informed appellant that: “Under the manner and form of the transfer of the note and chattel mortgage, said defendant would not be liable to said plaintiff in any sum or sums whatsoever in case of the failure of Harley L. Shaw and S. Esther Shaw to pay same or payments provided therein; that no liability would attach to said Hall of any kind after the transfer of said note and mortgage; that said representations were false and that plaintiff’s agent knew them to be false; and that said defendant believing said representations and acting therein, transferred said note and mortgage to said plaintiff.” It is clear that the plaintiff’s agent misrepresented the legal effect of appellant’s endorsement and his legal obligation after the transfer. A misrepresentation of law as to appellant’s legal rights and obligations however erroneously and convincingly stated is but an expression of an opinion and does not constitute a defense on the ground of fraud. Everyone is presumed to know the law and therefore acts upon statements of that character at his peril. Not ■every erroneous representation will avoid a contract. To have that effect it must be a false representation of a material fact upon which the party who is injured had a right to rely and ■did rely. The misrepresentation alleged did not relate to a material fact. Insurance Co. v. Reed, 33 Oh St 283, 292. In Yappel v. Mozina, 33 Oh Ap 371, 169 N. E. 315, the first paragraph of the syllabus is ás follows:
+“Generally, mere misrepresentations of what the law is cannot form basis for an action of deceit, even though representation-was meant to be acted on and believed by parties, to whom it was made and is acted on, since every man is supposed to know the law, and one believing statements made by another in that regard does so at his peril.”
+See, also, Volume 19 O. Jur. page 416, Section 128; Volume 23 Am. Jur. page 809, Section 45; 153 A. L. R. 538. In Wicks v. Metcalf, 83 Or. 687, 163 P. 434, which is referred to in the footnote in American Jurisprudence, the facts were similar to those presented in the case at bar. The court held: “It is no ground for decree perpetually enjoining suit on notes given by plaintiff that she signed them on defendants’ representing that her signature would not make her personally liable, since the misrepresentation or mistake was one of law against which relief will not be granted.”
+The appellant in his counter-claim alleges the failure of the plaintiff to co-operate with him in his effort to dispose of the business; that a portion of the chattel property was removed from the premises and sold causing a loss to appellant. There is no allegation that the plaintiff removed or sold said chattel property. On the other hand, it is definitely alleged that Shaw sold two Ice Cream Freezers for less than the true value. There being no allegation to the contrary, it may be presumed that the sale was made by Shaw while he was in possession of said propertly and at a time when the plaintiff and Hall were out of possession. In our opinion the facts alleged do not show a cause of action against the plaintiff.
+The appellant did not allege facts constituting good defense to the note in his second and third defenses of the answer. The counter-claim did not allege facts sufficient to constitute a cause of action. The demurrer was properly sustained.
+Finding no error in the record the judgment is affirmed.
+MILLER and HORNBECK, JJ, concur.
