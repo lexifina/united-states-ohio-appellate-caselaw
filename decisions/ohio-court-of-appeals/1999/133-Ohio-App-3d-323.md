@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "73555"
+decided: "1999-04-26"
+citations: ["133 Ohio App. 3d 323"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Timothy E. McMonagle and Blackmon, JJ., concur."]
+parties: ["BRAXTON-FOUNTAIN, Admr., Appellant, v. UNIVERSITY HOSPITALS OF CLEVELAND; Hodgson, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/133/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 138615
+cites_cases: ["141 A.L.R. 5", "346 N.E.2d 673", "46 Ohio St.2d 127", "632 N.E.2d 977", "662 N.E.2d 264", "75 O.O.2d 184", "75 Ohio St.3d 280", "81 A.L.R.2d 597", "91 Ohio App.3d 438"]
+---
+
+# Braxton-Fountain v. University Hospitals
+
+## Majority (O’Donnell, Presiding Judge.)
+
+O’Donnell, Presiding Judge.
+Georgiann Braxton-Fountain, Administrator of the estate of Margaret Braxton, appeals from an order of the common pleas court granting summary judgment in favor of Dr. John Hodgson in connection with claims of medical malpractice arising from perforation of the right ventricle of Margaret Braxton’s heart during a pericardial centesis procedure performed by a medical student at Hodgson’s direction in an effort to drain fluid build up between the pericardium and her heart wall.
+On February 3, 1993, seventy-seven-year-old Margaret Braxton entered University Hospitals for surgery to remove a basal cell carcinoma of the left groin, which had also metastasized to her lungs, liver, thyroid, and mediastinum. She underwent surgery on February 4, 1993, and suffered two incidents of cardiac arrest. As a result, on February 5, 1993, Hodgson examined her and diagnosed a pericardial effusion, a fluid build up between the pericardium and the heart wall. Under Hodgson’s supervision, a medical student performed a pericardial centesis procedure to drain the fluid, but punctured the right ventricle during the procedure. Braxton underwent surgery to repair the perforation, but later died on February 9,1993.
+Braxton’s estate then filed a negligence action against Hodgson and University Hospitals of Cleveland. Braxton voluntarily dismissed University Hospitals, and Hodgson filed a motion for summary judgment, which the court granted, stating:
+“Plaintiff concedes that she has no expert testimony directly relating to a ‘standard of care’ violation by Defendant Dr. Hodgson. It is the position of Plaintiff that the Defendant’s negligence is within the common knowledge of the layperson and, therefore, expert testimony is not required.
+“This Court, however, finds that the perforation of the right ventricle in the course of performing a pericardial centesis, and whether or not it is a risk of the procedure, is not within the common knowledge and experience of a layperson.
+“The uncontradicted testimony of Dr. Hodgson * * * [is]:
+“ ‘entering the right ventricle is a well-known potential complication of this procedure.’
+« * 5k 5k
+“The Plaintiff failing to produce any expert testimony regarding any failure on the part of Defendant to comply with reasonable established standards of care that directly and proximately caused injury and or death to the Plaintiff. Summary Judgment shall be granted in favor of Defendant. (See Bruni v. Tatsumi [1976], 46 Ohio St.2d 127, 130, 75 O.O.2d 184, 186, 346 N.E.2d 673, 676-677.)”
+The administrator of the estate now appeals from this decision and presents two assignments of error for our review:
+I
+“The trial court committed reversible error in granting summary judgment to defendant/appellant. Where the facts of the case are such that the alleged malpractice is within the understanding and knowledge of a layperson, expert testimony is not required as a matter of law. In addition, the facts of the negligence itself are substantial issues of material fact to be decided at trial.”
+II
+“Even if, arguendo, an expert opinion was required to establish plaintiffs case for medical malpractice the deposition testimony of Robert C. Challener, M.D. and John Hodgson, M.D. are sufficient to meet this burden. Therefore, the court erred in granting summary judgment as a matter of law.”
+Braxton’s estate contends that the court erred in granting summary judgment in favor of Hodgson, urging that expert testimony is not necessary to establish the standard of care in this case because the negligence here — perforation of the right ventricle of the heart during a pericardial centesis — is a matter within the common knowledge of laymen, and that even if expert testimony were required, that requirement has been satisfied by the testimony of Hodgson and the coroner, Robert Challener. Dr. Hodgson, on the other hand, contends that the court properly granted judgment in his favor because the estate failed to provide an expert witness to establish the standard of care or that Hodgson failed to meet that standard. Therefore, he claims entitlement to judgment as a matter of law.
+The issue before us, then, concerns whether the court erred in granting summary judgment in favor of Hodgson. The resolution of this matter is dependant upon the procedural posture of the motion practice and the substantive law involving the necessity of providing expert testimony to establish the allegations of medical negligence.
+Civ.R. 56(C) provides:
+“Summary judgment shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, written admissions, affidavits, transcripts of evidence in the pending case, and written stipulations of fact, if any, timely filed in the action, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.”
+Further, a party seeking summary judgment bears the initial burden of demonstrating an absence of genuine issues of material fact concerning an essential element of an opponent’s case. See Dresher v. Burt (1996), 75 Ohio St.3d 280, 292, 662 N.E.2d 264, 273. A defendant may satisfy this burden by showing an absence of evidence to support the nonmoving party’s case. Once the moving party has satisfied this burden, the nonmoving party then has the burden to set forth specific facts showing there is an issue for trial. Id.
+In Bruni v. Tatsumi (1976), 46 Ohio St.2d 127, 75 O.O.2d 184, 346 N.E.2d 673, the court stated in paragraph one of its syllabus:
+“In order to establish medical malpractice, it must be shown by a preponderance of evidence that the injury complained of was caused by the doing of some particular thing or things that a physician or surgeon of ordinary skill, care and diligence would not have done under like or similar conditions or circumstances, or by the failure or omission to do some particular thing or things that such a physician or surgeon would have done under like or similar conditions and circumstances, and that the injury complained of was the direct and proximate result of such doing or failing to do some one or more of such particular things.”
+In addition, the court stated at 131-132, 75 O.O.2d at 187, 346 N.E.2d at 677:
+“Failure to establish the recognized standards of the medical community has been fatal to the presentation of a prima facie case of malpractice by the plaintiffs. See annotations, 141 A.L.R. 5 and 81 A.L.R.2d 597.
+. “Proof of the recognized standards must necessarily be provided through expert testimony. This expert must be qualified to express an opinion concerning the specific standard of care that prevails in the medical community in which the alleged malpractice took place, according to the body of law that has developed in this area of evidence.”
+The court there, however, recognized an exception to the rule requiring expert testimony and stated at 130, 75 O.O.2d at 186, 346 N.E.2d at 677:
+“It should be noted that there is an exception to that rule in cases where the nature of the case is such that the lack of skill or care of the physician and surgeon is so apparent as to be within the comprehension of laymen and requires only common knowledge and experience to understand and judge it * * *.”
+In this case, appellant alleges the lack of skill of the medical student in puncturing the right ventricle of the heart while performing the pericardial centesis under Hodgson’s direction is within the comprehension of laymen and requires only common knowledge to understand it. Here, Hodgson supported his motion for summary judgment with an affidavit stating that needle penetration of the right ventricle is a known complication of the procedure, that he exercised the degree of skill and diligence required by the recognized standards of the profession, and that Braxton’s death resulted from her multiple existing medical conditions, including advanced lung cancer, a pulmonary embolus, and two previous cardiac arrests.
+The record before us contains no expert testimony in rebuttal to establish the standard of care for this procedure or to detail any deviation from acceptable medical standards. Challener’s deposition does not criticize Hodgson’s treatment of Braxton. Despite the unfortunate result of this medical procedure, we cannot conclude Hodgson acted in a negligent manner, absent some medical expert testimony regarding the appropriate course of treatment under the same or similar conditions, because performing a pericardial centesis and the medical risks associated with it are not sufficiently obvious as to fall within the' comprehension of laymen requiring only common knowledge and experience to understand and judge it.
+Here, the estate failed to provide expert medical testimony to demonstrate either the appropriate standard of care or to establish a breach in this case. As we stated in Rogoff v. King (1993), 91 Ohio App.3d 438, 447, 632 N.E.2d 977, 983:
+“[A]bsent compelling evidence in the record tending to demonstrate a complete lack of care and skill on the professional’s part, this court will not recognize an exception to the rule calling for an expert witness to establish a plaintiffs malpractice action.”
+Accordingly, these assignments of error are overruled, and we affirm the judgment of the trial court.
+Judgment affirmed.
+Timothy E. McMonagle and Blackmon, JJ., concur.
