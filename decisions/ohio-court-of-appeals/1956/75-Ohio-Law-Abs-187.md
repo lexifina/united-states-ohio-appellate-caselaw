@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "23793"
+decided: "1956-10-17"
+citations: ["75 Ohio Law Abs. 187"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KOVACHY, PJ, HURD, J, concur."]
+parties: ["STATE, Plaintiff-Appellee, v. TRUNZO, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/75/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1788706
+cites_cases: ["123 Oh St 482"]
+---
+
+# State v. Trunzo
+
+## Majority (By SKEEL, J:)
+
+OPINION
+By SKEEL, J:
+This appeal comes to this Court from a judgment entered in the Common Pleas Court against the defendant on four of five counts on an indictment returned against the defendant by the Grand Jury of Cuyahoga County.
+The defendant was charged in the indictment with (1) burglary, (2) larceny, (3) forcing entry into a safe where money was kept, (4) having possession of burglar tools and (5) receiving stolen property. Upon trial he was found guilty by the verdict of a jury of burglary, larceny (the jury finding the value of the property stolen to be $762.00), forcing entrance to a safe where money was deposited and possession of burglar tools. The defendant was found not guilty of receiving stolen property. The Court sentenced the defendant to the Ohio Penitentiary separately on each count and directed that the sentences be served consecutively. The defendant’s motion to amend the order for separate sentences and direct that they would run concurrently for the reason that all the crimes charged grew out of the same transaction was overruled. Thereupon, within three days of the judgment and sentence, the defendant filed a motion for a new trial which was overruled on January 16, 1956. Notice of appeal was filed on January 25, 1956, and the defendant was then given thirty days within which to file his bill of exceptions. The defendant also filed a motion on January 25, 1956, requesting the court to direct the County Commissioners to pay for a bill of exceptions which in effect was to request an order from the Court that he be furnished a bill of exceptions in longhand of all the evidence and proceedings not shown on the face of the record at the State’s expense. This motion was overruled by the Court on February 8, 1956.
+The defendant claims the following errors:
+First: That he is entitled as a matter of law, under §§2301.23 to 2301.-25 R. C., inclusive, to a bill of exceptions at the expense of the State upon request and a showing that he was without funds with which to pay the cost thereof.
+Second: That since all four of the crimes of which he has been found guilty are related to the same transaction, the sentences should run concurrently and not consecutively as directed by the Court.
+The other errors assigned are not argued in the defendant’s brief ¡and, therefore, will not be considered. Such claims of error are not considered for the further reason that they could only be demonstrated by a bill of exceptions which was not filed in this case.
+The first error argued is based on the Court’s refusal to order a bill of exceptions transcribed by the official court reporter for his benefit at the expense of the State. This claim is not well founded. Sec. 2301.23 R. C., provides:
+“When shorthand notes have been taken in a case as provided in §2301.20 R. C., if the court, either party to the suit, or his attorney, requests transcripts of any portion of such notes in longhand, the shorthand reporter reporting the case shall make full and accurate transcripts thereof for the use of such court or party. The court may direct the official shorthand reporter to furnish to the court and parties copies of decisions rendered and charges delivered by the court in pending cases.”
+Sec. 2301.24 R. €., provides:
+“The compensation of shorthand reporters for making transcripts and copies as provided in §2301.23 R. C., shall not be more than twenty five cents per folio of one hundred words, to be fixed by the judges of the court of common pleas. Such compensation shall be paid forthwith by the party for whose benefit a transcript is made. The compensation for transcripts made in criminal cases, by request of the prosecuting attorney or the defendant, and transcripts ordered by the court in either civil or criminal cases, and copies of decisions and charges furnished by direction of the court shall be paid from the county treasury, and taxed and collected as other costs. The clerk of the court of common pleas shall certify the amount of such transcripts or copies, which certificate shall be a sufficient voucher to the county auditor, who shall forthwith draw his warrants upon the county treasurer in favor of such shorthand reporters.”
+Sec. 2301.25 R. C., provides:
+“When ordered by the prosecuting attorney or the defendant in a criminal case, or when ordered by the court of common pleas for its own use, in either civil or criminal cases, the costs of transcript mentioned in §2301.23 R. C., shall be taxed as costs in the case, collected as other costs, and paid by the clerk of the court of common pleas, quarterly, into the county treasury, and credited to the general fund
+The Court may, under these provisions, have the power in a proper case and under proper circumstances, and in the exercise of sound discretion, make a bill of exceptions available to defendant where at least some justifiable doubt concerning defendant’s claims of error would be exemplified by such bill. That question we are not called upon to decide and no claim is made nor could it be substantiated on the record in this case that in refusing a bill of exceptions, the Court abused its discretion. Such provisions, however, do not require the Court in all events to order the Clerk to grant a request such as is here made by the defendant which he claims to be entitled to as a matter of law.
+These sections, dealing with the duties of official court reporters, must be read in pari materia with §2953.03 R. C., which provides:
+“On application by or on behalf of the accused, to an officer required to make a record or docket entries in a criminal case as provided in §2953.02 R. C., and upon tender of the proper fee, such officer shall make and deliver to such accused, or his counsel, a complete certified transcript of the record, omitting therefrom, if so requested, a bill of exceptions. If the prosecution was before a court or magistrate in which a complete record is not made, such officer shall so make and deliver a certified transcript of the judgment and all entries in the case, and shall forward to the clerk of the court in which review is sought, the original papers in the case.”
+Here it is clearly provided that the defendant must tender the proper fee for a complete certificate of the record (including a bill of exceptions, if desired).
+In the case of Poppa v. Wanamaker, 70 Abs 396, 128 N. E. 2nd 764 (Court of Appeals, Ninth District of Ohio), the Court, in considering a like request based on the same statutes, said on page 398 of its opinion:
+“A search of the statutes, with respect to bills of exceptions (§2945.65 et seq., R. C.), and appeals in criminal cases (§2953.01 et seq., R. C.), does not disclose any requirement that a defendant in a criminal case be furnished, free of charge, for the purposes of appeal or mere examination, a bill of exceptions.”
+The Court then on page 399 refers to the sections above quoted (§2301.23 et seq., R. C.) and follows the sections quoted by the following:
+“Is it possible to reconcile the apparent inconsistency between §2953.03 R. C., and the provisions found in the sections on the duty of the official shorthand reporters?
+“The Supreme Court of Ohio, in the case of Krieger’s Cleaners & Dyers, Inc., v. Benner, 123 Oh St 482, at p. 491, in speaking of the purpose of similar sections contained in the former General Code of Ohio, said:
+“ ‘These provisions illustrate the general intent of the Legislature that litigants shall be entitled to make up a true and accurate account of the proceedings at a trial, to be used upon review.’
+“It should also be noted that §2953.03 R. C., provides for the request to be made to an ‘officer required to make a record or docket entries in a criminal case.’ In this case no such request was made to the clerk of the Common Pleas Court.”
+We hold that the defendant is not entitled, as a matter of law, to have a bill of exceptions transcribed at the expense of the State for his use in an appeal from a judgment of guilty.
+The second claim of error is also unfounded. Each of the crimes charged in the several counts of the indictment are separate and distinct crimes as defined by statute, each carrying a separate penalty. Where one engages in a purposeful act or transaction, the doing of which violates all of the elements of several crimes, a defendant may be tried and if found guilty on each or more than one of the counts, may be punished separately for each of the crimes of which his guilt has been established as required by law. Each requires evidence of facts different from the other to make out the crime though they were each committed by a continuous series of acts. The defendant was charged with procuring the breaking and entering a building other than a dwelling with intent to steal something of value and then with the larceny of the safe taken from such building. The safe, containing money, was carried many miles from the place where it was stolen where it is alleged to have been broken open by the defendant and others with the use of burglar tools in the defendant’s possession. The fact that all of these crimes took place in a continuous series of acts does not deprive the state of the right to prosecute each crime separately.
+Whether a defendant must serve sentences imposed for the commission of separate crimes concurrently or consecutively is within the sound discretion of the trial judge.
+For the foregoing reasons, the judgment is affirmed:
+KOVACHY, PJ, HURD, J, concur.
