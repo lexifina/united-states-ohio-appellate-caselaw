@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+docket: "97CA2530"
+decided: "1998-06-16"
+citations: ["128 Ohio App. 3d 387"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephenson, P.J., and Kline, J., concur."]
+parties: ["In re WHITE."]
+source_url: "https://static.case.law/ohio-app-3d/128/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 22073
+cites_cases: ["113 Ohio App.3d 14", "117 Ohio App.3d 344", "16 Ohio App.2d 164", "1997 WL 215767", "20 OBR 230", "20 Ohio App.3d 185", "21 O.O.3d 238", "243 N.E.2d 111", "40 Ohio St.3d 58", "423 N.E.2d 1105", "45 O.O.2d 456", "485 N.E.2d 732", "531 N.E.2d 713", "620 N.E.2d 996", "648 N.E.2d 821", "67 Ohio St.2d 378", "680 N.E.2d 201", "690 N.E.2d 893", "72 Ohio St.3d 202", "86 Ohio App.3d 364"]
+---
+
+# In re White
+
+## Majority (Harsha, Judge.)
+
+Harsha, Judge.
+The New Boston Local Board of Education appeals the judgment of the Scioto County Juvenile Court ordering that Dasha White attend New Boston Village School tuition-free. The board assigns the following error:
+“The trial court erred in sustaining plaintiff/appellee’s motion for reconsideration and ordering, contrary to Ohio Revised Code Section 3313.64, that Dasha White be permitted to attend school tuition free.”
+Appellee, Lee Ann Ramsey, filed a motion to change temporary custody of her daughter, Dasha White, requesting that legal custody be given to Dasha’s aunt, Jacque Ramsey, “for school purposes only.” Jacque Ramsey was granted legal custody of Dasha on February 19, 1997; however, this order failed to address who would be responsible for the costs of Dasha’s education. The trial court corrected this oversight on February 26,1997, with an entry that ordered Dasha’s parents to be “liable for tuition * * * beginning with enrollment of said child in the New Boston Village School District in August, 1996.” The entry did not indicate whether or not the parents’ liability for tuition terminated on the date of the change of custody. Rather than appealing this order, appellee filed a motion for reconsideration, contending that the court made factually incorrect findings concerning the residency of the parties. The court eventually conducted a hearing on that motion; however, the record does not contain a transcript of those proceedings.
+After the hearing on the motion, the parties filed a stipulation with the trial court that provided:
+“1. Dasha White has resided with her aunt Jacque Ramsey [in] * * * New Boston from August 1996 to present.
+“2. Dasha Whites’ [sic ] mother Lee Ann Ramsey has resided as follows:
+“a. (August 1996 to September 15, 1996) * * * New Boston, Ohio.
+“b. (September 15,1996 to October 1,1996) * * * Sciotoville, Ohio.
+“c. (October 1,1996 to March 15, 1997) South Portsmouth, Kentucky.
+“d. (March 15,1997 to present) * * * Wheelersburg, Ohio.”
+Based upon the hearing and the stipulation of facts, the trial court vacated its previous entry and ordered that Dasha “be permitted to attend schools tuition-free.”
+Whether Dasha may attend school in New Boston on a tuition-free basis presents us with a question of the interpretation of several statutes, ie., a question of law. Appellate courts apply a de novo standard of review to questions of law. See, e.g., Hollon v. Hollon (1996), 117 Ohio App.3d 344, 348, 690 N.E.2d 893, 895-896; Campbell v. Colley (1996), 113 Ohio App.3d 14, 18, 680 N.E.2d 201, 203-204; Ford v. Tandy Transp., Inc. (1993), 86 Ohio App.3d 364, 375, 620 N.E.2d 996, 1002-1003; Hurst v. Baker (Apr. 18, 1997), Gallia App. No. 96CA07, unreported, 1997 WL 215767.
+The general rule of admission and tuition liability is found in R.C. 3313.64(B)(1) and (C). Under those provisions, a child of at least five but under twenty-two must be admitted tuition-free in the district where the child’s parent resides. R.C. 3313.64 does not define residency, and no minimum period of residency is required to trigger the right to a free education. In re Laricchiuta (1968), 16 Ohio App.2d 164, 45 O.O.2d 456, 243 N.E.2d 111. Indications of residency include being physically present in a household for significant periods and activities such as eating, sleeping, relaxing, and receiving mail. See Baldwin’s Ohio School Law (1997-1998 Ed.) T23.02(B). It is also apparent that a child’s right to attend school tuition-free under R.C. 3313.64(B)(1) terminates as soon as the parent is no longer a resident of the school district. However, under R.C. 3313.64(E), a school board may enroll a child tuition-free for a period not to exceed sixty days upon a sworn statement of a resident of the district-that the resident has initiated a proceeding for custody of the child.
+A different rule applies when a child is in the legal custody of an agency or a person other than the parent. In the legal custody situation, R.C. 3313.64(B)(2) provides that the child must be admitted to the district where the child resides. An informal agreement between family or relatives does' not comply with R.C. 3313.64(B)(2). In order to obtain legal custody, court intervention is necessary. State ex rel. Henry v. Madison Plains Local Bd. of Edn. (1984), 20 Ohio App.3d 185, 20 OBR 230, 485 N.E.2d 732. Where legal custody has been obtained, R.C. 3313.64(C)(2) provides a mechanism for determining which district is responsible for the payment of tuition.
+Finally, R.C. 3327.06(B) and (C) provide that a board may admit a student who is not entitled to free tuition or whose tuition is not the responsibility of another district. In that case, tuition is to be paid by the student’s parents or guardian. R.C. 3317.08 also permits a board to admit a student whose admission is not required, if tuition is paid. Failure to collect the tuition renders the student’s attendance “unauthorized.” An unauthorized student’s attendance cannot be used in calculating the district’s average daily membership for foundation payment purposes. R.C. 3317.03(F). See Baldwin’s Ohio School Law, supra, T23.02(A).
+■ Appellant argues that the court’s order allowing Dasha to attend school tuition-free is contrary to R.C. 3313.64, which provides:
+“(B) Except as otherwise provided in section 3321.01 of the Revised Code for admittance to kindergarten and first grade, a child who is at least five but under twenty-two years of age and any handicapped preschool child shall be admitted to school as provided in this division.
+“(1) A child shall be admitted to the schools of the school district in which the child’s parent resides.
+“(2) A child who does not reside in the district where the child’s parent resides shall be admitted to the schools of the district in which the child resides if any of the following applies:
+“(a) The child is in the legal or permanent custody of a government agency or a person other than the child’s natural or adoptive parent.
+“(b) The child resides in a home.
+“(c) The child requires special education.
+“(3) A child who is not entitled' under division (B)(2) of this section to be admitted to the schools of the district where the child resides and who is residing with a resident of this state with whom the child has been placed for adoption shall be admitted to the schools of the district where the child resides unless either of the following applies:
+“(a) The placement for adoption has been terminated.
+“(b) Another school district is required to admit the child under division (B)(1) of this section.
+«* * *
+“(C) A district shall not charge tuition for children admitted under division (B)(1) or (3) of this section. If the district admits a child under division (B)(2) of this section, tuition shall be paid to the district that admits the child as follows:
+«He ‡ ^
+“(2) Except as otherwise provided in division(C)(2)(d) of this section, if the child is in the permanent or legal custody of a government agency or person other than the child’s parent, tuition shall be paid by:
+“(a) The district in which the child’s parent resided at the time the court removed the child from home or at the time the court vested legal or permanent custody of the child in the person or government agency, whichever occurred first; or
+“(b) If the parent’s residence at the time the court removed the child from home or placed the child in the legal or permanent custody of the person or government agency is unknown, tuition shall be paid by the district in which the child resided at the time the child was removed from home or placed in legal or permanent custody, whichever occurred first; or
+“(c) If a school district cannot be established under division (C)(2)(a) or (b) of this section, tuition shall be paid by the district determined as required by section 2151.357 of the Revised Code by the court at the time it vests custody of the child in the person or government agency.” (Emphasis added.)
+There are two situations where a child is to be admitted to a school without tuition. See R.C. 3313.64(B)(1) and (3). Those do not apply here. Subsection (B)(1) does not apply because Dasha’s “parent,” Lee Ann Ramsey, does not reside in New Boston. While she may arguably have resided in New Boston when school started in August or September 1996, she moved almost immediately. As noted above, a child’s right to free tuition under R.C. 3313.64(B)(1) normally terminates when the parent’s residency ends. Subsection (B)(3) does not apply because Dasha has not been placed for adoption with Jacque Ramsey.
+For that period of time that constitutes a “permissive admission” under R.C. 3317.08 and/or R.C. 3327.06(B) et seq., Dasha’s mother or guardian should pay tuition. After February 19, 1997, the date Jacque Ramsey obtained legal custody, R.C. 3313.64(B)(2) and (C) provide the means for determining the payment of tuition.
+Thus, the trial court erred in ordering that Dasha attend New Boston Schools tuition-free, and we reverse that portion of the judgment of the trial court. We remand this case to the trial court for a determination of how the costs of Dasha’s education are to be paid in accordance with R.C. 3313.64, R.C. 3317.08, and R.C. 3327.06(B) et seq.
+Judgment reversed and cause remanded.
+Stephenson, P.J., and Kline, J., concur.
+. The Rules of Civil Procedure do not provide for the filing of a motion to reconsider a final appealable order. See Pitts v. Dept. of Transp. (1981), 67 Ohio St.2d 378, 21 O.O.3d 238, 423 N.E.2d 1105, paragraph one of the syllabus. Because such motions are considered a nullity, State ex rel. Pendell v. Adams Cty. Bd. of Elections (1988), 40 Ohio St.3d 58, 60, 531 N.E.2d 713, 714-715, we could reverse on that basis alone. However since appellant did not raise this issue, we proceed to address the merits.
+. Appellant refers to a transcript of this hearing in its brief, but no transcript appears in the record. While appellant filed a “request for a transcript” and designated the record on appeal to contain a transcript of the hearing, it failed to file either a praecipe instructing the clerk to serve the court reporter with the request for a transcript or to order a transcript directly from the court reporter. See App.R. 9(B). Appellant was served with a notice of transmission of the record that clearly stated that the record did not contain a transcript. Thus, we are forced to consider this appeal without the transcript of the hearing.
+. "Parent” is defined in R.C. 3313.64(A)(1) as "either parent, unless the parents are separated or divorced or their marriage has been dissolved or annulled, in which case 'parent’ means the parent who is the residential parent and legal custodian of the child. When a child is in the legal custody of a government agency or a person other than the child’s natural or adoptive parent, 'parent’ means the parent with residual parental rights, privileges, and responsibilities. When a child is in the permanent custody of a government agency or a person other than the child’s natural or adoptive parent, ‘parent’ means the parent who was divested of parental rights and responsibilities for the care of the child and the right to have the child live with the parent and be the legal custodian of the child and all residual parental rights, privileges, and responsibilities.” (Emphasis added.)
