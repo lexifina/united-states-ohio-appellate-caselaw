@@ -1,0 +1,27 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1928-05-07"
+citations: ["6 Ohio Law Abs. 398"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Pollock and Roberts, JJ., concur.)"]
+parties: ["APEX COAL CO. v. WININGS."]
+source_url: "https://static.case.law/ohio-law-abs/6/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8765414
+---
+
+# Apex Coal Co. v. Winings
+
+## Majority (FARE, J.)
+
+FULL TEXT.
+FARE, J.
+This cause is here on error. The action below was to recover against the Coal Company upon an account. The issues being joined in the court below, the cause came on to, be heard and. resulted in a judgment by default. Later, a motion was made to vacate that judgment, upon the ground that it was entered without jurisdiction investing in the court below.
+The Apex Coal Company is a corporation having its offices in the City of Cleveland, and when the petition was filed below to recover upon this account, service was attempted to be made by mail, under the provisions of Sec. 11297-1 GC. They proceeded in accordance with the provisions of that section of the Statute and after service had been made in compliance therewith, and a default judgment taken, then at a subsequent term, a motion to vacate the judgment for want of jurisdiction was made with the result before stated.
+There is but one issue in this case, and that is whether or not service made under the provisions of the section _ of the General Code just mentioned, is sufficient to invest the court with authority to- enter a judgment by default for the amount claimed to be due. The section of the Code referred to reads as follows:
+“SERVICE OF WRITS AND PROCESS BY REGISTERED MAIL: RETURN OF OFFICER. In addition to the methods of service and return of writs as provided by law, the judge or judges of the Court of Common Pleas and probate judge in each of the counties of the state or of the Municipal Court of any city may, by rule, provide for the service or writs or process by mail, registered or otherwise, and for the service of persons summoned for jury duty by mail, registered or otherwise. When provisions for service by mail, registered or otherwise, are so made, a return of the sheriff or other officer or person charged by law with the duty of serving said writ or process, that a true copy of the writ or process was deposited in the mail, registered or otherwise, shall be proof of residence service at the address on the envelope containing such writ or process; provided that such residence be the correct residence address of the party to be served and that such envelope be not returned by the postal authorities as undelivered. In the case of a corporation, domestic or foreign, or a partnership, or an insurance company a return of the sheriff or other officer or person charged by law with the duty of serving said writ or process, that a true copy of the writ or process was deposited in the mail, enclosed in an envelope, registered or otherwise, addressed to the corporation or partnership, or insurance company at its office or place where it regularly receives mail, shall be proof of service, provided that such address be the office of the corporation, or partnership, or insurance company, or the place where the corporation, or partnership, or insurance company regularly receives mail and that such envelope be not returned by the postal authorities as undelivered; and provided further that, in any case any person requesting service by sheriff or bailiff, shall be entitled thereto.”
+It is probably not disputed but that the provisions of this section were properly carried out in the service attempted to be made in this case. It is contended, however, in behalf of the plaintiff in error that this is one of the subdivisions of “Constructive Service” in the General Code, in which service by publication is provided for, and it is insisted for that reason that there was no authority therefore, to render a default judgment. However, it will be observed that there is no denial but that there is a rule of the Court of Common Pleas providing for such service. It does not appear upon the record that there is such rule, and which might have been advisable in this case; however, there is the presumption that public officials act regularly, and conform to the requirements of the law. This statute is general in terms; it is not confined to one specific thing — it is a statute specially designed for a manner of service of summons, which as a rule, has been adopted by the court and which may be a lawful substitute for the regular legal service, and there is no virtue in the contention that it is a kind of constructive service, but that it is a service fully recognized by the statute as valid.
+There is no dispute, and the fact is, that the record discloses that a summons was mailed to the home or principal office of the Coal Company and the return of the sheriff so shows, and the statute determines the question here involved by its own terms. The court below overruled the motion to vacate the judgment upon the theory that the court was not clothed with authority to enter a default judgment under the circumstances, and the conclusion is that the motion was properly overruled, and therefore, the judgment of the court below is affirmed.
+(Pollock and Roberts, JJ., concur.)
