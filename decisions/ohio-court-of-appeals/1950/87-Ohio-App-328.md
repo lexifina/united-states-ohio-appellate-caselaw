@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4373"
+decided: "1950-02-06"
+citations: ["87 Ohio App. 328", "57 Ohio Law Abs. 502"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, P. J., and Hornbeck, J., concur."]
+parties: ["Shaman, Appellant, v. Roberts et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/87/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399695
+cites_cases: ["125 Oh St 359", "125 Ohio St., 359", "16 Ohio Law Abs., 300", "181 N. E. 542", "181 N. E., 542", "186 N. E. 512", "186 N. E., 512", "34 Oh St 204", "34 Ohio St., 204", "44 Ohio App., 523", "47 N. E. 541", "47 N. E., 541", "50 N. E. (2d) 384", "56 Oh St 450", "56 Ohio St., 450", "61 N. E. (2d) 615", "64 N. E. (2d) 126", "71 Ohio App., 440", "75 Ohio App., 220", "78 Ohio App., 60"]
+---
+
+# Shaman v. Roberts
+
+## Majority (Wiseman, J.)
+
+Wiseman, J.
+This is an appeal on questions of law from a judgment of the Municipal Court of Columbus.
+The plaintiff’s assignor, The Ike Topper Structural Steel Company, took a default judgment on a liquidated claim against Ansel Lorimer, hereinafter called defendant, on November 21,1940. On June 4,1949, defendant filed his petition to set aside the judgment on the ground that he had not been served with process. The trial court set aside the default judgment and from that ruling this appeal is taken.
+The plaintiff-appellant, Reva Shaman, the assignee of The Ike Topper Structural Steel Company, assigns two grounds of error:
+1. The trial court erred in overruling plaintiff’s demurrer to defendant’s petition to vacate the judgment.
+2. The order of the trial court in vacating the judgment was contrary to law, was not sustained by sufficient evidence, and was contrary to the manifest weight thereof.
+To the defendant’s petition to vacate the plaintiff filed a demurrer on the ground that the petition was not filed within three years after the entry of the judgment. Plaintiff contended that the defendant’s petition to vacate was grounded on an irregularity as provided in Section 11631, General Code, and that under the provisions of Section 11640, General Code, proceedings for the vacation of a judgment under Seetion 1Í631, Genera] Code, must be commenced within three years after the date of the judgment. The plaintiff cites in support of this proposition Corry v. Campbell, 34 Ohio St., 204; Baylor v. Killinger, 44 Ohio App., 523, 186 N. E., 512; Pierce v. Egbert, 16 Ohio Law Abs., 300. We are not required to construe Section 11640 and to determine whether the petition to vacate was required to be filed, within three years after the date of the judgment or, as is contended by the defendant, within three years after the defendant has notice of the judgment. The petition to vacate alleges facts which would render the judgment void and not voidable. Sections 11631 to 11643, inclusive, General Code, apply to voidable judgments only and have no application to void judgments. Snyder v. Clough, 71 Ohio App., 440, 50 N. E. (2d), 384. See, also, O'Dell v. O’Dell, 78 Ohio App., 60, 64 N. E. (2d), 126. The petition to vacate alleges that ‘ ‘ said judgment was obtained without any service of process upon him.” Where there is no service of process the court is without jurisdiction to render judgment. Any judgment which is. rendered, where no process has been served, is void ab initio. Hayes v. Kentucky Joint Stock Land Bank of Lexington, 125 Ohio St., 359, 181 N. E., 542; Kingsborough v. Tousley, 56 Ohio St., 450, 47 N. E., 541: Levy v. Foley, 75 Ohio App., 220, 61 N. E. (2d), 615; 49 Corpus Juris Secundum, 55, 480; 23 Ohio Jurisprudence, 836. The allegation in the petition is good against demurrer and Sections 11631 to 11643, inclusive, Genera] Code, have no application. The demurrer was properly overruled.
+The record shows that the summons was served on the defendant by mail as provided in Section 11297-1, General Code. It is conceded that the Municipal Court of Columbus adopted a rule authorizing service by mail and that this rule was in full force and effect at the time service was made. The record shows that a true copy of the summons was deposited in the mail and addressed to the defendant at his correct address, and that the envelope was not returned by the postal authorities as undelivered. The pertinent facts in this case are brought before this court in the form of a stipulation, which contains the following statement:
+“* * * the defendant, Ansel Lorimer, testified as follows: ‘That prior to and during the month of September, 1940, he resided with his family at No. 28 Glencoe Road, Columbus, Ohio, and that he had resided at said address continuously up to the date of his testimony; that he had never received any summons or notice of any hearing on the original petition filed herein; that it was the practice of the family to place all mail addressed to defendant Lonmer %n a, certain place in the home; that no summons or notice was ever in such place; that he had never seen any mail containing such summons or notice and that the first notice he received of any proceeding in this case was when he was served with an order to- show cause why the said judgment should not be revived. ’ ” (Emphasis ours.)
+The facts of record on their face show that service was made in conformity with the provisions of Section 11297-1, General Code. These facts establish a presumption of valid' service, but this presumption is rebuttable. It is conceded that it is not a prerequisite to valid service that the defendant receive the envelope containing the summons. However, the evidence adduced by the defendant must be given weight in determining whether the presumption in favor of valid service has been rebutted. The defendant testified that it was the practice to place mail addressed to him in a certain place in the home, and that the envelope containing the summons was never at that certain place.
+The trial court was the sole judge of the credibility of the witness and the weight to be attached to his testimony. It was within the province of the trial court to draw any reasonable inference from the testimony given. A reasonable inference may be drawn that, since the envelope was not deposited in the customary-place in the home, it was not delivered to the defendant’s residence. The trial court found that the evidence presented by the defendant rebutted the presumption in favor of valid service. We are not disposed to disturb that finding since it is supported by the evidence.
+The judgment of the trial court in sustaining the petition to vacate the judgment is not contrary to-law, was sustained by sufficient evidence and is not contrary to the manifest weight of the evidence. The judgment is, therefore, affirmed.
+Judgment affirmed.
+Miller, P. J., and Hornbeck, J., concur.
