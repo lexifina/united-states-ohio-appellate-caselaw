@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1918-06-21"
+citations: ["29 Ohio C.A. 539"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, E. II., and Jones, Oliver B., JJ., concur."]
+parties: ["Diehl v. The Cincinnati Traction Co."]
+source_url: "https://static.case.law/ohio-ca/29/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1609433
+cites_cases: ["110 Tenn., 232", "74 Ohio St., 225"]
+---
+
+# Diehl v. Cincinnati Traction Co.
+
+## Majority (Gorman, J.)
+
+Gorman, J.
+Error to the Court of Appeals of Hamilton County.
+In the common pleas court plaintiff in error, George S. Diehl, sought to recover from defendant in error damages for an alleged wrongful ejectment from one of the East End cars of the defendant in error. At the close of the plaintiff’s evidence, the court, upon motion to instruct a' verdict in favor of the defendant, granted the same, and judgment was entered in favor of the defendant upon the instructed verdict. This error proceeding is to reverse that judgment.
+It appears in the record that on the morning of the 28th of June, 1912, plaintiff in error left his home on Hosea avenue about eight o’clock and boarded a south-bound Vine and Clifton car at the comer of Jefferson and Brookline avenues. He paid his cash fare of five cents and asked the conductor for a transfer to an East End car • going east. The conductor received his money and gave him a transfer slip. The slip was punched for the East End car going east, but the punching was marked fifteen minutes later than the time at which it .should have been properly punched. Plaintiff in error left the Vine and Clifton car at Fifth and Vine, hurried down Vine street to Fourth, one square boarded an East End car going east, and tendered his transfer to the conductor, who refused to receive the same because, as he stated, “the time of the punching was too late.” He ejected plaintiff in' error from the car upon his refusal to pay an additional fare, and put plaintiff in error as well as his suitcase or bag out upon the street. Plaintiff in error did not know that the transfer slip was punched at the wrong time, nor was there any evidence tending to show that he was in any wise negligent in accepting the transfer and in leaving the Vine and Clifton car and boarding the East End car, unless it may be that he was negligent in failing to notice .the time punched on the transfer slip.
+We are of the opinion that this was a proper case to submit to the jury on the question of whether or not the plaintiff in error was negligent in not discovering that the transfer slip had the wrong time punched on it.
+The rule, in a ease where the facts are similar to those above set out is stated in 1 Nellis on Street Railways (2 Ed.), Section 267. Among other tilings in this section it is stated:
+“A rule with respect to the punching of transfers is reasonable', if due precaution be taken to insure its observance and application in such a manner as to. protect a passenger from the errors or mistakes of the conductor. If the passenger, by reason of the inattention of the company’s servants to its own rules regarding transfers, or to statutory requirement in that regard, is ejected, an action for the breach of the contract of transportation is not his only remedy. If it were, the carrier might be encouraged to employ negligent or incompetent conductors, to the serious annoyance and inconvenience of the traveling public, and passengers, would not be afforded reasonable protection or security in their rights. If a passenger entered the car believing his transfer was valid, and was not negligent in failing to discover that it had been punched erroneously, he was there lawfully, and is entitled to maintain an action for the wrongful ejection, and to receive compensating damages for the loss of time, fare on another car, and injury to his feelings because of the indignities suffered by him and his wrongful ejection from the ear.”
+This doctrine appears to be supported by the case of Cleveland City Ry. Co. v. Conner, 74 Ohio St., 225, where it is stated in the first paragraph of the syllabus:
+“A passenger on a street railway, who has paid fare and is entitled to ride over another line belonging to the same company, and who, having asked for a transfer ticket over such other line, is given, by mistake of the conductor, a transfer which is not good over such other line, may nevertheless, if he has exercised such care about the receiving and making use of the transfer ticket as persons of ordinary prudence are accustomed to exercise under the same or similar circumstances, lawfully insist upon being carried over such other line without further payment of fare; and if such passenger, without fault on his part, is ejected from a car for refusing to pay fare, other than by such transfer ticket, he may recover damages for the tort and can not be restricted to damages for breach of the contract to carry him.”
+A passenger upon paying his fare and receiving a transfer which he has requested, and which transfer the street railway company is obliged to give under the law and the provisions of its charter, has a right to assume that the servant of the street railway company will perform' his duty in giving him a proper transfer properly punched as to time. 1 Nellis on Street Railways (2 Ed.), Section 273.
+In the ease of Eddy v. Syracuse Rapid Transit Ry. Co., 50 App. Div. (N. Y.), 109, it was held:
+“Where a passenger upon a street car receives from the conductor a transfer containing the following condition: ‘Good only at transfer junction — on first connecting car, after time canceled on the line punched, subject to the Rules of this Company,’ and, without knowledge that the time at which the transfer had been isued was erroneously punched, and without being negligent in failing to discover that fact, boards the first car on which the transfer would have entitled him to ride, if it had been properly punched, his ejection from such car because of the conductor’s refusal to honor the transfer, is wrongful and entitles him to recover from the railroad company compensatory damages for the indignity, humiliation and injury to his feelings caused by such wrongful ejection and the remarks of the conductor attending it.”
+In the case of Memphis St. Ry. Co. v. Graves, 110 Tenn., 232, it is held:
+“It is negligence on the part of a street car company for a conductor to give a passenger a wrong transfer ticket, and the passenger can accept the transfer ticket without question, and his acceptance of such ticket will not constitute nesdisrence on his part. The passenger -will not be required to scrutinize the "ticket, but he may assume that the conductor has given him the proper ticket; and if the conductor make a mistake, it is the fault of the company, for which it is liable. ’ ’
+It is further held in the second paragraph of the syllabus of this case:
+“When a passenger on a street car pays his fare, and is, by the conductor, thereon, given a transfer ticket, which the conductor on another car, to which the passenger properly changes, refuses to accept, and the passenger is forcibly expelled from the car, he can recover from the street car company all approximately resulting damages, including those for humiliation and mortification, if such were in fact sustained.’-’
+The amount of damages which the plaintiff in error might be entitled to recover would depend upon the circumstances of the case, but that question is not presented by the record in this case, because the jury had no opportunity to pass upon the question of damages, but were precluded from considering the case by the ruling of the trial court in arresting the case from their consideration.
+The judgment of the court of common pleas will be reversed and a new trial granted.
+Judgment reversed, and new trial granted.
+Jones, E. II., and Jones, Oliver B., JJ., concur.
+For second opinion in this case, see ante, page 369.
