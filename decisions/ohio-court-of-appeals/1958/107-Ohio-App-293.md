@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "8479"
+decided: "1958-10-27"
+citations: ["107 Ohio App. 293"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hildebrant, P. J., and Matthews, J., concur."]
+parties: ["City of Cincinnati, Appellant, v. Smallwood et al.; Bates, Appellee."]
+source_url: "https://static.case.law/ohio-app/107/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1434438
+cites_cases: ["106 Ohio App., 496", "168 Ohio St., 581", "19 C. C., 744", "26 Ohio St., 109", "65 N. E., 1129", "66 Ohio St., 687"]
+---
+
+# City of Cincinnati v. Smallwood
+
+## Majority (Long, J.,)
+
+Long, J.,
+This case comes from the Court of Common Pleas of Hamilton County on appeal to this court on questions of law.
+The appellant claims error on the part of the trial court in ordering the city of Cincinnati to pay Mary C. Hughes Bates, owner of Parcel R-63, in the appropriation proceeding, the sum of $1,250 as attorney’s fee.
+There is little dispute as to the facts. The transcript shows that the suit ivas filed in the trial court to appropriate a parcel of land owned by Mrs. Bates, in furtherance of the city’s urban redevelopment plans. Upon the hearing of the city’s application to assess compensation, the jury awarded appellee, Bates, the sum of $10,500 on February 15, 1957; and on the very next day judgment was entered on this verdict. In succession, the city appealed unsuccessfully to this court for a new trial and then to the Supreme Court of Ohio (motion to certify the record was overruled, October 24, 1957). Thereupon, the city paid to the clerk of courts, on November 1, 1957, the amount of the judgment, and the attorneys for Mrs. Bates procured an entry of distribution of those proceeds from the trial court on November 27,1957. It is admitted by counsel, and as appears of record in the clerk of court’s office, that on the same day Mrs. Bates, through her attorneys, recovered her full distributive share of the proceeds, amounting to $10,251.89. The city again appealed this order of the trial court, which contained, among other things, a judgment against the city for $420, representing interest on the judgment which was entered on February 26, 1957. This court, on appeal from that judgment, modified that part of the judgment awarding the interest, but affirmed the balance of the judgment (see 106 Ohio App., 496).
+On April 14, 1958, Mrs. Bates moved the trial court for an order retaxing the costs including attorney’s fees and expenses of the trial. The trial court allowed attorney’s fees in the amount of $1,250, which the court ordered the city to pay. It is from this judgment against it, that the city now appeals to this court.
+The city contends that, because the property owner has made application and drawn from the clerk of courts the amount awarded by the jury, upon which judgment was taken, acceptance thereof constitutes a waiver of strict compliance with the statutes and amounts to a ratification of the proceedings; and further, that when the property owner accepts the amount of the judgment from the clerk of courts, she precludes herself from receiving an allowance of attorney’s fees, costs, and expenses of the suit.
+The appellee contends that this court, in its previous opinion in this same case, has already decided the point involved in this appeal, in favor of the appellee. We call attention to the fact that in the previous appeal we had before us the right of the trial court to allow interest on a judgment in an appropriation case; on this point, we decided against the appellee. In this appeal, the question with which we are concerned is: whether the acceptance of the amount of the judgment from the clerk, after the expiration of the six months, as provided in Section 719.21, Revised Code, constitutes a waiver by the property owner of strict compliance with the statutes by the city, and does such conduct on the part of the owner operate as a ratification of the appropriation proceedings?
+Reading the sections of the Revised Code which we think are definitive of the obligations of the city, we find Section 719.21, in part, providing as follows: “When a municipal corporation makes an appropriation of property, and fails to pay for or take possession of such property within six months after the assessment of compensation is made, its right to make such appropriation on the terms of the assessment so made shall cease * * There is no question that after the six months provided by the statute, the city would have no right to proceed further with the appropriation, without the consent of the property owner. But what happens if the property owner elects to accept the award of the jury and is paid the money by the clerk of courts? As stated previously, and we repeat, this question was not before us on the previous appeal. The rule, as we understand it, is that the acceptance of the assessed compensation, even after the expiration of the six months, constitutes a waiver and ratification by the property owner. According to the authorities which we have been able to find, the above rule is approved in Cincinnati v. Hosea, Trustee, 19 C. C., 744, 10 C. D., 618, which case was affirmed, Hosea, Trustee, v. Cincinnati, 66 Ohio St., 687, 65 N. E., 1129. In the case of Ryan v. Hoffman, Aud., 26 Ohio St., 109, is found the very point for decision in this appeal, and in the opinion this same rule was adopted.
+In 19 Ohio Jurisprudence (2d), 687, “Eminent Domain,” Section 267, we read as follows:
+“By statute, when a municipal corporation makes an appropriation of property, and fails to pay for or take possession of such property within six months after the assessment of compensation is made, its right to make such appropriation on the terms of the assessment so made shall cease, and the land so appropriated shall be relieved from all encumbrance on account of any of the proceedings in such case, and the judgment or order of the court directing such assessment to be paid shall be void, except as to the costs adjudged against the municipal corporation.
+“* * * Where the money assessed as compensation for lands appropriated is deposited with the clerk more than six months after the date of the judgment, the property owners are not bound to accept it. But an acceptance of the money after the expiration of six months from the date of the assessment, and delivery of possession of the land, constitute a waiver of a strict compliance with the statute and operate as a ratification of the proceedings. * # * ”
+For the above reasons, the order of the trial court sustaining the appellee’s motion to retax costs is reversed, and the cause is remanded to the Common Pleas Court with instructions to overrule the motion.
+Judgment reversed.
+Hildebrant, P. J., and Matthews, J., concur.
