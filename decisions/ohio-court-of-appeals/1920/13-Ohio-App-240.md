@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1920-04-07"
+citations: ["13 Ohio App. 240"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton and Cushing, JJ., concur.", "Judges of the First Appellate District, sitting in place of Judges Allread, Ferneding and Kunicle, of the Second Appellate District."]
+parties: ["Sturgell et al. v. The Grand Union Tea Co."]
+source_url: "https://static.case.law/ohio-app/13/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1842663
+cites_cases: ["107 Fed. Rep., 227", "146 Wis., 573", "166 U. S., 571", "176 Ind., 328", "18 Idaho, 590", "31 Okla., 614", "56 Okla., 636", "64 Ohio St., 548", "66 N. Y., 55", "73 Md., 135", "76 Minn., 387"]
+---
+
+# Sturgell v. Grand Union Tea Co.
+
+## Majority (Shohl, P. J.)
+
+Shohl, P. J.
+The Grand Union Tea Company entered into an agreement with Chris Sturgell whereby it agreed to consign certain goods, chiefly coffee, tea, spices and groceries, which he was to sell for it on commission. To guarantee his faithful performance of the contract he gave a bond in the sum of $500, which Gabelman, Myers and Douglas executed as sureties. It was conditioned upon the faithful performance by him of the agreement.
+After the termination of his employment in February, 1915, an action was brought in the municipal court of Columbus. It was taken to the court of common pleas of Franklin county on appeal.
+The petition in the court of common pleas may be said to have a double aspect. It alleges the bond and the breach thereof, and further states that “on or about the 13th day of February, and prior to the termination of said contract, February 15th, an account was stated between said plaintiff and said defendant Sturgell of their mutual dealings and transactions under said’ contract, on which a balance of $509.45 was found, and is, due to plaintiff from said defendant Sturgell from the proceeds of the sales made by said Sturgell of goods consigned,” etc.
+It will be seen that the petition charges a breach of the bond against all of the defendants and alleges an account stated as between plaintiff and defendant Sturgell. The defendants Myers and Douglas denied the allegations of the petition, except the execution of the bond.
+Defendant Sturgell filed a separate answer, admitting the making of the contract, execution of the bond, and denied the other allegations. For a second defense and cross-petition he alleges a breach of the agreement on the part of plaintiff and prays for a judgment against it.
+Before the case came to trial Gabelman died, but the action was not revived as against him.
+The case was tried to a jury, but at the conclusion of all the evidence all parties moved for an instructed verdict and consented to the submission of the case to the court. The court rendered judgment in favor of the plaintiff against all of the defendants for the full amount of the bond with interest.
+We are of opinion that the judgment against Sturgell was valid and must stand. At the trial it appeared that statements were sent to him by the plaintiff showing the total amount of his net indebtedness, with a statement as to the net amount of his last shipment, with credit for the amount of his last remittance, showing his indebtedness to the corporation as per its ledger account. He made written certification that the above statement was correct. That was the practice in the dealings between the parties in the course of his employment. It constituted an agreement between them that the items of the account, representing the transactions and the balance struck, were correct, and that there was due on the account the amount therein specified. It became an account stated and is conclusive upon the parties unless impeached for fraud or mistake. 1 Corpus Juris, 678, 705, 709; Deering & Co. v. Miller & Wikel, 9 C. C., N. S., 392, 64 Ohio St., 548, and Cincinnati v. Cincinnati Street Ry. Co., 6 N. P., 140.
+No fraud or mistake was pleaded by him, and, therefore, so far as Sturgell was concerned in the claim on the account stated, he cannot complain of the rejection by the court of proof offered to dispute the amount of the account stated.
+The other parties to the cause stand in a different position. They were not parties to the agreement, whereby the company and Sturgell stated and agreed to the account. Their liability could be based solely upon the bond, as they had no other connection with the company, nor with Sturgell. He was not their agent, and so far as they yrere concerned he had no authority to consent on their behalf to any extension or modification of their obligation,, which was fixed solely by their written contract. They are to pay only in case of a breach of the bond. Unless the plaintiff’ established that Sturgell did not perform his obligation, which they had undertaken to guarantee, they were not liable. Their liability is for his acts, not his language. (Cook County Liquor Co. v. Brown et al., 31 Okla., 614.) No authority has been cited, nor has any been found, which warrants us in holding that the stating of an account between the obligor and the obligee of a bond is conclusive upon the sureties. His written statement constituted an admission which was receivable in evidence to establish as against the sureties that the principal had made default of his obligation. 2 Wigmore on Evidence, Section 1077; Jones on Evidence (2 ed.), Section 238; 16 Cyc., 1034; 32 Cyc., 137; United American Fire Ins. Co. v. American Bonding Co., 146 Wis., 573, 579; Capital Fire Ins. Co. v. Watson, 76 Minn., 387; Dietrich v. Dr. Koch Vegetable Tea Co., 56 Okla., 636; Federal Union Surety Co. v. Indiana Lumber & Mfg. Co., 176 Ind., 328, 333, and Sanders v. Keller, 18 Idaho, 590.
+But, while the evidence was admissible, it is not conclusive. 1 Elliott on Evidence, Section 253; Bissell v. Saxton, 66 N. Y., 55, and McShane et al. v. Howard Bank, 73 Md., 135.
+The sureties are liable only for the actual conduct of the principal, and not for whatever he might say he had done or omitted. (1 Greenleaf on Evidence [16 ed.], Section 187.) The court treated the account stated as conclusive upon all the parties defendant, and rejected evidence offered by them tending to show that the company owed money to Sturgell and that the admission by him of the amount due, as shown by the account stated, was correct.
+As we have seen from the foregoing an account stated consists of mutual admissions, and an express or implied promise to pay the balance due. To the extent that it constitutes a promise or agreement, the sureties were not parties to it. So far as it is an admission, they are entitled to refute it. They are not seeking to avoid the agreement made when Sturgell and the company stated their account. They are only seeking to disprove a breach of the bond, and their evidence to disprove the net amount due may be given under a general denial, like any other evidence tending to disprove a breach of their contract. It was error to exclude the evidence offered by Myers -and Douglas. See United States v. Rundle, 107 Fed. Rep., 227, and Moses v. United States 166 U. S., 571.
+As to the plaintiffs in error, other than Sturgell, the judgment will be reversed and a new trial ordered.
+Judgment accordingly.
+Hamilton and Cushing, JJ., concur.
+Judges of the First Appellate District, sitting in place of Judges Allread, Ferneding and Kunicle, of the Second Appellate District.
