@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9983"
+decided: "1929-06-24"
+citations: ["7 Ohio Law Abs. 675"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vickery, PJ, and Levine, J, concur."]
+parties: ["HOLTZ v LOVEJOY et"]
+source_url: "https://static.case.law/ohio-law-abs/7/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632233
+cites_cases: ["29 O. C. A. 63", "65 OS. 86"]
+---
+
+# Holtz v. Lovejoy
+
+## Majority (SULLIVAN, J.)
+
+SULLIVAN, J.
+It is important to note that the description of the property in detail with the memorandum in writing as a basis, was sent to Lovejoy in addition to the description and the deed which fully appears by plaintiff’s exhibit 9 in the record. Thus we reach the legal status in the case that there was no dispute as to the identity of the property by either party, as the description furnished by the abstract company in the deed and the exhibit referred to, so indicated. Now it is well settled law in Ohio that a memorandum in writing which identifies the property is sufficient upon which to base a suit for specific performance of a contract and it is equally well settled that if the memorandum pointed ■ to the identity of the land, oral evidence may be introduced to enlarge upon the description in order that it may be exact by metes and bounds or otherwise, and in the instant case it is our judgment that any resort to oral evidence outside the written option was upon this theory of the law that there was a legal sufficiency in the • written option itself to establish and identify the land in question, but in this .connection it is necessary to observe that as before stated, that there does not appear in the record anywhere but.that there was mutual understanding between the parties that there was no question about the identity and location of the property in question.
+The principle of law just enunciated is based on Pomeroy’s equitable remedies and this author, in various sections of his work, elaborates and analyses this theory of the law. We call particular attention to Sec. 766 of the work just noted.
+Able counsel for defendant cite Kling v. Bordner, 65 OS. 86 and 29 O. C. A. 63, and many other decisions of this and other courts, holding as a proposition of law that there must be no resort to extrinsic facts to aid the memorandum in writing in determining the identity of the property in question but these decisions in our judgment do not destroy the rule of law above noted that where there is only one reasonable conclusion from the memorandum and that this is the identification of the property that then and thereupon evidence of a nature technically describing the poroerty is competent proof for the reaábn that it does not vary the terips of the memorandum but only enlarges upon provisions as to identification which are already embodied in the instrument of writing in question.
+The supreme court has settled the law as to what is a memorandum in writing and it is left to the facts in each particular case to determine whether there is a sufficiency of provisions to establish identity. If there is, it is a memorandum in writing and satisfies the Statute of Frauds. If there is not, then otherwise.
+In the case at bar we find, first, that the quantity of land is absolutely determinative in the instrument itself; second, that the ownership in the land is beyond dispute as shown by the provision which stipulates that it bolengs to the estate of Mary Ellen Lovejoy; third, that the land is located on the west side of Wooster Pike in Middleburgh Township, and finally, judicial notice that Middleburgh Township is a part of Cuyahoga county and that Wooster Pike runs through it.
+Now, while there is an absence of provisions as to the county and state in the option itself, yet there are two facts which cannot be eliminated from the case at bar. One is the exact description, in the deed that was sent to Lovejoy, and the same description sent to him by way of Ex. 10, made up by the abstract company from the option itself and from other data in the offices of the abstract company, but these two exhibits are instruments of writing and they are the joint products of the parties to this lawsuit establishing by mutual act such an enlargement of the written option itself that when the three instruments of writing are taken together there can be no question as to the identity of the property, and even if this were not so we think that under the law the option itself is a-memorandum in writing which indicates the identity of the property and that the oral evidence offered in the record decided its competency and regualrity in the fact that the option itself is sufficient to identify the property.
+It must be remembered that the word “memorandum” means no more than it says. It is not intended that it shall be so replete with specific facts that nothing else could be added thereto. It is something that refreshes the recollection. It may be on one piece of paper and it may be on several pieces of haper if the writing of each may be combined with the others and then form a memorandum in writing that is sufficient. From the very nature of the term “memorandum” it indicates a naked skeleton which is later on to be clothed by facts which meet all requirements of exactitude.
+The real point to be determined is whether in the minds of real men giving such construction to the language as is ordinarily implied, the description of the property and other data indicated in the writing ,are reasonably capable of being ascertained. So it is our judgment that the option in question is of sufficient legal substance to constitute a memorandum in writing.
+The argument was made by able counsel for defendants that plaintiff had not performed. The answer to this question is determined by the fact that the positive refusal to go forward with the agreement on the part of defendant deprived defendants of insisting upon things being done which ought to have been done had the situation been otherwise.
+The option was for thirty days from November 4, 1927; $50.00 in cash was paid upon that day, and on November 21, 1927, the balance of the cash payment, to-wit, $950.00, was also paid and then and thereupon the note and mortgage for $1000.00 was executed. We believe that under all these facts that there was a substantial compliance with the provisions of the option.
+Holding these views a decree may be entered for the plaintiff such as was entered below. O. S. J.
+Vickery, PJ, and Levine, J, concur.
