@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2136"
+decided: "1933-03-13"
+citations: ["14 Ohio Law Abs. 230"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FUNK, J, concurs.", "STEVENS, J, not participating."]
+parties: ["EXCHANGE REALTY CO v MEESE-REINKER CO and THE CENTRAL ASSOCIATED REALTY CO"]
+source_url: "https://static.case.law/ohio-law-abs/14/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1648488
+cites_cases: ["41 Oh St 62"]
+---
+
+# Exchange Realty Co. v. Meese-Reinker Co.
+
+## Majority (WASHBURN, PJ.)
+
+WASHBURN, PJ.
+As to the first defense plead, we hold that the petition in the case- now under review states a cause of action upon a contract claimed to have been made between the owners of said property and the defendant, whereby the defendant, as a part of the consideration for said lease, promised said owners to pay a certain and definite sum to the plaintiff; that as plead the consideration for the promise was something done by said owners and not services rendered by the plaintiff; that the promise was not to pay for plaintiff’s services but was to pay for said owners agreeing to said lease.
+It is true that plaintiff in its petition alleges that its claim against said owners is for a commission, but it does not allege that it has any claim for a commission against the defendant; on the contrary, it seems to us, plaintiff is seeking to enforce said owner’s claim against the defendant and asserts the right to do so because the promise of defendant made to said owners was made for the benefit of plaintiff.
+If it be true that the defendant agreed to pay $5250 to induce said owners to agree to said lease and to pay it to plaintiff for said owners, then, so far as the enforcement of the promise is concerned, it would make no difference if the plaintiff’s claim against said owners is not enforceable because not in writing, the action now under review having been a pending action when the law requiring such a contract to be in writing was repealed.
+The second defense presents a much more difficult question, for it is therein claimed that the Common Pleas Court in the former case decided that a petition, claimed to be essentially the same as the petition in the instant case, stated a cause of action for a real estate commission and could not be enforced because not in writing, and that this court, by affirming such judgment, also decided that said former action was an action to collect a commission, which is directly contrary to the opinion hereinbefore expressed on that question.
+So far as the judgment of affirmance in this court is concerned, we did not in fact decide said question as claimed; what we decided was that the petition in the first case did not contain an allegation that the defendant promised to pay said sum to the plaintiff, and that for that reason the petition did' not state a cause of action in favor of plaintiff and against defendant, and consequently the trial court did not err in sustaining a demurrer to said petition on the ground that the petition did not state facts sufficient to constitute a cause of action in favor of plaintiff and against the defendant.
+But it is claimed that in legal effect this court did decide the question of whether the action was to recover a real estate commission, because the Common Pleas Court in the journal entry specifically set forth that the cpurt sustained the demurrer because the action was one for a real estate “commission under an oral contract.”
+If the demurrer was properly sustained because of the lack of a necessary allegation in the petition, hereinbefore referred to, we could not reverse the judgment because the trial court stated in the journal entry an erroneous reason for sustaining the demurrer, and our affirmance of the judgment was not an affirmance of the reasons given by the trial court for its ruling.
+But that does not decide the question here presented, which is, was the ruling of the trial court (which has not been reversed) res adjudicata on any question involving the merits of the controversy between the parties?
+It is conceded, in the brief of defendant, that “where judgment is entered by reason of the failure of the petition to state a cause of action, such judgment is not a bar to another action wherein is supplied the allegation which was wanting in the former action. That is the proposition held in the case of Moore v Dunn, 41 Oh St 62,” and it must likewise be conceded, as stated in the same brief, that “when a matter has once been adjudged on its merits between the same parties, the judgment entered in such cause is a bar to any future action on the same subject-matter between the same parties.”
+Which of said rules does this case fall under? Was the judgment in the trial court an adjudication on the merits of the controversy between the parties, or was it merely an adjudication that the facts alleged did not constitute a cause 'of action?
+In passing upon the demurrer, all that the court was called upon to decide was whether the petition stated a cause of action, and if the court had determined that plaintiff had not stated a cause of action because it failed to allege that defendant promised to pay said sum to it, no one would claim that the court had decided anything as to the merits of the controversy, but only a question of law; and if plaintiff declined to amend and allowed judgment to be rendered against him, he could file a new actiorr alleging all the facts as in the petition in the first action and adding the omitted allegation, and the decision that the petition in the first action did not state a cause of action would not bar him from prosecuting the second action.
+Would it be passing on the merits of the controversy if the court declared that the facts alleged showed that the claim of plaintiff was for a real estate commission and gave that as a reason for determining that plaintiff had not stated a cause of action?
+In both instances the trial court decided the same thing: that the plaintiff had not stated a cause of action, but gave different reasons for so deciding; and in a case where either or both of said reasons may be given for the decision that the petition does not state a cause of action, can it be said that the court passes upon the merits if one reason is given and does not pass upon the merits if the other reason is given? If so, then if a reviewing court finds that the reason given is erroneous, it should reverse a perfectly proper judgment because the court entering the judgment gave a wrong reason therefor.
+As we understand it, reviewing courts reverse judgments and not the reasons given therefor by the trial courts, and if a petition fails to state a cause of action because of the lack of an essential allegation and the trial court sustains a demurrer to the petition, it cannot be said to pass upon the merits of the case simply because it gives a reason other than the lack of such allegation for determining that the petition does not state a cause of action.
+The fact is that the petition in the first action did not state a cause of action because of the omission of a necessary allegation of fact, and such allegation is supplied in the petition in the second action, and we think we should follow the statement of the law set forth in the opinion in the case of Moore v Dunn, supra, as follows:
+“If the facts alleged make a cause of action a judgment upon them is final between the parties. If the facts do not state a cause of action a judgment upon them is not a judgment on the merits of the case, and does not stand in the way of a future action for the same cause. * * * a judgment for a defendant on demurrer to a petition which did not state a cause of action determined nothing, only that the facts alleged were not sufficient to constitute a cause of action.”
+For error in rendering judgment for defendant on the pleadings, said judgment is reversed and the cause remanded.
+FUNK, J, concurs.
+STEVENS, J, not participating.
