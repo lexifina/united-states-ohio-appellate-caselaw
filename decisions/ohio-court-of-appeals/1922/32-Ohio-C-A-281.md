@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1922-03-14"
+citations: ["32 Ohio C.A. 281", "35 Ohio C.C. Dec. 744"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pardee, J., and Funk, J., concur in judgment."]
+parties: ["Marcus Veal v. State of Ohio."]
+source_url: "https://static.case.law/ohio-ca/32/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1614392
+cites_cases: ["227 S. W., 455", "232 U. S., 383", "256 U. S. 456", "265 Fed. 853", "265 Fed. Rep., 853", "268 Fed. 408", "268 Fed. Rep., 408", "270 Fed. Rep., 818", "273 Fed. 600", "273 Fed. Rep., 600"]
+---
+
+# Veal v. State
+
+## Majority (Washburn, P. J.)
+
+Washburn, P. J.
+A search warrant was issued, the same being signed by the clerk of the municipal court, to search certain premises in Akron for intoxicating liquor. The officer to- whom it was issued went to the premises, found the plaintiff in error, a lessee of the premises, and read the warrant to him, and thereupon he said to the officer, “Go and make the search.”
+The search was made, and several jugs of intoxicating liquor were found on the premises and taken to the municipal court.
+Three days later a warrant was issued upon affidavit filed, and the plaintiff in error was arrested, charged with having unlawful possession of intoxicating liquor.
+No application for the return of the liquor siezed was made, either before or during the trial. All that the plaintiff in error did. was to object, after tbe trial bad begun, to tbe introduction of tbe evidence obtained by tbe search. He did not, at tbe trial or at any other time, claim that tbe liquor siezed was bis or bad been taken from bis possession, and ask that it 'be returned because tbe search was illegal. But on tbe contrary, be testified at tbe trial that tbe liquor was not bis and was not in bis possession when siezed.
+If tbe liquor was not bis and was not taken from bis possession, he bad no right to have it returned to him, even if tbe search was illegal, and if tbe liquor was bis, be could not object to its introduction in evidence, without at some time in tbe proceedings making an application for its return.
+Tbe adjudicated cases require him to make a seasonable application, and most of tbe cases decide, or seem to imply, that tbe application should be made before tbe trial is begun. Weeks v. United States, 232 U. S., 383; United States v. O’Dowd, 273 Fed. Rep., 600. But we are not called upon to decide at what time tbe application must be made, because in this ease no application whatever was made.
+"What we bold in this case is that where no application whatever is made for tbe return of goods siezed on a search warrant, and tbe defendant on trial denies that tbe goods are bis or that they were taken from bis possession, be can not object to tbe introduction in evidence of tbe goods siezed because of illegality in tbe issuance or service of tbe search warrant.
+He can not inject into tbe trial questions as to tbe legality of tbe manner in which evidence was obtained against him which was not obtained from him or from his possession. United States v. Silverthorn, 265 Fed. Rep., 853; Burdeau v. McDowell, 255 U. S., —, 41 Supt. Ct., 574.
+The reason for the rule which forbids tbe introduction of evidence illegally obtained from the possession of tbe defendant, is that tbe use of such evidence violates bis constitutional rights by making him, in effect, testify against himself, and where be denies that tbe goods siezed are bis or that they were in bis possession when taken,'he’destroys tbe basis and foundation of the rule which he invokes. If the goods are not his and were not taken from his possession, he is not made to disclose evidence against hilmself by the introduction of the goods as evidence.
+Moreover, it is shown by his own testimony in this case that the plaintiff in error told the officers to go ahead and make the search; the officers testified to the same thing, and the plaintiff in error does not claim that there was any coercion or that his consent to the search was not voluntary.
+An officer may search one’s premises without an authorizing warrant, if it is done with the owner’s consent. Black v. Commonwealth, 227 S. W., 455.
+It is not necessary, and we do not hold, that if seasonable and proper application had been made for the return of the goods seized, in which he claimed that the goods were his and that they had been wrongfully taken from his possession — we do not hold that under such circumstances the consent shown in this case would alone defeat the right to have the property returned if the seizure was illegal. Amos v. United States, Advance Opinions Sup. Ct., April 1, 1921, No. 10, p. 316; United States v. Slusser, 270 Fed. Rep., 818; but we do hold that under the circumstances as shown by the record in this case, the trial court did not error in overruling the objection of' the plaintiff in error to the introduction of evidence obtained by the search and seizure.
+One other question is raised by the record and was argued by counsel, and that is .that the conviction of the plaintiff in error is manifestly against the weight of the evidence. The record is short, and we have carefully read and considered the same, and are of the opinion (that the trial court was fully warranted in finding the plaintiff in error guilty.
+Counsel for both sides have argued a question in reference to the legality of the search warrant in this ease, which question, for lack of evidence to overcome legal presumptions, is not raised by the record in the case, but concerning which we are strongly urged to express an opinion for the guidance of the authorities in the future. With the full understanding that a determination of such, question is not necessary in the decision of the ease, and without attempting to state at length our reasons therefor, we will state our present opinion to ¡be that the clerk of the municipal court, as a designated individual, is not authorized to issue search warrants for searches under the Crabbe act.
+The Constitution forbids the issuance of search warrants except “upon probably cause” and an affidavit particularly describing the place to be searched and the -person and things to be seized.
+Whether there is probable cause, probably presents a judicial question, for the determination of a judge or court, and our present thought is that such a question can not be determined by a mere clerk possessing no judicial power or authority, People, ex rel, v. Kempner, 208 N. Y. App., 16; United States v. Borkowski, 268 Fed. Rep., 408, even if the Legislature so provided, but as to search warrants under the Crabbe act, the Legislature has not attempted to invest a clerk, as a designated individual, with authority to issue search warrants.
+The latest amendment of General Code, Section 6212-18, provides that “The officers named herein shall have authority to issue search warrants as provided for in Section 6212-16 of the General Code.” The officers named therein are “any justice of the peace, mayor, municipal or police judge, probate or common pleas judge, within the county, with whom the affidavit is filed, etc. ’ ’ A municipal judge is specifically named as having authority to issue search warrants, but the section does not attempt to confer such authority upon the clerk of the municipal court.
+It is true that after the proper affidavit is filed with the judge, and he has determined that there is probable cause, and orders a search warrant issued, the clerk of the municipal court, by virtue of the order of the judge and General Code, Section 1579-536, may issue the warrant, or the judge himself may issue it, -but the clerk as a designated individual, and separate and apart from the judge or -court, does not have authority to issue search warrants under the Crabbe act.
+We do not regard General Code, Section 4594, even if it applies to the clerk of the municipal court of Akron, as governing in the issuance of search warrants under the Crabbe act, because the Crabbe act is the latest expression of the Legislature, and that specifically provides who may issue warrants undér it.
+Judgment affirmed.
+Pardee, J., and Funk, J., concur in judgment.
