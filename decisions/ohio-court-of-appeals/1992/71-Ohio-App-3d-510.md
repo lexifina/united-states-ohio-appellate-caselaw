@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA 91-21"
+decided: "1992-03-23"
+citations: ["71 Ohio App. 3d 510"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putman, P.J., and Milligan, J., concur."]
+parties: ["BENTLEY, Father of Christopher, a minor, Appellant, v. STEWART, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/71/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1467732
+cites_cases: ["167 N.E. 407", "1990 WL 135890", "21 O.O.3d 177", "23 O.O.3d 115", "24 OBR 164", "24 Ohio App.3d 94", "280 N.E.2d 896", "29 Ohio St.2d 215", "31 Ohio App. 273", "423 N.E.2d 467", "430 N.E.2d 935", "493 N.E.2d 293", "58 O.O.2d 424", "67 Ohio St.2d 282", "69 Ohio St.2d 66"]
+---
+
+# Bentley v. Stewart
+
+## Majority (Gwin, Judge.)
+
+Gwin, Judge.
+Plaintiff, Charles (“Chuck”) Bentley, father and next friend of Christopher Bentley, a minor (“appellant”), appeals from the judgment entered in the Muskingum County Court of Common Pleas directing a verdict against appellant and in favor of defendant, Jeannie R. Stewart (“appellee”), after finding the contributory negligence of the minor, Christopher Bentley (“Christopher”), exceeded fifty-one percent of the total negligence a jury could have found in appellant’s personal injury action. Appellant assigns as error:
+Assignment of Error No. I
+“The Muskingum County Court of Common Pleas erred in finding that plaintiff, Christopher Bentley’s own negligence exceeded fifty-one percent (51%) of any total negligence which may have contributed to the accident in question by him and defendant; that since his own negligent conduct as a matter of law exceeded 51%, plaintiff is barred from recovery from the defendant.” (Emphasis added.)
+Through his sole assignment, appellant maintains the trial court erred in directing a verdict in favor of appellee.
+Civ.R. 50(A)(4) sets forth the test for granting a directed verdict on the evidence:
+“When a motion for a directed verdict has been properly made, and the trial court, after construing the evidence both strongly in favor of a party against whom the motion is directed, finds that upon any determinative issue reasonable minds could come to but one conclusion upon the evidence submitted and that conclusion is adverse to such party, the court shall sustain the motion and direct a verdict for the moving party as to that issue.”
+When ruling on a motion for a directed verdict, the trial court’s function in a jury trial is not to weigh the evidence but to “determine whether there is any evidence of substantial probative value in support of the non-moving party’s claim.” Eldridge v. Firestone Tire & Rubber Co. (1985), 24 Ohio App.3d 94, 96, 24 OBR 164, 166, 493 N.E.2d 293, 295. The Civ.R. 50(A) test looks to the sufficiency of the evidence on each element of a claim to take the case to the jury. Ruta v. Breckenridge-Remy Co. (1982), 69 Ohio St.2d 66, 23 O.O.3d 115, 430 N.E.2d 935. The general rule is that a directed verdict is appropriate only where the party opposing the motion fails to adduce any evidence on the essential elements of his claim or defense. O’Day v. Webb (1972), 29 Ohio St.2d 215, 58 O.O.2d 424, 280 N.E.2d 896. Therefore, a motion for a directed verdict presents a question of law as opposed to a question of fact. Id. Arguments which look to the weight of the evidence are inappropriate for purposes of ruling on such a motion. Strother v. Hutchinson (1981), 67 Ohio St.2d 282, 21 O.O.3d 177, 423 N.E.2d 467.
+Here, the trial court granted appellee’s motion for a directed verdict after the close of appellee’s case-in-chief. Upon review of the entire record, and after construing the evidence most strongly in the favor of appellant, the party against whom the motion was directed, we find that reasonable minds could come to the conclusion that Christopher’s contributory negligence did not exceed fifty-one percent of the total negligence involved in the accident in question. Accordingly, the trial court erred in granting a directed verdict in favor of appellee.
+In construing the evidence most strongly in favor of appellant, a jury could have reasonably concluded the following: On October 13, 1989, Christopher, a sixteen-year-old ninth grade student at Zanesville High School, decided to skip school with a few friends after lunch. Upon leaving the school premises, Christopher and three of his friends began walking south on a sidewalk located on the west side of Blue Avenue, a thirty-five mile per hour road running north and south in front of the high school. As the boys reached the south perimeter of the school zone they noticed another friend, Steve Ronkle, walking north on the east side of Blue Avenue. After hearing Steve yell for him, Christopher walked to the west side curb of Blue Avenue, slowed down at the curb, looked to his right, looked to his left, and then started jogging from the curb across the street when he was hit by appellee’s automobile.
+According to appellee, she was proceeding south on Blue Avenue at twenty miles per hour, came over the crest of a hill in front of the school and saw Christopher and his friends on the sidewalk. Appellee testified that she continued to observe her twenty mile per hour speed as she approached Christopher, who was now on the curb on Blue Avenue, but she neither covered nor applied her brake pedal while descending the hill. As appellee saw Christopher begin to cross the street, she again looked at her speedometer and then looked down at her brake pedal to be sure she applied same.
+Two of Christopher’s companions testified at trial that appellee was travel-ling approximately forty miles per hour as she descended Blue Avenue and that Christopher looked both ways before crossing the street.
+From these facts, the jury could have reasonably concluded that appellee was negligent in travelling forty miles per hour on Blue Avenue, for failing to cover her brake as she approached Christopher, who was standing at the curb, and for taking her eyes from the road and Christopher in order to look at her speedometer and her brake pedal prior to applying same. The jury could have also reasonably determined that appellee’s negligence exceeded fifty-one percent of the total negligence involved.
+Appellee maintains that Christopher was negligent per se for attempting to cross Blue Avenue outside a marked crosswalk. However, a violation of a statute or ordinance by a child is not negligence per se. It is the jury’s role to determine whether the violation of a statute or ordinance by a child constitutes negligence considering his age, education, experience and intelligence. Fightmaster v. Mode (1928), 31 Ohio App. 273, 167 N.E. 407; Meade v. Morrison (1990), Franklin App. No. 89AP-341, unreported, 1990 WL 135890. Therefore, even if Christopher did violate a traffic statute or ordinance by failing to cross in a marked crosswalk, reasonable minds could find his actions were not the proximate cause of his injuries.
+Appellee also asserts that she was proceeding within a lawful speed. While this may be true, there is disputed evidence on that issue which presented a jury question.
+Accordingly, the trial court improperly made a factual determination on disputed evidence and thereby invaded the jury’s province of weighing the credibility of the witnesses.
+Therefore, we sustain appellant’s sole assignment of error, reverse the judgment entered in the Muskingum County Court of Common Pleas, and remand this cause to that court for further proceedings according to law.
+Judgment reversed and cause remanded.
+Putman, P.J., and Milligan, J., concur.
+. Street signs and white lettering on the street pavement designated the twenty mile per hour school zone on a portion of Blue Avenue adjacent to the school. However, the twenty mile per hour zone is only in effect "during school recess and while children are going to or leaving school during the opening or closing hours.” R.C. 4511.21(B)(1)(a).
