@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-800719"
+decided: "1981-08-19"
+citations: ["2 Ohio App. 3d 400"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Palmer, P.J., and Doan, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Brown, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/2/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709918
+cites_cases: ["14 O.O.2d 1", "171 Ohio St. 323", "36 O.O.2d 141", "384 U.S. 1", "41 Ohio App. 351"]
+---
+
+# State v. Brown
+
+## Majority (Klusmeier, J.)
+
+Klusmeier, J.
+On May 29, 1979, defendant-appellant John Brown was indicted for a violation of R.C. 2923.12,, carrying concealed weapons. The crime charged is a felony. A suggestion that the defendant was not competent to stand trial was filed July 16, 1979. Thereafter on August 27, 1979 the court found that defendant was not then competent for trial but there was a substantial probability of his competency within one year if given treatment. Defendant was ordered to undergo treatment pursuant to R.C. 2945.38(D).
+At a further hearing on October 24, 1979, the defendant was found to be incompetent to stand trial and that there was not then a substantial probability that the defendant would become competent to stand trial within one year. The defendant’s case was therefore transferred to the probate court pursuant to R.C. 2945.38(C). As authorized by R.C. 2945.38(G), the indictment against the defendant was dismissed by the court of common pleas on November 13, 1979.
+On December 19, 1979, the probate court found that the defendant was no longer subject to hospitalization and discharged him. A motion to reinstate the indictment was thereafter filed by the state and the trial court, after a hearing on the motion, granted the reinstatement. Trial began on September 11, 1980 without a jury. Four days later, the defendant was found guilty as charged. He timely appeals this judgment presenting four assignments of error.
+The defendant first contends that the trial court committed prejudicial error when it permitted the indictment against him to be reinstated by motion, instead of requiring the state to resubmit the matter to a grand jury. We agree.
+The disposition of a defendant after a hearing on his competency to stand trial is governed by R.C. 2945.38. The trial court found that defendant Brown was incompetent to stand trial on October 24, 1979, and that, even if he were to receive treatment, there was not a substantial probability that he would be competent to stand trial within one year. The trial court, in transferring Brown’s case to the probate court, acted in compliance with R.C. 2945.38. However, in entering a “conditional dismissal” of the charge against Brown which purported to reserve a right to reinstitute the charge by motion, the trial court departed from the statutory scheme and usurped a jurisdiction which it did not possess.
+The entry of the dismissal of the charge against Brown is as follows:
+“On October 24, 1979 a hearing and determination of competence was made. It being determined the defendant is incompetent to stand trial and will not be capable of standing trial within one year,
+“It is therefore ordered, that pursuant to Section 2945.38(G), the charge of Carrying Concealed Weapons in violation of Revised Code Section 2923.12 against the defendant John Brown is dismissed. This dismissal does not necessarily bar further criminal proceedings subject to the conditions of Revised Code Section 2945.38(H) and such proceedings may be reinstituted if appropriate, by motion.” (Emphasis added.)
+The state here argues that such a “conditional dismissal” is expressly mandated by R.C. 2945.38. Additionally, the state contends that all parties in general, and the state in particular, benefit when such a “conditional dismissal” is entered by the trial court. The pragmatism of the arguments of the state must yield to the superior demands of the Constitution and the valid laws enacted by the legislature.
+R.C. 2945.38(G) provides:
+“The court shall dismiss the indictment, information, or complaint against a defendant finally found incompetent to stand trial under division (C), (D), or (F) of this section or whenever the prosecutor notifies the court he does not intend to prosecute the charges specified in the indictment, information, or complaint.” (Emphasis added.)
+The language of this section is clear. There is no mention of a conditional dismissal, only that the court “shall dismiss.” Any indication in the entry dismissing the charge against Brown that the state could reinstate the indictment by motion is therefore of no effect.
+Furthermore, R.C. 2945.38(H) expressly provides that a dismissal under R.C. 2945.38(G) is a bar to further criminal proceedings based on the same conduct unless all four of the conditions therein prescribed are present. The state reasons since all four conditions admittedly have been met in the case under review the prior dismissal is not a bar to the present proceedings. The state postulates that “further criminal proceedings based on the same conduct,” as that phrase is used in R.C. 2945.38(H), is synonymous with vacation of a prior entry of dismissal of a criminal charge. That postulate is erroneous in that it fails to recognize the constitutional provisions which must be given effect.
+The Constitution of Ohio requires, except in rare cases, that felonies be prosecuted by indictment. Section 10, Article I, Constitution. This right, like other rights, confers a personal privilege which may be waived by a defendant. Ex parte Stephens (1960), 171 Ohio St. 323 [14 O.O.2d 1], paragraph one of the syllabus. The record does not contain evidence that Brown ever expressly waived this right in the manner provided by Crim. R. 7. Neither does the record reflect a waiver of this right by implication. Where the inquiry centers around federal constitutional guarantees made applicable to the states by operation of the Fourteenth Amendment, there is a presumption against waiver. For a waiver of such a right to be effective, it must be clearly established that an intentional relinquishment or abandonment of a known right or privilege has taken place. Brookhart v. Janis (1966), 384 U.S. 1, 4 [36 O.O.2d 141], Indictment by grand jury in a felony prosecution is not such a federally guaranteed right. Nevertheless, the same presumption against waiver must apply where, as here, the right in question is guaranteed by the Ohio Constitution. Counsel for the defendant objected to the absence of indictment at the hearing on the state’s motion to reinstate the indictment. Applying the Brookhart standard, it is clear that no waiver by implication of the right to a felony indictment by a grand jury has taken place. Thus, once the indictment against Brown was dismissed he had the right to be free from any further felony prosecutions unless a grand jury re-indicted him.
+We are not presented with a statute which purports to deprive defendant Brown of his right to a grand jury indictment. Instead, we have before us a trial court assuming jurisdiction over an improperly commenced felony prosecution.
+“ ‘There can be no trial, conviction, or punishment for a crime without a formal and sufficient accusation. In the absence thereof the court acquires no jurisdiction whatever, and if it assumes jurisdiction, a trial and conviction are a nullity. * * *’ ” Stewart v. State (1932), 41 Ohio App. 351, at 353-354.
+The first assignment of error having been decided in favor of appellant, the remaining three assignments of error are determined to be moot and therefore consideration of their merits is unnecessary. All assignments of error having been ruled upon, it is the decision of this court that the judgment of the court below is reversed and the defendant discharged.
+Judgment reversed and defendant discharged.
+Palmer, P.J., and Doan, J., concur.
