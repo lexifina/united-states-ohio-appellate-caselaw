@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7570"
+decided: "1975-04-23"
+citations: ["46 Ohio App. 2d 175"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yictoe, P. J., and Harvey, J., concur.", "Harvey, J., retired, of the Court of Common Pleas of Summit County, was assigned to active duty in the Ninth Appellate District, under authority of Section 6(C), Article IV, Constitution."]
+parties: ["Rayl et al., Appellants, v. East Ohio Gas Co. et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/46/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708517
+cites_cases: ["46 Ohio App. 2d 167"]
+---
+
+# Rayl v. East Ohio Gas Co.
+
+## Majority (MahoNey, J.)
+
+MahoNey, J.
+This appeal arises from a hearing held by the Court of Common Pleas of Summit County pursuant to the order of this court in Rayl v. East Ohio Gas Co. (1973), 46 Ohio App. 2d 167. In the previous appeal, this court found that in 1928 the predecessors in title to the plaintiffs, the appellants here, had executed and delivered to the defendant, East Ohio Gas Co., an oil and gas lease which gave East Ohio Gas the right to drill for natural gas for a minimum rent plus an additional royalty for any gas removed from the land.
+The original agreement was supplemented in 1948 by a written document labeled “Supplemental Gas Storage Agreement.” This Agreement gave East Ohio Gas the right to inject natural gas into an area beneath plaintiff’s land for-storage.purposes and withdraw it at a.later date as needed. This agreement yas to extend for at least ten years and ‘‘so much longer as gas was produced, stored or withdrawn by the East Ohio Gas Co: or so long as oil or gas was found under plaintiffs’ lánd 'in paying quantities.” Payment.to plaintiffs‘-and. their-predecessors in-title y.arjed through the: years. After 1956, plaintiffs, were entitled to $200 per year, for each -well used by East Ohio Gas and 300,000 cubic feet of natural gas per year which plaintiffs withdrew directly from one of the wells.
+In' November, ‘ 1972, plaintiffs refused tender ’ of á quarterly' payment check for the five wells used’ by East Ohio. Gas and inf ormed Bast Ohio that they were terminating their lease.' Plaintiffs commenced this action on July 31, 1971, "seeking relief, as'follows:
+1. A‘declaratory judgment that the lease of 1928' was terminated. ■
+2. A declaratory judgment that the storage agreement was void and, i'f it wás not void, that it terminated on September 1, 1958.
+3. A finding that East Ohio Gas Company’s use of the land since that date is a.trespass and nuisance, and that the plaintiffs ought to recover damages therefor. • .
+4. To enjoin the East Ohio Gas Company from further activity on--.plaintiffs’ premises, and order the removal of equipment,- etc. - .
+After- trial,'the court found that .the two ..agreements -were ‘.‘valid and subsisting agreements conveying an interest in the land * and-that the plaintiffs were estop-ped, to deny their validity by-reason of-their acceptance of payments:. From a judgment in favor: of- East Ohio Gas, plaintiffs appealed. The appeal resulted in a finding that the lease agreements were terminable at the will of either party, but the cause was remanded, for. a further hearing ,pn the .issue of estoppel-and a possible determination of damages. - - •
+Following an. unsuccessful appeal by East Ohio-Gas to the Supreme Court of Ohio, a hearing was held on the issue of estoppel. The only witness at the hearing was the Chief Storage Engineer for East Ohio Gas, Louis Houser. Mr. Houser’s extensive testimony dealt chiefly 'with the his-^ tory of gas storage, the nature of the area on which plaintiffs ’ land is located, and the amounts of money expended by East Ohio Gas to construct and maintain the storage facilities beneath plaintiffs’ land. Subsequent to the hearing, the trial court found that plaintiffs were estopped from terminating the agreement. The trial court stated:
+“To allow the Gas Company to hold the property in perpetuity would deprive the Plaintiffs of their property without due process of law. If the land is needed in order to continue the public supply of gas by the Company, it can be appropriated legally by proceedings under the theory of eminent domain. And it is important to note that this Lease, as the Court of Appeals held, is simply a rental of land terminable at the will of Lessor or Lessee. The Lessor has become inclined to terminate the Lease, and attempted such on November 1, 1972, by refusing to accept rent on the land. It is evident, however, that the rent was not the only benefit received for the land rental. Uncontradicted evidence has been given this Court, that the Plaintiffs were also allowed to draw gas for free, and that the Gas Company has expended a large sum in reliance on this Agreement * * *.
+“It is evident to this Court that the Plaintiffs are estop-ped from denying the operation of the agreement at this point, due to their acceptance of the benefits conferred upon them. This Court, as relates to this specific litigaton, is not impressed with the public need for gas or the fact that the Gas Company stands to lose a minute portion of its revenues if the lease is terminated. The Legislature has provided the Gas Company ample means whereby to protect the public consumption. The profits of the Gas Company are of no concern to this Court. The Company' has, however, relied on this agreement and the Plaintiffs have benefited by their bargain. They cannot now claim those benefits on the one hand and deny the Gas Company its bargain on' the other. The bargain is ratified in to to, not as to the parts beneficial to one party or the other.' * * *”
+The trial court also found that 'the lease' could be terminated by plaintiffs only after reasonable notice was given, but did not determine what would be considered a reasonable time. A second bearing was beld to determine damages in light of tbe first bearing. Tbe trial court dismissed tbe case after plaintiffs were given the opportunity to proffer evidence of damages. Following the dismissal of this case, plaintiffs filed a notice of appeal and defendants filed a cross-appeal on the issue of tbe terminability of tbe agreements.
+Plaintiffs assign tbe following as error:
+“1. Tbe finding of tbe trial court of April 3,1974, is not supported by any evidence.
+‘12. Tbe finding of tbe trial court is against tbe evidence, tbe ruling of tbe Court of Appeals, and is violative of all tenets of good faith, fair dealing, golden rule, as well as laws of Ohio.
+“3. Tbe finding of the trial court assumes matters which do not exist.
+“4. Tbe trial court’s judgment of dismissal was illegal and wrongful.
+“5. Tbe trial court’s refusal to consider tbe additional complaint and motion was illegal and wrongful.
+“6. Tbe final entry is entirely wrong in trying to create a new contract by each of the parties.”
+Since assignments of error 1, 2, 3 and 6 directly relate to tbe finding of estoppel, they will be considered collectively-
+At tbe bearing on tbe issue of estoppel, Mr. Houser testified that, as of tbe date of tbe bearing, plaintiffs were still receiving “free gas” directly from tbe storage well. After tbe bearing, plaintiffs filed an amended complaint requesting that East Ohio Gas charge plaintiffs for the gas consumed by plaintiffs since November, 3972. No action was taken on this amended complaint by the trial court. Then, on July 1, 1974, after the findings of tbe bearing were released, plaintiffs submitted a motion stating that they were no longer receiving “free gas” from tbe well on their property and requested tbe court to find that tbe tenancy at will was terminated. There is nothing in. the record that shows any ruling by the trial court on this motion.
+Thus, it can be seen that there was ample evidence to support the finding of estoppel. Not only did plaintiffs accept quarterly payments from defendant for a period of fifteen months after this action was originally filed, but they were still accepting “free gas” from defendant at the time the trial' court held hearings on the isssue of estoppel on March 28,1974. Although plaintiffs did’ not intentionally misrepresent any facts to defendant, they did act in a manner inconsistent with the attempted termination of the agreements. Because plaintiffs accepted the benefits of their agreement during the pendency of this litigation, they are estopped from pursuing this action at this time. 20 Ohio Jurisprudence 2d 522, Estoppel and Waiver, Section 55. For these reasons, assignments of error numbers, 1, 2, 3 and 6 are without merit.
+The fourth assignment of error is untenable. Since the trial court correctly found that plaintiffs were estopped from bringing this action, it had no alternative but to dismiss this case.
+Plaintiff’s fifth assignment of error also lacks merit. The additional supplemental complaint was not filed by plaintiffs until April 5, 1974, eight days after the hearing. Plaintiffs failed to file a motion for leave to file the amended complaint as required by Civ. R. 15(E) and the trial court correctly ignored the supplemental complaint. Plaintiffs ’ motion filed July 1, 1974, must be considered as an amended complaint. It was correctly denied by the trial court pursuant to its discretionary power under Civ. R. 15(E).
+Defendant’s cross-appeal is denied because the issue raised has already been decided by this court. This court finds that plaintiffs failed to show any prejudicial error and, therefore, we affirm the judgment of the Court of Common Pleas of Summit County.
+Judgment affirmed.
+Yictoe, P. J., and Harvey, J., concur.
+Harvey, J., retired, of the Court of Common Pleas of Summit County, was assigned to active duty in the Ninth Appellate District, under authority of Section 6(C), Article IV, Constitution.
