@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "90-A-1498"
+decided: "1991-05-13"
+citations: ["74 Ohio App. 3d 70"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ford, P.J., and Nader, J., concur."]
+parties: ["DICKSON, Appellee, v. DICKSON, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/74/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1475036
+cites_cases: ["15 OBR 421", "15 OBR 458", "15 Ohio St.3d 289", "15 Ohio St.3d 333", "17 OBR 14", "17 Ohio St.3d 17", "350 N.E.2d 413", "45 Ohio St.3d 219", "450 N.E.2d 1140", "46 Ohio St.2d 399", "473 N.E.2d 811", "474 N.E.2d 280", "476 N.E.2d 1032", "5 OBR 481", "5 Ohio St.3d 217", "543 N.E.2d 797", "572 N.E.2d 803", "590 N.E.2d 797", "61 Ohio App.3d 364", "69 Ohio App.3d 305", "75 O.O.2d 474"]
+---
+
+# Dickson v. Dickson
+
+## Majority (Christley, Judge.)
+
+Christley, Judge.
+This is an appeal from a judgment of the Ashtabula County Court of Common Pleas, denying the motion of appellant, Betty G. Dickson, to modify the original divorce decree.
+The parties to this action were married for approximately thirty-eight years and had four children. In November 1984, appellant was granted a divorce on the grounds of gross neglect of duty. Incorporated into the divorce decree was a settlement agreement which the parties entered into previously.
+Under this agreement, appellee, William A. Dickson, was required to pay appellant the sum of $1,000 per month in alimony. These payments were to continue until appellant remarried, died, or cohabited with a person of the opposite sex. The alimony provision also stated that once appellant began to receive monthly Social Security benefits, appellee’s obligation would be reduced by one-half of the amount of the benefits.
+In November 1989, appellant moved the trial court to modify the divorce decree. As to the issue of alimony, appellant requested that the monthly alimony payment be increased to $1,250 and that appellee be ordered to pay her a lump sum of $25,000. Appellant also requested that the court eliminate the requirement under the decree that she pay appellant an amount equal to the net equity of the former marital residence when she reached the age of sixty-five.
+In response to appellant’s motion, appellee argued that the trial court lacked jurisdiction to modify the alimony obligation. This argument was based upon the fact that in the original divorce decree the trial court had not reserved continuing jurisdiction over the alimony issue.
+After appellant had filed a reply brief, the trial court issued its judgment “denying” her motion. As grounds for its decision, the court held that it did not have jurisdiction to decide the issues raised in the motion.
+On appeal to this court, appellant has assigned the following as error:
+“The trial court erred to the prejudice of defendant-appellant in refusing to exercise jurisdiction over the defendant-appellant’s motion to modify the sustenance alimony provision of the divorce decree at issue in this case.”
+In arguing that the trial court erred in not considering the merits of her motion, appellant maintains that the court had continuing jurisdiction over the sustenance alimony issue, even though it did not expressly reserve such jurisdiction in the original divorce decree. Appellant argues that under the relevant Ohio Supreme Court precedent, such jurisdiction is implied when the award is for an unspecified number of years. This argument has merit.
+We would note that this divorce was finalized prior to the May 2, 1986 cutoff date applicable to R.C. 3105.18. That statute requires subsequent decrees to have a specific provision reserving jurisdiction in order to exercise the same.
+As both parties note, the issue now before this court had been the subject of considerable litigation prior to May 2,1986. In Wolfe v. Wolfe (1976), 46 Ohio St.2d 399, 75 O.O.2d 474, 350 N.E.2d 413, the husband sought modification of his support obligation under a separation agreement. Distinguishing precedent concerning the jurisdiction of the trial court to modify the distribution of the marital assets, the Supreme Court held, at paragraph two of the syllabus:
+“Where, upon granting a divorce, a court awards alimony to a wife, pursuant to an agreement of the parties, to be paid until the condition subsequent of remarriage or death of the wife, and such award is for her sustenance and support and independent of any award arising by adjustment of the property rights of the parties, reservation of jurisdiction to modify the award will be implied in the decree.”
+This holding was essentially predicated upon the proposition that an agreement which was initially fair could become “oppressive” over time.
+While the Wolfe decision has never been overruled (except by R.C. 3105.18), it was distinguished in subsequent cases. For example, in Colizoli v. Colizoli (1984), 15 Ohio St.3d 333, 15 OBR 458, 474 N.E.2d 280, the court held that absent an express reservation of jurisdiction, a trial court could not modify a sustenance alimony award which was for a definite amount and which was subject to a downward adjustment in the event of remarriage or death. In reaching this conclusion, the court emphasized:
+“Our decision in this respect should in no way be interpreted as a retreat from our holding in Wolfe, supra, or our decision in Blakemore v. Blakemore (1983), 5 Ohio St.3d 217 [5 OBR 481, 450 N.E.2d 1140]. Those decisions continue to be determinative of a court’s ability to modify alimony where the amount and/or duration of the alimony award is indefinite. However, where a decree incorporates an agreement of the parties which specifically delineates the amount and duration of sustenance alimony, we find that such a decree should be accorded its proper degree of finality.” Id. 15 Ohio St.3d at 336, 15 OBR at 461, 474 N.E.2d at 284.
+The distinction between a definite and an indefinite award was continued in Ressler v. Ressler (1985), 17 Ohio St.3d 17, 17 OBR 14, 476 N.E.2d 1032. There, the court held that continuing jurisdiction does not exist when the award was for a fixed period of years, even though the award could be terminated upon death, remarriage, and cohabitation. Limiting the application of Wolfe further, the court was also held that a trial court does not have jurisdiction to modify a sustenance award contained in a dissolution decree. McClain v. McClain (1984), 15 Ohio St.3d 289, 15 OBR 421, 473 N.E.2d 811. (Parenthetically, we would note that under the present law, a trial court can subsequently modify an award of alimony if the separation agreement incorporated into the dissolution decree specifically provides for such jurisdiction. See R.C. 3105.65; In re Adams [1989], 45 Ohio St.3d 219, 543 N.E.2d 797.)
+Despite that decision, though, it must again be noted that the Wolfe holding was not overruled. Continuing jurisdiction of the decrees entered prior to May 2, 1986 will still be implied when the amount of the sustenance award is indefinite. See Kearns v. Kearns (1990), 69 Ohio App.3d 305, 590 N.E.2d 797; Panzarello v. Panzarello (1989), 61 Ohio App.3d 364, 572 N.E.2d 803. (Both of these decisions came out before 1986.)
+In finding that it lacked jurisdiction in the instant case, the trial court quoted the language in Colizoli which stated that continuing jurisdiction will not be implied when the sustenance award is for an “ascertainable” amount. Applying this standard to the alimony provision in the original divorce decree, the court concluded that Colizoli was controlling.
+However, this holding was clearly based upon a misinterpretation of the term “ascertainable amount.” Under Colizoli and Ressler, the amount of the award is ascertainable if the total amount for which the husband will be liable can be calculated from the language in the decree. In this case, the only amount which is ascertainable is the monthly payment. Since the payments must continue until an unascertainable date, the total amount for which appellee will eventually be liable is unascertainable. Accordingly, the Wolfe holding is applicable to the alimony provision in the original decree.
+Appellant does not seem to be appealing the property division aspect of the trial court’s ruling. Even if she were, this court would note that Wolfe does not apply to appellant’s request that she not be required to pay appellant the net equity in the former marital residence, as the separation agreement also provided. That particular provision was clearly part of the property distribution. Thus, the trial court did not have jurisdiction to consider that issue.
+As to the sustenance alimony issue, the trial court erred in concluding that it did not have continuing jurisdiction. Appellants’ sole assignment accordingly has merit.
+The judgment of the trial court is reversed and remanded for action consistent with this opinion.
+Judgment accordingly.
+Ford, P.J., and Nader, J., concur.
