@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "63494"
+decided: "1993-01-07"
+citations: ["83 Ohio App. 3d 80"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nahra, P.J., James D. Sweeney and Patricia A. Blackmon, JJ., concur."]
+parties: ["RUBEN, d.b.a. La Place Fashion Centre, Appellant, v. S.M. & N. CORPORATION, d.b.a. Montrache at La Place, et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/83/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1683387
+cites_cases: ["103 Ohio App. 108", "125 N.E.2d 371", "181 N.E. 20", "1988 WL 86958", "2 Ohio St.2d 282", "209 N.E.2d 194", "3 O.O.2d 178", "31 O.O.2d 557", "49 N.E. 344", "567 N.E.2d 270", "57 Ohio App.3d 79", "57 Ohio St. 161", "71 Ohio Law Abs 525"]
+---
+
+# Ruben v. S.M. & N. Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff-appellant, Bernard R. Ruben, d.b.a. La Place Fashion Centre, filed this appeal subsequent to the trial court’s granting the motion for summary judgment of both defendants-appellees, S.M. & N. Corporation, d.b.a. Montrache at La Place, and Carl Milstein.
+Appellant filed suit to enforce a lease on property located at the La Place Shopping Center in Beachwood, Ohio. On August 14, 1987, the lease was executed between Bernard R. Ruben, d.b.a. La Place, and S.M. & N. Corporation; Carl Milstein signed as a guarantor on the lease. At the time of execution the record titleholder of the property was Plaza Partners Limited Partnership.
+Plaza Partners is a limited partnership with Plaza Properties, Inc. as the general partner, and Bernard R. Ruben as the limited partner. The sole shareholder and president of Plaza Properties, Inc. is Bernard R. Ruben.
+Appellant argues that, as a result of a clerical error, the contract reflected the lessor as Bernard R. Ruben, d.b.a. La Place, rather than Plaza Partners Limited Partnership, the record titleholder. Ruben affirms that at the time of the signing he was unaware that the title transfer was completed. Appellant contends that the lease should either be reformed, or that a lease should be implied at law or in equity. Appellees counter that no interest in land may be conveyed by one who holds no interest in the land. Therefore, as the titleholder of the land did not execute a lease, no lease ever came into existence. Appellees conclude that a month-to-month tenancy resulted. .
+The requirements of a lease are set forth in the Statute of Conveyances, R.C. 5301.01, as follows:
+“A deed, mortgage, land contract as referred to in division (B)(2) of section 317.08 of the Revised Code, or lease of any interest in real property must be signed by the grantor, mortgagor, vendor, or lessor, and such signing must be acknowledged by the grantor, mortgagor, vendor, or lessor in the presence of two witnesses, who shall attest the signing and subscribe their names to the attestation. Such signing must be acknowledged by the grantor, mortgagor, vendor, or lessor before a judge of a court of record in this state or a clerk thereof, a county auditor, county engineer, notary public, mayor, or county court judge, who shall certify the acknowledgment and subscribe his name to the certificate of such acknowledgment.”
+A defectively executed lease was discussed by the Supreme Court in Delfino v. Paul Davies Chevrolet, Inc. (1965), 2 Ohio St.2d 282, 31 O.O.2d 557, 209 N.E.2d 194. The court held that R.C. 5301.01 is mandatory in nature, and that when defectively executed, a lease is invalid and does not operate to create the term of the leasehold.
+As in Delfino, the instrument in the present case does not comply with the mandatory provisions of R.C. 5301.01; and also as in Delfino, appellant argues for reformation of the lease. Although R.C. 2719.01 allows for reformation of written instruments, the Delfino court held at 285-286, 31 O.O.2d at 559, 209 N.E.2d at 197:
+“This is not the intent or purpose of Section 2719.01, Revised Code. Such section relates only to technical defects in instruments. It saves instruments which do not comply strictly with the technical requirements as to content; it does not relieve the parties from complying with the mandatory requirements of Section 5301.01, Revised Code, having to do with the formal requirements in executing instruments relating to the transfer of real property.
+“The curative effect of Section 2719.01, Revised Code, operates to validate instruments in relation to technical defects of content. It does not validate a lease which does not comply with the mandatory requirements of Section 5301.01, Revised Code, as to execution.”
+The court went on to state at 286, 31 O.O.2d at 560, 209 N.E.2d at 197-198, that equitable reformation was also not available to the parties of a defectively executed lease:
+“ ‘Reform’ does not connote ‘create.’ A reformation presupposes the existence of a valid instrument which fails to express the actual intent of the parties. An action for reformation is not to create an obligation but to establish the content of the instrument as intended by the parties.
+“To obtain the relief sought by appellant in the instant case would require the court to re-execute an improperly executed lease. This a court cannot do. A court can no more execute an instrument on behalf of the parties than it can create a new and different agreement for them. A court of equity under its power of reformation cannot validate or give life to an invalid lease.”
+Applying this reasoning to the case sub judice, partial performance may remove a defectively executed lease from the operation of the Statute of Conveyances. In Loveland Properties v. Ten Jays, Inc. (1988), 57 Ohio App.3d 79, 567 N.E.2d 270, paragraph one of the syllabus cites Delfino, supra, and states:
+“Part performance of a lease defectively executed under the Statute of Conveyances (R.C. 5301.01) removes the lease agreement from the operation of the statute when four factors are present: (1) unequivocal acts by the party relying on the agreement; (2) the acts are exclusively referable to the agreement; (3) the acts change the party’s position to his detriment; and (4) the acts make it impossible to place the parties in statu quo. (Delfino v. Paul Davies Chevrolet, Inc. [1965], 2 Ohio St.2d 282, 31 O.O.2d 557, 209 N.E.2d 194, paragraph four of the syllabus, applied.)”
+We find that although the trial court correctly granted summary judgment on the question of the existence of a lease, there remains a question as to whether or not the lease was removed from the Statute of Conveyances by partial performance of the parties.
+We further note that if the trial court determines that no lease exists, then it must determine the terms of the resulting tenancy. As this court held in Harleysville Mut. Ins. Co. v. West 106th Street Realty (July 28, 1988), Cuyahoga App. No. 54178, unreported, at 5, 1988 WL 86958:
+“But it is well settled that where a purported lessee takes possession under a defectively-executed lease and pays rent, a tenancy will be implied and is subject to all of the terms of the purported lease except duration. See Baltimore & Ohio Railroad Co. v. West (1897), 57 Ohio St. 161 [49 N.E. 344]. The duration of the term is determinable by the provisions for payment of rent, so a lease providing for annual rent creates a tenancy from year to year, whereas a lease providing for monthly rent creates a tenancy from month to month. See Wineburgh v. Toledo Corporation [ (1932) ], 125 Ohio St. [219] at 222 [181 N.E. 20 at 21]. A year-to-year tenancy will be implied where the rent is reserved annually, although payable in monthly installments. See Baltimore & Ohio Railroad Co. v. West, supra [57 Ohio St.], at 165[, 49 N.E. at 344]; Kallins v. Rex, Inc. (1955), 103 Ohio App. 108[, 71 Ohio Law Abs 525, 3 O.O.2d 178, 125 N.E.2d 371].”
+The judgment of the trial court is reversed and the cause is remanded for a determination as to whether the lease was removed from the Statute of Conveyances and an implied lease created by the partial performance of the parties. If the court determines that the partial performance of the lease was not sufficient to create an implied lease, the court must then determine the terms of the resulting tenancy.
+Judgment reversed and cause remanded.
+Nahra, P.J., James D. Sweeney and Patricia A. Blackmon, JJ., concur.
