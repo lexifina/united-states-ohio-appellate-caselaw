@@ -1,0 +1,57 @@
+---
+court: "Ohio Court of Appeals"
+docket: "L-95-136"
+decided: "1996-03-01"
+citations: ["109 Ohio App. 3d 634"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Melvin L. Resnick, P.J., and Handwork, J., concur."]
+parties: ["The STATE of Ohio, Appellee, v. ROBERTS, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/109/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1789748
+cites_cases: ["1994 WL 30506", "372 N.E.2d 804", "40 Ohio St.3d 205", "49 Ohio St.3d 247", "53 Ohio St.2d 91", "53 Ohio St.3d 107", "533 N.E.2d 294", "551 N.E.2d 1279", "559 N.E.2d 710", "580 N.E.2d 1", "590 N.E.2d 261", "62 Ohio St.3d 118", "63 Ohio St.3d 613", "7 O.O.3d 178"]
+---
+
+# State v. Roberts
+
+## Majority (Abood, Judge.)
+
+Abood, Judge.
+This is an appeal from a judgment of the Lucas County Court of Common Pleas in which, following a jury trial, appellant Louie Conley Roberts III was found guilty and sentenced on one count of felonious assault and one count of aggravated assault.
+Appellant sets forth the following assignments of error:
+“A. The trial court committed plain error by instructing the jury that it could consider the lesser offense of aggravated assault only if it first found that the state failed to prove beyond a reasonable doubt that appellant was guilty of felonious assault.
+“B. As the jury found appellant not guilty of felonious assault in the second count of the indictment, it was impossible to convict appellant of aggravated assault, which contains the same elements as felonious assault.
+“C. The trial court committed prejudicial error when it decided to alter and refashion the jury instructions after closing argument had been presented by defense counsel.
+“D. The trial court erred to the prejudice of appellant when it denied appellant’s request for a jury instruction as to the lesser included offense of assault.”
+The facts that are relevant to the issues raised on appeal are as follows. On the night of December 15, 1994, five men including appellant were involved in an altercation in which one man was hit in the head with a gun and another was shot in the foot. On December 30, 1994, the Lucas County Grand Jury returned an indictment which charged appellant with two counts of felonious assault, with a firearm specification as to each, and two counts of aggravated assault, with a physical-harm specification as to each. Appellant entered pleas of not guilty to the charges. When, on April 11, 1995, the case was called for trial, the state dismissed the two counts of aggravated assault. The case then proceeded to trial on the two counts of felonious assault. After closing arguments, the trial court instructed the jury as follows:
+“Now, as to both counts of the indictment separately, if you find that the State proved beyond a reasonable doubt all of the essential elements of the offense of felonious assault, your verdict must be guilty as charged. However, if you find that the State failed to prove any one of the essential elements of the offense of felonious assault, you must find the defendant not guilty of felonious assault and you will proceed with your deliberations to decide whether the State has proved beyond a reasonable doubt all the essential elements of the lesser included offense of aggravated assault.
+“ * * *
+“If you find that the State failed to prove beyond a reasonable doubt that the defendant knowingly caused or attempted to use [sic] physical harm to the victim by means of a deadly weapon or dangerous ordnance, but you also find the defendant failed to prove by a preponderance of the evidence that he acted under the influence of sudden passion or in a sudden fit of rage, either of which was brought on by serious provocation occasioned by the victim that was reasonably sufficient to incite the defendant into using deadly force, then you must find the defendant guilty of aggravated assault.
+“Does all this make sense to you? You’ll first consider as to each count whether or not the defendant is guilty of felonious assault with the definitions that I gave you.
+“If you find that the State failed to prove any one of the essential elements of felonious assault, then you must look to the lesser offense of aggravated assault.”
+At the conclusion of the court’s instructions, the jury retired to deliberate and thereafter returned verdicts of guilty of felonious assault as to Count 1 and not guilty of felonious assault but guilty of aggravated assault as to Count 2.
+Appellant’s first two assignments of error address the propriety of the trial court’s instructions to the jury as to the relationship between the offense of felonious assault as charged in the indictment and the “lesser” offense of aggravated assault.
+In his first assignment of error, appellant asserts that those instructions misstated the law and created confusion for the jury. Appellant argues in support thereof that the trial court erroneously charged that aggravated assault is a “lesser included” offense of felonious assault; that the jury should have been instructed that if it found him guilty of felonious assault it should then consider the issue of serious provocation as a mitigating circumstance, which could then reduce the charge to the lesser offense of aggravated assault; and that when the trial court instructed the jury to do the opposite and consider the question of serious provocation only if it found him not guilty of felonious assault, it precluded the jury from ever properly considering the issue of whether the charges of felonious assault should be mitigated by the victim’s provocation.
+In his second assignment of error, appellant asserts that after the jury found him not guilty of felonious assault on the second count it could not have properly gone on to find him guilty of aggravated assault because aggravated assault contains the same principle elements as felonious assault.
+Since, as appellant acknowledges, there was no objection entered as to the above instructions, this court must first determine whether they were in fact erroneous and, if so, whether the defect rises to the level of plain error.
+R.C. 2903.11(A)(2) provides as to the offense of felonious assault that:
+“(A) No person shall knowingly:
+U * *
+“(2) Cause or attempt to cause physical harm to another by means of a deadly weapon or dangerous ordnance, as defined in section 2923.11 of the Revised Code.”
+R.C. 2903.12(A)(2) provides as to the offense of aggravated assault that:
+“(A) No person, while under the influence of sudden passion or in a sudden fit of rage, either of which is brought on by serious provocation occasioned by the victim that is reasonably sufficient to incite the person into using deadly force, shall knowingly:
+U ‡ ‡ ‡
+“(2) Cause or attempt to cause physical harm to another by means -of a deadly weapon or dangerous ordnance, as defined in section 2923.11 of the Revised Code.”
+In State v. Deem (1988), 40 Ohio St.3d 205, 210-211, 533 N.E.2d 294, 299, the Supreme Court of Ohio concluded that the offense of aggravated assault is an “inferior degree” of the offense of felonious assault “since its elements are identical to those of felonious assault, except for the additional mitigating element of serious provocation.” Where a defendant is charged with felonious assault and sufficient evidence of the felonious assault and serious provocation by the victim is presented, the trial court should instruct the jury that the defendant carries the burden of proving the mitigating circumstances by a preponderance of the evidence for the jury to find him guilty of aggravated assault rather than felonious assault. State v. Rhodes (1992), 63 Ohio St.3d 613, 617, 590 N.E.2d 261, 263-264; State v. Schofield (Feb. 4, 1994), Lucas App. No. L-93-008, unreported, 1994 WL 30506. See, also, 4 Ohio Jury Instructions (1995), Section 503.11(13).
+In accordance with the foregoing, this court finds that after the trial court instructed the jury as to the elements of felonious assault and aggravated assault, the instructions should have continued as follows:
+“If you find that the state failed to prove beyond a reasonable doubt that the defendant knowingly caused serious physical harm to [the victim] by means of a deadly weapon, then you find the defendant not guilty.
+“If you find' that the state proved beyond a reasonable doubt that the defendant knowingly caused serious physical harm to [the victim] by means of a deadly weapon, and you find that the defendant failed to prove by the greater weight of the evidence that he acted while he was under the influence of sudden passion or in a sudden fit of rage, either of which was brought on by serious provocation occasioned by the victim that was reasonably sufficient to incite the defendant into using deadly force, then you must find the defendant guilty of felonious assault.
+“If you find that the state proved beyond a reasonable doubt that the defendant knowingly caused serious physical harm to [the victim] by means of a deadly weapon, but you also find that the defendant proved by the greater weight of the evidence that he acted while under the influence of sudden passion or in a sudden fit of rage, either of which was brought on by serious provocation occasioned by the victim that was reasonably sufficient to incite the defendant into using deadly force, then you must find the defendant guilty of aggravated assault.”
+Upon consideration of the entire record of proceedings before the trial court and the law as set forth above, this court finds that the trial court erred in its instructions to the jury and thereby precluded the jury from properly considering the mitigating circumstances as set forth in R.C. 2903.13.
+Having made that finding, we will now consider whether the erroneous instructions amounted to plain error. The Supreme Court of Ohio has consistently stated that the failure to object to jury instructions at trial as required by Crim.R. 30, absent plain error, constitutes waiver of any claim of error on appeal. State v. Williford (1990), 49 Ohio St.3d 247, 251, 551 N.E.2d 1279, 1283; State v. Long (1978), 53 Ohio St.2d 91, 7 O.O.3d 178, 372 N.E.2d 804. While Crim.R. 52(B) provides that “[p]lain errors or defects affecting substantial rights may be noticed although they are not brought to the attention of the court,” notice of plain error must be taken with the utmost caution, under exceptional circumstances, and only in order to prevent a manifest miscarriage of justice. Long, supra; State v. Landrum (1990), 53 Ohio St.3d 107, 111, 559 N.E.2d 710, 717; State v. Franklin (1991), 62 Ohio St.3d 118, 128, 580 N.E.2d 1, 9.
+Upon consideration thereof, this court finds that the trial court’s erroneous instructions prevented the jury from properly applying the law and thereby affected appellant’s substantial rights and resulted in a manifest miscarriage of justice. Accordingly, appellant’s first and second assignments of error are found well taken and appellant’s third and fourth assignments of error are thereby rendered moot.
+On consideration whereof, this court finds that appellant was prejudiced and prevented from having a fair trial, and, therefore, the judgment of the Lucas County Court of Common Pleas is reversed and this cause is remanded to the trial court for a new trial.
+Judgment reversed and cause remanded.
+Melvin L. Resnick, P.J., and Handwork, J., concur.
