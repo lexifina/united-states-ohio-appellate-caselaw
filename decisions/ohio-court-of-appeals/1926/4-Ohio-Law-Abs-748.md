@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "6491"
 decided: "1926-05-03"
-citations: ["4 Ohio Law Abs. 748", "4 Ohio Law Abs. 324"]
+citations: ["4 Ohio Law Abs. 748"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
