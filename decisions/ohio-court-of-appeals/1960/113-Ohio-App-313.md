@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "8797"
+decided: "1960-06-27"
+citations: ["113 Ohio App. 313"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matthews, P. J., and Long, J., concur."]
+parties: ["Walker et al., Appellees, v. Ball et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/113/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1444375
+---
+
+# Walker v. Ball
+
+## Majority (O’Connell, J.)
+
+O’Connell, J.
+The facts disclose that on the 30th day of April 1957 a contract was entered into by Fred Egerer, the contractor, and William M. Ball, the owner, for the building of a family room and a blacktop driveway on the premises located at 7431 Timberlane Drive, Maderia, Hamilton County, Ohio, for the sum of $3,400.
+By the terms of this contract, the owner agreed to pay the contractor as follows:
+“1) When the slab is poured, 1/3 of total
+“2) When family room is roofed over, 1/3 of total
+“3) When family room and nine (9) foot blacktop driveway is completed, 1/3 of total.”
+The contract provided further that “any alterations to the plans, or additions thereto, other than mutually agreed upon by the owner and contractor, shall be paid for by the owner, over and above the contract price, as set forth in 'this agreement. Said cost of alterations or additions shall be at the rate of: Cost plus (fifteen) 15 per cent.” And it further provided that “contractor agrees to furnish affidavits for all labor and materials at each draw.”
+The facts disclose also that for the first and' the second draws affidavits that all laborers and materialmen had been paid in full were furnished by the contractor, and that the owner paid the contractor the sum of $2,200 for these first two draws.
+The facts also are that the owner paid the contractor as a prepayment on the third draw the sum of $200, without the contractor furnishing the owner with an affidavit that all laborers and materialmen had been paid.
+Meanwhile, William Walker and others, doing business as Walker Feed & Supply Company, had filed a petition against Dorothy W. Ball, William L. Ball, III, Equitable Life Insurance Company of the United States, William Baker, doing business as Baker Blacktop Driveways, Richard Behrens, Al Meinking, John G. Haucke, doing business as McCall Window & Door Company, George Guckenberger, Auditor of Hamilton County, and Paul A. O’Brien, Treasurer of Hamilton County, in which he prayed “that he may have judgment against the defendant, Dorothy W. Ball, in the sum of eight hundred ninety three and 85/100 ($893.85) dollars on his first cause of action together with interest at the rate of 6% per annum from October 5, 1957, and that his mechanic’s lien be foreclosed and said premises ordered sold; that the priority of liens be determined and that the proceeds of said sale be paid to the respective lien holders in order of their priority and for such other and further relief as the nature and case may require.”
+To this petition, the defendants William Baker, Richard. Behrens, A1 Meinking and John G. Haucke filed answers and cross-petitions, in which each set up the amount due them as subcontractors, for which they asked judgment, and asked that their lien be declared good and valid; that the liens be foreclosed; that the premises be sold; and that the proceeds be applied to the payment of the claim of the lienholders and for other relief..
+The defendants Dorothy W. Ball and William M. Ball, III, denied for want of better knowledge, the delivery of the materials to the premises theretofore described therein and that any materials were delivered to said premises after August 17, 1957, thus rendering invalid the plaintiff’s mechanic’s lien filed within 60 days from the date of the last delivery, as. required by law. Those defendants, therefore, asked that the lien be can-celled of record and that the action against them be dismissed. In a second answer, those defendants admit that there was a contract between them and one Fred Egerer, and answering further, they deny each and every allegation in the petition and cross-petitions not theretofore specifically.admitted to be true.
+The cause was heard on the petition, the answers and the cross-petitions.
+The court then found that there was due the plaintiff Walker Feed & Supply Company, the sum of $893.84, with interest; that there was due William Baker, doing business as Baker Blacktop Driveways, the sum of $159 with interest; that there was due Richard Behrens the sum of $245 with interest; that there was due A1 Meinking, the sum of $230 with interest; that there was due John G. Haucke, doing business as McCall Window & Door Company, the sum of $786.57 with interest from the defendants, Dorothy W. Ball and William M. Ball, III, “for which judgment is hereby rendered against the defendants, Dorothy W. Ball and William M. Ball, III.”
+The court found further that these sums are for the materials delivered and work performed and used in the addition to the premises at 7431 Timberlane Drive, Maderia, Hamilton County, Ohio, and that William Walker et al., doing business as Walker Feed & Supply Company, William Baker, doing business as Baker Blacktop Driveways, Bichard Behrens, Al Meinking and John G. Haucke, doing business as McCall Window & Door Company “within 60 days after the last of said supplies and materials were delivered or labor performed filed with the Becorder of Hamilton County an affidavit setting forth the amount due each of them, and for which they claim a lien against such real estate of Dorothy W. Ball and William M. Ball, III, which is located at 7431 Timberlane Drive, Maderia, Hamilton County, Ohio.”
+The court found further that ‘ ‘ each of the above lienholders complied with the Ohio mechanics’ lien law in all respects” in perfecting their liens. The court continued the case so far as amounts due other defendants were concerned.
+The court ordered that unless the defendants, Dorothy' W. Ball and William M. Ball, III, “shall within fifteen (15) days of the entry of this decree pay or cause to be paid to the clerk of courts the costs in this case and the amounts due the plaintiff and defendants, as set forth, the equity of redemption of Dorothy W. Ball and William M. Ball, III, and the real estate described in the petition be foreclosed; that the property be sold free of all claims of all parties hereto and that order of sale be issued to the sheriff of Hamilton County, Ohio, directing him ^ * sell said premises as upon execution * *
+It is from this decision of the trial court that an appeal was taken to this court.
+Since a personal judgment, such as has been rendered in the trial court against Dorothy W. Ball and William M. Ball, III, could be taken only if there were contractual relations between the subcontractors and the owner, it was erroneous for the trial court to give such personal judgment - against the owner. And this part of the judgment is hereby reversed. As is stated in 36 Ohio Jurisprudence (2d), 630, Section 163:
+“ * * * the cause of action for the enforcement of the mechanic’s lien may be joined with a cause of action for a money judgment based on tbe contract for tbe labor or materials furnished, and a personal judgment may be awarded the claimant on such contract if he properly establishes such contract and a creditor-debtor relationship to the defendant against whom the personal judgment is sought.
+“ # * * But a subcontractor or materialman who has no contract with the owner, but only with the principal contractor, cannot recover a personal judgment against the owner. * * *”
+This court finds further that there is owing to the lien-holders the amounts that are set forth in the judgment of the trial court, and that they have good and valid liens on the property of the owners. The court finds also that the contract price for the building was $3,400; that $2,200 was paid to the contractor according to the terms of the contract; and that $200 was paid to the contractor as a prepayment on the final installment, but that no affidavit showing that all subcontractors, laborers and materialmen have been paid the amounts due them; that, therefore, no credit can be taken for this $200 payment; and that there is, therefore, owing by the owner to the contractor a certain sum, plus the costs of any extras, that, under the contract, must be paid by the owner to the contractor, and any other costs that under the contract are due the contractor.
+The court finds also that the contractor’s whereabouts are unknown; that whatever balance remains in the hands of the owner is subject to the claims of the lienholders, and that since the claims of the lienholders are in excess of the balance in the hands of the owner, such balance shall be distributed to the lien-holders, proportionately.
+Finally, this court finds that there is no evidence to support any claim of collusion between the owner and the contractor to defraud the lienholders of claims due them.
+This cause is therefore remanded to the Court of Common Pleas for further proceedings in accordance with this opinion.
+Judgment accordingly.
+Matthews, P. J., and Long, J., concur.
