@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "11337"
+decided: "1984-02-08"
+citations: ["14 Ohio App. 3d 22"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mahoney, P.J., concurs.", "Baird, J., dissents."]
+parties: ["Carlyn et al., Trustees, Appellants, v. Davis, Clerk, et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/14/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707789
+cites_cases: ["5 Ohio St. 3d 141"]
+---
+
+# Carlyn v. Davis
+
+## Majority (GEORGE, J.)
+
+GEORGE, J.
+This appeal arises from a decision of the court of common pleas denying the Springfield Township Trustees an injunction against the Clerk of the Akron City Council to prohibit the clerk from presenting to the city council the Audrey F. Benkoe annexation petition. This court reverses the judgment of the trial court.
+In 1979, a municipal petition for annexation was filed by the village of Lakemore requesting all of the unincorporated area within Springfield Township to be merged into the village of Lakemore. This municipal request included 58.007 acres of land owned by Benkoe. The electorate within the affected area approved the merger. Thereafter, the county council approved it, but the court of common pleas found that the proceedings were defective and therefore invalid.
+While litigation was proceeding on the Lakemore-Springfield annexation petition, Benkoe requested that her acreage be annexed to the city of Akron. The county council held a public hearing on her request, considered the petition for annexation and denied it. That denial was appealed to the court of common pleas pursuant to R.C. Chapter 2506. The court of common pleas reversed the denial of the Benkoe petition and ordered that the annexation materials be forwarded to the Akron City Council for its consideration of the proposed Benkoe annexation. That decision was not appealed.
+The Springfield Township Trustees brought an action, pursuant to R.C. 709.07, claiming that the county council did not have jurisdiction to consider the Benkoe petition for annexation while a municipal annexation petition, which included the Benkoe property, was awaiting a final judicial determination.
+First, it is to be noted that the township trustees have no statutory authority to intervene in an administrative appeal filed pursuant to R.C. Chapter 2506. In re Annexation of Land in Springfield Township (Apr. 15, 1981), Summit App. No. 9831, unreported; and In re Appeal of Bass Lake Community, Inc. (1983), 5 Ohio St. 3d 141. Therefore, they could not intervene in Benkoe’s appeal from the denial of her petition for annexation. And, as a matter of record, the township trustees did not intervene in the R.C. Chapter 2506 appeal. Since the decision of the county council was reversed in the administrative review process, and since the court found that the denial of annexation was unsupported by a preponderance of reliable and probative evidence, the township trustees’ only available remedy was to file an R.C. 709.07 action against the proposed Benkoe annexation. In re Annexation of Land in Northampton Township (May 19, 1982), Summit App. No. 10433, unreported. This they have done.
+The township trustees have continuously urged that the county council lacked jurisdiction to entertain the Benkoe petition until the Springfield-Lakemore annexation was finally adjudicated. While county council’s action on the Benkoe petition was to deny annexation, by such denial Benkoe was able to perfect an R.C. Chapter 2506 appeal. The township trustees were prohibited from intervening in the R.C. Chapter 2506 appeal and have not been a party to any litigation which involved the 58.007 acres of Benkoe annexation request.
+The remedy available to the township trustees upon the entering of an order allowing an annexation is injunc-tive relief as provided under R.C. 709.07. In re Appeal of Bass Lake Community, Inc., supra. It is only through this type of a proceeding that the trustees can assert their rights. When the trial court adopted the decision rendered previously in the Benkoe R.C. Chapter 2506 appeal as being dispositive of the trustees’ R.C. Chapter 709 action, it effectively denied the trustees théir only remedy. The trial court in this proceeding had before it all the information necessary to determine whether there was any error in the proceedings, as contemplated under R.C. 709.07(D). The trial court should have ruled upon the jurisdictional issue presented in the R.C. 709.07 action independent of other actions brought by other parties.
+Accordingly, the assignment of error is well-taken. This court orders that the judgment of the trial court be reversed. The cause is remanded for proceedings consistent with the law and this opinion.
+Judgment reversed and cause remanded.
+Mahoney, P.J., concurs.
+Baird, J., dissents.
+
+## Concurrence (Mahoney, P.J.,)
+
+Mahoney, P.J.,
+concurring. As my colleague Judge Baird has so aptly pointed out in his dissent, we do have a “tortured and convoluted” procedure under the facts of this type of annexation proceeding. We have a truly anomalous situation. However, such anomaly should not prevent the trial judge from performing his duty under R.C. 709.07. The petitioners under R.C. 709.07 had a right to have the trial judge review the entire file, consider such new evidence as they might offer and to make an independent judgment upon their petition for an injunction. The previous decision of the trial judge under the R.C. Chapter 2506 appeal was not res judicata to the R.C. 709.07 in-junctive procedure. I believe the trial judge had a duty to make an independent judgment of the merits of their petition even though it was condensed to a singular issue which had been ruled upon by another member of that court.
+I also believe the trial judge in the R.C. Chapter 2506 appeal erred in bypassing the county council in his order. In my opinion he should have reversed and remanded the cause to the county council to adopt a resolution granting the annexation pursuant to his finding and ordering the resolution etc. forwarded to the city of Akron’s Clerk. At this stage of the proceedings this reversal may very well be an exercise in futility. Nevertheless, we should endeavor to keep the record straight and guide the trial court in future similar actions.
+
+## Dissent (Baird, J.,)
+
+Baird, J.,
+dissenting. When an R.C. Chapter 2506 appeal is not available, the only avenue by which opponents of an annexation can judicially challenge the approval of an annexation is by the use of the injunctive procedure provided in R.C. 709.07. That section was obviously designed to provide a remedy for opponents when the annexation has been approved by the board of county commissioners, and relief is expressly precluded under that section unless the petitioners can show that there was error in the proceedings before the board, or that its decision was unreasonable or unlawful. Where the decision of the board of county commissioners is to reject the annexation, persons who are opposed to the annexation are going to find it difficult to make the required showing, since the proceedings which they aré ostensibly attacking resulted in a decision favorable to their position.
+Therefore, the use of the statutory injunctive relief procedure in such circumstances is tortured and convoluted, at best. It is difficult to conceive how opponents could do anything but attempt to show that the matter never should have been decided by the board of county commissioners in the first place, i.e., that the board did not have jurisdiction to decide the annexation matter. Indeed, an allegation to that effect is, in fact, the only allegation in the complaint herein of any claimed error entitling the appellants to relief. The trial court, after noting that the parties had agreed that the only issue in the case was the aforementioned narrow jurisdictional question, and that the matter had already been decided by the court of common pleás in the previous litigation, ádopted the rationale of that decision and denied the injunction. The only thing that appellants sought was a ruling that the county council lacked jurisdiction in the case; they got a ruling on that question. They have never sought a ruling on the merits of the annexation or any other procedural question; there is no reason why they should get a ruling on those questions.
+The trial court ruled on the merits of what was before it and provided ascertainable reasons for its ruling. There is nothing left for it to do, and there is no basis upon which to remand the case. Appellants have assigned but one error, that being the denial of the injunction. Appellants have recited but one issue, that being whether county council had jurisdiction to decide the annexation. That is the question before this court, and there is no reason not to rule on it.
+At all levels there has been only one issue, upon which the trial court ruled. The case has been appealed to this court, which should affirm or reverse. Since I believe that county council did have jurisdiction to decide the original annexation, the judgment of the trial court should be affirmed.
