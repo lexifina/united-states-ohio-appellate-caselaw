@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2566"
+decided: "1939-10-06"
+citations: ["68 Ohio App. 104"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: [". Nichols, P. J., and Carter, J., concur."]
+parties: ["City of Youngstown et al., Appellants, v. Park and Recreation Commission, Appellee."]
+source_url: "https://static.case.law/ohio-app/68/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1369731
+cites_cases: ["102 N. E., 670", "111 N. E., 155", "48 L. R. A. (N. S.), 720", "88 Ohio St., 71", "92 Ohio St., 478"]
+---
+
+# City of Youngstown v. Park & Recreation Commission
+
+## Majority (Phillips, J.)
+
+Phillips, J.
+The city of Youngstown and Frank W. Barton, director of finance thereof, filed a petition in the Court of Common Pleas of Mahoning county for a declaratory judgment against the park and recreation commission of that city, a body created by an amendment to the home-rule charter under which that city has operated for some years. The commission filed an- answer and admitted all of the allegations of the petition and joined in the prayer thereof for the judgment. The lower court declared a judgment in favor of the commission and overruled the motions of the plaintiffs for a rehearing and for judgment in their favor, notwithstanding the decision of the court. From that judgment the plaintiffs appealed to us on questions of law.
+The conceded facts are that the council of the city legally appropriated and set aside for the use and benefit of the commission a specific sum of money, and the commission in accordance with a provision of section 33 of the charter of the city, as amended, advertised for bids for the purchase of trucks. Thereafter, without authority of the council of the city, the commission purchased two trucks for $2,800 and $1,300* respectively, and forwarded the requisitions to the director of finance for payment. He refused to honor the requisitions for the reason that the city contended that council had not authorized, by ordinance, the expenditure which was in excess of $500, thereby violating Section 4328, General Code, which so far as pertinent provides:
+“When an expenditure within the department, other than the compensation of persons employed therein, exceeds five hundred dollars, such expenditure shall first be authorized and directed by ordinance of council. When so authorized and directed, the director of public service shall make a •written contract with the lowest and best bidder after advertisement * * *.”
+The city and its finance director claimed that the provisions of Section 4328, General Code, squarely placed the provisions of this section of the Code in the category of debt statutes, which applied to all cities, and that the provisions of section 33 of the charter of the city as amended permitted the city to incur an indebtedness in excess of $500 without the approval of the city council, which that section of the General Code expressly prohibited, and which violated the provisions of Section 13, Article XVIII of the Constitution.
+The commission contended that it had legal authority to expend the fund to the full extent of the amount appropriated without further approval of the council regardless of the amount of any specific expenditure thereunder, and that the city would incur no indebtedness by reason of the contract as payment would be made from the fund appropriated.
+The people of the city of Youngstown, under authority conferred upon them by the home-rule amendment of the Constitution (Section 7, Article XVIII), adopted a home-rule charter and thereby acquired authority to exercise all powers of local self-government, limited by Section 3, Article XVIII of the Constitution, as amended, which “are such powers of government as, in view of their nature and the field of their operation, are local and municipal in character.” State, ex rel. City of Toledo, v. Lynch, Aud., 88 Ohio St., 71, at 97, 102 N. E., 670, 48 L. R. A. (N. S.), 720, Ann. Cas. 1914D, 949. See, also, Billings v. Cleveland Ry. Co., 92 Ohio St., 478, at 484, 111 N. E., 155.
+The city acquired the same power to legislate, adopt and enforce within its limits such local police, sanitary and other similar regulations, as are not in conflict with general laws, as the General Assembly has.
+“The charter # * finds its validity and its vitality in the Constitution itself and not in the enactments of the General Assembly. The source of authority and the measure of its extent is the Constitution. The powers conferred by such a charter, adopted within the limitations stated, are not affected by the general statutes of the state.” Billings v. Cleveland Ry. Co., supra.
+Under the provisions of Sections 3 and 7, Article XVIII of the Constitution, the general laws for the government of the city continued in full force and effect until changed by the adoption of that charter, and all inconsistent laws fell simply because they were inconsistent; all repugnant laws were repealed by implication. Billings v. Cleveland Ry. Co., supra.
+Upon adoption that charter became the organic law of that city and by reason of the new distribution of governmental power therein a sovereign power was created as far as such local self-government was concerned, subject to the exceptions of the Constitution as amended. The creation of the park and recreation commission was a local unit created by authority conferred upon the city by the provisions of the Constitution as amended.
+The city is supreme over matters of local self-government and may pass and enforce such laws, other than police, sanitary and similar regulations as are not in conflict with general laws on those subjects and the provisions of its charter will repeal statutes in conflict therewith subject to the limitation of Section 3, Article XVIII of the Constitution, as amended.
+The general law charged the council of the city with and vested the general management and control of the finances of the city in the council, but the charter vested the commission with power to control, manage and disburse a particular fund for park and recreation purposes, and that fund is accordingly no longer subject to the authority of council as to its disbursement.
+The charter, as amended, empowered the commission to make any contract for the purpose of executing its powers and performing its duties, and any expenditure, other than the compensation of persons employed therein, which exceeded $500 subject to the provisions of general law as related to advertising for bids.
+Section 13, Article XVIII of the Constitution, provides that “laws may be passed to limit the power of municipalities to levy taxes and incur debts for local purposes.” But the expenditure in question created no debt against the city for the reason that it would be paid out of a fund already appropriated by the council for the use of the park and recreation commission.
+The charter as amended abolished the requirements of Section 4328, General Code, as it related to the city of Youngstown and Section 111 of the original charter which provided for the approval by council of all contracts which exceeded $500 made by the commission. It was a valid exercise of the home-rule power and was not a violation of the general law effective under Section 13, Article XVIII of the Constitution, which limits the power of a city to incur debts. The finance director of the city should have honored requisitions for the expenditure set out in the petition, provided the same had been duly appropriated for the general purpose of the subject-matter of the contract. We so hold.
+From what we have said it follows that the judgment of the lower court should be and is hereby affirmed.
+Judgment affirmed.
+. Nichols, P. J., and Carter, J., concur.
