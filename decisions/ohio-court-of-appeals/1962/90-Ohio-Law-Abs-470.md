@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "26074"
+decided: "1962-12-13"
+citations: ["90 Ohio Law Abs. 470"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kovachy, P. J., and Hurd, J., concur."]
+parties: ["Paich, Estate of, In re: Deceased."]
+source_url: "https://static.case.law/ohio-law-abs/90/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1812477
+---
+
+# In re Estate of Paich
+
+## Majority (Skeee, J.)
+
+Skeee, J.
+This appeal comes to this court on questions of law from an order entered by the Probate Court of Cuyahoga County probating the will of Nellie Paich. Nellie Paich died in West Germany on November 9, 1961. Her place of residence in Germany at the time of her death was Friedhofstr. 22 Gollmadingen.
+The appellant’s primary claim of error is that the Probate Court of Cuyahoga County is without jurisdiction to probate such will for the reason that the deceased was not domiciled in Cuyahoga County, Ohio, and that there was no property subject to administration belonging to the deceased in Cuyahoga County at the time of her death.
+The record discloses and the bill of exceptions and stipulations present the following facts:
+Raymond E. Cookston, an attorney at law, filed an application to probate the last will and testament of Nellie Paich in the Probate Court of Cuyahoga County on January 26, 1962. The will had been deposited with the Probate Court of Cuyahoga County after its execution for safekeeping as provided by Section 2107.07, et seq., Revised Code. The manner in which and the person to whom the will was delivered after the death of Nellie Paich is not disclosed by the record. It is clear, however, that the named executor or the beneficiaries named in the will were not residents of Cuyahoga County.
+Before the application was heard, a motion was filed on behalf of Olga Hirsehenberger, the principal beneficiary under the will, who resides in West Germany, seeking to have the application dismised for want of jurisdiction as not coming within the provisions of Section 2107.11, Revised Code, dealing with the county in which a will may be probated.
+It is disclosed that the deceased, a widow, purchased the property located at 2408 Seymour Avenue, Cleveland, Ohio, and resided there from 1953 until after she sold the property in March of 1957. Helen and Charles Becvar resided with her during this period. (Helen is alleged to be the sister of Nellie Paich, although there is no evidence to support such relationship.) Charles Becvar died in 1955 and his widow, Helen, married Millard R. Paige on April 6, 1957, at Ironton, Ohio, and took up residence in Charleston, West Virginia. The deceased owned a business property in Akron, Summit County, Ohio, which she had leased to the Ross Oil Corporation, the property having been developed as a gasoline station. Before leaving for Germany, and after her sister was married, she employed The First National Bank of Akron, under a management contract, to manage the property held under lease by the oil company, the contract providing that the bank should remit the income to her at a specified address in Germany. This the bank did until notified of her (Nellie Paich’s) death is West Germany in November of 1961. The only other asset of Nellie Paich, disclosed by the record, was a savings account of about one hundred forty-four dollars ($144.00) deposited in the Cleveland Trust Company of Cleveland which was withdrawn and the account closed by order of the deceased, and the money remitted to her in Germany by The First National Bank of Akron. There are no other facts certified by the record. Many facts not contained in the record are set out in the briefs. Such facts which might have been shown, such as the contents of application for passports, membership in a Cleveland Church and burial lot in the Church Cemetery, together with an alleged affidavit of Helen (Becvar) Paige, will be completely disregarded.
+The ruling of the referee, excluding the public record showing the purchase and sale of the Seymour Avenue property, was in error, and since the contents of these public records were stipulated, the fact of transfer of title by these documents is a part of the record in this case.
+Therefore, the only question of law in this appeal is whether, on the undisputed facts and the inferences to be drawn therefrom, Nellie Paich, living in Germany at the time of her death, was domiciled in Cuyahoga County, Ohio. The term “domicile” is associated with the principal place of residence established by a person. Domicile is defined in Black’s Law Dictionary as: “That place where a man has his true, fixed and permanent home and principal establishment and to which whenever he is absent, he has the intention of returning. * * * That place in which a man has voluntarily fixed the habitation of himself and family, not for a mere special or temporary purpose but with the present intention of making a permanent home for an unlimited period. ’ ’ Domicile, like seisin, must have tangible home and where one leaves a community, after first disposing of his home and then takes with him all his possessions and establishes a residence at another place (in this- case, a foreign country) and continues such new place of abode for four years, such circumstances show the purpose of such person to change his domicile, and where there is no evidence showing a contrary purpose, a finding that his domicile remained in the place that he had completely abandoned is contrary to law.
+A naturalized citizen of the United States can become domiciled in a foreign country so long as he complies with the Jaw of the country in which he establishes his place of residence. Certainly no law or rule of West Germany has been cited providing otherwise. See Fed. Code Ann., Title 8, para. 1484 and para. 1485, subsection 3, providing that upon these facts here not in dispute, Nellie Paich did not lose her status as a citizen of the United States.
+The judgment of the Probate Court in overruling appellant’s motion to dismiss the application for probate and entering' an order probating the will of Nellie Paich is reversed and the cause remanded with instructions to grant such motion and deliver the will to the jurisdiction where such will may be probated under the authority of Section 2107.11, Revised Code, as shown by the record.
+Exceptions. Order see journal.
+Kovachy, P. J., and Hurd, J., concur.
