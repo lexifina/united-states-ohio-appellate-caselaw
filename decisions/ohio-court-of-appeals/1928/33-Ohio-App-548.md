@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1928-05-28"
+citations: ["33 Ohio App. 548"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vickery and Levine, JJ., concur."]
+parties: ["The Cleveland Liberty Bank v. The Wanda Building Co."]
+source_url: "https://static.case.law/ohio-app/33/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1317141
+---
+
+# Cleveland Liberty Bank v. Wanda Building Co.
+
+## Majority (Sullivan, P. J.)
+
+Sullivan, P. J.
+This cause is here on appeal from the court of common pleas of Cuyahoga county, and at the beginning of the argument the court entertained a motion to dismiss the proceeding on the ground that the cause is not appealable, and we will proceed to an examination of this question because its determination settles the question whether it is necessary to consider the cause upon its merits along the channels outlined in the briefs.
+Inasmuch as it has been repeatedly held that the issues arising from the pleadings determine the question of appealability, it is necessary for us to turn to the pleadings in the case, and so doing we find that the petition is composed of two causes of action, in the first of which it is set out that on September 14,1925, the defendant, the Wanda Building Company, executed and delivered to John Rutkowski a certain promissory note in the sum of $8,000, payable one year after date, together with interest at the rate of 6 per cent., payable semiannually, and the cause of action closes with the allegation that the note is unpaid and past due, and that there is due thereon the sum of $8,480, together with interest from September 7,1926, at 6 per cent.; and for its second cause of action the plaintiff alleges that it incorporates all the facts of the first cause of action, and further alleges that on September 14, 1925, the Wanda Building Company, one of the defendants herein, being then and there the owner of the premises, conveyed to Rutkowski a mortgage deed for the purpose of securing the payment of the note set forth in plaintiff’s first cause of action. Then the petition sets up that the defendants, the Berkshire Life Insurance Company, the Cleveland Builders Supply & Brick Company, and Edward Roski claim some interest in the premises described, and asks to have their interest set forth in due and legal form.
+When we come to the examination of the prayer of the petition, we find that it is for a judgment against the Wanda Building Company in the sum of $8,480, together with interest from September 7, 1926, at 6 per cent, per annum; and then follows the prayer that the other defendants named be compelled to set up their interest or be forever barred, and, in addition, there is a further prayer that the mortgage be held to be a first and best lien upon the premises, that the premises be sold and the proceeds applied to the payment of plaintiff’s claim, and, finally, the appointment of a receiver is prayed for, together with such other and further relief as may be equitable in the premises.
+Thus it will be seen that, so far as the petition is concerned, the cause of action is for a judgment upon a promissory note, that the mortgage securing the same be foreclosed, and that out of the proceeds thereof the note be paid as a first preference by way of a mortgage.
+An examination of the amended answer of the Wanda Building Company shows an admission of the execution and delivery of the note in question, and it also admits the execution of the mortgage on the premises described, as security for the payment of the note, but it denies that there was any consideration for the note as regards the plaintiff, and also that plaintiff was a purchaser for value before maturity. There is a further denial of the ownership of plaintiff of the note, or that it was assigned in good faith, and, excepting the admissions, there was a denial of every other allegation of the petition.
+The balance of the amended answer sets up allegations to show that on September 14, 1925, the Wanda Building Company had been engaged to construct a certain building in the city of Cleveland, and that for the purpose of financing the same the defendant company agreed with John Rutkowsld, the payee of the note in question, that the Wanda Building Company could draw against Rutkowsld from time to time such amounts as were necessary in the construction of the building, and for the purpose of securing the same the note and mortgage were executed.
+It is claimed, however, that there were to be no advancements by Rutkowski to exceed $7,000, and it is alleged that the total advancements were only $6,976.50, and there is a further allegation that the plaintiff had full knowledge of these stipulations, so that the issue created by the pleadings is whether the amount claimed in the petition is the amount due, or the lesser amount, according to the figures just noted.
+There was a further claim that these differences had been fully adjudicated in the common pleas court in another lawsuit wherein the parties and issues were the same as in this.
+The prayer of this amended answer is that the amount due be determined, that the note be delivered up and canceled, and that such other relief be granted as may be equitable and proper, which latter request was also contained in the prayer of the petition.
+The allegations in the answer and cross-petition of the other codefendants in the case are confined simply to the amount of indebtedness claimed and the securities executed for the payment of the amounts, but, in the prayer of the pleading of the Berkshire Life Insurance Company, the court is asked to decree that its lien be the first and best lien upon the premises described in the petition, which it claims is security for the payment of $23,-000 and interest from June 15, 1926.
+Prom this state of the pleadings it appears that the paramount issue is whether the plaintiff should recover $8,000, or less, according to the figures above noted, appearing in the answer of the Wanda Building Company.
+The issue as to the priority of the mortgages is between the Wanda Building Company and the Berkshire Life Insurance Company, but, inasmuch as the issue disappears by the unquestioned priority of the Berkshire Life Insurance Company over the Wanda Building Company, it is obvious that the only issue is one of the amount of indebtedness.
+There is no issue as to the execution and delivery of the mortgage to secure the note set up by plaintiff. Therefore the case is a law, instead of a chancery, proceeding, and, under Section 6, Article IV, of the Constitution of 1912, the court can entertain no jurisdiction of the case, because under that section its appellate jurisdiction is confined to chancery cases only.
+With these views it becomes unnecessary to examine the merits of the controversy, as raised by the issue, because, having no jurisdiction, it would be useless to analyze the case with a view to a determination thereof upon the merits.
+The entry in the case itself will be “Appeal dismissed,” and on the motion docket the entry may be “Motion sustained.”
+Appeal dismissed.
+Vickery and Levine, JJ., concur.
