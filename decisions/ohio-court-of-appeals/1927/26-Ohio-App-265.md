@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1927-04-19"
+citations: ["26 Ohio App. 265"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Washburn, P. J., Funk and Pardee, JJ., concur..", "Judges of the Ninth Appellate District, sitting in place of Judges Sullivan, Vickery and Levine, of the Eighth Appellate District."]
+parties: ["The State, ex rel. Hile, v. City of Cleveland et al."]
+source_url: "https://static.case.law/ohio-app/26/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1857179
+cites_cases: ["101 Ohio St., 123", "112 Ohio St., 688", "128 N. E., 88", "148 N. E., 232"]
+---
+
+# State ex rel. Hile v. City of Cleveland
+
+## Majority (By the Court.)
+
+By the Court.
+First, the relator claims that the Constitution of this state does not permit the city of Cleveland to issue bonds ’ for the purpose of paying for land acquired or to be acquired by it outside of the limits of the city, for a landing field for aircraft, and for improving the land so acquired.
+Second, the relator claims, if the city does have such right, that the advertisement of the ordinance giving notice of the issuance and sale of said bonds was not published as required by law.
+Third, the relator claims that the legislation passed by the council of the city of Cleveland for the sale and advertisement of said bonds is for the purpose of raising money or loaning the credit of the city of Cleveland to or in aid of a corporation or company, in violation of Section 6, Article VIII, of the Ohio Constitution.
+Fourth, it is claimed by the relator that the passage of said ordinance for the issuance and sale of said bonds as an emergency measure is in violation of the Constitution of this state and the laws passed thereunder.
+By Section 3, Article XVIII of the Constitution, all municipalities of this state have authority to exercise all powers of local self-government, and by Section 4 of said article any municipality may acquire, construct, own, lease, and operate, within or without its limits, any public utility the products or services of which are, or are to be, supplied to the municipality or its inhabitants.
+If there is any doubt as to the authority of the city, by the provisions of the Constitution herein-before quoted, to acquire, own, and operate an air landing field, as contemplated by the ordinances under consideration, then all doubt must be removed by the enactment by the General Assembly of Paragraph 15 of Section 3677, General Code, and of Paragraph 29 of Section 3939, General Code, in which paragraphs express authority is conferred upon the municipalities of this state to do the things contemplated by such ordinance, which authority to confer such power the Legislature no doubt has. unless prohibited by some provision of the Constitution, which prohibition we are unable to find.
+As to whether the ordinances by which the city determined to raise the money for and to make the improvement were properly published, the relator claims that Section 4228, General Code, which requires publication in two English newspapers of opposite politics, is controlling, while the city contends that the provisions of its charter are controlling, which provisions require the ordinances to be published in a publication known as the ‘ ‘ City Record,” which is published by the city of Cleveland under the provisions of ordinances passed by the council, the power to do so being recognized by the charter.
+By the Constitution, the power of local self-government is granted to the city of Cleveland, and such power in a charter city includes the right to determine how and for what length of time its ordinances should be published, unless other provisions of the Constitution provide to the contrary .or authorize the Legislature to provide to the contrary.
+There is a provision in the Constitution which places the duty upon the Legislature to restrict the power of municipalities as to taxation, assessment, borrowing money and contracting debts and loaning their credit, in order to prevent the abuse of such power (Section 6, Article XIII), and by another provision of the Constitution the Legislature is given authority to pass laws to limit the power of municipalities to levy taxes and incur debts for local purposes. (Section 13, Article XVIII.)
+We hold that these provisions of the Constitution do not authorize the Legislature to pass laws controlling charter municipalities in matters of mere procedure, in exercising the powers given them under Article XVIII of the Constitution; that the Legislature may restrict the power of municipalities in the matter of taxation and the borrowing of money and may limit their power to incur debts, but that the enactment by the Legislature of Section 4228, General Code, requiring ordinances to be published in two newspapers, is not the exercise of the power given by Section 6 of Article XIII of the Constitution.
+The city of Toledo has charter provisions which are similar to the charter provisions of the city of Cleveland in reference to the advertisement of ordinances. In that city the city publication is known as the “Toledo City Journal;” the council of the city of Toledo passed an ordinance providing for the issuance of bonds of the city for the purpose of acquiring a public utility, and the officers of the city whose duty it was to publish said City Journal refused to publish the ordinance in the City Journal, and the city brought a mandamus-proceeding in the Supreme Court to compel the publication of the ordinance in said City Journal.
+While the question made in that case was not. as-to where the ordinance should be published, it is reasonable to suppose that the Supreme Court would not have compelled the publication of said ordinance in the Toledo City Journal if Section, 4228, General Code, was controlling, but would have required the ordinance to be published in two English newspapers of opposite politics. The Supreme Court did, by mandamus, order the publication of said ordinance in said Journal. State ex rel. City of Toledo v. Weiler, 101 Ohio St., 123, 128 N. E., 88.
+The question whether or not ordinances of the city of Cleveland should be published according to the provisions of its charter or according to the provisions of Section 4228, General Code, was previously presented to the Court of Appeals of' Cuyahoga county, and in a decision rendered February 26, 1921, it was determined that the provisions of the charter controlled, and the public authorities were enjoined from complying with Section 4228.
+Another objection made by the relator is that the ordinance in question was not an emergency ordinance, necessary for the immediate preservation of the public health, peace, and safety.
+The ordinance in question was passed as an emergency ordinance in the manner required by the charter of the city, and its emergency character was therein declared and set forth by the council. The record does not disclose- any challenge thereof by any proceeding to institute a referendum or otherwise, until the bringing of this suit, which was subsequent to the time allowed for instituting a referendum. In consequence thereof, as was determined in Vansuch v. State ex rel. Fetch, 112 Ohio St., 688, 148 N. E., 232, “such ordinance must now be considered effective immediately upon its passage, and the question of its emergency character, determined by the council, will not be inquired into. ” ,
+Judgment for defendants*
+Washburn, P. J., Funk and Pardee, JJ., concur..
+Judges of the Ninth Appellate District, sitting in place of Judges Sullivan, Vickery and Levine, of the Eighth Appellate District.
