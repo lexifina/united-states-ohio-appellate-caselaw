@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2-96-12"
+decided: "1996-10-01"
+citations: ["115 Ohio App. 3d 69"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hadley, P.J., and Shaw, J., concur."]
+parties: ["JARRELLS, Appellee, v. EPPERSON, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/115/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 964135
+cites_cases: ["38 Ohio St.3d 330", "528 N.E.2d 180", "566 N.E.2d 1181", "57 Ohio St.3d 135", "589 N.E.2d 24", "63 Ohio St.3d 498"]
+---
+
+# Jarrells v. Epperson
+
+## Majority (Thomas F. Bryant, Judge.)
+
+Thomas F. Bryant, Judge.
+This appeal is brought by defendant-appellant Melissa Epperson from a judgment of the Court of Common Pleas, Juvenile Division, of Auglaize County ordering that the surname of her minor child be changed from Epperson to Jarrells.
+Epperson and Steven G. Jarrells were engaged, but in November of 1994, they ended their relationship. In January 1995, Jarrells learned that Epperson was pregnant. Nicholas Taylor Epperson was born on July 7, 1995. On July 11, 1995, Jarrells, claiming to be the father of the child, filed a complaint to determine parentage. On August 8, 1995, Epperson filed an answer requesting genetic testing to determine the parentage. The test results established that Jarrells is probably the child’s father.
+On February 5, 1996, the parties submitted an agreed journal entry settling issues of support, visitation, and parental rights and responsibilities. The issue of the child’s surname was set for a hearing, which was held on March 22, 1996. At the conclusion of the hearing, after hearing the testimony of Jarrells and Epperson, the trial court announced its decision from the bench ordering that Nicholas’s surname should be changed from Epperson to Jarrells.
+On April 2, 1996, Epperson filed her request for findings of fact and conclusions of law. The court issued its journal entry including the findings of fact and conclusions of law on April 30, 1996. It is from that judgment that Epperson appeals.
+Epperson offers the following assignment of error:
+“The judgment of the trial court was against the manifest weight of the evidence in finding that it was in the best interest of the minor child to change the surname of said child.”
+“In determining whether to allow a change in the child’s name, * * * the request should be granted only upon finding that it is ‘in the best interest of the child.’” Bobo v. Jewell (1988), 38 Ohio St.3d 330, 334, 528 N.E.2d 180, 184. When reviewing a decision that a child’s name should be changed, a reviewing court is not free to substitute its judgment for that of the trial court. Cf. In re Jane Doe 1 (1991), 57 Ohio St.3d 135, 566 N.E.2d 1181. The determination of what is in the best interest of the child is within the sound discretion of the trial court. An abuse of discretion involves more than an error of judgment. It is an attitude on the part of the court that is unreasonable, unconscionable, or arbitrary. Franklin Cty. Sheriff’s Dept. v. State Emp. Relations Bd. (1992), 63 Ohio St.3d 498, 589 N.E.2d 24. A reviewing court should presume that the trial court’s findings are accurate, since the trial judge is best able to view the witnesses and observe their demeanor, gestures, and voice inflections and use these observations in weighing the credibility of the witnesses. In re Jane Doe 1 (1991), 57 Ohio St.3d 135, 566 N.E.2d 1181.
+In the present case, the trial court determined that the child’s best interest would be served by adopting the paternal surname. In support of this conclusion, the trial judge made several findings of fact. First, the trial judge found that Jarrells has substantial family ties in the community and Epperson does not. Second, the trial court found that Epperson someday intends to marry, thereby changing her surname. Third, Jarrells testified that he would feel a closer bond with the child if the surnames were the same; however, Epperson testified that the change of the surname would not affect her relationship with the child. Also, the court found that the name Epperson was placed on the child’s record without the consent or input from Jarrells.
+In determining whether a change of surname is in the best interest of the child, the trial court was required to consider the following factors: (1) the length of time the child has used the surname, (2) the effect of a name change on the father-child relationship and the mother-child relationship, (3) the identification of the child as part of a family unit, (4) the embarrassment, discomfort, or inconvenience that may result when a child bears a different surname from the custodial parent, (5) the preference of the child if the child is old enough to express a preference, and (6) any other relevant factor. Bobo v. Jewell (1988), 38 Ohio St.3d 330, 528 N.E.2d 180. The trial court examined the findings of fact in light of these factors and reached the conclusion that the surname change was in the best interest of the child. Specifically, the trial court concluded that the child is too young to express a preference, suffer embarrassment, or be inconvenienced by the name change. Further, the court was persuaded that while the mother-child relationship would be unaffected by the surname change, the father-child relationship would benefit. The trial court stated that “[sjince the father is not the residential parent, * * * the child’s best interests are served by establishing an identity with the father.” Also, the court concluded that the child would benefit by carrying the paternal surname due to Jarrell’s extensive ties to the community.
+While it is difficult to determine what is in the best interest of a child so young, sufficient evidence is in the record to support the trial court’s judgment. The record does not support our determination that the trial court’s decision was arbitrary, capricious or so unreasonable as to establish an abuse of discretion. Therefore, we overrule Epperson’s assignment of error.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Hadley, P.J., and Shaw, J., concur.
