@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 6015"
+decided: "1941-11-26"
+citations: ["35 Ohio Law Abs. 328"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MATTHEWS, PJ. & HAMILTON, J., concur."]
+parties: ["BOHNENKAMP, Admrx. v HIBBERD"]
+source_url: "https://static.case.law/ohio-law-abs/35/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1708262
+cites_cases: ["126 Oh St 227", "127 Oh St 545", "184 N. E. 852"]
+---
+
+# Bohnenkamp v. Hibberd
+
+## Majority (By ROSS, J.)
+
+OPINION
+By ROSS, J.
+Appeal on questions of law from a judgment of the Common Pleas Court, in which a verdict was instructed for the defendant, at the • close of plaintiff’s evidence.
+In the petition the plaintiff charged that her decedent lost her life by being struck by a taxicab operated by the defendant in a negligent, reckless manner, and at a high and dangerous rate of speed, contrary to the state law and the ordinances of the City of Cincinnati, which were pleaded. The plaintiff also alleged that the defendant failed to concede the right of way upon a cross walk to the decedent, who was a pedestrian thereon, also contrary to an ordinance of the City of Cincinnati.
+In the answer the defendant admitted the capacity of plaintiff as Administratrix and that the taxicab operated by him collided with the body of decedent, and denied all other allegations.
+Unfortunately for the plaintiff there was no eye witness to the tragedy produced as a witness. The task of this court is made more burdensome by reason of the trial technique adopted by plaintiff in causing witnesses to refer to a blackboard sketch, which is in no way presented in the record. Some considerable effort was made to cause the evidence to describe locations, but still it is impossible to know where a witness is pointing or what is meant by “here” and “there”.
+From the record it appears that decedent was a passenger upon a bus from which she alighted at about 9:30 P. M., December 10th, 1939, on the south curb ,of Dale Road, some few feet west of the east line of Laconia Avenue, which terminates in Dale Road. As near as can be determined from the record the decedent’s position when so alighting was approximately opposite the end of the west sidewalk of Laconia Avenue. There is a cross-walk from the south to the north curb of Dale Road at this point. There is no direct evidence of what the decedent did from this point on.
+A witness who resided on the south side of Dale Road and the west side of Dwyer Avenue, which extends southwardly from a point approximately opposite the east side of Laconia Avenue, while in her home heard a “thump” and going to a door of her home saw a taxicab stopped on the north side of Dale Road and some few feet east of Laconia Avenue. As the witness was observing this situation, the taxicab backed out toward the center of Dale Road disclosing the body of the decedent lying in the gutter near the north curb of Dale Road.
+The body of decedent lay in a pool of blood and the tires of the cab caused bloody tracks from the decedent’s body to where the cab stopped.
+The driver upon being charged with having killed a man said that it was a woman. Further statements of the driver to the police were excluded and no proferí appeared as to what such statements were. A pair of glasses belonging to decedent were found in the vicinity of the cross-walk near the north curb of Dale Road. Her shoes were knocked off her feet.
+There is evidence both in testimony and photographs of a large dent in the side of the hood somewhat to the rear of the right front fender. The front of the machine showed quantities of blood smear. A speed of thirty-five miles an hour is admitted to be a presumptive reasonable speed at the point where the collision occurred. The distance from where the decedent’s glasses were found to the point where her body rested was eighty-five feet.
+The skull of decedent was fractured and both her legs were broken and she was otherwise lacerated, cut, and bruised. She was pronounced dead on arrival at the hospital a few minutes after the collision.
+As an examination of this record is approached, certain rules of law applicable to the consideration of the action of the court in instructing a verdict must be borne in mind.
+In the first place, both decedent and the defendant’s employe, the taxicab driver, are clothed with a prima facie presumption attributing to each the exercise of reasonable care. This rule has been repeatedly noted as appears from the cases cited in the note in 29 O. Jur. 625. Sec. 149, 29 O. Jur. 625:
+“As indicated in the preceding section, it is generally declared that negligence is never presumed. On the contrary, the presumption exists that each party was in the exercise of ordinary care, and that neither was negligent, and each party has the benefit of such presumptions. Such presumptions must prevail until overcome by proof. The law presumes that persons upon whom the duty of exercising care is imposed do, in fact, exercise such care. Where nothing more than ordinary care is required, the exercise of that degree of care will be -presumed.
+“The existence of the presumption that individuals exercise ordinary care has been attributed to the law of self-preservation, and the general disposition among men to preserve their property, to avoid difficulty and danger, and escape the liability which the want of care and diligence would naturally subject them."
+See also: Troop A. Riding Academy v Miller, 127 Oh St 545. At page 549 of the opinion the Court say:
+“It is hornbook law that negligence is not presumed in the absence of proof from which negligence may be inferred. In the absence of such proof, a party is entitled to the benefit of the presumption that he was free from negligence. Martin Jr. v Heintz, 126 Oh St 227, 184 N. E. 852.”
+See also: Lang, Admx. v Pa. Rd. Co., 59 Oh Ap 345. In the next place, in considering the evidence of the plaintiff, the rule is stated in the 3rd paragraph of the syllabus in Martin v Heintz, 126 Oh St 227, as follows:
+“Upon a motion for a directed verdict the evidence must be given an interpretation most favorable to the plaintiff, and a directed verdict should be refused if a reasonable inference of due-care may be drawn from the evidence adduced.”
+Again, the same rule is stated in 39 O. Jur. 802, ¶183:
+“The trial judge, in ruling upon a motion, to direct a verdict or for a nonsuit on the evidence introduced, must not only assume the truth of the evidence in behalf of the party against whom the motion is directed, but must construe the evidence most strongly in favor of that party, or, as it is sometimes expressed, must give the most favorable interpretation or intendment in his behalf, and adopt the view most favorable to his contention, or consider it in the light most favorable to him, of which such evidence is susceptible. To this end the trial judge should give the party, against whom the motion is made, the benefit of all reasonable inferences that can be drawn from the evidence offered and consider as proved such reasonable mferences favorable to him as the facts proved warrant — as are deducible from the evidence given —without carrying the inferences to an illogical conclusion. In other words, the .evidence must be construed favorably to the submission of the case to the jury, and the trial judge should indulge in every possible consideration in favor of such submission.”
+Now translating these rules into specific application to the evidence here presented, it is apparent that it may be inferred that the' decedent in the exercise of ordinary care proceeded northwardly across Dale Road upon the crosswalk, using reasonable care for her own safety. Her glasses having been found in the vicinity of this cross-walk it may be inferred that it was here that the admitted collision with her body occurred. Her body being found some eighty-five feet away, her skull fractured. her legs broken, her shoes knocked off her feet, her blood spattered over the front of the taxicab, the dent in the hood, the heavy thump heard by the witness all are evidence which giving it a fair intendment tends to meet and overcome the prima facie presumption of care and compliance with law attributable to the driver of the taxicab.
+The collision having been admitted, such evidence certainly presents a substantial case which in the absence of any explanatory evidence would sustain a verdict for the plaintiff. The jury might well find otherwise, and its verdict would not be disturbed if its conclusion were in favor of the defendant, but certainly the evidence introduced by the plaintiff was of such a character as to require that the case, as it stood when the trial court instructed a verdict, should be presented to a jury. For this reason, the court committed error in instructing a verdict for the defendant, and this judgment is reversed and the case remanded for a new trial.
+MATTHEWS, PJ. & HAMILTON, J., concur.
