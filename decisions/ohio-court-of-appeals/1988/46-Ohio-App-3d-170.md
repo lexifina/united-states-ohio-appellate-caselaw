@@ -1,0 +1,70 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA-7283"
+decided: "1988-03-28"
+citations: ["46 Ohio App. 3d 170"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hoffman and Wise, JJ., concur."]
+parties: ["Joseph et al., Appellants, v. Ohio Power Company, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/46/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710205
+cites_cases: ["10 Ohio Law Abs. 7", "113 N.E. 2d 629", "14 OBR 6", "14 Ohio App. 3d 3", "160 Ohio St. 103", "17 OBR 203", "17 Ohio St. 3d 79", "173 N.E. 33", "18 Ohio C.D. 561", "18 Ohio C.D. 9", "21 OBR 416", "21 Ohio St. 3d 110", "25 OBR 201", "25 Ohio St. 3d 157", "28 OBR 400", "28 Ohio St. 3d 333", "3 OBR 20", "3 Ohio App. 3d 19", "32 Ohio St. 3d 248", "327 N.E. 2d 645", "34 Ohio St. 3d 27", "36 Ohio App. 186", "371 N.E. 2d 567", "39 Ohio App. 3d 1", "42 Ohio St. 2d 161", "443 N.E. 2d 532", "452 N.E. 2d 326", "469 N.E. 2d 899", "477 N.E. 2d 1116", "488 N.E. 2d 189", "495 N.E. 2d 572", "504 N.E. 2d 415", "51 O.O. 27", "512 N.E. 2d 1165", "516 N.E. 2d 226", "528 N.E. 2d 1262", "53 Ohio App. 2d 37", "6 OBR 259", "6 Ohio St. 3d 206", "7 O.O. 3d 29", "71 O.O. 2d 164", "75 Ohio St. 609", "80 N.E. 1133"]
+---
+
+# Joseph v. Ohio Power Co.
+
+## Majority (Milligan, P.J.)
+
+Milligan, P.J.
+This is an appeal from a jury verdict in the Stark County Court of Common Pleas in favor of defendant-appellee, Ohio Power Company. Plaintiffs-appellants, Thomas M. and Mary Joseph, filed suit claiming that appellee was liable for Joseph’s injuries by failing to exercise reasonable care in providing a safe place to work. While working for an independent contractor, Morakis Painting Company, Joseph came into contact with 23,000 volts of electricity while climbing a column at one of appellee’s substations and was severely injured. The jury’s verdict was tested by several interrogatories.
+Appellants appeal assigning four errors:
+Assignment of Error No. I
+“The trial court erred in refusing to grant a new trial when the trial court excluded all evidence regarding parts one and four of the National Electric Safety Code as such evidence was relevant, material and admissible as to the issue of the standards of care.”
+Assignment of Error No. II
+“The trial court erred in refusing to grant a new trial when the trial court failed to properly charge the jury as to the standard and degree of care applicable to a public utility, evidencing extreme prejudice to the plaintiffs.”
+Assignment of Error No. Ill
+“The trial court erred in refusing to grant a new trial when the trial court refused to submit interrogatories to the jury as requested by the plaintiffs pursuant to Rule 49(B) of the Ohio Rules of Civil Procedure when the interrogatories were supported by the evidence, unambiguous and not otherwise legally objectionable.”
+Assignment of Error No. IV
+“The trial court erred in refusing to grant a new trial when the jury’s general verdict cannot be reconciled with the answer to a special interrogatory, evidencing confusion prejudicial to the plaintiffs.”
+I
+Appellants’ first assignment of error is that the trial court erred in not granting a new trial because it excluded evidence (Parts One and Four of the National Electrical Safety Code) relevant to the standard of care.
+Appellee filed a motion in limine to prohibit certain testimony from appellants’ expert witness, Roy Martin. The trial court ruled that Martin would be permitted to testify about the National Electrical Safety Code (“Code”), but would not be permitted to read certain portions of the Code to the jury. Martin testified at trial about the safety customs and practices of the utility industry relating to the painting of substations, and told the jury that these customs and practices were based upon the Code. The court, however, sustained objections and refused to permit Martin to cite and read specific sections of the Code. The court did allow Martin to testify about specific standards and practices of the industry with regard to safety, that the Code was the basis of the standards and practices, that appellee violated these standards and practices, that ap-pellee controlled the work area and participated in the work, and that ap-pellee had to participate to comply with the standards of care in the industry.
+We find that the trial court’s ruling of not permitting Martin to read to the jury specific portions of the Code was not improper because of the cumulative nature of the evidence. See Evid. R. 403(B). Martin had already testified about the standards of care of the industry and about the Code, and testified that the Code served as the basis for these standards. Under these facts and circumstances, the trial court did not abuse its discretion or err in not permitting Martin to read portions of the Code to the jury. See Vargo v. Travelers Ins. Co. (1987), 34 Ohio St. 3d 27, 516 N.E. 2d 226; Schaffier v. Ward (1985), 17 Ohio St. 3d 79, 17 OBR 203, 477 N.E. 2d 1116.
+The first assignment of error is overruled.
+II
+Appellants argue by their second assignment of error that the trial court failed to give a proper jury charge on the standard and degree of care applicable to a public utility. Appellants specifically attack the court’s charge regarding the National Electrical Safety Code and the degree of care owed by appellee. They argue that the trial court erred in refusing to charge the jury that the Code may be used to determine the standards of care, and in refusing to charge that appellee’s duty was to “exercise the highest degree of care consistent with the practical operation of its business.”
+Appellants’ proposed charge specified that the Code is a national standard and may be used to determine the standard of care, i.e., ordinary care in the electrical power industry. See Cleveland Elec. Ilium. Co. v. Mayfield (1977), 53 Ohio App. 2d 37, 44, 7 O.O. 3d 29, 33, 371 N.E. 2d 567, 572; Sandlin v. Dayton Power & Light Co. (Aug. 30, 1985), Preble App. No. CA84-06-020, unreported. The trial court instead instructed:
+“The court further charges you that there has been mention of the National Electricfal] Safety Code. The court advised you that as far as this is considered it is, * * * this code is not the law of the state of Ohio. Any reference to that is not to be considered by you as the law of the state of Ohio.”
+Appellants do not take issue with the accuracy of the court’s charge. They argue instead that the charge serves to confuse and mislead the jury about whether it may consider the Code as evidence of standards of care.
+The court’s charge was an apparent response to testimony of expert witness Martin that gave the impression that the Code had been adopted as the law of Ohio. After the above-cited portion of the charge, the court continued:
+“However, if there is a commonly accepted custom or usage which the defendant, Ohio Power Company, knew or should have known, you may consider this along with the other facts and circumstances in this case in determining whether ordinary care was used by the defendant Ohio Power Company.” Cf. 1 Ohio Jury Instructions (1983) 155, Section 7.11 (custom and usage).
+We find that the trial court’s jury charge on the issue of standard of care was correct and not misleading under these facts and circumstances.
+Appellants also challenge the portion of the charge on the degree of care.
+The status of the parties is important to ascertain the duties owed and their applicable degrees of care. Joseph was an employee of an independent contractor hired by appellee to paint structures containing energized electrical equipment at one of appellee’s substations. The cases appellants cite for the authority that the proper degree of care is “the highest degree of care” involve a duty owed to the general public. See Ohio Power Co. v. Fittro (1930), 36 Ohio App. 186, 173 N.E. 33; Greene v. Lake Shore Elec. Ry. Co. (App. 1930), 10 Ohio Law Abs. 7; Marsh v. Lake Shore Elec. Ry. (C.P. 1905), 3 Ohio Law Rept. 635 (jury charge), affirmed (1905), 7 Ohio C.C. (N.S.) 405, 18 Ohio C.D. 9; Toledo Railways & Light Co. v. Rippon (1906), 8 Ohio C.C. (N.S.) 334, 18 Ohio C.D. 561, affirmed without opinion (1906), 75 Ohio St. 609, 80 N.E. 1133.
+We find the instant case controlled by the recent cases involving utilities and their duty toward employees of hired independent contractors. See Hirschbach v. Cincinnati Gas & Elec. Co. (1983), 6 Ohio St. 3d 206, 6 OBR 259, 452 N.E. 2d 326; Wellman v. East Ohio Gas Co. (1953), 160 Ohio St. 103, 51 O.O. 27, 113 N.E. 2d 629; Mount v. Columbus & Southern Ohio Elec. Co. (1987), 39 Ohio App. 3d 1, 528 N.E. 2d 1262. Each of these cases defines the duty as “ordinary care.” The trial court therefore properly refused to give the requested charge defining that duty as “the highest degree of care.”
+The second assignment of error is overruled.
+Ill
+Appellants’ third assigned error challenges the trial court’s refusal to submit a requested interrogatory to the jury. The requested interrogatory asked whether appellee could have eliminated, in the exercise of ordinary care, the hazards associated with painting the substation.
+While Civ. R. 49(B) circumscribes the discretion of the trial court in deciding whether to submit to the jury a proposed interrogatory, the court still retains discretion with respect to appropriateness and content. Ragone v. Vitali & Beltrami, Jr., Inc. (1975), 42 Ohio St. 2d 161, 71 O.O. 2d 164, 327 N.E. 2d 645. In addition, only interrogatories that are dispositive of determinative or ultimate issues must be submitted by the trial court. Ragone, supra, at 168, 71 O.O. 2d at 168, 327 N.E. 2d at 650. See, also, Cincinnati Riverfront Coliseum, Inc. v. McNulty Co. (1986), 28 Ohio St. 3d 333, 336-337, 28 OBR 400, 402-403, 504 N.E. 2d 415, 418; Ware v. Richey (1983), 14 Ohio App. 3d 3, 5-6, 14 OBR 6, 8, 469 N.E. 2d 899, 902-903, disapproved on other grounds in Kalain v. Smith (1986), 25 Ohio St. 3d 157,159, 25 OBR 201, 203, 495 N.E. 2d 572, 574.
+Appellants argue that the appropriateness of the proposed interrogatory is supported by Hirschbach, supra. Under Hirschbach, however, appellants’ proposed interrogatory is deficient in one important respect. The proposed interrogatory is irrelevant and unnecessary if the threshold issue of duty is not decided in appellants’ favor. See Keister v. Park Centre Lanes (1981), 3 Ohio App. 3d 19, 3 OBR 20, 443 N.E. 2d 532. In order to establish duty in situations such as the one in the instant case, Hirschbach requires actual participation:
+“One who engages the services of an independent contractor, and who actually participates in the job operation performed by such contractor and thereby fails to eliminate a hazard which he, in the exercise of ordinary care, could have eliminated, can be held responsible for the injury or death of an employee of the independent contractor.” (Emphasis added.) Hirschr bach, supra, at syllabus.
+The Hirschbach exception to the Wellman rule of nonliability was narrowed in Cafferkey v. Turner Constr. Co. (1986), 21 Ohio St. 3d 110, 21 OBR 416, 488 N.E. 2d 189 (see Mount, supra [discussion of doctrinal development from Wellman to Cafferkey]):
+“A general contractor who has not actively participated in the subcontractor’s work, does not, merely by virtue of its supervisory capacity, owe a duty of care to employees of the subcontractor who are injured while engaged in inherently dangerous work.” Caf-ferkey, supra, at syllabus.
+See, also, Eicher v. United States Steel Corp. (1987), 32 Ohio St. 3d 248, 512 N.E. 2d 1165, syllabus (“The duty to frequenters of places of employment, set forth in R.C. 4101.11, does not extend to hazards which are inherently and necessarily present because of the nature of the work performed, where the frequenter is the employee of an independent contractor.”).
+The jury’s verdict finding appellee not liable can be interpreted as a finding that appellee did not actively participate in the independent subcontractor’s work, and, thereby, owed no duty to appellant. Appellants submitted no interrogatories to test this possible finding, and their failure to do so renders interrogatories pertaining to the standard of care, the breach of duty, and proximate causation not dis-positive of the ultimate issue of ap-pellee’s liability.
+The trial court did not err as a matter of law or abuse its discretion in refusing to submit to the jury appellants’ proposed interrogatory.
+The third assignment of error is overruled.
+IV
+Appellants’ fourth assigned error challenges the trial court’s handling of the alleged inconsistencies between the jury’s general verdict and its answer to a special interrogatory. The special interrogatory at issue asked:
+“Was defendant’s failure to exercise ordinary care a proximate cause of the accident?” (Interrogatory No. 6.)
+The alleged inconsistency involves the jury’s answer to the interrogatory in that only five members of the eight-member jury answered the interrogatory in the negative. Appellants argue that the jury verdict is therefore invalid because less than three-fourths of the jury concurred in the answer. See Civ. R. 48, requiring a three-fourths concurrence in civil jury actions.
+The alleged defect in the interrogatory is rendered irrelevant since the jury’s finding on the issue of active participation, an issue that directly impacts on determination of appellee’s duty or lack thereof, was untested. Absent duty, the issue of proximate causation is legally irrelevant. Therefore, any defect in the answer to the interrogatory on this issue has no legal effect.
+The fourth assignment of error is overruled.
+The judgment of the Court of Common Pleas of Stark County is affirmed.
+Judgment affirmed.
+Hoffman and Wise, JJ., concur.
+Mary Joseph’s claim is for loss of consortium.
+We also note that appellants only objected generally to this portion of the jury charge relating to the Code. An objection stating specific grounds for the objection is required. Civ. R. 51(A).
