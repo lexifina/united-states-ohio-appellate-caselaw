@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "95APE06-805"
+decided: "1995-11-28"
+citations: ["108 Ohio App. 3d 83"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Petree and Lazarus, JJ., concur.", "Dean Strausbaugh, J., retired, of the Tenth Appellate District, was assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution."]
+parties: ["NATIONAL CITY BANK, f.k.a. BancOhio National Bank, Exr., Appellee, v. MUSTRIC, Appellant; BancOhio National Bank, n.k.a. National City Bank et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/108/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1787832
+cites_cases: ["144 Ohio St. 443", "30 O.O. 38", "343 N.E.2d 133", "45 Ohio App.2d 203", "59 N.E.2d 377", "74 O.O.2d 312"]
+---
+
+# National City Bank v. Mustric
+
+## Majority (Strausbaugh, Judge.)
+
+Strausbaugh, Judge.
+This is an appeal by defendant, Thomas O. Mustric, from a judgment of the Franklin County Court of Common Pleas sustaining defendant’s motion to extend, filed February 8, 1995, defendant’s motion to reconsider, filed March 21, 1995, plaintiff National City Bank’s motion for leave to file supplemental complaint, filed March 14, 1995, plaintiffs motion to dismiss, filed February 28, 1995, and plaintiffs motion for summary judgment, filed February 28, 1995; but dismissing defendant’s counterclaims; overruling defendant’s motion for default judgment (judgment on the pleadings), filed March 16, 1995, and defendant’s motion to dismiss and stay, filed February 21, 1995; and entering a decree in foreclosure.
+Defendant brings the following two assignments of error:
+“1. The trial court erred in denying defendant Mustric’s motion to dismiss and for stay, and in granting the plaintiffs motion for summary judgment.
+“2. The trial court erred in dismissing Mustric’s counterclaims.”
+The parties apparently agree that the single issue presented before this court is whether a certificate of judgment which omits a specific amount of court costs and the precise date from which interest runs constitutes a valid and enforceable lien under Ohio law, specifically, R.C. 2329.02. R.C. 2329.02 states:
+“Any judgment or decree rendered by any court * * * within this state shall be a lien upon lands and tenements of each judgment debtor within any county of this state from the time there is filed in the office of the clerk of the court of common pleas of such county a certificate of such judgment, setting forth the court in which the same was rendered, the title and number of the action, the names of the judgment creditors and judgment debtors, the amount of the judgment and costs, the rate of interest, if the judgment provides for interest, and the date from which such interest accrues, the date of rendition of the judgment, and the volume and page of the journal entry thereof.”
+Plaintiff instituted this action in foreclosure by filing its complaint on September 21, 1994. This court will omit other actions and defenses attempted by the defendant which were ultimately disposed of when the Ohio Supreme Court declined to hear defendant’s appeal, and defendant’s motions were denied. Defendant filed his answer to the complaint, asserting the invalidity of the certificate of judgment and raising numerous counterclaims against plaintiff, alleging interference with contract, disparagement of title, abuse of process, and severe emotional distress, all because the certificate of judgment omitted a specific amount for court costs and did not identify the specific date of the month of January 1976 from which interest began to run. On March 1, 1995, plaintiff filed a second certificate of judgment which contained the information that had not appeared on the original certificate after a determination that the priority of lienholders on the respective properties sought to be foreclosed had not changed and that no additional liens had been filed in the interim. On February 28, 1995, plaintiff filed a motion for summary judgment. On March 14, 1995, plaintiff filed a motion to file supplemental complaint in foreclosure, instanter, based on the second certificate of judgment, which motion was opposed by defendant. The trial court found that the supplemental complaint was appropriate and found that defendant would not be prejudiced by its filing.
+In its decision and entry of April 27, 1995, the common pleas court awarded plaintiff summary judgment on both its original and supplemental complaints, expressly finding that the original certificate of judgment was a valid and enforceable lien against defendant’s real properties that are the subject of this foreclosure proceeding. Defendant filed a motion for reconsideration, which was denied by the common pleas court by decision filed May 22, 1995 and entry filed May 24,1995, from which this appeal is taken.
+In Maddox v. Astro Investments (1975), 45 Ohio App.2d 203, 74 O.O.2d 312, 343 N.E.2d 133, the court stated that a certificate of judgment is a standard form containing a summary of the pertinent facts required by statute to give notice to the public of the existence of a lien upon real estate. In Hower Corp. v. Vance (1945), 144 Ohio St. 443, 451, 30 O.O. 38, 59 N.E.2d 377, the Ohio Supreme Court held that the provision of former General Code 11656 (now R.C. 2329.02) regarding the page and journal entry is for the convenience of the public and is directory rather than mandatory, and that compliance with those requirements of the statute is not vital to the validity of the certificate of judgment. This court holds that this same statement applies to the amount of court costs, which is readily ascertainable from the records of the case referred to by the certificate of judgment. Plaintiffs original certificate of judgment serves to notify the public of a lien against defendant’s property located in Franklin County, Ohio. Once the public is placed on general notice of the lien, if more information is needed, it can be located readily in the appropriate court records. We find that the original certificate of judgment constitutes a valid and enforceable lien under Ohio law. We find that the trial court properly awarded summary judgment to plaintiff on its original and supplemental complaints, and that the complaint and the original certificate of judgment are valid. We find that defendant’s counterclaims were properly dismissed by the trial court inasmuch as defendant could prove no set of facts entitling him to relief on the counterclaims.
+Defendant’s two assignments of error are overruled, and the judgment is affirmed.
+Judgment affirmed.
+Petree and Lazarus, JJ., concur.
+Dean Strausbaugh, J., retired, of the Tenth Appellate District, was assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution.
