@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "85-CA-23"
+decided: "1986-04-17"
+citations: ["31 Ohio App. 3d 193"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wilson and Wolff, JJ., concur."]
+parties: ["Howard et al., Appellants, v. City Loan and Savings Company et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/31/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713247
+cites_cases: ["133 N.E. 2d 340", "16 OBR 195", "16 Ohio App. 3d 185", "165 Ohio St. 35", "215 Kan. 814", "475 N.E. 2d 154", "59 O.O. 60"]
+---
+
+# Howard v. City Loan & Savings Co.
+
+## Majority (Brogan, P.J.)
+
+Brogan, P.J.
+Appellants Benton G. Howard and Rosemary Howard bring this appeal from the judgment of the Greene County Court of Common Pleas granting the motion for summary judgment of appellees City Loan and Savings Company (“City Loan”), John C. Whit-acre (“Whitacre”) and Vella Brown (“Brown”) (together referred to as “ap-pellees”), and dismissing appellants’ claim against appellees for invasion of privacy.
+The underlying subjects of this appeal have previously been before this court. See City Loan & Savings Co. v. Howard (1984), 16 Ohio App. 3d 185, 16 OBR 195, 475 N.E. 2d 154, wherein we reversed various rulings of the trial court and remanded for further proceedings. Those proceedings having been had, this case is now before us again.
+Appellants set forth but one assignment of error which states as follows: “The lower court erred in granting summary judgment in favor of all the ap-pellees herein.”
+The origin of this case, or, as we have previously viewed it, “the pad from which [the parties] launched their flights into the litigious blue yonder,” id. at 185,16 OBR at 196, 475 N.E. 2d at 156, was City Loan’s ill-fated decision to lend money to appellants. This loan was evidenced by a note and secured by a mortgage on appellants’ property. Appellants were to make monthly installment payments. Over the course of the next year, appellants experienced problems in making the payments on the loan. City Loan, after attempting to persuade appellants to pay — the methods of such attempts now being in question — eventually brought foreclosure proceedings; appellants brought an action against ap-pellees for invasion of privacy based on unreasonable collection practices from which this appeal arises.
+The essence of appellants’ argument is that in view of the record before it, the trial court could not find as a matter of law that appellees’ collection practices were reasonable. Appellants further argue that genuine issues of material fact were presented. Additionally, appellants argue that the trial court erroneously excluded from consideration the affidavit that was attached to their memorandum in opposition to appellees’ motion for summary judgment.
+The matters before the court for consideration at the summary judgment stage were the pleadings, a transcript of a hearing before a referee, depositions of both appellants and Whitaere, and the affidavit of appellant Benton G. Howard. In its decision, the court said the following:
+“The essence of the depositions and the transcript are [sic] that thirteen phone calls from Defendants to Plaintiffs were made regarding the subject matter of default. Further, there were two visits to Plaintiff’s place of employment under the guise of a customer seeking services from a salesman as opposed to a collection proceeding. [Neither] [t]he phone calls nor the visits to the employer could be construed as any level of harassment or invasion of privacy, but more accurately, along the parameters proscribed [sic] in Dawson v. Associates Financial Services Company of Kansas, Inc., 215 Kan. 814, [820-821,] 529 P. 2d 104, 110 (1974):
+“ ‘* * * When one accepts credit, the debtor impliedly consents for the creditor to take reasonable steps to pursue payment even though it may result in actual, though not actionable, invasion of privacy. * * * In the debtor-creditor situation the right of a debtor to privacy is subject to the right of a creditor to take reasonable steps to collect a debt.* * *
+“ ‘In this area of the developing law, the business community must be given some latitude to pursue reasonable methods of collecting debts even though such methods often might result in some inconvenience or embarrassment to the debtor.* * * Debtors cannot object to some inconvenience in connection with their creditor’s efforts to collect a debt. It has been held that debtors’ tender sensibilities are protected only from oppressive, outrageous conduct.* * * ’ (Citations omitted.)
+“For the foregoing reasons, it is held that Plaintiffs have no cause of action against these Defendants, and this ease is Ordered dismissed as to the issue of invasion of privacy.”
+The tort of invasion of privacy was recognized in Ohio in the case of Housh v. Peth (1956), 165 Ohio St. 35, 59 O.O. 60, 133 N.E. 2d 340. The syllabus of that case states as follows:
+“1. The right of privacy is the right of a person to be let alone, to be free from unwarranted publicity, and to live without unwarranted interference by the public in matters with which the public is not necessarily concerned.
+“2. An actionable invasion of the right of privacy is the unwarranted appropriation or exploitation of one’s personality, the publicizing of one’s private affairs with which the public has no legitimate concern, or the wrongful intrusion into one’s private activities in such a manner as to outrage or cause mental suffering, shame or humiliation to a person of ordinary sensibilities.
+“3. A creditor has a right to take reasonable action to pursue his debtor and persuade payment.
+“4. Such action is not reasonable where a creditor or his representative initiates a campaign to harass and torment the debtor, telephones the debtor six or eight times every day at her home and place of employment — some of the calls as late as 11:45 p.m. — over a period of three weeks, telephones the debtor’s superiors and informs them of the debt, and calls the debtor at her place of employment three times within a period of 15 minutes with a resultant threat of loss of employment.”
+Thus, it appears that the action taken by a creditor must be “reasonable.” See, also, Dawson v. Associates Financial Services Co. of Kansas, Inc. (1974), 215 Kan. 814, 529 P. 2d 104, relied on by the trial court. This requires a factual determination. The trial court found that only thirteen calls were made; it deemed this number to be reasonable. We hold this finding to be in error.
+Civ. R. 56(C) provides that summary judgment is appropriate when in viewing the evidence in the light most favorable to the non-moving party — here appellants — there is no genuine issue as to any material issue of fact and the moving party is entitled to judgment as a matter of law.
+In his deposition, Benton Howard testified that Whitacre or some other employee of City Loan would call him “[e]very other day, sometimes two times a day * * * sometimes four times, two to the wife, two to me.” In his affidavit attached to appellants’ memorandum in opposition to appellees’ motion for summary judgment, which it appears was erroneously excluded from consideration by the trial court, Mr. Howard stated that appellees “called sometimes (3) times a day, each and every week [from January 1982] up to August 1, 1982.” Further, he states that these calls would come “at all times of the day and night.” When this evidence is compared with Whitacre’s deposition testimony and the testimony of Whitacre, Brown and another City Loan employee, Sue Greaney, taken by the referee as to the number of phone calls that were made, it readily appears that a genuine issue of material fact exists: how many times did City Loan’s employees contact appellants in regard to their loan. Depending on the number of calls which may be proven, reasonable minds could come to differing conclusions as to whether that number would be reasonable, or whether it would constitute an actionable invasion of appellants’ privacy. Summary judgment was therefore not appropriate.
+Accordingly, we find the assignment of error to be well-taken. The judgment of the trial court is reversed, and this case is remanded for further proceedings.
+Judgment reversed and cause remanded.
+Wilson and Wolff, JJ., concur.
