@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3444"
+decided: "1941-12-26"
+citations: ["72 Ohio App. 144"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doyle, P. J., and Washburn, J., concur."]
+parties: ["Byers, Appellee, v. Industrial Commission of Ohio, Appellant."]
+source_url: "https://static.case.law/ohio-app/72/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1374140
+---
+
+# Byers v. Industrial Commission
+
+## Majority (Stevens, J.)
+
+Stevens, J.
+This ease is in this court as an appeal on questions of law.
+The amended petition filed in the Court of Common Pleas alleged that on November 24, 1937, plaintiff was an employee of L. C. Love, who was a subscriber to the state insurance fund, having complied with the provisions of the Workmen’s Compensation Law; that on said date plaintiff, in the course of his employment, received an injury which caused him to be disabled for more than seven days; that within two years of said date plaintiff duly filed an application for compensation for said injury with the commission, which application was denied by the commission on May 11, 1938; that plaintiff received notice of said denial on May 27, 1939; and that on May 28, 1939, he filed an application for a rehearing, of which latter application, according to the allegations of the petition, disposition was made by the commission as follows:
+“That the motion to dismiss the application for rehearing made by counsel for the state insurance fund be sustained; that the application for rehearing and all proceedings had thereunder be dismissed, for the reason that said application was not filed within the statutory period as provided by Section 1465-90, General Code.”
+Thereafter, and within sixty days after notice of such action of the commission, plaintiff filed his petition in the Court of Common Pleas of Summit county. Ohio, wherein he sought to appeal from the order of the commission made upon his application for a rehearing, and later his first amended petition.
+At the conclusion of plaintiff’s opening statement to the jury in the Court of Common Pleas, a motion for a directed verdict for the defendant was made, which was overruled. The case then proceeded to trial, and, after a motion to direct made at the conclusion of all the evidence, which was overruled, was submitted to the jury, aud resulted in a verdict, and a judgment, for the plaintiff. The present appeal ensued.
+Section 1465-90, General Code, provides:
+“* * * if the claim was denied on any of the following grounds: that the injury was self-inflicted; that the injured person was not,an employe; that the injury did not occur in the course of or arise out of the employment; that the claimant’s disability is not the result of the injury; that the claimant, having received compensation for the period of temporary total disability and having received the maximum amount of compensation for. temporary partial disability as provided in this act, and having engaged in no gainful occupation for the period of four years prior to the decision of the commission, during which time compensation has been payable to such claimant, is not permanently and totally disabled as a result of the injury; that the death did not result from the injury; that the claimant was not legally or actually dependent upon the decedent; or that the employer was not amenable to the law; then the claimant may within thirty days after 'the receipt of notice' of such finding of the commission, file an application with the commission for a rehearing of his claim, whereupon the former action of the commission thereon shall be vacated. * # *
+• “If the commission, after such hearing [rehearing] .denies the right of the claimant to receive or to continue to receive compensation it shall state the ground or grounds on which the claim was denied and if the claim was denied on any of the grounds hereinabove specifically stated then the claimant, within sixty days after receipt of notice of such action of the commission, may file a petition' in the Common Pleas Court of the county wherein the injury was inflicted * *
+It thus appears that a necessary predicate for an appeal to the Court of Common Pleas is a denial, on one of the grounds above enumerated in the statute, of the right of the claimant to participate in said fund, and that such denial he made in the proceeding had upon rehearing. Where the claimant’s application is denied on the original hearing, upon one of the grounds above enumerated, and no rehearing is had, no right of appeal to the Court of Common Pleas exists, under the provisions of the statute.
+It will he observed that the order of the commission, made upon this claimant’s application for a rehearing, was a dismissal of the application for rehearing and a further dismissal of all proceedings had thereunder, for the reason that said application was not filed within the statutory period as provided in Section 1465-90, General Code. It thus appears from the allegations of plaintiff’s petition upon appeal, and the opening statement of plaintiff’s counsel, that the necessary predicate for an appeal to the Court of Common Pleas was entirely lacking, because there had been no denial by the commission of the claimant’s application in the rehearing proceedings upon one or more of. the grounds enumerated in the statute (Section 1465-90, General Code). It was the duty of the Court of Common Pleas to consider the motion made by the defendant at the conclusion of plaintiff’s opening statement as a demurrer to the sufficiency of the petition, and to dismiss the petition for the-reason that the same did not state a cause of action; and, having failed to do that, it was the duty of the court to sustain defendant’s motion for a judgment made at the conclusion of all of the evidence.
+In the situation as it existed at the time of the commission’s dismissal of claimant’s application for a rehearing and of all proceedings thereunder, it was the duty of the claimant, if his claim was originally denied upon a jurisdictional ground, to institute an action seeking a writ of mandamus to compel the commission to grant him a rehearing. This he did not do, hut instead attempted to appeal to the Court of Common Pleas from the order dismissing his application for a rehearing. Under the provisions of the section, such an appeal does not lie.
+“* * # The filing of an application for such rehearing, and the making of such finding by the commission, are conditions precedent to the right of the claimant to prosecute a proceeding in the Court of Common Pleas under Sec. 1465-90, G-. C. * * *” 42 Ohio Jurisprudence, Workmen’s Compensation, Section 116,. and cases cited in note 9.
+The judgment of the Court of Common Pleas is reversed; and this court, proceeding to enter the judgment which the Court of Common Pleas should have entered, orders that the petition of the plaintiff be dismissed, at his costs.
+Judgment reversed.
+Doyle, P. J., and Washburn, J., concur.
