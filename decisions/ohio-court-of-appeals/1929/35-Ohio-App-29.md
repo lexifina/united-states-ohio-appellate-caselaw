@@ -1,0 +1,27 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-03-11"
+citations: ["35 Ohio App. 29"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Middleton, P. J., and Blosser, J., concur."]
+parties: ["County Board of Education of Hocking Co. et al. v. The State, ex rel. Parker."]
+source_url: "https://static.case.law/ohio-app/35/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320146
+cites_cases: ["104 Am. St. Rep., 783", "16 Ohio St., 308", "71 Ohio St., 428", "73 N. E., 515"]
+---
+
+# County Board of Education of Hocking Co. v. State ex rel. Parker
+
+## Majority (Mauck, J.)
+
+Mauck, J.
+Margaret Parker brought her action in mandamus in the court of common pleas to compel the county board of education of Hocking county, and the individual members thereof, to pay salary claimed to be due her by virtue of her employment as clerk and stenographer of the county superintendent. A writ of mandamus was awarded her by the court of common pleas, and this proceeding seeks to reverse the judgment awarding it.
+Miss Parker was employed by the board of education on December 15, 1925, for a period of three years, at a salary of $900 per year, her service to begin January 1, 1926. The terms of this arrangement were fixed by a contract in writing. On January 15, 1927, the hoard undertook to discharge Miss Parker for neglect of duty, and improper conduct, but no notice was given to her of the pendency of any charges against her, nor was any opportunity afforded her for any defense. After the attempted removal she did not render any services, but tendered her services and was willing to perform her contract. She bases her claim to a writ of mandamus on the theory that she whs an appointee of the county board of education, and that, as an appointee, she was, under Section 7701, General Code, entitled to a notice of any charges filed against her and an opportunity to meet such charges, and, inasmuch as she had no such notice and no such opportunity, she claims that the resolution of the board dismissing her was wholly void, and that as such appointee she is entitled to her salary, notwithstanding no service was rendered by her.
+The section referred to provides that the board may dismiss an appointee or teacher for neglect of duty, improper conduct, or other reasons set forth in that section. It provides that no teacher shall be dismissed except after charges are reduced to writing and an opportunity given for defense. Certainly the statute itself seems to make a distinction between an appointee and a teacher, and to give to a teacher only the right to be heard upon an attempted dismissal. Miss Parker was not a teacher, and was, therefore, afforded no protection by Section 7701.
+We are further of the view, however, that Miss Parker was not only not a teacher, but was not an appointee. The term appoint and the term elect are properly used to indicate that one has been chosen for an office created by law, with prescribed duties. The term employment is of broader significance. It in a broad sense includes appointments to positions, but it includes much more. 22 Ruling Case Law, 377, 380. The two terms are carelessly used in the school code, it appearing that generally the term elect or appoint is applied to the engagement of those whose positions rise to the dignity of public officers. However, in the matter of teachers in city school districts, the statute provides for their appointment, Section 7703; while in village and rural school districts they are employed, Section 7705. Whether appointed or employed, however, they are protected by Section 7701 from dismissal without a hearing. Miss Parker was in no sense a public officer, nor officer of the board of education. The only authority found for her engagement is found in that sentence of Section 4744-1, General Code, which reads: ‘ ‘ The county board * * * may employ an efficient stenographer or clerk for such superintendent. ’ ’
+Neither the compensation, length of service, hours of service, nor duties of such clerk or stenographer are fixed by statute. Such clerk or stenographer is, consequently, an employee by contract only, and has, as such employee, only such rights as are fixed by the contract of employment. Such employees as stenographers, janitor, engineer, or others rendering services under contract only, are confined to such remedies as are afforded those who claim that their contracts of employment have been violated. The sole remedy in such cases is an action at law for the breach of the contract. 18 Ruling Case Law, 129; State, ex rel. Commrs., v. Zanesville & Maysville Turnpike Co., 16 Ohio St., 308; City of Mt. Vernon v. State, 71 Ohio St., 428, 73 N. E., 515, 104 Am. St. Rep., 783. This court and other courts have, perhaps improvidently, awarded or sustained the awarding of writs of mandamus against public officials, where full performance has been had, and there remained nothing to do but the satisfaction by payment of a contract fully performed. In this case, however, the contract was not performed, and the power of the court to enforce an unperformed contract by a writ of mandamus is directly challenged. The challenge is sustained. The trial court was without power to award the writ, and the judgment is reversed.
+Judgment reversed.
+Middleton, P. J., and Blosser, J., concur.
