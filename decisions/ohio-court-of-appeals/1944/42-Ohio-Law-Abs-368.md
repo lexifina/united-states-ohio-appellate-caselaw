@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3709"
+decided: "1944-06-29"
+citations: ["42 Ohio Law Abs. 368"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, P. J., and GEIGER, J., concur."]
+parties: ["HANNON, Plaintiff-Appellant v. ROBINSON, Exr., Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/42/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1725875
+cites_cases: ["132 Oh St 58", "134 Oh St 69"]
+---
+
+# Hannon v. Robinson
+
+## Majority (By HORNBECK, J.)
+
+OPINION
+By HORNBECK, J.
+This is an appeal on questions of law from a judgment of the Common Pleas Court dismissing plaintiff’s petition after sustaining a demurrer thereto, plaintiff electing to plead no further. The demurrer, consisting of two grounds, was:
+(1) That the Court has no jurisdiction of the subject of this action;
+(2) The petition does not state facts which show a cause of action.
+The errors assigned are that the Court erred in sustaining both branches of the demurrer that neither is well taken, but that if the first ground of the demurrer was properly sustained the Court thereby held that it had no jurisdiction to entertain the action and therefore could not pass upon the sufficiency of the averments of the petition to state a cause of action.
+The' petition, in so far as material to this appeal, alleges that the defendant is the duly -qualified and acting executor of the estate of John Hannon, deceased, who died leaving certain real estate described; that the will of said decedent, duly admitted to probate, by the Probate Court of Franklin County, Ohio, gave said executor the full power nnd authority to sell said described real estate at such price and upon such terms as he considered advisable; that the personal estate of decedent was insufficient to pay the debts of his estate and the executor announced his intention to sell said real estate and solicit offers therfor; that plaintiff, on December 6, 1943, made an offer in writing, and delivered said offer to said executor, by the terms of which she offered to purchase said real estate for the sum of ten thousand three hundred dollars ($10,300.00), payable in cash upon delivery of deed and subject to the delinquent taxes then a lien upon said property; that one H. R. Weise also submitted an offer.
+That on the aforesaid date the executor made application to the Probate Court of Franklin County, Ohio, setting forth the two offers which he had obtained and asked the Court relative to the acceptance thereof. On the same date said Court considered the application, found the offer of plaintiff to be the highest and best offer and authorized and instructed said executor to accept the same. Said finding and order was in writing in the form of a journal entry prepared by the executor, approved by him, and signed by him in his capacity as executor; that the executor thereupon notified plaintiff that she was the highest and best bidder, that he accepted her offer; that defendant refuses to complete said contract although the plaintiff is ready and willing to perform her part of said agreement. The prayer was for specific performance of the contract and conveyance of the real estate to the plaintiff by appropriate instrument.
+It is the claim of the demurrant that the first ground of the demurrer was properly sustained because the Probate Court under §10501-53 GC had exclusive jurisdiction to grant relief which would accomplish all that the plaintiff sought in the prayer of her petition, and that the Court had taken jurisdiction of the subject matter of plaintiff’s suit by entertaining the application .of the executor for instructions relative to the acceptance of plaintiff’s bid on the real estate described and in the authorization and instructions to said executor to accept the same.
+The question is fully and capably briefed and many authorities are cited by both parties. Inasmuch as we have reached the conclusion that the first ground of the demurrer is controlled by a late adjudication of our own Supreme Court cited by appellant, we rely upon it and refrain from discussing many other authorities cited. The case upon'which we rely is State, ex rel. Black, et al., Executors, v White, Judge, 132 Oh St 58, and particularly the second proposition of .the syllabus. The Court in the first syllabus recognizes certain exclusive jurisdiction in the Probate Court:
+“Where the administration of an estate has been lawfully committed to the Probate Court of a particular county, the jurisdiction of such court to settle such estate is exclusive.”
+Then follows the second syllabus:
+“A testamentary grant of power to executors to sell all the properties of the estate, real and personal, except such as is specifically bequeathed, at public or private sale, at such prices and upon such terms of credit; or otherwise, as to them may seem to the best advantage and interest to the estate, and to execute and deliver deeds and other proper instruments of conveyance to the purchaser or purchasers, carries to the executors the power to enter into a contract for the sale of the real estate belonging to' the estate and divorces them from the jurisdiction of the Court which appointed them over such land, and their only duty to such Court relative thereto is to account to it for the proceeds of sale.”
+All the propositions of the syllabus are germane and pertinent to our case, as is especially No. 5:
+“A Court of Common Pleas of a county where the land in question is located, being a court of general equity jurisdiction, has jurisdiction of the subject matter of an action for specific performance of a contract for sale of real estate by executors, and this court has no jurisdiction to prohibit its exercise.”
+The facts in the cited case parallel those in the instant cáse so closely as to be binding authority upon this Court.
+The fact that the executor in an ex parte proceeding sought the instruction of the Probate Court in no wise affects the principle involved nor the power of the Common Pleas Court to entertain the suit for specific performance, calling upon the Court to exercise general equity powers, and if granted as prayed, to afford to the plaintiff the full relief to which she is entitled.
+The whole of the opinion of Judge Stephenson in the cited case is well worth reading, and particularly page 66 thereof, wherein it is said:
+“There is no question that the General Assembly of Ohio has in certain instances delegated equitable jurisdiction to the probate courts, but a careful perusal of all these grants of jurisdiction fails to disclose a delegation of power to entertain suits for specific performance.”
+To the same effect on page 67. The cited case was decided after the enactment of the new Probate Code and §10501-53 GC, upon which appellee relies.
+The principal case of Unger v Wolfe, et al., 134 Oh St 69, cited by appellee to support the action of the trial court on the first branch of the demurrer, in no way conflicts with the principle considered and announced in State, ex rel. Black, et al., Executors v White, J., supra, as it only purports to hold that “under the provisions of §10501-53 GC, the court of probate has exclusive jurisdiction as to the allowance of fees to-an attorney for his services in the unsuccessful prosecution of an application for the removal of the .guardian of an incompetent.”
+Chief Justice Weygandt’s observation in the opinion, respecting “plenary power at law and in equity fully to dispose of any matter properly before the Court, unless the power is expressly otherwise limited or denied by statute”, was, of course, related to the facts appearing in the case under consideration. The plaintiff sought payment for attorney’s fees for services rendered the ward of the guardian sued, and the court properly held that since any fees allowed the ward’s attorneys must come from the estate, such matter would seem to be peculiarly within the province of the tribunal which had general jurisdiction of the administration of the estate.
+The first branch of the demurrer .should have been overruled.
+Inasmuch as we have held that the Common Pleas Court has jurisdiction to entertain plaintiff’s action for specific performance, it is proper to consider the action sustaining the second branch of the demurrer which raises the question of the sufficiency of the allegations of the petition to conform to the statute of frauds.
+Appellee claims that the petition does not allege that the claimed contract between the parties was in writing, and further that It may be fairly inferred from the petition that such contract is not in writing, and therefore discloses on its face that it is within the statute of frauds. 19 O. Jur. 668. We cannot agree that the language of the petition will permit of the construction that it implies that the contract sued upon was not in writing.
+In this situation it was good against general demurrer. The controlling principle is succinctly stated in 19 O. Jur. 668:
+“The rule in Ohio has always been, even prior to the enactment of the Code, that, in an action on a contract or promise required by the Statute of Frauds to be in writing, it is not necessary to affirmatively state in the petition that the contract is in writing; and where the petition is silent as to whether or not the contract is in writing it will be presumed, for the purpose of testing the sufficiency of the petition, to be in writing."
+Appellant further contends that she expressly pleads a written contract in setting forth the journal entry alleged to have been prepared, approved and signed by the defendant in his capacity as executor. Whether or not this is sufficient under the Statute of Frauds is not necessary of determination on the second branch of the demurrer, because the petition does not suggest that the contract is not supported by a memorandum in writing. The Court should have overruled the second branch of the demurrer.
+Cause reversed and remanded.
+BARNES, P. J., and GEIGER, J., concur.
