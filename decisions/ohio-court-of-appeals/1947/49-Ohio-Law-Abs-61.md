@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1926"
+decided: "1947-04-30"
+citations: ["49 Ohio Law Abs. 61"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WISEMAN, PJ, and MILLER, J, concur."]
+parties: ["MOORMAN, Plaintiff-Appellant, v NATIONAL CASUALTY COMPANY, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/49/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741392
+---
+
+# Moorman v. National Casualty Co.
+
+## Majority (By HORNBECK, J.:)
+
+OPINION
+By HORNBECK, J.:
+This is an appeal from a judgment of the Common Pleas Court reversing a judgment of the Municipal Court of the city of Dayton in favor of plaintiff-appellant. The reversal was based upon a finding that the judgment of the Municipal Court was unsupported by and manifestly against the weight of the evidence.
+The statement of claim was predicated upon the provisions of a policy insuring Bettyanne M. Raimey against loss of life by accident, in which policy Eugenia Moorman, mother of the insured was beneficiary. It was the claim of the plaintiff that the insured had come to her death as a result of the “shooting into her body of a series of bullets by one Ben Gary of Dayton, Ohio.” It is further averred that Ben Gary was “later tried for this offense by a jury, and was found by said jury to have committed manslaughter upon and against her, Bettyanne M. Raimey, the insured.”
+The defendant, answering, admits the issuance of the policy and pleads that it contained a provision,
+“No indemnity shall be paid in the event of death, disability, injury or loss, if intentionally inflicted upon the insured by himself or any other person (assault by highwayman or burglar excepted).”
+and avers that the beneficiary died by reason of bullet wounds intentionally inflicted upon her by one Ben Gary, who, in inflicting such injuries, was not engaged in an assault as a highwayman or a burglar; admits that Gary was convicted of manslaughter of said Bettyanne M. Raimey.
+The answer asserted an affirmative defense, the burden of establishing of which was upon the defendant.
+The cause was submitted in the trial court upon the testimony of the defendant in the trial on the criminal charge and one of the witnesses for the State, Mrs. Jeannette Woods, who was an eyewitness of the shooting.
+Appellant urges that the verdict of the jury in the criminal ease, predicated largely upon the same testimony in the instant cause, is of some weight as tending to establish that the shooting of insured by Gary was unintentional because the verdict must have been returned upon the theory that the State had proved an unintentional killing of Bettyanne Raimey while the defendant was in the commission of an unlawful act. It is true that the verdict could not have been returned upon any other theory. However, the action of the jury in the criminal case should not have binding effect whatever upon the action of the trial judge and is of no such effect in the Common Pleas Court nor in this Court. The parties are different. The burden of proof differs and the judgment in the criminal case is of no binding' effect whatever upon any party involved- in this case. In the' criminal case it was incumbent upon the State, if it established a purposeful killing, namely, second degree murder, to make proof of that element of the offense beyond a reasonable doubt. Here, the burden is on the defendant upon its affirmative defense to establish it by preponderance of the evidence only.
+We are thoroughly conversant with the limitations upon reviewing court in setting aside judgments of trial courts where a cause is submitted to a jury or to. a judge in the absence of a jury upon the weight of the evidence. Notwithstanding this limitation, upon a careful consideration of this record we do not feel called upon to say that the Common Pleas Court erred in reversing the finding and judgment of the Municipal Court.
+The record, giving its most favorable intendment to the defendant, Gary, discloses that he and Miss Raimey drank excessively of liquors, whiskey and beer, on the day and night of the tragedy; that he and Miss Raimey were under the influence of the liquor at the time of the shooting is not improbable. However, Mrs. Woods, who had opportunity to observe both of them in her own living room, stated positively that she observed nothing unusual in the demeanor of either of them. Notwithstanding the state of intoxication of Gary, his statement of occurrences during the day and prior to the shooting indicates an appreciation of events and conduct with respect thereto that is entirely inconsistent with his testimony that just at the moment of shooting everything went black and he had no appreciation of what he did and no intent to kill.
+If he had an intent to shoot Miss Raimey and realized that he was pointing the revolver toward her when he pulled the trigger five times, it must be inferred that he intended to kill her because of the well recognized, controlling legal principle that one is presumed to. intend the natural and probable consequences of his voluntary acts. If what Gary says on this subject is true, then he was chargeable with no offense and the jury should have acquitted him because he was' without mental capacity to appreciate the act which resulted in the death of Miss Raimey.
+The conduct of Miss Raimey during the day and evening, according to Gary, was such as to inflame him against her and affords a very probable cause for the shooting. Gary drove his own car, conducted Miss Raimey. to the various places which they visited, walked with her to her home from his car; took a taxicab to his hQme; changed his apparel; transferred the revolver from the pocket of one pair of trousers to -a pocket in another pair of trousers; took the taxicab back to his car; made attempts to start the motor; went to a relative’s home, had her call Miss Raimey, left there, proceeded to Miss Rai-mey’s home, walked into her presence, had conversation with her, removed the revolver from his pocket, pointed it toward her body and pulled the trigger five times, every bullet lodging in her body. He then ran from the room, threw the revolver away, went to police headquarters, reported the shooting and told his story. In all, his acts belied his statement that he had no comprehension of the shooting nor the effect of it. Upon the evidence of Mrs. Woods, it is probable that neither he nor Miss Raimey was intoxicated to any degree whatever and, if at all, certainly not to the extent that it would affect the volition of Gary. Upon her testimony, the killing was purposeful and it is a reasonable conclusion, that the result of the provocation was brought about by the conduct of Miss Raimey toward Gary during their association throughout the day and night of the killing, her refusal to marry him and her general antagonistic attitude toward him, culminating in her taking and keeping the key to the ignition of his car.
+The judgment will be affirmed.
+WISEMAN, PJ, and MILLER, J, concur.
