@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "46195"
+decided: "1984-02-27"
+citations: ["13 Ohio App. 3d 325"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MaRkus, P.J., and Dahling, J., concur.", "Dahling, J., of. the Eleventh Appellate District, and Donofrio,-J., of the Seventh Appellate District, sitting by assignment in the Eighth Appellate District."]
+parties: ["D’Amico, Appellant, v. Burns et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/13/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708617
+cites_cases: ["10 O.O.3d 398", "11 Ohio St. 2d 185", "42 Ohio St. 2d 392", "44 O.O.2d 168", "54 A.L.R. 3d 974", "56 Ohio St. 2d 258", "71 O.O.2d 375"]
+---
+
+# D'Amico v. Burns
+
+## Majority (Donofrio, J.)
+
+Donofrio, J.
+Appeal from the Court of Common Pleas of Cuyahoga County, Ohio.
+Plaintiff-appellant, Angelo D’Amico, filed a complaint in the Cuyahoga County Court of Common Pleas alleging property damage, denial of the use and enjoyment of property and emotional harm as a result of the conduct of defendants, David and Gladys Keithline, and defendants-appellees, Jason Burns, John P. Burns and Jane Doe, a.k.a. Dixie Burns. Service of process has not been obtained on the Keithlines, and their acts are not the subject matter of this appeal. Appellant’s complaint alleges that appellee Jason Burns, a minor, removed a protective grate from the sewer drain on appellant’s property and maliciously dropped rocks, pop bottles, bricks and other debris into the exposed drain, causing extensive damage to appellant’s property. Said damage included the blockage of the sewer line, which caused raw sewage, waste and excrement to be deposited in appellant’s house.
+Appellant’s complaint also alleges that appellees John P. Burns and Jane Doe, a.k.a. Dixie Burns, as the parents of appellee Jason Burns, negligently supervised their child, thereby causing damage to appellant’s property, and that they are also liable for the acts of their son as per R.C. 3109.09.
+In his amended complaint, filed March 19, 1982, appellant alleges that the wrongful acts of appellees caused damage to the sewer lines of appellant’s property, causing raw sewage, waste and excrement to be deposited in appellant’s home, causing severe damage, and that appellant was denied the use and enjoyment of his property and suffered emotional harm, humiliation and embarrassment.
+Appellees’ answer was timely filed,' wherein appellees denied appellant’s allegations and averred that appellant’s complaint failed to state a claim due to the infancy of appellee Jason Burns.
+The court granted summary judgment in favor of appellee Jason Burns, the child, holding that a child younger than seven years is not, as a matter of law, liable in tort for his actions. The court held that liability would attach to the parents under the statute if it could be demonstrated that the child intended his actions and the consequences thereof. The court held, relying heavily on the Supreme Court’s decision in Motorists Mut. Ins. Co. v. Bill (1978), 56 Ohio St. 2d 258 [10 O.O.3d 398], that the child must intend both the act and the resulting damage for liability to attach to the parents under the statute. The court found no evidence showing intent on the part of appellee Jason Burns to damage appellant’s property, and so granted ap-pellees-’ motion for summary judgment as to John P. Burns and Jane Doe, a.k.a. Dixie Bums.
+Appellant sets forth two assignments of error, the first of which states:
+“Where appellee, a minor child, after having removed a sewer drain cover from the property of appellant and having been seen by appellant and reprimanded by appellant, who reported the incident to the child’s parents (also appellees) and asked said parents to keep the child away from the drain, and where said child returned to appellant’s property and removed the drain cover and threw various objects into the drain, causing extensive damage to appellant’s real estate, it is error for the trial court to grant appellees’ motion for summary judgment in derogation of Ohio Revised Code Section 3109.09, extending liability to parents of minor children whose intentional acts cause property damage.”
+We find that this assignment of error has no merit and that the trial court under this issue was correct in its ruling. In DeLuca v. Bowden (1975), 42 Ohio St. 2d 392 [71 O.O.2d 375], the Ohio Supreme Court has stated in the syllabus as follows:
+“1. A child under seven years of age is, as a matter of law, incapable of negligence. (Holbrook v. Hamilton Distributing, 11 Ohio St. 2d 185 [44 O.O.2d 168], approved and followed.)
+“2. A child under seven years of age is, as a matter of law, incapable of committing an intentional tort.”
+R.C. 3109.09 reads, in pertinent part, as follows:
+“Any owner of property may maintain a civil action in a court of competent jurisdiction to recover compensatory damages not exceeding three thousand dollars and costs of suit from the parents having the custody and control of a minor under the age of eighteen years, who willfully damages property belonging to .such owner or who commits acts cognizable as a ‘theft offense,’ as defined in section 2913.01 of the Revised Code, involving the property of such owner. * * *” [Emphasis added.)
+One of appellant’s causes of action in his amended complaint is brought under this section of the Revised Code. The Ohio Supreme Court has strictly construed the statute to enable recovery of compensatory damages from parents having custody and control of minor children to only those who willfully damage the property of an owner, which means that it must be an intentional doing of the act that causes the damage and resulting loss. In Motorist Mut. Ins. Co. v. Bill (1978), 56 Ohio St. 2d 258 [10 O.O.3d 398], the court stated in paragraph one of the syllabus:
+“As used in R.C. 3109.09, which section permits the bringing of an action for the recovery of compensatory damages from parents having custody and control of a minor under the age of 18 years who willfully damages the property of an owner, ‘willfully damages property’ means the intentional doing of the act which occasions the damage and resulting loss, coupled with the intent or purpose of causing the damage. Under R.C. 3109.09, in order that parents may be found liable for the tortious acts of their minor children, both the initial act, as well as the subsequent damage, must be found to have been intentional.”
+Under the facts of the instant case, therefore, by reason of our Ohio Supreme Court decisions, supra, the child involved herein, being under seven years of age, was not capable of committing an intentional tort.
+We, therefore, overrule appellant’s first assignment of error.
+Appellant’s second assignment of error states:
+“Where appellee, a minor child, after having removed a sewer drain cover from the property of appellant and having been seen by appellant, who reported the incident to the child’s parents, appellees herein, and requested that the appellees-parents prevent the child from entering appellant’s property, or, specifically, from tampering with the drain, and where said child returned to appellant’s property, removed the drain cover and threw various objects into the drain, causing extensive damage to appellant’s real estate, it is error for the trial court to grant ap-pellees’ motion for summary judgment without considering appellant’s cause of action against the parents for negligent supervision of their child.”
+Appellant argues under this assignment of error that this cause of action presents genuine issues as to material facts which render the granting of ap-pellees’ motion for summary judgment inappropriate in this case. Appellant argues that evidence in support of his cause of action was offered by the appellant, that in July 1981 appellant saw the appellee-child near the sewer drain with the cover removed. Appellant immediately ordered the child off the property and thereupon went to the parents of the child, appellees herein, told them of the incident and requested that they prevent the child from entering appellant’s property and specifically, from tampering with the drain. The evidence also indicates that in August 1981 appellant again saw the child near the drain, with the cover removed, and that on this occasion the child was throwing debris into the drain. Thé articles thrown into the drain caused extensive damage to appellant’s property. Appellant submits that by virtue of these facts the parents knew, or should have known, that the child could cause damage to appellant’s property were he not restrained from entering the property.
+In support of his contentions, appellant cites Annotation (1973), 54 A.L.R. 3d 974, at 992-993, wherein the author states that:
+"* * * [A] parent may be liable for the consequences of a failure to exercise the power of control which he has over his children, where he knows, or in the exercise of due care should have known, that injury to another was a probable consequence of such failure.
+"* * *
+“* * * [W]here a parent has knowledge of the vicious or destructive tendencies of the child, and fails to exercise reasonable measures to control the child, the parent is liable for such injury or damage.”
+Ohio law similarly states that a cause of action could arise where there is a lack of parental control of a child that is known to be vicious, reckless, or demented. 41 Ohio Jurisprudence 2d (1960) 373, Parent and Child, Section 55, states in regard to these children that:
+“* * * [T]he parent may be held responsible for any damage done by the child. The same liability may attach to the parent of an insane or feeble-minded adult child living with his parents who know him to be so.
+“Any liability in such cases really rests upon negligence. To prove negligence on the part of, the parent in such cases, evidence is admissible that he knew of the former reckless conduct of the child.”
+Therefore, we find that there are questions of fact that raise genuine issues to be determined by the factfinder in the instant case. We do not conclude under this review that the child was reckless or that the parents were negligent in their control but only that these are the questions of fact to be determined making summary judgment inappropriate.
+For the foregoing reasons we sustain appellant’s second assignment of error and accordingly reverse the judgment of the trial court.
+Judgment reversed and cause remanded for further proceedings according to law.
+Judgment reversed and cause remanded.
+MaRkus, P.J., and Dahling, J., concur.
+Dahling, J., of. the Eleventh Appellate District, and Donofrio,-J., of the Seventh Appellate District, sitting by assignment in the Eighth Appellate District.
