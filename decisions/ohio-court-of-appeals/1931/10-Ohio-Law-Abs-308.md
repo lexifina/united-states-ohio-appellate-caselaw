@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1931-05-18"
+citations: ["10 Ohio Law Abs. 308"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MAUCK, PJ, and BLOSSER, J, concur."]
+parties: ["FOLMER v SIMPSON"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 896916
+cites_cases: ["113 Oh St 546", "50 Oh St 167"]
+---
+
+# Folmer v. Simpson
+
+## Majority (MIDDLETON, J.)
+
+MIDDLETON, J.
+Before considering the demurrer to this amended petition we deem it necessary to dispose of the application of the plaintiff to insert in said amended petition, and in the second cause of action thereof, this averment:
+“That the said Sarah E. Beegle knew of such fraudulent intent upon the part of the said Harry J. Simpson and Mayme Helen Simpson.”
+It is apparent from this second cause of action that as it now stands it is subject to the special demurrer directed to it alone, and that it does not state facts sufficient to constitute a cause of action against the defendants.
+It is well settled by all the authorities that when a fraudulent grantee in a deed alleged to have been made to defraud creditors conveys said property to a bona fide purchaser for a valuable consideration and without notice such conveyance is good as against the creditors of the first grantor. Holmes v Gardner, 50 Oh St 167. It is apparent, we think, that the aveimcnt sought to be inserted in the amended petition as it now stands is not sufficient to remove the second cause of action from further attack. That cause of action should contain the averment that Sarah E. Beegle was not a bona fide purchaser for a valuable consideration without notice of the preceéding fraud. This being so, we deem it proper to say that in the opinion of this court it will be necessary for the plaintiff to file a second amended petition, and that in said petition the plaintiff may and should set forth in one cause of action all the operative facts he now pleads in the three causes of action aforesaid.
+The plaintiff’s interest in this real estate is limited to a recovery of his claim or judgment, but as between the co-defendants, the said Mayme Helen Simpson and her mother Sarah E. Beegle, they may if they wish, after the claim of the plaintiff is satisfied, regard a,nd treat’ the conveyance of the land between them as operative and legal. It is not necessary to give full relief to the plaintiff, and this court should do no more than adjudge the deed of Simpson to his wife as in fraud of the right of the plaintiff, and that plaintiff for that reason has a valid lien and the right to have a decree setting aside that deed, and a further ruling that his claim is a lien upon said real estate.
+While there can be no disposition made of this demurrer pending the disposition of the leave now granted to the plaintiff to file a second amended petition, we think it proper that, for the benefit of all the parties, we should indicate our attitude toward the contention made in the demurrer that the claim of the plaintiff as against Sarah E. Beegle is barred by the statute of limitations. It is our conclusion that on the face of the record this contention is without merit. It appears to be the contention of Sarah E. Beegle that for the reason that the original petition did not state a cause of action against her the filing of that petition did not, as a consequence, stop the running of the statute of limitations. In the case of Nashville Railroad Co. v Greene, 113 Oh St 546, the Supreme Court clearly indicates that where'in the first instance the action is not properly stated and the petition is defective an amendment thereto may be made in order to give the plaintiff a cause of action. The fact that a statute of limitations has expired between the beginning of the action and the time of making such amendment does not relieve the defendant from liability on the ground that such statute has intervened to his benefit and protection. If there was nothing more in the record than thé fact that the plaintiff now seeks to amend a defective petition we would not hesitate to hold that there was no merit in the claim that such amendment may not be made after the lapse of four years from the commencement of the running of the statute of limitations. However, in this case the record 'shows that the defendant, Sarah E. Beegle, filed an"answer to the petition in this case, as before observed, and in that answer she pleaded to the merits of the case, and that this pleading was filed within four years from the date of the original deed filed of Simpson to his wife, which is the basis of this action. The plaintiff filed a general denial to this pleading and an issue was then raised between the plaintiff and Sarah E. Beegle in regard to the ri'ght of Sarah E. Beegle to the real estate in question. That issue came into this court with the appeal, and the amended petition in this case goes no further than to attack Sarah E. Beegle’s right to said real estate. The plaintiff makes no demand that was not before the Court of Common Pleas and was not made before the Court of Common Pleas, and sets up no new facts, causes of action or issues which were not heard and determined in that court, from whose judgment this appeal was made.
+It is our conclusion that the defendant, Sarah E. Beegle, can not now successfully attack the issue between her and the plaintiff on the ground that the plaintiff’s demands are barred by the statute of limitations.
+Leave is given to the plaintiff to file a second amended petition on or before June 1, 1931, and if said amended petition complies with the suggestions made herein the demurrer will be overruled.
+MAUCK, PJ, and BLOSSER, J, concur.
