@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1934-02-19"
+citations: ["48 Ohio App. 295"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton, P. J., and Cushing, J., concur."]
+parties: ["Lynch, Admx., v. The Pennsylvania Rd. Co. et. al."]
+source_url: "https://static.case.law/ohio-app/48/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343038
+cites_cases: ["114 Ohio St., 493", "123 Ohio St., 468", "123 Ohio St., 638", "151 N. E., 714", "175 N. E., 863", "176 N. E., 569"]
+---
+
+# Lynch v. Pennsylvania Rd.
+
+## Majority (Ross, J.)
+
+Ross, J.
+This case comes into this court on error from the Court of Common Pleas of Hamilton county, wherein judgment was rendered in favor of the defendants, The Pennsylvania Railroad Company and The Cincinnati Street Railway Company, upon a general verdict.
+Erie avenue in the city of Cincinnati extends in a general easterly direction. Near the outskirts of the city it is intersected by the tracks of The Pennsylvania Railroad Company. The Cincinnati Street Railway Company maintains its tracks on the extreme outside limits of the roadway, leaving a comparatively wide area between the tracks for vehicular traffic.
+The day before Joseph Lynch met his death at the crossing mentioned the city of Cincinnati placed oil upon Erie avenue for a distance of some 600 feet south of the crossing, in the direction of approach from the city, which oil was plainly visible.
+At about 5:35 p. m. on June 2, 1930, it being still broad daylight, plaintiff in error’s decedent drove an automobile eastwardly out Erie avenue. He passed two automobiles when near the crossing. The speed at which he was driving was estimated at from 25 to 35 miles an hour, and he did not slacken his speed when in the oiled section of the road. When he reached a point some twenty-five feet from the crossing his automobile swerved towards the south and crashed into the side of a locomotive, which, with a caboose attached, was crossing Erie avenue to the south.
+The crossing was plainly visible for some considerable distance. It was marked by a signal device, installed by the street railway company for its own use, and a watchman employed by the street railway company was upon the far or east side of the crossing. The watchman did not signal the decedent to proceed.
+It is difficult to see how any other verdict could be sustained on such evidence than that returned, regardless of what error the court might have committed in charging the jury, for such showing of facts required an instructed verdict for the defendant companies; the obvious negligence of the decedent not having been rebutted by any evidence.
+The negligence, if such existed, on the part of The Pennsylvania Railroad Company and The Cincinnati Street Railway Company, manifestly could do no more than concur with the negligence of the decedent in producing his death. The decedent lived within a few squares of this crossing. It is claimed this does not prove he was familiar with it. However, it is a fact to he considered with the other evidence, although even if he had been a total stranger proximity of the crossing was manifest to anyone approaching it, and the condition of the street required caution on the part of anyone operating an automobile over it.
+It is today a matter of common knowledge that the presence of oil, such as is usually placed upon streets, makes them extremely slippery. It is very difficult to bring vehicles to a stop. They will skid and slide very easily. A condition of the street which is so obvious requires that a vehicle operated upon a street so oiled' must be under perfect control. To drive an automobile up to a railroad crossing over which a locomotive or train may be caused to pass at any moment, at what would be a safe rate of speed when the street was dry, may be sheer madness when the street is covered with oil up to the crossing. • It is clear that decedent made no effort to stop the automobile until within twenty-five feet of the crossing, and that he was then unable to stop, owing to the condition of the street.
+Certainly in the face of the evidence produced in this case the jury were not only warranted in bringing in a verdict for the defendants, but were required to do so by the evidence when the case was submitted to them.
+Now it is claimed that the railroad company was negligent in operating the locomotive at a speed greater than ten miles an hour, as provided in the ordinances of the city. This excess of speed which was stated to be about twenty miles per hour could not have been the proximate cause of the death of the decedent.
+Again, it is asserted that the presence of the watchman, maintained by the street railway company, was an invitation to proceed. There is evidence that a street car passed over the crossing under the invitation of the street railway company’s watchman. Just how long this was before the decedent reached the crossing is in dispute. There is evidence that the street ear had passed over and was some considerable distance beyond before the decedent reached it. Obviously if the locomotive had been at all close at the time the street car approached the watchman would not have permitted it to cross in the path of the train. An independent idea of the speed of the automobile is suggested by the relation of the passing of the street car and automobile.
+It is also claimed that a green signal light maintained by the street railway company was burning. There is evidence also that this had gone out before the decedent approached close to the crossing.
+In the case of Columbus, Delaware & Marion Electric Co. v. O’Day, Admx., 123 Ohio St., 638, 176 N. E., 569, it is held, paragraph three of the syllabus:
+‘ ‘ The presence of an automatic signal alarm, voluntarily instituted and .operated by an interurban railway company at a city street crossing, does not absolve a traveler upon the highway from the exercise of the care that a reasonably prudent person would exercise under all the circumstances. Such care upon the part of a driver of an automobile includes the obligation of exercising the faculties of sight and hearing, when such driver is far enough from the railway track to be able to stop his automobile before reaching the crossing.”
+The green light of the street railway company, even if it were operating, as claimed by plaintiff in error, was no more effective than would have been an automatic alarm or flasher signal, which was not operating. The green light and the silent or dark signal are upon an equal basis.
+If the cases of Henderson v. Cleveland Ry. Co., 123 Ohio St., 468, 175 N. E., 863, and Columbus, Delaware & Marion Electric Co. v. O’Day, Admx., supra, are in conflict, the former must be considered modified by the latter, for the former case was decided March 25, 1931, while the latter was decided upon a rehearing May 20, 1931.
+It has been decided heretofore that the rules applicable to railroad crossings do not govern ordinary vehicles at street intersections. This difference is apparent, in that trains are not required to stop at street intersections, while, as pointed out in Henderson v. Cleveland Ry. Co., supra, all vehicles, including street cars, are required to stop when the traffic light against them is red. The invitation of the green light is accompanied by the inhibition of the red light at street intersections. The silent alarm or flasher signal, or even a green light, if it appears, as in the case at bar, is not a prohibition to the train to proceed across the crossing.
+The case of Detroit, Toledo & Ironton Rd. Co. v. Rohrs, 114 Ohio St., 493, 151 N. E., 714, is still the law in Ohio. Paragraph one of the syllabus is as follows:
+“It is the duty of a driver of a vehicle upon a public highway when approaching a grade crossing of a steam railroad to both look and listen for approaching trains and to do so at such time and place and in such manner as will make the looking and listening effective.”
+There is also evidence in this case that an automatic crossing bell maintained by the railroad company was ringing and that the locomotive whistle was sounded.
+Counsel for plaintiff in error proclaim against the law as formerly laid down by the Supreme Court and still in effect. Their arguments will be more properly addressed to that court than to this, which feels bound to follow the pronouncement of the Supreme Court until that court sees fit to modify its former holding.
+In view of what has been said we feel it unnecessary to pass upon other assignments of error, except to say that no error appears in any of them prejudicial to plaintiff in error and requiring a reversal of the judgment, which is manifestly just.
+Judgment affirmed.
+Hamilton, P. J., and Cushing, J., concur.
