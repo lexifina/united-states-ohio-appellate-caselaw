@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 11766"
+decided: "1972-03-06"
+citations: ["32 Ohio App. 2d 116"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, J., concurs.", "Young, J., not participating."]
+parties: ["The Ohio Co., Appellee, v. Rosemeier, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/32/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6705235
+cites_cases: ["140 Ore. 422", "159 Ohio St. 423", "22 Ohio St. 2d 107", "251 Pa. 524", "97 A. 89"]
+---
+
+# Ohio Co. v. Rosemeier
+
+## Majority (Hess, P. J.)
+
+Hess, P. J.
+This is an appeal from an entry by the Court of Common Pleas of Hamilton County, Ohio, overruling defendant’s motion for a new trial.
+There is no substantial dispute on the facts. The plaintiff, appellee herein, is a stock brokerage corporation with branch offices in Cincinnati, Ohio. On April 28, 1969, the defendant, the appellant, presented a stock certificate to the plaintiff’s representative for 1,080 shares of Santa Fe International, Inc., a Colorado corporation. This stock was not listed on stock exchanges. At that time this stock was selling for four to eight cents per share. At the same time, stock of the Santa Fe International Corporation, a California corporation, was listed on stock exchanges and selling for $36 to $36.50 per share. The defendant inquired at the plaintiff’s office if her stock was selling at $36 per share. After a check of the stocks listed, the plaintiff’s representative advised that defendant’s stock was selling at $36 per share. Both parties mistakenly believed the defendant’s shares to be those listed by Sante Fe International Corporation, the California corporation.
+On the same day, a sale of 500 shares of defendant’s stock was made at approximately $36,125 per share. Pursuant to this sale, the plaintiff delivered a check to the defendant on May 5, 1969, in the amount of $17,851.30. The defendant subsequently applied the proceeds of the sale to the payment of an existing mortgage on her house and other debts.
+Following the sale, plaintiff sent the stock certificate for 1,080 shares to a transfer agent to be split into one certificate of 500 shares and one certificate of 580 shares. In July, 1969, after a series of rejections of the stock certificate by several transfer agents, the plaintiff discovered that it had purchased shares of the unlisted Colorado corporation and not the shares of the Santa Fe International Corporation of California. The plaintiff notified the defendant of the mistake in July, 1969, and requested a refund of the $17,851.30. Defendant refused to refund the money and plaintiff then commenced this litigation. No fraud or deceit was alleged by either party in the complaint or answer and at trial the parties stipulated that neither fraud nor deceit was present in this litigation.
+The trial court awarded judgment to the plaintiff based upon mutual mistake and unjust enrichment. The amount awarded was $17,351.30. That amount represents the $17,851.30 paid by plaintiff, less $500 for defendant’s attorney fees. Defendant subsequently filed a motion for a new trial, which was overruled.
+The defendant presents three assignments of error which will be considered as numbered.
+In assignment of error number one, defendant claims the trial court erred in overruling the motion for a new trial because the judgment was against the weight of the evidence. The basis of this contention is that the plaintiff was in a better position to discover the identity of the stock sold and its failure to do so was the sole cause of the payment by mistake to the defendant.
+The position of the plaintiff as a stock brokerage firm does not operate to render it solely responsible for a mistake of fact as to the identity of stock to be sold. Even though the mistaken belief by the defendant was innocently induced by the plaintiff, a refund of the amount paid is not barred. Further, if the defendant’s mistaken belief had been negligently induced by plaintiff, a refund would be required. Firestone Tire and Rubber Co. v. Central National Bank of Cleveland, 159 Ohio St. 423.
+The record is clear that the parties were mutually mistaken as to the identity of defendant’s stock when sold. The mutual mistake shown by the record is not modified by a showing that one party could more easily detect the mistake. For this reason, assignment of error number one is without merit.
+In assignment of error number two, defendant claims the trial court erred in overruling the motion for a new trial because the judgment was contrary to law. To support this contention, she cites Bd. of Edn. v. Sever-Williams Co., Inc., 22 Ohio St. 2d 107.
+That case concerned R. C. 3313.46, which establishes the method by which a building contractor may secure a contract with a board of education. The court held that a unilateral mistake by the contractor in the amount of his bid did not prevent the forfeiture of the bond required by R. C. 3314.46 if the contractor did not enter a contract at the bid price. Since the issues in the Sever-Williams case, supra, concern a controlling statute, that case is not relevant to the non-statutory issues of unjust enrichment and mutual mistake in this case. Assignment of error number two is without merit.
+In assignment of error number three, the defendant claims the trial court erred in overruling the motion for a new trial because the judgment was contrary to law. The basis presented for this contention is that a refund by the defendant is barred because she disbursed the money received in good faith to third parties before receiving notice of the mistake.
+In the cases concerning the payment of money pursuant to a mistake of fact, the “ultimate analysis amounts to this: A payer, even if negligent in making payment under a mistake of fact, may recover if his act has not resulted in a change in the position of the innocent payee to his detriment..” Firestone Tire and Rubber Co., supra, at 439.
+In the Firestone case, a manufacturer sent false invoices and bills of lading to Firestone for goods which in fact were never shipped. The manufacturer used the accounts receivable, generated by the false documents, as security for a bank loan. The bank, unaware that the accounts receivable were fraudulent, directed Firestone to make payments directly to the bank. After several payments were made, the fraud by the manufacturer was discovered. Firestone recovered that portion of the money paid to the bank 'which the bank had used to reduce the manufacturer’s loan. Firestone was not allowed' to recover that portion of the money paid to the hank which the bank had placed in the manufacturer’s deposit account and which had been withdrawn. The withdrawn amount was actually lost to the bank and, therefore, the court held that the bank had changed position sufficiently to bar a refund. The portion of Firestone’s payments used to offset the manufacturer’s loan, however, was not actually lost to the bank but were retained in a different form. The bank had merely converted the cash into a loan repayment and thereby had not detrimentally changed position.
+In the instant case, defendant testified that she had redeemed the mortgage on her house and had none of the money paid by the plaintiff left. As did the bank in the Firestone case, supra, the defendant merely changed the cash into a paid mortgage and retained the value originally represented by plaintiff’s mistaken payment. Since the value of the orginal payment was retained by the defendant, she has not detrimentally changed her position by liquidating her mortgage. Smith v. Rubel, 140 Ore. 422, 13 P. 2d 1078; Donner v. Sackett, 251 Pa. 524, 97 A. 89.
+The disposition of any other amounts from the sale proceeds by defendant in addition to the mortgage payment is not shown in detail by the record.
+For the reason that no detrimental change of position by defendant is shown by the record, plaintiff was not barred from recovering the amount paid to the defendant by mutual mistake. Assignment of error number three is without merit.
+It follows that the judgment of the Court of Common Pleas of Hamilton County, Ohio, should be, and the same hereby is, affirmed.
+Judgment affirmed.
+Shannon, J., concurs.
+Young, J., not participating.
