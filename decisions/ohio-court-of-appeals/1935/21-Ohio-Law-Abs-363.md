@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2522"
+decided: "1935-05-27"
+citations: ["21 Ohio Law Abs. 363"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FUNK, Pj, and STEVENS, J, concur in judgment."]
+parties: ["MOTT et v FULTON"]
+source_url: "https://static.case.law/ohio-law-abs/21/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670185
+cites_cases: ["100 Oh St 110", "102 Oh St 160", "104 Oh St 274", "61 Oh St 394", "73 Oh St 494"]
+---
+
+# Mott v. Fulton
+
+## Majority (By WASHBURN, J.)
+
+OPINION
+By WASHBURN, J.
+Said statute (§10509-106, GC) specifically provides that the persons so notified shall be parties to the proceeding, and makes them necessary parties, and we are of the opinion that they are parties in their own right.
+The Probate Court, in compliance with §10509-107 GC, appointed Edmund Burroughs to represent the estate, and he filed a pleading objecting to the allowance of said claim.
+The provisions of the statute providing for such procedure are somewhat similar to the provisions enacted in other states, but w( feel that the Ohio statute must be construed with reference to the provisions of our own code of civil procedure.
+In so far as this act provides procedural rules, it governs and controls, but we are of the opinion that this proceeding is in the nature, at least, of a civil action, if it may not be determined to be such definitely, and that all of the applicable provisions of the code of civil procedure govern, where there is no special procedural provision therefor in the Probate Code.
+We are of the opinion that the person appointed to represent the estate occupies a position akin to that occupied by an attorney in fact; that he does not thereby become the executor of the estate in the place of the one whose place he takes; that in said sense he is a party to the suit, and in so far as there are any persons or interests that are not specifically represented by themselves in this proceeding, he may, under the statute, for the purpose of this action, be said to represent them; that as such he is a party, and that he has a right to appeal and to remain a party throughout the litigation. But, we are also of the opinion that as to those heirs, legatees, devisees and others who are specifically made and required to be parties themselves, they do not act through him, but act in their own right and for themselves, and that they, in the Probate Court, are parties to the action.
+Upon the hearing in the Probate Court, that court decided in favor of the application, and allowed the claim of the trust company. Thereupon, one of the persons who was a party under the notice given in the Probate Court, gave notice of intention to appeal and filed an appeal bond.
+The procedure provided for in the Probate Act is that exceptions may be taken at the hearing and bills of exceptions allowed, and it is further provided that, where the amount of the claim exceeds one hundred dollars, an appeal may be taken, by any person affected thereby, to the Common Pleas Court. We think that gives to each of the parties mentioned the right to appeal, including the person appointed to represent the estate.
+After this one party had filed his notice of appeal and his appeal bond, and during the same day, three others joined with him in giving another appeal bond, one of whom was Edmund Burroughs, the representative of the estate, the others being Andrew Mott and the estate itself. That was a joint appeal bond.
+Now, upon the filing of these bonds, we hold that the entire case was transferred to the Common Pleas Court, and that said court had the same jurisdiction and control over said case as it would have had if the action had been brought originally in that court, and that the judgment which was rendered in that court bound all of the parties who became parties in that court by virtue of the appeal—they being the parties who were parties in the Probate Court.
+It is, perhaps, proper to say that in this particular instance, there can be no question about the whole case being transferred because any judgment which' might be rendered in this proceeding, whether favorable or unfavorable, would affect all of the parties, and, with the possible exception of Edmund Burroughs, whom we are treating as a party, there was no adversity between said parties, and there could be none upon any question involved in the adjudication of the question that was before that court.
+In what I have just said, of course, I am referring to parties other than the claimant, because its claim was antagonistic to the interests of all of the others.
+Upon hearing in -the Common Pleas Court, the same result was reached as in the Probate Court, and, thereafter, a petition in error was filed in this court, seeking to review the judgment so entered. That petition was styled “Andrew Mott, Robert H. Noah, Estate of Andrew H. Noah, deceased, Edmond Burroughs, appointed by court order to represent the estate of Andrew H. Noah, deceased, plaintiffs in error v Ira J. Fulton, Superintendent of Banks of the State of Ohio in charge of liquidation of the First-Central Trust Company, defendant in error.”
+Of course, it is unnecessary to say that said bank, having gone into liquidation, is now represented by the Superintendent of Banks.
+No other parties were made or named in said petition in error. The defendant named waived the issuance and service of summons in error, and now has filed a motion to dismiss the petition in error because it is claimed that, by reason of a lack of proper parties, this court is without jurisdiction to review said judgment.
+I am not now noticing the other objections that are made, because, in what has been said or what will be said, our view in reference thereto will be sufficiently indicated.
+There are certain provisions in the civil code as to procedure in Common Pleas Court, and there are no similar provisions as to procedure in the Court of Appeals, but the Supreme Court has repeatedly held that-the procedure provided in the statutes' relating- to the Common Pleas Court is applicable also to proceedings in the Court of Appeals. It has especially so held in reference to §11256, GC, which provides that parties who are united in interest must be joined as plaintiffs or defendants in the petition in error.
+From what has been said, it is apparent that we are of the opinion that all of the various persons who were served with notice in the inauguration of the proceeding in the Probate Court, and who became parties in their own right in the Common Pleas Court, are, under the provisions of said section, necessary parties in the Court of Appeals.
+Codefendants are united in interest, within the meaning of the statute, only when they are similarly interested in, and will be similarly affected by, the determination of the issues involved in the action.
+It has been held in a will contest case that an executor named in the will is not united in interest with the heirs and devisees, and we feel that the position of Edmund Burroughs, as a party in this action, is such that he is not united in interest with the other parties whom we are holding are necessary parties, but, excipting him, the others are all clearly united in interest, within,the meaning of this statute. Of course, I am not including the claimant.
+In the recent case in the Supreme Court holding that the provisions of said §11356, GC, are mandatory, the court is but following the case of Snider’s Exrs. v Young, 73 Oh St 494.
+From what has been said, unless the other necessary parties are made parties to this action, it would be the duty of this court to sustain the motion; but we think that it would be proper for us to suspend passing upon said motion until the parties have had an opportunity, if they choose so to do, to bring in the other necessary parties, if it is not too late to do so, and we purposely say nothing about whether or not it is too late, because the attorneys have not had an opportunity to present that question to us.
+We have examined and tried to express the opinion which has been gathered from a consideration of the following authorities: Young v Meyers, Jr., Exr., 124 Oil St 448; McCord v McCord, 104 Oh St 274; Barnes v Christy, 102 Oh St 160; Snider’s Exrs. v Young, supra; and Chapman Mfg. Co. v Taylor, 61 Oh St 394.
+There is also the case of Clark, Exr. v McClain Fire Brick Co., 100 Oh St 110, which is not of particular importance except that it points out that the provisions of §11356, GC, relate to persons united in interest, and, as to them, that section is mandatory; whereas §11254, GC, relates to persons who are not united in interest, but who have a legal or equitable interest in the subject of the action and in obtaining the relief demanded; that section permits, but does not require, them to be joined as plaintiffs, and we think the parties to whom reference has been made are in the former class, the class known as ‘necessary parties,” rather than in the other class, which is denominated “proper parties.”
+We shall expect the plaintiffs in error to make known to the court within ten days whether they propose to bring before the court said necessary parties, and upon failure to do so the motion to dismiss for want of jurisdiction will be granted.
+FUNK, Pj, and STEVENS, J, concur in judgment.
