@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4811"
+decided: "1958-06-25"
+citations: ["107 Ohio App. 288"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doyle and Stevens, JJ., concur."]
+parties: ["Freight, Inc., Appellee, v. Board of Township Trustees of Northfield Center Township, Appellant, et al."]
+source_url: "https://static.case.law/ohio-app/107/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1434418
+cites_cases: ["110 Ohio St., 246", "135 Ohio St., 408", "143 N. E., 700", "150 Ohio St., 402", "166 Ohio St., 349", "74 W. Va., 190", "81 S. E., 734"]
+---
+
+# Freight, Inc. v. Board of Township Trustees
+
+## Majority (Hunsicker, P. J.)
+
+Hunsicker, P. J.
+Freight, Inc., commenced an action in the Common Pleas Court of Summit County for a judgment declaring that it is a public utility within , the meaning pf Section 519.21, Revised Code, and hence exempt from the operation, force and effect of the zoning regulations of Northfield Center Township, Summit County, Ohio, and the Summit County Regional Planning Commission.
+The action, brought against the several corporate bodies, the officers and individual members of such bodies that are concerned with the enforcement of the zoning regulations, and certain other individuals who are owners of land in the vicinity of lands sought to be used by Freight, Inc., also seeks an injunction to prevent the named defendants below, appellant and others here, from interfering with the construction, erection, use and maintenance of a freight terminal on the land owned by Freight, Inc.
+The case is presented on the agreed statement of facts that was before the trial court. That court determined that Freight, Inc., was a public utility, within the meaning of the township zoning regulations. It is from the judgment so entered in the trial court that an appeal on questions of law is before this court for determination.
+Freight, Inc., is an Ohio corporation, engaged in intrastate and interstate transportation, by motor vehicle, of chattels, general commodities, and other property. It has the necessary authority of the Interstate Commerce Commission of the United States of America, and the public utilities commissions of the state of Ohio and the several other states in which it operates. It has complied with the license and tax laws of governmental agencies in the states in which it operates.
+It is a common carrier, by motor vehicle, whose rates are regulated, and whose service is available to all, indiscriminately. On its line of operations, it has complied with the requirements of the several regulatory bodies having supervision of the hauling of property for hire on the public highways.
+Freight, Inc., owns a parcel of land in Northfield Center Township, Summit County, Ohio, upon which it desires to erect a terminal. This proposed terminal is along its designated and authorized route. The terminal, as planned, will contain complete facilities useful in the operation of its hauling business, and accommodations necessary for the operators of the motor vehicles.
+The land so owned by Freight, Inc., is zoned for residence purposes only, and, although it has secured from the proper authority in the state of Ohio a permit to erect a motor truck terminal at this location, it is prevented from doing so by reason of the existence of the zoning regulations adopted by the citizens of Northfield Center Township, under authority of the township zoning laws, Chapter 519, Revised Code of Ohio.
+The sole question we are required to determine is, whether Freight, Inc., is a public utility within the meaning of Section 519.21, the pertinent part of which is as follows:
+“Such sections [Sections 519.02 to 519.25] confer no power on any board of township trustees or board of zoning appeals in respect to the location, erection, construction, reconstruction, change, alteration, maintenance, removal, use, or enlargement of any buildings or structures of any public utility or railroad, whether publicly or privately owned, or the use of land by any public utility or railroad, for the operation of its business.”
+The appellant contends that Freight, Inc., is not a public utility because (1) it does not possess the power of eminent domain; (2) the statute says that “any public utility or railroad” is exempt from its operation — hence, if transportation by motor vehicle was also to be exempt the statute would have so stated: and (3) regulation by the Public Utilities Commission does not make the appellee a public utility.
+Certain sections of the Revised Code of Ohio, in the chapters dealing with the Ohio Public Utilities Commission — viz., Sections 4905.01, 4905.02, 4905.03, and 4921.02 — by definition, place motor transportation companies within the classification of public utilities. The state has also, by Section 4921.03, Revised Code, declared the policy of the state with respect to such companies; and, by Section 4921.04, Revised Code, the state has vested the Public Utilities Commission with power and authority to control, within described areas, the operation of such motor transportation companies.
+Even though a motor transportation company, such as Freight, Inc., is considered a public utility for the purpose of regulation by the Public Utilities Commission, that designation of control does not make it a public utility in fact.
+With respect to the zoning laws, the Supreme Court of Ohio has said that:
+“1. The zoning power of township trustees, described in Chapter 519, Revised Code, is solely a police power delegated to township trustees by the General Assembly.” Yorkavitz v. Board of Township Trustees of Columbia Twp., 166 Ohio St., 349, 142 N. E. (2d), 655.
+Although there have been many opinions written concerning the subject of public utilities, few cases have sought to define a public utility in clear and unequivocal terms. Each declaration of a certain business as being a public utility has depended on the facts peculiar to the situation of that business.
+In Southern Ohio Power Co. v. Public Utilities Commission, 110 Ohio St., 246, 143 N. E., 700, the court said:
+“2. To constitute a ‘public utility,’ the devotion to public use must be of such character that the product and service is available to the public generally and indiscriminately, or there must be the acceptance by the utility of public franchises or calling to its aid the police power of the state.”
+A further declaration by a per curiam opinion was made in Midwest Haulers, Inc., v. Glander, Tax Commr., 150 Ohio St., 402, at p. 405, 83 N. E. (2d), 53, where the court said:
+“As its name indicates, the term, ‘public service,’ implies a public use and service to the public, and the principal determinative characteristic of a public utility is that of service to, or readiness to serve, an indefinite public which has a legal right to demand and receive the utility’s services or commodities. 43 American Jurisprudence, 571, Section 2.
+‘ ‘ The transportation of goods by motor vehicle is a business which has been found so related to the public interest and welfare as to require special regulation and control. See Section 614-84 et seq., General Code. When a company is authorized to act as a common carrier and holds itself out as willing to serve the general public and, in fact, does serve such public, it is engaged in rendering a public utility service within the contemplation of the sales and use tax laws. Sections 5546-1 and 5546-25, General Code.”
+In Industrial Gas Co. v. Public Utilities Commission, 135 Ohio St., 408, 21 N. E. (2d), 166, the court said:
+“2. A public utility is bound to serve to tbe extent of its capacity those of the public who need the service and are within the field of its operations, at reasonable rates and without discrimination * *
+An examination of the authorities cited supports the following statement found in 73 Corpus Juris Secundum, Public Utilities, Section 1:
+“A ‘public utility’ has been described as a business organization which regularly supplies the public with some commodity or service, such as electricity, gas, water, transportation, or telephone or telegraph service. While the term has not been exactly defined, and, as has been said, it would be difficult to construct a definition that would fit every conceivable case, the distinguishing characteristic of a public utility is the devotion of private property by the owner or person in control thereof to such a use that the public generally, or that part of the public which has been served and has accepted the service, has the right to demand that the use or service, as long as it is continued, shall be conducted with reasonable efficiency and under proper charges. * * *”
+One of the chief tests by which to judge the character of the use of any business organization alleged to be a public utility, is whether or not the public may enjoy it as of right, or by permission of the owners.
+We have not discussed herein the lack, on the part of Freight, Inc., of the power of eminent domain, for we believe, as was stated in the case of Wingrove v. Public Service Commission, 74 W. Va., 190, at page 193, 81 S. E., 734: “Its lack of' the power of eminent domain is a mere inconclusive circumstance. Many persons and firms engaged in the public service do not have it.” See also: 18 American Jurisprudence, Eminent Domain, Section 28.
+The service rendered by Freight, Inc., is not confined to a privileged few, but is open to the public generally. It is one of the indicia of the public use that there is a user indefiniteness that gives to it a public character. The service it renders is open to one and all without discrimination, and at rates which are determined prior to the application for service by a regulatory body having power to investigate and fix just and reasonable rates.
+The test whether it is a public utility has been met by Freight, Inc.; that test is whether the general public indiscriminately has a legal right to use its services, and whether such use of its services cannot be denied or withdrawn at the whim of the owners.
+The enterprise which we are investigating is a business affected with a public interest, and the obligation to serve without discrimination applies not only to services, but also as to persons and prices charged.
+We therefore determine that Freight, Inc., is a public utility, as that term is used in Section 519.21, Revised Code, and hence is exempt from the restrictive provisions of the zoning regulations which would prevent it from proceeding to erect the terminal provided for by the authority heretofore given to Freight, Inc.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Doyle and Stevens, JJ., concur.
