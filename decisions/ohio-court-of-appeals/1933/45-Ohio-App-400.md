@@ -1,0 +1,27 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-01-16"
+citations: ["45 Ohio App. 400"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Williams, JJ., concur."]
+parties: ["Ankenbrant v. City of Toledo."]
+source_url: "https://static.case.law/ohio-app/45/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336689
+cites_cases: ["124 Ohio St., 607", "180 N. E., 59", "79 A. L. R., 1325"]
+---
+
+# Ankenbrant v. City of Toledo
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+Cherry street in Toledo extends in a northwesterly and southeasterly direction, the paved portion thereof being 54 feet in width. Double street car tracks are maintained thereon, and at or near Noble street, in front of St. Vincent’s Hospital, there has been erected and maintained on Cherry street a safety zone for the convenience and safety of persons desiring to cross the street or to board or alight from street cars at that point. At about one o’clock in the morning of March 23, 1930, the plaintiff in error, Pansy Ankenbrant, was injured as a result of the collision of an automobile, in the rear seat of which she was riding as a guest, with one of the guard posts of this safety zone located at the northwesterly end thereof. It is claimed, and evidence was introduced to show, that as this automobile, proceeding southeasterly on Cherry street, approached the entrance of Noble street into Cherry street, another automobile, proceeding in the same direction, and at a high rate of speed, dashed suddenly past and to the right of the car in which plaintiff was riding, so close thereto as to compel the driver thereof to turn to the left and thereby collide with one of the posts at the northwest end of the safety zone. At the conclusion of the evidence offered by plaintiff in error, who was plaintiff in the court of common pleas, a verdict was directed by that court in favor of the city of Toledo, the defendant therein, and it is now sought to reverse the judgment entered upon this verdict.
+The only claim made in the trial court, or in this court, is that since Section 3714, G-eneral Code, imposes upon a municipality the duty to keep its streets “open, in repair, and free from nuisance,” the trial court should have permitted the jury to determine from the facts and circumstances in evidence whether or not the maintenance of the safety zone by the city constituted a nuisance. To the bill of exceptions is attached a plan or map which, by stipulation, was admitted in evidence, which shows the nature and character of the safety zone established and maintained by the municipality, and its purpose and manner of construction. It shows a series of 8 cast-iron posts, 5% inches in diameter and 3 feet and 9 inches in height above the pavement, solidly embedded therein, parallel with and approximately 5 feet and 6 inches from the outside rail of the southwesterly street car track and a fraction more than 14 feet from the southwesterly curb of the paved portion of Cherry street. At the northeasterly end of this series of posts are two others, 2 feet apart, inclosing the end of the established safety zone, immediately behind which is a light tower on a 3-foot square concrete base. At the top of this light tower, which is 9 feet in height, is an' ‘ ‘ amber flasher facing the flow of traffic,” and 4 feet from the top thereof are two red lights, one on either side of the northeasterly side of the tower toward approaching traffic. Describing this light tower, we find printed on this exhibit, “front elevation of light tower located at N. W. end of safety zone with lights burning 24 hours of the day.”
+In City of Cleveland v. Gustafson, 124 Ohio St., 607, it is said at page 612, 180 N. E., 59, 79 A. L. R., 1325: “It certainly is not an abuse of power for council to reasonably obstruct the highway, if it is necessary so to do to make it safe.” In other words, the maintenance of a safety zone is a valid exercise of the police power of the municipality.
+There is no evidence in the record in the instant case even tending to show that the safety zone in question is defective in construction, or so placed as unreasonably to interfere with motorists proceeding southeasterly on Cherry street, there being a full 14 feet of passageway between the guard, posts of the safety zone and the curb of the street, a width sufficient for at least two automobiles to proceed safely there along, side by side. Nor is there any evidence to show that it was not properly lighted; the affirmative evidence, as shown by the exhibit attached to the bill of exceptions, being that there were adequate warning lights. Such a safety zone not being per se a nuisance, nor an unlawful obstruction, the burden is on the plaintiff, in order to create a liability resulting from its erection and maintenance, to show that the facts and circumstances in the particular case make it so. The mere fact that a motorist, by his selfish and' willful, perhaps criminal, misconduct, caused the automobile in which plaintiff in error was riding to collide with one of the guard posts of the safety zone, resulting in injury to her, would not be evidence that the establishment and maintenance of the safety zone by the city of Toledo constituted a nuisance.
+The judgment of the court of common pleas is affirmed.
+Judgment affirmed.
+Richards and Williams, JJ., concur.
