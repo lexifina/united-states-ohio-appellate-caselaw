@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-02-06"
+citations: ["36 Ohio App. 476"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sherick, J., and Middleton, J. (of the Fourth Appellate District), concur."]
+parties: ["Industrial Commission of Ohio v. Mounjoy."]
+source_url: "https://static.case.law/ohio-app/36/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321573
+cites_cases: ["118 Ohio St., 167", "119 Ohio St., 594", "158 N. E., 195", "160 N. E., 683", "164 N. E., 768", "165 N. E., 297", "25 Ohio App., 319", "30 Ohio App., 456"]
+---
+
+# Industrial Commission v. Mounjoy
+
+## Majority (Lemert, J.)
+
+Lemert, J.
+This case comes into the Court of Appeals of Stark county, Ohio, from the common pleas court of that county, and arises under the provisions of the Workmen’s Compensation Law of Ohio. The decedent, Carl Mounjoy, was an employee in the adjutant general’s department of the state of Ohio, and his duties were to supervise the construction of state armories. On April 8, 1927, he was in Canton, Stark county, Ohio, and in the course of his employ- • ment it became a part of his duties to walk over the site on which a new armory was being built. The record discloses that the ground of this site was very rough, because of rubbish, automobile parts, refuse, tin cans, etc., having been dumped thereon.
+It was the contention in the court below, on -behalf of the defendant in error, that, while walking on and over this rough ground, the decedent, Carl Mounjoy, wore two blisters on his right foot. It is further claimed that these blisters became infected and caused the death of the said Carl Mounjoy on April 17, 1927.
+The defendant in error, Ada M. Mounjoy, the widow of Carl Mounjoy, filed an application for compensation with the Industrial Commission of Ohio, and the same was denied. She then filed a petition in the common pleas court of Stark county, under the provisions of Section 1465-90, General Code, and the court and jury found that she was entitled to participate in the state insurance fund.
+The plaintiff in error contends: First, that the blisters, if there were any, were caused by the shoes, rather than by any condition for which the employer was responsible. Second, that there is no evidence disclosing that the blisters, if any there were, were received in Stark county. Third, the claim is made that the evidence discloses that on April 4, 1927, there existed a foot condition for which he procured the attention of a doctor.
+From an examination of the record in this case, it would seem that the first complaint'is based upon a mere naked conclusion. Whether the decedent in this case suffered a blister on his foot, and what produced that blister, was a matter of fact in the instant case, and was put squarely up to the jury. If the decedent suffered a blister- on his foot because of having to walk over rough ground, in the course of his employment, there can be no question that that would be an injury within the meaning of the Workmen’s Compensation Law, just as much so as a sunstroke or a heat stroke; the courts in such cases having found and held such to be compensable injuries. We believe that rough ground is a hazard of employment, just as much so as temperature, or any other similar condition of employment, and, from an examination of the record in the case, we are of the belief that the jury were right in finding as they did on this proposition.
+On the second contention of plaintiff in error, that there is no evidence in the record disclosing that the blisters were received in Stark county, Ohio, we note that the record discloses, by the testimony of Fred W. Elliott, who was decedent’s superior, that on the afternoon of April 7 the decedent left for Canton, Ohio, stayed there over night, and the.next day, on the morning of April 8, superintended the work at Canton, and that this was the last trip he made, and Mr. Elliott further testifies that after decedent’s return from Canton he reported to him Saturday morning, April 9, relative to his trip to Canton, Ohio.
+It is further contended on the part of plaintiff in error that the testimony of Mr. Elliott as to what decedent had told him was incompetent. It is the practice, or one of the rules, of the Industrial Commission, to require a claimant to obtain the certificate of his or her employer to an application for compensation. We believe that it is sound reasoning to hold that the statement of an injured workman made to his employer, or his superior, at the first opportunity after the injury, should be regarded as competent evidence in cases arising under the Workmen’s Compensation Law.
+However, regardless of the testimony of Mr. Elliott, the record discloses the testimony of decedent’s widow, Ada M. Mounjoy, who testified as to the condition of decedent’s foot on April 8th and 9th, and until the time of his death. That this testimony is proper and competent has been well decided in a Muskingum county case, to wit, Van Allen v. Industrial Commission, 26 N. P. (N. S.), 179, wherein it was held that statements of a deceased workman, made upon the day of his injury, may be proved as a part of the res gestee.
+There was some question made in the instant case as to whether or not the injury sustained by decedent to his foot was prior to the 8th day of April, 1927. As to this matter of conflicting evidence, we note that the Supreme Court of Ohio, in Painesville Utopia Theatre Co. v. Lautermilch, 118 Ohio St., 167, 160 N. E., 683, holds:
+“Whenever, from conflicting evidence of the same witness or of different witnesses, it becomes necessary to weigh snch conflicting evidence to determine wherein the probable truth lies, or from a combination of circumstances determine an ultimate fact upon the determination of which different minds might reasonably arrive at different conclusions, it is the province of the jury to perform that function. It is reversible error for the court to invade that province of the jury.”
+In Tesar Motor Truck Co. v. Kramer, 30 Ohio App., 456, 164 N. E., 768, the court holds: “Reviewing court will not set aside verdict on weight of evidence, because of mere conflict in testimony, but only because judgment clearly shows misapprehension of facts and situation so violent as to shock senses; it being invasion of jury’s province for reviewing court to interfere where there are two views susceptible from all evidence.”
+In Industrial Commission v. Tripsansky, 119 Ohio St., 594, 165 N. E., 297, 298, being another Industrial Commission case, the Supreme Court of Ohio says:
+“This court will not substitute its judgment for that of the jury in such cases, nor invade its province. ’ ’
+In Jasionowski v. Industrial Commission, 25 Ohio App., 319, 158 N. E., 195, the court holds that “the test of right to award from insurance fund for injury * * * Was whether employment had causal connection with injury.”
+A careful examination of the record in this case discloses that there was sufficient evidence to warrant the jury in finding that the injury complained of in the instant case was received at the armory site in Canton, Ohio, as claimed by the defendant in error.
+Therefore we find that there is no reversible error in this case, and that the finding and verdict of the jury were right, and it therefore follows that the judgment of the court below will be, and the same hereby is, affirmed.
+Judgment affirmed.
+Sherick, J., and Middleton, J. (of the Fourth Appellate District), concur.
