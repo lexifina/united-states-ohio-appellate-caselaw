@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "61044 and 61045"
+decided: "1992-12-28"
+citations: ["84 Ohio App. 3d 565"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ann McManamon, P.J., and Harper, J., concur."]
+parties: ["CITY OF CLEVELAND, Appellee, v. VINCENTI, Appellant; CITY OF CLEVELAND v. McMAHAN, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/84/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1686377
+cites_cases: ["12 O.O.3d 1", "120 Ohio St. 568", "143 Ohio St. 312", "146 Ohio St. 203", "16 O.O.3d 212", "16 Ohio St.2d 16", "166 N.E. 808", "28 O.O. 270", "304 N.E.2d 378", "32 O.O. 184", "339 N.E.2d 820", "36 Ohio St.2d 101", "387 N.E.2d 1222", "404 N.E.2d 159", "44 Ohio St.2d 208", "45 O.O.2d 262", "480 U.S. 421", "55 N.E.2d 413", "573 N.E.2d 77", "574 N.E.2d 457", "58 Ohio St.2d 1", "61 Ohio St.3d 213", "61 Ohio St.3d 93", "62 Ohio St.2d 187", "65 N.E.2d 63", "65 O.O.2d 296", "73 O.O.2d 507"]
+---
+
+# City of Cleveland v. Vincenti
+
+## Majority (James D. Sweeney, Judge.)
+
+James D. Sweeney, Judge.
+Defendants-appellants Norman Vincenti (appellate case number 61044) and Jeffrey McMahan (appellate case number 61045) appeal from their bench trial convictions of having violated R.C. 4503.30 by using automobiles with dealer license plates for personal, nonbusiness use. For the reasons adduced below, we reverse.
+A review of the record indicates that both defendants were driving new 1991 Buicks when they were stopped by the police on the evening of October 12, 1990, in separate stops at different locations within twenty-five minutes of one another. Both vehicles were displaying placards issued to Spitzer Buick, Inc., in accordance with R.C. 4503.27. Both defendants, at the time of the stops, were salesmen employed by the automobile dealership and were on their way to a nightclub in the flats along the Cuyahoga River. Defendant McMahan testified that they were going to show the cars, which were different colors but otherwise identical, to a prospective buyer who worked at the nightclub.
+This consolidated appeal raises one assignment of error for review:
+“The lower court erred by concluding that § 4503.30 of the Ohio Revised Code prohibits employees of an automobile dealership from operating for personal purposes a motor vehicle displaying dealer license plates properly issued to such automobile dealer.”
+The statute in question, R.C. 4503.30, effective January 1, 1985, provides:
+“Any placards issued by the registrar of motor vehicles and bearing the distinctive number assigned to a manufacturer, dealer, or distributor pursuant to section 4503.27 of the Revised Code may be displayed on any motor vehicle, other than commercial cars, or on any motorized bicycle owned by the manufacturer, dealer, or distributor, or lawfully in the possession or control of the manufacturer, his agent, or employee, the dealer, his agent, or employee, the distributor, his agent, or employee, and shall be displayed on no other motor vehicle or motorized bicycle. Such placards may be displayed on commercial cars only when such cars are in transit from a manufacturer to a dealer, from a distributor to a dealer or distributor, or from a dealer to a purchaser, or when such cars are being demonstrated for sale or lease, and shall not be displayed when such cars are being used for delivery, hauling, transporting, or other commercial purpose.” (Emphasis added.)
+A “commercial car” is defined as “any motor vehicle having motor power designed and used for carrying merchandise or freight, or used as a commercial tractor.” R.C. 4501.01(J).
+Applying the foregoing definition, the vehicles herein are not considered “commercial cars.”
+In our review of R.C. 4503.30, we are guided by the following:
+“Where the language of a statute is plain and unambiguous and conveys a clear and definite meaning, there is no need to apply rules of statutory interpretation. Meeks v. Papadopulos (1980), 62 Ohio St.2d 187, 190, 16 O.O.3d 212, 213, 404 N.E.2d 159, 161, citing Sears v. Weimer (1944), 143 Ohio St. 312, 28 O.O. 270, 55 N.E.2d 413, paragraph five of the syllabus. However, where a statute is found to be subject to various interpretations, a court called upon to interpret its provisions may invoke rules of statutory construction in order to arrive at legislative intent. Meeks, supra, 62 Ohio St.2d at 190, 16 O.O.3d at 214, 404 N.E.2d at 162; Henry v. Central Natl. Bank (1968), 16 Ohio St.2d 16, 45 O.O.2d 262, 242 N.E.[2d] 342; Carter v. Youngstown (1946), 146 Ohio St. 203, 32 O.O. 184, 65 N.E.2d 63; Commercial Credit Co. v. Schreyer (1929), 120 Ohio St. 568, 166 N.E. 808.” Cline v. Ohio Bur. of Motor Vehicles (1991), 61 Ohio St.3d 93, 96, 573 N.E.2d 77, 80.
+Furthermore, under Ohio law, it is a cardinal rule that a court must first look to the language of the statute itself to determine the legislative intent. If that inquiry reveals that the statute conveys a meaning which is clear, unequivocal and definite, at that point the interpretative effort is at an end, and the statute must be applied accordingly. Provident Bank v. Wood (1973), 36 Ohio St.2d 101, 105-106, 65 O.O.2d 296, 298, 304 N.E.2d 378, 381. Courts are directed to give effect to the words of a statute and not to modify an unambiguous statute by deleting words used or inserting words not used. Bernardini v. Bd. of Edn. (1979), 58 Ohio St.2d 1, 4, 12 O.O.3d 1, 3, 387 N.E.2d 1222, 1224; see Gulf Oil Corp. v. Kosydar (1975), 44 Ohio St.2d 208, 215-216, 73 O.O.2d 507, 511, 339 N.E.2d 820, 824. Shover v. Cordis Corp. (1991), 61 Ohio St.3d 213, 218, 574 N.E.2d 457, 461. See, also, Immigration & Naturalization Serv. v. Cardoza-Fonseca (1987), 480 U.S. 421, 452-453, 107 S.Ct. 1207, 1223-1224, 94 L.Ed.2d 434, 460-461 (Scalia, J., concurring) (where the language of a law is clear, a court is not free to replace it with an unenacted legislative intent).
+“Since the wording of the ‘statute in question’ is clear and unambiguous, there is no room for judicial interpretation.” Shover v. Cordis Corp., supra, 61 Ohio St.3d at 218, 574 N.E.2d at 461.
+R.C. 4503.30 restricts only the use of placards, also known popularly as “dealer plates” or “dealer tags,” on commercial cars. There is no restriction or prohibition within the statute on non-business or personal use of a motor vehicle displaying dealer plates that is lawfully in the possession or control of the dealer or his employee. The General Assembly is well versed in the command and use of the English language and could easily have inserted such a prohibition into the statute, but it did not do so. We will not intrude on the legislative domain by finding such a prohibition where it does not presently exist.
+The convictions based on a flawed interpretation of R.C. 4503.30 by the trial court are reversed.
+Assignment well taken.
+Judgments reversed.
+Ann McManamon, P.J., and Harper, J., concur.
+. Former General Code 6301-la, a pre-1939 version of present-day R.C. 4503.30, did limit the use of vehicles displaying dealer license plates for sales purposes only. The pre-1939 version provided, in pertinent part, that:
+"Any placards issued by the registrar and bearing the distinctive number assigned to a manufacturer or dealer pursuant to the provisions of section 6301 of the General Code may be displayed on any motor vehicle, other than commercial cars, owned by the manufacturer or dealer or lawfully in the possession or control of the manufacturer, his agent, or employe, or the dealer, his agent or employe for purpose of sale and shall be displayed on no other motor vehicle. Such placards may be displayed on commercial cars only when such cars are in transit from a manufacturer to a dealer, or from a dealer to a purchaser, or when such cars are being demonstrated for sale or lease and shall not be displayed when such cars are being used for delivery, hauling, transporting or other commercial purpose.” (Emphasis added.)
