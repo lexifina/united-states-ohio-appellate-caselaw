@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1941-04-15"
+citations: ["67 Ohio App. 96"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stevens and Washburn, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Parks, Appellant."]
+source_url: "https://static.case.law/ohio-app/67/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368259
+cites_cases: ["113 Ohio St., 427", "126 Ohio St., 103", "136 Ohio St., 371", "149 N. E., 393", "156 N. E., 916", "172 N. E., 623", "181 N. E., 559", "184 N. E., 1", "24 Ohio App., 146", "35 Ohio App., 491", "42 Ohio App., 8"]
+---
+
+# State v. Parks
+
+## Majority (Doyle, P. J.)
+
+Doyle, P. J.
+On December 22, 1938, in the Court of Common Pleas of Summit county, the appellant was convicted, on his plea of guilty, of the felony of burglary and larceny. By order of the court, the confessed burglar was sentenced to the Ohio state penitentiary for not less than one year and not more than 15 years. In the same order the court “suspended” the execution of the “time part” of the sentence upon the following conditions: That the convict pay one-half of the costs of the prosecution; that he serve a term of six months in the county jail; that upon his release he remain on probation for a period of two years; that during the period of probation he report once a month to the county probation officer, abstain from the use of intoxicating liquor, refrain from visiting places where intoxicating liquor is sold, make restitution of one-half of the value of the property stolen, and obey generally the laws of the state and the ordinances of the municipalities.
+The defendant thereupon was incarcerated in the county jail. On the 15th day of May, 1939, upon application of the defendant, he was released from the jail before he had served six months. The court’s order in the journal entry stated that “the balance of said sentence remaining to be served” was suspended.
+On the 21st day of July, 1939, the court ordered the issuance of a capias for the arrest of the defendant for the stated reason that he had failed to comply with the “conditions of probation” imposed in the order of December 22, 1938 (journalized on December 27, 1938).
+On February 4, 1941, the defendant, who was then in the custody of the sheriff, was brought before the court. After a hearing the judge presiding determined that the conditions which were placed upon the activities of the defendant in the order of December 22, 1938, were broken, and thereupon “ordered that said sentence be put into effect, and that the * * * defendant be taken hence by the sheriff to the Summit county jail and there safely kept, and that within five days he be conveyed to the * # * Ohio state penitentiary, * * * there to serve said sentence under the rules and regulations of said institution * * *.” '
+The defendant has appealed from this order of commitment to the penitentiary on questions of law.
+It is claimed by the appellant that—
+1. The Court of Common Pleas “lostoits jurisdiction in the case” and of the defendant, when the six-month term had terminated.
+2. If the jurisdiction of the court over the defendant did not terminate as stated above, then it did terminate two years after the date of the original sentence of December 22, 1938; and this being so, that the order entered after December 22 or December 27, 1940, was void.
+There are several other claimed errors which need not be here incorporated because of the discussion which follows in this opinion.
+Regardless of the many different rules of criminal procedure pursued in the various states in the Union, Ohio has specifically determined that criminal procedure is entirely regulated by statute.
+Statutes of this state confer authority upon trial courts to suspend imposition of sentence and place a defendant on probation. (The instant case does not present a suspension of the imposition of sentence, but the suspension of the execution of sentence.) Trial courts do not have inherent power to suspend execution of a sentence in a criminal case, and may order such suspension only as authorized by statute. When a court has suspended execution of a sentence without lawful authority so to do, its order of suspension may be treated as a nullity and void, and the original sentence carried into execution, even after the term in which the order suspending the execution of sentence was made. A court does not lose jurisdiction to enforce a sentence in a criminal case by an unauthorized attempt to suspend it; and when a court has made an unlawful order of suspension of execution of a sentence in a criminal case, such court may be compelled by mandamus to set aside and vacate such order and compel execution of the original sentence. Municipal Court of Toledo v. State, ex rel. Platter, 126 Ohio St., 103, 184 N. E., 1; State, ex rel. Gordon, v. Zangerle, County Aud., 136 Ohio St., 371, 26 N. E. (2d), 190.
+It is apparent from the foregoing that the trial court had no authority to suspend the execution of the penitentiary sentence imposed on the 22nd of December, 1938, and that its act in so doing was unauthorized; and we regard it as void. The statutes only provide that a suspension of execution may be made for such a period of time as will give the accused time to prepare, file or apply for leave to file a petition for review of such conviction. Also, provision is made for conditional sentence in misdemeanors.
+Regardless of the reasons given by the trial court for issuing a capias for the arrest of the defendant after the original sentence, and regardless of the reasons given by the court for revoking the unauthorized freedom given the defendant, the act of putting into execution the original sentence, although very much belated, constituted the doing of that nondiscretionary act which the law enjoined upon the trial court after the sentence was imposed, and the defendant cannot, under such circumstances, urge as error this action of the court.
+It is further claimed by counsel that “when appellant completed an erroneous but not void sentence of six months in the Summit county jail, and especially after the end of the term, the court could not again imprison the appellant; such second imprisonment would be double punishment for the same offense.”
+“* * * According to the weight of authority, after sentence has been pronounced, the court has no power indefinitely to suspend its execution, either in whole or in part, and any such order made after judgment, or as a part thereof, is to that extent wholly void, even under a plea of guilty, and even though consented to or requested by accused' * * *.” (Italics ours.) 24 Corpus Juris Secundum, Criminal Law, Section 1618a.
+Among the cases cited as authority for the above text, which follows the majority view, are the following Ohio decisions: Municipal Court of Toledo v. State, ex rel. Platter, supra; Shondell v. Bradley, Supt., 42 Ohio App., 8, 181 N. E., 559; Ex parte Steinmetz, 35 Ohio App., 491, 172 N. E., 623; Madjorous v. State, 24 Ohio App., 146, 156 N. E., 916 (affirmed, 113 Ohio St., 427, 149 N. E., 393).
+It follows therefrom that, in contemplation of law, the suspension of execution of the sentence on the various conditions imposed by the trial court was coram non judice and was the same in law as if never rendered. The rule on the question of double punishment may be properly stated in the following terms: If a trial court has imposed an illegal and void sentence, it has the power to substitute for it at a later time a legal sentence, notwithstanding the void sentence has been partly executed. And such conduct by the court does not in law subject the felon to double punishment for the same offense.
+Judgment affirmed.
+Stevens and Washburn, JJ., concur.
