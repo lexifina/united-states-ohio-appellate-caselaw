@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1926-04-12"
+citations: ["21 Ohio App. 406"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Buchwalter, P. J., and Cushing, J., concur."]
+parties: ["The Cincinnati, Milford & Blanchester Traction Co. v. Village of Milford."]
+source_url: "https://static.case.law/ohio-app/21/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1851212
+---
+
+# Cincinnati, Milford & Blanchester Traction Co. v. Village of Milford
+
+## Majority (Hamilton, J.)
+
+Hamilton, J.
+The defendant in error, the village of Milford, brought an action in the court of common pleas, seeking a mandatory injunction against the Cincinnati, Milford & Blanchester Traction Company, plaintiff in error here, to compel it to remove a Y, or turnout, constructed in connection with its tracks in Milford, Hamilton county, Ohio, west of the Little Miami river.
+At the trial in the court below, counsel for the village of Milford moved for a judgment on the pleadings, which motion was sustained, and the court rendered a decree granting a mandatory injunction, requiring the traction company to remove the Y, or turnout, in question.
+The basis of the claim of the village, as set up in the petition, was, that on the 15th day of September, 1924, council of the village, by resolution duly adopted, granted to the traction company authority to place a second track as a temporary Y, or turnout, across Water street, from its tracks on the west side to the power building on the east side thereof, under the terms, conditions, and agreements of Ordinance No. 116; that said grant or privilege of laying the cross-track or temporary Y in front of said power plant was to cease and terminate within 90 days from September 25, 1924; that the traction company constructed across said street at said point a temporary Y; and that the temporary track remains across said street, although more than 90 days have expired since its construction. And the petition alleges that the traction company has no further use for said temporary Y or cross-tracks since the completion of the new bridge across the river, but that although requested so to do the traction company refuses to remove the same.
+The traction company, by answer, admits certain allegations of the petition, which are not important, and alleges that the track is located on a street designated as Main street, under Ordinance No. 116 of the said village of Milford. We will observe at this point that there is a dispute as to the street on which the Y is located.
+The answer admits the construction of the Y or turnout in question, and quotes the resolution, designated as resolution No. 2, granting authority to the traction company to construct the Y in question. That resolution is as follows:
+“Now therefore, be it resolved by the council that the Cincinnati, Milford & Blanchester Traction Company be granted permission to construct a temporary Y or turnout in front of their plant in Montauck, Hamilton county, Ohio, under the conditions, agreements, and terms in Ordinance No. 116 of this village to which reference is hereby made — said grant or privilege to terminate within 90 days from date.
+“Passed and adopted September 15, 1924.”
+If the only rights of the traction company were contained in this resolution, the judgment on the pleadings could be upheld. Our interpretation of that resolution and the rights thereunder is that the grant or privilege terminated in 90 days, and, after the expiration of that time the maintaining of the Y at the point would be without authority. However, the answer sets up a copy of an ordinance entitled Ordinance No. 116, which is the original grant of the right to construct railways, switches, and turnouts, granted by the village to the traction company, its successors, and assigns, passed and accepted March 3, 1903, granting the right to construct and maintain its tracks, switches, turnouts, etc., for a period of 25 years. The pertinent part of Ordinance No. 116, containing the original grant, is as follows:
+“Now, therefore, the right is hereby granted to the said Cincinnati, Milford & Eastern Traction Company, its successors, and assigns, to extend the interurban street railway or traction line of said the Cincinnati, Milford & Eastern Traction Company, into, through and beyond the village of Milford, by single or double track, at the option of said company, with the necessary side tracks, switches, and turnouts, over the following roads or streets:
+“Commencing at a point in the turnpike road of the Cincinnati, Columbus & "Wooster Turnpike Company, where said road crosses the east corporation line of said village of Milford, in Clermont County, Ohio; thence along said road westwardly to a point near the intersection of Spring street with said road; thence southwestwardly along said road or Main street to the intersection of Mill street; thence westwardly along said Mill street to its intersection with Water street; thence westwardly to the easterly end of the iron bridge over the Little Miami river in said Milford; thence on and crossing said bridge to the westerly end thereof in said Milford, Hamilton county, Ohio; thence over and along said turnpike or Main street, to the west corporation line of said village of Milford in Hamilton county, Ohio.
+“Provided, nevertheless, that no such side tracks or turnouts shall he located on said Main street, between the intersection of G-arfield avenue and the east corporation line of said village of Milford in Clermont county, Ohio, except by consent and under the direction of the council of said village.”
+The question is then presented as to whether or not the provisions of Ordinance No. 116 gives the right to construct and maintain the Y in question, regardless of resolution No. 2, heretofore referred to.
+It will be noted that the first paragraph, above quoted, provides among other things that the company may extend its traction line “by single or double track, at the option of said company, with the necessary side tracks, switches, and turnouts, over the following roads or streets.” This right was to continue for 25 years.
+Under and by virtue of the provisions of this grant in Ordinance No. 116, the traction company has the right, if necessary, to construct the Y in question, if the same was placed upon the streets provided in Ordinance No. 116. Water street is not mentioned as one of the streets in Ordinance No. 116. But the ordinance does provide that the traction line may extend to the west corporation line of said village of Milford. Whether or not it passes over Water street is a question of fact. The petition alleges that the Y is constructed on Water street. The answer says that it is located on a street designated as Main street, under Ordinance No. 116.
+If the Y was constructed on Main street, then the traction company would have the right to build the Y, if necessary, under the terms of its original grant, Ordinance No. 116. As heretofore stated, if on another street, not authorized under the original grant, it would be held to resolution No. 2, and, on the expiration of 90 days, would be required to remove the Y.
+It is apparent from a statement of this case that the court could not determine the question on the pleadings. There is a question of fact involved, as to the location of the Y, which would affect the determination of the rights of the parties.
+The judgment will be reversed, and the cause remanded for further proceedings according to law.
+Judgment reversed and cause remanded.
+Buchwalter, P. J., and Cushing, J., concur.
