@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1873"
+decided: "1945-11-26"
+citations: ["44 Ohio Law Abs. 596", "78 Ohio App. 481"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MILLER and WISEMAN, JJ., concur."]
+parties: ["BILENKIN, Plaintiff-Appellee, v. BILENKIN, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/44/cases/0596-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1730973
+cites_cases: ["138 Oh St 187", "138 Ohio St., 187"]
+---
+
+# Bilenkin v. Bilenkin
+
+## Majority (By HORNBECK, P. J.)
+
+OPINION
+By HORNBECK, P. J.
+This is an appeal on questions of law from an order of the Court of Common Pleas, Montgomery County, Division of Domestic Relations, which found that the defendant was in contempt of court for failure to observe a former order of the court requiring the payment of $50.00 a month for the support of his child, Barbara Bilenkin, which arrearage at the time of the filing of the charge was in excess of $500.00. The order further recited the overruling, of a motion of the defendant to vacate the former order of the court relative to payments to be made by the defendant to the plaintiff for the support of Barbara Bilenkin, and a motion of defendant for an order restraining the plaintiff from registering Barbara Bilenkin under the name of Barbara Salesky in school, Sunday school or any other place, etc.
+The parties in this cause were formerly husband and wife and a decree of divorce was awarded to the plaintiff for the agression. of the defendant. The custody of the- two minor children of the parties was awarded to the plaintiff and at the time of the entering of the decree of divorce the court approved and adopted an agreement wherein the defendant agreed to pay to the plaintiff for the support of each of the children, Barbara and Gilbert, Jr., the sum of $50.00 per month. Prior to the institution of the contempt proceedings, Gilbert, Jr., the son, having reached the age of ten years had elected to choose his father as his guardian and was living with his father.
+The plaintiff remarried to Bernard L. Salesky who with the plaintiff and Barbara were living at Elkins Park, Pennsylvania, a suburb of Philadelphia.
+The contempt charge asserted that the defendant was in arrears in payment of support money for Barbara in the sum of $500.00.
+The defendant did not orally or in writing enter any formal denial of the charge of contempt but at about the time of the hearing on the contempt charge filed two motions, the first of which was for vacation of the support order for two reasons, first, that “plaintiff has deliberately changed the name of Barbara Bilenkin to Barbara Salesky” and, second, because the plaintiff has deliberately violated the court order requiring her to deliver the child into the possession of the defendant. The second motion, with which was incorporated an affidavit supporting the second ground of the first motion, prayed the court for an order restraining plaintiff from registering said child, as Barbara Salesky, either in the school, Sunday school, or at any other place. The court determined the contempt charge and the motions as heretofore stated and this action is made the subject of this appeal.
+The inherent power of a court as well as statutory authority recognizes “Disobedience of an * * *, order, rule, judgment, or command of a court” as contempt. Sec. 12137 GC.
+The first motion was not a defense to the contempt charge unless the court should vacate the support order. This the court had no authority to do it not being claimed that the order was made without jurisdiction or induced by fraud or mistake. Tullís v Tullís, 138 Oh St 187. This case holds that where a contract for support for minor child entered into by the parties to a divorce proceeding “is specifically approved by the court and made a part of the decree”, it “may not, in the absence of fraud or mistake be subsequently modified by the court so as to lessen the amount of support for such minor child.” A fortiori if the court may not lessen the amount of such contract it may not determine the contract to be invalid.
+Neither of the two grounds of the motion was a defense to the contempt charge because manifestly neither affected the material question involved, namely, whether or not the defendant had violated an order of the court. Nor was a citation requested because of the claimed violation of the visitation order.
+Of course, the fact that the court could not modify nor vacate the support decree because it was an embodiment of the contract between the parties, would not have prevented the finding that the defendant was not in contempt because to support the charge the Court must have further found that the violation was wilful. But this element was not in dispute, nor is there anything to indicate that the defendant was unable to comply with the order.
+The two grounds of the first motion were not defensive because the violation by the plaintiff óf. a court order, if true, afforded no justification for the defendant’s violation of an order directed to him. The Court could, in determining the punishment of defendant by reason of his violation of the support order, have given consideration to the question whether or not the plaintiff also had violated an order, but the Court found that the plaintiff had not violated any order. Neither ground of the motion to vacate afforded any reason to support a modification or a vacation of the support order even though the Court had the power to vacate it.
+The second motion sought an order restraining the plaintiff from using the name of Barbara Salesky for Barbara Bilenkin, the child of the parties. The plaintiff, nor her husband, may not accomplish a change in the name of the child by their acts in registering her in school, Sunday School and other places as Barbara Salesky. Under the facts appearing we may not hold that the Court committed prejudicial error in refusing to grant the relief sought.
+Judge Nicholas in his written opinion which we have before us gives sufficient reasons, in our judgment, to support his refusal to compel the plaintiff to carry the child’s name as Barbara Bilenkin in school, Sunday School and other places. The trial judge points out that this practice of registering the minor daughter of the parties in the name of Salesky had been followed from the time that the plaintiff had moved with her husband to their present residence. The home of the child is hundreds of miles removed from that of her father and it does not reasonably appear that he will be materially, affected, one way or the other, by reason of the fact that his child there carries the name of Salesky. On the other hand, it may be very embarrassing and the source of some humiliation to the daughter if at this time the plaintiff should be required to no longer carry the daughter’s name as heretofore known among her associates. Had the request been made of the Court when the facts first came to the attention of the defendant, it would present a different and more difficult question. The ruling on the motion, when made, was not prejudicially erroneous.
+The order appealed from will be affirmed.
+MILLER and WISEMAN, JJ., concur.
