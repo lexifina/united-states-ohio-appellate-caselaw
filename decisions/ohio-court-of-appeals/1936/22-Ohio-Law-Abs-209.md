@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "No 2639"
 decided: "1936-04-24"
-citations: ["22 Ohio Law Abs. 209", "22 Ohio Law Abs. 211"]
+citations: ["22 Ohio Law Abs. 209"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
