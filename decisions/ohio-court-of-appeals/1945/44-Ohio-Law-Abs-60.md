@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3796"
+decided: "1945-05-17"
+citations: ["44 Ohio Law Abs. 60"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK, P. J., and GEIGER, J., concur."]
+parties: ["KING, Plaintiff, v. COLE, et, Defendants."]
+source_url: "https://static.case.law/ohio-law-abs/44/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1730830
+cites_cases: ["110 Oh St 216", "116 N. E. 459", "143 N. E. 556", "95 Oh St 276"]
+---
+
+# King v. Cole
+
+## Majority (By MILLER, J.)
+
+OPINION
+By MILLER, J.
+This is an original action in mandamus filed in this Court. The facts as alleged in the petition may be briefly stated as follows:
+Plaintiff had been a police officer of the City of Columbus, Ohio, since 1935, and as such was a member of the classified service. On October 1, 1944, the Chief of Police of the City of Columbus, Ohio, amended a rule governing the Police Department, which amendment provided that a member of the Department should be subject to suspension from duty
+“* * * for owning, operating or being in any way connected, either directly or indirectly, with any place where intoxicating liquors or beverages were sold.”
+Immediately following the effective date of the rule, to wit, October 3, 1944, the plaintiff received a letter from the Chief of Police advising him he had been suspended from duty on the charge of having violated the new rule. A hearing was. had before the Director of Public Safety and it was contended by the City that the plaintiff had automatically violated the amended rule of the Department because he was the husband of Juanita M. King who was the holder of a D-5 permit, issued by the Liquor Department of the State of Ohio, and for the reason that Juanita M. King had since 1942 owned and operated in the south end of the City of Columbus a restaurant where intoxicating beverages were sold.
+Following the hearing the Director of Public Safety suspended the plaintiff for a period of thirty days, effective October 2, 1944. Appeal was taken to the Civil Service Commission and the action of the Director of Public Safety was affirmed, but modified to a suspension of fifteen days. An appeal was taken by the plaintiff to the Court of Common Pleas of Franklin County, Ohio, and upon motion of the defendant v city, the appeal was dismissed. In the meantime there was a new amendment to the rules and regulations of the Division of Police, said amendment' becoming effective January 1, 1945, and which provided as follows:
+“For the purposes of this rule the relationship of a police officer to his wife or her husband who owns or operates a place of business where intoxicating liquors or beverages are sold, or the relationship to his or her son, daughter, sister, brother, father or mother, who occupies the same household as the police officer and who owns or operates a place of business where intoxicating liquors or beverages are sold, shall be considered such a connection with a liquor establishment as is prohibited by this rule.”
+The Director of Public Safety, without filing any formal charges, and without a hearing or any opportunity for a defense or an explanation, dispatched the following letter, dated January 3, 1945, to the plaintiff:
+“This is to advise you that I have this date suspended you from all duty as patrolman in the Division of Police for a period of thirty (30) days without pay for disciplinary reasons, as provided for in Section 486-17 of the Civil Service Code of Ohio, for violation of Amended Rule D, Paragraph 3, Chapter II of the Book of Rules, Regulations and Instructions for the Government of the Division of Police.”
+Thereupon the plaintiff was removed from the pay roll and suspended from his duties in the classified service as a police officer, for a period of thirty days.
+To this petition the defendant had filed a demurrer for the following reasons:
+(1) That said petition does not set forth sufficient facts to support a cause of action.
+(2) That the petition does' not disclose affirmatively that there is no plain and adequate remedy in the ordinary course of law.
+We are confronted with the question whether, or not the suspension of the plaintiff was in conformity with the requirements of the General Code.
+Sec. 486-17'GC, which deals with reductions, lay-offs and suspensions, provides as follows:
+“* * * No chief of police or chief of a fire department or any member of a police or fire department shall be reduced in rank, laid off, or suspended, except as provided In §§486-17a and §486-17b GC with reference to the removal of any officer, employee* *. In case the order applies to the chief of police or chief of a fire department or any member of police or fire departments of a municipality, the commission shall conduct a hearing following the filing of the order and explanation, to determine the sufficiency of the cause of the order. Nothing in this act contained shall limit the power of an appointing officer to suspend without pay, for purposes of discipline, an employee or subordinate for a reasonable period, not exceeding thirty days, excepting that in the case of the chief of police or chief of a fire department or any member of police or fire departments of a municipality, the suspension shall be made in the manner and subject to the right of appeal as herein provided.”
+The section just quoted provides that members of the police department shall not be suspended, except as provided in §486-17a GC. These two sections are therefore in pari materia and must be construed together.
+Sec. 486-17a GC, among other things, provides:
+“* * * In all cases of removal the appointing authority shall furnish such employee or subordinate with a copy of the order of removal and his reasons for the same, and give such officer, employee or subordinate a reasonable time in which to make and file an explanation. Such order with the explanation, if any, of the employee or subordinate shall be filed with the commission. Any such employee or subordinate so removed may appeal from the decision or order of such appointing authority to the state or municipal commission, as the case may be, within ten days from and after the date of such removal, * * * and the commission’s decision shall be final; provided, however, that in the ease of the removal of, a chief of police or chief of the fire department or any member of the police or fire departments of a municipality an appeal may be had from the decision of the municipal commission to the court of common pleas of the county in which said municipality is situated to determine the sufficiency of the cause of removal.”
+The petition does not state a cause of action as to the first suspension, as the requirements of the General Code were complied with fully, and as this suspension was appealed to the Common Pleas Court of Franklin County, Ohio, there was an adequate remedy at law. But coming now to the second suspension, we feel that the petition states a good cause of action. The action of the Director was arbitrary, and made without opportunity for' a hearing, and by its very terms was final. The letter itself stated that the plaintiff had been suspended for “disciplinary reasons”. No opportunity was given to the plaintiff to file an explanation. No facts were stated to show or explain how plaintiff had violated the amended ruling. This suspension, in our opinion, was in violation of §§486-17 and 488-17a GC and is therefore void. The defendant contends that the petition makes no reference to §486-17 GC, but only to §486-17a GC, and therefore no cause of action is stated. Since these two sections must be construed together, reference to one necessarily refers to the other.
+The entire purpose of the Civil Service Law is to create a merit system for the determination of the fitness and efficiency of those within the classified service and to prevent discharge therefrom without just grounds.
+In the case of City of Toledo v Osborn, 23 Oh Ap 62, the plaintiff had been removed but no reasons had been assigned for the discharge. The Court pointed out that it was the legal right of a Civil Service employee to hold office during good behavior and efficient service. The Court in holding the discharge void, said at page 65:
+“In the instant case it is apparent that the removal of the plaintiff from his position was void, as the notice of removal, containing as it did no reasons whatever therefor, was not in compliance with the provisions of the section referred to. The pretended hearing on the part of the civil service commission was also illegal for two reasons: In the first place there was no valid order from which an appeal could be taken, and in the second place no appeal was taken within the ten-day limitation provided by statute. All proceedings, therefore, taken by the appointing officer and the civil service commission toward the ousting of the plaintiff from his position were an absolute nullity. State, ex rel. Brittain v Board of Agriculture, 95 Oh St 276, 116 N. E. 459; State, ex rel. Bay v Witter, 110 Oh St 216, 221, 143 N. E. 556.”
+The Court further said at page 66, in reviewing the Ohio authorities that mandamus was the plaintiff’s proper remedy.
+The demurrer is accordingly overruled, and unless the defendant desires to plead further, the writ will be allowed.
+HORNBECK, P. J., and GEIGER, J., concur.
