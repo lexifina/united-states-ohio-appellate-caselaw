@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "46148"
+decided: "1984-05-21"
+citations: ["16 Ohio App. 3d 317"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Patton, C.J., concurs.", "NahRA, J., concurs in judgment only.", "Flanagan, J., of the Cuyahoga County Court of Common Pleas, Division of Domestic Relations, sitting by assignment in the Eighth Appellate District."]
+parties: ["The State of Ohio, Appellee, v. Schaub, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/16/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708992
+cites_cases: ["10 Ohio St. 2d 230", "15 O.O.3d 262", "39 O.O.2d 366", "46 Ohio App. 2d 241", "54 Ohio St. 2d 84", "61 Ohio St. 2d 254", "65 Ohio St. 47", "75 O.O.2d 288", "8 O.O.3d 84"]
+---
+
+# State v. Schaub
+
+## Majority (Flanagan, J.)
+
+Flanagan, J.
+On September 14, 1981, a complaint was filed in the Cuya-hoga Court of Common Pleas, Juvenile Division, case No. 8171904, charging Melvin Schaub, appellant herein, with abandoning and failing to provide adequate support for his minor children from September 14, 1979 to September 14, 1981, in violation of R.C. 2919.21. On March 26,1982, the trial court found appellant not guilty and ordered the cause dismissed.
+On July 8, 1982, a second complaint was filed against appellant in the same court, again charging a violation of R.C. 2919.21. The complaint in this second case, No. 8271662, was identical in all respects to that filed in case No. 8171904, with the exception that the latter complaint alleged that the violation took place from January 21,1982 to July 8,1982. On July 25,1982, appellant filed a motion to dismiss which was denied by the trial judge.
+On October 22, 1982, the case proceeded to trial. The evidence adduced at trial showed that on May 24, 1979, the Cuyahoga County Court of Common Pleas, Probate Division, granted guardianship of appellant’s three children to their maternal grandparents, Henry and Helen Bucknot, with the approval of appellant. Appellant’s wife, mother to the children, had died in 1975. Mr. and Mrs. Bucknot, as payees of the mother’s Social Security death benefits, received $300 per month which they deposited in savings accounts as guardians for the children. While in the care and custody of the Bucknots, the children were in good health, well fed and adequately clothed. All support for the children was derived from Mr. Bucknot's Social Security benefits and Mrs. Bucknot’s meager part-time earnings. Appellant contributed nothing toward the support of the children, aside from maintaining the children under his medical insurance, despite earning an annual salary of $31,000.
+At the close of the state’s case, appellant entered a motion for acquittal, which was denied. Appellant did not testify and the trial judge found appellant guilty as charged.
+On October 29, 1982, the court sentenced appellant to six months in the Cleveland House of Corrections, but suspended the sentence on condition that appellant pay $30 per week per child through the court as child support.
+On November 19, 1982, appellant filed a timely notice of appeal and presented the following assignments of error for review:
+Assignment of Error No. 1
+“The trial court’s judgment of October 22, 1982 was against the manifest weight of the evidence.”
+Appellant was charged with nonsupport of his legitimate minor children under R.C. 2919.21, and was found guilty “beyond a reasonable doubt, beyond any doubt.” Appellant now contends that the judgment of the court below was against the manifest weight of the evidence. More particularly, appellant argues that the state may not employ criminal prosecution under R.C. 2919.21 as a means to enforce contribution from appellant when it is shown that his minor children are fully and adequately supported by a third party standing in loco parentis. We disagree.
+In State v. Stouffer (1901), 65 Ohio St. 47, the Ohio Supreme Court held that a father is not absolved from his obligation to support his minor child simply because his divorced wife, having custody, has provided the child with sufficient support. Seventy-four years later, the Court of Appeals for Franklin County, in State v. Oppenheimer (1975), 46 Ohio App. 2d 241 [75 O.O.2d 288], a case on which appellant relies exclusively, attempted to reconcile the decision in Stouffer, supra, with the then recently enacted R.C. 2919.21. In a seemingly precedential decision, the court held that “[a] parent having custody of minor children who is able to fully support such children, and has done so, may not utilize criminal prosecution under R.C. 2919.21 as a means of enforcing the obligation of the other parent to contribute to the support of their minor children.” Oppenheimer, supra, at paragraph two of the syllabus.
+We do not view this ruling as controlling in this case. In relying on Oppenheimer, supra, appellant would have us believe that R.C. 2919.21 has been interpreted so as to include, as an element of the offense of nonsupport, the requirement that the state prove that the complaining party has no means by which to support the child. Appellant further argues that the state in the case at bar did not meet this burden of proof, We find this entire line of reasoning untenable.
+The facts in Oppenheimer, supra, are easily distinguishable from those in the instant case. In Oppenheimer, supra, the defendant-husband was under court order to pay support to his former wife for his minor children. The wife also had her own independent assets and sources of income. In the instant case, however, the record indicates that there was no divorce decree between the parties, appellant was under no order of court to pay support, and there was no evidence of independent funds available to the Bucknots.
+In ruling as it did, the court in Oppenheimer, supra, apparently felt that criminal prosecution was not the appropriate remedy for nonsupport since the complaining party had never exercised the more appropriate civil remedies that were otherwise available. Moreover, Oppenheimer, supra, was more the product of a ruling on the admissibility of evidence of the custodial parent’s means of support than a conscious effort to establish a new affirmative defense to prosecution under R.C. 2919.21. See State v. Fleming (July 6, 1978), Cuyahoga App. No. 37563, unreported.
+R.C. 2919.21 requires the state to show that the child is not being adequately supported by the defendantThe defendant in such a proceeding is presumed to have the ability to support the child unless he raises his inability as an affirmative defense. It is not an affirmative defense to prosecution under R.C. 2919.21 that the child is being adequately supported by a party other than defendant.
+In the instant case, the trial judge believed the evidence presented by the state and gave it weight sufficient to support appellant’s conviction for nonsupport. State v. DeHass (1967), 10 Ohio St. 2d 230, 231 [39 O.O.2d 366], cited with approval in State v. Hannah (1978), 54 Ohio St. 2d 84, 90-91 [8 O.O.3d 84]. It is not within our province to disturb a judgment upon which there is sufficient evidence to establish lack of support. Therefore, appellant’s first assignment of error is not well-taken.
+Assignment of Error No. II
+“The doctrine of res judicata precluded the trial court in case No. 8271662 from finding appellant guilty of the violation of Ohio Revised Code Section 2919.21 when the same court in case No. 8171904 found him not guilty of a violation seven months earlier on identical facts, issues and evidence between identical parties.”
+In this assignment of error, appellant mistakenly equates the civil doctrine of res judicata with the protection against criminal conviction afforded him by the principles of double jeopardy. In that appellant was convicted of the criminal offense of nonsupport, the defense of res judicata is not available to him. Rather, appellant’s conviction must be reviewed in terms of his rights to protection against double jeopardy.
+The Ohio General Assembly has effectuated the principles contained in the Double Jeopardy Clause by means of R.C. 2941.25. State v. Thomas (1980), 61 Ohio St. 2d 254, 259-260 [15 O.O.3d 262]. R.C. 2941.25 provides, in pertinent part:
+“(B) Where the defendant’s conduct * * * results in two or more offenses of the same or similar kind committed separately or with a separate animus as to each, * * * the defendant may be convicted of all of them.”
+In the case at bar, it was stipulated and the evidence showed that the facts in case No. 8271662 were identical to those presented in case No. 8171904, the sole exception being the time frame involved, i.e., the times at which the offenses charged were committed. Thus, under R.C. 2941.25(B), appellant could lawfully stand trial and be convicted of the offense charged in each case, in that his conduct resulted in two offenses of nonsupport committed separately. It is clear, therefore, that appellant’s rights to protection afforded him by the principles of double jeopardy were not violated by his subsequent prosecution and conviction.
+Accordingly, appellant’s second assignment of error is overruled.
+Assignment of Error No. Ill
+“The trial court’s sentence of October 29, 1982 is indefinite, violating Ohio Revised Code Section 2921.21 [sic] and also prevents appellant from seeking ex-pungement under the statutory remedy provided by Ohio Revised Code Section 2953.32.”
+Appellant was found guilty of nonsupport under R.C. 2919.21 and was sentenced by the court below to a definite term of six months’ imprisonment in the Cleveland House of Corrections. The trial court suspended imposing sentence on condition that appellant pay the sum of $30 per week per child to the Cuyahoga County Bureau of Support along with necessary medical and dental expenses for his children.
+Contrary to appellant’s assertions, the foregoing is not an indefinite sentence. Rather, it is a definite sentence with a suspension for compliance with the court’s order. Since a court is empowered to suspend the sentence of an individual convicted under R.C. 2919.21 on the condition that the individual “furnish such child or other dependent with necessary or proper home, care, food, and clothing, or * * * pay promptly each week for such purpose to the bureau of support * * it is clear that appellant’s third assignment of error lacks merit. See R.C. 3113.04.
+Based on our disposition of the assigned errors, we affirm the judgment of the trial court.
+Judgment affirmed.
+Patton, C.J., concurs.
+NahRA, J., concurs in judgment only.
+Flanagan, J., of the Cuyahoga County Court of Common Pleas, Division of Domestic Relations, sitting by assignment in the Eighth Appellate District.
+R.C. 2919.21 provides in pertinent part:
+“(A) No person shall abandon, or fail to provide adequate .support to:
+“(2) His or her legitimate or illegitimate child under eighteen, or mentally or physically handicapped child under twenty-one;”
