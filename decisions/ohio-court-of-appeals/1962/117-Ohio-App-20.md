@@ -1,0 +1,60 @@
+---
+court: "Ohio Court of Appeals"
+docket: "229"
+decided: "1962-11-15"
+citations: ["117 Ohio App. 20"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Radcliff, P. J., and Brown, J., concur."]
+parties: ["American Bankers Insurance Co. of Florida, Appellee, v. Leist, Appellant, et al."]
+source_url: "https://static.case.law/ohio-app/117/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1449133
+cites_cases: ["1 Ohio St., 544", "113 Ohio St., 613", "145 Ohio St., 467", "22 Ohio Law Abs., 472", "70 Ohio Law Abs., 509", "78 Ohio Law Abs., 290", "83 Ohio App., 148"]
+---
+
+# American Bankers Insurance v. Leist
+
+## Majority (Collier, J.)
+
+Collier, J.
+Tlie American Bankers Insurance Company of Florida, appellee herein and. hereafter referred to as plaintiff, began this action in the Common Pleas Court of Pike County, on November 3, 1955, against the defendants, George E. Leist, Jr., and Bill Green, to recover the sum of $673.50, which plaintiff claimed as the amount due it as the subrogee of Robert Dale Curry under an insurance policy issued by the plaintiff to Curry. The defendant George E. Leist, Jr., appellant herein, the only defendant with whom we are concerned in this appeal, will be referred to hereinafter as defendant.
+The plaintiff, in the original action, in its petition, alleged that under the provisions of its insurance policy it was obligated to pay such amount to Curry as the result of the negligence of the defendants, Leist and Green, and that the plaintiff had been subrogated to the rights of the insured in this matter. The sheriff’s return, filed November 12, 1955, shows that the defendant was served with summons on November 10, 1955, “by leaving for him at his usual place of residence, a true and certified copy thereof, with all endorsements thereon.” The defendant failed to file an answer or other pleading, and on August 21, 1956, notice for default judgment was issued by registered mail. On September 5, 1956, the plaintiff obtained a default judgment against the defendant in the full amount prayed for in the petition.
+On October 13, 1958, the defendant filed his petition to vacate or suspend the judgment for the following reasons: (1) That the petition does not state a cause of action against the defendant; (2) that the petition states a cause of action in tort and the defendant was not notified that a motion for default judgment had been filed; (3) no evidence was offered to the court in proof of the cause of action or the amount of damages; (4) for irregularity in obtaining such judgment; and (5) the defendant was not summoned or otherwise legally notified of the time and place of taking such judgment, which was for more than was due the plaintiff. Defendant tendered an answer with his petition to vacate the judgment.
+On May 24, 1962, the cause came on for hearing on defendant’s petition to vacate the judgment. At this hearing the defendant was not permitted to introduce evidence in support of grounds (1), (2), and (3) of his petition, and was required to limit Ms proof to grounds (4) and (5), as stated in Ms petition. On May 28,1962, by journal entry, defendant’s petition was dismissed, and from this judgment the defendant has appealed on questions of law to this court.
+Tbe assignments of error are: 1. Error in precluding the defendant from proving the first three grounds of his petition to vacate the default judgment. 2. The court erred in finding there was good service of summons on the original petition filed by the plaintiff for damages. 3. The court erred in its final order dismissing defendant’s petition to vacate the default judgment.
+Did the court err in precluding the defendant from offering evidence to support the first three grounds of his petition to vacate the judgment? The record shows that defendant was permitted to offer proof of the fourth and fifth grounds alleged in his petition.
+The first ground is that the facts stated in plaintiff’s petition do not state a cause of action against the defendant. 31 Ohio Jurisprudence (2d), 644, Judgments, Section 188, reads: “A judgment by default cannot properly be based upon a petition which does not state a cause of action. A judgment by default, it has been adjudged, cures no defect in the petition which would have been fatal thereto on general demurrer.”
+The only allegation in plaintiff’s petition upon which plaintiff predicates its claim for damages against the defendant is:
+“That at said time and place the vehicle owned by one George E. Leist, Jr., and under lease to Bill Green, was proceeding in a northerly direction and without warning or signal struck the right side of the vehicle driven by the said Robert Dale Curry.”
+This language is followed by the averment of three specific acts or omissions of negligence by the driver of the motor vehicle. The law in Ohio has long been established that the liability of an owner of a motor vehicle for damages resulting from operation of such vehicle by another person may not be based upon the fact of ownership alone but that liability in such instances rests upon the rule of respondeat superior. See 6 Ohio Jurisprudence (2d), 494, Section 257; Williamson v. Eclipse Motor Lines, Inc., 145 Ohio St., 467; Braun v. Averdick, 113 Ohio St., 613.
+The simple allegation in plaintiff’s petition that the motor vehicle that collided with the automobile owned and operated by plaintiff’s insured was owned by the defendant and that the defendant had leased his motor vehicle to the defendant Green prior to the time of the collision did not state a cause of action in favor of the plaintiff against the defendant. The petition was clearly subject to demurrer, and since a default judgment cannot properly be based upon a petition which does not state a cause of action, the trial court was in error in precluding the defendant from offering evidence to establish this ground for the vacation of the judgment.
+The second ground set forth in defendant’s petition for vacating the judgment is that the action was in tort and that the defendant was not notified of the time and place of the hearing when the judgment was obtained. The record shows that on August 21, 1956, an attempt was made to notify the defendant of the hearing by registered mail. Whether or not a defendant in a tort action who is in default for an answer is entitled to such notice is questionable. In the case of Sturges v. Longworth, 1 Ohio St., 544, it was declared that the defendant had no rights in reference to the hearing of such evidence. See 31 Ohio Jurisprudence (2d), 644, Section 189. If such notice is necessary, a defendant by evading service of notice could postpone indefinitely the taking of a default judgment against him.
+In our opinion, the defendant was not entitled to such notice and the court correctly rejected evidence to support this allegation of defendant’s petition.
+The third ground for vacating the judgment, as alleged in defendant’s petition, is that no evidence was offered in proof of the cause of action or the amount of damages. Is such proof necessary before a default judgment may be entered in a tort action? Section 2309.27, Revised Code, so far as pertinent, reads:
+“Excepting averments as to value or the amount of damage, for the purposes of an action, every material allegation of a petition not controverted by the answer * * * shall be taken as true.” (Emphasis supplied.)
+Under the express provisions of this statute the defendant, by his failure to answer plaintiff’s petition, did not admit the amount of damages, as claimed by the plaintiff. The burden remained upon the plaintiff to prove that he had sustained damages and the amount thereof. Some cases hold that it is within the discretion of the trial judge to require proof before entering a judgment by default, and we concur in this conclusion where the claim is based upon a written instrument, a contract where a specific amount is due, or an account. But in an action in tort for damages, the amount of which, under the provisions of Section 2309.27, Revised Code, is not admitted by failure to file an answer, our conclusion is that before a judgment may be entered, proof of damages claimed by the plaintiff must be presented to the court. See 31 Ohio Jurisprudence (2d), 645, Section 190; Musser v. New York Central System, 78 Ohio Law Abs., 290; Streeton v. Roehm, 83 Ohio App., 148. Evidence tending to disclose whether or not the default judgment was entered without proof of a cause of action or the amount of damages was relevant to the issue and admissible in the hearing to vacate the default judgment, and the trial court committed error in rejecting such evidence.
+For his second assignment of error, the defendant claims that the defendant was never properly served with summons in the original action. The record shows that the defendant was served with summons by the sheriff of Pike County on November 10, 1955, by leaving the summons at his usual place of residence. The testimony of the defendant is that he and his wife separated in June or July 1953, and that by a court order in divorce proceedings, he left his home, changed his residence and never returned. The defendant testified as follows:
+“Q. When you left the home in which you and Minnie lived as husband and wife, did you ever intend to return?
+‘ ‘ Mr. Bevins: Objection.
+“The Court: Overruled.
+“A. No.
+“Q. Did you ever return? A. Not to stay.
+“Q. Did you ever stay, stay over night in Minnie’s house? A. No.
+“Q. George, where was your usual place of residence on November 3, 1955?
+“Mr. Bevins: Objection.
+“A, That home, I told you, on Beaver, Route 2, is where I maintained my home, trucks, any town I worked in that’s where I stayed.
+“Q. Did he ever leave any summons for you at that place? A. There was no summons left there that I saw.”
+The testimony of Jesse Foster, the sheriff of Pike County, is:
+“Q. At least you left the summons at what you at least thought was his residence? A. That’s right.
+“Q. Where was this house? A. That would be pretty hard to tell, he lived in a trailer, has lived in a trailer for a good while.
+“Q. Well the home that you left this summons is where Minnie Leist and her family has lived, lived there for years, is that correct? A. That could be. I don’t know how long George Leist had been gone from there # # *.
+“ Q. Is it the house that Minnie was awarded in the divorce case, is that the house you are talking about? A. That’s the house where George used to live, whether he lived there in 1955 I don’t know.”
+Here we have the undisputed testimony of the defendant that he had not resided in the house where the sheriff left the summons for more than two years prior thereto, and the testimony of the sheriff that he did not know whether the defendant resided in that house in 1955. Under the most liberal construction of the testimony, we must conclude that the defendant was not properly served with summons in the original action for damages.
+31 Ohio Jurisprudence (2d), 643, Section 187, reads:
+“* * * Personal service or service at the residence of an individual defendant is a requisite to a default judgment, and courts, before rendering judgment by default, should inquire whether the process has been duly served upon the defendant.”
+See Wells v. Brown, 22 Ohio Law Abs., 472; Van Hee v. Jackson, 70 Ohio Law Abs., 509.
+Our conclusions are that the trial court erred in dismissing the defendant’s petition to vacate the default judgment for the reasons that the plaintiff’s petition in the original action does not state a cause of action against the defendant and that the defendant was not properly served with summons therein; that the court was without jurisdiction to render the default judgment and, therefore, the judgment is void. The judgment will be reversed and final judgment rendered for the defendant.
+Judgment reversed.
+Radcliff, P. J., and Brown, J., concur.
