@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1936-10-19"
+citations: ["56 Ohio App. 95"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matthews, J., concurs."]
+parties: ["Board of Education of Lebanon Village School Dist., Appellant, v. Hollingsworth et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/56/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 621709
+cites_cases: ["120 Ohio St., 309", "120 Ohio St., 335", "166 N. E., 218", "166 N. E., 230", "191 N. E., 907", "194 N. E., 606", "47 Ohio App., 383", "48 Ohio App., 528", "5 Ohio, 387"]
+---
+
+# Board of Education v. Hollingsworth
+
+## Majority (Ross, P. J.)
+
+Ross, P. J.
+This is' an appeal on questions of law from the Court of Common Pleas of Warren county.
+The appellant, the Board of Education of the Lebanon Village School District, filed an action to quiet title to a small lot of ground which had for many years been used by appellant for school purposes. Some four years previous to the filing of this action such use had been discontinued, and the appellant, by appropriate resolution, found that the lot was no longer needed for such purposes, and thereupon the lot was ordered sold.
+At the sale the appellee, Douglas Hollingsworth, bid for the premises, and the same were sold to him. He paid $25 upon the purchase price, but later took the position that the appellant did not have any title to the premises in question which it could convey, and, therefore, that appellee was not bound by his bid, but was, on the contrary, entitled to the refund of his deposit. He filed an answer to this effect, and alleged therein that he had acquired title from the heirs of one of the original grantors of the land, and prayed that title to the premises might be decreed to be in him.
+All necessary parties appear to have been brought into the action. No answers were filed by these, nor was any claim adverse to Hollingsworth set up other than the claim of appellant.
+In any event, the appellant is restricted to a position predicated upon such title as appellant may have acquired by the deed in evidence.
+It is the contention of appellant that this deed gave the predecessor of appellant an unrestricted fee.
+It is the contention of Hollingsworth that the deed was restricted, conveying the lot to the predecessor of appellant only for school purposes, and that it, and its' successor in title, the appellant, had only the right to occupy the same as long as such lot was used for school purposes, and no longer.
+The case therefore resolves itself down to a question involving the effect of the deed, for if the deed was so restricted the appellant can have no title to the land, which would revert to the original grantors or their heirs. As none of these grantors or their heirs set up any claim against Hollingsworth, and the appellant does not pretend to claim from them, otherwise than through the deed in question, a conclusion upon the effect of the deed will dispose of all matters in controversy, at least of all of which the appellant may complain.
+The deed contained the following recitals: “Do hereby grant, bargain, sell and convey to the said Board of Education and to its successors and assigns forever the following described lands'.” Then follows a description of the property in single space, concluding with the sentence: “said lands to be occupied for the purposes of a school house and for no other uses or" purposes whatsoever.”
+In the habendum clause the recital is: “To have and to hold the same to the only proper nse of the said Board of Education of Turtle Creek Township and to its successors and assigns so long as the same shall be occupied as a site for a school house and no longer.”
+Bid this deed convey an absolute fee or merely a tenure limited to the continued use for school purposes?
+The question is considered in the cases of In Re Matter of Copps Chapel M. E. Church, 120 Ohio St., 309, 166 N. E., 218; Schwing v. McClure et al., Trustees, 120 Ohio St., 335, 166 N. E., 230; Licking County Agricultural Society v. County Commissioners, 48 Ohio App., 528, 194 N. E., 606; Schurch v. Harraman, 47 Ohio App., 383, 191 N. E., 907. See also: 13 Ohio Jurisprudence, 961, 967; 16 Ohio Jurisprudence, 394, 396.
+In the Church case the court distinguishes Lessee of Sperry v. Pond, 5 Ohio, 387, in which the language used was much the same as that employed in the instant case, in that the following expression appears in the deed: “ so long as they should continue to use and improve the same for the express purpose of grinding, and no longer.” In the Pond case the language used was held sufficient to express the intention of reverter and forfeiture.
+In the Church case similar words, omitting the words “no longer,” were held not to express such intent. The question, as in wills, is what was the intention of the one who executed the instrument, as such intention is gained from the words used? While we agree with Judge Marshall in his dissenting opinion, that the words, “no longer,” add nothing to the strength of the words used to express a reverter, we feel justified in adopting the same line of demarcation used by the Supreme Court in distinguishing the Pond case from the Church case, and in concluding that the language used in the instant case clearly expressed an intention on the. part of the original grantor to provide for a reverter and forfeiture.
+We are strengthened in our view of the law by the conclusion of the American Law Institute in sits Restatement of the Law of Property. We quote from Tentative Draft No. 2, pages 21, 22:
+‘ ‘ Section 54. Language sufficient to create an estate in determinable fee simple.
+“An estate in determinable fee simple is created by any limitation which, in an otherwise effective conveyance of land:
+“(a) Is effective to create an estate in fee simple, and
+“(b) Effectively provides that upon the happening of a stated event the estate shall automatically terminate in favor either of the conveyor or of his successor in interest.”
+“Illustrations:
+“1. A, owning Blackacre in fee simple absolute, transfers Blackacre ‘to B and his heirs until they cease to occupy the premises in person.’, B has an estate in determinable fee simple.
+“2. A, owning Blackacre in fee simple absolute, transfers Blackacre by deed ‘to B forever, so long as the cheese factory on the land continues to be operated. ’
+“I. In a state where words of inheritance are not necessary in order to create an estate in fee simple, B has an estate in determinable fee simple.
+“II. In a state where the common law requirement still exists, that words of inheritance are necessary to the creation of an estate in fee simple, B has a determinable estate for life.
+“3. A, owning Blackacre in fee simple absolute, transfers Blackacre to the B Town which is duly incorporated ‘so long as the land is used for courthouse purposes. ’ The B Town has an estate in determinable fee simple.”
+It is our conclusion that the-judgment of the Court of Common Pleas should he, and it is, affirmed.
+Judgment affirmed.
+Matthews, J., concurs.
