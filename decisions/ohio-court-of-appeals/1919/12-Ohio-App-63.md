@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1919-11-03"
+citations: ["12 Ohio App. 63", "31 Ohio C.A. 129"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shohl, P. J., and Hamilton, J., concur."]
+parties: ["Reynolds v. Reynolds."]
+source_url: "https://static.case.law/ohio-app/12/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 56744
+cites_cases: ["100 Ill. App., 254", "11 Ohio App., 37", "12 C. C., 40", "130 U. S., 132", "130 U. S., 142", "136 N. W., 114", "155 Ia., 463", "156 N. W., 834", "174 Ia., 740", "21 Minn., 51", "52 O. S., 487", "52 Ohio St., 487", "95 O. S., 149", "95 Ohio St., 144"]
+---
+
+# Reynolds v. Reynolds
+
+## Majority (Cushing, J.)
+
+Cushing, J.
+This cause is heard on error.
+The fact's are: October 21, 1916, Catherine Reynolds filed an action for divorce against George J. Reynolds. October 30, 1916, Reynolds filed an answer and cross-petition, had summons served, and asked for divorce from Catherine Reynolds. April 23, 1917, a divorce was granted George J. Reynolds. The custody of the minor children was given to Mrs. Reynolds. He was ordered to pay $10 a week for their support. November 20, 1918, a motion was made to modify that order. December 2, 1918, the following entry was made:
+“This cause coming on this 30th day of November, 1918, to be heard on the motion filed herein by defendant on the 20th day of November, 1918, to modify and discontinue the payment of money for the maintenance of the minor children of the parties hereto, for the reason that said children are now self-supporting and are not dependent upon defendant for their maintenance, and the evidence, and plaintiff’s attorney of record having been notified a reasonable time before the hearing, to-wit: on the 20th day of November, 1918, and in appearing in open court and in disclaiming authority, the court, on consideration thereof, does hereby grant said motion, and hereby orders, adjudges and decrees that payment of money for the maintenance of the minor children of the parties hereto be discontinued immediately, for the reason that said children are self-supporting and are not dependent upon defendant for their maintenance.”
+December 31, 1918, the following order was made:
+“This cause coming on to be heard on the motion filed' herein by defendant on the 21st day of November, 1917, for an order to modify the original decree entered herein on the 23rd day of April, 1917, in so far as the maintenance of the minor children of defendant were concerned, and to reduce said amount from Ten ($10.00) Dollars per week to Three ($3.00) Dollars per week, and the evidence, the parties herein having been duly and legally served with notice of the filing of said motion and the date of the hearing thereof, and appearing in open court with counsel, the Court, on consideration thereof, hereby modifies its original order of Ten ($10.00) Dollars per week, and hereby orders defendant to pay into this Court for the maintenance of his said minor children the sum of Seven and 50/100 ($7.50) Dollars per week until further order of the Court, and hereby makes this entry nunc pro tunc as of January 25, 1918, the date of the hearing of said motion and of the judgment and order of the Court. To all of which plaintiff excepts.”
+Two questions are presented by the record. The first relates to the kind of notice given and service made on Catherine Reynolds as to the hearing of December 2, 1918. The entry recites that “plaintiff’s attorney of record having been notified a reasonable time before the hearing, to-wit: on the 20th day of November, 1918,” etc. The record does not disclose the form of notice or by whom served. The transcript of the docket and journal entries recites that the attorney disclaimed authority to represent Catherine Reynolds. Section 11372 provides that such notice must be in writing, contain the names of the parties, the place where and the day on which it will be heard, and the nature and terms of the order applied for. The notice required by the statute was not served.
+The record shows and it is admitted in argument that there .was no service on the plaintiff other than the notice given to William F. Fox, who had been her attorney in the original action, in which the judgment of April 23, 1917, was rendered. There is no presumption that the lawyer who had represented her up to the time of the judgment was authorized to receive summons for her at the time of the motion to modify the original decree, and the subsequent notice. The authority of an attorney ordinarily ends with the rendition of a final judgment or decree. See 2 Mechem on Agency (2 ed.), Section 2315; Weeks on Attorneys (2 ed.), Section 248; 3 Am. & Eng. Ency. of Law (2 ed.), 329, and 4 Cyc., 952.
+In the case at bar, after the judgment was rendered, the defendant was to pay the money into court and plaintiff’s attorney had no further duties to perform. Even apart from his disclaimer of authority to represent plaintiff, defendant was chargeable with knowledge that he was without authority to receive summons for her. Kalmanowitz v. Kalmanowitz, 108 N. Y. App., 296, and Conklin v. Conklin, 113 N. Y. App., 743.
+As the notice to the opposite party to vacate a judgment at a subsequent term is jurisdictional, an order without notice to the other party is void. The attorney for plaintiff could not bind her by an unauthorized appearance at a term subsequent to the rendition of final judgment. Owen v. Smith, 155 Ia., 463; Scott v. Scott, 174 Ia., 740, and Berthold v. Fox, 21 Minn., 51. See also Nye v. Stillwell, 12 C. C., 40, 44.
+The power of an attorney to represent a party is fully executed by the accomplishment of its purpose when a judgment is obtained. The authority given by the appointment ends when nothing remains to be done in pursuance of it. The notice served upon Mr. Fox did not constitute notice to plaintiff. The order based thereon was void.
+On January 25, 1918, the court heard a motion to modify its former order allowing $10 per week for the support of the minor children. On that day the court mailed counsel a memorandum that the amount would be $7.50 per week. The clerk was not directed under Section 1641, General Code, to enter the order on the journal, nor was the. court’s memorandum filed with the clerk. There was no record made, directed or instructed to be made at that time, nor during that term of court. December 31, 1918, after three terms of court had expired, an order nunc pro tunc was made as of January 25, 1918. The second question presented is: May a court enter an order nunc pro tunc to take the place of one it might have intended to make, but which was not made nor ordered?
+March 10, 1919, in the case of Shober v. The State, 11 Ohio App., 37, 39, this court quoted with approval Bullitt County v. Washer, 130 U. S., 142, 149, as follows:
+“The well-settled maxim that a court of record can act only through its orders made of record, when applied to judicial proceedings, means that where the court must act itself, and act directly, that action must always be evidenced by the record.”
+The rule as to orders nunc pro tunc is well stated in Gardner v. The People, 100 Ill. App., 254, 257:
+“Courts can, by nunc pro tunc orders, supply omissions in the record of what was actually done in the cause at a former time, and by mistake or neglect of the clerk was not entered in the clerk’s minutes or the court’s records; but when the court has failed to make an order which it could have made and in fact intended to make, it can not subsequently make the same nunc pro tunc so as to make it binding upon the parties to the suit from the date when it was intended to have been so entered.”
+See also Cleveland Leader Printing Co. v. Green, 52 Ohio St., 487.
+The written memorandum of the court was no part of the record in the case. State, ex rel., v. Hoffmann, 95 Ohio St., 144.
+For the errors stated the cause will be reversed.
+Judgment reversed.
+Shohl, P. J., and Hamilton, J., concur.
