@@ -1,0 +1,57 @@
+---
+court: "Ohio Court of Appeals"
+docket: "95-L-199 and 95-L-200"
+decided: "1996-10-15"
+citations: ["114 Ohio App. 3d 543"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ford, P.J., and Christley, J., concur.", "Joseph Donofrio, J., retired, of the Seventh Appellate District, sitting by assignment."]
+parties: ["McDONALD et al., Appellants, v. DALHEIM et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/114/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 281678
+cites_cases: ["122 N.E. 35", "128 N.E.2d 429", "164 Ohio St. 61", "35 Ohio St.3d 45", "375 N.E.2d 46", "517 N.E.2d 904", "54 Ohio St.2d 64", "57 O.O. 89", "8 O.O.3d 73", "99 Ohio St. 35"]
+---
+
+# McDonald v. Dalheim
+
+## Majority (Joseph Donofrio, Judge.)
+
+Joseph Donofrio, Judge.
+In this accelerated calendar appeal, plaintiffs-appellants, Eleanor S. McDonald and Albert C. Nozik, appeal from a judgment of the Lake County Court of Common Pleas granting summary judgment in favor of defendants-appellees, Theodore J. Dalheim et al. For the reasons that follow, we affirm the judgment of the trial court.
+The facts pertinent to this appeal are as follows. On May 12, 1995, appellants, individually, filed complaints alleging that they were entitled to certain assets of a dissolved corporation, Mentor Lagoons, Inc. (“Mentor Lagoons”), pursuant to a “joint special meeting” of the shareholders, directors, and officers held on March 13,1975.
+At the meeting of March 13, 1975, Albert C. Nozik (“Nozik”) president and director of Mentor Lagoons, and owner of two hundred forty shares of Mentor Lagoons stock, met with Eleanor S. McDonald (“McDonald”), secretary and director of Mentor Lagoons. At that time, McDonald had a “life interest” in twenty shares of stock of Mentor Lagoons. The meeting was held pursuant to notice to the other two directors, who were not present at the meeting, Sara B. Nozik, treasurer of Mentor Lagoons and owner of two hundred forty shares of stock, and Errol S. Nozik, vice president and residual beneficiary of the twenty shares of stock held by McDonald.
+At the meeting, Nozik and McDonald, in anticipation of Nozik’s resignation from the corporation, attempted to adopt a resolution to provide appellants the following upon Nozik’s departure:
+“1. Employment of Albert C. Nozik as attorney for the corporation at the rate of $75.00 per hour and as consultant to the corporation at $100.00 per hour.
+“2. That in further consideration of the services rendered by Albert C. Nozik, that he be and is hereby granted a life interest in the use of the apartment now occupied by him at Mentor Lagoons Marina and that the corporation pay all the expenses of upkeep, maintenance, repair and improvement.
+“3. That a boat selected by Albert C. Nozik of no less than the market value of $75,000.00 be given to and conveyed to Albert C. Nozik by certificate of title, free and clear of all encumbrances; and that the corporation provide a dock for said boat for as long as Albert C. Nozik so desires, and that all expenses of maintenance, repair, and operation, including parts and gasoline, be paid by the corporation.
+“4. That the corporation purchase an automobile at no less than the value of $12,000.00 to be selected by Albert C. Nozik and that title be transferred to him; that the corporation pay all expenses of said automobile, any replacement thereof during his lifetime, including the garaging, repairs, maintenance, and all expenses of operation including gasoline.
+“5. That the corporation purchase and provide such policies of insurance as will secure said Albert C. Nozik as to any personal liability with regard to any of his activities, past, present, or future, either individually, professionally, or on behalf of the corporations.
+“6. That a pension fund be established for the benefit of Albert C. Nozik from which he is to receive a minimum of $2,000.00 each month, exclusive of taxes, for the duration of his lifetime; and that said corporation is to provide and pay for any medical, nursing or other expenses necessary or required for the maintenance of his health.
+“7. That the corporation pay for in advance or set aside a fund which will pay for a vacation of six months for said Albert C. Nozik to any place of his choice at any time convenient to him.
+“8. That the corporation further pay to Eleanor Schwed McDonald in the event the property of the corporation or any part thereof is sold or refinanced, the sum of $100,000.00, tax free, in cash or installments, at her option, as part of the consideration of the service rendered by her to the corporation.”
+On June 13, 1995, appellees filed an answer and counterclaim in response to appellants’ complaints. Appellees alleged, inter alia, that, because of an absence of a quorum of directors, the resolution adopted at the meeting of March 13,1975 was invalid. Subsequently, both parties filed motions for summary judgment.
+The trial court, in a judgment entry filed November 29, 1995, consolidated appellants’ cases and granted appellees’ motion for summary judgment against both Nozik and McDonald. In granting appellees’ motion for summary judgment, the trial court ruled that, at the meeting held on March 13, 1975, there was no valid corporate authority to award appellants the compensation sought by them in their complaints. From this judgment, appellants, in a consolidated appeal before this court, argue that the trial court erred in granting appellees’ motion for summary judgment.
+Civ.R. 56(C), providing the standard governing motions for summary judgment, states:
+“Summary judgment shall be rendered forthwith if the pleading, depositions, answers to interrogatories, written admissions, affidavits, transcripts of evidence in the pending case, and written stipulations of fact, if any, timely filed in the action, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. No evidence or stipulation may be considered except as stated in this rule. A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom, that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor. * * * ”
+In construing Civ.R. 56(C), the Supreme Court of Ohio has stated that the moving party bears the burden of establishing that (1) there is no genuine issue as to any material fact, (2) the moving party is entitled to judgment as a matter of law, and (3) reasonable minds, construing the evidence in favor of the nonmoving party can come to but one conclusion, and that conclusion is adverse to the party opposing the motion. Harless v. Willis Day Warehousing Co. (1978), 54 Ohio St.2d 64, 66, 8 O.O.3d 73, 74, 375 N.E.2d 46, 47; Morris v. Ohio Cas. Ins. Co. (1988), 35 Ohio St.3d 45, 46-47, 517 N.E.2d 904, 906-907.
+Applying this standard to the case sub judice, it is undisputed that only two of the four directors of Mentor Lagoons were present at the meeting held on March 13, 1975. The issue raised in appellees’ motion for summary judgment was whether the resolution approved at this meeting was binding upon the corporation.
+R.C. 1701.59(A) states:
+“Except where the law, the articles, or the regulations require action to be authorized or taken by shareholders, all of the authority of a corporation shall be exercised by or under the direction of its directors. * * * ” (Emphasis added.)
+Appellees argued, and the trial court ultimately determined, that the absence of a quorum of directors meant that the corporate entity could not pass the resolution from which appellants claimed their compensation. We agree.
+Black’s Law Dictionary defines a “quorum” as follows:
+“Such a number of the members of a body as is competent to transact business in the absence of the other members. The idea of a quorum is that, when that required number of persons goes into a session as a body, such as directors of a corporation, the votes of a majority thereof are sufficient for binding action.” Id. (6 Ed.1990) 1255.
+In the case sub judice, the number of directors needed to conduct business was set forth in Article IX of the Code of Regulations of Mentor Lagoons. The regulation states:
+“QUORUM
+“A majority of the Directors in office at the time shall constitute a quorum at all meetings thereof.” (Emphasis added.)
+As only two of the four directors were present at the meeting of March 13, 1975, a sufficient number of directors were not present to transact business. Consequently, the resolution passed by Nozik and McDonald at this meeting was legally invalid.
+Appellants argue that this court should ignore the absence of a quorum of directors because the shareholders of a majority of Mentor Lagoon’s stock were present at the “joint” meeting of March 13, 1975. However, as the trial court correctly noted, it is the general rule that shareholders are not permitted to act on behalf of the corporation. 12 Ohio Jurisprudence 3d (1995), Business Relationships, Section 578, summarizes the general rule as follows:
+“All the capacity of a corporation is vested in its board of directors, and all its authority is supposed to be exercised by them. It is the function of the board of directors to manage and conduct the business of the corporation. The shareholders, as such (i.e., who are not also directors, officers, or agents of the corporation) have no authority to act for the corporation. They are limited to acting in an advisory capacity only, or to approving or disapproving such measures as are submitted to them by the board. * * * Authority to act for the corporation will not be implied from the mere fact that the particular shareholder who presumes to act for the corporation owns a majority of the shares.” (Citations omitted.)
+Further, “stockholders of a corporation cannot by any agreement among themselves prejudice the rights of the corporation, creditors, or other stockholders, or divest the board of directors of authority to manage and control corporate affairs * * Hocking Valley Railway Co. v. Toledo Terminal Railroad Co. (1918), 99 Ohio St. 35, 122 N.E. 35, paragraph three of the syllabus.
+While shareholders do have the authority to ratify the actions of corporate directors, including the frauds of the directors in certain situations, only a disinterested majority of shareholders can accomplish this task. Claman v. Robertson (1955), 164 Ohio St. 61, 57 O.O. 89, 128 N.E.2d 429, paragraph one of the syllabus. Appellants attempted to award themselves a substantial amount of compensation under the guise of shareholder action. The trial court properly determined that the resolution in question was not a valid action of the shareholders.
+As the resolution passed by appellants was insufficient to bind the corporation, there is no basis from which appellants could claim the compensation they sought in their complaints. Accordingly, appellants’ sole assignment of error is without merit.
+Based on the foregoing, we affirm the decision of the trial court.
+Judgment affirmed.
+Ford, P.J., and Christley, J., concur.
+Joseph Donofrio, J., retired, of the Seventh Appellate District, sitting by assignment.
