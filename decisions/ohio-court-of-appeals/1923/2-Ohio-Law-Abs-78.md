@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "4613"
 decided: "1923-10-22"
-citations: ["2 Ohio Law Abs. 78", "1 Ohio Law Abs. 815"]
+citations: ["2 Ohio Law Abs. 78"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
