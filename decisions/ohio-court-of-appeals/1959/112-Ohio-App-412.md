@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "560"
+decided: "1959-11-28"
+citations: ["112 Ohio App. 412"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wiseman, P. J., and Crawford, J., concur."]
+parties: ["Williams, Appellee, v. Williams, Appellant."]
+source_url: "https://static.case.law/ohio-app/112/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1442552
+cites_cases: ["104 Ohio App., 157", "130 Ohio St., 214", "161 Ohio St., 247", "167 Ohio St., 479", "23 Ohio Law Abs., 385", "57 Ohio App., 294", "64 Ohio St., 369", "66 Ohio App., 183", "68 Ohio St., 554"]
+---
+
+# Williams v. Williams
+
+## Majority (Kerns, J.)
+
+Kerns, J.
+This is an appeal on questions of law from the Common Pleas Court of Miami County, Ohio.
+On October 23, 1956, Gladys Williams, the plaintiff, appellee herein, procured a judgment of divorce from Dwight Williams, the defendant, appellant herein.
+In its decree, the trial court included the following paragraph :
+“It is therefore ordered, adjudged and decreed by the court that the said marriage relation now existing between said parties be and the same is now here dissolved, and that the said parties are hereby released therefrom, and it appearing to the court that said parties have entered into a separation agreement, a copy of which is hereto attached and made a part of this decree, and the court having examined the same finds the same to be fair and equitable and does hereby approve said agreement as and for the property settlement of said parties, and it is hereby ordered by the court that all continuing provisions of said agreement be and the same are hereby subject to the further orders of this court.”
+After the divorce was granted, Gladys Williams and Mary B. Williams, the mother of Dwight Williams, continued to reside together, and provision for their support was included in the separation agreement as follows:
+“1. That he will pay to Gladys M. Williams the sum of $140 twice each month, on or about the 15th and 1st, for the support and maintenance of said Gladys M. Williams and Mary B. Williams, which payments are to continue in that amount, so long as said Mary B. Williams shall live with and make her home with said Gladys M. Williams, and so long as said Gladys M. Williams shall not remarry.
+“2. If said Gladys M. Williams shall remarry before the death of said Mary B. Williams then the said payments shall be reduced to $70 twice a month during the life time of said Mary B. Williams, or the payments shall be in such amounts as are necessary to properly support and care for the said Mary B. Williams during her lifetime.
+“3. If the said Gladys M. Williams shall have not remarried at the death of said Mary B. Williams, that amount to be paid the said Gladys M. Williams, shall be subject to adjustment between the parties, and if an agreement cannot be reached the matter shall be settled and adjusted by the court, and said amount shall be based on the income of said D. L. Williams at the time of adjustment.”
+The plaintiff did not remarry, but on June 2, 1957, the defendant’s mother died, and soon thereafter no further payments were made to the plaintiff.
+On December 23, 1957, the plaintiff filed a motion “to open property settlement and alimony payments and agreements” in accordance with item three of the separation agreement. After a hearing on the motion, the trial court, on July 28, 1958, rendered a decision awarding the plaintiff $70 per month for life, with said amount subject to the further order of the court.
+On December 6, 1958, the defendant filed a motion to stay any further proceedings pending the outcome of an action for a declaratory judgment which sought a declaration of rights under the separation agreement. This motion was overruled in the judgment entry filed December 30, 1958.
+.The first assignment of error questions the jurisdiction of the court in this proceeding and is apparently based on the contention that the separation agreement is not part of the decree. However, reference to the original decree discounts this contention. The separation agreement is specifically incorporated therein by reference and attached thereto. See Miller v. Miller, 23 Ohio Law Abs., 385; Sherwood v. Sherwood, 66 Ohio App., 183. The question raised is treated in the case of Holloway v. Holloway, 130 Ohio St., 214, as follows:
+“A decree which incorporates an agreement is a decree of court nevertheless, and as soon as incorporated into the decree the separation agreement is superseded by the decree, and the obligations imposed are not those imposed by contract, but are those imposed by decree, and enforcible as such.”
+See, also, Robrock v. Robrock, 167 Ohio St., 479; Hassaurek v. Markbreit, Admr., 68 Ohio St., 554; Saslow v. Saslow, 104 Ohio App., 157; 18 Ohio Jurisprudence (2d), 32, Section 103.
+For his second assignment of error, the defendant contends that the trial court was without continuing jurisdiction and that its judgment amounted to an original order for alimony. This contention is depreciated by reference to both the separation agreement and the decree. The agreement provides that “it is further mutually agreed that any of the continuing provisions of this agreement may be opened by the court at any time” and the decree specifically states “that all continuing provisions of said agreement be and the same are hereby subject to the further orders of this court.”
+These special reservations become even more significant when read in view of item three of the separation agreement,, because said item,, as absorbed by the court’s decree, is executory in nature; it clearly anticipates another court order under changed conditions and circumstances.
+In the absence of a reservation of jurisdiction, express or implied, we recognize that the terms of a decree of divorce as to alimony are not, if unaccompanied by fraud, misrepresentation or mistake, subject to modification after the term at which the original decree was made. Law v. Law, 64 Ohio St., 369; Newman v. Newman, 161 Ohio St., 247. In this case, however, jurisdiction of the parties and the subject matter was reserved, and we therefore find no merit in the assigned error.
+Assignments of error three, four, five and six are directed to the issue raised by the motion for a stay of all proceedings and orders in the instant case pending the outcome of an action for a declaratory judgment. In other words, did the trial court err or abuse its discretion in overruling said motion? The record supports a negative answer. As heretofore indicated, the separation agreement was absorbed by the decree, and the trial court thereafter had jurisdiction to decide any questions relating thereto. The petition for a declaratory judgment presents no new matter which was not, or could not, have been raised at the hearing on the original motion.
+In fact, upon questioning by the trial court, counsel for defendant could offer no valid reasons for awaiting the outcome of an independent action. We are also unable to find any such reasons. The declaratory judgment action was not filed until some months after the decision on the original motion had been rendered, and the judgment entry on the original motion was in no way dependent upon the outcome of any other litigation. In our opinion, the trial court properly overruled the defendant’s motion.
+This conclusion is not in disagreement with the conclusion reached in the case of Beach v. Beach, 57 Ohio App., 294. In a proper case, the issues involved herein might be resolved by an action for a declaratory judgment. However, the issues were raised by motion, the same as in the Beach case, and we cannot comprehend a situation where a court is required to resolve the same issues in separate actions before relief can be granted in either.
+The defendant’s seventh assignment of error reads as follows:
+“That the trial court abused its discretion as a matter of law, in entering judgment for any amounts, or in the improper amounts, as found by the court, to be owing by the defendant and payable to the plaintiff, Gladys Marie Williams, as alimony, or support, for any period on and after June 2, 1957, the death of Mary B. Williams, under paragraph 3 of the written separation agreement of the parties, by any construction of the meaning of said agreement.”
+The journal entry of the trial court reads in part as follows:
+“The court finds that Mary B. Williams, the defendant’s mother, died June 2, 1957, and soon after that the defendant stopped making payments. Taking first that part of the plaintiff’s motion which is for a determination of the amount due and owing under the former order of this court, the court finds said amount to be $2,660 for payments due from July 1, 1957 until April 15, 1958, for which the court awards the plaintiff, Gladys M. Williams, judgment against said defendant, D. L. Williams.”
+Although we cannot determine from the record the significance or importance of the date of April 15, 1958, we assume it was so included in the entry as being at about the time the motion was heard, which was April 18, 1958. If this assumption is true, the amount of the judgment has been computed on the basis of $280 per month until the matter was heard. In our opinion, a computation on this basis is erroneous. The rights of the parties were fixed at the time the separation agreement became a part of the original decree, and the agreement contemplates an adjustment, determinable upon the death of defendant’s mother. If we were to adopt the trial court’s mode of computation, the date of the hearing would control the amount of the judgment.
+In a subsequent paragraph of the judgment entry, the trial court found:
+“ * * * that a just and reasonable amount to be paid by the defendant to the plaintiff would be $70 per month and it is therefore ordered that from the date of the death of the said Mary B. Williams the defendant pay said amount of $70 per month in instalments of $35 on the 1st and 15th of each month.” (Emphasis ours.)
+This provision is also in conflict with that part of the judgment entry which finds for the plaintiff in the amount of $2,660.
+The record therefore appears to support the defendant’s contention that judgment was rendered for an improper amount, and we cannot go beyond the record for clarification.
+We find no other error prejudicial to the rights of the defendant. However, for the reason set forth herein, the judgment is reversed and the cause remanded to the trial court for findings and judgment in accordance herewith.
+Judgment reversed.
+Wiseman, P. J., and Crawford, J., concur.
