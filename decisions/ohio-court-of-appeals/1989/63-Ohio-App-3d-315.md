@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "56448"
+decided: "1989-06-19"
+citations: ["63 Ohio App. 3d 315"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matia, P.J., Nahra and John F. Corrigan, JJ., concur."]
+parties: ["COSTA, Appellee, v. OHIO BUREAU OF EMPLOYMENT SERVICES et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/63/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1449645
+cites_cases: ["38 Ohio App.3d 45", "526 N.E.2d 112"]
+---
+
+# Costa v. Ohio Bureau of Employment Services
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an accelerated appeal brought pursuant to App.R. 11.1 and Loc.R. 25 of the Court of Appeals for Cuyahoga County. Appellant Administrator, Ohio Bureau of Employment Services, appeals from a judgment of the trial court which awarded attorney fees to appellee Gregory Costa.
+From July 1, 1984 to January 5, 1985, plaintiff-appellee Gregory Costa received unemployment benefits from the Ohio Bureau of Employment Services. In early 1985, the Ohio Bureau of Employment Services conducted an investigation into the employment status and the earnings received by appellee Costa during the period of July 1, 1984 to January 5, 1985.
+On May 20, 1985, appellant Administrator issued an order which found that:
+1. Appellee Costa was self-employed during the weeks ending November 17, 1984 through December 29, 1984, but failed to report the fact of self-employment; and
+2. Appellee Costa had under-reported his earnings for the week ending January 5, 1985.
+Based upon these two findings, the order of May 20, 1985 cancelled the unemployment benefits received by appellee during the period of November 17, 1984 to January 5, 1985 and further ordered that benefits in the amount of $1,155 be repaid to the Ohio Bureau of Employment Services pursuant to R.C. 4141.35(A)(3).
+On July 25, 1986, appellant Administrator denied appellee’s request for reconsideration of the order of May 5, 1985 which cancelled unemployment benefits and required the repayment of benefits.
+Appellee filed a timely notice of appeal to the Unemployment Compensation Board of Review from appellant Administrator’s decision on reconsideration. On September 5, 1986, a hearing was conducted before a referee of the board of review. Based upon the testimony and evidence adduced at this hearing, the referee affirmed the appellant Administrator’s decision on reconsideration of cancellation of benefits and repayment of benefits.
+On March 23, 1987, appellee appealed the decision of the Unemployment Compensation Board of Review to the Cuyahoga County Court of Common Pleas. On March 3, 1988, the trial court found that the decision of the board of review was unlawful, unreasonable, and against the manifest weight of the evidence. The decision of the trial court was appealed by appellant Administrator to this court but was subsequently voluntarily dismissed prior to oral argument.
+On March 22, 1988, appellee filed with the trial court a motion for the award of attorney fees pursuant to R.C. 2335.39, whereby a prevailing eligible party in civil action against state may move for compensation for attorney fees. On August 24, 1988, the trial court granted the motion for attorney fees and awarded appellee the sum of $2,362.50.
+Thereafter, appellant Administrator timely filed a notice of appeal from the trial court’s award of attorney fees.
+Appellant Administrator’s sole assignment of error is that:
+“The lower court erred in awarding attorney fees against the Administrator, Ohio Bureau of Employment Services, pursuant to R.C. 2335.39.”
+R.C. 2335.39, which allows the recovery of attorney fees from the state, provides in pertinent part that:
+“(B)(1) Except as provided in divisions (B)(2) and (F) of this section, in a civil action, or appeal of a judgment in a civil action, to which the state is a party, or in an appeal of an adjudication order of an agency pursuant to section 119.12 of the Revised Code, the prevailing eligible party is entitled, upon filing a motion in accordance with this division, to compensation for fees incurred by that party in connection with the action or appeal. Compensation, when payable to a prevailing eligible party under this section, is in addition to any other costs and expenses that may be awarded to that party by the court pursuant to law or rule.
+“ * * *
+“(2) Upon the filing of a motion under this section, the court shall review the request for the award of compensation for fees and determine whether the position of the state in initiating the matter in controversy was substantially justified, whether special circumstances make an award unjust, and whether the prevailing eligible party engaged in conduct during the course of the action or appeal that unduly and unreasonably protracted the final resolution of the matter in controversy. * * * ” (Emphasis added.)
+The Court of Appeals for Franklin County, in Highway Valets, Inc. v. Ohio Dept. of Transp. (1987), 38 Ohio App.3d 45, 526 N.E.2d 112, examined the application of R.C. 2335.39. The court held that attorney fees are awardable to a prevailing party pursuant to R.C. 2335.39 only when the state initiates the matter in controversy:
+“It is plaintiffs position that these sections of the Ohio Revised Code authorized the Court of Claims to award attorney fees in plaintiffs favor in its action seeking injunctive relief. Specifically, plaintiff maintains that, contrary to the decision of the claims court, the statute contemplates an award of attorney fees when the state engages in a course of conduct which ultimately gives rise to a civil, action or to an appeal from a judgment in a civil action. The department, on the other hand, submits that the words ‘matter in controversy’ refer not to the original administrative action taken by a state agency, but rather to the original cause of action filed in the Court of Claims. As support for its position, the department points to the provisions of the federal Equal Access to Justice Act—apparently the Act upon which R.C. 2335.39 is modeled—which specifically provided that attorney fees ‘may be awarded to the prevailing party in any civil action brought by or against the United States.’ Former Section 2412, Title 28, U.S.Code. Upon review of the arguments and the record in the instant matter, we believe the claims court correctly denied plaintiff’s application for attorney fees. In denying plaintiff’s motion for fees, the court stated, inter alia:
+“ ‘Highway Valets, Inc. was the initiating prevailing party in instituting the litigation. The fact that the state attempted to decertify the plaintiff corporation does not under R.C. 2335.39 make the state the initiating party in the litigation brought in this court.’
+“Although the term ‘matter in controversy’ is a matter of some controversy, we believe the term refers to the litigation itself and not to the conduct which gave rise to the litigation. When the term is viewed in relation to the entire text of R.C. 2335.39, it is clear that the ‘matter in controversy’ refers to the subject matter of the litigation. Thus, if the state did not initiate the litigation then it did not initiate the ‘matter in controversy.’ Accordingly, the claims court did not abuse its discretion when it denied plaintiff’s application for attorney fees. The wording of R.C. 2335.39 contemplates situations where the state is the initiating party of the lawsuit and a trial court has no discretion to change the wording of the statute.” Highway Valets, Inc. v. Ohio Dept. of Transp., supra, 38 Ohio App.3d at 47, 526 N.E.2d at 114.
+Applying the holding of Highway Valets, Inc. v. Ohio Dept. of Transp., supra, to the case sub judice, we find that the state did not initiate the lawsuit which formed the basis of appellee’s claim for attorney fees. On the contrary, it was appellee who initiated the lawsuit in the case sub judice by the filing of his appeal to the Cuyahoga County Court of Common Pleas.
+Thus, as a matter of law, appellee was not entitled to attorney fees pursuant to R.C. 2335.39 as a result of the non-initiation of the “matter in controversy” by the state.
+Therefore, the judgment of the trial court with regard to the award of attorney fees is reversed and the matter is remanded for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Matia, P.J., Nahra and John F. Corrigan, JJ., concur.
