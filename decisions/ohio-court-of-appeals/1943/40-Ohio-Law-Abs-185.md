@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "611"
+decided: "1943-06-19"
+citations: ["40 Ohio Law Abs. 185"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and GEIGER, JJ., concur."]
+parties: ["REITENOUR, Plaintiff-Appellant v. McCLAIN, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/40/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1722106
+cites_cases: ["10 C. C. 165", "12 Oh St 432", "26 Oh St 480", "57 Oh St 299"]
+---
+
+# Reitenour v. McClain
+
+## Majority (By BARNES, P. J.)
+
+OPINION
+By BARNES, P. J.
+The above entitled cause is now being determined as an error proceeding by reason of plaintiff’s appeal on questions of law from the judgment of the Court of Common Pleas of Darke County, Ohio.
+On January 17, 1942, the plaintiff filed his petition against the defendant, together with affidavit for replevin of certain described personal property consisting of cattle, hogs and two horses. A part of the property was taken in possession by the sheriff and after the giving of a cash bond in double the appraised value, was delivered to the plaintiff.
+The appraisement conducted by the sheriff amounted to a total of $602.00.
+Plaintiff claimed to be the owner of the property under and by virtue of a bill of sale executed to him by the defendant on the 12th day of May, 1941.
+Defendant filed an answer and cross r-petition, and thereafter amended answer and cross-petition. In the amended pleading the defendant by way of answer admitted that he had some dealings with the plaintiff on May 12, 1941, but denied all other allegations of the petition. By way of cross-petition defendant in substance averred that on or about January 1941, plaintiff and defendant, who for some five or six years previously had enjoyed the relation of landlord and tenant, met for the purpose of effecting a settlement. The plaintiff, Reitenour, was contemplating the sale of his 60 acre farm and thereby it would be necessary for the defendant, McClain, to make other arrangements. It is further averred in the cross-petition that when McClain first moved on the farm he occupied the same under a 50-50 tenancy. After a year or two this arrangement was changed and the parties became partners in the cattle and hogs. From time'to time the plaintiff had loaned money to the defendant or purchased stock for him. It is further averred in the cross-petition that in this January meeting of 1941 the plaintiff agreed to turn over to the defendant all interest in the stock or other chattel property, for the sum of $500, the same to be paid within a reasonable time. Defendant further states that the plaintiff’s calculation as to the amount due was $595.96, but that $500 was agreed upon as a compromise.
+It is further averred that on May 12, 1941, plaintiff demanded immediate payment or security and on this date a bill of sale was executed, which defendant says was intended as security merely, and that plaintiff agreed 'that when full payment was made that the instrument would be cancelled.
+From the pleadings and evidence we ascertain the following conflicting claims:
+It is the claim of plaintiff that the $595.96 represented the amount due him from the defendant in order to make the defendant an equal half owner in the chattel property. On the other hand, it is the claim of the defendant that this was the amount through which defendant, upon its payment, would become the owner of the property in its entirety, and that the amount finally agreed upon was $500.
+The cause came on to be tried before a jury and resulted in a verdict in favor of the cross-petitioner, that the right of property in the goods and chattels at the commencement of the action was in the defendant; that the value of the property was $100; and damages awarded against the plaintiff in the sum of $75; and the further finding in favor of the defendant on the cross-petition in the sum of $75. The verdict was signed by nine members of the jury. The total amount of the verdict was $250. ■
+The cross-petitioner first elected to have the property returned to him, but by reason of the fact that the same had been sold a return was impossible, he then elected to take the value of the property as determined by the appraisers.
+The trial court in passing on the cross-petitioner’s application concluded that he was in error in charging the jury to determine the value of the property in question, and further, that under the conditions the value determined by the appraisers was the amount for which judgment would be awarded under the cross-petitioner’s election to take the value of the property rather than the property itself. This is one of the errors very earnestly asserted by counsel for the plaintiff.
+A second ground of error was the trial court’s refusal to grant a continuance on plaintiff’s request and showing that a material witness was with the armed forces and unable to be present at the time of trial. The court overruled the motion on the ground that plaintiff had adequate time after the case was assigned to arrange for the taking of the deposition of the witness.
+Considering the record in its entirety, we are unable to find that the trial court abused its discretion in a denial of plaintiff’s application for continuance.
+We now take up the remaining ground of error: .
+We might say at the outset that the factual questions involved are very difficult to understand. Neither the plaintiff nor the defendant were careful in keeping books on business transactions between the two. Their recollections were uncertain. Apparently no .attempt was made to corroborate facts where such seemed possible. Both assumed the attitude of being right in their claims and apparently had the view that it was up to the other side to show their respective positions as being wrong.
+The verdict of the jury on the question of value was unquestionably wrong. The record does present a very close question as to whether or not the defendant was entitled to a verdict at all. The trial court accepted so much of the verdict as found that the right of property at the time of commencing the action was in the defendant. He rejected so much of the verdict as determined the value of the property to be $100, the trial court being of the opinion that he should not have submitted to the jury the question of value since amount fixed by the appraisers must control, and then entered judgment accordingly.
+The determination of this question necessarily requires a very careful examination of the Code sections on replevin.
+Section 12056 GC, provides for the delivery bond which may be given by the plaintiff after the expiration of five days from the time the property as taken by the sheriff. It is further stated in this section that the bond shall be at least double the value, and to the effect that, the plaintiff will duly prosecute the action and in case the judgment be against him, return the property' taken or pay the value so assessed, at the election of the defendant. The words “so assessed” seem to be the bone of contention. Counsel for plaintiff contends that the language means the value determined by the jury or the court, when a jury is waived.
+Counsel for defendant, while presenting little, if any. argument in favor of the trial court’s construction of the section, urge that under the state of the record the court was warranted in entering judgment notwithstanding the verdict, for # the reason that the undisputed evidence aisclosea that the value of the property was $602 or more.
+Strange as it may seem, neither the Supreme Court nor any of our courts of appeals have been called upon to aeeiae this very interesting question, or at least we are unable to find that any such decision, if made, has been reportea. Various nisi prius courts and a few of the circuit courts have had under consideration this question. The universal trend, as we find it, is to hold that the appraisal does not control as to value. The cases referred to. cited and examined are the following:
+Munding v Michael, 10 C. C. 165; Baum v Harrison, Assignee, 9 N. P. (N. S.) 357; Sperry v Allen, 15 C. C. (N. S.) 225; Wolf v Meyer, 12 Oh St 432; Latimer v Motter, 26 Oh St 480; Richardson v Bank, 57 Oh St 299-307; Smith F. & S. Co v Banking Co., 18 C. C. (N. S.) 603.
+We are constrained to the view that as a general proposition it was improper to accept the appraisers’ valuation as fixing the amount of the judgment.
+We recognize the correctness of the argument of counsel for the defendant that where the evidence on an essential element of the case is uncontradicted, that the trial court may correct the' verdict of the jury so as to conform to such uncontradicted evidence. However, the testimony in the instant case was so involved that it is very difficult to determine what was the intent of the jury in fixing the value of the property at $100.
+Defendant did make the claim that the plaintiff took from him other property than that included in the petition, affidavit or bill of sale. A careful reading of the record will hardly substantiate any evidence on this question favorable to the defendant except the item of a manure spreader. Even this Single item was very uncertain, and, if included, the value was only fixed at $35 or $40.
+It seems obvious that the amount of damages in the sum of $75 by reason of plaintiff’s wrongful taking of the property in replevin and the like return of $75 under the cross-petition, covered the same issue and hence was a duplication
+We arrive at the conclusion that justice demands a retrial of this case. Therefore the judgment of the trial court is reversed and the cause remanded for new trial. Costs in this court will be adjudged against the appellee.
+HORNBECK and GEIGER, JJ., concur.
