@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5242"
+decided: "1955-03-17"
+citations: ["100 Ohio App. 455"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, P. J., and Wiseman, J., concur."]
+parties: ["In re Benjamin."]
+source_url: "https://static.case.law/ohio-app/100/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422441
+cites_cases: ["112 N. E., 1017", "18 Ohio St., 390", "25 Ohio St. 426", "3 Ohio St., 229", "42 Ohio St., 383", "6 Ohio Law Abs., 675", "89 Ohio App., 241", "93 Ohio St., 294"]
+---
+
+# In re Benjamin
+
+## Majority (Hornbeck, J.)
+
+Hornbeck, J.
+This is an action in habeas corpus wherein petitioner seeks release from the Ohio Penitentiary, where he is a prisoner under sentence of the Common Pleas Court, Cuyahoga County, Ohio, on a conviction of maiming, under Section 12416, General Code, now Section 2901.19, Revised Code. The mittimus under which petitioner is held at the Ohio Penitentiary recites that he was found guilty of “maiming with count.” The sentence was that he “be imprisoned in the penitentiary of this state, and kept at hard labor, until legally discharged.” “Note: Defendant was sentenced on each count. Sentences are to run consecutively, and that he pay the costs of this prosecution.”
+Although the parties have proceeded in their briefs and in oral presentation to the court upon the theory that the petitioner was charged with mayhem in an indictment under Section 12416, General Code, with a count for maiming with a quantity of caustic substance, an offense also defined in Section 12416, General Code, an examination of the return of the warden of the penitentiary on the writ of habeas corpus and the certified eopies from the files of the Clerk of Courts of Cuyahoga County indicates that there was not an indictment with a separate count, but that there were two separate indictments. The first, charging maiming of Elizabeth Stanley by petitionei by an unlawful assault and by putting out and destroying the eye of Elizabeth Stanley; the second indictment charging maiming Elizabeth Stanley by throwing a quantity of caustic substance into her face.
+It is the contention of the petitioner that he cannot be found guilty of both of the so-called counts, and that he canno be punished twice for the same offense; that to do so woulcl place him in double jeopardy. I
+We are satisfied that this court cannot grant the full relie* sought. There are several reasons for this holding. The mail* reason is found in the case of Ex parte Van Hagan, 25 Ohio St. 426, wherein the defendant had been sentenced to excessive imB prisonment. The court held that habeas corpus was not the proper procedure to reach that error. Here, upon the meager record, we can only safely say that the petitioner has been sentenced to serve a longer term than is contemplated upon a finding of guilt on a charge of a violation of Section 12416, General Code, growing out of the same act.
+Several facts which might be material to the question sought to be raised in this proceeding are not before us. Upon the question of double jeopardy, if it is in the case, there is no showing which one of the two indictments found in the record was first returned; or whether petitioner was tried at the isame time on both indictments. Presumably he was, because the mittimus speaks of the “indictment with a count.” Nor does the record disclose whether there was but the one finding of guilt, or whether there were two findings of guilt, one on each so-called count.
+It would appear that the offense charged grew out of the same act, because both indictments charge that the maiming resulted in the loss of an eye of the prosecuting witness.
+We are satisfied that the trial judge had no authority in any view of the verdict or verdicts of the jury to sentence the petitioner upon two counts or upon two indictments. Two founts could have been charged, but petitioner could not have iieen found guilty on both. However, the fact that he could not lie found guilty and sentenced on both charges is not sufficient ;o justify this court in releasing him from the penitentiary, vhen he has not yet served the minimum sentence which could rave been imposed upon a finding of guilt on either of the of!enses set up in the indictment.
+Under the ruling of 2 Opinions of Attorney General No. 1420 (1931), 961, which seems to be sound, thé sentence of the rial court upon any proper verdict should have been for a ninimum of three years, with a maximum of thirty years or imirisonment for life.
+If the verdict responds only to the charge of maiming by aalicious intent, the imprisonment would have been general aider the statute, from three to 30 years. If the verdict reponded to the latter part of the section, the sentence should tave been for not less than three and not more than a number of years to be fixed, or for life. Inasmuch as there can not be two sentences in this case, a sentence properly imposed as to the second count (indictment) should specify the maximum penalty thereunder, since there are two maximum penalties provided for.
+We have examined the cases cited by counsel for petitioner. Poage v. State, 3 Ohio St., 229; Mitchell v. State, 42 Ohio St., 383; Griffith v. State, 93 Ohio St., 294, 112 N. E., 1017; Lesslie v. State, 18 Ohio St., 390; Steiner v. City of Cleveland, 6 Ohio Law Abs., 675; and the late case of State v. Greeno, 89 Ohio App., 241, 101 N. E. (2d), 259. No one of these cases was decided in a proceeding in habeas corpus. All were determined upon error or appeal. In no one of them was the defendant, who had been sentenced, ordered released.
+We readily accede to the principle announced in all of them. They are authority for the proposition that an indictment containing two or more counts charging the commission of two offenses will not support a verdict of guilty of both if it appears that the offenses charged were predicated upon the same transaction and are related to the same subject matter.
+There should be some clarification of the sentence of the petitioner if the verdict is in such form that it can be determined that he can be properly sentenced upon either of the charges in the two indictments.
+If we could say that the petitioner could properly have been sentenced only for the minor offense charged against him, he would not be entitled to release because even the minimum sentence has not yet been served.
+It is said that the petitioner filed a motion for a new trial which, so far as he knows, has not been passed upon. If the facts would support that conclusion, then he would have the basis for review of his case without the showing necessary for leave to appeal.
+The sentence in this case should be changed to one general sentence from three to thirty years. Life imprisonment was not mentioned in the sentence pronounced. As it was a general verdict of guilty without further specification, it may be said thatH the petitioner was properly convicted on the first indictment^ and, as to the second indictment, was in double jeopardy, anc® the verdict respecting it may not stand. If it can be determined from the verdict that it responds only to the second indictment, then another sentence of different tenure may or may not be pronounced. If the record cannot be made to conform to the foregoing ■ suggestion, the cases arising upon the two indictments herein discussed should be remanded to the trial court for further proceedings according to law.
+Judgment accordingly.
+Miller, P. J., and Wiseman, J., concur.
