@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "32938"
+decided: "1974-01-11"
+citations: ["40 Ohio App. 2d 10"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Manos, C. J., and Hunsicker, J., concur.", "Hunsicker, J., retired, of the Ninth Appellate district, assigned to active duty pursuant to Section 6(e), Article IV of Constitution, sitting by designation in the Eighth Appellate District."]
+parties: ["City of East Cleveland, Appellee, v. Palmer, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/40/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1473084
+cites_cases: ["100 Ohio App. 334", "167 Ohio St. 103", "170 Ohio St. 127", "176 Ohio St. 425", "76 Ohio Law Abs. 311", "99 Ohio St. 416"]
+---
+
+# City of East Cleveland v. Palmer
+
+## Majority (Jackson, J.)
+
+Jackson, J.
+This is an appeal from a conviction and a fine levied for the violation of Section 351.14(a) of the Codified Ordinances of the City of East Cleveland, commonly known as the “overnight parking ban.” Appellant briefs five errors.
+In his first assignment of error, appellant claims that “Section 351.14 of the Codified Ordinances of the plaintiff city is unconstitutional and void.” Subsection (a) of Codified Ordinance 351.14 of the City of East Cleveland states:
+“Parking more than five hours prohibited.
+No vehicle shall park, stop, stand or be permitted to remain on any street in the City longer than five hours between 10:00 p. m. and 8:00 a. m. of the following day, except on streets where it is determined that off-street parking facilities are not adequate and which have been designated by the City Manager. However, on such streets so designated by the City Manager, no vehicle shall park, stop, stand or be permitted to remain for a period in excess of twenty-four consecutive hours.”
+Appellant asserts that this ordinance is arbitrary and unreasonable because it permits a motor vehicle to be parked in one place for nineteen consecutive hours during the day and early evening when the volume of traffic is the greatest while forbidding the same motor vehicle to be parked in the same place for more than five hours during a time when traffic is very light.
+The Constitution of the state of Ohio, Section 3, Article XVIII states: ,
+“Muneipalities shall have authority to exercise all powers of local self-government and to adopt and enforce within their limits such local police, sanitary and other similar regulations, as are not in conflict with general laws.”
+A duly enacted municipal ordinance is presumed constitutional, and the burden of establishing the unconstituiionality of such an ordinance is upon the one challenging its validity. Alice Realty, Inc., v. City of Columbus (1957), 76 Ohio Law Abs. 311, 314; Cleveland v. Antonio (1955). 100 Ohio App. 334. Local authorities, charged with the enactment of municipal ordinances, are presumed to be familiar with local conditions and to know the needs of the community. Allion v. City of Toledo (1919), 99 Ohio St. 416.
+A local ordinance is valid unless it clearly bears no real and substantial relation to public health, safety, morals, or general welfare or is unreasonable and arbitrary. Ghaster Properties, Inc., v. Preston, Dir. (1964), 176 Ohio St. 425; Curtiss v. City of Cleveland (1959), 170 Ohio St. 127; Benjamin v. City of Columbus (1957), 167 Ohio St. 103.
+Applying these legal principles we find that appellant.has not rebutted the presumption of constitutionality properly given Codified Ordinance 351.14(a). Merely showing that the traffic is lighter between the hours of 10:00 p.-m. and 8:00 a. m. does not make the questioned ordinance arbitrary or unreasonable. One valid reason for treating these hours differently, as suggested by the appellee, is .that there is a greater incidence of auto tamperings, auto thefts or other related crimes at night than during the day. Other possible justifications for this ordinance are, undoubtedly, too numerous to mention. Suffice it to say that the record does not demonstrate that the questioned ordinance is clearly arbitrary and unreasonable or that it bears no substantial relation to the health, welfare, morals, or safety of the citizens of the community. Consequently, this assignment is not well taken and is overruled.
+In his second assignment of error appellant contends that “ [n] o parking regulation may be enforced and no person may be lawfully charged with a violation of such regulation unless and until signs have been posted at appropriate places where such regulation is intended to be in effect, reasonably calculated to inform the public of such parking regulation.”
+The record reveals that no signs informing persons of the overnight parking ban have been posted in the City of East Cleveland. Appellant submits that the absence of such signs renders the ordinance in question unconstitutional. For the reasons given below, we disagree.
+R. C. 4511.07 states, in part:
+“Sections 4511.01 to 4511.78, inclusive, 4511.99 and 4513.01 to 4513.37, inclusive, of the Revised Code do not prevent local authorities from carrying out the following activities with respect to streets and highways under their jurisdiction and within the reasonable exercise of the police power:
+“ (A) Regulating the stopping, standing, or parking of vehicles, trackless trolleys, and streetcars; [Emphasis added] * * *
+“No ordinance or regulation enacted under divisions (D), (E), (F), (G), or (I) of this section shall be effective until signs giving notice of such local traffic regulations aré posted upon or at the entrance to the highway or part thereof affected, as may be most appropriate.
+“No ordinance or regulation enacted under division ij) of this section shall be effective until signs giving notice of such local traffic regulations are posted wherever a through highway enters a municipal corporation, and at the entrances to highways or streets leading from freeway exits.”
+Conspicuously absent from that portion of E. C. 4511.-07 requiring the posting of signs is any mention of subsection (A), dealing with parking regulations. Applying the maxim of statutory construction, eccpressio tmius est ex-clúsio alterius, we conclude that the Ohio State Legislature has determined that the posting of signs is not a necessary prerequisite to the adoption and enforcement of local parking regulations. This court finds that an ordinance such as that adopted by East Cleveland, which bans overnight parking on a community-wide basis, does not violate constitutional requirements of notice. Accordingly, appellant’s second assignment of error is rejected.
+The appellant further contends in his third assignment of error that “ [t]he plaintiff failed to establish ‘guilt’ of of the defendant beyond a reasonable doubt. ’ ’
+Appellant first asserts that the appellee city did not establish that it was the appellant, Thomas Palmer, who parked the car. However, Codified Ordinance 351.01 of the City of East Cleveland contains the following language:
+“Prima-Facie Evidence of Unlawful Parking.
+“In any proceeding for violation of any parking provision of this Traffic Code including parking meter violations, the license or registration plate on a motor vehicle shall constitute in evidence a prima facie persumption that the owner of such motor vehicle was the person who parked or placed such vehicle at the point where such violation occurred.”
+Appellant is admittedly the owner of the vehicle in question. Nowhere in the record does the appellant attempt to rebut the presumption created in Section 351.01 by denying that he actually parked the car on the night in question. Appellant did introduce evidence that others had access to his car keys, and, therefore, could have parked the car. Evidence of mere possibilities is insufficient to rebut this presumption.
+Appellant also states that the appellee city did not prove that his car had been parked for longer than five consecutive hours in the same place. Officers Bayerl and Bell, patrolmen for the City of East Cleveland, both testified that while on their tours of duty they kept a log of the license numbers of cars indicating the time and location of cars parked during the hours of the parking ban. These officers also testified that on February 1, and February 23, appellant’s car was found parked in the same place, in the same sequence with other parked cars, when checked at intervals of greater than five hours between 10:00 p. m. and 8:00 a. m. To rebut this testimony, appellant again offered the mere possibility that someone may have moved the car in the period between the checks made by the police officers. Considering this state of the record, the trier of fact had ample evidence from which he could reasonably conclude that the ordinance had been violated, and we find appellant’s argument to be without merit.
+In his fourth assignment appellant contends that the sentence imposed by the court was improper and unlawful for the reason that no ordinance of the plaintiff authorizes the court to impose such sentence.
+Appellant was fined $75 and costs. East Cleveland Ordinance 303.10 allows a person ticketed under the overnight parking ordinance to waive his rights and pay a $5.00 fine within 48 hours of the issuance of the citation or a $10 fine after 48 hours have elapsed. This ordinance goes on to state: “ [a]fter ten days from the date of the citation (Sundays and legal holidays excluded), such person shall be subject to the general Traffic Code penalty contained in Section 303.99.” Section 303.99 provides a penalty of not more than One Thousand Dollars ($1,000.00) or imprisonment for not more than six months, or both. Therefore, the $75 fine is clearly authorized by applicable municipal ordinances.
+We find, however, that the fifth assignment of error asserted by appellant is well taken.
+The record discloses that the trial court, in imposing sentence, stated:
+“Recognizing, gentlemen, that there are two (violations) that had been introduced in evidence, in considering for purposes of determining the fine, that there are other alleged violations, the court feels that a reasonable fine would be $75.00 and costs.” (Tr. 69)
+The consideration of these “other alleged violations” in determining the penalty to be imposed was improper and constituted an abuse of discretion by the court. Therefore, the judgment is reversed and the cause remanded, with instructions to impose sentence consistent with this judgment.
+Judgment reversed and cause remanded.
+Manos, C. J., and Hunsicker, J., concur.
+Hunsicker, J., retired, of the Ninth Appellate district, assigned to active duty pursuant to Section 6(e), Article IV of Constitution, sitting by designation in the Eighth Appellate District.
