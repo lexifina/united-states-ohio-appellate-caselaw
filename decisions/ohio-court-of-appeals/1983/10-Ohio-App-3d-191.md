@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10967"
+decided: "1983-06-22"
+citations: ["10 Ohio App. 3d 191"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillin, P.J., and George, J., concur."]
+parties: ["Crouse, Appellee, v. Nantucket Village Development Co. et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/10/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710320
+cites_cases: ["21 Ohio Law Abs. 252"]
+---
+
+# Crouse v. Nantucket Village Development Co.
+
+## Majority (Mahoney, J.)
+
+Mahoney, J.
+Nantucket Village Development Co. and George Alexander, defendants-appellants, challenge a trial court order granting summary judgment in favor of Ruth W. Crouse, plaintiff-appellee, on her complaint for foreclosure and against appellants on their counterclaim. We reverse and remand.
+On September 28, 1978, the parties entered into a contract for the purchase and sale of approximately one hundred acres of land at a contract price of $350,000. The seller-appellee, Ruth W. Crouse, received a down payment of $40,000 and a promissory note made by George Alexander and Nantucket Village Development Co., payable in installments, for the balance of the purchase price plus interest. Title to the acreage was taken in the name of Nantucket Village Develop-. ment Co. which executed a purchase money mortgage in favor of the appellee to secure the balance due on the promissory note. The note and the mortgage originally required the seller to release from her mortgage one acre of land for each $7,000 of principal paid by the buyers. The parties subsequently agreed to increase the price per acre released to $10,500 of principal paid.
+As of December 1981, Crouse had released nine acres and, according to the terms of the agreements, the buyers were entitled to the release of approximately fifteen more acres. In December 1981, Alexander presented a prepared release for this additional acreage to Crouse’s attorney who had his client execute the release but advised her not to deliver it until certain conditions were met. These conditions included payment by appellants of Crouse’s attorney’s fees in connection with the release, stipulations as to the meaning of certain language in the mortgage regarding subordination and the removal of mechanic’s liens placed on all the acreage. Clearly, these conditions had not been agreed upon by the parties as conditions precedent to seller’s obligation to execute and deliver the release.
+On January 2, 1982, and again on January 5,1982, appellants failed to make the installment payments required by the note. On January 19, 1982, Crouse obtained a cognovit judgment against the appellants for the accelerated balance due on the note. On January 28, she filed a complaint for foreclosure. The cases were consolidated below.
+Appellants moved for relief from the cognovit judgment pursuant to Civ. R. 60(B) contending, inter alia, that appellee had breached her agreement to release the required acreage. She admitted that she was obligated to release the acreage but contended that, because Alexander had informed her in October and again in December that he could not or would not make the January payments, her obligation to release was extinguished. On July 9, the court denied appellants’ motion to vacate the cognovit judgment. That decision was not appealed.
+On April 16, 1982, appellants answered appellee’s complaint for foreclosure and counterclaimed again asserting appellee’s failure to perform her release agreement. Again she admitted that she was contractually bound to release the fifteen acres but asserted that Alexander’s October and December statements constituted an anticipatory breach of the agreement which excused her performance. Appellants admitted that the statements were made but contended that no anticipatory repudiation occurred. The trial court granted summary judgment for appellee on the foreclosure complaint and against appellants on their counterclaim.
+Assignments of Error
+“I. The trial court erred in granting summary judgment for the plaintiff-appellee where there existed a genuine issue of material fact.
+‘ TI. The trial court erred as a matter of law in finding that the appellants had ‘anticipatorily breached’ their promissory note.
+“HI. The trial court erred as a matter of law in finding that the purported ‘anticipatory breach’ of the promissory note justified the seller-appellee’s refusal to perform obligations for which she had already received the agreed consideration.
+“IV. The evidentiary materials before the trial court were insufficient as a matter of law to support a summary judgment against the appellants on their counterclaim.”
+In a judgment entry filed January 28, 1983, the lower court said:
+“Defendants’ motion for reconsideration [of the summary judgment] is overruled, in that the matters raised in said motion were considered by this court in the June 25, 1982, hearing of defendants’ motion to vacate the cognovit judgment in case #82-0138.”
+We do not have the transcript of the June 25 hearing before us and cannot conclusively determine the basis for the court’s denial of appellants’ Civ. R. 60(B) request. However, appellants have clearly raised appellee’s refusal to perform her contractual obligation to release as an issue in the foreclosure proceedings. The record indicates that the doctrine of anticipatory repudiation was argued to the lower court as being dispositive of the motion for summary judgment. Thus, the issue is before us in this appeal.
+We must reject Crouse’s contention that her obligation was extinguished due to appellants’ “anticipatory breach” of the note because the doctrine of anticipatory repudiation is not applicable to the facts of this case. The doctrine of anticipatory breach as a basis for immediate action against one who repudiates an ex-ecutory contract has no application to contracts for the payment of money only. See 11 Williston on Contracts (3 Ed. 1968), Section 1327. This common-law principle has been codified in R.C. 1303.21, which states in part:
+“(A) A cause of action against a maker or an acceptor accrues:
+“(1) in the case of a time instrument on the day after maturity;
+“(2) in the case of a demand instrument upon its date or, if no date is stated, on the date of issue.”
+Likewise, the doctrine has no application to a mortgage. See 37 Ohio Jurisprudence 2d 507, Mortgages, Section 316.
+Thus, appellants were not in default on either the mortgage or the note in December 1981, when the release was requested. Further, the language of the mortgage clearly states that the buyers are entitled to release of one acre of land when $10,500 has been paid on the principal amount due. We find nothing in the record to indicate that the buyers were obligated to perform additional conditions unilaterally imposed by the seller.
+Both parties have briefed and argued the case of Reed v. Northfield Heights Realty Co. (App. 1936), 21 Ohio Law Abs. 252, as being favorable to their respective positions. We note that Reed involves a different fact pattern. Our predecessor court approached the resolution of that case by a consideration of various equitable principles. Such an approach requires findings of fact which cannot ordinarily be reached' in a summary judgment procedure.
+The main thrust of appellee’s argument seems to be that requiring her to perform her contractual obligation is not “just and equitable.” She contends that appellant has requested release of the most desirable acreage, namely the acreage which has been improved by grading and excavating. She points out that the excavating contractor has placed mechanic’s liens on all the acreage. Clearly her mortgage is superior to these liens. She does not contend that the liens are improper but rather that, should she release the fifteen acres, the excavating contractor would have the superior lien as to the fifteen-acre parcel, thus “substantially diminishpng] [the] security for her debt.”
+Appellants point out that the agreements signed by the parties do not limit the location of the acres that appellants can request to be released. Nor do these instruments require appellants to keep the property free of mechanic’s liens and/or taxes as a condition precedent to appellee’s obligation to release. Further, appellants state that in December 1981, appellee had no objection to the mechanic’s liens remaining on the fifteen acres. Thus, they argue when she agreed to release land at $10,500 per acre, she felt that $10,500 was a fair price per acre and that the remaining land would be sufficient to secure the balance of the debt. They contend that, beyond ap-pellee’s assertions in her brief, there is no evidence in the record to demonstrate that the land has, in fact, depreciated in value or that the remaining acreage will be inadequate security.
+Thus, we hold that the record demonstrates that a genuine and material factual issue was raised by the pleadings and persisted as an issue throughout the proceedings below, namely whether the seller was obligated to release the requested acreage. This issue could not be determined as a matter of law in appellee’s favor in terms of the doctrine of anticipatory repudiation or on any other legal theory based on the undisputed facts underlying the summary judgment. Further, appellants have counterclaimed for damages based on ap-pellee’s failure to release the requested acreage. Appellee has not demonstrated that she is entitled to judgment on these counterclaims as a matter of law. Hence, summary judgment is inappropriate.
+Summary
+We sustain appellants’ assignments of error and reverse and remand this cause for further proceedings consistent with the law and this opinion.
+Judgment reversed and cause remanded.
+Quillin, P.J., and George, J., concur.
