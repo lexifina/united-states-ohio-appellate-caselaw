@@ -1,0 +1,60 @@
+---
+court: "Ohio Court of Appeals"
+docket: "588 and 589"
+decided: "1958-03-28"
+citations: ["108 Ohio App. 51"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Younger and Guernsey, JJ., concur."]
+parties: ["In re Estate of Bicknell. In re Trust Created by Will of Bicknell."]
+source_url: "https://static.case.law/ohio-app/108/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1436533
+---
+
+# In re Estate of Bicknell
+
+## Majority (Middleton,- P. J.)
+
+Middleton,- P. J.
+Two separate appeals are here involved. However, the same facts and questions of law are presented in both appeals and, therefore, for convenience the court will dispose of the questions involved as if there were but one appeal.
+These cases involve the construction of Item XYII of the will of Helen G. Bicknell, deceased, who died on May 29, 1955, a resident of Hancock County, Ohio. Item XYII reads as follows:
+“Item XYII
+“I give and bequeath the sum of one hundred thousand dollars ($100,000) to Bradford Junior College of Bradford, Massachussets, in trust, to be used in the manner and for the uses and purposes hereinafter specified:
+“ (a) The principal of said bequest shall be retained in perpetuity as a trust fund to be known as the Helen G. Bicknell Trust Fund.
+“(b) Said Bradford Junior College as trustee, shall have full power and authority to manage said fund and, in addition to the general powers of such fiduciaries, shall have authority:
+“1. To invest, re-invest, handle, manage, administer, lease, encumber, sell or convey any portion or all assets of said trust estate, real or personal, upon such terms and conditions as said trustee, in its discretion, shall deem best, without the necessity of applying to any court for leave or confirmation, and as fully and completely as I might do under like circumstances.
+“2. To compromise, compound and adjust claims in favor of or against the trust estate, upon such terms and conditions as it may deem best.
+“(c) The net income from said fund shall be used, from time to time as needed, for the furnishing and re-furnishing and for the interior decorating and re-decorating of the Bradford Junior College buildings.
+“(d) I direct that no bond be required of said college as trustee. ’ ’
+The Cleveland Trust Company, the executor of the last will and testament of Helen G. Bicknell, filed in the Probate Court an application for the appointment of a trustee to receive and administer the trust created by Item XYII of the will.
+Bradford Junior College filed an application in the Probate Court directing The Cleveland Trust Company, as executor, to pay to the institution the $100,000, with interest, to be held by it upon the terms and conditions set forth in the will, with the income to be used for the purposes specified in the will. In the alternative, Bradford Junior College sought to be appointed testamentary trustee, without bond, in the event the Probate Court should hold that a testamentary trustee must be appointed pursuant to the provisions of Section 2109.02 et seq. of the Revised Code.
+Upon the hearing in the Probate Court that court held the application of The Cleveland Trust Company for the appointment of a trustee well taken and that it should be granted, and ordered that a trustee be appointed to administer the trust created by Item XVII of the will.
+The court denied the application of Bradford Junior College for appointment as testamentary trustee, without bond, the denial being based upon the ground that the applicant, Bradford Junior College, is a nonresident of the state of Ohio. From these judgments Bradford Junior College appeals to this court.
+These causes are heard in this court upon the evidence as contained in the stipulation of the parties filed herein. The facts are not involved and are not controverted.
+It is established by the record that Bradford Junior College is an educational corporation organized under the laws of Massachusetts and is authorized to receive and hold gifts such as bequeathed to it by the will of Helen G. Bicknell. This fact is not questioned.
+There are but two questions involved in these appeals. First, do the provisions of Item XVII of the will of Helen G. Bicknell create a trust which required the appointment of a testamentary trustee, or is Bradford Junior College entitled, without being appointed testamentary trustee, to have paid to it by the executor the sum bequeathed to it under the terms and conditions set forth in Item XVII? Second, if the bequest, as set forth in Item XVII is a gift in trust, was the Probate Court authorized, in the exercise of its discretion, to disregard the appointment of the person named as trustee in the will and appoint as trustee a resident of Ohio?
+In determining the question of whether Item XVTI creates a trust, we must first define a trust and determine the inherent characteristics of such trusts.
+1 Restatement of the Law of Trusts, 6, Section 2, defines the term as follows:
+“A trust, as the term is used in the Restatement of this subject, when not qualified by the word ‘charitable,’ ‘resulting’ or ‘constructive,’ is a fiduciary relationship with respect to property, subjecting the person by whom the property is held to equitable duties to deal with the property for the benefit of another person, which arises as a result of a manifestation of an intention to create it. ’ ’
+The above definition is found in many other texts on the subject of trusts and is the generally accepted definition. A trust involves a separation of the legal and equitable interests in the property.
+“Separation of Legal Title and Equitable Ownership. — A fundamental essential of any trust is separation of the legal estate from the equitable estate and the beneficial enjoyment; there can be no trust when both the legal title and the beneficial interest' are in the same person. As the rule has been expressed, every trust must necessarily involve a legal title encumbered with an equitable duty in favor of an equitable right, or, in other words, involve a legal ownership that is not absolute, but qualified by an equitable interest. Where the settlor is the trustee, the equitable interest must be in another. The suspension of beneficial ownership, since it involves cessation of separation of equitable and legal interests, is repugnant to the requirement of a trust. Where the holder of the legal title and the cestui que trust are one and the same person, the result is a merger of the legal and the equitable title, defeating the trust and ordinarily conferring a fee simple title upon the person holding the legal title and beneficial interest. It is essential, however, in order to have a merger of the legal and equitable titles, rendering an attempted trust invalid, that the equitable interest of no other person than the holder of the legal title shall intervene, and that the legal and equitable estates be coextensive and commensurate, the legal estate being at least as extensive as the equitable.
+“The existence of a legal estate separate from equitable in- . terest will, if possible, be implied, and the court can always appoint a trustee, where one is lacking, to hold legal title and to perform the trust.” 54 American Jurisprudence, 46, Section 35.
+Again, in 1 Restatement of the Law of Trusts, 269 and 270, Section 99, we find the rule stated as follows:
+“(5) The sole beneficiary of a trust cannot be the sole trustee of the trust.”
+In commenting upon that statement, the following comment is made:
+“a. Where one person has both the legal title to property and the entire beneficial interest, he holds it free of trust. There is no separation of the legal and beneficial interests, and there are no duties running from himself to himself, and no rights against himself. He is in a position where he can dispose of the property as freely as any owner can do, since there is no one who can maintain a proceeding against him to prevent him from so doing, and if he transfers the property there is no one who can make him accountable for the proceeds or can reach the property in the hands of the transferee. He cannot himself maintain an action against the transferee since he cannot base an action upon his own voluntary act in making the transfer.”
+If the legal title to the trust- property and the beneficial interest become united in one person who is not under an incapacity, the trust fails.
+Numerous authorities in accord with the above statements could be cited. However, this would be to no purpose. When once stated, setting forth an accumulation of authorities gives no added strength to an established truth.
+Bradford Junior College is the only beneficiary of the bequest. The gift is to the college and not to or for the benefit of the student body or any other class of indefinite beneficiary. There being no separation of the legal and equitable interests, there is no technical trust. What is created by Item XVII is sometimes improperly referred to as a quasi trust or charitable trust. However, in fact, there is no trust of any kind created.
+When tested by the definitions and characteristics of a trust we can reach but one conclusion, and that is that under Item XVII of the will of Helen G. Bicknell there is no separation of the legal and equitable interests in the property bequeathed.
+While Item XVII of the Bicknell will does not create a technical trust, the bequest to Bradford Junior College is subject to an enforcible obligation to use the money arising from the bequest, for the express purposes named therein. In this sense it may be said to have certain attributes of a charitable trust and be subject to the charitable purpose as directed by the testator in her will. The enforcement of the provisions of the gift rests with the authorities of the state of Massachusetts wherein the gift is to be administered.
+The court therefore finds that Item XVII of the will of Helen Gr. Bicknell does not create a technical trust, and that the application of The Cleveland Trust Company, as executor of the last will and testament of Helen Gr. Bicknell, filed in case number 588, for the appointment of a testamentary trustee is not well taken and should be denied.
+The court further finds that the application of Bradford Junior College is well taken and that it is entitled to an order directing The Cleveland Trust Company, as executor, to distribute to it the sum of $100,000, with interest at six per cent from a date nine months from the date of the appointment of the executor, to be held by it upon the terms and conditions and for the purposes set forth in Item XVII of Miss Bicknell’s will.
+The court further finds that, as no trust is created by Item XVII of the will of Helen G. Bicknell and the appointment of a trustee is not required, the application of Richard J. Rinebolt for appointment as trustee under Item XVII of the will, filed in case number 589, is not well taken and should be denied.
+It is, therefore, ordered that the application of The Cleveland Trust Company, filed in case number 588, for the appointment of a testamentary trustee be, and the same hereby is, denied.
+It is further ordered by the court that the application of Bradford Junior College, filed in case number 588, for an order of distribution is well taken, and The Cleveland Trust Company, as executor under the will of Helen G. Bicknell, is ordered to pay over to Bradford Junior College the sum of $100,000 bequeathed to it in Item XVII of the will of Helen G. Bicknell, together with interest thereon from March 22, 1956, to the date of distribution of the legacy to Bradford Junior College, to be held by it upon the terms and conditions and for the purposes set forth in Item XVII of the Bicknell will.
+It is further ordered that the application of Richard J. Rinebolt, filed in case number 589, for appointment of trustee under Item XVII of the will of Helen G. Bicknell be, and the same hereby is, denied.
+Judgment accordingly.
+Younger and Guernsey, JJ., concur.
