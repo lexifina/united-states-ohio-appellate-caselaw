@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 17815"
+decided: "1941-03-03"
+citations: ["33 Ohio Law Abs. 546"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LIEGHLEY, PJ., MORGAN, J., concur."]
+parties: ["ROSE v BAXTER"]
+source_url: "https://static.case.law/ohio-law-abs/33/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1704102
+cites_cases: ["222 Ill. 72"]
+---
+
+# Rose v. Baxter
+
+## Majority (By SKEEL, J.)
+
+OPINION
+By SKEEL, J.
+This action is founded upon a promissory note. The note was dated July 20, 1939 and provided for payment of the principal sum of $2032.00 in installments of $169.39 each, payable on the 20th of each succeeding twelve months. It further provided that the entire principal sum shall be paid not later than July 20, 1940. The note was a cognovit note and also provided for acceleration of the due date of any balance due upon default of the payment of any installment at the option of the payee. The note provided for interest at the highest legal rate provided by law. One of the makers, The East End Restaurant Company, appellee herein, was a corporation.
+Judgment was taken on the note in the Municipal Court of Cleveland, without notice, which judgment was suspended by the court upon motion, and the makers were permitted to file answers and present their respective defenses. Upon trial of the issues, the defendant corporation urged two principal defenses, first, that the judgment was t»lien for more than was due, and second that the note was usurious. There is no controversy between the parties upon the amount actually paid on said note. There was a mistake as to one payment which plaintiff admitted having received and to the extent of such error the parties agreed in the lower court that judgment should be modified.
+Coming now to the question of usury. There can oe no doubt but that this note was in fact usurious. The total sum called ior by the note was $2032.00 which was by agreement reduced to $2024.50. The total amount actually paid to the makers was SI700.00. The balance of $324.50 was paid or credited to plaintiff-appellant’s agent and attorney as a bonus or commission in procuring the loan. The lender had full knowledge therefore of the payment of a commission which amounted to more than 17% of the face amount of the note, to which must be added the interest contracted for by the provisions of the note, which was “the highest rate of interest allowable by law.” Such a provision must be interpreted to mean interest at the rate of 8% per annum on each of the installments until paid, so that the total of the amount paid for the use of the money would approximate twenty-five per cent (25%) of the face of the loan.
+Whenever an agent, with the knowledge and consent of the lender, exacts from the borrower a bonus or commission for procuring the loan, which bonus or commission is deducted from the amount of the loan and paid by the tender direct to his agent or attorney and only the balance left, after such deduction, is paid to the borrower, by the great weight of the authorities that which is paid as bonus or commission to the agent or attorney of the lender is considered as being a charge for the use of the money. Such bonus will be added to the amount of interest contracted for by the provisions of the note in determining whether or not such note is usurious. Spring v Mack, 222 Ill. 72.
+Having determined therefore that this note was usurious the sole question remaining is as to whether or not such a defense is available to a corporation by virtue of §8623-78 GC. This section provides as follows:
+“The limitations of §8303 GC, shall not apply to any corporate obligation for the payment of money maturing or payable in whole or m part, one year or more after the date thereof, and no corporation wherever organized, nor any one in its behalf shall interpose a defense or make a claim of usury in any suit, action or proceeding upon or with reference to such obligation.”
+The appellee’s first contention upon this question is that no part of the obligation of the note covered á period of a full year. This claim is not tenable. The note provided for installment payments of $169.39 payable on the 20th of each succeeding twelve months. This would make the last payment due on July 20, 1940.
+•The note is dated July 20, 1939. Excluding the day upon which the note was executed, as provided by §10216 GC, the period of time elapsing between July 21, 1939 and July 20, 1940, the due date of the last payment provided for in the note, is exactly one -full year.
+It is next contended by the appellee that each installment provided for by the note, constituted a separate obligation so that as to all installments except the last, no protection is afforded the payee as contained in §8623-78 GC. This is a misconception of the installment obligation. An installment contract is one and entire in its origin but looks to a series of performances as to the obligations of either or both parties. In other words, such a contract is divisible in its operation. The fact that the obligation of one of the parties to the contract is divided into successive performances does not mean that there is more than one contract between the parties. This must be true because a default as to one installment affects the legal rights of the parties as to all subsequent installments. Williston v Sales, 3rd Ed. Volume 2, page 466.
+We therefore conclude that because of the fact that a part of the obligation represented by this note extended over a period of one full year, it comes squarely within the provisions of §8623-, 78 GC.
+One other question remains for consideration. Does the exercise of the option to accelerate payment upon default of an installment make the defense of usury available to a corporation, if by this means the date of payment of the note is advanced to a day less than one year from the date of the making of the note?
+Such a theory cannot be sustained. Its application would deprive the payee of substantial rights under his contract and the statute. By the note the payee is entitled to receive monthly installments. The note further provided that upon default in any installment by the makers, the payee is entitled to demand the entire balance then due. These are valid provisions and constitute a part of the consideration on which credit is extended and without which it might well be that the payee would not care to extend credit to the maker.
+When the note was executed it was perfectly clear as between the payee and the corporation maker that because part of the principal did not mature until one year after date these parties could contract for any interest rate to which both could agree. Sec. 8623-78 GC relieved them from the restrictions of the statute upon usury. To say, therefore, that in the event of the default of the payment of an installment ■upon the part of the makers of the note, the payee must choose between the right to accelerate payment and the right to receive the full rate of interest called for; that if he demanded one of these rights he must lose the other;— is to deprive him of the full benefits of his contract. ,
+American Cleaning Company v Walkvill Stock Farms, 293 Federal 58, Syllabus 4:
+“Where bonds were not usurious at the time of making, the subsequent acceleration of the due date, pursuant to the provisions of the deed of trust, because of default in the payment of interest, taxes, etc. will not make them usurious.”
+To like effect is Smith v Western & Southern Life Insurance Company, 87 Federal (2nd) 839; Brannon on Negotiable Instruments Law, 6th Edition, paragraph 55, page 613.
+Holding these views, therefore, the [judgment of the Municipal Court of ^Cleveland against the defendant-appellee, The East End Restaurants Company, is modified to $1961.25 with interest at 8% from the date of judgment, and as modified, the judgment of the lower court is affirmed.
+LIEGHLEY, PJ., MORGAN, J., concur.
