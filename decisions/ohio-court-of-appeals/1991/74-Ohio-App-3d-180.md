@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "90AP-1321"
+decided: "1991-05-16"
+citations: ["74 Ohio App. 3d 180"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Peggy Bryant and Hooper, JJ., concur.", "James J. Hooper, J., retired, of the Miami County Common Pleas Court, was assigned to active duty pursuant to Section 6(C), Article IV, Ohio Constitution."]
+parties: ["DEMETRY et al., Appellants, v. KIM et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/74/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1475056
+cites_cases: ["38 Ohio St.3d 86", "45 Ohio St.3d 602", "46 Ohio St.3d 84", "52 Ohio St.3d 162", "526 N.E.2d 1089", "544 N.E.2d 274", "545 N.E.2d 83", "556 N.E.2d 1150"]
+---
+
+# Demetry v. Kim
+
+## Majority (McCormac, Judge.)
+
+McCormac, Judge.
+Plaintiffs-appellants, Mark Neil Demetry, individually and as Administrator of the Estates of his wife, Mary Denise Demetry, and his daughter, Michelle Nicole Demetry, appeal the declaratory judgment of the Franklin County Court of Common Pleas which determined that defendants-appellees, Bobby J. Kim and Meridian Mutual Insurance Company (“Meridian”), were liable for wrongful death damages only up to the “per person” limits of appellants’ automobile insurance policy. Appellants’ single assignment of error states:
+“The trial court committed reversible error by awarding judgment for defendant-appellee Meridian Mutual Insurance Company where such judgment was based on the improper application of ‘per-person’ limitations of insurance liability to claims for wrongful death.”
+The facts of this case have been stipulated by the parties. On August 24, 1987, Mary Denise Demetry and her unborn viable child, Michelle Nicole Demetry, were killed in an automobile accident due to the joint negligence of Bobby Jae Kim and Harry C. Price. Mark Demetry was not personally involved in the accident. Kim was insured by a Meridian policy which provided liability limits of $100,000 per person/$300,000 per occurrence. The policy stated:
+“SECTION I — LIABILITY
+“COVERAGE A — Bodily Injury Liability
+“COVERAGE B — Property Damage Liability
+“We will pay damages under:
+“Bodily Injury Liability coverage for bodily injury * * * for which any insured person is legally liable arising out of the ownership, maintenance or use of your insured auto, utility trailer, or a non-owned auto. * * *
+“1. The bodily injury liability limit for ‘each person’ is the maximum we will pay for bodily injury sustained by one person in one occurrence.
+“2. Subject to the bodily injury liability limit for ‘each person’, the bodily injury liability limit for ‘each occurrence’ is the maximum we will pay for bodily injury sustained by two or more persons in one occurrence * * (Emphasis and footnote added.)
+Legal proceedings were commenced by appellants against the two tortfeasors. The claims against Price were resolved in separate proceedings. Thus, only appellants’ claims regarding the extent of appellees’ joint and several liability to appellants were the subject of the declaratory judgment action at the trial court.
+The lawsuit filed by appellants against appellees was settled by agreement among the parties on December 27, 1988. Meridian paid on behalf of Kim the “per person” limit of $200,000 for the bodily injury sustained by both of appellants’ decedents in the accident. The settlement agreement was executed prior to the release of Cincinnati Ins. Co. v. Phillips (1989), 45 Ohio St.3d 602, 544 N.E.2d 274 (“Cincinnati /”), which was pending at the Supreme Court. Thus, the agreement specifically provided, in addition to the requirement that Meridian pay $100,000 for the wrongful death of Mary Demetry, and $100,000 for the death of Michelle Demetry:
+“2. A total of $100,000 additional to be paid by Meridian Mutual Insurance Company as insurer for Bobby Jae Kim and Jason Chang to Mark Neil Demetry, as Administrator of the Estates of Mary Denise Demetry and Michelle Nicole Demetry, within 30 days from the date that the Ohio Supreme Court clarifies its holding in Wood v. Shephard * * * [in Cincinnati /], to hold that each person entitled to recover damages pursuant to Revised Code Section 2125.02 for a survival or wrongful death action has a separate claim and such separate claims may not be made subject to the single-person limit of liability in the liability coverage of an automobile insurance policy.
+a * * *
+“4. In the event that * * * the parties hereto cannot agree on the position of the Ohio Supreme Court after its ruling in Cincinnati v. Phillips, then either party to this Covenant and Agreement shall be entitled to commence a Declaratory Judgment action to resolve the issue. The only issue to be resolved in that Declaratory Judgment action would be whether or not Bobby Jae Kim and Jason Chang had a total of $200,000 worth of insurance coverage available from Meridian Mutual Insurance Company to satisfy claims in the instant automobile accident which occurred on or about August 24, 1987. Specifically, since Bobby Jae Kim and Jason Chang had $100,000/$300,000 liability coverage at the time of the accident of August 24,1987, * * * the sole and remaining issue in the Declaratory Judgment action would be whether or not Wood v. Shephard will be extended to liability insurance cases and therefore require Meridian Mutual Insurance Company to have available an additional $100,000 in insurance coverage to its insured, Bobby Jae Kim and Jason Chang, for the claims for wrongful death under the circumstances of this particular automobile accident * *
+The court held in Cincinnati I that the “per person” limit of appellants’ insurance policy applied to all damages suffered by those actually in the accident, including appellants’ separate statutory wrongful death actions. However, the Supreme Court granted a rehearing of Cincinnati I on September 20, 1989. Accordingly, the declaratory judgment action which resulted in this appeal was filed by appellants pursuant to the settlement agreement on September 29, 1989, to determine whether Kim’s policy provided appellants with additional coverage of $100,000 under the “per occurrence” limit.
+Prior to the trial court’s determination in the declaratory judgment action, the Supreme Court reversed Cincinnati I in the reconsideration decision of Cincinnati Ins. Co. v. Phillips (1990), 52 Ohio St.3d 162, 556 N.E.2d 1150 (“Cincinnati II”), on February 13, 1990.
+Thus, at the time of appellants’ declaratory judgment action, Cincinnati II was the latest pronouncement by the Supreme Court on the subject of whether separate wrongful death claims against an insured tortfeasor may be made subject to a single-person limit of liability in an automobile insurance policy.
+The policy language construed in Cincinnati II was substantively identical to Meridian’s policy language in the instant case. The liability policy issued by the Cincinnati Insurance Company also stated:
+“ ‘LIMIT OF LIABILITY
+“ A2. SPLIT LIABILITY LIMITS.
+“ ‘The limit of liability shown in the Declarations for “each person” for Bodily Injury Liability is our maximum limit of liability for all damages for bodily injury sustained by any one person in any one auto accident. Subject to this limit for “each person” the limit of liability shown in the Declarations for “each accident” for Bodily Injury Liability is our maximum limit of liability for all damages for bodily injury resulting from any one auto accident. The limit of liability shown in the Declarations for “each accident” for Property Damage Liability is our maximum limit of liability for all damages to all property resulting from any one auto accident. This is the most we will pay regardless of the number of:
+“ ‘1. Covered Persons * * *
+“ ‘2. Claims made * * (Emphasis added.) Cincinnati II, 52 Ohio St.3d at 164, 556 N.E.2d at 1152.
+In Cincinnati II, the court specifically reversed Cincinnati I and extended the rule of Wood v. Shepard (1988), 38 Ohio St.3d 86, 526 N.E.2d 1089, to wrongful death cases involving insured tortfeasors, as well as uninsured or underinsured tortfeasors. Thus, the court ruled that an insurance carrier can restrict coverage for wrongful death claims to the per occurrence liability limit, but not to the per person liability limit. Cincinnati II, 52 Ohio St.3d at 166, 556 N.E.2d at 1153.
+Although the majority opinion in Cincinnati II did not overtly overrule Burris v. Grange Mut. Cos. (1989), 46 Ohio St.3d 84, 545 N.E.2d 83, that case was inapplicable to the determination of the declaratory judgment action in this case for two reasons. First, the Supreme Court’s most recent interpretation of policy language identical to Meridian’s was in Cincinnati II. We are therefore bound to follow that case despite the fact that it is a split per curiam opinion without a syllabus. Thus, the trial court’s reliance on Burris to declare the $300,000 “per occurrence” limitation in appellees’ insurance policy inapplicable to provide appellants with additional coverage with which to satisfy the wrongful death claims was erroneous.
+Second, although the separate opinion of Justice Brown in Cincinnati II, in which Chief Justice Moyer and Justices Wright and Holmes concurred, stated that an insurance carrier could effectively limit liability for wrongful death to per person limits with more precise language, these four justices determined that the aforequoted language in the Cincinnati policy was insufficient to achieve that result. Cincinnati II, 52 Ohio St.3d at 167, 556 N.E.2d at 1154. Thus, a majority of the court interpreted “per person” liability limits “for” bodily injury, rather than “arising out of” bodily injury, as insufficient to limit the recovery of statutory wrongful death beneficiaries. Cincinnati II, at 167, 556 N.E.2d at 1154. Thus, we conclude that identical language in the Meridian policy at issue in this case was likewise insufficient to limit appellees’ liability to the “per person” limitation.
+Appellants’ assignment of error is sustained. The judgment of the trial court is reversed and the case is remanded to the trial court for further procedure consistent with this opinion.
+Judgment reversed and case remanded.
+Peggy Bryant and Hooper, JJ., concur.
+James J. Hooper, J., retired, of the Miami County Common Pleas Court, was assigned to active duty pursuant to Section 6(C), Article IV, Ohio Constitution.
+. "Bodily injury” is defined in the Meridian policy as "injury to or sickness, disease or death of a person including care and loss of services.” (Emphasis added.)
