@@ -1,0 +1,25 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-07-15"
+citations: ["7 Ohio Law Abs. 509"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards and Lloyd, JJ, concur."]
+parties: ["GALLIPOLIS (City) v GALLIA COUNTY FAIR CO"]
+source_url: "https://static.case.law/ohio-law-abs/7/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632152
+cites_cases: ["38 OS. 87", "52 OS. 460"]
+---
+
+# Gallipolis (City) v. Gallia County Fair Co.
+
+## Majority (MAUCK, J.)
+
+MAUCK, J.
+Our conclusions in the case so nearly coincide with those of the Common Pleas Court that we would adopt the well reasoned and well expressed views of that court as our own were it not for important facts first brought out in the hearing before this court.
+The first question arises upon the plaintiff’s demurrer to the second defense of the answer. Does the fact that the defendant and its predecessors in title have occupied a part of the roadway for more than twenty one years by enclosing the same and erecting buildings thereon vest them with such title as to bar the plaintiff from now asserting a right of possession to the street? The question of just how far the public is barred by limiting statutes from asserting its legal rights to public places is not entirely clear. Some of the earlier cases that applied the statute of limitations against municipal corporations, for instance, have been in later years criticised by the Supreme and other courts to the extent that their authority is seriously impaired. I Ohio Jurisprudence 536, et seq. In this case, however, the possession against the city would have to be tacked to the possession against the township trustees and county commissioners to accomplish the twenty one year period, and however the rule may be as to municipal corporations we are unaware of any authority stronger or later than Oxfor twp. v Columbia, 38 OS. 87, that holds that a quasi corporation such as township trustees and county commissioners is subject to statutes of limitations in asserting rights to property for which they are trustees, and the Oxford Township case, at least so far as the case at bar is concerned, is avoided by .the subsequent case of Heddleston v. Hendricks, 52 OS. 460. We say that the Oxford Township ease is avoided by the Heddleston case rather than overruled because the latter case develops a particular reason why statutes of limitations do not run against encroachment on highways, and that reason is that such encroachments constitute a statutory nuisance by virtue of what is now Section 13421 GC. It is argued that the Heddleston case should be limited by the facts thereof and that the letter of that case only determines that the public is not barred by an encroaching fence. The underlying principle, however, is broad enough to cover the facts of the case at bar. If an encroaching fence can not ripen into a right because the statute denounces the fence as a nuisance, surely an encroaching building similarly denounced by the same statute is likewise a nuisance and as such never ripens into a right. The second defense is not good. The demurrer to it is sustained.
+Coming then to. consider the case upon the issues joined between the petition and the first defense of the answer we are to determine the location, and the width of the highway on which the fair grounds front.
+The case then stands thus. The road from Gallipolis to a point opposite Pt. Pleasant established in 1805 was sixty-six feet wide. The road located in 1810, known as the Gallipolis and Athens road, was of no prescribed width so far as the records show. Both roads ran in the same general direction and there is no evidence that there were ever two roads opened up and, of course, it is beyond reason that there were ever two such roads. How and when the road was located where it now is at a point between the 1805 survey and the 1810 survey is unknown. By virtue of the 1805 survey we know that the road a quarter of a mile below the fair grounds was sixty-six feet wide and approximately three quarters of a mile above the fair grounds was of the same width. In addition the deeds to the fair grounds, as shown by Judge Whitcraft, indicate with some degree of certainty such a. center for the road as would make the road approximately sixty-six f-°t wide and that the encroachments resulting from finding the width to be sixty-six feet are all on that side of the road upon which the fair’ grounds are located. From this we conclude that whenever and however the road was changed from the original 1805 survey detouring around what is now the fair grounds and running straight ahead to intersect that survey in front of what is now the fair grounds the short cut thereby afforded was made of the same width that the road was at the two termini of the short cut. We find the petition to be true and a like entry will be made in this court as was made in the Common Pleas.
+Richards and Lloyd, JJ, concur.
