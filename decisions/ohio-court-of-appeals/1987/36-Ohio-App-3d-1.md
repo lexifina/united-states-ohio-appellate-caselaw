@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "86AP-728"
+decided: "1987-02-26"
+citations: ["36 Ohio App. 3d 1"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Strausbaugh, P.J., and Reilly, J., concur."]
+parties: ["State Employment Relations Board, Appellant and Cross-Appellee, v. Ohio State University, Appellee and Cross-Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/36/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712642
+cites_cases: ["16 Ohio Law Abs. 722", "192 N.E. 180", "47 Ohio App. 519"]
+---
+
+# State Employment Relations Board v. Ohio State University
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+This case is on appeal from a judgment of the Franklin County Court of Common Pleas reversing an order of the State Employment Relations Board (“SERB”).
+Pamela S. Riedinger was employed by Ohio State University (“OSU”) in the College of Nursing, Department of Continuing Education, as a Secretary I. On October 19, 1983, she got into an argument with her supervisor, Lois Shriver. On October 20, 1983, Riedinger joined the Communications Workers of America (“CWA”) in order to resolve her grievance with Shriver. Subsequently, she dropped her grievance. On January 26, 1984, Riedinger met with Dr. Strauss regarding her job evaluation. The draft evaluation that Dr. Strauss presented indicated poor performance by Riedinger. Riedinger then met with her CWA steward, Gary Josephson. She wanted Josephson to represent her at her continued evaluation talks with Dr. Strauss. However, this request was denied by OSU. On January 27,1984, Riedinger again met with Dr. Strauss where she was given additional time to reply to her job evaluation. Finally, on February 7, 1984, Dr. Strauss met with Riedinger and gave her the final evaluation, which still indicated poor performance. Dr. Strauss stated that any comments would be due on February 29, 1984.
+Immediately after meeting with Dr. Strauss on February 7, Riedinger went to Means Hall and resigned. She was told to personally deliver a letter of resignation to her supervisor. After handing Shriver the letter, Riedinger packed her desk and left. Several hours later, Riedinger attempted to revoke her resignation by submitting a letter requesting a six-month leave of absence. Having received inconsistent responses from Riedinger, OSU contacted legal counsel. Counsel informed OSU that Riedinger’s resignation was effective immediately and, therefore, the university need not accept her later revocation.
+From February 7, 1984 until February 22, 1984, Riedinger called in sick on a daily basis. On March 9,1984, she was informed by Josephson that her request for a leave of absence was denied and her resignation was accepted. Therefore, on March 22, 1984, she filed an appeal from the order of removal with the State Personnel Board of Review (“SPBR”). Subsequently, the SPBR determined that Riedinger’s resignation was voluntary. Upon appeal, the common pleas court found that the SPBR’s order was supported by reliable, substantial and probative evidence. Upon further appeal, this court, in Riedinger v. Ohio State Univ. (Apr. 22, 1986), No. 85AP-1044, unreported, affirmed the decision of the common pleas court.. We held that Riedinger’s resignation was valid because she had no right to revoke it. Although OSU could have permitted the revocation and reinstated her, it had no obligation to do so. Therefore, this court affirmed the holding that the resignation was voluntary.
+On April 1, 1984, many parts of R.C. Chapter 4117, public employees collective bargaining, became effective. Specifically, R.C. 4117.11, unfair labor practice, became effective on that date.
+On May 16, 1984, Riedinger alleged an unfair labor practice against OSU pursuant to R.C. 4117.11. On October 31, 1984, SERB held that there was probable cause to believe that an unfair labor practice had occurred and it therefore issued a complaint. Thereafter, on April 4,1985, a hearing was held to determine if OSU had violated R.C. 4117.11. On October 30, 1985, SERB issued its final order and opinion, holding that OSU had violated R.C. 4117.11(A)(1) and (3). SERB determined that it was the only state agency to investigate an unfair labor practice and, thus, collateral estoppel and res judicata were not applicable. OSU appealed this decision to the common pleas court. On June 30,1986, the court reversed, holding that the doctrine of collateral estoppel did apply. Further, the court held that, as of March 22, 1984, Riedinger was aware of her resignation, since she appealed it to SPBR. Therefore, SERB had no jurisdiction, as R.C. 4117.11 was not yet effective on March 22,1984. SERB has now appealed to this court, raising the following assignments of error:
+“1. The lower court erred in not holding that the Ohio State University had committed an unfair labor practice by violating R.C. 4117.11(A)(1) and (3).
+“2. The lower court erred in holding that the acts which were the basis of the unfair labor practice charges in the instant appeal occurred prior to April 1, 1984, the effective date of Ohio’s Public Employee[s] Collective Bargaining Act.
+“3. The lower court erred in holding that the doctrine of res judicata and/or collateral estoppel precluded the State Employment Relations Board from reviewing Pamela S. Riedinger’s resignation and its attendant circumstances where her resignation had been held to be valid by the State Personnel Board of Review and the reviewing courts.”
+OSU has also raised three cross-assignments of error, as follows:
+“ 1. The court below erred by failing to hold that the evidence presented to the board was insufficient to support the board’s finding that the university had committed an unfair labor practice.
+“2. The court of common pleas erred in failing to hold that the ruling of the SERB must be reversed and vacated due to its lack of jurisdiction.
+“3. The court below erred in not ruling that the order of the SERB is invalid in that the board and the members thereof met and conferred with respect to the final decision, opinion and order upholding the recommendation of the hearing officer and rejecting exceptions taken thereto in other than a public meeting as required by R.C. 121.22.”
+We will first address SERB’s second assignment of error, as it is dispositive of this case.
+SERB argues that the lower court erred in holding that the unfair labor practice occurred prior to April 1, 1984. R.C. 4117.11(A)(1), effective April 1, 1984, provides:
+“(A) It is an unfair labor practice for a public employer, its agents, or representatives to:
+“(1) Interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in Chapter 4117. of the Revised Code or an employee organization in the selection of its representative for the purposes of collective bargaining or the adjustment of grievances]!]”
+R.C. 4117.12(B) provides, in part:
+“* * * The board may not issue a notice of hearing based upon any unfair labor practice occurring more than ninety days prior to the filing of the charge with the board, unless the person aggrieved thereby is prevented from filing the charge by reason of service in the armed forces, in which event the ninety-day period shall be computed from the day of his discharge. * * *” (Emphasis added.)
+R.C. 4117.12(B) was, likewise, effective on April 1,1984. By enacting a ninety-day statute of limitations, the legislature intended to require employees to seek redress promptly.
+SERB argues that OSU committed an unfair labor practice by continually violating its duty to provide due process (notice) to employees affected by an adverse personnel action. For the following reasons, we disagree with this argument.
+OSU was under no duty to provide notice after February 7, 1984. Riedinger submitted a voluntary resignation which was accepted by the employer. To constitute the complete and operative resignation of a public officer, there must be an intention to relinquish part of the term accompanied by an act of relinquishment. State, ex rel. Staley, v. Lakewood (1934), 47 Ohio App. 519, 16 Ohio Law Abs. 722, 192 N.E. 180, paragraph three of the syllabus. Here, there was both an intent to relinquish (the letter of resignation) accompanied by an act of relinquishment (packing her desk and leaving). In addition, our holding that OSU had no duty after February 7, 1984 is consistent with our earlier decision in Riedinger v. Ohio State Univ., supra.
+In any event, Riedinger did have notice prior to April 1,1984. On March 9, 1984, her union steward informed her that OSU had accepted her resignation. On March 22,1984, she filed an appeal with SPBR. Riedinger thus followed the procedure for grievances existing prior to April 1,1984. Clearly, her actions evidenced notice that her resignation was accepted.
+Since all of the events which could conceivably constitute an unfair labor practice occurred prior to the effective date of the statute, SERB was without jurisdiction to hear this case. Accordingly, SERB’S second assignment of error is overruled.
+Having determined that the lower court was correct in reversing on the grounds that SERB was without jurisdiction to hear this case, we need not address the other issues raised by this appeal. SERB’S assignments of error are, thus, overruled. Since OSU’s cross-assignments of error are predicated upon our sustaining of SERB’s assignments of error, we dismiss OSU’s assignments of error as moot.
+Judgment affirmed.
+Strausbaugh, P.J., and Reilly, J., concur.
