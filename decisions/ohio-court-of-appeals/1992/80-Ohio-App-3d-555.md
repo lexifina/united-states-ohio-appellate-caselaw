@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA91-12-212"
+decided: "1992-06-08"
+citations: ["80 Ohio App. 3d 555"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, P.J., concurs.", "Walsh, J., concurs separately."]
+parties: ["GETTYSBURG HOMEOWNERS ASSOCIATION, Appellant, v. ELLENBURG CAPITAL CORPORATION, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/80/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674114
+cites_cases: ["1991 WL 3810", "53 Ohio App.3d 20", "557 N.E.2d 804"]
+---
+
+# Gettysburg Homeowners Ass'n v. Ellenburg Capital Corp.
+
+## Majority (Koehler, Judge.)
+
+Koehler, Judge.
+Plaintiff-appellant, Gettysburg Homeowners Association, appeals a decision of the Butler County Area III Court granting an application by defendantappellee, Ellenburg Capital Corporation, for release of rent payments deposited with the court.
+The record indicates that appellant is an unincorporated association formed by one hundred six tenants of the Gettysburg Estates Community mobile home park in West Chester, Ohio. Appellee owns and operates the park.
+On August 6, 1991, appellant sent to appellee one hundred six separate documents styled “Notice of Park Operator’s Breach of Obligation,” each relating to a lot in the park. The notices each cited thirteen Ohio Administrative Code sections that were allegedly being violated by appellee and stated that if the violations were not corrected within thirty days, the rent due for each tenant would be deposited with the court pursuant to R.C. 3733.10 and 3733.12.
+No corrective action was taken within the thirty-day period and on September 6, 1991, appellant deposited the tenants’ rent with the court. On September 19, 1991, appellee filed an application for release of the deposited rent on several grounds, including insufficiency of the notices. Pending a decision on appellee’s application, appellant deposited rent payments with the court on October 6 and November 6, 1991.
+A hearing on appellee’s application for release of the rent was held on October 4, 1991. On November 8, the court granted appellee’s application on the basis that the notices were not sufficiently specific to apprise appellee of the nature of the alleged violations and that, therefore, the court did not have jurisdiction to continue to hold the rent payments. Appellant brings the instant appeal, setting forth the following sole assignment of error:
+“The trial court erred to the material prejudice of the appellants in finding that the Area III Court did not have jurisdiction due to the original defective notices sent by the Appellant.”
+Appellant argues that the notices were sufficiently specific to invoke the court’s jurisdiction to hold the escrowed rent. R.C. 3733.10, governing the obligations of a manufactured home park operator, provides in part, the following:
+“(A) A park operator who is a party to a rental agreement shall:
+“(1) Comply with the requirements of all applicable building, housing, health, and safety codes which materially affect health and safety and rules of the public health council;
+“(2) Make all repairs and do whatever is reasonably necessary to put and keep the premises in a fit and habitable condition;
+“(3) Keep all common areas of the premises in a safe and sanitary condition;
+“(4) Maintain in good and safe working order and condition all electrical and plumbing fixtures and appliances, and septic systems, sanitary and storm sewers, refuse receptacles, and well and water systems that are supplied or required to be supplied by him * * *[.]”
+R.C. 3733.12, addressing a resident’s remedies for an operator’s noncompliance with the obligations set forth in R.C. 3733.10, provides in part as follows:
+“(A) If a park operator fails to fulfill any obligation imposed upon him by section 3733.10 of the Revised Code or by the rental agreement, or the conditions of the premises are such that the resident reasonably believes that a park operator has failed to fulfill any such obligations, or a governmental agency has found that the premises are not in compliance with building, housing, health, or safety codes which apply to any condition of the residential premises that could materially affect the health and safety of an occupant, the resident may give notice in writing to the park operator specifying the acts, omissions, or code violations that constitute noncompliance with such provisions. The notice shall be sent to the person or place where rent is normally paid.
+“(B) If a park operator receives the notice described in division (A) of this section and after receipt of the notice fails to remedy the condition within a reasonable time, considering the severity of the condition and the time necessary to remedy such condition, or within thirty days, whichever is sooner, and if the resident is current in rent payments due under the rental agreement, the resident may do one of the following:
+“(1) Deposit all rent that is due and thereafter becomes due the park operator with the clerk of court of the municipal or county court having jurisdiction in the territory in which the residential premises are located * * *r
+Finally, R.C. 3733.122, governing application for release of rent, states, in part, the following:
+“(A) A park operator who receives notice that rent due him has been deposited with a clerk of court pursuant to section 3733.12 of the Revised Code, may:
+U * * *
+“(2) Apply to the court for release of the rent on the grounds that the resident did not comply with the notice requirement of division (A) of section 3733.12 of the Revised Code, or that the resident was not current in rent payments due under the rental agreement at the time the resident initiated rent deposits with the clerk of courts under division (B)(1) of section 3733.12 of the Revised Code * * *[.]”
+Thus, the statutory scheme contemplates notice sufficiently specific to enable the park operator to discern the nature of the alleged problem and to remedy the problem within a reasonable period of time. R.C. 3733.12. The provisions of R.C. 3733.12(A) have been construed to require notice of “specific instances” of the park operator’s failure to fulfill its statutory obligations as a prerequisite to the court being able to continue to hold the deposited rent. R.C. 3733.12(A); Woodlake Assn. v. Heringhausen (Jan. 18,1991), Wood App. No. WD-89-27, unreported, 1991 WL 3810.
+In the instant case, the trial court did not err in finding the notices sent by appellant to be insufficiently specific. The notices contained no specific instances of acts or omissions that allegedly constituted violations of appellee’s statutory duties. Instead, appellant merely cited numerous sections of the Ohio Administrative Code as asserted violations.
+Appellant argues that these citations were sufficient to apprise appellee of the alleged violations. We do not find this argument to be persuasive. While the citations may have informed appellee of the general nature of the alleged violation, they did not give any indication of the specific problems such as to enable appellee to remedy them. For example, appellant cited Ohio Adm.Code 3701-27-24 as one of the claimed violations. That section provides the following:
+“(A) Electrical systems in mobile home parks shall be installed and maintained in accordance with applicable provisions of the national electric code, local electrical codes and the approved plans. Such systems shall include all electrical wiring and connections from the mobile home to the connection box provided by the park operator. It shall be a responsibility of the mobile home park operator to assure compliance of the installation and maintenance of all electrical connections and exposed cables with pertinent codes. * * * ”
+As appellee notes, the breadth of this section renders a determination of the specific alleged violations impracticable. The record indicates that the National Electric Code referred to in Ohio Adm.Code 3701-27-24 is alone nearly one thousand pages long and embodies a highly complex set of requirements and standards for electrical systems. The fact that this code is only one such authority referred to in the Administrative Code section provides some insight into the difficulty that a park operator would experience in attempting to discern the nature of a tenant’s complaint from a bare citation to the Administrative Code. Thus, even though R.C. 3733.12(A) speaks in terms of “code violations” it cannot be construed as requiring only a citation to a code section.
+Appellant further contends, however, that if greater specificity than a citation to a code section were required, it would place an undue burden on the tenant. It is appellant’s position that a requirement of specificity would necessitate the hiring of an expert to determine the nature of the problem, in order for the tenant to be able to properly apprise the park operator of the violation.
+Appellant’s argument is not well taken. Though R.C. 3733.12 is to be construed as requiring notice of “specific instances” of the asserted deficiencies, it does not require the tenant to provide a technical description of the alleged violation. The notice must, nonetheless, set forth sufficient facts to enable the park operator to undertake steps to remedy the violations, as envisioned in the statutory scheme described above. See R.C. 3733.12(B). We do not deem this requirement to be unduly burdensome.
+Because the notices in the instant case did not sufficiently apprise appellee of the nature of the alleged violations, we conclude that the trial court properly granted appellee’s application for release of the deposited rent. Accordingly, appellant’s sole assignment of error is overruled.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Jones, P.J., concurs.
+Walsh, J., concurs separately.
+
+## Concurrence (Walsh, Judge,)
+
+Walsh, Judge,
+concurring separately.
+I concur in the result reached by this court on these facts. However, the trial court made an error of law when it assessed costs against appellant (the residents) as such cost assessment is in accord with neither the statutory scheme nor the case law. See R.C. 3733.122(C); Woodside Terrace Mobile Home Owners Assn. v. Woodside Terrace Co. (1988), 53 Ohio App.3d 20, 23, 557 N.E.2d 804, 808.
