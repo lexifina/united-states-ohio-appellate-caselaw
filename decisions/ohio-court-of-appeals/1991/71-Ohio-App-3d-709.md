@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+docket: "90-P-2215"
+decided: "1991-04-02"
+citations: ["71 Ohio App. 3d 709"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Christley and Nader, JJ., concur."]
+parties: ["DECKER et al., Appellees, v. BAYLESS et al.; Polifrone et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/71/cases/0709-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1467716
+cites_cases: ["137 Ohio St. 448", "16 O.O.3d 169", "162 N.E.2d 852", "170 Ohio St. 85", "19 O.O. 148", "2 O.O.3d 484", "21 OBR 264", "21 Ohio App.3d 247", "283 U.S. 494", "31 N.E.2d 855", "35 Ohio St.3d 157", "358 N.E.2d 610", "361 N.E.2d 1363", "4 O.O.3d 100", "404 N.E.2d 144", "450 N.E.2d 1140", "48 Ohio St.2d 372", "486 N.E.2d 1224", "5 OBR 481", "5 Ohio St.3d 217", "50 Ohio App.2d 129", "513 F.2d 407", "519 N.E.2d 390", "62 Ohio St.2d 151", "67 N.E. 152", "68 Ohio St. 89", "9 O.O.2d 480"]
+---
+
+# Decker v. Bayless
+
+## Majority (Ford, Presiding Judge.)
+
+Ford, Presiding Judge.
+This appeal emanates from a jury verdict which was set aside by an order for a new trial.
+On May 26, 1987, Michael Bayless, Stanley Hurst, and appellant Darren Polifrone were traveling around Portage County in a car driven by appellant Polifrone. A .22 caliber gun was randomly discharged from the car window at various roadside targets.
+While driving on Infirmary Road, a residential road, appellants discharged a gun from the car. The bullet passed through the front door of Thomas and Jeanine Decker’s (appellees’) residence, and struck one of the children, appellee Adam Decker, in the arm, who was inside the home.
+After a police investigation of the drive-by shootings, all three occupants of the car were arrested. Thereafter, appellees Thomas, Jeanine, and Adam filed a complaint against these three individuals, as well as appellant Polifrone’s mother, Betty Wanchick, because Polifrone was a minor at the time of the shooting.
+The matter was arbitrated, appealed, and eventually tried before a jury. The jury rendered a verdict in favor of appellees against Bayless, Hurst, and appellant Polifrone. However, no liability was found as against appellant Wanchick.
+There were separate verdict forms for each of the defendants. $10,000 compensatory and $8,000 punitive damages were assessed against appellant Polifrone. Likewise on a separate form, the jury imposed a $10,000 compensatory and $8,000 punitive award against Hurst. Finally, the jury also awarded $10,000 compensatory and $4,000 punitive damages against Bayless.
+In the hearing to journalize the verdict, the court prepared a judgment entry reflecting compensatory damages against Bayless, Hurst, and appellant Polifrone in the total sum of $10,000. The entry further reflected punitive damages against Bayless for $4,000, against Hurst for $8,000 and against appellant Polifrone for $8,000. Appellees’ counsel advocated that the compensatory damages should be aggregated in the total amount of $30,000, and refused to accept the judgment as set forth in the entry.
+Accordingly, the trial court determined that it had erroneously submitted improperly prepared verdict forms to the jury. Based upon the error, the court ascertained that it was unable to interpret the amount of the compensatory damages awarded by the jury to appellees, and ordered the case to be retried.
+Only appellants Wanchick and Polifrone appeal, raising the following assignment of error:
+“The trial court erred in its order of June 4, 1990, wherein it sua sponte ordered the case to be retried.”
+In the sole assignment of error, appellants maintain that the trial court erred by ordering a new trial.
+At the outset it should be noted that the only issue properly before this court is whether or not a retrial based on the confusion regarding the amount of the compensatory damages was an abuse of the trial court’s discretion. Appellant Polifrone does not contend that the jury’s verdict as it pertains to the issue of liability is erroneous, nor is it presented as an assignment of error on appeal. Therefore, it is not necessary to retry the liability aspect of the jury verdict against any of the appellants. App.R. 12(A).
+Additionally, inasmuch as the confusion regarding the verdict forms lies with the compensatory damages portion of the award, there is also no basis upon which to retry the punitive damages rendered by the jury, since apportionment of punitive damages is permitted under Ohio law. Mauk v. Brundage (1903) 68 Ohio St. 89, 67 N.E. 152; Alessio v. Hamilton Auto Body, Inc. (1985), 21 Ohio App.3d 247, 21 OBR 264, 486 N.E.2d 1224. Furthermore, the amount of the punitive awards was neither appealed by appellants nor cross-appealed by appellees. Accordingly, pursuant to App.R. 12(A):
+“ ‘Errors not specifically pointed out in the record and separately argued by brief may be disregarded.’ ” State v. Rivers (1977), 50 Ohio App.2d 129, 134, 4 O.O.3d 100, 103, 361 N.E.2d 1363, 1367.
+At the conclusion of its charge, the trial court, without objection, submitted four verdict forms (one for each defendant) to the jury. The court also instructed the jury on joint and several liability as to Bayless, Hurst and appellant Polifrone.
+The jury found in favor of appellees, and assessed compensatory and punitive damages against Bayless, Hurst and appellant Polifrone. The jury did not award any damages against appellant Wanchick.
+Due to the separate verdict forms and the instructions on joint and several liability, it was not clear whether the amount contained in the verdict forms set out the total compensatory damage award or separately listed such award according to each individual’s culpability.
+At the final hearing to settle the judgment entry, the discrepancy became apparent when appellees’ counsel indicated to the court that the compensatory damages should be aggregated in the total amount of $30,000. However, the court’s proposed entry set forth a total compensatory award of $10,000 against all three defendants.
+At this point, the trial court found itself in the awkward predicament of not being able to interpret the compensatory damages portion of the verdict forms and, therefore, properly ordered a new trial.
+Civ.R. 59 provides that a new trial may be granted as to any or all of the parties and on part or all of the issues based upon nine specific reasons. Additionally, Civ.R. 59 provides that “a new trial may also be granted in the sound discretion of a court for good cause shown.”
+“The term ‘abuse of discretion’ connotes more than an error of law or of judgment; it implies that the court’s attitude is unreasonable, arbitrary or unconscionable. Steiner v. Custer (1940), 137 Ohio St. 448 [19 O.O. 148, 31 N.E.2d 855]; Conner v. Conner (1959), 170 Ohio St. 85 [9 O.O.2d 480, 162 N.E.2d 852]; Chester Township v. Geauga Co. Budget Comm. (1976), 48 Ohio St.2d 372 [2 O.O.3d 484, 358 N.E.2d 610].” State v. Adams (1980), 62 Ohio St.2d 151, 157-158, 16 O.O.3d 169, 173, 404 N.E.2d 144, 149. Accord Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 5 OBR 481, 450 N.E.2d 1140.
+Upon granting a new trial, Civ.R. 59 requires that the court clearly indicate in its entry the reasons for granting a new trial. The court stated:
+“Attorney for Plaintiffs does not accept the entry and therefore the court finds that the verdict forms having been improperly prepared and submitted to the jury, the court is unable to interpret the amount of compensatory damages awarded by the jury * * * the case is ordered to be retried.”
+Since the court admitted that it could not interpret the jury’s compensatory award as set forth in the verdict, it would be improper for the court to speculate on a matter that could easily be determined in either parties’ favor.
+The trial court’s attitude was not unreasonable or arbitrary and, as such, there was no abuse of discretion, and good cause was shown.
+It should be reiterated that since the confusion in this case lies only with the amount of compensatory damages awarded against Bayless, Hurst, and appellant Polifrone, the verdict in favor of appellant Wanchick remains in place because there was no damage award assessed against her. We recognize that such a dichotomy or separation of issues and parties in a new trial should be approached cautiously. However, where the analysis providing the basis for such demarcation is unequivocal, there should be no hesitation in fractionalizing the questions and participants in the retrial. The following reference demonstrates that the United States Supreme Court has aptly made this point: “[T]he Supreme Court has cautioned, the power to grant a partial new trial ‘may not properly be resorted to unless it clearly appears that the issue to be retried is so distinct and separable from the others that a trial of it alone may be had without injustice.’ ” Camalier & Buckley-Madison, Inc. v. Madison H., Inc. (D.C.1975), 513 F.2d 407, 421 (citing Gasoline Products Co. v. Champlin Refining Co. [1931], 283 U.S. 494, 500, 51 S.Ct. 513, 515, 75 L.Ed. 1188, 1191).
+Furthermore, the record here does not indicate that there was any confusion on the part of the jury, counsel, or the court as to the issues of liability or punitive damages; nor does it appear that they were so intertwined in this context with the issue of compensatory damage that the rationale of Camalier is not applicable, and that it cannot be bifurcated. We also do not speculate as to what a new jury may do as to the compensatory damage issue. It is our position that this issue of punitive damages has been determined to be without error, and therefore stands as the law of the case on that point. Hawley v. Ritley (1988), 35 Ohio St.3d 157, 160, 519 N.E.2d 390, 393.
+Therefore, the trial court’s judgment as it applies generally to appellant Wanchick is reversed as to a retrial against her. Further, it is reversed as to a retrial on the liability issue against Bayless, Hurst, and appellant Polifrone. Additionally, the case is reversed as to a retrial on the apportioned punitive damages assessed against Bayless, Hurst, and appellant Polifrone.
+Accordingly, the case is affirmed only on a retrial of the issue of compensatory damages with respect to Bayless, Hurst, and appellant Polifrone.
+Judgment accordingly.
+Christley and Nader, JJ., concur.
