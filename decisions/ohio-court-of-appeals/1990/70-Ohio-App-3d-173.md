@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "14563"
+decided: "1990-10-31"
+citations: ["70 Ohio App. 3d 173"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baird and Cirigliano, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. MELTON, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/70/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1465510
+cites_cases: ["10 O.O.3d 340", "10 Ohio St.2d 230", "20 OBR 215", "20 Ohio App.3d 172", "227 N.E.2d 212", "38 Ohio St.3d 346", "383 N.E.2d 132", "39 O.O.2d 366", "40 Ohio St.3d 277", "485 N.E.2d 717", "528 N.E.2d 910", "533 N.E.2d 682", "56 Ohio St.2d 169"]
+---
+
+# State v. Melton
+
+## Majority (Reece, Presiding Judge.)
+
+Reece, Presiding Judge.
+Terry Melton, a.k.a. Terrence R. Melton (“Melton”), appeals from his conviction and sentencing in a jury trial upon two counts of drug trafficking and two counts of drug abuse.
+Facts
+Randall Shankel (“Shankel”), under indictment for drug trafficking in November 1989, agreed to cooperate with law enforcement authorities in a drug “sting” operation. Shankel indicated to authorities that Melton could be targeted by this operation, and initially called Melton to ascertain his interest in buying marihuana. Melton had recently been arrested for possession of crack cocaine, and was out on bond. Melton returned Shankel’s call, and the two eventually agreed to a deal. Shankel was to deliver to Melton one and one-half pounds of marihuana and Melton was to pay $2,500. Shankel arranged a meeting for the transaction in the parking lot of a convenience store. The telephone conversation was tape-recorded by police.
+At the designated place and time, Melton and Shankel met; Shankel was equipped with a concealed transmitter, and the ensuing conversation was monitored and tape-recorded by police. Melton was arrested, and some $3,500 in cash was recovered from his pockets and the front seat of his car. An arresting officer, noting Melton’s movements on the seat of the police cruiser, confiscated three small bags later shown to contain cocaine and marihuana.
+Melton was indicted on December 12, 1989, on two counts of trafficking in marihuana, R.C. 2925.03(A)(5) and 2925.03(A)(8), and two counts of drug abuse, R.C. 2925.11. His case was tried to a jury, which returned guilty verdicts on all four counts. The court imposed sentence, and Melton filed the within appeal, raising two assignments of error:
+Assignment of Error I
+“Due process is denied an accused where the conviction has been obtained upon evidence insufficient as a matter of law.”
+Melton broadly alleges that the state presented evidence insufficient to support convictions on each of the counts. Melton’s brief does not specify particular aspects of individual counts; thus, we shall consider each count. Generally, a reviewing court will not reverse a jury verdict where there is substantial evidence upon which a jury could reasonably conclude that the state has proved all elements of an offense beyond a reasonable doubt. State v. Eley (1978), 56 Ohio St.2d 169, 10 O.O.3d 340, 383 N.E.2d 132, syllabus; see State v. Martin (1983), 20 Ohio App.3d 172, 175, 20 OBR 215, 218, 485 N.E.2d 717, 720.
+Regarding the third and fourth counts of the indictment, R.C. 2925.11 states that:
+“(A) No person shall knowingly obtain, possess, or use a controlled substance.”
+The indictment charged that Melton obtained, possessed or used cocaine on October 24, 1989 (Count Three), as well as on November 28, 1989 (Count Four). The jury was presented with evidence that Melton was found by police to have crack cocaine in his possession on two occasions and, in addition, cocaine and marihuana in his possession while sitting in the police cruiser incident to the second arrest.
+Melton testified that the cocaine found in his shirt pocket on the first occasion, and on the seat of the police cruiser on the second occasion, was not his. “[T]he weight to be given the evidence and the credibility of the witnesses are primarily for the trier of the facts.” State v. DeHass (1967), 10 Ohio St.2d 230, 39 O.O.2d 366, 227 N.E.2d 212, paragraph one of the syllabus. Here, the jury was presented with substantial evidence upon which it could reasonably conclude that the state proved each element of drug abuse beyond a reasonable doubt, simply by believing the state’s evidence and disbelieving Melton’s testimony. The assignment of error with regard to the third and fourth counts is not well taken.
+With regard to the second count of the indictment, R.C. 2925.03(A)(8) provides:
+“(A) No person shall knowingly do any of the following:
+<< * * *
+“(8) Provide money or other items of value to another person with the purpose that the recipient of the money or items of value would use them to obtain controlled substances for the purpose of selling or offering to sell such controlled substances in amounts exceeding a bulk amount[.]”
+The state presented evidence that Melton agreed to purchase one and one-half pounds of marihuana from Shankel, and was arrested at the scene of the arranged transaction with some $3,500 in his possession. Melton himself testified regarding Shankel’s status:
+“He’s the middle man. He never had a pound. He was the middle man. I would give him money for an ounce and he would get it. It wasn’t like he would have pounds at his home.”
+And later in his testimony:
+“[Shankel] got in [Melton’s car] on his own free will but I didn’t think he was going to have no pound and a half of marijuana, because he was the middle man. I would have to have money to get whatever he was going to get, so I didn’t think he was going to have this marijuana.”
+Notwithstanding this testimony, it is clear from the record that no money ever changed hands during the transaction. R.C. 2925.03(A)(8) requires that the defendant “[pjrovide money or other items of value to another person ” for the purpose of the recipient thereof obtaining controlled substances to sell or offer tq sell. (Emphasis added.) Melton did not provide money to Shankel; rather, that money was confiscated from the front seat of Melton’s car or from his person. Because Melton could not properly be convicted for violation of R.C. 2925.03(A)(8), for lack of sufficient evidence, we find error with regard to the second count of the indictment.
+With regard to the first count of the indictment, R.C. 2925.03(A)(5) provides:
+“(A) No person shall knowingly do any of the following:
+U * * *
+“Sell or offer to sell a controlled substance in an amount equal to or exceeding the bulk amount[.]” (Emphasis added.)
+The state argues that the statutory definition of “sale” found at R.C. 3719.01(EE) is sufficiently broad to encompass Melton’s potential sale of the marijuana he intended to purchase from Shankel. This future transaction, conditioned upon Melton’s successful acquisition of marihuana from Shankel, is too far removed, and too tentative, to fall within the ambit of R.C. 2925.03(A)(5) and 3719.01(EE).
+Thus, there was not substantial evidence upon which the jury could have reasonably concluded that the elements of the offense were proved beyond a reasonable doubt, and conviction on this count must be reversed. The first assignment of error is sustained as to the first and second counts of the indictment.
+Assignment of Error II
+“The court committed reversible error by permitting evidence of other acts to come into evidence.”
+Melton claims error in the admission of evidence regarding prior acts. Review of the indictment shows that each of the four counts alleged that Melton had a prior conviction for felony drug abuse. Accordingly, the state had the burden of proving these prior convictions.
+Melton does not cite any particular reference to past acts or conduct which he believes caused prejudice to his case, but instead makes a blanket allegation. We have reviewed the record pursuant to State v. Williams (1988), 38 Ohio St.3d 346, 528 N.E.2d 910 and State v. Broom (1988), 40 Ohio St.3d 277, 533 N.E.2d 682, and fail to find support for Melton’s contentions. The second assignment of error is overruled.
+Conclusion
+Based upon the foregoing, the judgment of the trial court is reversed in part, and this cause is remanded for entry of a judgment of acquittal on the first and second counts of the indictment. The judgment of conviction and sentencing upon counts three and four of the indictment are affirmed.
+Judgment accordingly.
+Baird and Cirigliano, JJ., concur.
