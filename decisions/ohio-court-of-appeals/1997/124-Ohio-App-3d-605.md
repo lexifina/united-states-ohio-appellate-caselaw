@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+docket: "95 C.A. 248"
+decided: "1997-12-29"
+citations: ["124 Ohio App. 3d 605"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vukovich, J., concurs.", "Waite, J., dissents."]
+parties: ["CAFARO NORTHWEST PARTNERSHIP, Appellant, v. WHITE et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/124/cases/0605-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 775079
+cites_cases: ["105 Ohio App.3d 559", "107 Ohio App.3d 174", "11 Ohio St.2d 77", "117 Ohio App.3d 198", "1997 WL 39903", "228 N.E.2d 304", "30 OBR 220", "30 Ohio Misc.2d 9", "40 O.O.2d 87", "506 N.E.2d 950", "633 N.E.2d 606", "664 N.E.2d 954", "667 N.E.2d 1283", "690 N.E.2d 78", "91 Ohio App.3d 724"]
+---
+
+# Cafaro Northwest Partnership v. White
+
+## Majority (Gene Donofrio, Presiding Judge.)
+
+Gene Donofrio, Presiding Judge.
+This timely appeal arises out of the trial court’s granting of default judgment for plaintiff-appellant, the Cafaro Northwest Partnership, and setting interest on that judgment at the statutory rate of ten percent per annum.
+Appellant as landlord and appellees as tenants entered into a written lease dated July 26, 1988, for a period of ten years, whereby appellees agreed to lease space in appellant’s shopping mall. Appellees allegedly violated the lease agreement, and appellant filed a lawsuit to collect all unpaid rent and charges, plus prejudgment and postjudgment interest at the rate of eighteen percent per annum.
+After appellees failed to answer the complaint, appellant was granted a default judgment by the trial court and awarded interest on that judgment at the rate of ten percent.
+Appellant alleges one assignment of error:
+“When granting judgment for money past due under a written lease that provides an interest rate on past-due amounts which is ‘the lesser of eighteen percent (18%) per annum or the maximum interest rate permitted by law,’ the court must order postjudgment interest at the rate of eighteen percent (18%) per annum as provided in the lease rather than at the statutory rate of ten percent (10%) per annum, because the judgment creditor is entitled to interest on the judgment at the different rate provided in the written lease and the statutory rate of ten percent (10%) per annum is not the maximum permitted by law, according to R.C. § 1343.03(A).”
+Appellant contends that the trial court erred in ordering interest on the default judgment in an amount less than that agreed upon in the terms of the lease. Specifically, appellant argues that the court erroneously awarded interest at the rate of ten percent when the contract stipulated an interest rate of eighteen percent.
+R.C. 1343.03(A) states:
+“[W]hen money becomes due and payable upon any bond, bill, note, or other instrument of writing, * * * and upon all judgments, decrees, and orders of any judicial tribunal for the payment of money arising out of * * * a contract or other transaction, the creditor is entitled to interest at the rate of ten per cent per annum, except that, if a written contract provides a different rate of interest in relation to the money that becomes due and payable, the creditor is entitled to interest at the rate provided in that contract.”
+The lease states:
+“If Tenant shall fail to pay, when the same is due and payable, any Minimum Rent or any Percentage Rent or other amounts or charges to be paid to Landlord by Tenant as provided in this Lease, such unpaid amounts shall bear interest from the due date thereof to the date of payment at the rate which is the lesser of eighteen percent (18%) per annum or the maximum interest rate permitted by law.”
+This court recently dealt with this precise issue. In Sandusky Mall Co. v. Pet Corner, Inc. (1997), 117 Ohio App.3d 198, 690 N.E.2d 78, and Spotsylvania Mall Co. v. Peau De Peche Cosmetics (Jan. 29, 1997), Mahoning App. No. 95 C.A. 111, unreported, 1997 WL 39903, we held that contract language identical to the language in the instant case allows for an award of postjudgment interest at the rate of eighteen percent. The contracts at issue in both of those cases provided that unpaid amounts were to bear interest from the due date to the date of payment at the rate that was the lesser of eighteen percent per annum or the maximum interest rate permitted by law. We held that such language allows an award of postjudgment interest in excess of the ten percent permitted by statute. We based our decision upon R.C. 1343.03(A), which entitles a creditor to an award of interest from the date the monies become due and payable at the rate provided in the contract, which may be an amount higher than ten percent.
+In P. & W.F., Inc. v. C.S.U. Pizza, Inc. (1993), 91 Ohio App.3d 724, 729, 633 N.E.2d 606, 609, the court gave two guidelines which must be met in order for a judgment creditor to be entitled to an interest rate higher than ten percent:
+“(1) [Tjhere must be a written contract between the parties; and (2) that contract must provide a rate of interest with respect to money that becomes due and payable. For there to be a written contract, there must be a writing to which both parties have assented.”
+The written lease agreement met the foregoing requirements, as it was assented to by both parties and provided for “the lesser of eighteen percent (18%) per annum or the maximum interest rate permitted by law.”
+R.C. 1343.03(A) automatically bestows a right to statutory interest as a matter of law on a judgment, and does not leave any discretion to the trial court to deny such interest. See Dayton Securities Assoc. v. Avutu (1995), 105 Ohio App.3d 559, 566, 664 N.E.2d 954, 958-959. The statutory interest rate in the case sub judice is that which is stated in the contract.
+The contract language regarding “the maximum interest rate permitted by law” refers to a statute, if one exists, prohibiting interest in excess of a stated percentage rate. R.C. 1343.03 does not put a cap on percentage rates to be charged, but instead sets a default rate to be charged should the parties not contract otherwise.
+Based upon the previous decisions of this court, we find that the trial court erred by not allowing postjudgment interest at the rate provided for in the contract.
+Appellant’s assignment of error is sustained.
+The judgment of the trial court is hereby reversed, and appellant is granted interest on the judgment at the rate of eighteen percent per annum pursuant to the contract.
+Judgment reversed.
+Vukovich, J., concurs.
+Waite, J., dissents.
+
+## Dissent (Waite, Judge,)
+
+Waite, Judge,
+dissenting.
+The majority opinion relies on previous cases issued by this court for its conclusion that appellee is owed eighteen percent interest on unpaid rents. Those earlier decisions were premised on R.C. 1701.68 for the argument that, as state law prohibits corporations from claiming usury in reference to their corporate obligations, there must be no maximum interest rate for corporations. R.C. 1701.68 does state that no corporate “evidence of indebtedness” shall be “set aside, impaired, or adjudged invalid by reason of anything contained in laws prohibiting usury or regulating interest rates.” I would agree with the majority opinion that had the contract clearly and specifically stated that the lessor corporation was entitled to an eighteen percent interest rate, that rate could not be invalidated on the basis of R.C. 1343.03(A). The contract does not clearly and specifically so state. The question here is not whether appellees may be charged eighteen percent interest but, rather, whether they should be so charged.
+It is clear that appellees are obligated to pay appellant interest on past due amounts called for under the lease agreement as evidenced by the following paragraph:
+“26. Past-Due Rent
+“If Tenant shall fail to pay, when the same is due and payable, any Minimum Rent or any Percentage Rent or other amounts or charges to be paid to Landlord by Tenant as provided in this lease, such unpaid amounts shall bear interest from the due date thereof to the date of payment at the rate which is the lesser of eighteen percent (18%) per annum or the maximum interest rate permitted by law. ” (Emphasis added.)
+Ohio courts recognize the inherent contractual nature of lease agreements and apply traditional contract principles when interpreting the provisions. See Timber Ridge Investments Ltd. v. Marcus (1995), 107 Ohio App.3d 174, 178, 667 N.E.2d 1283, 1285. The rule is well established that where there is doubt or ambiguity in the language of a contract it will be construed strictly against the party who prepared it. McKay Machine Co. v. Rodman (1967), 11 Ohio St.2d 77, 79, 40 O.O.2d 87, 88-89, 228 N.E.2d 304, 306-307; Metro. Elec., Inc. v. Jones (1986), 30 Ohio Misc.2d 9, 10, 30 OBR 220, 221-222, 506 N.E.2d 950, 952-953.
+R.C. 1343.03(A) sets forth the statutory interest rate that applies to contracts:
+“[W]hen money becomes due and payable upon any * * * contract * * *, the creditor is entitled to interest at the rate of ten per cent per annum, and no more, unless a written contract provides a different rate of interest in relation to the money that becomes due and payable, in which case the creditor is entitled to interest at the rate provided in the contract.”
+Therefore, the “maximum interest rate permitted by law” on any contract is ten percent unless clearly specified otherwise in the contract itself.
+Appellant drafted all of the provisions contained in the lease. In its present form, the paragraph which specifies the interest rate to be paid on past due amounts provides an alternative. This provision is therefore ambiguous. Construing the ambiguity strictly against the party who prepared it would entitle appellant to an interest rate of ten percent per annum, ten percent obviously being less than eighteen percent and, thus, the “lesser” option specifically provided by contract.
+This conclusion is inescapable due to one fact: appellant being the drafter of the contract, it would have been absurdly easy for appellant to draft the provision to require an interest rate of eighteen percent simply by deleting (or even running a line through) the latter part of the phrase. The majority opinion would have us and appellees ignore the last eight words of the last line of paragraph 26 of their contract. I do not believe that this phrase is mere surplus. I believe the parties contracted for an eighteen percent interest rate (which is specifically allowed by R.C. 1701.68) only when it is less than the statutory maximum. Since the Ohio statute concerning interest on contracts is currently ten percent, the parties here contracted for a ten percent rate of interest on past due amounts.
