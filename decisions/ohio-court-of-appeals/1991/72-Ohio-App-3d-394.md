@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "89AP-1012"
+decided: "1991-02-05"
+citations: ["72 Ohio App. 3d 394"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside and Castle, JJ., concur.", "Lyle W. Castle, J., retired, of the Twelfth Appellate District, was assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution."]
+parties: ["GROVEPORT MADISON LOCAL EDUCATION ASSOCIATION, Appellant, v. GROVEPORT MADISON LOCAL BOARD OF EDUCATION et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/72/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1470375
+cites_cases: ["115 N.E. 37", "17 Ohio App.2d 1", "20 Ohio St.2d 68", "215 N.E.2d 394", "243 N.E.2d 767", "253 N.E.2d 767", "27 Ohio St. 96", "30 Ohio St. 37", "34 O.O.2d 473", "37 Ohio St.3d 187", "46 O.O.2d 1", "49 O.O.2d 347", "5 Ohio St.2d 248", "525 N.E.2d 20", "72 Ohio St. 469", "74 N.E. 646", "94 Ohio St. 420"]
+---
+
+# Groveport Madison Local Education Ass'n v. Groveport Madison Local Board of Education
+
+## Majority (Strausbaugh, Judge.)
+
+Strausbaugh, Judge.
+On March 16, 1989, plaintiff, Groveport Madison Local Education Association, filed a complaint against defendants, Groveport Madison Local Board of Education and David Cool, in the Franklin County Court of Common Pleas. Plaintiffs complaint requested that defendants be ordered to compensate bargaining unit members, represented by plaintiff, who allegedly performed a portion of their regularly assigned teaching duties during a two-day period (January 18 and 19, 1989) in which the members participated in a strike. Plaintiffs complaint alleged a violation of R.C. 4113.15.
+On April 17, 1989, defendants filed a motion to dismiss, alleging that the trial court lacked subject-matter jurisdiction over this action. On May 15, 1989, plaintiff filed a memorandum in opposition to defendants’ motion to dismiss.
+On June 12, 1989, the trial court granted defendants’ motion to dismiss. Plaintiff now appeals from the judgment of the trial court, setting forth the following two assignments of error for review by this court:
+“1. The lower court erred in dismissing this case for lack of jurisdiction in that this action is not within the exclusive jurisdiction of the State Employment Relations Board.
+“2. The lower court erred in dismissing this case on the ground that Ohio Revised Code Section 4113.15 is inapplicable to boards of education.”
+We will first address plaintiff’s second assignment of error. Plaintiff’s claim of error asserts that the trial court erred in its determination that R.C. 4113.15 did not apply to boards of education.
+The decision of the trial court stated in part:
+“The Court finds that the plaintiff’s reliance on Section 4113.15 is misplaced. That Section is inapplicable to Boards of Education and by its very language is limited to the ordinary business of a commercial character. * * * ”
+In support of its decision, the trial court cited 1916 Ohio Atty.Gen.Ops. No. 1710, at 2-1056, in which the Ohio Attorney General considered whether the predecessor to R.C. 4113.15 applied to or controlled a board of education in fixing the times when employees of the board are to be paid. The opinion provides in part that:
+“There can be no question but that the provision
+“ ‘Every individual, firm, company, copartnership, association or corporation doing business in the state of Ohio’
+“refers to the doing of business in the ordinary commercial sense for a profit, and it cannot be held to include a board of education engaged in carrying out the provisions of the constitution relative to education throughout the state.” Id. at 2-1058.
+As noted previously, plaintiffs complaint before the trial court was brought pursuant to R.C. 4113.15. That statute, which pertains to the semimonthly payment of wages, states in relevant part:
+“(A) Every individual, firm, partnership, association, or corporation doing business in this state shall, on or before the first day of each month, pay all its employees the wages earned by them during the first half of the preceding month ending with the fifteenth day thereof, and shall, on or before the fifteenth day of each month, pay such employees the wages earned by them during the last half of the preceding calendar month. * * *
+“(B) Where wages remain unpaid for thirty days beyond the regularly scheduled payday * * * the employer, in addition, as liquidated damages, is liable to the employee in an amount equal to six per cent of the amount of the claim still unpaid and not in contest or disputed or two hundred dollars, whichever is greater.” (Emphasis added.)
+While plaintiffs brief cites no case law for the proposition that R.C. 4113.15 is applicable to boards of education, plaintiff argues that such an intent can be found based upon a reading of R.C. 4113.15 in light of R.C. 3313.17. R.C. 3313.17 states:
+“The board of education of each school district shall be a body politic and corporate, and, as such, capable of suing and being sued, contracting and being contracted with, acquiring, holding, possessing, and disposing of real and personal property, and taking and holding in trust for the use and benefit of such district, any grant or devise of land and any donation or bequest of money or other personal property.”
+Plaintiff maintains that, pursuant to R.C. 3313.17, a board of education is a corporation and, as such, falls under the provisions of R.C. 4113.15 as a “corporation doing business in this state.”
+In examining the nature of corporate powers invested in a board of education, it is clear that a board of education is not deemed to be a full corporation. “ ‘It is well settled that a board of education is a quasi-corporation acting for the public as one of the state’s ministerial education agencies “for the organization, administration and control of the public school system of the state.” ’ ” Wayman v. Bd. of Edn. (1966), 5 Ohio St.2d 248, 249, 34 O.O.2d 473, 474, 215 N.E.2d 394, 395, citing Cline v. Martin (1916), 94 Ohio St. 420, 426, 115 N.E. 37, 38. A board of education “ ‘ * * * is constituted a body politic and corporate, but it is not a corporation within the provisions of the statutes governing corporations or a corporation for profit * * *.’” Brown v. Bd. of Edn. (1969), 17 Ohio App.2d 1, 3, 46 O.O.2d 1, 2, 243 N.E.2d 767, 768, reversed on other grounds (1969), 20 Ohio St.2d 68, 49 O.O.2d 347, 253 N.E.2d 767, citing 48 Ohio Jurisprudence 2d (Part 1) 749. A board of education has but limited corporate powers. Robertson v. Bd. of Edn. (1875), 27 Ohio St. 96, 103.
+It is equally clear that a board of education is not to be equated with a municipal corporation. This distinction was noted in Finch v. Bd. of Edn. (1876), 30 Ohio St. 37, 46-47, in which the court stated:
+“ * * * Owing to the very limited number of corporate powers conferred on them, boards of education rank low in the grade of corporate existence, and hence are properly denominated quasi corporations. This designation distinguishes this grade of corporations from municipal corporations, such as cities and towns acting under charters or incorporating statutes, which are vested with more extended powers and a larger measure of corporate life. * * * It possesses but limited powers and small corporate life. * * * ” See, also, Bd. of Edn. v. Volk (1905), 72 Ohio St. 469, 480, 74 N.E. 646, 648 (“ * * * [W]hile boards of education are ‘bodies politic and corporate,’ as declared by statute, yet like counties, they are but quasi corporations and differ materially from municipal corporations * * *.”); Beifuss v. Westerville Bd. of Edn. (1988), 37 Ohio St.3d 187, 189, 525 N.E.2d 20, 22 (public school board has long been recognized as quite different from a municipal corporation).
+Unlike private corporations, created for business purposes, or municipal corporations, more fully endowed with corporate life and functions, boards of education possess but limited corporate functions which are granted to enable them to carry out their public purpose in promoting and administering education. In light of the foregoing, we do not believe that a board of education falls within the meaning contemplated under R.C. 4113.15 as a “corporation doing business in this state.”
+Accordingly, the trial court did not err in dismissing this action on the ground that R.C. 4113.15 is not applicable to boards of education. Plaintiff’s second assignment of error is hereby overruled.
+Under its first assignment of error, plaintiff asserts that the trial court erred in dismissing this action for lack of jurisdiction in that this action is not within the exclusive jurisdiction of the State Employment Relations Board (“SERB”).
+The record in this case indicates that on February 13, 1989, prior to plaintiffs filing of its complaint with the trial court, plaintiff filed an unfair labor practice charge with SERB. Plaintiffs unfair labor practice charge before SERB asserted a violation of R.C. 4117.11(A)(1) and (A)(3), based upon plaintiffs allegation that bargaining unit members who had honored the strike and had partially performed their teaching duties on January 18 and 19, 1989, did not receive any compensation for performance of their duties during those two days. Plaintiffs brief before this court contends that the trial court, in granting defendants’ motion to dismiss, in essence, found that plaintiff’s filing of an unfair labor practice charge precludes it from exercising jurisdiction over the separate claim regarding a violation of R.C. 4113.15.
+Even assuming, arguendo, that a hearing and determination by SERB would not have precluded plaintiff from maintaining a separate civil claim based upon the same fact pattern, plaintiff’s complaint before the trial court is predicated solely upon an alleged violation of R.C. 4113.15. Given our disposition of plaintiff’s second assignment of error, plaintiff has failed to show any prejudice under its first assignment of error.
+Plaintiff’s first assignment of error is without merit and is overruled.
+Based upon the foregoing, plaintiff’s assignments of error are overruled, and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Whiteside and Castle, JJ., concur.
+Lyle W. Castle, J., retired, of the Twelfth Appellate District, was assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution.
+. R.C. 4117.11 provides, in relevant part:
+"(A) It is an unfair labor practice for a public employer, its agents, or representatives to: "(lj Interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in Chapter 4117. of the Revised Code or an employee organization in the selection of its representative for the purposes of collective bargaining or the adjustment of grievances; « * * *
+"(3) Discriminate in regard to hire [hiring] or tenure of employment or any term or condition of employment on the basis of the exercise of rights guaranteed by Chapter 4117. of the Revised Code. * * * ”
