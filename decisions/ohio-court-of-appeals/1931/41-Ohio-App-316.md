@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1931-03-06"
+citations: ["41 Ohio App. 316"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Allkead, P. J., and ITobnbeck, J., concur."]
+parties: ["The Gahanna Bank Co. et al. v. Miesse, Admr., et. al."]
+source_url: "https://static.case.law/ohio-app/41/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327916
+cites_cases: ["15 N. E., 297", "45 Ohio St., 512"]
+---
+
+# Gahanna Bank Co. v. Miesse
+
+## Majority (Kunkle, J.)
+
+Kunkle, J.
+The plaintiffs below, the Gahanna Bank Company and the Johnstown Bank Company, tteing the appellants herein, in their petition state that they are corporations organized and operating under the banking laws of the state of Ohio, and have valid claims against the estate of George J. Miesse, deceased; that on March 10,1928, George J. Miesse died intestate, seized in fee simple of the undivided one-half interest in the real estate described in detail in the petition; that the personal property of said decedent was insufficient to pay his debts and costs of administration; that defendant, Clarence Miesse, as administrator of the estate of George J. Miesse, filed his petition in the probate court of Franklin county, seeking authority to sell said real estate; that the fair market value of decedent’s interest in said real estate in October of 1928 was more than $3,600; that in October of 1928 said defendant, Clarence Miesse, as administrator of the estate of George J. Miesse, sold said real estate to his wife, Margaret Miesse, and executed a deed to his said wife for said real estate; that the consideration and purchase price which said Margaret Miesse was to pay for said real estate was $2,167, which is an inadequate sum and far less than the said real estate is reasonably worth; that the consideration for said purchase was furnished jointly by Margaret Miesse, wife of said Clarence Miesse, administrator, and Clarence Miesse, and that the latter was the purchaser at said sale and acquired an interest therein; that the proceeds of said sale and of the personal property of said decedent will not be sufficient to pay the debts of said decedent, including the claims of plaintiffs, but that if said administrator had sold said real estate for its fair and market value there would have been a sufficient sum realized to pay the debts of said decedent; that the said conveyance by said administrator as aforesaid was a fraud on the rights of the plaintiffs; that said conveyance, and the acts of said administrator, together with those of his said wife, in relation thereto, are null and void; that Julia Miesse is the owner of the other undivided one-half of said real estate; and that the Home Savings Company claims a lien on said real estate.
+The plaintiffs therefore pray that the conveyance made by said administrator be declared null and void, and said deed be set aside and held for naught, and for such other and further relief to which in the nature of the case in equity they may be entitled.
+An issue was joined by the pleadings, and the case was submitted to the trial court with the result that a finding was made in favor of defendants.
+Motion for a new trial having been filed and overruled, and judgment entered, an appeal was taken to this court, where the case has been submitted upon the pleadings, the evidence, and the exhibits introduced in the lower court.
+Counsel have favored us with very exhaustive briefs, in which many of the pertinent facts and the controlling decisions of the courts of this and other jurisdictions are cited and commented upon.
+We shall not attempt to quote in detail from either the evidence or the decisions, but will merely announce the conclusion at which we have arrived after a consideration of the evidence and the authorities.
+In brief, the record discloses that Clarence Miesse, administrator, sold the real estate in question to his wife, Margaret Miesse, and that his mother, Julia Miesse, is the owner of the other undivided half interest in said real estate.
+Does the record disclose such facts as would justify the sale in question to his wife?
+The rule governing transactions of this kind, in so far as Ohio is concerned, is well established. It will not require the citation or discussion of authorities from sister states to establish the same.
+In the case of Riddle and Parker v. Roll, 24 Ohio St., at page 572, the first paragraph of the syllabus reads:
+“An administrator, ordered by the court to sell lands of the estate, procured a party to attend the sale and become the purchaser, and no other person being present or bidding at the sale, sold the land at two-thirds its appraised value to such purchaser, who, immediately upon receiving his deed therefor, with the knowledge and consent of the administrator, conveyed the land to a trustee for the use of the administrator’s wife during her life, with remainder to her children begotten by her husband, and with power in the wife to sell the land: Held, that the transaction, upon its face, and in the absence of clear and satisfactory explanation, is fraudulent and void; and that it is a question of fact for the court to decide whether the evidence furnishes such explanation.”
+In the case at bar there were other persons present at the judicial sale held by the said administrator, but the wife of the administrator was the only bidder and purchased the premises in question at two-thirds of the appraisal.
+In Caldwell v. Caldwell, 45 Ohio St., at page 512, 15 N. E., 297, a very instructive decision is found upon this general subject. This was a case in which an administrator made a sale of certain lands and confirmation of the sale was secured and a deed executed to the purchaser, and the purchaser conveyed the same to the said administrator upon certain conditions.
+At page 522 of this ease (45 Ohio St., 512, 15 N. E., 297, 302), Judge Owen, in delivering the opinion of the court, among other things, adopts the following as a part of the decision of the court, namely:
+“However innocent the purchase may be in a given case, it is poisonous in its consequences. The cestui que trust is not bound to prove, nor is the court bound to judge, that the trustee has made a bargain advantageous to himself. The fact may be so, and yet the party not have it in his power, distinctly and clearly, to show it. There may be fraud, and the party not able to prove it. It is to guard against this uncertainty and hazard of abuse, and to remove the trustee from temptation, that the rule does and will permit the cestui que trust to come, at his own option, and without showing actual injury, and insist upon having the experiment of another sale. This is a remedy which goes deep, and touches the very root of the evil.”
+Without quoting further from the authorities, we think the rule is well established in this jurisdiction that the trustee, be he an administrator or any other form of trustee, may not profit, either directly or indirectly, at his own sale.
+From a consideration of the record in this case, we cannot escape the conclusion that the administrator, as the husband of the purchaser, even if not the real purchaser, did profit indirectly at this, his own sale.
+From his own testimony, made subsequently in the hearing of two witnesses, that he would- not take less than a hundred dollars- an acre for the farm in question; from the written statement that he made to the Home Savings Company when a loan was secured on the premises to secure the purchase price thereof; and from other circumstances disclosed by the record, we cannot, as above stated, escape the conclusion that this property was not sold at its fair market value, and that the said administrator was, at least indirectly, if not directly, interested and benefitéd by such sale. This is not denied by the administrator, nor is any satisfactory explanation made by said administrator of the sale to his wife.
+We are further of opinion that the deed in question and the sale made by such administrator should be set aside and held for naught.
+Decree^ accordingly.
+Allkead, P. J., and ITobnbeck, J., concur.
