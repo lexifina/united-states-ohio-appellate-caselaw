@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "L-82-300"
+decided: "1983-02-18"
+citations: ["11 Ohio App. 3d 12"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ConnoRS, P.J., and Handwork, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Kivell, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/11/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707264
+cites_cases: ["169 A. 2d 596", "21 Ohio App. 2d 160", "21 Ohio St. 2d 265", "219 A. 2d 104", "27 Ohio St. 2d 102", "3 O.O. 3d 352", "3 O.O.3d 352", "34 O.O.2d 420", "36 O.O.2d 305", "38 O.O.2d 366", "40 Ohio App. 2d 346", "5 Ohio St. 2d 207", "50 O.O.2d 253", "50 O.O.2d 268", "514 P. 2d 1052", "56 O.O.2d 58", "69 O.O.2d 312", "7 Ohio App. 2d 165", "9 Ohio St. 2d 140"]
+---
+
+# State v. Kivell
+
+## Majority (Resnick, J.)
+
+Resnick, J.
+This is an appeal from the Maumee Municipal Court. The appellant herein, a Michigan resident and holder of a valid Michigan driver’s license, was found guilty by the court after entering a plea of no contest to the charge of operating a motor vehicle while under the influence of alcohol, in violation of R.C. 4511.19. As part of appellant’s sentence, the trial judge suspended appellant’s Michigan driver’s license for thirty days, requiring appellant to “surrender his Michigan driver’s license to the Clerk of this [Maumee Municipal] Court at the commencement of said license suspension.” The suspension of appellant’s license was then stayed by the trial court pending the outcome of this appeal.
+Appellant does not appeal his conviction; however, appellant does assign as error the following:
+“The trial judge of an Ohio municipal court lacks jurisdiction to suspend or hold a driver’s license issued by a foreign state even though the licensee has been convicted of violating R.C. § 4511.19.”
+The case sub judice provides this court with the. opportunity to review the issue of whether, a trial court of this state may suspend or revoke and take physical possession of a nonresident’s driver’s license, which was issued by a foreign state, upon the nonresident’s conviction of operating a motor vehicle while under the influence of alcohol. This court has previously addressed this precise issue in State v. Mendez (1976), 3 O.O. 3d 352, and determined therein that a trial court not only has the authority, but the duty to so suspend and take physical possession of a nonresident’s foreign-issued driver’s license.
+Our reading of Mendez, supra, reveals that the court relied on the language of R.C. 4507.16, which states:
+‘ ‘The trial judge of any court of record shall, * * * suspend for not less than thirty days nor more than three years or revoke the license of any person who is convicted of or pleads guilty to any of the following:
+<<* * *
+‘ ‘(B) Operating a motor vehicle while under the influence of alcohol * * (Emphasis added.)
+The Mendez court, looking solely at the language of R.C. 4507.16, concluded that the phrase “any person” should be interpreted to include every person, regardless of residence. In so concluding, the Mendez court further determined that such an expansive interpretation was necessary in order to ensure that Ohio residents and residents of Ohio’s sister states would receive equal punishment for violating R.C. 4511.19 (driving while intoxicated).
+Although we are confident that the Mendez court believed its decision to be not only proper, but also necessary to protect the traveling public from the irresponsible actions of those persons, both residents and nonresidents alike, who insist on driving while intoxicated (see Mentor v. Giordano [1967], 9 Ohio St. 2d 140, 145 [38 O.O.2d 366]; Barber v. Curry [1974] 40 Ohio App. 2d 346, 348 [69 O.O.2d 312]), we, nevertheless, upon reexamination and reconsideration of the issue now before us, determine that the Mendez court’s exclusive reliance on the language contained in R.C. 4507.16 was misplaced. Accordingly, for the reasons set forth below, this court’s holding in Mendez, supra, is expressly overruled.
+Initially, we recognize, as did the court in Mendez, that by using the term “shall” in R.C. 4507.16, the legislature, in no uncertain terms, expressed its intention that it is mandatory for a trial judge to “suspend for not less than thirty days nor more than three years or revoke the license of any person who is convicted of or pleads guilty to * * * [operating a motor vehicle while under the influence of alcohol * * R.C. 4507.16(B). See Dornan v. Scioto Conserv. Dist. (1971), 27 Ohio St. 2d 102 [56 O.O.2d 58],
+We believe, however, that the Mendez court improperly defined the word “license.” Our reading oí Mendez, supra, reveals that the court considered a license to be only a tangible, physical permit which evidences that a person has been granted the privilege to operate a motor vehicle by the issuing state. We must look to R.C. 4509.01 for the definition of the phrase “license of any person” contained in R.C. 4507.16. In so doing, we find stated in R.C. 4509.01 the following:
+<i* * He
+“(C) ‘License’ includes any license, permit, or privilege to operate a motor vehicle issued under the laws of this state including:
+(<* * *
+“(3) Any nonresident’s operating privilege.”
+The privilege granted to a nonresident which permits that nonresident to operate a motor vehicle upon the highways of this state arises by operation of R.C. 4507.04, which states, in pertinent part:
+“Nonresidents, permitted to drive upon the highways of their own states, may operate any motor vehicle upon any highway in this state without examination or license under sections 4507.01 to 4507.39, inclusive, of the Revised Code * * * ff
+Thus, when a trial judge of any court of record suspends or revokes the license of a nonresident because that nonresident has pled guilty to or has been convicted of operating a motor vehicle while under the influence of alcohol, as the trial judge is required to do by R.C. 4507.16, the trial court is, in effect, suspending or revoking the nonresident’s privilege of operating a motor vehicle upon the highways of this state.
+We also find that the Superior Court of Pennsylvania expressed a similar view in the case of Commonwealth v. Levy (1961), 169 A. 2d 596, 598, wherein it held:
+“The license is issued to appellee [Ms. Levy] only in Pennsylvania, and only Pennsylvania can suspend or revoke it. New Jersey does not suspend the operator’s license, but withdraws from the licensee the privilege of operating on its highways. * * *”
+Finally, we note that the court in Mendez, supra, indicated that it was concerned with preventing the discriminatory treatment which would result if a court of this state could suspend or revoke a resident’s license, but only a nonresident’s privilege to operate a motor vehicle within this state. In addressing this concern, it must first be emphasized that whoever violates R.C. 4511.19 is guilty of a first degree misdemeanor. See R.C. 4511.99. Second, it must be recognized that although the suspension of one’s driver’s license is often considered punishment, “* * * it has been almost universally held that the suspension or revocation of a driver’s license is not penal in nature and is not intended as punishment, but is designed solely for the protection of the public in the use of the highways.” State v. Scheffel (Wash. 1973), 514 P. 2d 1052, 1057, and the cases cited therein; Bungardeanu v. England (D.C. App. 1966), 219 A. 2d 104, 107. This purpose of protecting the public most certainly may be effectuated by suspending a nonresident’s operating privilege, as R.C. 4509.76 unequivocally states that:
+“No person whose license or registration or nonresident’s operating privilege has been suspended or revoked * * * shall, during such suspension or revocation, drive any motor vehicle upon any highway. * * *"
+Thus, when a resident’s license or a nonresident’s operating privilege has been suspended or revoked, the person so affected is not permitted to operate any motor vehicle upon the streets of Ohio during the period of such suspension or revocation, thereby equally protecting the public in either instance.
+We note that the privilege of driving a motor vehicle upon the streets of Ohio is subject to suspension by the Registrar of Motor Vehicles (“registrar”). See R.C. 4507.40(0). If a nonresident is convicted of operating a motor vehicle while under the influence of alcohol, R.C. 4509.33 states that “* * * the registrar of motor vehicles shall suspend or revoke the privilege of such nonresident to operate a motor vehicle for the same period for which suspension or revocation of license by a court of record as authorized * * *” by R.C. 4507.16. Whenever a nonresident is convicted of driving while intoxicated, the registrar shall receive a certified copy of the conviction from the clerk of the court of record. See R.C. 4509.35. Upon receipt of said copy, the registrar shall forthwith suspend the nonresident’s operating privilege (see R.C. 4509.37) and forward a certified copy of the conviction to the “official in charge of the issuance of licenses and registration” of the nonresident’s state. See R.C. 4509.36.
+On the basis of the foregoing, this court’s holding in State v. Mendez (1976), 3 O.O.3d 352, is overruled. In the case sub judice, the judgment of the Maumee Municipal Court is herein modified to read:
+“Defendant-appellant’s privilege to operate a motor vehicle upon the streets and highways within the state of Ohio is suspended for thirty days. The clerk of the Maumee Municipal Court is hereby instructed, pursuant to R.C. 4509.35, to forward to the registrar of motor vehicles a certified copy or transcript of defendant-appellant’s conviction of operating a motor vehicle while intoxicated in violation of R.C. 4511.19 forthwith.”
+Judgment of the Maumee Municipal Court, as herein modified, is affirmed. Cause remanded to said court for execution of judgment as herein modified and assessment of costs. Costs to appellee.
+Judgment affirmed as modified and cause remanded.
+ConnoRS, P.J., and Handwork, J., concur.
+R.C. 4511.19 states in relevant part:
+“No person who is under the influence of alcohol * * * shall operate any vehicle, * * * within this state.”
+It is clear that in Ohio, “a license to operate a motor vehicle is a privilege and not a property right.” State v. Newkirk (1968), 21 Ohio App. 2d 160, 165 [50 O.O.2d 253]; Wilsch v. Bencar (1966), 7 Ohio App. 2d 165, 167 [36 O.O.2d 305],
+Appellant also contends that an Ohio court is without the power to suspend or revoke a nonresident’s foreign-issued driver’s license. Such an argument rises to the level of a constitutional claim, and it is well-settled that “[n]o court should, * * * indulge the constitutional issue if the litigant is entitled to relief upon other grounds.” Burt Realty Corp. v. Columbus (1970), 21 Ohio St. 2d 265, 269 [50 O.O.2d 268]; Greenhills Home Oumers Corp. v. Village of Greenhills (1966), 5 Ohio St. 2d 207 [34 O.O.2d 420].
