@@ -1,0 +1,72 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-971006"
+decided: "1998-12-18"
+citations: ["130 Ohio App. 3d 764"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sundermann, P.J., and Doan, J., concur."]
+parties: ["HACKER et al., Appellees, v. CITY OF CINCINNATI et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/130/cases/0764-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 89428
+cites_cases: ["102 Ohio App.3d 114", "109 Ohio App.3d 159", "111 Ohio App.3d 690", "18 Ohio St.3d 203", "1991 WL 263711", "1993 WL 513201", "1994 WL 372369", "1995 WL 360227", "1996 WL 112654", "1997 WL 264236", "421 N.E.2d 1275", "45 Ohio St.3d 179", "480 N.E.2d 474", "543 N.E.2d 1242", "632 N.E.2d 502", "656 N.E.2d 1025", "66 Ohio St.2d 319", "662 N.E.2d 287", "671 N.E.2d 1288", "676 N.E.2d 1241", "69 Ohio St.3d 345", "75 Ohio St.3d 312"]
+---
+
+# Hacker v. City of Cincinnati
+
+## Majority (Painter, Judge.)
+
+Painter, Judge.
+On May 31, 1993, plaintiffs-appellees Robert E. Hacker and Sylvia Hacker (collectively, “Hacker”) filed a negligence lawsuit against defendants-appellants city of Cincinnati and Hamilton County, Ohio, (collectively, the “city”) after Mr. Hacker tripped on a six-inch curb and injured himself in the southwest ramp area on the second level of Riverfront Stadium’s parking garage. The curb led to a slightly raised area of the parking garage, which contained concrete pillars and a public telephone. Hacker was following a crowd into a Cincinnati Reds baseball game when he fell. He did not notice the curb that caused the fall.
+Approximately nine months before Hacker’s fall, the city had completed improvements to the southwest ramp area, which included placing newer, higher-intensity lights above the curb. At the time of the incident, however, the part of the curb that caused the fall was not painted, and there is no evidence that it had been painted in the past. It was the same general gray color as the ground surrounding it. Also, there were no warning signs. Hacker claimed that the city did not provide adequate warning of the curb’s presence. He also claimed that the lighting around the curb was inadequate and that the city should have provided handrails, a walkway through the curb, or barriers to prevent pedestrian travel over the curb.
+The city responded to Hacker’s allegations with a motion for summary judgment in which it argued that it was immune from Hacker’s suit. The trial court denied the motion. The city now appeals that decision under R.C. 2744.02(C), which provides that an order denying a political subdivision an alleged immunity from liability is a final order. In the city’s sole assignment of error, it argues that the trial court erred by holding that it was not immune from Hacker’s suit. The issue of governmental immunity from liability is not, and never has been, easy in Ohio. It is even possible that the whole theory of governmental immunity is premised on an early misinterpretation of law. But we are stuck with the mistake, which has now been codified, thus providing only further confusion.
+I. GOVERNMENTAL IMMUNITY
+Under R.C. 2744.02(A)(1), the Political Subdivision Tort Liability Act, political subdivisions of Ohio are generally immune from liability for tort claims connected with a governmental or proprietary function. This broad grant of immunity is subject to several exceptions, which are listed under R.C. 2744.02(B). If one of the R.C. 2744.02(B) exceptions applies, a political subdivision may still have a defense under R.C. 2744.03. Applying this framework, the city argues that it should be immune from Hacker’s lawsuit. We disagree.
+To begin, R.C. 2744.02(A)(1) applies to this case. Both the city of Cincinnati and Hamilton County are political subdivisions that were engaged in a proprietary function, operating a stadium parking garage. Thus, the general grant of immunity of R.C. 2744.02(A)(1) applies here.
+II. NUISANCE EXCEPTION
+Next, we must determine whether an R.C. 2744.02(B) exception applies. Hacker claims that three such exceptions apply here. First, Hacker claims that R.C. 2744.02(B)(3), an exception regarding nuisances in walkways, applies:
+“Political subdivisions are liable for injury, death, or loss to persons or property caused by their failure to keep public roads, highways, streets, avenues, alleys, sidewalks, bridges, aqueducts, viaducts, or public grounds within the political subdivisions open, in repair, and free from nuisance * * *.”
+Hacker argues that the curb that caused his fall was a nuisance. A review of case law, however, reveals that the curb did not rise to the level of nuisance as envisioned by the statute. A nuisance is generally recognized as something that is either obnoxious or offensive to others. Nuisances can affect pedestrians. For instance, a hole in a traffic median that a pedestrian fell into and a damaged curb that caused a pedestrian to fall have constituted nuisances. But these cases involved unattended, defective impediments in walkways that should not have been present in the first place. Here, the curb that caused Hacker’s fall was not in a defective condition and had a purpose. It helped direct the flow of vehicles through the garage and led to a raised area of the garage where pedestrians could speak on a public telephone free from traffic. Hacker claims that the curb was a nuisance because it was not painted, because there were no warning signs, and because the lighting around it was inadequate. In other words, Hacker claims that it was a nuisance merely because there was an inadequate warning of its presence. No Ohio court has held that a curb is a nuisance simply because pedestrians have not been warned of its existence, and we do not intend to expand the definition of a nuisance that far. R.C. 2744.02(B)(3) does not apply.
+III. GOVERNMENTAL-BUILDING EXCEPTION
+The second exception Hacker argues applies here is R.C. 2744.02(B)(4), which provides for liability for injuries that occur in buildings used in connection with a governmental function:
+“Political subdivisions are liable for injury, death, or loss to persons or property that is caused by the negligence of their employees and that occurs within or on the grounds of buildings that are used in connection with the performance of a governmental function * * *.”
+This exception, however, does not apply in this case because it only applies to negligence in connection with the performance of a governmental function. Because this case involves the proprietary function of operating a stadium parking garage, R.C. 2744.02(B)(4) does not apply.
+IV. PROPRIETARY FUNCTION
+The third exception Hacker argues applies here involves proprietary functions. Specifically, R.C. 2744.02(B)(2) provides:
+“Political subdivisions are liable for injury, death, or loss to persons or property caused by the negligent performance of acts by their employees with respect to proprietary functions of the political subdivisions.”
+Because operating a stadium parking garage is a proprietary function, if Hacker’s injuries were caused by the “negligent performance” of the city’s employees, then R.C. 2744.02(B)(2) would apply here.
+The city argues that it was not negligent because the curb that caused Hacker’s fall was “open and obvious.” A property owner has a duty of ordinary care to business invitees. The property owner, however, owes no duty to warn invitees of open and obvious dangers on the property. But here, with the evidence viewed in the light most favorable to Hacker, the curb that caused Hacker’s fall might not have been open and obvious. It was the same color as the ground surrounding it, and the crowd of people walking around Hacker might have obstructed his view. We hold that a material issue of fact exists regarding whether the city breached its duty of care to Hacker. R.C. 2744.02(B)(2) could apply in this case.
+V. IMMUNITY DEFENSES
+But this does not end our analysis. We must still determine whether R.C. 2744.03 provides the city with an immunity defense. The city argues that it has defenses under R.C. 2744.03(A)(3) and (A)(5), which provide immunity for discretionary actions by political subdivisions and their employees. R.C. 2744.03(A)(3) provides:
+“The political subdivision is immune from liability if the action or failure to act by the employee involved that gave rise to the claim of liability was within the discretion of the employee with respect to policy-making, planning, or enforcement powers by virtue of the duties and responsibilities of the office or position of the employee.”
+R.C. 2744.03(A)(5) provides:
+“The political subdivision is immune from liability if the injury, death, or loss to persons or property resulted from the exercise of judgment or discretion in determining whether to acquire, or how to use, equipment, supplies, materials, personnel, facilities, and other resources, unless the judgment or discretion was exercised with a malicious purpose, in bad faith, or in a wanton or reckless manner.”
+Discretion, as referred to in R.C. 2744.03(A)(3) and (A)(5), involves policy-making and the exercise of independent judgment.
+But a political subdivision can not simply assert that all of its decisions are discretionary in order to obtain protection under R.C. 2744.03(A)(3) and (A)(5). If a plaintiffs injuries stem from a political subdivision’s negligent maintenance or operation of a structure under its control, then the political subdivision will not be immune from liability — a point we stressed in our recent case McVey v. Cincinnati This was a case where the plaintiff fell on a crowded escalator in the same Riverfront Stadium parking garage. The plaintiff alleged that her injuries were caused by the city’s negligent maintenance and operation of the escalator in failing to place employees near the escalator to prevent too many people from getting on at once. We held that the city could not assert immunity defenses under either R.C. 2744.03(A)(3) or R.C. 2744.03(A)(5). In so holding, we stressed that the city’s decision to place elevators in the stadium, which was discretionary, was different from the city’s duty to maintain and operate the elevators after they had been installed, which was not discretionary. We stated:
+“In oral argument before this court, the city asserted that discretion would be involved in almost any actions of city employees, including a situation where a city vehicle, engaged in a proprietary function, negligently turned left in front of oncoming traffic. In the city’s view, such an act — turning left in the exercise of a ‘judgment call’ — would be ‘discretionary.’ Thus R.C. 2744.03(A)(5) would afford the city a complete grant of immunity, unless the act was performed in a willful or wanton manner. Horsefeathers. Unfortunately, too many courts have fallen victim to this specious argument.”
+Here, we hold that the city’s decisions about whether to erect warning signs, handrails, a walkway through the curb, or barriers to prevent pedestrian travel over the curb were not what Judge McCormac has termed “the creative exercise of political judgment.” When a public entity is performing a proprietary function, these considerations are no different from those faced by an ordinary business.
+As was the case in McVey, we do not believe that the city should be able to gain protection under R.C. 2744.03(A)(3) and (A)(5) simply by asserting that its actions in operating a public stadium were discretionary. To hold otherwise would be construing the grant of immunity under the Political Subdivision Tort Liability Act more broadly than we believe the, legislature originally intended.
+Therefore, we affirm the trial court’s judgment.
+Judgment affirmed.
+Sundermann, P.J., and Doan, J., concur.
+. We have sua sponte removed this case from the accelerated calendar.
+. See Gladon v. Greater Cleveland Regional Transit Auth. (1996), 75 Ohio St.3d 312, 333-337, 662 N.E.2d 287, 303-306 (Douglas, J., dissenting).
+. See R.C. 2744.01(F) and (F)(2)(e).
+. The language quoted is the language that was in effect when the cause of action in this case arose. 143 Ohio Laws, Part III, 4713, 4714. Since that time, the language of R.C. 2744.02(B)(3) has been modified and no longer includes the language “free from nuisance.”
+. Williamson v. Pavlovich (1989), 45 Ohio St.3d 179, 181, 543 N.E.2d 1242, 1245.
+. Kelly v. Cleveland Elec. Illum. Co. (Dec. 12, 1991), Cuyahoga App. No. 59044, unreported, 1991 WL 263711.
+. Heath v. Cleveland (July 14, 1994), Cuyahoga App. No. 65702, unreported, 1994 WL 372369.
+. See Franks v. Lopez (1994), 69 Ohio St.3d 345, 349-350, 632 N.E.2d 502, 506 (holding that design defects and failure to install signage do not constitute a nuisance); Jones v. Franklin (1995), 102 Ohio App.3d 114, 118, 656 N.E.2d 1025, 1027 (holding that failure to install a warning sign about a bridge’s low clearance is not a nuisance).
+. The language quoted is the language that was in effect when the cause of action in this case arose. Since that time, the language of R.C. 2744.02(B)(4) has been modified to specifically encompass only damages that are caused by "physical defects” within or on the grounds of governmental buildings.
+. The language quoted is the language that was in effect when the cause of action in this case arose. The new version of the statute begins with the language "Except as otherwise provided in sections 3314.07 and 3746.24 of the Revised Code."
+. Paschal v. Rite Aid Pharmacy, Inc. (1985), 18 Ohio St.3d 203, 203-204, 480 N.E.2d 474, 475.
+. See Cash v. Cincinnati (1981), 66 Ohio St.2d 319, 324, 421 N.E.2d 1275, 1278-1279; Shavitt v. Columbus City Ctr. (Mar. 12, 1996), Franklin App. No. 95APE10-1351, unreported, 1996 WL 112654; Crawford v. Sylvania Marketplace Co. (Dec. 10, 1993), Lucas App. No. L-93-049, unreported, 1993 WL 513201.
+. McVey v. Cincinnati (1995), 109 Ohio App.3d 159, 671 N.E.2d 1288.
+. Id. at 160, 671 N.E.2d at 1289.
+. Id. at 160-161, 671 N.E.2d at 1289.
+. Id. at 162-163, 671 N.E.2d at 1290.
+. Id. at 162, 671 N.E.2d at 1290.
+. Bolding v. Dublin Local School Dist. (June 15, 1995), Franklin App. No. 94APE09-1307, unreported, 1995 WL 360227.
+. See Hall v. Fort Frye Local School Dist. Bd. of Edn. (1996), 111 Ohio App.3d 690, 699, 676 N.E.2d 1241, 1247; Kiep v. Hamilton (May 19, 1997), Butler App. No. CA96-08-158, unreported, 1997 WL 264236.
