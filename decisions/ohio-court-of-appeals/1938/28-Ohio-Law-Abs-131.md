@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 953"
+decided: "1938-09-21"
+citations: ["28 Ohio Law Abs. 131"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MONTGOMERY, PJ, and SHERICK, J, concur."]
+parties: ["CROSS et v CROSS"]
+source_url: "https://static.case.law/ohio-law-abs/28/cases/0131-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1691172
+---
+
+# Cross v. Cross
+
+## Majority (By LEMERT, J.)
+
+OPINION
+By LEMERT, J.
+This cause comes before this court upon an appeal of Frank Cross, defendant below, on questions of law and fact, from a decree and judgment of the Court of Common Pleas of Trumbull County, Ohio, awarding plaintiffs below twenty-five hundred dollars of the five thousand dollar face amount of two life insurance policies and the right to enforce the double indemnity benefits against the Equitable Life Assurance Society of the United States, arising from the accidental death of the insured, Frederick J. Cross, father of the appellees.
+The appellees claim that an oral agreement to nold in trust was impressed upon the absolute written assignments thereof by the insured, Frederick J. Cross, to the appellant, Frank Cross, and was tried on appellees’ second amended petition, the answer of Frank Cross, appellant, denying the agreement to hold in trust, and asserting that the absolute assignments to him were executed in consideration of advances made by appellant in payment of the premiums and for advances for support and expense paid in behalf of his brother, Frederick J. Cross, and family, in excess of four thousand dollars. The reply of appellees constitúted a general denial. The cause was heard in the Court of Common Pleas, and all questions of fact except as to the legal existence of the alleged trust was submitted to a jury.-- After a seven day trial and the making of - a record of 1236 pages, ■ the jury brought a verdict awarding appellees the insurance, except seven hundred and fifty dollars; which was awarded the appellant, Frank Cross. The appellant filed motions for a judgment notwithstanding the verdict, and for a new trial, within three days; which were by the court overruled on condition that appellees accept a remittitur -in favor of the appellant, Frank Cross, of an additional $1750, making a total of $2500 awarded appellanS ¡ by the jury and trial court. ,!
+Appellant, Frank Cross, elects to hav®' this case, raising predominately equitable issues, tried de novo by this court as to all issues on the pleadings and facts, and waives appellant’s right to a hearing on his appeal on questions of law, only. Appellant prays this court to reverse the decree and judgment of the Common Pleas Court of Trumbull County, Ohio, and to enter the judgment appellant believes should have been entered, affirming the absolute right and title of the appellant, Frank Cross, to the two policies of life insurance involved herein under the unconditional written assignments executed by the insured, Frederick J. Cross.
+The record in ' this case is extremely lengthy and- the briefs are voluminous and exhaustive and the case was ably presented in oral argument.
+While there are some thirty complaints or assignments of error set forth in appellant’s brief, yet in oral argument only three grounds for reversal were stressed with any degree of force. We have carefully examined all the errors claimed in this case and find them to be without merit and not worthy of serious consideration, but in view of the oral, argument in this case we deem it fit and proper to discuss at least three of the propositions discussed by appellant in his brief- and stressed in oral argument. They are:
+1. Lack of jurisdiction of the trial court.
+2. That the trust agreement alleged in appellees’ amended petition was void and unenforceable for want of mutuality and lack of consideration.
+3. Failure of appellees’ evidence to show an agreement or consideration to hold the insurance in trust.
+We will discuss these issues in the order above set forth.
+It was contended by appellant in the court below that the court did not have jurisdiction,. for the reason that summons was not issued on the second amended petition. -On this proposition -our attention is directed to §11312 GC; which provides as follows:
+“When a demurrer is sustained on the ground of misjoinder of several causes of action on motion of the plaintiff, the court may allow him, with or without cost, to file several petitions, each including such of the causes of action as might have been joined; and an action shall be docketed for each of the petitions, and be proceeded in without further service.”
+In 32 O. Juris., 370 the author, on the subject of process, sets forth the following:
+“But where an amendment essentially alters the allegations existing at the time of service of the original summons results in the statement of a different or additional cause of action, judgment thereon cannot be rendered as against the defendant, who in respect of such matter has not been served with summons or waived service or appeared.”
+In the case at bar the amended petition did not result in the statement of a different or additional cause of action; hence no summons was required.
+On the second contention, appellant contends that there was a lack of mutuality and consideration, and devotes considerable time and space in his brief to the necessity for mutuality and consideration in the formation of a valid contract. Appellant cites a number of citations in his brief. We have no dispute or quarrel with the cases cited or with the principal of law projected by. the appellant. We answer appellant’s contention by saying that they have no application to the cause within and that there was ample mutuality and an abundance of consideration to support the original contract entered into in February of 1934, regarding the insurance policies in question, and the agreement entered into by the appellant and Frederick J. Cross' on the 3rd day of February, 1935, pertaining to the trust agreement.
+As to the third proposition, to-wit, appellant’s claim that appellees failed to support the allegations of the second amended petition: This, in substance, is a claim that the verdict and judgment is not sustained by sufficient evidence. The evidence shows clearly what the agreement of 1935 was, and in pursuance to that agreement Frank Cross undertook to collect back the premiums which he had paid upon the policies. He failed, however, to change the beneficiaries of the policies to the ten minor children. The jury no doubt, after hearing all the evidence, concluded that the agreement of February, 1935, was as contended by appellees. The jury having found that there was consideration for the contract and that the money in the hands of Frank Cross in truth belonged to the ten minor children, we are in accord with this finding, and the evidence in the record is sufficient and amply justifies such finding. We deem it unnecessary to review at great length and minutely the testimony introduced in this case and to describe at length the exhibits introduced on behalf of the appellant.
+It is unnecessary to cite a long list of authorities which have been passed upon by the courts of this state, that a reviewing court must draw a line between trying facts and determining credibility and passing upon the record as a matter of law. The criterion which must govern the reviewing court in weighing the evidence is not what it would do if it stood in place of the jury and where considering the matter in the first instance, hut whether it is prepared to- say that the verdict as rendered is manifestly and clearly against the weight of the evidence.
+A long line of the cases have held that although the verdict or finding is unsupported by the evidence or is against the weight of the evidence is ground for reversal, a judgment will not be disturbed on this ground unless such fact is made to appear manifestly and clearly.
+2 O. Juris. 746-752.
+We have in part considered this suit in equity as an action at law in view of appellant’s persistence in treating it as such.
+We therefore find that it is not necessary to serve Frank Cross with new summons upon the filing of the second amended petition, and since the two contracts, the one of February, 1934, and the one of February, 1935, were valid, binding agreements, we find that the appellant, Frank Cross, must comply with the judgment of the court below. There will be a finding in this case against the appellant, Frank Cross, in the amount of $2500, the same as in the court below. Exceptions may be noted.
+MONTGOMERY, PJ, and SHERICK, J, concur.
