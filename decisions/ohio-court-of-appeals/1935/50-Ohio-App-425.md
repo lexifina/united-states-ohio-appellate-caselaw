@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1935-05-27"
+citations: ["50 Ohio App. 425"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ross, P. J., and Matthews, J., concur."]
+parties: ["Prudential Insurance Co. of America v. Cavanaugh."]
+source_url: "https://static.case.law/ohio-app/50/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1346027
+cites_cases: ["19 C. C., 687", "64 N. E., 428", "66 Ohio St., 360"]
+---
+
+# Prudential Insurance Co. of America v. Cavanaugh
+
+## Majority (Hamilton, J.)
+
+Hamilton, J.
+This case is here on error to the action of the Court of Common Pleas in sustaining a motion to dismiss. The action was brought by the Prudential Insurance Company against Helen J. Cavanaugh, Executrix.
+It appears that on the 7th day of November, 1932, defendant’s decedent, Lucille Wendelken, made application to the plaintiff company for two policies of insurance on her life, face value $500 each. Premiums were paid and the policies were issued and delivered, the same being dated December 19,1932. The insured died on October 28, 1933, approximately ten month? after the issuance of the policies. On December 16, 1933, being three days before the expiration of one year from the date of the issuance of the policies, the insurance company filed its petition in the Court of Common Pleas of Hamilton county for cancellation of the policies, on the ground that the application for said policies contained false and fraudulent statements of the insured. The policies contained an incontestable clause as follows: “This policy shall be incontestable after one year from its date of issue, except for nonpayment of premium, but if the age of the insured be mis-stated the amount or amounts payable under this policy shall be such as the premium would have purchased at the correct age. ’ ’
+On February 24, 1934, the defendant executrix, not having filed any answer or cross-petition to the suit in equity in question here, filed an action in the Court of Common Pleas against the Prudential Insurance Company to collect on the two policies. That action is pending. Issue has been joined therein, the insurance company having filed its answer to the petition, setting up the alleged false and fraudulent statements of the decedent as a defense to its liability, and the executrix having filed a reply denying said statements.
+On February 24, 1934, after having filed her action at law on the policies against the insurance company, defendant in this action under consideration filed a motion in the Court of Common Pleas to dismiss the action in equity by the insurance company for cancellation of the policies. On a hearing the Court of Common Pleas granted the motion and dismissed the equity suit to cancel the policies. From that action, dismissing the equity action, error is prosecuted to this court.
+Was the action of the Court of Common Pleas in dismissing the equity suit error?
+The right to file an action in equity in such cases to cancel the policy is challenged by the executrix, defendant in the equity case, for the reason that the insuranee company had an adequate remedy at law to defend in a law action if and.when such action should be brought. Therefore, having an adequate remedy at law, equity should not be invoked, and defendant executrix cites a number of cases to that effect; and, further, insists that the insurance company after having acquired knowledge of any fraud or misrepresentation could cancel the policies by notice, without any court action, and that it would not be necessary to resort to an equitable remedy.
+• We think the law is well settled by ample authority that the insurance company may maintain an action in equity to cancel a policy on the ground of fraud, and may do so at any time within the contestable period. Upon the death of the insured within the contestable period, if the insurer desires to contest the policy in court, it must do so within the contestable period — in this case within one year from the date of the issuance of the policies. Had the insurer awaited an action to collect under the policies, the contestable period would have passed, and it would not have had the right to set up the defense of fraud or misrepresentation. It was therefore necessary to file the action within the contestable period. The contestability was continued indefinitely by the commencement of the equitable action in question.
+If the Court of Common Pleas was correct in dismissing the petition in the equity action, what effect would that dismissal have on the continuation of the right of contestability? It may be that the filing of the action, although dismissed by the court, would preserve the right to contest. This, however, raises a serious question, and it may be that by the dismissal of the action in equity the insurance company would be deprived of the right to defend in a law action on the grounds stated. The insurance company should not be thus jeopardized in defending the law action on the ground of fraud.
+Our conclusion is, therefore, that the trial court erred in dismissing the action on the motion. Without jeopardizing its position, the trial court, in its discretion, could have preserved all the rights of the parties in the two actions. It could, on motion, consolidate the two actions under the statute authorizing consolidation, and the decisions thereunder, in which situation all the parties would be protected in their rights. The trial court could and undoubtedly would follow the statute as to priority of the cases without consolidation. The law case is at issue, is ready for trial. Under the statute, the court should hear the law case first, since it is at issue and the equity case is not. While it has the discretion, for good cause shown, to advance one case over another, it would certainly be influenced and guided by the statutory provisions. This would preserve to the executrix the right to the trial by jury, and would in no wise prejudice the insurance company in the defense it seeks to make, having filed its action to contest in time.
+If the cases were consolidated the petition in the equity case could be considered as a cross-petition, if fraud and misrepresentation were not specifically pleaded in the answer in the law case. Brady v. Palmer, 19 C. C., 687, 10 C. D., 27; Taylor v. Standard Brick Co., 66 Ohio St., 360, 64 N. E., 428.
+The judgment is reversed, and the cause is remanded with instructions to reinstate the petition, and for further proceedings according to law.
+Judgment reversed and cause remanded.
+Ross, P. J., and Matthews, J., concur.
