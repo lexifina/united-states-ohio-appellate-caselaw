@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-75358"
+decided: "1976-04-12"
+citations: ["48 Ohio App. 2d 330"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["■Palmee, J., concurs.", "Shaítstou, P. J., not participating."]
+parties: ["The State of Ohio, Appellee, v. Nichols, Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/48/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709261
+cites_cases: ["148 Ohio St. 473", "408 U. S. 471", "411 U. S. 778", "42 Ohio St. 2d 102", "503 F. 2d 940"]
+---
+
+# State v. Nichols
+
+## Majority (Keefe, J.)
+
+Keefe, J.
+This cause came on to be heard upon the appeal ; the transcript of the docket, journal entries, and original papers from the Hamilton County Court of Common Pleas; transcript of the proceedings; the assignments of error; and. the briefs and oral arguments of counsel.
+On June 4,1974, defendant Nichols, the appellant herein, was placed on probation for five years following his earlier plea of guilty to an attempted burglary indictment. On June 5,1975, defendant’s probation was revoked following a hearing, and a sentence to the Ohio Reformatory ensued. What transpired at the hearing, and the developments in connection therewith constitute the bases of the challenges propounded in the following assignments of error:
+“1. The court erred by using hearsay evidence as a basis for the revocation decision, and said error was prejudicial to probationer.
+“2. The court erred in that it abused its discretion by revoking the probation on insufficient competent evidence, and said error was prejudicial to the probationer.
+“3. The court erred in that it failed to make a written statement as to the evidence relied on and the reasons for the revocation, and said error was prejudicial to the probationer.
+“4. The court erred in that the probationer was not allowed the assistance or the presence of his retained counsel, and said error was prejudicial to the probationer.”
+With respect to the first assignment, the sentencing judge ruled erroneously when Nichols’ counsel on one occasion objected to hearsay. However, the hearsay information contained in the answer to which the objection should have been sustained manifestly was not essential to the establishment by the state of a basis for revoking probation. The record abounds with other evidence — including some hearsay not objected to — providing proof, of the defendant’s violation of his probation. State v. Petro (1947), 148 Ohio St. 473, stands as authority for the legal proposition that where an answer contains hearsay, and there is no objection thereto or no motion to strike such hearsay, such evidence may be considered and has probative value, ‘■‘the only question being with regard to how much weight should be given thereto.” (Paragraph 8 of the syllabus.) Moreover, other evidence devoid of hearsay was presented at the hearing and was entitled to consideration, vis-a-vis the subject of revocation — for instance, the probation officer’s citation to the court of the conviction of Nichols in Hamilton County Municipal Court of two misdemeanors while on probation. The reference to the presumably officially recorded convictions was at no time challenged by the defense. The first Assignment of Error is overruled.
+The second Assignment of Error assails the court’s decision to revoke probation as an abuse of discretion. However, the hearing record embodies an amplitude of credible evidence upon which to sustain the revocation finding. The defendant’s own self-reproachment augments the proof against him, as follows:
+‘ ‘ The reason I lied to Mr. Shannon [probation officer] April 17th or something like that, I was just scared if I fold him that I was on drugs * *
+This assignment lacks merit and is overruled.
+■ The Ohio Supreme Court decided State v. Miller, 42 Ohio St. 2d 102, April 16, 1975. In reaching its decision, the court- explained its adherence to Morrissey v. Brewer (1972), 408 U. S. 471, and Gagnon v. Scarpelli (1973), 411 U. S. 778. In Miller, at page 104, Chief Justice O’Neill stated:
+"The minimum due process requirements for revocation of parole set forth in Morrissey v. Brewer (1972), 408 U. S. 471, 489, include:
+" '(a) written notice of the claimed violation of parole; '(b) disclosure to the parolee of evidence against him; (c) opportunity to be heard in person and to present witnesses and documentary evidence; (d) the right to. confront and .cross-examine adverse witnesses (unless the hearing officer specifically finds good cause for not allowing confrontation; (e) a “neutral and detached” hearing body such as a traditional parole board, members of which need not be judicial officers or lawyers; and (f) a written statement by the fact finders as to the evidence relied on and reasons for revolting parole’” (Emphasis added.)
+We'recognized in State v. Zoz, unreported, First District Court of Appeals No. C-74517, decided October 27, 1975, the binding authority of Miller, supra, and particularly. affirmed our awareness of the Morrissey and Miller criteria, for a legally acceptable revocation hearing including the importance of “a written statement by the-.[court] as to the evidence relied on and reasons for .revoking parole [or probation].” Morrissey, supra at 489; Miller, supra at 104.
+Did the court provide a written statement-as to the evidence relied on and reasons for. revoking probation as required? -The pertinent part of the court’s order (entry) follows, and clearly the language therein is strikingly inadequate:
+. ;“This cause came on-this day to be heard, the Defendant being brought into Court, in custody of the Sheriff of Hamilton ‘ County,: Ohio,:' having' been arrested ■ by said Officer, charged with violating the conditions of his probation, and being represented by his Counsel, H. Lduis Sir-kin, and the Court having inquired into the conduct of the said Defendant, found that he did violate the conditions of his probation, and therefore, terminated the. same and 'the Defendant was thereupon inquired of if he had anything to say why judgment should not be pronounced against him, ■and showing no good and sufficient cause why judgment should not be pronounced against him * *
+However, the requirement of a “written statement” by the court need not be satisfied only by an inclusion in the •court’s order — although it may and perhaps should. The mandatory explanation may be provided in other ways, one of which would be to advise the probationer at the hearing itself, with particularity, of the evidence and the reason or reasons for revocation and ascertain that the announced revocation rationale is transcribed for the record — i, e., “written,” as exacted by controlling authorities. •
+In the matter, sub judice, the court indefinitely stated:
+“Well, it’s the court’s feeling that the probation department has done all they are capable of doing to handle your problem, and you’re not cooperating, and leave the court no alternative but to sentence you to the Ohio Be-formatory for a period of not less than one nor more than five years and pay the costs of this Court.”
+We believe the court’s quoted observation falls short of a “written statement” delineating evidence and reasons relied upon for revoking probation which the court not only should have provided in reasonable detail, but should have characterized as such. Although the above explanation made for the benefit of the defendant seems random and definitely too meager, an explanation was made and we cannot find that defendant was in any way prejudiced; We hold, therefore, the third assignment of error to he void of merit.
+The fourth and final assignment presents for review the issue whether error resulted from conduct of the probation hearing with the presence of original trial counsel, but not Mr. Hugh D. Holbrock, alleged to have been defendant’s retained counsel. In support of the assignment, explanation is made that Mr. Holbrock was retained two days prior to Nichols’ revocation hearing. In appellant’s brief it is urged that:
+“Mr. Holbrock, along with the probationer’s mother, spoke with a member of the probation department and was assured that he would be notified whenever any hearing would-be held * * *. Mr. Holbrock was never notified.”
+There is nothing in the record to substantiate the contention that Mr. Holbrock was retained by Nichols. A conversation “with a member of the probation department” does not accomplish official professional retention. According to the transcript of proceedings, no one enlightened the court at the time of the hearing about any other counsel. H. Louis Sirkin, who represented Nichols at the original criminal trial, represented the appellant throughout the hearing. Although the transcript reveals a considerable colloquy between Nichols and the court, no suggestion whatever appears to the effect that Nichols desired any counsel other than Mr. Sirkin. Defendant claims that he was deprived of his right to choose private counsel. If such was defendant’s desire, it remained effectively undisclosed.
+Defendant cites United States v. Ross (1974), 503 F. 2d 940, which is factually distinguishable. In Boss the probationer had no counsel. Here the probationer was represented by competent cowisel with whom seemingly at the hearing he had no dissatisfaction.
+The final assignment lacks merit. It is overruled. We affirm the judgment below.
+Judgment afirmed.
+■Palmee, J., concurs.
+Shaítstou, P. J., not participating.
+We would hope and expect that trial courts in the conduct of probation revocation hearings would be more informative and expansive in indicating evidence and reasons relied upon for revocation even though the court’s conclusions are announced at the hearing and then and- there transcribed by a court reporter. Moreover, as inflexible as the “written statement” rule would seem to be, what “evidence * * * and reasons”' satisfy it probably must be resolved by a case by case consideration.
