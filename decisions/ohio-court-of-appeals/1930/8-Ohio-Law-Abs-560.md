@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 10650"
+decided: "1930-04-21"
+citations: ["8 Ohio Law Abs. 560"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LEMERT, J and SHERICK, J (5th Dist) and ROBERTS, J (7th Dist) sitting.", "Lemert and Sherick, JJ, concur."]
+parties: ["GALLO v PARATORE"]
+source_url: "https://static.case.law/ohio-law-abs/8/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1634852
+---
+
+# Gallo v. Paratore
+
+## Majority (ROBERTS, J.)
+
+ROBERTS, J.
+The first error complained of is that the court erred in overruling the motion of the defendant below to make the statement of facts more definite and certain. The statement of facts after alleging certain injuries used this language: “Injuries to her body.” The motion was to make this allegation more definite and certain by setting out what the injuries were. This motion was overruled. In the introduction of testimony it developed that it was claimed by the plaintiff below that one of the injuries which she received in the action was an umbilical hernia which was not specifically alleged in the statement of claim. Objection was made to the introduction of any evidence concerning this alleged injury, which objection was sustained by the court.
+Counsel for plaintiff below was then permitted to amend his petition by inserting this injury and evidence was then permitted to be received regarding it. This was done against the objection of the plaintiff in error and this constitutes the second alleged error.
+It developed in the trial that Dr. Wilson S. Chamberlain examined the defendant in error a few days after the injury and he discovered a small umbilical rupture as he describes it about the size of the end of his finger. His examination having been made for plaintiff in error it is assumed, and the fact is not understood to be denied that knowledge then came to the defendant in error of this alleged result of the collision.
+It is not apparent in the evidence that either the overruling of the motion to make the petition more definite and certain or the permitting of the amendment above stated to the petiion was in any way a surprise or was prejudicial to the plaintiff in error. This court does not find prejudicial error in this respect.
+The third allegation is that of error in the charge. The following, commencing on page 111 of the record, is that part of the charge concerning which complaint is made:
+“Actionable negligence exists only when one negligently injures another tó whom he owes the duty of exercising care. It is a failure to discharge a legal duty to the person injured. If there is no duty there is no negligence. There are necessarily three elements essential to exist; first, the evidence of a duty on the part of the defendant to protect the plaintiff from injury of which she complains. Second, the failure upon the part of the defendant to perform that duty, and third, an injury to the plaintiff from such failure of the defendant. When these elements are brought together, they unitedly constitute actionable negligence. The absence of any one of these elements renders the evidence insufficient.”
+The court did not otherwise in the instructions define or explain negligence as to be cpnsidered and applied by the jury in determining the issues submitted. Negligence is generally defined to be want of ordinary care. This instruction just quoted says it is a failure to discharge a legal duty to the person injured. The legal duty to the person injured was only to exercise ordinary care under the circumstances to protect her from injury. The first of the three elements is later said by the trial judge to be the evidence of a duty pn the part of the defendant to protect the plaintiff from injury of which she complains. It is apprehended that the language thus used is such that a jury ordinarily would and presumably did in this case understand that it was the duty of the defendant below to protect the plaintiff below from the injury which she received, and that thig instruction as it would naturally be understood by the jury made the plaintiff in error an insurer of the defendant in error. It cannot be said that the jury therefore did not return a verdict against the defendant below for the reason that he as a matter of fact caused the accident. It has already been stated that the defendant below explained the accident by his effort to avoid colliding with a boy running across the street.
+The husband below, Anthony Paratore, testified that immediately preceding the accident he saw a boy upon the opposite side of the street. This testimony to some extent corroborates the testimony of the plaintiff in error. According to his claim he w,as suddenly confronted with an emergency, that is, an effort to save the boy from injury and under such circumstances he is not held to the exercise of such good judgment as might be required where opportunity existed for reflection and choice of action, although the court did not so give the case to the jury, presumably this was a res ipsa loquitur case, and the injury to the woman having been caused by the automobile operated by the defendant below resulting in'striking her when she was upon the sidewalk and a presumption of negligence may exist placing the rebuttal of which on the driver of the car and this he attempts to do by saying that in trying to avoid injuring the boy in this sudden emergency and swerving his car and knowing the slippery condition of the pavement, his car slewed and unavoidably, so far as he was concerned, the woman was struck and injured. This explained to the jury, and properly understood by the jury, might be considered as constituting a good defense in the action.
+In any event it was a question of fact for the jury.to determine whether the defendant below was guilty of negligence, that is of a want of exercise of ordinary care for the safety and protection of this woman.
+We think that the instruction was erroneous and prejudicial to the plaintiff in error, and for which the judgment of the Municipal Court is reversed and the cause remanded.
+Lemert and Sherick, JJ, concur.
