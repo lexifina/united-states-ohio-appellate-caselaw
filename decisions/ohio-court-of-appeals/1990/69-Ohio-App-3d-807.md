@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "57562"
+decided: "1990-10-15"
+citations: ["69 Ohio App. 3d 807"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matia, P.J., and Franklin, J., concur.", "Robert Franklin, J., retired, of the Lucas County Court of Common Pleas, sitting by assignment."]
+parties: ["LIMERICK et al., Appellants, v. EUCLID BOARD OF EDUCATION, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/69/cases/0807-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463294
+cites_cases: ["19 OBR 456", "19 Ohio App.3d 285", "20 OBR 204", "20 Ohio App.3d 168", "35 A.L.R.3d 725", "378 N.E.2d 155", "455 N.E.2d 713", "484 N.E.2d 257", "485 N.E.2d 266", "55 Ohio St.2d 72", "7 OBR 390", "7 Ohio App.3d 307", "9 O.O.3d 75"]
+---
+
+# Limerick v. Euclid Board of Education
+
+## Majority (Francis E. Sweeney, Judge.)
+
+Francis E. Sweeney, Judge.
+Plaintiffs-appellants, Courtney Limerick, a minor, et al., timely appeal the trial court’s granting of summary judgment in favor of defendant-appellee, Euclid Board of Education. For the following reasons, we affirm the decision of the trial court.
+The facts material to appellee’s summary judgment motion are as follows: Appellant Courtney Limerick decided to try out for the Euclid High School varsity football team while he was a student there in the fall of 1987. On September 22, 1987, appellant was practicing with the team when he was tackled by two teammates, causing him injury.
+Prior to her son’s trying out for the football team, appellant Monica Limerick, Courtney’s mother, executed several forms, including a form authorizing her son to play football, a school drug and alcohol form, and an emergency medical authorization form. The school also had a form requiring members of the team to have accident insurance coverage to participate in all practice and games during the school year. This form included an acknowledgement that the parent or guardian purchased such accident insurance and released the school from liability for injuries resulting from school activities. Appellant Monica Limerick testified she did not see this form until after her son’s injury. At the time of Courtney’s injury, he did not have medical insurance. Appellants knew they had no medical insurance coverage for Courtney. Furthermore, appellants admitted they had never been told by anyone at the school or the school board that medical insurance would be provided for Courtney.
+As a result of the injury, appellants filed an action against appellee, alleging negligent supervision in permitting Courtney Limerick to play without first obtaining a school medical insurance coverage form. Appellee answered, denying the allegations and raising several affirmative defenses. After discovery, appellee filed a motion for summary judgment, which the trial court granted on March 22, 1989. Appellants now timely appeal, raising three assignments of error for our review.
+“I. The court erred in granting summary judgment on the ground that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.
+“II. The court erred in granting summary judgment on the ground that the Euclid school board is immune from liability in this case under R.C. 2744.02(B).
+“III. The court erred in holding that failure to determine insurance coverage was not the proximate cause of the injury complained of where that injury consists of incurring medical bills.”
+Assignments of Error I, II and III are interrelated and will be considered together. Appellant argues the trial court erred in finding the following: (1) there is no genuine issue of material fact presented; (2) pursuant to R.C. 2744.02(B), the defendant is immune from liability under the facts presented; (3) defendant is under no duty to provide for or to ensure that plaintiff had insurance; and (4) no evidence was presented that failure to provide insurance was the proximate cause of alleged injuries sustained.
+Civ.R. 56 provides that before summary judgment may be granted, it must be determined that: (1) no genuine issue as to any material fact remains to be litigated; (2) the moving party is entitled to judgment as a matter of law; and (3) it appears from the evidence that reasonable minds can come to but one conclusion and, viewing such evidence most strongly in favor of the party against whom the motion for summary judgment is made, that conclusion is adverse to that party. Petrey v. Simon (1984), 19 Ohio App.3d 285, 19 OBR 456, 484 N.E.2d 257.
+To sustain a negligence action, it is necessary to demonstrate: (1) the existence of a legal duty owing to plaintiff; (2) a breach of that duty; and (3) proximate causation. Person v. Gum (1983), 7 Ohio App.3d 307, 7 OBR 390, 455 N.E.2d 713. If there is no duty imposed by law, there can be no legal liability for negligence. Moncol v. North Royalton Bd. of Ed. (1978), 55 Ohio St.2d 72, 9 O.O.3d 75, 378 N.E.2d 155.
+Appellants contend that appellee had a legal duty to prohibit Courtney Limerick from playing in practice sessions and games until appellee obtained a medical insurance coverage form signed by appellant Monica Limerick. Appellants assert that appellee’s failure to obtain this form was a breach of its duty to use ordinary care in supervising Courtney Limerick in his participation of school football, which proximately resulted in appellants’ incurring medical expenses. This argument is without merit.
+The appellants cite no legal precedent imposing a duty on a school to obtain proof that an athlete has medical insurance. While there may be a general duty to supervise an athlete by giving adequate instruction, supplying proper equipment and supervising the particular contest, that duty cannot be extended to require proof of medical insurance. See Annotation (1971), 35 A.L.R.3d 725, 734.
+Furthermore, no evidence exists that the school policy of obtaining a medical insurance coverage form was for the benefit of appellants. See Jewell v. Columbus (1984), 20 Ohio App.3d 168, 20 OBR 204, 485 N.E.2d 266. In addition, appellants admit they were never told that medical insurance would be provided for Courtney, and they have presented no evidence to support their argument that they were led to believe appellee provided medical insurance. Therefore, we cannot find that any action of the school imposed a duty on the school to obtain such proof for the benefit of appellants.
+Since we have found no breach of a duty owed appellants, the issue of whether the “breach” proximately caused appellant’s injuries is moot. Thus, we find the trial court did not err in finding no evidence was presented to show that appellee proximately caused appellant’s injuries.
+Appellants further contend that appellee is liable pursuant to R.C. 2744.02(B)(4), which provides that political subdivisions such as appellee are liable for injury to a person that is caused by negligence of their employees and that occurs within or on the grounds of buildings used in connection with the performance of a governmental function. However, as we have found the school under no duty imposed by law, there can be no legal liability for negligence. Moncol, supra. Thus, R.C. 2744.02(B)(4) does not apply. The trial court, in citing R.C. 2744.02(B)(4) to support its finding that the school is immune from liability, apparently meant to cite R.C. 2744.02(A)(1) instead. R.C. 2744.02(A)(1) controls here and provides that appellee, as a political subdivision, is immune from damages caused by an act performed or omitted in connection with a governmental function. We find this clerical error does not prejudice appellants in light of the other findings made by the trial court and is, therefore, harmless. Thus, Assignment of Error II is without merit.
+In conclusion, the trial court properly granted summary judgment in favor of appellee since reasonable minds can only conclude that appellee had no legal duty to require proof of medical insurance prior to allowing appellant to practice with the school football team.
+Accordingly, Assignments of Error I, II and III are overruled.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Matia, P.J., and Franklin, J., concur.
+Robert Franklin, J., retired, of the Lucas County Court of Common Pleas, sitting by assignment.
