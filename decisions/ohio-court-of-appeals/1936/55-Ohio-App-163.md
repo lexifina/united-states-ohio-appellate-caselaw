@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1936-09-29"
+citations: ["55 Ohio App. 163", "24 Ohio L. Abs. 53"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lemert, P. J., and Sherick, J., concur."]
+parties: ["McKenna, Appellant, v. The Mansfield Leland Hotel Co., Appellee."]
+source_url: "https://static.case.law/ohio-app/55/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1352968
+cites_cases: ["107 Wash. 206", "107 Wash., 206", "157 So. 705", "172 Miss. 609", "173 Miss., 609", "181 P. 680", "181 P., 680", "34 Colo. 432", "34 Colo., 432", "5 A. L. R., 451", "5 A.L.R. 451", "62 L. R. A., 477", "62 L.R.A. 477", "67 N. E., 152", "67 NE 152", "68 Oh St 89", "68 Ohio St., 89", "83 P. 131", "83 P., 131", "98 A. L. R., 1296", "98 A. L. R., 1301", "98 A.L.R. 1296", "98 A.LR. 1301"]
+---
+
+# McKenna v. Mansfield Leland Hotel Co.
+
+## Majority (Montgomery, J.)
+
+Montgomery, J.
+An appeal was perfected to this court on a question of law from the Common Pleas Court.
+The appellant, Sarah McKenna, as plaintiff in the lower court, filed her petition seeking damages for slander against The Mansfield Leland Hotel Company. She averred that, prior to the things complained of, she had been an employee of the defendant company and had a good reputation for honesty and honor; that the manager of the defendant company called her to his office and in the presence of divers people said, “yon stole the bntter and that is not the only thing you ever stole around here.” No special damages' were pleaded.
+The answer admitted the employment* denied knowledge as to the plaintiff’s character, and denied generally the other allegations of the petition.
+A jury having been impaneled for trial, the plaintiff having rested her case, the trial court sustained a motion for a directed verdict and rendered judgment thereon. From that action this appeal was perfected.
+Appellant claims that there was error, not only in directing a verdict, but also in the exclusion of certain proffered evidence. We have read the entire record. Complaint is made of the striking out of a part of a statement by Mrs. McKenna that the hotel manager made the charge against her in so loud a tone that he could be heard in the hotel lobby. This is a mere conclusion, and in any event there was no evidence offered to the effect that anyone in the lobby did hear him.
+Some competent evidence was excluded, but all of it was later admitted, either without objection, or over objection. Especial stress is placed upon the sustaining of an objection to questions asked the hotel manager upon cross-examination as to his conversation with George W. Biddle, but Mr. Biddle, later called as a witness for plaintiff, gave his version of the interview without objection.
+We find no error in the exclusion of evidence.
+We cannot follow the contention of counsel for appellee that the words were not slanderous per se. There is some variance, but not material variance, between the language charged in the petition and that recited in the testimony. True, Mrs. McKenna testified that Mr. Hodgson, the hotel manager, said: “I don’t believe you bought it, you took that from the hotel.” Such language used under such circumstances seems to us clearly to charge the appellant with the crime of larceny. And further on in the record appears the statement of Mrs. McKenna that Hodgson, in the same interview, said: “You have taken more than butter, you have taken hundreds of dollars worth. ’ ’
+The only question in this case which has given us any concern or trouble is whether there was any publication of the charge such as to make it slanderous. It was made by Hodgson to Mrs. McKenna in the presence of Miss Pfeifer, who was the immediate superior of Mrs. McKenna, in charge of the hotel kitchen, and in the presence of no other person. There is no evidence that any other person heárd the conversation. There is no evidence that either Hodgson or Miss Pfeifer repeated the charge or renewed it to anyone at any time.
+There is some evidence indicating that there was some talk among other hotel employees, but there was no tracing of the source of it to either of these persons. The only comment traced to Miss Pfeifer was a statement by another kitchen employee that the former had stated that “she had let Sarah go.”
+The only subsequent statement attributed to Hodgson was that made to Mr. Biddle who sought a recommendation for Mrs. McKenna and failed. Upon Biddle’s insistence for a reason for the refusal Hodgson explained why he believed the butter had not been bought, but had been taken. A slander charge cannot be based upon such an explanation so obtained.
+Referring to the case of a servant who has left a service and is seeking employment elsewhere, Newell on Slander and Libel (4th Ed.), page 430, says:
+“A duty is thereby cast upon the former master to state fully and honestly all that he knows either for or against the servant; and any communication made in the performance of this duty is clearly privileged for the sake of the common convenience of society, even though it should turn out that the former' master ■was' mistaken in some of his statements.”
+And on page 431, this author further states:
+“If in answer to inquiries addressed to him concerning a former servant of his, he states that which happens to be incorrect, he will not be liable to an action, unless, of course the statement be flagrantly untrue and defamatory, to his knowledge and belief.”
+The question is, therefore, can a slander charge be maintained against a corporation, because of a statement made by one of its officers to an employee, in the presence of the superior of that employee, the superior being also an employee? In passing, it might be observed that we cannot see that the presence of the charged employee is material. The statement by the manager to the kitchen superintendent or supervisor is the gravamen of the offense, and the sole basis for the lawsuit, if any exists.
+It seems to us that if the manager were to make such a charge in good faith — and there is no proof of express malice — the natural and right thing for him to do would be to make the charge in the presence of this' woman’s immediate superior.
+In the record before us there is no dispute of fact, and it therefore became a question of law for the court to determine whether the communication was privileged or quasi-privileged. If the court correctly determined that it was such, then there was no question for the jury to determine, and the directing of the verdict was proper.
+“Question of privilege in action for slander is for court on undisputed facts but, if facts are disputed, question whether necessary facts exist must be submitted to jury.” Louisiana Oil Corp. v. Renno, 173 Miss., 609, 157 So., 705, 98 A. L. R., 1296.
+"Whether the occasion of a communication is such as to make it privileged is a question for the court. Denver Public Warehouse Co. v. Holloway, 34 Colo., 432, 83 P., 131.
+“In an action for libel the question whether the publication is or not libelous per se is a question for the court. And where the publication is claimed to be privileged the question whether or not the occasion gives the privilege, the controlling facts being conceded, is also for the court.” Mauk v. Brundage, 68 Ohio St., 89, 67 N. E., 152, 62 L. R. A., 477, second paragraph of the syllabus.
+We have not been able to find in Ohio any authorities directly in point on the question of whether sucl a communication is privileged, but other states anc text-writers have made pronouncements upon situations' somewhat similar to the case at bar and the principles announced by them are applicable here.
+“A publication is conditionally or qualifiedly privileged where circumstances exist, or are reasonably believed by the defendant to exist, which cast on him the duty of making a communication to a certain other person to whom he malees such communication in the performance of such duty, or where the person is sc situated that it becomes right in the interests' of society that he should tell third persons certain facts, which he in good faith proceeds to do.” 17 Euling Case Law, 341.
+“The preponderance of authority supports the view that communications between an employer and an employee, or between two employees, concerning the conduct of a third employee or former employee, are qualifiedly privileged, and thus, even though such a communication contain matter defamatory to such other or former employee, he cannot recover in the absence of sufficient proof of actual malice to overcome the privilege of the occasion.” 98 A. L. R., 1301, annotation.
+A communication between officers of a corporation on the subject of the conduct of one of its servants is privileged. Denver Public Warehouse Co. v. Holloway, supra.
+“The few authorities are to the effect that libelous communications between different offices of the same corporation, if related to the business of the corporation and made without actual malice, are privileged.” Prins v. Holland North Am. Mortgage Co., 107 Wash., 206, 181 P., 680, 5 A. L. R., 451, annotation page 455.
+We find this pronouncement in 36 Corpus Juris, page 1225, which seems to -us directly applicable to the situation:
+“A corporation is an entity so that its acts through its members as a corporate body, or through its officers or agents, are regarded as the acts of the legal entity or artificial person as distinguished from the members who' compose it, or the officers or agents through whom it acts. Hence, it is held that communications between officers of a corporation or between different branches of the same corporation, in the course of corporate business, are not publications' to third persons by the corporation.”
+Here we have a corporation, and the act complained of is a statement made by the manager to the kitchen superintendent or supervisor about an employee in the kitchen. The natural way for this corporation to act under such circumstances was for its manager to communicate with the immediate superior of the woman involved. The two had a common interest to protect.
+Newell on Slander and Libel (4th Ed.), 460, says:
+“In those cases' where one person has an interest in the subject-matter of the communication, and the person to whom the communication is made has a corresponding interest, every communication honestly made in order to protect such common interest is privileged by reason of the occasion.”
+Under the authorities cited it is our judgment that appellant established no cause of action, that judgment was properly directed against her, and the judgment of the lower court is affirmed.
+Judgment affirmed.
+Lemert, P. J., and Sherick, J., concur.
