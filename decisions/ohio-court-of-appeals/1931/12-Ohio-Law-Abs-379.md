@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 78"
+decided: "1931-05-02"
+citations: ["12 Ohio Law Abs. 379"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and KUNKLE, JJ, concur."]
+parties: ["PENWELL et v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/12/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1642779
+cites_cases: ["78 Oh St 76"]
+---
+
+# Penwell v. State
+
+## Majority (ALLREAD, J.)
+
+ALLREAD, J.
+The principal contention in the trial of the cases before the Justice of the Peace relates to the testimony of accomplices. It appears that in the trial of the case the State introduced as a witness one Charles Hockenberry, who was prosecuted for the same offense and was found guilty and sentenced to pay a fine of $100.00, and in default thereof to be committed to the workhouse. Hockenberry testified on the trial of these plaintiffs in error to the effect that a siene had been secured and lay at a point to the north in Madison County. The plaintiffs in error came to the home of Hockenberry in the evening and remained at his home until about 11 o’clock when Hockenberry returned, and Hockenberry testifies that they all repaired to the place on Little Darby where the seine had been secreted, that they all helped in the use of the Seine and that a number of fish were caught, that the parties thereupon returned with the seine and the fish to the home of Hoekenberrry and that the fish were killed and their heads left in the alley in the rear of the Hockenberry home and the parties separated. The State also relied upon the testimony of Mrs. Hockenberry who was present at the home and who testified thac all the plaintiffs in error were present at her home and waited for her husband, but she went to bed before her husband returned. Her testimony is used as corroboration by the state. The plaintiffs in error all testified on the trial of the case denying that they were present at the Hockenberry home that evening or were in any way connected with said offense. It is evident, that the State relied upon the testimony of Hockenberry, and it may be conceded that Hockenberry was an accomplice.
+Counsel for plaintiffs in error contends that the testimony of Hockenberry was incompetent. We are satisfied that in this contention counsel for plaintiffs in error is in error. The most that can be claimed is that the court must instruct the jury, whore the case is tried to a jury, that no verdict can be rendered upon the testimony of an accomplice unless such testimony is corroborated. In the 12 Ohio Jurisprudence, §443, the following is laid down as a summary of the law:
+“Very slight circumstances may constitute corroborating evidence. The statements and conduct of the accused may corroborate the testimony of an accomplice. It is even suggested that the appearance, manner and conduct of the accused himself upon the witness stand may amount to corroborating evidence.”
+The same authority (§444) holds that—
+“Whether there is corroboration of the testimony of an 'accomplice is a question for the jury.”
+It appears that in these cases a trial by jury was waived, and the case was tried to the Magistrate. There was, therefore no instructions required to the jury, and this court will, only look to see whether the evidence before the justice of the peace was sufficient. Charles Hockenberry was undoubtedly an accomplice. He testified that he went with plaintiffs in error to the place where the seine had been secreted, found the seine and all of them used the seine and caught the fish, that the seine was brought from the river to his home and it was found by the officer in one of the outbuildings in the possession of Hockenberry at the time Hockenberry was arrested. That may be considered as corroborative evidence although the corroboration does not include the facts tending to prove guilt upon any of the plaintiffs. Hockenberry also testified to the fish heads which were found in the alley in the rear of his building. This is also corroborated by the officer. Mrs. Hockenberry was not a party in any way to the unlawful purpose and she testifies to the presence of the plaintiffs in error at her home on the evening before the fishing took place. Some of the officers testify to their finding of some wet clothes, which may have been worn by some of the plaintiffs in error, at the home of Hockenberry. We think this was sufficient corroboration to justify the Magistrate in finding the defendants guilty and we find no prejudicial error in respect to the trial.
+The Magistrate, at the time plaintiffs in error were found guilty, ordered them sentenced to the workhouse at Dayton. We think this workhouse sentence conforms to the provision of §1351-13 GC and that sentence applies to a person who has been convicted of a misdemeanor. ■
+“By a Court or Magistrate in any county or municipality having no workhouse and the Commissioners of such County or Council of such municipality have made provisions as allowed by law for receiving prisoners so convicted into the workhouse,” etc.
+The workhouse sentence is also authorized by §§1453 and 1454 of the Revised Statutes, which are a part of the Fish and Game Laws. Wherever the provisions of §1351-13 GC conflict with the provisions of §§1453 or 1454 GC the provisions of the latter sections should apply, such sections being a part of the Fish and Game Act and provide for penalties thereunder. The sentence of the Magistrate that each defendant pay $200.00 and costs is high, but we have no jurisdiction over the amount of the penalty.
+Again, it is urged by counsel for plaintiffs in error that the judgment of the Magistrate is not sufficiently certain as to the term of service in the workhouse, that the judgment does not include the credit which the plaintiffs in error were entitled to receive upon their fine during the period of their continuance in the workhouse. We think this point is well made. The sentence must contain not only the maximum term for which the defendants are sentenced but must contain the incidental provision as to credits upon the fine from the service of each of the defendants in the workhouse. The sentence is, therefore erroneous in this respect and the cause will, therefore, be remanded to the Magistrate for a correction of the sentence so as to include these features. — Hamilton v State, 78 Oh St 76.
+Judgment affirmed except as to sentence. Cause remanded for modification of sentence in accord with this opinion.
+HORNBECK and KUNKLE, JJ, concur.
