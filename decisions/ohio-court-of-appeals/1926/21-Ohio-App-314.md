@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1926-03-29"
+citations: ["21 Ohio App. 314"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton and Cushing, JJ., concur."]
+parties: ["Lindemann v. Eyrich, Sr."]
+source_url: "https://static.case.law/ohio-app/21/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1851219
+cites_cases: ["100 Ohio St., 473", "104 Ohio St., 500", "110 Ohio St., 516", "126 N. E., 890", "126 N. E., 891", "136 N. E., 215", "14 Ohio St., 288", "144 N. E., 51", "170 Ind., 273", "191 Ala., 411", "37 Ohio St., 469", "40 Ind. App., 311", "81 N. E., 1084", "82 N. E., 1051"]
+---
+
+# Lindemann v. Eyrich
+
+## Majority (Buchwalter, P. J.)
+
+Buchwalter, P. J.
+George F. Eyrich, Sr., filed an action against Eva M. Lindemann and the Cincinnati Traction Company, as defendants, in the municipal court of Cincinnati, seeking damages for injury to the automobile of plaintiff, claimed to have been caused by the negligence of the defendants.
+The jury returned a verdict against Eva M. Lindemann only, and found in favor of the Cincinnati Traction Company. Judgment was entered on the verdict, and Eva M. Lindemann, without making the Cincinnati Traction Company a party, prosecuted error to the court of common pleas, where the judgment was affirmed. The cause is now here on error to this judgment.
+It was claimed by the defendant in error in the court of common pleas, and is contended here, that because of the failure of the plaintiff in error to make the Cincinnati Traction Company a party to the error proceedings, it was the duty of the court of common pleas, and now is the duty of this court, to dismiss the error proceedings, because of lack of proper parties.
+The bill of particulars charged both defendants with negligence, which resulted in a collision between the Lindemann automobile and the street car, causing the Lindemann automobile to be thrown against plaintiff’s automobile, which was parked at the curb. In the answers filed, each defendant averred that the damage was caused by the sole negligence of the other defendant.
+We will first consider the motion to dismiss for want of proper parties, each defendant having been charged in the municipal court with acts of negligence, causing the damage.
+Many cases are cited to the effect that parties united in interest, parties to a joint contract, etc., are necessary parties to proceedings in error. In this case, however, the defendants were charged as tort-feasors.
+The case of Columbia Graphophone Co. v. Slawson, 100 Ohio St., 473, 126 N. E., 890, cited hy the defendant in error, was a case wherein the court held that joint obligors, upon a guaranty, are parties united in interest within the meaning of Section 11256, General Code, and that they were necessary parties to any error proceeding. The reason for this, the court said, is: ■
+“That this action could not have been maintained in the trial court against one of the three joint obligors without waiver on the part of such defendant, express or implied, seems to be obvious, and indeed it is not otherwise claimed by the plaintiff in error.”
+The Graphophone case was not one involving an action in tort. As to two of the joint obligors, a motion for a new trial had been sustained, and no judgment was rendered in their favor, and they were dismissed by the plaintiff. It was therefore contended that they were no longer parties united in interest. But on page 476 (126 N. E., 891), the court, speaking through Judge Robinson, states:
+“Much less are we able to see how the voluntary dismissal by the plaintiff in error of two of the joint obligors could operate to sever their joint interest and thereby without the consent of the defendant in error deprive her of the contingent right to require contribution.”
+The rule in Ohio is that where the obligation is joint, and there is a joint judgment, or parties are united in interest, one of the defendants cannot perfect error proceedings, without making all joint obligors or parties in interest parties to the action.
+In the case of Tod v. Stambaugh, 37 Ohio St., 469, there was a joint obligation.
+In Smetters v. Rainey, 14 Ohio St., 288, which case was largely relied upon by the court below, it was held that the defendants in a joint judgment are necessary parties to proceedings in reversal. But this was a case where the parties involved were the maker and the indorser of a promissory note.
+In the case above referred to, the parties in question were all necessary parties to the action below.
+Liability in tort is not a joint liability, but is joint and several, and either of the parties below could have been sued without naming the other as defendant.
+We have not had brought to our attention a decision by the Supreme Court on this precise question, but we find authority to the effect that even after judgment against two tort-feasors, it is not necessary to proceed against both to enforce the judgment.
+In Pennsylvania Co. v. West Penn. Rys. Co., 110 Ohio St., 516, 144 N. E., 51, the third paragraph of the syllabus reads: “Where a judgment has been rendered against two joint tort-feasors, an action can be maintained and final judgment rendered upon the record of such judgment against one of such judgment debtors, even though no service of summons is made upon the other judgment debtor. There being no contribution between joint tort-feasors, the record of such judgment is a joint and several liability.”
+Liability in tort, therefore, being joint and several, whatever the judgment may be in such case, the injured party has his rights, after judgment, against each tort-feasor separately, and there is no necessity, therefore, there being no right of contribution, to make all such defendants parties to an error proceeding.
+Elliott, in his work on Appeal Procedure, in which he uses the term “appeal” with reference both to error proceedings and what are known in this state as appeals, and referring to two or more defendants, where the judgments are diverse, at page 119, Section 141, states:
+“Where the judgment is distinct and complete in itself, affecting only the party who seeks its overthrow, there is no reason for compelling him to augment the expense of litigation by making parties to his appeal persons who were parties to the record but not to the judgment. Where no substantial good can be accomplished by bringing parties before the appellate tribunal, it is worse than a waste of time and money to give them notice, for it is, to some extent at least, a hindrance and obstruction of justice. Thus, where two persons are sued as wrongdoers in a case where the wrong is several, and judgment goes against one of them and in favor of the other, there is ordinarily no conceivable reason why the unsuccessful defendant should give notice to the fortunate one, since it is very clear that the latter can in no wise be affected by the appeal. * * * The better considered cases sustain us in asserting that where the right of action is clearly divisible and the judgment is against one of the defendants and in favor of the other, the unsuccessful defendant need not make the other a party to the appeal, unless such action is taken in the trial court as makes both of the defendants necessary parties to the appeal.”
+Various tort cases in other states are to the same effect. In Southern Railway Co. v. Elliott, 170 Ind., 273, 82 N. E., 1051, an action for damages for personal injuries, the court held: “Where three parties are joint defendants, but the verdict and judgment are against one thereof and in favor of the other two, the successful two are neither proper nor necessary parties to an appeal taken by the unsuccessful one.”
+From Indianapolis Traction & Terminal Co. v. Holtzclaw, 40 Ind. App., 311, 81 N. E., 1084, we quote the following:
+1. “Tort-feasors may be sued separately or jointly,.at the election of the person injured.”
+4. “Where, in an action against two tort-feasors, a verdict was rendered against one, on which judgment was entered, and a verdict was given for the other, the latter is not a party to the judgment, and need not join in an appeal therefrom.”
+See, also, Southern Bitulithic Co. v. Perrine, 191 Ala., 411, 67 So., 601.
+In view of the above authorities, the motion to dismiss this proceeding in error, for want of proper parties, will be overruled.
+The court of common pleas in its opinion held that as there was a failure to make proper parties defendant, the court was without jurisdiction to reverse or modify the judgment of the municipal court, and a judgment of affirmance was entered. If the proper parties were not before the court to give it jurisdiction, the petition in error should have been dismissed. However, holding as we do that the Cincinnati Traction Company was not a necessary party to the error proceedings, and there being a judgment in the court of common pleas affirming the judgment of the municipal court, we must next consider the errors complained of by the plaintiff in error: That the municipal court erred in permitting counsel for the Cincinnati Traction Company to cross-examine Eva M. Lindemann with reference to alleged statements to an insurance company; in permitting said Eyrich to testify as to the damage to his said automobile; and in overruling the motion for a directed verdict for defendant, because of failure of proof as to damage.
+Mr. Eyrich was permitted, over objection, to testify as to the value of his automobile before and after the collision. No other evidence was introduced on the subject of damages. It is contended that the witness was not qualified to give testimony as to these values. We have examined the record and consider that he was a competent witness on this subject, and that the objection raised would only affect the weight. and not the competency of the evidence.
+This disposes also of the question of the overruling of the motion for a directed verdict for defendant.
+The cross-examination of the witness Lindemann as to any statements made by her to an insurance company, or to her attorneys, as to the speed at which her automobile was proceeding, was not prejudicial error materially affecting the rights of the plaintiff in error, under authority of Goz v. Tenney, 104 Ohio St., 500, 136 N. E., 215.
+As we find no error prejudicial to the plaintiff in error in the trial of this cause in the municipal court, and the judgment of the court of common pleas is a judgment of affirmance, we therefore, for the reasons stated, affirm the judgment of the court of common pleas.
+Judgment affirmed.
+Hamilton and Cushing, JJ., concur.
