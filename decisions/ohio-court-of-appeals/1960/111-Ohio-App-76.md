@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "8735"
+decided: "1960-02-29"
+citations: ["111 Ohio App. 76"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matthews, P. J., and O’Connell, J., concur."]
+parties: ["The State, ex rel. Ebersole et al., Appellants, v. Hurst, Chairman, Civil Service Commission of Cincinnati, et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/111/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1441616
+cites_cases: ["150 Ohio St., 371"]
+---
+
+# State ex rel. Ebersole v. Hurst
+
+## Majority (Long, J.)
+
+Long, J.
+This cause comes to this court on appeal on questions of law from a judgment of the Court of Common Pleas of Hamilton County. The case was submitted on a stipulation of facts. The sole question for determination is the meaning of Section 143.341, Revised Code, with reference to the credit to be given for seniority in a civil service examination for promotion of firemen.
+It is admitted that all the relators, in determining their grades, were compelled to accept seniority on the basis of their service in the fire department. None of them had any previous service in any other department of the city. However, one Drury, in addition to his service in the fire department, had 12% years service at the safety lane in Cincinnati; and if the computation of the civil service commission is correct, for that reason, Drury would be entitled to 4y2 points additional seniority credit on the grade he made in the examination. It is conceded on both sides that, with this credit of 4x/2 points, Drury ranks seventh, and that if he is not entitled to such credits he ranks fourteenth, and behind all the relators. It is this situation that caused relators to file the mandamus action, praying for an order compelling the civil service commission to compute the grades without giving Drury credit for the 4y2 points. In addition to the prayer for mandamus, injunctive relief was sought against the fire chief, to restrain him from using the list, published by the civil service commission, of those eligible for promotional appointment.
+Our attention has been directed to three sections of the Revised Code.
+Section 143.16, Revised Code, is the section which refers generally to promotional examinations, preference and seniority. There is no question that this section provides that an applicant who takes a promotional examination shall receive credit for seniority. This section also describes the method for determining the number of credits. Nothing is said in this section of the statutes that credits for seniority are limited to the years of service in the department in which promotion is sought. On the other hand, Section 143.341, Revised Code, is the section specifically providing for examination, promotion and credits to be given firemen. This latter section of the statutes, with the exception of the following language: “half credit for a half year’s service,” as it relates to seniority, is identical with general section 143.16, Revised Code.
+It is contended that because the Legislature repeated itself in the latter section, that in some way this means that seniority can be claimed only in a promotional examination by giving credit for previous years of service in the fire department. A great deal of stress is placed upon the argument that Drury’s service in the safety lane could no more qualify him as a fireman than if he were the driver of an ash wagon; that it is for this reason that the Legislature intended a different application of the rule of seniority for promotion of firemen.
+Relators further cite us to Section 143.28, Revised Code, which provides for removals, reappointments and demotions in the police and fire departments. The application of the present legislative seniority rule to the provisions of this section undoubtedly presents incongruities. But it is not for the courts to change the statutes to conform to what the courts consider a better rule. This would be judicial legislation. Much criticism has been heaped upon the judiciary for this very thing and properly so. It is not the province of any court to say what the law should be; it is its duty to try to determine what the law is. So in this ease there is nothing to indicate in any of the statutes, that a fireman, seeking promotion by examination, may not receive credit by way of seniority for service in any other department of the city. We agree that probably better service would be obtained if credit for seniority were limited to the service performed in the department in which promotion is sought. However, this should be addressed to the Legislature and not to the courts. Incidentally, the Legislature has a right to reward faithful employees who have given a great part of their lives to the service of the public. If such reward is inconsistent with the promotion of better service in any department of government, the Legislature should say so. Confinement of seniority to service in the department in which credit is sought for promotion is a matter of legislative discretion.
+Relators claim that the trial court relied on the case of State, ex rel. Bigam, v. Hainen et al., Civil Service Comm., 150 Ohio St., 371, in arriving at its decision; that the court took a paragraph from the opinion as its guide, when in fact the syllabus contains no such pronouncement as the law of the case. In the Bigam case, the civil service commission attempted to confine the years for credit to the time that the applicant served in the “rank” which he had at the time of the examination. The court held that such limitation is invalid. Whether it is contained in the syllabus or not, in the opinion itself, Judge Hart uses this language: “In the opinion of this court, the words, ‘years of service,’ used in the statute, must comprehend the entire period of service rendered in any department of service.” (Emphasis supplied.) Whether the law of the case warrants the inclusion of this opinion of the court in its decision, it, at least, is a suggestion to this court, as to the judgment which we should render here.
+The judgment of the Court of Common Pleas is affirmed.
+Judgment affirmed.
+Matthews, P. J., and O’Connell, J., concur.
