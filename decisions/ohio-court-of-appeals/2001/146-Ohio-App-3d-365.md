@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2000-P-0096"
+decided: "2001-10-16"
+citations: ["146 Ohio App. 3d 365"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nader, J., concurs.", "Grendell, J., concurs in judgment only."]
+parties: ["The STATE of Ohio, Appellant, v. HELD, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/146/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 528926
+cites_cases: ["1996 WL 766516", "2000 WL 1140124", "2000 WL 1774151"]
+---
+
+# State v. Held
+
+## Majority (William M. O’Neill, Presiding Judge.)
+
+William M. O’Neill, Presiding Judge.
+In this accelerated calendar case, appellant, state of Ohio (“the state”), appeals from the judgment of the Portage County Municipal Court, Ravenna Division. The court granted appellee Cheryl A. Held’s motion to suppress. The state appeals pursuant to Crim.R. 12(J). A traffic stop of Held was initiated for the reason that Held’s rear license plate was not illuminated by a light. Held was subsequently cited for driving under the influence of alcohol. The trial court found that this stop was not reasonable or based on specific, articulable facts raising a reasonable suspicion that criminal activity was occurring. The court suppressed the stop and, consequently, all subsequent evidence.
+Held was driving through the village of Windham, Ohio, at 12:30 a.m. when Officer McComas of the Windham Police Department began to follow her car. Initially, the officer could not see any rear license plate at all. Upon getting closer to the vehicle, he saw that the rear bumper was missing and that the license plate was affixed to the car at some spot to the right of where it normally would be. The license plate was not illuminated. The car was driving unusually slowly. The officer paced the vehicle at twenty-five miles per hour in a thirty-five mile per hour zone. The officer initiated a traffic stop.
+The officer approached Held and requested her driver’s license, which she was unable to produce. At this point, the officer detected an odor of alcohol. Officer McComas was not certified to give field sobriety tests, so he requested that a qualified officer be dispatched to administer the tests. Officer Battaglia was dispatched, and he administered the horizontal gaze nystagmus, the walk and turn, and the one-leg stand. Officer Battaglia formed the opinion that Held was “highly intoxicated.” Held was then arrested, and her vehicle was towed from the scene.
+At the suppression hearing, an employee of the towing company testified on Held’s behalf. He testified that when he released the vehicle to Held on the following day, the license plate light was in working order.
+In its judgment entry, the trial court held that the horizontal gaze nystagmus was not conducted in strict compliance with standardized testing procedures and, therefore, the results were not admissible for purposes of determining probable cause to arrest for intoxication. However, the trial court also found that the walk and turn and the one-leg stand tests were properly administered and, thus, admissible for purposes of determining probable cause. Having drawn these conclusions, the court did not then make any determination of whether probable cause did or did not exist to arrest Held for driving under the influence. Rather, the court turned to the question of whether the stop was justified in the first place.
+The trial court then conducted a public policy evaluation on the virtues of R.C. 4513.05, which requires that the rear license plate be illuminated. The court concluded that, since Ohio license plates now use reflective paint, which, in the trial court’s opinion, obviates the necessity for a license plate light, it is no longer reasonable to issue a citation for a violation of R.C. 4513.05. In fact, the court concluded that it is not a crime to violate the statute. From this judgment, the state timely filed its notice of appeal, arguing that the trial court erred in concluding that the stop of Held’s vehicle was unreasonable.
+In the first issue presented for review, the state argues that a violation of R.C. 4513.05 provides probable cause to stop a motor vehicle. The state is right. This court has repeatedly held that the failure to have a license plate properly illuminated is a violation of R.C. 4513.05, which warrants an investigatory stop of a vehicle. State v. Hinkle (Dec. 15, 2000), Portage App. Nos. 2000-P-0019 and 2000-P-0020, unreported; State v. Bencie (Dec. 1, 2000), Portage App. No. 2000-P-0004, unreported, 2000 WL 1774151; State v. Stamper (Aug. 11, 2000), Portage App. No. 99-P-0082, unreported, 2000 WL 1140124; State v. Walker (Nov. 15, 1996), Geauga App. No. 96-G-1966, unreported, 1996 WL 766516.
+While we recognize that Hinkle and Bencie were released subsequent to the trial court’s ruling in this case, Stamper and Walker preceded this ruling and are controlling law in the Eleventh Appellate District. We have nothing more to add to what we have already held in these cases. The trial court is without authority to decline to apply R.C. 4513.05, unless it finds that the statute itself is unconstitutional. A constitutional challenge to the validity of R.C. 4513.05 itself was not presented in this matter. Additionally, we would add that the fact Held may have had a light operating where the license plate normally would be affixed is of no avail. The license plate was not in that spot to receive the illumination. The statute requires the plate to be illuminated. Officer McComas testified unequivocally that the license plate was not illuminated and, thus, probable cause existed to initiate the stop. The state’s assignment of error has merit.
+The state’s second issue presented for review addresses the legal significance of the speed Held was driving immediately prior to the stop. In light of our conclusion regarding the first issue presented for review, this issue is moot.
+In its third issue presented for review, the state asks, although the trial court did not reach the issue, that this court find as a matter of law that probable cause existed to arrest Held for driving under the influence of alcohol. The trial court found that Officer Battaglia’s testimony with regard to the horizontal gaze nystagmus was inadmissible. It found that the other two tests were properly administered. In light of these findings, and pursuant to App.R. 12(B), we conclude on the basis of the record that, as a matter of law, probable cause existed to place Held under arrest for driving under the influence. The judgment of the trial court is reversed, and the matter is remanded for proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Nader, J., concurs.
+Grendell, J., concurs in judgment only.
