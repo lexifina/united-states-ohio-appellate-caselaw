@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1936-11-13"
+citations: ["54 Ohio Ct. App. 535", "23 Ohio Law Abs. 581"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lloyd and Carpenter, JJ., concur."]
+parties: ["The State, ex rel. Dunipace, Appellant, v. Board of Education of Fulton County School District, Appellee."]
+source_url: "https://static.case.law/ohio-app/54/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 622852
+---
+
+# State ex rel. Dunipace v. Board of Education
+
+## Majority (Overmyer, J.)
+
+Overmyer, J.
+In May, 1936, the relator, H. M. Dunipace, on behalf of himself and other resident electors of Sections 1, 2, 3, 4, 9, 10, 11 and 12 of Swan Creek Township Rural School District, Fulton county, filed a petition in Common Pleas Court praying for a writ of mandamus to compel the County Board of Education of Fulton County School District to make a transfer of the territory within the named sections from the Fulton County School District to the Henry County School District. The petition alleged that on May 8, 1936, a petition signed by more than 75 per cent of the electors within the territory had been filed with the Board of Education of the Fulton .County School District, asking for such transfer, and that the board refused and still refuses to make the same. Other necessary jurisdictional facts being alleged in the petition, an alternative writ was issued and returned. The board thereupon filed a demurrer to the petition in mandamus and a motion to quash the alternative writ, and, on hearing, the demurrer was sustained, the motion to quash allowed and the petition dismissed at relator’s costs. This appeal is prosecuted to reverse that judgment.
+The question presented requires a construction of Sections 4696 and 7600 et seq., General Code. Section 4696, General Code, provides in part as follows:
+“A county hoard of education may, upon a petition of a majority of the electors residing in the territory to be transferred, transfer a part or all of a school district of the county school district to an exempted village, city or county school district, the territory of which is contiguous thereto. Upon petition of seventy-five percent of the electors in the territory proposed to be transferred the county board of education shall make such transfer. A county board of education may accept a transfer of territory from any such school district and annex same to a contiguous school district of the county school district.”
+Appellee contends that the above section has been repealed by implication by the School Foundation Law, 116 Ohio Laws, 585, effective June 12, 1935, by the terms of which county boards of education of Ohio shall, on or before September 1, 1935, and on or before April 1, 1936, 1937 and 1938, prepare a diagram or map of all the school districts within the county setting forth all physical conditions and facts relating to the various districts, the number of pupils attending, roads, buildings, etc., and upon completion of such diagram the county board shall prepare a new diagram or map of all districts prescribing the transfers of territory, elimination of school districts or the creation of new school districts, and on or before June 1st, annually, shall adopt the same as the plan of school district organization for the ensuing year.
+Under the new plan, if boards of education cannot agree on the matter of transfer of territory from one district to another, or from one county to another, a transcript of the proceedings had shall be transmitted to the State Director of Education who shall thereafter order such transfers of territory or the creation of new districts as he shall deem in harmony with principles of economy, efficiency and convenience.
+It is further provided that on or before July 1, 1936, 1937 and 1938, the county boards of education shall transmit such adopted plan of organization to the state director, who shall approve the same with such modifications or additions thereto as he deems desirable, but only after granting a hearing to any board or interested person affected by the change.
+Upon approval by the state director, such plan of organization within any county shall take effect upon a date to be fixed by the director, and “thereafter no school district or parts thereof shall be transferred or the boundary lines thereof changed unless such transfer or change of boundary lines is in accordance with such adopted plan of organization.” (Section 7600-7, General Code.)
+After careful consideration of the authorities cited and the sections of the General Code involved, we are of the opinion that Section 4696, General Code, is still in force and'provides the machinery by which transfers are effected, subject to the added procedure provided in the new ‘ ‘ School Foundation Law. ’ ’ That law is not intended to deal directly with the subject of transfer of territory. Its purpose is to create a public fund in the state treasury and provide for its distribution, the object being to provide an efficient system for common schools in the state and for the equalization and economical operation of our common schools.
+No steps were taken by relators until May 8, 1936, seeking this transfer; too late to be included in the diagram or map to be prepared by the County Board of Education before April 1, 1936, and in the school plan for 1936, as provided in the act.
+If the facts alleged are true, and they must be so regarded for the purpose of the demurrer, it was the duty of the hoard to pass the resolution as authorized in Section 4696, General Code, and submit the proposition to the County Board of Education of Henry county. It will also include such transfer in its school plan for 1937, and if approved by the director under Section 7600-7, General Code, such transfer will become operative — if not so approved, it will not, hut the defendant board will then have done its full duty in the matter. The action of the director in all such matters seems to he final, and no appeal therefrom is provided.
+Neither party has raised any question as to the validity of any of the statutes involved in this case, and we have considered only the issues as presented in the briefs.
+Some of these suggestions may he anticipating future proceedings not now before this court, hut they are outlined merely to indicate in a general way how. such actions may be consistent with the power contemplated in Section 4696, General Code, and here sought to be invoked from the defendant hoard.
+Our conclusion is that the judgment of the court in sustaining the demurrer was error and must he reversed and the cause remanded for further proceedings.
+Judgment reversed and cause remanded.
+Lloyd and Carpenter, JJ., concur.
