@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "521,656"
+decided: "1942-09-11"
+citations: ["37 Ohio L. Abs. 523"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KINKOPF, Plaintiff v MARTONI et, Defendants"]
+source_url: "https://static.case.law/ohio-law-abs/37/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1714094
+cites_cases: ["7 Oh St, 258"]
+---
+
+# Kinkopf v. Martoni
+
+## Majority (By WALTHER, J.)
+
+OPINION
+By WALTHER, J.
+This case comes into this Court on appeal from the justice court for the Township of Euclid, Ohio, on questions of law. which justice court found for the plaintiff and ordered a writ of restitution pursuant to the filing of a landlord’s complaint and trial thereon. The landlord’s complaint was in the usual form ánd recited “as required by law notice in writing to leave said premises” was served on the defendants. The bill of exceptions in this case is in narrative form. There are several questions in this case which should be disposed of first.
+The rent was due on the 10th day of the month. On the 7th day of the month notice to leave premises was served upon the defendants. On the 11th of the month the tenants made what they claim is tender by offering to the plaintiff the amount of the monthly rental in the form of a postal money order. If the offer had been accepted the plaintiff would have abandoned whatever rights she had by virtue of the notice to leave premises, and she refused to accept the rent.
+Defendants contend that by making tender at the residence of the plaintiff on the 11th of the month they reinstated their rights and could continue in possession of the demised premises for another month.
+While, in the absence of an agreement to the contrary, rent is due on the premises, and the demand for rent on the premises was not made on the 10th of the month, the defendants’ rights to remain in possession were not reinstated by tendering the rent at the residence of the plaintiff the following day. The record is silent as to whether or not the defendants were ready, willing and able to make the payment of rent on the day the rent was due, to-wit, the 10th of the month, and we cannot assume that because claimed tender was made on the 11th that therefore the defendants had the rent available on the 10th, even though a sufficient tender was made on the 11th, and the defendants’ rights to remain were not reinstated.
+The question also arises as to whether or not offering a postal money order was such a tender as the law recognizes as a tender. It is the law that, in the absence of an agreement to the contrary, money is the sole medium of payment, and it is also the law that the tender must be made in money or in that which by law passes as money for the payment of debts. 26 R. C. L., p. 636, par. 17. The money which constitutes legal tender is defined by the United States statutes, and under these statutes gold certificates of the United States, United States notes, demand Treasury Notes, Treasury Notes and gold coins of the United States, and silver dollars constitute legal tender. United States Treasury notes are a lawful tender upon contracts stipulating for the payment of money generally, and it is held that even though tender be not made in a medium that is legal tender, it may be a good tender if objection is not ' made on that ground.
+In 7 Oh St, 258, it is held:
+“When a debtor tenders a bank check in payment of a debt, and the creditor expressly waives all objection to the medium of payment, and objects only to the amount of the proposed payments, it is a good tender. It seems that mere silence on the part of a creditor as to the medium of payment, is not, in such a case, conclusive evidence of such waiver.”
+The burden of proof of making tender is on the party who claims tender was made, and it follows logically that the burden is also upon the party claiming tender to show that the medium of payment was waived.
+The record is entirely silent as to whether or not the medium of tender was waived, and the Court therefore holds that the defendants have failed to show that there was a proper tender.
+The principal question in this case calls for an interpretation of a provision of Title 32, Chapter 11, Part 1388 of what is known as the National Price Control Act, Office of Price Administration, and the provisions as to rentals, the rights and obligations of landlords, rights and obligations of tenants as announced by Leon Henderson the Price Administrator, and which became effective June 1, 1942.
+The legality of the provision hereinafter referred to, and which the Court is called upon to construe, is not in any manner challenged, and in construing the same the Court does not have the benefit of any authorities or prior constructions, and the interpretation of this Act is, so far as we can learn, entirely new and virgin.
+Subsection 3 of §1388.766 of the Act which is an emergency War act, this country being now at war, contains the following language:
+“(3) The tenant (1) has violated a substantial obligation of his tenancy, other than an obligation to pay rent, and has continued, or failed to cure, such violation after written notice by the landlord that the violation cease, or (2) is committing or permitting a nuisance or is using or permitting a use of the housing accommodations for an immoral or illegal purpose.”
+It is not claimed that the defendants are using or permitting a use of the housing accommodations for any immoral or illegal purpose, and so far as the claim of nuisance is concerned the narrative bill of exceptions recites that on several occasions there was some pounding upstairs which plaintiff could not identify and that defendants caused the firepot in the furnace to become broken by putting some water on it. The defendants deny that they caused the noises to be made, and the Court finds that these claims of nuisance by the plaintiff even if true did not constitute a nuisance under the law.
+The record is silent as to the ground upon which the justice of the peace made his finding and entered his judgment, and this Court cannot assume that the court below made his finding on one of a number of grounds.
+It is important to construe the following language:
+“The tenant has violated a substantial obligation of his tenancy, other than an obligation to pay rent, and has continued, or failed to cure, such violation after written notice by the landlord that the .violation cease.”
+As heretofore stated, the contents ■of the notice are not disclosed by the record. The narrative bill of exceptions contains the following language:
+“The plaintiff had never made written demand upon the defendant to cease the acts complained of.”
+It is admitted at the hearing here that a written notice by the landlord did not describe the claimed violation.
+The real question is whether or not the tenant is entitled to a written notice by the landlord advising the tenant of the landlord’s claim that the tenant has violated a substantial obligation of his tenancy, and what the violation of that substantial obligation is, so that the tenant may know what the landlord claims in that regard, and that, if the tenant has violated a substantial obligation of his tenancy, he be given the opportunity to either discontinue or cure such claimed violation.
+It is contended by the plaintiff that a written notice containing the foregoing information is not required before bringing an action in forcible detainer, and it is claimed by the defendant that that kind of written notice is required, and that the defendant should be given a reasonable time to comply before the landlord can institute that kind of action, and that the giving of that kind of notice is jurisdictional, and that a recital that that kind of notice was given must appear in the landlord’s complaint.
+A careful study of the language forces the conclusion that the tenant is entitled to know what the landlord complains about, so that he may either discontinue or cure the complaint of the landlord, and that until his attention is called in writing to the complaint by the' landlord and the tenant is given a reasonable time to discontinue or cure such claimed violation, the landlord may not prosecute forcible detainer proceedings.
+The Court is further of the opinion that the giving of the written notice above referred to is that kind of condition which must be recited in the landlord’s complaint to permit the justice of the peace to have jurisdiction, and the Court holds that the failure to give the written notice above referred to containing the- complaint by the landlord and the averment of the giving of that kind of notice in the landlord’s complaint defeats the right of the landlord to prosecute forcible detainer proceedings. The discontinuance or curing of the reasons for complaint is a matter of defense.
+The Act is silent as to the time in which the tenant shall discontinue the acts complained of or cure the same, and the Court cannot fix the time except to say that the tenant should be given a reasonable time under all the circumstances to either discontinue or cure the acts which the landlord claims are a violation by the tenant of a substantial obligation of his tenancy.
+The judgment of the lower court is reversed and final judgment is entered for the defendants.
