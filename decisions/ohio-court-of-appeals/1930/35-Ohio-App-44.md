@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-04-10"
+citations: ["35 Ohio App. 44"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Funk, P. J., and Washburn, J., concur."]
+parties: ["Bowers v. Kerman."]
+source_url: "https://static.case.law/ohio-app/35/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320165
+---
+
+# Bowers v. Kerman
+
+## Majority (Pardee, J.)
+
+Pardee, J.
+On December 3, 1915, one Abraham Lincoln Carpenter laid ont the Fourth Addition to Carpenter Heights allotment in the city of Akron, which allotment contained 294 lots, and filed and recorded a plat thereof in the recorder’s office of said county. In the year 1928 Carpenter conveyed lot No. 195 in said allotment to one Seiberling, and he, in the year 1929, conveyed said lot to the defendant. The deed given by Carpenter to Seiberling contained the following restrictions, to wit:
+“This property is conveyed subject to the following restrictions and limitations which are reserved by the said grantor for the benefit of his heirs, executors, administrators and assigns, and mutually accepted by the said grantee as conditions running with the land, and to the fulfillment of which the said grantee binds his heirs and assigns, executors and administrators. * * *
+. “4th. That said premises shall be used for residence only.
+“5th. That only one residence shall be built upon said lot. * * *
+“10th. That no excavating shall be done on said lot further than is necessary to place said lot on grade or for building on said lot, and the foregoing shall be considered as perpetual conditions, restrictions and limitations of the use of the above-described premises and as running with the land.”
+When Seiberling conveyed said lot to the defendant, he referred in the deed delivered to said defendant to the foregoing restrictions, and expressly stated in said deed that said lot was subject to said restrictions.
+The evidence in this case conclusively shows that the original allotter intended to and did have a common plan and scheme for the development and improvement of said allotment; that when the allotter sold a lot therein he used a common form of deed, each and every one of which contained the foregoing restrictions, although he did not state in the deeds delivered by him that the restrictions were in furtherance of a common plan or scheme imposed for the benefit of all the lots in said allotment; and the plat filed by him did not refer in any way to said restrictions. The evidence further shows that said allotter sold approximately all of said lots, and that he now owns 25 in said allotment, which number represents lots never sold by him and others repossessed through foreclosure and otherwise. The evidence also shows that the purchasers of said lots must have known of said plan and scheme and relied thereon, as 166 lots in said allotment have been improved in accordance with said restrictions and none have been improved in violation thereof.
+The evidence shows that defendant viewed said lot and knew that it was one of the lots of said allotment and was familiar, at the time of his purchase and before he received his deed, with the way said allotment had been developed and improved, and he knew that his deed referred to the foregoing restrictions. He consulted his attorney as to the effect of said restrictions and was informed that they were personal ones and that the original allotter was the only one who could enforce the same.
+The defendant concedes that if said restrictions are enforceable by the plaintiff, the owner of a lot in said allotment, he cannot build the duplex house which he has started; but he says that because he did not know said restrictions were part of a common plan or scheme for said allotment at the time he purchased said lot, and since said restrictions are personal and for the benefit of said allotter, the plaintiff does not have the right to enforce said restrictions.
+Whether restrictions set forth in deeds delivered by the owner of an allotment, for lots sold therein by him, are personal restrictions and enforceable only by him, or are covenants running with the land and imposed for the benefit of the other lots in the allotment, must be determined from all the facts and circumstances of each case.
+In the instant case the evidence shows the number of lots in the allotment; that there was a common plan or scheme for its improvement; that the purchasers of the lots recognized that the plan or scheme was for the common benefit of the owners of the lots in the allotment; and finally the deeds themselves distinctly state that the restrictions are for the benefit of the grantor and his assigns and that the restrictions and limitations upon the use of the lots shall be considered as perpetual and “as running with the land.”
+The language of the restrictions shows that they are not for the personal benefit of the original allotter, but are for the benefit of the owners of the other lots in said allotment, as said restrictions provide, not only that they are for the benefit of the grantor’s assigns, which language shows an intention to have the restrictions run with the land, but by the express provisions contained in the deeds, the restrictions are made covenants running with the land, and are limitations upon the use to which the lots conveyed may be put and reservations for the common advantage of all the lots in the allotment.
+Restrictions expressly declared to be ones running with the land and imposed for the benefit of adjacent land of the grantor, where the land conveyed is a lot in an allotment and which lot may or may not be benefited by said restrictions, do not constitute personal covenants but ones imposed for the benefit of the other lots in the allotment, and of course similar restrictions in the deeds of other lots in the allotment are covenants running with those lots and are enforceable by the owners of any of said lots.
+In view of the fact that the grantor adopted a general scheme for the improvement of all the lots in the allotment, and in view of the surrounding circumstances as shown by the evidence, we are unanimously of the opinion that the wording of the deed delivered by said allotter to said Seiberling, in which a plan for the improvement of said lot was set out in detail, and in which it was expressly stated that the restrictions were for the benefit of the grantor’s assigns and that the restrictions were covenants running with the land, shows that the restrictions were meant by the grantor and understood by the buyers to be for the common advantage of the several purchasers, and were as effective in law, and as binding upon the allotter and purchasers of lots in said allotment, as though the deeds contained a statement that the restrictions were part of a common plan or scheme imposed for the benefit of all of the owners of lots in said allotment, without regard to the time the lots may have been sold by said grantor.
+We therefore find that the defendant knew, at the time lie accepted Ms deed, that there was a general scheme for the improvement of said allotment, that said scheme was the one referred to in his deed, and that he is bound thereby.
+A decree may therefore be drawn, granting the relief prayed for by plaintiff.
+Decree for plaintiff.
+Funk, P. J., and Washburn, J., concur.
