@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5752"
+decided: "1940-04-01"
+citations: ["31 Ohio Law Abs. 535"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HAMILTON, PJ. & ROSS, J., concus."]
+parties: ["SCOTT v MOFFORD et"]
+source_url: "https://static.case.law/ohio-law-abs/31/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1698710
+cites_cases: ["136 Oh St 412"]
+---
+
+# Scott v. Mofford
+
+## Majority (By MATTHEWS, J.)
+
+OPINION
+By MATTHEWS, J.
+This is an action to recover possession of real estate. The jury returned a verdict fbr the plaintiff upon which the judgment was rendered from which this appeal was taken.
+The plaintiff relied upon evidence that the decedent — her father — had in his lifetime executed and delivered a deed, which transferred the absolute title to her, that the deed had not been recorded, and that upon the request of her father she had allowed him to have possession of the deed, but with no intention of re-transferring the title to him, and that he had not returned the deed to her. and she did not know where it was. Oral evidence of the terms of the deed was introduced.
+The defendant relied upon the circumstances surrounding the 'manual delivery of the instrument originally' to show that there was an absence of intent to have it take effect immediately as a deed, and upon the circumstances connected with its return to the decedent to show that there was an intent to rescind the transaction, whatever it was, and, that, if the title had passed, to re-transfer the title to the decedent. The defendant also relied upon the fact that the inventory included this real estate as an asset of decedent’s estate, and that the plaintiff made no objection to it; also that defendant had made some expenditures in connection with this property; that plaintiff had filed an action to contest the will of the decedent which gave all his property in general terms to the defendant, and that this real estate was the major item, thereby indicating a recognition of its ownership by decedent. Without detailing the evidence, it is sufficient for the purpose of disposing of the case to say that the defendant in her answer relied upon the affirmative defenses of estoppel and res adjudicata'in addition to a denial that title ever passed to the plaintiff. It is the defendant’s contention that the evidence supports all these defenses.
+An examination of the record shows that there is substantial evidence that the deed was executed and delivered with the intent to have it take effect immediately, and that its manual return to the grantor was not for the purpose of re-investing him with the title. The verdict of the jury found this evidence sufficient and this court would not be justified in disturbing the finding.
+The evidence on the subject of conduct is not sufficient to raise an estoppel against the plaintiff, unless her failure to object to the inclusion of this real estate in the inventory has that effect.
+It is contended that the inclusion of the real estate in the inventory and the plaintiff’s failure to file exceptions thereto preclude her from maintaining this action by virtue of §§10509-40 GC, and particularly by virtue of §10509-59, GC. The only notice required of the time and place of making an inventory is upon the surviving spouse, if any, provided by §10509-45 GC. No notice to any other person is required.
+Sec. 10509-59 GC, provides for notice after the filing of the inventory of a hearing upon it to the executor or administrator and to the surviving spouse, next of kin, beneficiaries under the will, providing they are known residents of the county, and to their attorneys, if any. The section provides that exceptions may be filed at any time prior to the date set for the hearing on the inventory by “any person interested in the estate or in any of the property included in the inventory.” Upon the filing of any exceptions, notice of the time of the hearing of the exceptions is required to be given to the executor or administrator and to nc one else. An appeal to the common pleas court ^from the finding, order, or judgment on the exceptions is authorized.
+As no exceptions were filed to this inventory, it is clear that no actual trial of the right of property took place in the Probate Court. And as no mention is made in the statutes of any order of the court, upon failure to file exceptions to the inventory it is manifest that the legislature did not attach to any entry that might be made under such circumstances the same binding quality that would attach to an order after exceptions and a hearing thereon.
+The primary purpose of an inventory is .to furnish a list of the property which appears to belong to the decedent, and a valuation thereof.' It is made on an ex parte investigation and clearly binds no one. Where no exceptions are filed to it, there is no judicial inquiry at all. It is only when exceptions are filed and the jurisdiction of the Probate Court is invoked to inquire into the validity of the schedule of property that the proceeding takes on the character of litigation.
+Brown v Southern Ohio Savings Bank & Trust Co., 22 Oh Ap 324, is cited as shedding light upon this question. That case decided that under the law controlling prior to 1932, the failure of claimants to file exceptions to property inventoried as belonging to an estate, did not bar them from asserting title in an appropriate proceeding. It was decided in 1926 and certainly does not construe the present section that became effective in 1932. It is true that the court said that such claimants were not within the class authorized to file exceptions to the inventory but that is not equivalent to saying that if they had been within the class and had failed to file exceptions they would thereby have been precluded from asserting title thereafter. The only provision on the subject of the legal effect of the inventory that we have found is that contained in §10509-61 GC, which makes the appraisement set forth therein conclusive except for inheritance tax purposes, unless the court orders a re-appraisement.
+In 21 Am. Jur., 471 and 472, the general statement is made that “the inventory is not conclusive as to the assets of the estate, or as to rights with respect to the property listed therein, at least, where there has been no specific judicial determination of the question.”
+In the annotation to §10509-119 GC, relating to hearing on the schedule of debts, the committee that drafted the Probate Code of 1932 is quoted as having made this comment: “This section is similar to the provisions of this chapter for exceptions and hearing as to the inventory.”
+While the provisions are similar, they are not identical, the provisions for notice of hearing on exceptions to the schedule of debts specifically requiring notice ■ to those who might be affected by the decision, and the statute expressly providing that the hearing on the exceptions should be final in the absence of fraud, collusion, or mistake. Notwithstanding, the Supreme Court in Matter of Estate of Beabout, 136 Oh St 412, at 416, said of §10509-119 GC: “It is quite apparent, however, that the method of procedure thus provided is not exclusive.”
+We conclude that the plaintiff was not precluded from asserting her title by reason of failure to file exceptions to the inclusion of the property in the inventory of her father’s estate.
+Finding no error in the record, the judgment is affirmed.
+HAMILTON, PJ. & ROSS, J., concus.
