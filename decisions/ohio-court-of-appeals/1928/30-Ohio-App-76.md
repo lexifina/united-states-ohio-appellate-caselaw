@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1928-03-12"
+citations: ["30 Ohio App. 76"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sullivan, P. J., and Levine, J., concur."]
+parties: ["Martin et al. v. Martin."]
+source_url: "https://static.case.law/ohio-app/30/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1312678
+---
+
+# Martin v. Martin
+
+## Majority (Vickery, J.)
+
+Vickery, J.
+This cause comes into this court on a petition in error to the common pleas court of Cuyahoga county.
+In the court below the plaintiff, Margaret M. Martin, brought an action against the defendants, Charles C. Martin and the Neal Fireproof Storage Company, to recover in an action for conversion the value of certain goods and chattels that she had stored with the Neal Fireproof Storage Company, for which she had taken a receipt in her own name for the storage. Upon demand for the return of the goods, the storage company refusing to redeliver,'this action was brought.
+The record is rather interesting. It seems that Margaret M. Martin and Charles C. Martin at one time were husband and wife, and lived together as such in the city of Cleveland; that Martin procured employment in the city of Columbus, Ohio; and that after some period of time Mrs. Martin joined her husband in Columbus, and then stored her household goods, comprising those in question in this lawsuit together with others, with the Neal Fireproof Storage Company, it being a warehouse and storage company and receiving goods in storage for hire. Subsequently the domestic relations of Mr. and Mrs. Martin did not run smoothly, and he brought an action for divorce against her in Franklin county, Ohio, during which proceedings an agreement was entered into between Mr. and Mrs. Martin whereby these goods stored by her in the Neal Fireproof Storage Company’s warehouse were turned over to her and became hers absolutely.
+At the trial of the case the court granted a divorce to the plaintiff husband upon the aggression of Mrs. Martin. Subsequent to that, her attorneys, Chester & Chester, procured a nunc pro tunc order allowing her these goods, which had already been turned over to her, and a $2,000 order of alimony from Mr. Martin to Mrs. Martin. That order was not appealed from, or in any way affected; but subsequently, by an agreement, a release was negotiated by Chester & Chester, with the consent of Martin, and Martin paid her a certain sum of money to be released from all claims that she might have against him. This sum was paid, and the $2,000 alimony order ceased to be effective between these two parties: it having been adjusted and settled because of this so-called adjustment between the attorneys of Mr. and Mrs. Martin.
+There is nothing in any way, in any of the papers, whereby Mrs. Martin divested herself of the title to this personal property, which had been transferred to her and stored by her. Subsequently she sold several hundred dollars worth of this property and delivered it to the purchaser, and I presume paid for the storage upon it to the storage warehouse company. That left certain articles of furniture still in the possession of the storage company.
+Now, after this so-called adjustment, the husband appears upon the scene and demands this personal property, and the storage company delivers it to him, whereupon Margaret Martin brings this suit in conversion after making the demand, as already set forth. At the trial of the action she recovered a judgment against the storage company for the sum of $111, and against Martin for $250.
+Error is prosecuted to this court to reverse this judgment, and plaintiffs in error set up several grounds of error. In their answer in the lower court they set up this so-called release, and inasmuch as that was not replied to, they say that the judgment is wrong. We are not informed as to what the reply was, as the court refused to permit the plaintiff below to file a reply to this so-called, answer. We do not think it was necessary to have any reply. The release set up in the answer only related to the claims that Martin owed Mrs. Martin, and it released him from any or all claims that she might have had against him; but that did not reinvest title, and there is nothing in these papers which did reinvest title in this personal property, even if it ever had belonged to Mr. Martin. It was the property of Mrs. Martin, the contract with the storage company was with her, and this so-called defense set up no defense at all which called for a reply. When the storage company delivered this property over to the husband, he was not the owner of it; they violated their duty and converted the property to their own use, and the judgment that was rendered against them was limited to the value that was placed upon these articles when they were put in storage; but the husband who converted these goods to his own use was liable to their full value, provided the judgment against the storage company and the husband, the joint judgment against these two, did not exceed the value of the goods as proven.
+The record shows the value of the goods was more than the joint judgment against the husband and the storage company. The reason why there is a discrepancy in the judgment is because of the limit placed upon these articles when they were placed in storage by Mrs. Martin. The husband taking these goods without any authority or warrant, for his own use, was liable for the full value. How the husband and the storage company can settle their difficulties is unimportant in this lawsuit. The court properly instructed the jury, and a verdict was rendered, as it should have been, against the storage company for the value of the goods as placed upon them by the contract with Mrs. Martin when she stored them. The husband having converted these goods was liable for their value as proven in this lawsuit.
+We do not think there is any error in this record, and the judgment will be affirmed.
+Judgment affirmed.
+Sullivan, P. J., and Levine, J., concur.
