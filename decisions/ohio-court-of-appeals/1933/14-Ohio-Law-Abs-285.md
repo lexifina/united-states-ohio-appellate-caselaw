@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2707"
+decided: "1933-01-30"
+citations: ["14 Ohio Law Abs. 285"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LLOYD and WILLIAMS, JJ, concur."]
+parties: ["GUY v H J SPIEKER CO"]
+source_url: "https://static.case.law/ohio-law-abs/14/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1648164
+cites_cases: ["120 Oh St, 177"]
+---
+
+# Guy v. H J Spieker Co.
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+The motion for a directed verdict was granted on the ground that the evidence failed to show that the man operating the elevator was an employe of the defendant company. We think the bill of exceptions contains evidence tending to show that the men who operated the elevator were at the time in the employment of the defendant company, and paid by it. That company alone, seems to have had power to discharge them.
+The president of that company was called as a witness and testified on this subject as follows:
+“Q. The employes who operated the elevators and the gasoline engines, which propelled them, were employes of The Henry J. Spieker Company? A. Yes, sir.
+Q. Paid by The Henry J. Spieker Company? A. Yes, sir.
+Q. Who was the operator on the day shift on the inside elevators. A. I cannot tell you that.
+Q. A man named Jerry Swigart? A. He was on the job, but whether he operated that particular hoist or not I cannot say.
+Q. He was an employe of The Henry J. Spieker Company? A. Yes, sir.
+Q. How about Irving Grindle? A. He is an employe.
+Q. Do you recall his name? A. Yes, sir.
+Q. He was employed by The Henry J. Spieker Company? A. Yes, sir.
+Q. He operated the inside elevators on one of the shifts, didn’t he? A. Yes, sir.”
+The contract between the defendant and Dankert required the defendant to furnish the hoisting and this it did during all the time the stone tower was being constructed. This was an interpretation which the parties to the contract placed upon the same, and the men employed and paid by the defendant continued to operate the appliances for raising the material to the top of the tower. The only authority possessed or exercised by Dankert was to indicate the time the elevators were to be raised and lowered and in the event an elevator was to be lowered the signal was given by one of Dankert’s men, usually the one who returned the empty wheelbarrow, pushing the button on the top of the tower. As the record contains evidence tending to show that Grindle, who was operating the elevator at the time plaintiff was injured, was in the employ of the defendant, there was sufficient on that subject to carry the caso to the jury. The case is in line with the decision of the Supreme Court in Babbitt v Say, Admr., 120 Oh St, 177, a case decided on March 13, 1929. See also a decision rendered by our court on May 28, 1928, entitled Benschoter et v New York Central R. R. Co., 30 Oh Ap, 276, (6 Abs 592).
+The evidence also tends to show that the elevator was dropped without any signal having been given therefor. The plaintiff testified that immediately before the injury he saw the elevator come up, bringing a wheelbarrow loaded with stone, and that he was then standing within 3 or 4 feet of the elevator, as it reached the level of the upper floor. He testifies that he walked over towards the elevator and put his right foot on the elevator and that the elevator immediately fell from under him and he pitched head foremost into the shaft. He stated that the elevator was at the top just long enough for him to walk from where he was standing and place a foot on the elevator. He further testified that the floor of the elevator was not lifted up before the elevator plunged downward. This is some evidence tending to show that the “dog” had not been inserted in the notch, for if the “dog” had been so inserted it would seem that the elevator could not have dropped until it had been first raised sufficiently to allow the “dog” to be released from the notch and might justify an inference that the elevator had been temporarily held in place by a brake, Brindle not having testified. The button was located near where plaintiff was standing and he would have been likely to know if it had been pushed. Furthermore, if the floor of the elevator had been raised immediately before it plunged down, it would seem as if he must have observed that, because he was walking directly toward the elevator and under such circumstances he would not have stepped on the elevator, or, if on, would have instantly jumped off. His duty was to remove the loaded wheelbarrow from the elevator on its arrival at the top, and he had not performed that duty when the elevator fell. The testimony tended to show that if everything were quiet, the ringing of the bell could be heard on top of the tower. The injury happened at 5:20 o’clock in the morning and it is not likely there would have been much noise at that time, and the evidence tends to show that the signal bell was not heard on top of the tower.
+Another witness, who was located about 10 feet from the bell and had just loaded the elevator and directed it to be sent up, testified that he didn’t hear any bell signal. He testified that it was a regular door bell and on being inquired of whether, when it rang, it rang loud or soft, answered “it rang loud.”
+Another witness, who was located near the bell testified he didn’t hear it ring and that he was paying attention and that they always had to be on the alert.
+It is evident from what has been said that it was the duty of the operator of the elevator only to lower the same upon receiving the signal and that some evidence was introduced tending to show that it was in fact lowered without any signal being given.
+The contract between the defendant and Dankert, specifying who was to furnish the material and hoisting and who was to erect the scaffold, etc., was in writing and was excluded from evidence by the trial court. In this we" think that court committed error. The contract, while excluded from evidence, was attached to the bill of exceptions and naturally tends to show the relation of the parties in the execution of the work.
+An ordinance passed by the City of Toledo requiring contractors and owners to cause all shafts and openings in floors of buildings under construction to be enclosed or fenced by a barrier, was excluded from evidence. We think in excluding this ordinance the trial court committed no error. The absence of a barrier apparently had nothing to do with the injury suffered by the plaintiff and was not a proximate cause thereof, under the evidence now in the record.
+It is contended by plaintiff in error that the duty rested upon the defendant, in the exercise of ordinary care, to establish a signal bell at the top of the tower so that when the button was pushed Dankert’s employes would be notified that the elevator was about to be lowered. Whether that duty did or did not rest upon the defendant will best appear on a retrial of the case when the evidence on both sides has been introduced, as the record'before us contains no evidence that the button had been pushed before the elevator dropped and we are concerned chiefly in determining whether the record contains evidence sufficient" to carry the case to the jury. ■
+It is contended by defendant in error that the judgment should not be reversed because no reply had been filed at the time of the trial and it is true that the allegations of the answer required a reply. The verdict was rendered on April 13, 1932, and motion for new trial filed on April 15th. On April 21st the plaintiff filed a reply denying the allegations of the answer and this reply is endorsed on the back‘-“.filed with leave of court,” the endorsement being-approved by the trial judge. The motion for a new trial was not Overruled nor judgment rendered until June 13th. It will be noticed from the bill of exceptions that the motion for a directed verdict was not based on the absence of a reply but upon the'evidence and that the trial court granted-the motion because of the absence of evidence and not because there was no reply. Before the motion for new trial was acted on and judgment rendered a reply was filed by leave of court and this fact evidently made no difference in the opinion of the trial judge. The trial judge had power, it being at the same term of court, to set aside., the verdict and then to himself render "judgment for the defendant for lack of evidence. When the judgment was rendered the issues were completely made up and no prejudicial error existed‘by reason of the fact that the reply was not filed until after the verdict was directed.
+For the reasons given the judgment _ will be set aside and the cause remanded' for a new trial.
+Reversed and remanded.
+LLOYD and WILLIAMS, JJ, concur.
