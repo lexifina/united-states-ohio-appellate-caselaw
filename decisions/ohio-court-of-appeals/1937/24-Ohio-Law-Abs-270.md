@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2834"
+decided: "1937-03-16"
+citations: ["24 Ohio Law Abs. 270"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WASHBURN, J., and DOYLE, J., concur in judgment."]
+parties: ["RANGER, Admx v THE METROPOLITON LIFE INS CO"]
+source_url: "https://static.case.law/ohio-law-abs/24/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679543
+cites_cases: ["106 Oh St 151", "120 Mass. 550", "187 U. S. 362", "75 Oh St 52"]
+---
+
+# Ranger v. Metropoliton Life Ins
+
+## Majority (STEVENS, PJ.)
+
+OPINION
+STEVENS, PJ.
+The ease in the trial court was presented to the court without the intervention of a jury upon an agreed statement of facts, and resulted in a judgment in favor of defendant. Plaintiff below has appealed upon questions of law to this court, in an effort to secure a reversal of that judgment.
+No bill of exceptions was filed in the trial court or in this court, and although the agreed statement of facts was filed with the papers in the case, the judgment entry in the court below does not recite that the case was submitted on an agreed statement of facts; and a motion for affirmance of the judgment below has been filed by the appellee in this court, it being urged that, under such circumstances, appellant is not relieved from the duty of filing a bill of exceptions by the provisions of §11571 GC. However, appellee has since consented that the cause might be considered on its merits, and we accordingly do not make disposition of the cause upon said motian.
+The agreed statement of facts discloses the following:
+That on June 18, 1934, the appellee insurance company issued its policy of life insurance upon the life of William H. Ranger (now deceased). That that policy had appended thereto a rider which provided for the payment to the appellant by the insurance company of double indemnity for “bodily injuries” sustained “solely through external, violent and accidental means, resulting, directly and independently of all other causes, in the death of the insured within 90 days * * *.” That said insured, William H. Ranger, died on the 10th day of September, 1934, and that said insurance company has paid to the estate of said decedent $504 in full of the ordinary life benefits stipulated to be paid under said policy, but has refused to pay any additional amount because of accidental death benefits under the rider attached to said policy.
+That the bodily injuries sustained by said insured were not sustained while he was occupied in any of the excepted vocations enumerated in said policy; that all the payments to be made by said Ranger were made; and that all the conditions and terms of said policy to be performed by him were performed, excepting, however, the defendant’s contention that the proofs of death did not disclose death by accidental means within the provisions of said policy.
+Said agreed statement of facts further discloses that, on the 10th day of September, said insured, together with one Ward Gobedesh, stole an automobile in Akron, Ohio, drove said automobile to Alliance, Ohio, there entered the “English Drug Store,” and held up and robbed the occupants of said drug store; that while leaving said drug store with the loot which they had obtained, said Ranger was shot in the abdomen; that Ranger and Cobedesh thereupon fled from the scene of the holdup, speeded along route 44 in said county in an attempt to avoid arrest by officers of the law who were then pursuing them, failed to make a stop at a main highway, but drove across said highway, and while doing so came into collision with another automobile; as the result of which collision said insured sustained a fractured skull which caused his death on said day.
+No evidence was offered except the contents of the agreed statement of facts, the policy and. the rider attached thereto, and the application signed by said insured.
+” It is claimed by. the appellant that the judgment of the trial court should have been in favor of appellant and against appellee, because the rider in question contained no provision relieving said company from payment of the amount stipulated in said rider because of accidental injury where the injury forming the basis for said claim was sustained while in the commission of an unlawful act; that the. rider being the handiwork of the company, if should be construed favorably to the insured and against the company.
+Counsel have cited the court to no Ohio case directly bearing upon the proposition under consideration except that of Westbrooks v Metropolitan Life Ins. Co., decided by the Cuyahoga County Court of Appeals, and reported at p. 5272 of GOngwer State Report No. 4597, dated February 4, 1937.
+The argument of appellant, of course, is predicated upon the contention that the decedent came to his death by accidental means after the unlawful act (robbery) had been completed.
+It is apparent from the agreed statement of facts that at the time he sustained the injuries which resulted in his death, he was fleeing to escape capture after having perpetrated a robbery, and the cases of Conrad v State, 75 Oh St 52, and State v. Ha-big, 106 Oh St 151, are authority for the proposition that, where several persons have jointly committed a crime of robbery and are fleeing from the scene thereof, and, while they are still in flight and are carrying the proceeds of the' robbery, which they have not yet divided among them, one of their number shoots a policeman and inflicts injuries resulting in his death, such homicide is committed in the perpetration of a robbery. So, in this case, despite the fact that the flight was for a greater distance than that occurring in the Habig case, supra, the decedent was attempting to escape from the officers of the law who were pursuing him, and he and his companion had with them the proceeds of the robbery, which had not yet been divided between them; and they had not yet reached a place of seeming security, nor does it appear that the uninterrupted pursuit was no longer continuously active. We therefore conclude that, at the time of the collision resulting in the insured’s death, he was still in the perpetration of a robbery.
+Plaintiff’s claim accordingly is that she is entitled to recover for the death of the insured resulting from a claimed accident which occurred while the insured was in the commission of a robbery, and that, since the terms of said policy do not expressly exclude such a claim, they should be so construed as to include it.
+The question is then presented whether the insurance company might lawfully have contracted to insure said decedent against the consequences of his unlawful act.
+It has been held in numerous cases throughout the country that a provision in a contract of insurance excepting death due to violation of law, is superfluous, and that such statement is the mere statement of a public policy which controls regardless of contract. Hatch, Admr., v Mutual Life Ins. Co., 120 Mass. 550; Burt v Union Central Life Ins. Co., 187 U. S. 362.
+An extended discussion of whether or not the means producing the injury from which the insured died were accidental is unnecessary in this case. Suffice it to say that this court is of the opinion that from the course of conduct voluntarily entered upon by said decedent, death as a result thereof was reasonably foreseeable, and death resuling from such course of conduct was not in our judgment death caused by accidental means.
+If the defendant company, by an express provision in its policy, could not lawfully have insured the decedent against the consequences of his unlawful conduct, then no more could a provision accomplishing such a result be read into the contract by implication.
+We are of the opinion that the trial court did not err in the judgment which it rendered, and that judgment will therefore be affirmed.
+WASHBURN, J., and DOYLE, J., concur in judgment.
