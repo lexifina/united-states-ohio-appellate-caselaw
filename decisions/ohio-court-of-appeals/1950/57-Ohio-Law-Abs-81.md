@@ -1,0 +1,86 @@
+---
+court: "Ohio Court of Appeals"
+docket: "21398"
+decided: "1950-03-22"
+citations: ["57 Ohio Law Abs. 81"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(GUERNSEY, PJ, of the Third District, HUNSICKER and DOYLE, JJ, of the Ninth District, sitting by designation in Eighth District.)", "GUERNSEY, PJ, HUNSICKER, J, concur."]
+parties: ["TAYLOR, Plaintiff-Appellee, v. CLEVELAND (City), Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/57/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1755727
+cites_cases: ["112 Oh St 249", "125 Oh St 246", "137 Oh St 1", "139 Oh St 219", "150 Oh St 499", "94 Oh St 377"]
+---
+
+# Taylor v. Cleveland
+
+## Majority (By DOYLE, J:)
+
+OPINION
+By DOYLE, J:
+James E. Taylor is a lieutenant in the fire department of the City of Cleveland. The litigation in the Common Pleas Court involved the right of the lieutenant to recover a money judgment against the City of Cleveland upon a claim for overtime pay for work performed in his capacity as such fireman.
+The action is one of six or seven hundred like actions against the city by individual members of the department, and was selected by counsel as a test case.
+The position of affairs as we find it to be in this appeal is a money judgment rendered upon a verdict of a jury in the amount of $3,688.96 in favor of the fire department lieutenant and against the city. The appeal now lodges the case in this court for affirmance or reversal of the judgment.
+The petition of the claimant asserts that: — he, against his protests, was ordered and required to work for periods in excess of eight hours a day and forty-eight hours a week, and did
+“work at his * * * duties for periods averaging seventy-two * * * hours per week”
+he was required to “work under a so-called platoon system inaugurated by the defendant;” he worked “on the basis of a socalled twenty-four hour * * * shift, whereby said plaintiff, as well as other city firemen, was on duty for a period of twenty-four * * * hours, and then relieved for a like period of twenty-four * * * hours.”
+It was further claimed that:
+“said platoon system was inaugurated and kept in force, by defendant, without authority, and for the purpose of avoiding and evading the provisions of the charter of said city limiting the hours of labor, as aforesaid, and for the sole purpose of compelling and requiring plaintiff to work without compensation.”
+The claimant then prayed for an award of $11,963.28 as the fair and reasonable value of his services on the basis of “time and one-half” pay for the number of hours worked in excess of the hours contemplated in the eight hour day provision of the city charter.
+In addition to pleading the above, the claimant amended his petition, over the objection of counsel for the city, after he had rested his case, by inserting the provisions of Sec. 284 of the ordinances of the city of Cleveland. This ordinance will be set out later.
+There are many assignments of error urged by the city and several hundred pages of briefs filed, which argue pro and con the claims of the respective litigants. No useful purpose can be served by discussing each one of them. Basic laws will be set out with a critical analysis of the facts in their relation to them.
+1. Art. II, Sec. 37 of the Constitution of Ohio, provides:
+“Except in cases of extraordinary emergency not to exceed eight hours shall constitute a day’s work, and not to exceed forty-eight hours a week’s work, for workmen engaged on any public work carried on or aided by the state, or any political subdivision thereof, whether done by contract, or otherwise.”
+This provision of the constitution applies to construction work performed on public projects, and its very language shows-it not to be self-executing. The enabling legislation enacted by the general assembly is contained in §17-1 GC which, states in substance the provisions of the constitution and makes unlawful, required work in excess of the hours stipulated. The section, furthermore, specifically provides that it “shall be construed not to include firemen in cities and villages and policemen in villages.”
+The question of the interpretation of the language “for workmen engaged on any public work carried on or aided by the state, or any political subdivision thereof, whether done by contract or otherwise” was presented to the Supreme-Court of Ohio in 1925, in a case which grew out of the indictment of the director of public service of the City of Akron for the alleged unlawfully required work of city employees-engaged in operating the water works of the City of Akron, located in the adjoining county of Portage. It was there held that the Constitution of Ohio and the enabling statute-(§17-1 GC) relate solely to work performed on the construction of public improvements and not on their “maintenance and operation.”
+State v. Peters, 112 Oh St 249.
+Under this interpretation of the constitution, no debatable-constitutional question can be raised by virtue of the language-in the enabling statute specifically excluding firemen from its operation. Firemen are not employed to construct public works.
+See also:
+Clements et al v. Sherwood, Dir. of Public Welfare 70 Oh Ap 266.
+It is our conclusion, therefore, that the constitution of' Ohio does not now and never has established a policy for the work day or work week for members of the fire department in cities of this state.
+2. Proceeding now to the charter of the city of Cleveland, we encounter Section 196 as amended in the year 1917. It provides:
+“Except in cases of extraordinary emergencies not to exceed eight hours shall constitute a day’s work and not to exceed forty-eight hours a week’s work, for any city employee of the City of Cleveland in the classified service thereof and for any workmen engaged in any public work carried on or aided by the municipality whether done by contract or otherwise. The council shall by ordinance, provide for the enforcement of the provisions of this section.”
+This provision of the charter is more comprehensive in its scope than the provisions of the state constitution. It provides for a work day and work week “for any city employee of the City of Cleveland in the classified service thereof” and firemen come within the bounds of classified service. The provision, however, is not self-executing “within the definition that a self-executing provision is one which supplies the rule or means by which the right given may be enforced or protected or by which a duty enjoined may be performed.”
+Stange v. City of Cleveland 94 Oh St 377 at p. 380.
+In fact, the charter provision itself states that council shall by ordinance provide for the enforcement of its provisions. Such language indicates that it is not self-executing and unless ordinances are passed by the city council carrying it into effect, the provision of the charter would not be effective.
+See: Ellis v. Urner etc 125 Oh St 246 at p. 250
+3. The next step in this opinion will be the determination of the source of the authority to provide for a work day and work week for firemen in cities of this state.
+As has been heretofore shown, the state constitution does not provide such power. The charter of the city of Cleveland does not provide such power except through the enactment of enabling legislation under the authority of the state, as will be hereinafter demonstrated.
+Under the “Home Rule” amendment of the constitution of Ohio (Art. XVIII) there was not granted to municipalities absolute powers of local self-government. The powers granted were limited to matters and things purely local in character. The legislature of the state was never stripped of its authority to legislate on matters pertaining to the preservation and protection of public safety and health, because such matters are of state-wide concern. The power given to municipalities to legislate on such matters was, and is, only such power as is specifically granted, plus the power to enact legislation which is not in conflict with the general laws of the state.
+State ex rel Mowrer v. Underwood, 61 Oh Ap 103; affirmed, State ex rel Mowrer v. Underwood, 137 Oh St 1.
+“2. Matters pertaining to the fire protection of a municipality are of state-wide concern and subject to regulation by the general assembly.”
+State ex rel Giovanello v. Village of Lowellville, et al 139 Oh St 219.
+A search of the statutes of the state reveals that the legislature has only spoken of a work day and work week for firemen by saying that cities in the state shall adopt the so-called two-platoon system, unless there has been adopted by a city “the eight hour regulation for its fire department.” (Sec. 17-l[a] GC). In this legislation, cities ■are specifically granted the power to legislate in respect to an “eight hour regulation” for firemen. If cities do not so legislate, the hours of duty shall be those set out in the .state law.
+Sec. 17-1 (a) GC, as amended in 1939, and in force on the date from which over-time compensation is here sought, provided:
+“It shall be the duty of the chief of the fire department ■of each city to divide the uniform force into not less than "two platoons, and the said chief shall not keep a platoon of the uniform force on duty more than twenty-four consecutive hours, except in cases of extraordinary emergency, after which the platoon serving twenty-four hours shall be allowed to remain off duty for at least twenty-four consecutive hours. Each individual member of the platoons in addition to receiving a minimum of twenty-four hours off duty in each period of forty-eight hours shall receive an additional period ■of twenty-four consecutive hours off duty in each period pf fourteen days. The chief of the fire department shall arrange the schedule of working hours to comply with the provisions <of this section. In each city all employees of the fire department shall be given not less than two weeks leave of absence annually, with full pay. The provisions of this section relating to off duty periods shall not apply to any (City that may have adopted or may hereafter adopt the eight hour regulation' for its fire department, but the provisions relating to the two weeks leave of absence shall apply thereto.” (118 O. L. 666.)
+Reference is made to the amendment of this section in the year 1945, 121 O. L. 17. The amendment does not substantially change the legislation and does not affect the issues here presented.
+It thus appears that, under the exclusive power of the legislature of the state to regulate fire departments in the various cities in the state, that body has provided for the two-platoon system for all cities, unless the cities themselves, under the authority delegated, have legislated otherwise.
+4. We now direct our attention to the ordinances of the city, if any, enacted pursuant to the delegated power given in §17-1 (a) GC supra. We have heretofore determined that the charter provision is not self-executing.
+It appears that, for a period of many years prior to the date in 1940 from which the plaintiff commences his claim, there were no ordinances regulating the hours of work for firemen. Nor have any ordinances been enacted since 1940 on this subject, unless it can be said, as asserted by the plaintiff and concurred in by the trial judge, that an ordinance enacted in 1943 and inserted into the plaintiff’s petition over the objection of the city after the plaintiff had rested his case, provides for an eight-hour day and forty-eight hour week, and overtime pay for firemen.
+This ordinance is as follows:
+“Sec. 284. Whenever it shall be necessary that one or more salaried officers or employees shall work beyond the number of hours regularly constituting a work day or work week in the division or department concerned, such officers and employees shall be compensated for such overtime work at the rate per hour computed by dividing the annual salary fixed for the position by the number of hours regularly constituting a work year for the concerned division or department; provided, however, that any appointing authority may, in lieu of authorizing compensation for overtime as herein provided, grant to the affected officer or employee time off from the performance of duty during regular hours of work in an amount equal to such overtime.”
+This ordinance, under its terms, provides only for compensation for overtime work “beyond the number of hours regularly constituting a work day or work week in the division or department concerned.” (Emphasis ours.) The hours regularly constituting a work day or a work week in the fire department of Cleveland were those hours provided for under the platoon system set out in the statutes and incorporated into the operation of the fire department. The record, before us shows that this department now operates, and, for many years past has operated, under the platoon system, described in the plaintiff’s petition and required under the state law in the absence of local ordinances. The hours contemplated under this system are and were the hours regularly ■constituting a work day and work week in the department.
+In respect of this ordinance, therefore, we must therefore and do conclude that, insofar as firemen are concerned, overtime pay cannot be allowed them except for work over and beyond the hours provided for under the platoon system. In the absence of pertinent legislation by the city-council, the statute of the state spells out the number of hours which regularly constitute a work day or work week in the fire department.
+The record before us does not show that the claimant worked a greater number of hours than those contemplated under §17-1(a) GC (in fact he does not so claim) and as a consequence thereof his case must fail.
+In summation, we conclude that:
+(1) The provision of the constitution of Ohio hereinbefore set out (Art. II, Sec. 37) does not apply to the maintenance of a fire department.
+(2) The charter of the city is not self-executing and therefore cannot be said to be municipal legislation pursuant to authority delegated by the state.
+(3) City Ordinance No. 234, in so far as the fire department is concerned, does not permit overtime pay for work beyond an eight hour day and forty-eight hour week. If applicable at all, it would apply only to overtime pay for work beyond that stipulated in the state code, and followed in the department for the past quarter century and more.
+(4) The evidence does not show, nor does the petitioner ■claim, that he worked in excess of the hours specified under §17-1 (a) GC.
+5. In view of the assertions made in the pleadings and statements made in the briefs of the litigants, it is, we think appropriate to make the following observations:
+(a) “The incumbent of an office has not, under our system of government, any property in it. His right to exercise it is not based upon any contract or grant. It it conferred upon him as a public trust. The nature of the relation of a public officer to the public is inconsistent with either a property or contract right.”
+Wright v. City of Lorain, 70 Oh Ap 337 at page 341 (1942). See also: Hull, Excrx. v. City of Cleveland, 79 Oh Ap 87 (1948)
+“1. A public officer or public general employee holds his position neither by grant nor contract, nor has any such officer or employee a vested interest or private right of property in his office or employment.”
+State ex rel Gordon, City Atty. v. Barthalow, Auditor, et al, 150 Oh St 499 (1948)
+(b) The right of all public employees to receive pay for their services to the public is derived solely from laws enacted for such purpose (ex lege) and an implied obligation or an implied contract to pay for services cannot be successfully maintained in this state.
+(6) Under the views here expressed, we find it unnecessary to pass upon the claim that the trial court erred in allowing, over objection, an amendment to the petition after the plaintiff had rested his case by including the context of ordinance No. 284 as enacted in 1943, nor do we find it necessary to pass on certain other errors asserted.
+It is the conclusion of this court that the plaintiff has failed to make a case under any circumstances, and therefore the court erred in the following respects:
+“In overruling defendant’s motion for a directed verdict at the close of all the evidence.”
+“In holding in connection with its ruling on the second motion for a directed verdict that Section 196 of the Charter and Section 284 of the Municipal Code of Cleveland, together, constituted a contract between plaintiff and defendant for the payment of compensation for any time plaintiff was required to be on duty in excess of 48 hours a week;”
+“In its charge by instructing the jury that the question whether plaintiff worked any overtime was to be determined from the Charter and Municipal Code provisions;”
+“In overruling defendant’s motion for a new trial.”
+“In entering judgment for the plaintiff instead of for the defendant.”
+The judgment will be reversed and final judgment entered for the defendant appellant, City of Cleveland. Order see journal.
+GUERNSEY, PJ, HUNSICKER, J, concur.
