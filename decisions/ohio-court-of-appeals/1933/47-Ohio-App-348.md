@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-07-28"
+citations: ["47 Ohio App. 348"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hornbeck, P. J., concurs.", "Barnes, J., not concurring."]
+parties: ["The State, ex rel. King, v. Emmons et al., State Civil Service Commission."]
+source_url: "https://static.case.law/ohio-app/47/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1341436
+---
+
+# State ex rel. King v. Emmons
+
+## Majority (Kunkle, J.)
+
+Kunkle, J.
+This is an original action in mandamus brought in this court, wherein the relator, John J. King, seeks to compel the respondents, who are the members of the State Civil Service Commission of Ohio, to certify to the Coroner of Hamilton county, Ohio, the name of the relator as one- of the persons eligible for appointment to the office of coroner’s clerk.
+In brief, the relator states that he is a citizen and elector of the state of Ohio and for the past eighteen months has been employed as assistant custodian of the morgue by virtue of appointment by Dr. M. Scott Kearns, coroner of Hamilton county, Ohio, under the .provisions of Section 2856-1, General Code; that the duties performed are such that the employment should be classified as that of a deputy, of an elective officer authorized by law to act for and in place of the coroner, ■and holding a fiduciary relationship to such coroner, and that the said position under the laws of the state of Ohio is one in the unclassified service as defined by Section 486-8, General Code; and that, despite such provision of the General Code of Ohio, the State Civil Service Commission has placed said position in the classified service, and on February 20, 1933, held an examination for the position, the duties of which were set forth in the Civil Service Bulletin as follows:
+“36. Coroner’s Clerk. Clerical Service. Clerk Group, Grade 1, Salary $1,500 — $1,920 a year. Examination fee, one dollar.
+“Duties: To take charge of the Coroner’s Office in his absence; to handle routine reports of- all cases; to make and keep records; to assist in the compilation of reports; to answer inquiries by telephone; to meet the public; to assist at hearings.
+“Qualifications: Education equivalent to that represented by graduation from a standard junior high school; two years experience in clerical work of a responsible nature, preferably with some relation to medical work; thorough knowledge of medical terms, particularly of those relating to causes of death; ability to receive verbal messages and reports, and to transmit them accurately.
+“Note: Two appointments will be made by the Coroner.”
+Relator further states that he took said examination and as a result of said examination the actual marks obtained were as follows: Harry B. Feldman, 81.9; Mary A. Halpin, 81.2; your relator, 80.5; George S. Hexter, 79.25; and James R. Niederlehner, 78.8; that under the provisions of Section 486-12, General Code, it is the duty of the defendants to certify an eligible list to the coroner; that Sections 486-10 and 486-13, General Code, provide that certain soldiers, sailors, ánd marines are entitled to receive an additional credit of 20 per cent.; and that under said provisions the State Civil Service Commission will certify the following four as an eligible list to the coroner, namely, George S. Hexter, 95.1; Clarence A. Riley, 86.52; John W. Ingersoll, 85.3; and Harry B. Feldman, 81.9.
+Relator further says that in July, 1918, he was then seventeen years of age, and being unable to enlist in the forces of the United States, enlisted in the Canadian Expeditionary Forces and served a period of twelve months, eleven of which were spent overseas; that he engaged in the war with the C¿ntral Powers at the times aforesaid, between April 6,1917, and November 11, 1918, with the Canadian Expeditionary Forces, and received an honorable discharge; that he received adjusted compensation from the state of Ohio under the provisions of the Ohio Constitution, and is a member in good standing of George Budde Post of the American Legion; that the State Civil Service Commission does not intend to give relator a credit of 20 per cent.; that if given the 20 per cent, additional credit, he would be on the eligible list; and that unless the provisions of Sections 486-10 and 486-18, General Code, are construed to give such credit to your relator, they are unfair, unreasonable, discriminatory, and arbitrary, and are in violation of Article I, Section 1, of the Ohio Constitution, and of the Fourteenth Amendment of the Constitution of the United States.
+Relator further avers that Article XV, Section 10, of the Ohio Constitution, provides in part:
+“Appointments and promotions in the civil service of the state, the several counties, and cities, shall be made according to merit and fitness, to be ascertained, as far as practicable, by competitive examinations. Laws shall be passed providing for the enforcement of this provision.”
+Relator claims that giving additional credit to some and not to others violates the express provisions of this section of the Constitution, as the appointments are not being made according to merit and fitness to be ascertained, as far as practicable, by competitive examinations, and that Section 486-10, General Code, in so far as same attempts to give credit to some applicants and not to your relator is void and unconstitutional. Relator therefore claims that he is entitled to have his name certified on the eligible list to the coroner by the defendants, and asks that a writ of mandamus issue requiring the defendants to certify his name on the eligible list for the position of coroner’s clerk to the coroner of Hamilton county, Ohio.
+An alternative writ was issued by this court, made returnable on May 10th, at which time the respondents were ordered to act on the claim of relator immediately, or show cause why they had not so done.
+The entry allowing such alternative writ was signed and approved by each of the three judges of this court.
+On May 11th the respondents, instead of filing an answer as provided in the entry, filed a general demurrer to the petition, on the ground that the same did not state facts showing a cause of action in favor of relator.
+Under the provisions of the Code of Ohio respondents were without authority to file such demurrer. An answer should have been filed instead of a demurrer.
+S-ection 12292, G-eneral Code, provides:
+“On the return day of an alternative writ or such further day as the court allows, the defendant may answer as in a civil action; or, if the writ be allowed by a single judge, he may demur.”
+The demurrer was filed in violation of the provisions of the Code, as the alternative writ was allowed not by a single judge, but by all three of the judges of the Court of Appeals.
+Under the state of the record we might be authorized to strike the demurrer from the files because the same was irregularly filed.
+Instead of doing so, however, we will consider and pass on the demurrer upon its merits.
+Upon this demurrer extensive oral arguments were heard, and very elaborate briefs have been filed by counsel for relator, by counsel for respondents, and also by counsel representing the American Legion and the Veterans of Foreign Wars of the United States, amici curice.
+We have considered these various briefs with care, and also the leading authorities cited by respective counsel, but in this opinion shall content ourselves with merely announcing the conclusions at which we have arrived upon the different questions urged by counsel.
+Is the relator entitled to the benefits granted to ex-service men by Sections 486-10 and 486-13, General Code?
+Section 486-10, General Code, among other things, provides:
+“Any soldier, sailor, marine, member of the army nurse corps or Red Cross nurse who has served in the army, navy or hospital service of the United States in the war of the rebellion, the war with Spain, or the war with the central powers of Europe between the dates of April 6th, 1917 and November 11th, 1918, who has been honorably discharged therefrom and is a resident of Ohio, may file with the civil service commission a certificate of service and honorable discharge, whereupon he shall receive additional credit given in the regular examination in which he receives a passing grade of twenty per cent of his total grade.”
+However commendable the action of relator may have been in enlisting with the Canadian Forces and fighting over seas with the Allies, this cannot be taken into consideration in construing the statute in question.
+The section of the Code, above quoted, limits the persons entitled to the 20 per cent, additional credit to those who served in the Army, Navy, or hospital service of the United-States. The language of the Code is such that a court would not be justified in construing the same so as to bring the relator within the provisions of this section. Such relief must come through the Legislature and not through the courts, as the Legislature has limited the provisions of the act in question to those in the service of the United States.
+Does the position in question, namely, that of clerk in the office of the coroner of Hamilton, county, come within the classified or the unclassified service?
+Sections 486-1 to 486-31, General Code, define the various classifications.
+Section 486-8, subdivision a, paragraph 9, General Code, provides that the “deputies of elective or principal executive officers authorized by law to act for and in the place of their principals and holding a fiduciary relation to such principals ’ ’ shall come within the unclassified service.
+It is seriously contended that the position in question falls within'the unclassified service, and that therefore the state civil service commission has no control or jurisdiction over such appointees.
+The duties of the appointees in question are set forth in detail in the petition and are quoted above. From a consideration of the pertinent sections of the Code, and the duties of the employees in question as set forth in the Civil Service Bulletin of February 3, 1933, we are of opinion that the position of the relator falls within the classified and not the unclassified service.
+We are also of opinion that it is practical to determine the merit and fitness of applicants for the position of clerk in the office of the coroner of Hamilton county by a competitive civil service examination.
+While we concede that the question is not wholly free from doubt, yet upon a careful review and consideration of the authorities cited we are of opinion that Sections 486-10 to 486-13, General Code, are not violative of Section 1, Article I, and Section 10, Article XY, of the Constitution of Ohio, nor of the Fourteenth Amendment to the Constitution of the United States:
+It must be conceded that the right of appointment to a position in the public service is not a property right.
+We are also of opinion that a preference in appointment in the classified service of 20 per cent, to honorably discharged soldiers is not violative of any right of citizenship guaranteed by the Constitution of Ohio or the Federal Constitution. The Legislature has the authority to recognize and to reward patriotism in the manner which it has done by the sections above quoted.
+We are also of opinion that the provisions of Section 10, Article XY, of the Constitution of Ohio, that appointments in the classified service shall be according to merit and fitness, as determined by competitive examination, in so far as practicable, are not violated by the additional 20 per cent, provided by Section 486-10, General Code. We are inclined to the opinion that the Legislature in determining fitness may recognize military service as a qualification to be measured in fixing the percentages which should be given various applicants.
+We have considered all the grounds urged by counsel for relator, and upon such consideration are of opinion that under the facts disclosed by the petition the relator is not entitled to the relief sought.
+The petition will, therefore, be dismissed.
+Petition dismissed.
+Hornbeck, P. J., concurs.
+Barnes, J., not concurring.
