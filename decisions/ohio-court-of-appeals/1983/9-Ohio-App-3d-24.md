@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-820439"
+decided: "1983-03-16"
+citations: ["9 Ohio App. 3d 24"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Palmer, P.J., Keefe and Doan, JJ., concur."]
+parties: ["Brady, Appellant, v. Carlson et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/9/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707453
+cites_cases: ["13 Ohio App. 2d 46", "25 O.O. 355", "38 Ohio Law Abs. 85", "42 O.O.2d 112", "42 Ohio App. 2d 63", "71 O.O.2d 425", "83 Ohio Law Abs. 129"]
+---
+
+# Brady v. Carlson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal from the Court of Common Pleas of Hamilton County.
+Pursuant to statute, the city of Greenhills, Ohio, advertised for sealed bids for the purchase of excess land it owned. Two bids were received and opened. Appellant, Robert M. Brady, was one of the bidders; the other was the Tem-plecraft Building Association (“Temple-craft”), which offered one dollar plus the exchange of another piece of real estate within the city. The City Council of Greenhills thereafter passed an ordinance (No. 80-34) entitled “Resolution Accepting Bid and Authorizing Contract to Sell Real Estate” accepting Templecraft’s bid as the highest and best bid and directing Robert C. Carlson, Mayor, and David B. Moore, then Director of Public Works, to enter into a contract to effectuate the transaction.
+Appellant filed an action seeking to enjoin appellees from entering into the contract for the reason that the ordinance “does not clearly express its subject in the title” and it “exceeds the corporate powers granted to the municipality by statute.” Both parties filed motions for summary judgment. After considering the memoranda, affidavits, exhibits, and oral arguments of counsel, the trial court granted appellees’ motion for summary judgment.
+Appellant filed this timely appeal alleging two assignments of error:
+“The trial court erred to the prejudice of the plaintiff-appellant in overruling his objection to the admission of defendants-appellees’ affidavit in support of their motion for summary judgment.
+“The trial court erred to the prejudice of the plaintiff-appellant in granting defendants-appellees’ motion for summary judgment.”
+In his first assignment of error, appellant argues under Civ. R. 56(C) that the affidavit of David B. Moore should not have been considered by the trial court as it was filed only three days prior to the hearing. We disagree. Although Civ. R. 56(C) requires that a motion for summary judgment along with supporting affidavits be filed fourteen days prior to hearing, the “adverse party” may file opposing affidavits any time prior to the day of hearing. The affidavit of David B. Moore was filed after appellees’ motion and is not designated either as opposing appellant’s motion or as supporting ap-pellees’ motion. Thus, it must be considered as both. As an opposing affidavit by an adverse party it is clearly permissible under Civ. R. 56(C). As a supporting affidavit it is permissible under Civ. R. 56(B) which allows the defending party to file a motion for summary judgment out of time by leave of court. Since appellant did not allege the filing of appellees’ motion for summary judgment to have been untimely or without leave of court, he appears to have waived the issue of timeliness; the waiver would also apply to the affidavit. Finally, the purpose of the rule’s filing deadlines is to allow a party reasonable time for preparation to oppose a motion for summary judgment. At the hearing appellant requested a continuance to counter the Moore affidavit. Appellant stated that he had reservations about the veracity of statements in the affidavit and about affiant’s personal knowledge of its contents, but he did not represent that he could secure opposing affidavits challenging affiant’s veracity or personal knowledge. Appellant thus demonstrated that he had no grounds for opposing the Moore affidavit. We hold that under Civ. R. 56 the trial court acted within its discretion in denying appellant’s request for a continuance and that the Moore affidavit was properly admitted. The first assignment of error is overruled.
+Under his second assignment of error appellant primarily challenges the municipality’s authority to exchange real estate pursuant to its power to sell real estate. Whether or not the authority to exchange is encompassed in the term “sell” is a matter of law and within the trial court’s discretion to determine in considering the motion for summary judgment. See Kwait v. John David Management Co. (1974), 42 Ohio App. 2d 63 [71 O.O.2d 425].
+Appellant alleges that as a matter of law the city ordinance titled “Resolution Accepting Bid and Authorizing Contract to Sell Real Estate” is violative of R.C. 731.19. That statute states that an ordinance shall not contain more than one subject, which shall be clearly expressed in its title. Appellant argues that the word “sell” in the title is not inclusive of the “exchange” of real estate addressed in the body of the ordinance and the subject is therefore not “clearly expressed in its title.” We do not agree. Appellant’s position that a “sale” is distinguishable from an “exchange” with regard to realty is technically correct. We hold, however, that the variance in the title of the ordinance from the body thereof is merely a matter of form rather than substance. R.C. 731.19 is directory only and relates to knowledge of the ordinance by members of the city council rather than the general public. Youngstown v. Harper (App. 1959), 83 Ohio Law Abs. 129. There is no allegation that the council was uninformed of the substance of the ordinance or misled by the title. No fraud, collusion, unjust enrichment, or inadequacy of consideration was alleged by appellant. In reference solely to the record in the matter sub judice, we find that in its broadest sense the term “sale” includes the subcategory of “exchange.” The second assignment of error is overruled.
+R.C. 721.01 grants a municipality the right to sell publicly owned real estate in the manner provided by R.C. 721.01 et seq. The decison to exchange real estate for the highest and best bid is discretionary with the city council. Unless the actions of the city council are arbitrary, capricious, unjust or illegal, there is no basis in law for the equitable remedy of injunction. Conway v. Cull (C.P. 1943), 38 Ohio Law Abs. 85 [25 O.O. 355], In the absence of misconduct or wrongdoing amounting to fraud or collusion, a court will not substitute its judgment for legislative action. Korn v. Dunahue (1967), 13 Ohio App. 2d 46 [42 O.O.2d 112]. There has been no allegation or showing that the action of the city council was prejudicial or injurious to appellant or any other taxpayer.
+The judgment below is affirmed.
+Judgment affirmed.
+Palmer, P.J., Keefe and Doan, JJ., concur.
+The motion was filed six days prior to trial.
