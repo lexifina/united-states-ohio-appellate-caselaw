@@ -1,6 +1,7 @@
 ---
 court: "Ohio Court of Appeals"
 decided: "1934-02-28"
+decided_as_given: "1934-02-29"
 citations: ["47 Ohio App. 128"]
 reporter: "ohio-app"
 precedential_status: "published"
