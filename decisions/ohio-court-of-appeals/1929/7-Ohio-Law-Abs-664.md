@@ -1,0 +1,23 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-10-09"
+citations: ["7 Ohio Law Abs. 664"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Middleton, PJ., concurs. Blosser, J, not sitting."]
+parties: ["McMENAMY v BD OF EDUCATION"]
+source_url: "https://static.case.law/ohio-law-abs/7/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1631848
+---
+
+# McMenamy v. Bd of Education
+
+## Majority (MAUCK, J.)
+
+MAUCK, J.
+Section 7669 authorizes the boards of education of adjoining' school districts to unite for high school purposes, and by the succeeding section it is provided that such high school shall be under the management of a high school committee consisting of two members of each of the boards constituting the joint district. Section 7671 provides that the high school shall be supported by appropriations from funds of each district in proportion to the property valuation of the respective districts. Section 7669 authorizes the boards of the two districts to submit to the electors of each district the questions of levying a tax for the purpose of purchasing. a site and erecting a building, and in such case a favorable vote must be had in both districts before the bonds can be sold • for the purpose of purchasing a site and erecting a building. The petition in this case does not show that it is proposed to purchase a site nor even to erect a building, but that it is proposed to use the funds now in the hands of the Jacksonville board in “the construction of or an addition to a school building in the incorporated village of Trimble.” It is fairly apparent, therefore, that the two boards propose to use the high school building now owned by the Trimble district and to put an addition thereto to take care of the needs of the new joint district. Section 7669 provides that if the boards have sufficient money in the treasury to purchase a site and erect such building, or if there is a suitable building in either district owned by the board of education that c,an be used for a high school building,' a vote is unnecessary and the boards may appropriate money from their funds for the purpose of securing, the high school building.
+The two boards of education in effecting a union for high school purposes are thus given a large discretion. The statute could not be generally effective if it were otherwise. Every case in which a union is sought almost necessarily differs from every other case in the state. The districts differ in wealth; they differ in the number of children to be educated, and these differences in turn vary in degree from year to year. Every question that arises seems to confided to the judgment and discretion of the two boards except in the single case of a union where it is necessary to purchase a site and erect a building. In that case a favorable vote is required on the part of the electors of both districts. In all other, cases the authority of the two boards of education is complete and their judgment is conclusive.
+In the case 'at bar the two boards of education do not appear to have found it necessary to purchase a site nor erect a new building. It is not clear just what is to be furnished by the Trimble board but it would appear that it • contributes a site apd building to the new enterprise and that Jacksonville contributes something like $15,000 which it has in its treasury for the purpose of securing a high school building. The propriety of this contribution was to be determined by the Jacksonville board and there is nothing in the situation to warrant the interference of a court pf equity. It is argued that the funds were raised thru the favorable vote of the Jacksonville electors in 1925 and that these voters expected that the funds would be used in erecting a building within the confines of the Jacksonville district. The petition shows, however, that the proposition voted for was not the erection of a building in the Jacksonville district but one for the Jacksonville district, and so voting the electors must be supposed to have contemplated every legal use to which the funds might be put, and this included the supplying of a high school building for Jacksonville district wherever it might be lawfully located. We do not find that the defendant board of education derived any power from Section 5625-13 GC. as amended July 26; 1929, nor that it required any further power than that afforded by Section 7669 et seq. The petition did not state a cause of action.
+Middleton, PJ., concurs. Blosser, J, not sitting.
