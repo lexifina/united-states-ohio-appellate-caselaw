@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6541"
+decided: "1969-04-02"
+citations: ["18 Ohio App. 2d 11"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., and Stbatjb, J., concur.", "Guernsey, J., of the TMrd Appellate District, sitting by designation in the Sixth Appellate District."]
+parties: ["Szymanski et al., Appellants, v. City of Toledo, Appellee."]
+source_url: "https://static.case.law/ohio-app-2d/18/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1465611
+cites_cases: ["119 Ohio App. 402", "119 Ohio App. 507", "130 Ohio St. 267", "134 Ohio St. 333", "138 Ohio St. 249", "148 Ohio St. 31", "158 Ohio St. 151", "2 Ohio App. 2d 201", "4 Ohio App. 2d 156"]
+---
+
+# Szymanski v. City of Toledo
+
+## Majority (Guernsey, J.)
+
+Guernsey, J.
+This appeal is from a judgment of the Common Pleas Court of Lucas County dismissing an appeal for the stated reason that the action sought to be reviewed constituted nonreviewable legislative action.
+Upon examination of the record we also find that the notice of appeal to that court was filed with the Clerk of the Toledo City Council on July 17, 1968, “from the final order and decision of the Lucas County Planning Commission and the Committee of the Whole of the City Council of the City of Toledo made and rendered on the 8th day of July, 1968, in which it was decided that the appellants were not entitled to a special use permit for the operation of a police tow lot at their location at 1340-1344 Campbell Street, Toledo, Ohio.” The record further reveals that on July 8, 1968, eight members of council, meeting as the committee of the whole, voted with respect to the requested permit that the “legislation will be reported to council as disapproved,” and that thereafter on July 22, 1968, council met in recessed session and voted against the passage of the ordinance. There does not appear to be any action of the Lucas County Planning Commission occurring on July 8, 1968, or at any other time, with reference to this matter.
+Robert’s Rules of Order, Revised, 229, Section 55, says: “When an assembly has to consider a subject which it does not wish to refer to a committee, and yet where the subject matter is not well. digested and put into proper form for its definite action, or when, for any other reason, it is desirable for the assembly to consider a subject with all the freedom of an ordinary committee, it is the practice to refer the matter to the ‘Committee of the Whole.’ * * *”
+In our opinion the action of the Committee of the Whole of the Toledo City Council to report the legislation to council, as disapproved does not constitute a “final order, adjudication, or decision of any officer, tribunal, authority, board, bureau, commission, department or other division of any political subdivision of the state” which may be reviewed under the provisions of Chapter 2506, Revised Code. It is obvious that there was no final action until city council met on July 22 and voted against the passage of the ordinance. Moreover, even were the notice of appeal considered as relating to action of city council, as: contrasted with its committee of the whole, the notice was filed before city council voted against passage of the ordinance and, in relation to such action, was prematurely, filed. .
+For these reasons, if for no other, the Common Pleas Court had no jurisdiction of the appeal and did not commit error in dismissing same. Taking this view, we need not, and do not, determine whether the action sought to be reviewed constituted nonreviewable legislative action; ■
+Judgment affirmed,
+Brown, P. J., and Stbatjb, J., concur.
+
+## Concurrence (Brown, P. J.,)
+
+Brown, P. J.,
+concurring. In reaching the above decision to. affirm the judgment it is well to recognize and mention the following legal principles. Since appeals and the right of appeal are favored by the law and since Section 1.11, Revised Code, enjoins a liberal construction of the Appellate Procedure Act, Chapter 2505, Revised Code, “to promote their [its] object and assist the parties in obtaining justice,” the courts generally have gone far in brushing aside technicalities and in preserving to litigants the right to appeal whenever it can be fairly done. This liberal construction requires the right to amend a notice of appeal to show the correct judgment or final order from which the appeal is taken where there is no real prejudice to anyone in the interest of substantial justice. Section 2505.05, Revised Code, last sentence thereof; Perry v. Baskey, 158 Ohio St. 151, paragraph one of syllabus and page 155 thereof; In re Guardianship of Wisner, 148 Ohio St. 31, at pages 34 and 35 thereof; Mosey v. Hiestand, 138 Ohio St. 249; Capital Loan & Savings Co. v. Biery, 134 Ohio St. 333; Kartorie v. San-Nor Oil Co., 119 Ohio App. 507. Such amendment of the notice of appeal may be made, sua sponte, by the court. Devonian Gas & Oil Co. v. Biehl, 4 Ohio App. 2d 156, paragraph one of syllabus and page 159.
+The rules concerning the wide latitude in permitting amendments to a notice of appeal, governed by Chapter 2505, Revised Code, apply to Administrative Appeals, Chapter 2506, by reason of Section 2506.01, which provides that appeals from the administrative agency or political subdivision to the Common Pleas Court shall be reviewed “as provided in Sections 2505.01 to 2505.45, inclusive.”
+Thus, appellee would have the right to have the notice of appeal from the agency to the Common Pleas Court amended to state correctly that the appeal was taken to the Common Pleas Court from the final order dated July 22, 1968, of the City Council of Toledo, denying the granting of a special use permit to appellants.
+The question might be raised whether an appellate court can order amended a notice of appeal or other pleading which is not intended for filing in the Court of Appeals but is intended for filing or was filed in the lower court. The Court of Appeals can order such amendment, and this conclusion is supported and explained in Perry v. Baskey, 158 OMo St. 151, paragraph one of syllabus, and is compelled by the law which requires reviewing courts to disregard errors wMch do not affect substantial rights, as provided in Section 2309.59, Revised Code. Cf. Section 2309.58, Revised Code.
+However, if such an amendment is made to the notice of appeal, since the notice of appeal to the Common Pleas Court was filed July 17, 1968, it was filed before the final order of July 22,1968, from wMch the appeal is taken.
+An appeal on questions of law must be dismissed if it was instituted before any final order was entered in the tribunal below. State v. Avery, 119 Ohio App. 402; Industrial Commission v. Wodinsky, 130 Ohio St. 267; 3 Ohio Jurisprudence 2d 500, Appellate Review, Section 580, Want of Final Order or Judgment; Premature Appeal. TMs principle is broad enough to include premature appeals to the Common Pleas Court from a final order or decision of the city council.
+Even if the appeal were perfected by the filing of a timely and proper notice of appeal from the final order of the city council, the decision of the Common Pleas Court dismissing the appeal should be affirmed. The Common Pleas Court correctly determined that the action of the City Council of Toledo in denying to appellants a special use permit was legislative in nature and that the Common Pleas Court is without authority to consider the appeal under Chapter 2506, Revised Code. Article XX, Sections 9-20-1 and 9-20-2, of the Toledo ZoMng Code provide the procedure for obtaining a special use permit and place such procedure in the category of an amendment to a zoning ordinance. Issuance of a special use permit is the equivalent of passage of a zornng ordinance amendment and is, therefore, a legislative action of city council not subject to judicial review. In re Appeal of Clements, 2 Ohio App. 2d 201.
+Guernsey, J., of the TMrd Appellate District, sitting by designation in the Sixth Appellate District.
