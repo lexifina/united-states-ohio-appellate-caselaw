@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "94APF07-972"
+decided: "1994-12-22"
+citations: ["99 Ohio App. 3d 463"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside, P.J., and Petree, J., concur."]
+parties: ["HAMMITT, Appellee, v. HOWARD, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/99/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1767409
+cites_cases: ["15 OBR 57", "15 Ohio App.3d 34", "322 N.E.2d 880", "366 U.S. 420", "394 U.S. 618", "41 Ohio St.2d 120", "472 N.E.2d 388", "590 N.E.2d 330", "639 N.E.2d 31", "69 Ohio App.3d 196", "70 O.O.2d 206", "70 Ohio St.3d 351"]
+---
+
+# Hammitt v. Howard
+
+## Majority (Bowman, Judge.)
+
+Bowman, Judge.
+Appellee, Myrtle V. Hammitt, filed a petition under Ohio’s Uniform Reciprocal Enforcement of Support Act (“URESA”), R.C. Chapter 3115, in Frederick County, Maryland, alleging that appellant, Warren K. Howard, had a duty of support for Ciera N. Hammitt, who was born on January 30, 1986. Specifically, appellee requested orders establishing paternity, child support, medical coverage and income withholding.
+Appellant was ordered to submit to genetic testing to determine if he was the father of the minor child. The results of the genetic testing indicated that there was a 99.08 percent probability that appellant was Ciera’s father.
+The case proceeded before a referee of the Franklin County Court of Common Pleas, Division of Domestic Relations, Juvenile Branch, and, on October 28, 1993, after reviewing the test results and conferring with counsel, appellant acknowledged that he was Ciera’s father. The admission was accepted by the referee and a father/child relationship between appellant and Ciera was established. The case was then continued to a later date to address the support issues. Thereafter, appellant filed a motion for visitation.
+On January 20, 1994, the referee recommended that appellant pay ongoing child support, provide health insurance for Ciera’s benefit and pay one half of any of Ciera’s extraordinary medical expenses. The referee also recommended that appellant’s motion for visitation be overruled based on a lack of jurisdiction.
+Appellant filed objections to the referee’s report and recommendations, alleging that the trial court had jurisdiction to entertain his motion for visitation. On June 3, 1994, the trial court overruled appellant’s objections and approved and adopted the report and recommendation of the referee. Appellant now brings this appeal, asserting the following assignments of error:
+“I. The trial court abused its discretion in ruling that it did not have jurisdiction to consider respondent-appellant’s visitation request.
+“II. Failure of the trial court to consider respondent-appellant’s request for visitation was a denial of due process of law as guaranteed by the Fourteenth Amendment to the U.S. Constitution as well as Section 16, Article I of the Ohio Constitution.
+“HI. Failure of the trial court to consider respondent-appellant’s request for visitation was a denial of equal protection of the laws as guaranteed by the Fourteenth Amendment to the U.S. Constitution as well as Section 2, Article I of the Ohio Constitution.”
+In his first assignment of error, appellant asserts that the trial court erred in determining that it lacked jurisdiction over his motion for visitation. Appellant asserts that, because URESA incorporates Ohio’s parentage law, R.C. Chapter 3111, the trial court had jurisdiction to establish visitation rights under R.C. 3111.13(C). Appellant also contends that R.C. 3115.21 addresses the issue of visitation and, thus, confers jurisdiction over his request for visitation on the trial court.
+R.C. 3115.01(A) sets forth the purpose of the URESA statutes, which is “to improve and extend by reciprocal legislation the enforcement of duties of support.” (Emphasis added.) In Snelling v. Gardner (1990), 69 Ohio App.3d 196, 201, 590 N.E.2d 330, 332, the court stated that the central purpose of URESA is to provide an inexpensive, relatively simple and effective means for ensuring that the duties of support are enforced, even across state lines. The court noted that it is the interest of the child in the support that is paramount. Id. at 203, 590 N.E.2d at 334.
+The authority of the court in a URESA action is set forth in R.C. 3115.29, which provides:
+“Participation in any proceedings under sections 3115.01 to 3115.34, inclusive, of the Revised Code, does not confer upon any court jurisdiction over any of the parties thereto in any other proceeding.”
+Thus, R.C. 3115.29 itself dictates that the only proceeding under URESA over which the trial court has jurisdiction is one for support.
+It is well settled that support rights and visitation rights are separate and distinct and are entitled to separate enforcement. Flynn v. Flynn (1984), 15 Ohio App.3d 34, 37, 15 OBR 57, 59, 472 N.E.2d 388, 391. R.C. 3115.21 grants the court the right to suspend visitation if it finds that an obligor has willfully failed to provide support after having been found financially able to do so. Other than this sanction, the URESA statute does not address the issue of granting visitation. The authority of the court to suspend visitation, already granted in another proceeding, as a penalty for failing to pay support, does not correspondingly confer jurisdiction on the court to allow visitation in the first instance in a URESA proceeding. Therefore, the trial court did not err in determining that it did not have jurisdiction over matters concerning visitation, and appellant’s first assignment of error is not well taken.
+In his second assignment of error, appellant asserts that the trial court’s failure to consider his request for visitation denied him his due process rights.
+An enactment comports with due process if it bears a real and substantial relation to the public health, safety, morals or general welfare of the public, and if it is not unreasonable or arbitrary. Due process is also satisfied if there is a rational relationship between a statute and its purpose. Fabrey v. McDonald Police, Dept. (1994), 70 Ohio St.3d 351, 354, 639 N.E.2d 31, 34.
+The purpose of URESA is to provide a means for ensuring that obligations of support are enforced, even across state lines. There is a rational relationship between URESA and the purpose for which it was enacted. Simply because URESA addresses only matters of support, and does not address the issue of visitation, does not cause it to violate due process.
+In this case, appellant has not been deprived of the companionship of his child without a fair process or procedure simply because the trial court did not address the issue of visitation.
+On the contrary, appellant may pursue his right to visitation in another action in another forum. No decision by the trial court in this case precludes appellant from being granted visitation and, thus, appellant has not had his due process rights denied with regard to visitation simply because the issue has not been addressed in conjunction with this case. Accordingly, appellant’s second assignment of error is not well taken.
+In his third assignment of error, appellant asserts that the trial court’s failure to consider his request for visitation denied him equal protection under the law.
+In reviewing an issue under equal protection, the inquiry must focus on whether the statute under attack creates a discriminatory classification. Shapiro v. Thompson (1969), 394 U.S. 618, 89 S.Ct. 1322, 22 L.Ed.2d 600. Although equal protection does not preclude legislative classifications, it does require that there be reasonable grounds for making a distinction between those within and those outside a certain classification. Kinney v. Kaiser Aluminum & Chem. Corp. (1975), 41 Ohio St.2d 120, 123, 70 O.O.2d 206, 207, 322 N.E.2d 880, 882. A statutory classification cannot be tolerated unless a legitimate legislative objective is furthered by the classification. McGowan v. Maryland (1961), 366 U.S. 420, 81 S.Ct. 1101, 6 L.Ed.2d 393.
+The URESA statute at issue in this case does not create a discriminatory classification as appellant suggests. There is no distinction between obligors paying support and obligors not paying support, and there is no distinction between custodial and noncustodial parents. The URESA statute is not discriminatory, as it does not confer a special right on one party which is denied to another party. Simply because the statute is written so that it limits the scope of matters within the jurisdiction of the court does not make it violative of equal protection. The limitations in the statute are reasonable in light of the purpose of URESA, which is to enforce support obligations, and because URESA provides for reciprocal enforcement of court determinations, each party must use the provisions equally. Accordingly, appellant’s third assignment of error is not well taken.
+Based on the foregoing, appellant’s three assignments of error are overruled and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Whiteside, P.J., and Petree, J., concur.
