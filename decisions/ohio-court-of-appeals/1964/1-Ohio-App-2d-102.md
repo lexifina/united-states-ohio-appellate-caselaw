@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5409"
+decided: "1964-03-11"
+citations: ["1 Ohio App. 2d 102"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doyle and Stevens, JJ., concur."]
+parties: ["Fox, Appellee, v. Triplett Auto Wrecking, Inc., Appellant, et al."]
+source_url: "https://static.case.law/ohio-app-2d/1/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1455306
+cites_cases: ["103 Ohio App., 217", "104 Ohio App., 226", "120 Ohio St., 553", "157 Ohio St., 206", "235 S. C., 537", "31 Ohio App., 446", "56 N. M., 328", "67 Ohio St., 91"]
+---
+
+# Fox v. Triplett Auto Wrecking, Inc.
+
+## Majority (Hunsicker, P. J.)
+
+Hunsicker, P. J.
+Carnie D. Fox, the appellee, in this appeal on questions of law, was seriously injured on the premises of the appellant, Triplett Auto Wrecking, Inc., when an automobile operated by one Essie Caldwell backed into Fox, crushing bim against a brick wall.
+On August 13, 1960, one Joe Henderson Reed borrowed an automobile from his employer, Cornelius A. Rauh Associates, Inc., to drive to Triplett Auto Wrecking, Inc., to purchase a transmission for an old truck which Reed owned. Reed had as a passenger a Mrs. Caldwell. Upon arriving at Triplett’s place of business, he parked in such a way as to block ingress and egress to and from an area in a building used by Triplett to repair motor vehicles. There were two such areas in the building. Reed, as he got out of the automobile, was told by one of the Triplett employees that he could not park at that place, but he left the vehicle and proceeded to go into another part of the Triplett building.
+There was placed in front of and between the areas a metal sign, saying that the doors should not be blocked. This sign was placed outside each morning by one of the two area employees. They had instructions also to order a driver to move his vehicle from the entrance of the area, or, if no driver was in the vehicle, to push the vehicle out of the entrance way to such work area.
+Mrs. Caldwell was seated in the automobile on the passenger side, awaiting the return of Reed, when employees of Triplett, working in the bay areas, came to her and told her to move the vehicle. She replied that she did not know how to drive this car, or that she did not know how to drive. She later testified she had a driver’s license and knew how to drive a Buick. The car in question was a 1955-model Chrysler.
+After the last of several requests (the evidence is in conflict as to the number), Mrs. Caldwell was told that all she needed to do was turn the switch to start the motor. She did as she was instructed by one of the Triplett employees. The automobile moved quickly backward, crushing, against a brick wall, Fox, who was in the act of walking past the rear of the vehicle, injuring him severely.
+Fox brought an action against Reed, Cornelius A. Rauh Associates, Inc., Mrs. Caldwell, and Triplett. At the conclusion of the case for Fox, the plaintiff, Reed and Rauh, Inc., named defendants, were dismissed from the action, and the trial proceeded against Mrs. Caldwell and Triplett. A verdict was returned against these two defendants in the sum of $77,096. From the judgment rendered on the verdict, Triplett has appealed to this court, saying the trial court erred in overruling: (1) appellant’s motion for a directed verdict; (2) appellant’s motion for judgment in its favor notwithstanding the verdict of the jury; and (3) appellant’s motion for a new trial.
+The appellant further says the following questions are presented in this case for our consideration:
+“1. Did plaintiff introduce any credible evidence to prove his theory of liability against the appellant — i. e., that its employees ‘insisted’ and ‘demanded’ that Essie Caldwell move the Chrysler automobile?
+“2. Is there any credible evidence that would sustain the necessary finding of the jury that the employees of the appellant were acting within the scope of their employment or under some type of authority in ‘demanding’ and ‘insisting’ that defendant Essie Caldwell move the Chrysler automobile in question?
+“3. Does the request by one person to another adult, responsible, licensed and experienced driver that they [sic] move an improperly parked automobile, constitute actionable negligence?
+“4. If such can be actionable negligence, does it, under the circumstances in this case, become the legal proximate cause of plaintiff’s injury?
+“5. Was the charge of the court to the jury free from prejudicial error as it related to the appellant?
+“6. Is the verdict of the jury against the manifest weight of the evidence as it relates to the appellant?
+“7. Is the verdict excessive in amount?”
+In order for any liability to attach to Triplett in this case, it must be established that the employees who requested Mrs. Caldwell to move the automobile were acting for Triplett within the scope of their employment. While it is easy to state the rule, the application of that rule to the facts in any given situation is frequently very difficult. The rule of an employer’s liability for the acts of his employees has been stated in Lima R. Co. v. Little, 67 Ohio St., 91, as:
+“2. The test of a master’s liability is not whether a given act was done during the existence of the servant’s employment, but whether such act was done by the servant while engaged in the service of, and while acting for the master, in the prosecution of the master’s business.”
+There has been no deviation from thig rule throughout the years. See: Vencill v. Cornwell, 103 Ohio App., 217, at p. 219; Travelers Fire Ins. Co. v. Louis G. Freeman Co., 104 Ohio App., 226; Senn, Admx., v. Lackner, 157 Ohio St., 206.
+We have a situation herein where an employee, in furtherance of his employer’s business to keep a work area open and unblocked (which was a part of the general duty of the employee), requested a person, who told him she was incompetent for the purpose, to move from the blocked entrance way a motor vehicle in which motor vehicle she was only a passenger. The delegation of that task to the incompetent driver resulted in injury to another. This act, delegated to Mrs. Caldwell, was done as a part of, or incident to, a task which the employee was required to do for his employer, although the means of accomplishing the act were certainly not in accord with the wishes of the employer.
+This is not a case of a servant, the employee here, having anthority to appoint a sub agent, but of an employee delegating to another the task which he, the employee, was in general required to do. The fact that the employee herein used a means of seeking to unblock the work area that was not specifically permitted, or, even if forbidden, should not relieve Triplett of liability, since the means chosen fell within the range of what Triplett might reasonably expect an employee to use under similar circumstances.
+A discussion of the general subject herein may be found in 2 Harper and James, The Law of Torts, 1374, Section 26.7; 1 Shearman and Redfield on Negligence (Revised Ed.), 384, Section 162. A review by Professor Meachem of many early cases may be found in 3 Michigan Law Review, 198. See, also, 8 American Jurisprudence (2d), 200, Automobiles and Highway Traffic, Section 643; and 60 Corpus Juris Secundum, 1087, Motor Vehicles, Section 436 (b).
+From these authorities, the rule is generally said to be that, where a servant delegates a particular duty of his to a stranger, and the servant is present and co-operating with the stranger in the performance of such duties at the time of the injury (which the evidence shows herein), the master is liable on the ground that the negligence of the stranger is the negligence of the servant.
+In the case of Ohm, a Minor, v. Miller, 31 Ohio App., 446, the one upon whom the servant called for help was himself considered a servant. In the matter of emergency in that case, the servant had implied authority to procure the necessary help. In the instant case there was, under the evidence, immediate need for the work area to be cleared. The employee of Triplett thus had implied authority to have Mrs. Caldwell move the motor vehicle.
+In Cowley v. Bolander, 120 Ohio St., 553, at p. 556, the court announced the rule in situations such as we have here to be:
+“An employer is liable, not only for the negligence of his employee acting within the scope of his employment, but also for the negligence of one whom that employee procures to assist him in the discharge of his duties, where authority to procure such assistance is expressly conferred, or arises by implication from the circumstances or conditions under which the service is to be performed.”
+This rule is also found in Paul v. Benavidez, 56 N. M., 328, 243 P. (2d), 1018; Wineglass v. McMinn, 235 S. C., 537, 112 S. E. (2d), 652; and Jacobi v. Claude Nolan, Inc. (Fla.), 122 S. (2d), 783.
+In the instant case, Mrs. Caldwell was assisting the employee of Triplett to do what in contemplation of his employer he was employed to do: i. e., keep the work area free so motor vehicles could be repaired. The negligence of the stranger, Mrs. Caldwell, thus became the negligence of the servant, and Triplett is liable even though, as here, there was some deviation from the instructions to push driverless vehicles out of the work area.
+We must therefore determine that where, as here, an employee, a part of whose duty it is to keep an entrance to a place of business open, directs a stranger to operate an automobile which she says she cannot drive, and the stranger, in operating the vehicle, negligently injures another who is rightfully on the premises, such employer may be held liable on the ground that such operation of the vehicle was in fact an operation of a vehicle by an employee in the furtherance of the master’s basiness. The negligence of the stranger (Mrs. Caldwell) is in effect the negligence of the servant who instructed her to move the motor vehicle.
+The evidence also justified the jury in finding that the conduct of the employee was a proximate cause of the injury sustained by Fox.
+We have examined the other questions raised by the appellant, particularly as to the charge of the court. While we find the instructions as given not to be as complete as we desire, yet after examining such instructions in the light of the general rule of law announced above, we find no error of commission therein.
+We do not find any error in this case prejudicial to the substantial rights of the appellant. The judgment must be affirmed.
+Judgment affirmed.
+Doyle and Stevens, JJ., concur.
