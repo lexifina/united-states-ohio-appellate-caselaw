@@ -1,0 +1,26 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-10"
+citations: ["9 Ohio Law Abs. 48"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pollock and Farr, JJ, concur."]
+parties: ["HOLLAND FURNACE CO v STEVENSON"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895718
+cites_cases: ["14 Ohio, 109", "17 Ohio 225", "4 Ohio 323", "53 Oh St 151"]
+---
+
+# Holland Furnace Co. v. Stevenson
+
+## Majority (ROBERTS, J.)
+
+ROBERTS, J.
+It is the contention of counsel for the ' plaintiff that the setting aside of the ori- ‘ ginal judgment and the filing of an apiended petition praying for an increased amount of indebtedness was what is known in law . as a departure, and that the lien or rights of the two defendants begin or could be asserted so far as that action is concerned - only from the time the amended petition ‘-, was filed. This proposition is not well taken. A mere change in the amount sought to be recovered to correct a mistake . in the original petition ,does not constitute a departure. A departure exists only when / there is a real and substantial change in ■ the nature of the transaction in litigation. 18 CJ., 490; 1 Pope Legal Definitions, 368; 2 Words and Phrases, 1990. It was the duty of the plaintiff in the original action to have made the Holland Furnace Company a def."ii-''uit in its foreclosure proceeding.' '< It was its duty to take cognizance o. such changes dr improvements in the property as might antidate the commencement of its action. It is claimed on the other sidé that the transaction constituted a lis pendens, as defined by 11300 GC. .
+It is claimed by counsel for the defendants that having commenced this action first before foreclosure action of the mechanic’s lien, that the first action became a lis pendens and it was not possible for any other party thereafter to come in and 'maintain a lien upon the premises. This is an entire misconception of lis pendens. After an action has been commenced and gives notice to the world of its existence, then a third party may not acquire a new interest in the property by purchase mortgage or otherwise as against this action so .commenced. (However, lis pendens has no reference whatever to a pre-existing lien, and concededly the Furnace Company had a • lien pre-existing the commencement of this action. 17 Ohio 225; 14 Ohio, 109; 53 Oh St 151; 4 Ohio 323; 38 CJ, 54-57; 17 R. C. L., 1028.
+Quoting only from the last named au- . thority, it is said:
+“Until there be a suit pending there can be no such thing as a purchaser pendent lite, and a person whose in- " terests are acquired before the action i§ brought against his vendor, will not be bound by its result.”
+'It can be very readily perceived that if ;i¡ the rule were as claimed by counsel for the defendants, that the result would be atrof cious. The mortgagee commencing an Ivaction and not making the lien holder a party and ipso facto, the lien holder then is I barred of his interest by the laches or fault |/' of the defendant. We have this situation, Ifthat' the plaintiff has a right, not having fa , been brought in, he was not obliged to- come ft into the original foreclosure action to fore|í ¿lose the premises in dispute for the proís téction of his lien. However, the two mortI-gages which antidated his lien by several j¡| years must be taken into consideration, and ¿¡ in the foreclosure action the amount of g; these mortgages was several hundred dol|f lars, more than the purchase price, and p there is no claim that the property did not |f sell .“for its full value. So that while the (:' answers of .the defendants are not really I' appropriate to the situation, the facts indik 'cate that these original mortgages constitute! the first and second liens. Before the y 'plaintiff would be entitied to anything on the marshaling of the liens, these mortgages would have to be taken care of, and: the purchaser at sheriff’s sale, or the assignee of such purchaser, if her title becomes effective by reason of these encumbrances, then the purchaser is entitled to subrogation for the amount which the purchaser paid and'lost by reason of the failure to recognize the liens in their proper order of priority, so that if this issue went through to a final determination by litigation, before the Holland Furnace Company could get anything the property would have to sell for not only enough to make up the deficiency of the two former mortgages, but for enough to take care of the plaintiff’s claim, and it does not seem under such a situation that there is any encouragement whatever for the further prosecution of the plaintiff’s, action. As a legal proposition, however, we apprehend • that it has a right to a foreclosure and recognize that right. What has been- said concerning the obstructions which would be encountered in an effort to recover upon this mechanic’s lien are suggestions as to the advisability of incurring further expense in this action. Counsel presumably will be able to agree upon a decree in this case. If not, the matter may be submitted to the court. i
+Pollock and Farr, JJ, concur.
