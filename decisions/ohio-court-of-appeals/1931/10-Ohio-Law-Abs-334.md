@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1931-05-06"
+citations: ["10 Ohio Law Abs. 334"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MIDDLETON and BLOSSER, JJ, concur.'"]
+parties: ["CLARK v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 897115
+---
+
+# Clark v. State
+
+## Majority (.MAUCK, J.)
+
+.MAUCK, J.
+While the defendant admitted every one of the elements of the offense as defined in his own special instruction able and alert counsel seek to avoid the consequences of such admission by urging that notwithstanding the admissions of the accused that he sold the machine to the city he could not in law have sold to the city what the city already owned. This suggestion has an •appearance of logic behind it. The statute, however, was designed to punish a fraudulent disposal of public property. The moral qualities of the transaction and the wrong done the public are quite the same whether the fraudulent sale was made to the city or to another. If we should accept this re-find application of the word “sell” and require' the transaction to include the elements of a sale as that term is used in lawful commerce there could never be a conviction of an unlawful sale under §12880 GC, or any other statutes that penalize unlawful “sales,” if it is unlawful it is not a sale and if the property belongs to the city it can not be “sold” by the auditor to any one. We accept the defendant’s own claim that he sold the machine to the city.
+The verdict of the jury was irregular. §13880 GC and §12881 GC provide that when a verdict of guilty is had under the first of these two sections there should be imposed on the defendant a sentence of imprisonment in the penitentiary and that he shall be fined double the amount of money or other property “embezzled.” In this case the jury found
+“the defendant Benjamin M. Clark guilty of selling public 'property with intent to defraud as he stands charged in the indictment.”
+“There is no finding of the amount of which the city was defrauded. Notwithstanding the verdict was not as broad as the statute contemplated and made no finding upon which a fine might be predicated the trial court after sentencing the accused to a term in the Ohio Penitentiary adjudged that he pay a fine in the sum of $400. Clearly this part of the judgment relating to the fine has no finding of the jury to support it and must at all events be eliminated from the judgment. Counsel for the defendant urge that we go further. The argument is that the statute requires that the verdict find the amount of money or the value of the property involved in such a case as this, and that inasmuch as the verdict does noc conform to the requirements of the statute it is no verdict at all and must be set aside. The statute thus invoked is §1344-3 GC. (113 O. L. 194.) That section provides that when the indictment charges an offense
+“against property by larceny, receiving stolen property, embezzlement, wrongful conversion of property, or obtaining it by false pretenses, in case the value thereof shall determine the degree of the- offense, or shall determine the punishment, the jury on conviction shall ascertain and declare in their verdict the value of such property.”
+This section does not cover the case at bar. It applies to cases of larceny as defined by §13447 GC, receiving stolen property as defined by §13450 GC, embezzlement and wrongful conversion of property as defined by §13467 GC, and obtaining property by false pretenses as defined by §13104 GC. In all these sections the value of the property involved affords the distinction between a felony and a misdemeanor, and makes the nature and degree of the punishment depend upon the value of the property involved. The section under which the accused was indicted and tried in this case when originally enacted (69 O. L. 193) carried with it direct penalties for its violation depending upon whether or not the amount involved was thirty five dollars or less. When the statutes were revised and this section became §6847 R.S. no direct penalty was imposed but it was provided that one guilty of violating its terms should be guilty of embezzlement and punished accordingly. If §13880 GC had retained either of its earlier forms §13448-3 GC would doubtless have been extended to it. When the statutes were last codified, however, and the statute put in its present form, the direct penalty was provided and one' violating its terms is now guilty of a felony regardless of the value of the property disposed of by him in violation of the statute. There was, therefore, no occasion to include the crime defined by it in §13448-3 GC and it was not so included.
+We have, therefore, this situation. When the jury returned the verdict quoted it had found the defendant guilty of violating §13880 GC. If that finding were warranted, and it was, the state had the right to require the jury to return to the jury room and ascertain the value of the property sold in order that it might have the double judgment to which under the law it would have been entitled. The state failed to avail itself of this right. By that failure it lost its right to a judgment for the fine. Because the representatives of the state saw fit to forfeit a part of the judgment to which if is entitled it does not follow that the courts should deprive it of the rest, of the judgment to which it was entitled. Under the defendant’s own testimony a new trial could only result in another conviction and an additional penalty following the regular imposition of a fine. He is, therefore, in no position to complain that he escapes with the judgment of imprisonment without the fine. §13449-5 GC (113 O. L. 196.)
+It is accordingly ordered that the judgment of the Court of Common Pleas be modified by eliminating therefrom these words:
+“that he pay a fine in the sum of four hundred ($400.00) dollars.”
+And with this modification the judgment is affirmed.
+MIDDLETON and BLOSSER, JJ, concur.'
