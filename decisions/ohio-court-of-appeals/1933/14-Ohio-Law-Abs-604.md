@@ -1,0 +1,24 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-04-07"
+citations: ["14 Ohio Law Abs. 604"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FARR and ROBERTS, JJ, concur in the judgment."]
+parties: ["POREMBSKI v OHIO BELL TELEPHONE CO et"]
+source_url: "https://static.case.law/ohio-law-abs/14/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1648628
+---
+
+# Porembski v. Ohio Bell Telephone Co.
+
+## Majority (POLLOCK, J.)
+
+POLLOCK, J.
+Before the introduction of any evidence the defendants called the court’s attention to the fact that the petition was only qualified to as the “affiant verily believes,” and urged for that reason that the temporary restraining order should be dissolved. The affidavit to the petition is sufficient, so far as the petition- is concerned, but when a petition is to be used as an affidavit in a proceeding on a temporary restraining order, it must be qualified to absolutely, but in this hearing affidavits were not used. It was heard upon oral testimony.
+The plaintiff was called as a witness so that the manner in which the petition is qualified to is immaterial. It appears from the evidence that the plaintiff and Dr. Ranz were members, in connection with a number of other physicians, of the corporation ^known as The Youngstown Clinic; that The Youngstown Clinic purchased and received telephone service from the defendant, the Ohio Bell Telephone Company, and that the company gave the clinic the number now in dispute, 44501. In purchasing this telephone service it was also arranged that each member of the clinic should have in his office the same number and by some device when a phone call was received in the office of the clinic it was switched to whichever member of the clinic was asked for. Prior to the question involved in this case the clinic had gone into the hands of a receiver, and some of the members were withdrawing from the clinic. Dr. Ranz intended' and did afterwards withdraw from the clinic and secured a new office. He went to the telephone office and secured telephone service for his new office, the company giving him the number formerly given to the clinic, 44501. While the plaintiff knew that Dr. Ranz was leaving and intended to open offices in a different building, yet Dr. Ranz did not inform the plaintiff of his intention' to have the telephone company give him the number then used by the plaintiff through the clinic. Neither did the Ohio Bell Telephone Company inform the plaintiff that it had changed the number and given it to Dr. Ranz. The Telephone Company continued the plaintiff’s telephone service number without making any change until it furnished its patrons with a new telephone directory, leaving the number opposite the plaintiff’s name 44501. After this change, patrons of the telephone company who wished to call the plaintiff, calling this number, would not come into communication with the plaintiff’s office but with Dr. Ranz’s office, so that Dr. Porembski, as a purchaser from the telephone company of telephone service, would receive no service for his patrons.
+It is urged that the purchaser of telephone service has no property right in the number. We think that this is correct, but we do not think that determines the issues in this case. The plaintiff is a practicing physician, and so is Dr. Ranz. The value of telephone service to a purchaser engaged in the profession that the plaintiff is engaged in, is largely that his patrons and other persons wishing to communicate vifh him may be able to do so by calling the number in the telephone directory-. This contract provision is such that the value thereof could not be determined at law and we think a court of equity has jurisdiction. It is evident that the telephone company could not give the plaintiff the service which it agreed to do by change of the number, unless it would also give its patrons a new telephone directory. It developed in the evidence that since this restraining order has been granted, that by some device in the office the company can give both the plaintiff and Dr. Ranz telephone service, but the company objects to doing this on the ground that it is expensive. We think that such ground is not sufficient reason for violating the contract which the telephone company made with the plaintiff when it gave him service. It should have notified him before issuing a new directory and given him another number. We think the telephone company should be required to furnish the plaintiff telephone service as it agreed to do, unless it is able to furnish him another number and furnish its patrons with a new directory.
+It follows that the motion to dissolve the temporary' restraining order is overruled and the case remanded for such other proceedings as may be according to law.
+FARR and ROBERTS, JJ, concur in the judgment.
