@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1914-07-06"
+citations: ["3 Ohio App. 319"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, O. B., and Jones, E. H., JJ., concurring."]
+parties: ["The City of Cincinnati v. Hiles."]
+source_url: "https://static.case.law/ohio-app/3/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8810068
+---
+
+# City of Cincinnati v. Hiles
+
+## Majority (Swing, J.;)
+
+Swing, J.;
+Jones, O. B., and Jones, E. H., JJ., concurring.
+This case is in this court on error to the judgment of the superior court of Cincinnati, wherein defendant in error recovered a judgment against the plaintiff in error in the sum of $1,250.
+In said court Josephine Hiles brought her action against The Cincinnati Traction Company and the city qf Cincinnati. The action was for damages for injuries received by said Josephine Hiles by reason of a defect in one of the streets of Cincinnati, to-wit, Spring Grove avenue, into which plaintiff stepped, and which resulted in quite a serious injury to her. She alleged that the hole in the street into which she stepped was at a point where The Cincinnati Traction Company stopped its car on which she was a passenger and at which point she desired to alight; that the city of Cincinnati was guilty of carelessness and negligence in permitting Spring Grove avenue to become and remain out of repair and permitting the hole to remain and be in the pavement, and that the city of Cincinnati was careless and negligent in that, notwithstanding it had caused to be built and maintained an electric lamp near the halfway stop for the purpose of lighting Spring Grove avenue at that point, it negligently and carelessly permitted the lamp to remain unlighted on the evening at the time when the accident happened to plaintiff; that the city, in the exercise of ordinary care, was bound to know that Spring Grove avenue was out of repair and in a dangerous condition to pedestrians at the time and place where the accident happened to the plaintiff. She further alleged that when she alighted from the car she was in the exercise of due care and caution and without any negligence whatever, but that The Cincinnati Traction Company, defendant, was careless and negligent in stopping its car and inviting its passengers to alight at a place in Spring Grove avenue which was then and there unsafe and dangerous.
+The Cincinnati Traction Company filed a demurrer to the petition on the ground that it did no? state a cause of action against the company and that there was a misjoinder of parties defendant. The court found this demurrer well taken, and dismissed the traction company, and the case then proceeded to trial against the city of Cincinnati, witli the result hereinbefore stated.
+The case was argued in this court quite a long time ago and has been under discussion by us several times, and only lately have we arrived at a conclusion which is satisfactory to all the members of the court.
+Considerable evidence was heard on the trial, and after a careful consideration we are of the opinion that there is very little, if any, conflict in the evidence. The facts are substantially these: There is no question as to the injuries received by the plaintiff; there is no question but that the street was very much out of repair, not only at the point where the accident occurred, but the street generally was very much out of repair and in very bad condition. The hole in the street into which plaintiff stepped and received her injuries was described as being about four feet long and two feet wide, and at some points as deep as eight inches. It was so deep, in fact, that the rail and ties of the street car company were exposed to view. The point at which the plaintiff alighted was called a halfway stop. Not far from this halfway stop was a regular stop, and the evidence shows that at that point the street was in a safe condition, and the evidence further shows that the plaintiff could have stopped at this latter point without any great inconvenience to herself. The evidence further shows that the plaintiff had been living opposite to the point where she alighted for some ten days or more, that she had gotten on and off the car at this point several times previous to the accident and that she was familiar with the condition of the street at this point.
+The evidence further shows that the condition of the street was in plain view from the surrounding houses and sidewalks and was in no way concealed.
+Under these circumstances has plaintiff any right to recover in this case ? We are of the opinion that she has not. She not only had knowledge in fact but was bound to know that the street was out of repair at the point where she alighted from the car. It does not appear' that there were any facts existing at the time she alighted which prevented her from using the knowledge which she had as to the bad condition of the street. It seems to us that she did not exercise that ordinary care and prudence which one is bound to use in stepping onto a street which she knows to be in an unsafe condition.
+Whether or not the street car company was guilty of negligence in the stopping of its car at a point in the street where the street was in-a dangerous condition and inviting the passengers to alight at that point and thereby became liable to the plaintiff, is not here for our consideration, as the plaintiff elected to proceed against the city of Cincinnati alone.
+But it seems to us that the negligence of the city, in permitting the street to get out of repair,- was not the direct cause of the accident, but rather that the contributory negligence of the plaintiff, in not observing the proper care on her part in using the street, was the direct cause of the accident, and therefore the city could not be held liable.
+Mr. Alfred Bettman and Mr. Coleman Avery, for plaintiff in error.
+Mr. Horace A. Reeve, for defendant in error.
+Under the facts we think the court below should have directed the jury to return a verdict for the city, that the judgment should be reversed and judgment entered in this court on that ground.
+Other errors were assigned, but under the holding at which we have arrived they are not material.
+Judgment reversed.
