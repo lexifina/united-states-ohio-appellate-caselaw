@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1915-06-14"
+citations: ["28 Ohio C.C. Dec. 285"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, E. H. and Gorman, JJ., concur."]
+parties: ["Cincinnati Traction Co. v. Josephine Keil."]
+source_url: "https://static.case.law/ohio-cc-dec/28/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8817170
+cites_cases: ["102 N. E. 316", "132 Pa. St. 58", "161 Pa. St. 230", "18 Atl. 1090", "215 Mass. 336", "23 L. R. A. 606", "24 Am. St. Rep. 120", "28 Atl. 1107", "41 Am. St. Rep. 885", "48 N. W. 1097", "86 Mich. 236"]
+---
+
+# Cincinnati Traction Co. v. Keil
+
+## Majority (JONES (O. B.), J.)
+
+JONES (O. B.), J.
+The action below was brought in the superior court of Cincinnati by the plaintiff, defendant in error here, against the Cincinnati Traction Co., plaintiff in error here. The plaintiff sought to recover damages for personal injuries claimed to have been sustained by her when she was about to alight from a street car operated by the defendant company and upon which she was a passenger.
+The accident happened about seven o’clock on Sunday morning after the car had been brought to a stop a,t the intersection of Fourth and Sycamore streets; and the car was one of the ordinary type single-truck summer cars, with seats running across the ear the entire width of the oar with passageways or aisles between them, and a step or running-board along the outer side of the car from which the seats were entered.
+The negligence on the part of the traction company complained of by the plaintiff was in the use of a wheelguard upon the floor of the car partly projecting from beneath the seat into the passageway in front of the seat, in such a way as to interfere with her exit from the car, and to subject her to slipping or stumbling over it. Plaintiff further charged negligence in the use and maintenance of such wheelguard in regard to its form, size and condition, claiming that its surface should have been corrugated or at least roughened, or by keeping it painted to have prevented it from becoming smooth or shiny.
+The testimony of plaintiff reveals that she knew of the existence and location of this wheelguard, and that when about .to leave the car while it was stopped at the place of her destination she placed her right foot on the floor between this wheel-guard and the outside sill or edge of the car floor and her left foot upon the top of the wheelguard, and that her left ankle turned under her in such a manner that she sat down on the top of that foot, resulting in a severe injury to her ankle and limb, and her thumb was injured at the same time in grasping the upright stanchion of the car to save herself from falling.
+The defendant denied negligence on its part, and pleaded contributory negligence on the part of the plaintiff in failing to see the wheelguard and to avoid injury from it.
+A careful consideration of the evidence shows that plaintiff was familiar with this type of ear and knew of the existence and character of the wheelguard; having frequently used such cars; it also shows that her injury did not arise from stumbling over the wheelguard or falling from the ear, but indicates that her foot slipped or her ankle turned from stepping upon the wheelguard, just as a similar accident might have happened to her ankle by a false step upon the running-board, or any other portion of the car, or upon the street or sidewalk. The evidence further shows that the wheelguard was of the kind in general use upon summer ears of the type in question, and that the defendant company had -for a number of years used many ears of ■that type. It further showed that it was necessary in single-1ruck open cars either to have a wheelguard similar to that in question or to raise the floor of the car about three and a half inches, and that such increase in the height of the floor of the car would so increase the height of the running-board or step, or tbe distance from it to tbe floor of the car, as to be more fruitful of accident tban tbe danger from stumbling over tbe so-called obstruction of tbis character of wheelguard. It was in evidence that tbe defendant company had summer cars with higher floors in which there were no wheelguards, but that these cars had been purchased to accommodate a safety brake known as the “slipper brake” for use on heavy grades in the city, the elevation of their floors being made with a view to affording the necessary space for such brake rather than for the purpose of eliminating such a wheelguard.
+The evidence shows the exact size and location of this wheel-guard with reference to the space between the seats, and it is clearly shown that a passenger could step into or out of the car without being compelled to step upon the wheelguard.
+The court is of the opinion that the verdict of the jury, which involves a finding of negligence on the part of the company as well as lack of contributory negligence on the part of the plaintiff, is not sustained by sufficient evidence.
+The fourth,special charge asked by the defendant before argument to the jury is as follows:
+“From the mere fact that the plaintiff was injured, you may not infer that the company was negligent. If you finid that the wheelguard, as respects its type and location, wras of an approved kind in general use by street railroad companies throughout the country on single-truck summer cars, then I charge you that the traction company was not negligent in adopting and using that type of wheelguard upon the car in question. ”
+The charge was improperly refused by the court. The following authorities support the proposition that an appliance not obviously dangerous, that has been in daily use and uniformly proved safe, may be continued to be used without the imputation of negligence. Graef v. Railway, 161 Pa. St. 230 [28 Atl. 1107; 23 L. R. A. 606; 41 Am. St. Rep. 885]; Adduci v. Elevated Ry. 215 Mass. 336 [102 N. E. 316]; Werbowlsky v. Ry. Co. 86 Mich. 236 [48 N. W. 1097; 24 Am. St. Rep. 120].
+The case of Farley v. Traction Co. 132 Pa. St. 58 [18 Atl. 1090], involved an accident arising from a wheelguard similar to the one in the case at bar. In that case the court held that the use of such a wbeelg'uard was not negligence on the part of the street railway company, and that it was not error to enter a judgment of nonsuit.
+The court also improperly refused to give the fifth special charge, which is as follows:
+“A common, carrier of passengers does not owe to a passenger the highest degree of care absolutely, but only the highest degree of care consistent with the practical operation of the road in view of danger to be reasonably apprehended and the purpose to be served. If, therefore, you find that in the present case the company exercised that degree of care which ordinarily prudent street car companies under like circumstances use, I charge you that the company was not guilty of any negligence and your verdict should be for the defendant company. ’ ’
+The evidence shows that the use and maintenance of the wheelguard upon defendant’s can in the manner in which it was placed and in use on the ear was not negligence, and no other negligence was claimed or shown on the part of defendant.
+The motion of defendant for an instructed verdict in favor of defendant, made at the close of plaintiff’s evidence and renewed at the close of all the evidence, should have been granted.
+The judgment below is therefore reversed, and judgment will be entered here for plaintiff in error.
+Jones, E. H. and Gorman, JJ., concur.
