@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "6992"
 decided: "1927-04-18"
-citations: ["5 Ohio Law Abs. 710", "5 Ohio Law Abs. 294"]
+citations: ["5 Ohio Law Abs. 710"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
