@@ -1,7 +1,7 @@
 ---
 court: "Ohio Court of Appeals"
 decided: "1936-01-30"
-citations: ["52 Ohio App. 25", "54 Ohio Ct. App. 505", "23 Ohio Law Abs. 508"]
+citations: ["52 Ohio App. 25"]
 reporter: "ohio-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Currie v. The Baltimore & Ohio Rd. Co. et al."]
 source_url: "https://static.case.law/ohio-app/52/cases/0025-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1348612
-cites_cases: ["10 Weekly Law Bulletin 404", "112 N. E., 1014", "118 Ohio St., 307", "122 Ohio St., 391", "123 Ohio St., 213", "127 Oh St 413", "127 Ohio St., 413", "130 Oh St 243", "130 Ohio St., 243", "157 N. E., 315", "157 NE 315", "160 N. E., 898", "164 N. E., 59", "171 N. E., 860", "174 N. E., 735", "183 N. E., 295", "188 N. E., 753", "188 NE 753", "199 N. E., 74", "199 NE 74", "24 Ohio App., 192", "30 Ohio App., 21", "41 N. E., 690", "41 NE 690", "43 Ohio App., 376", "53 Oh St 386", "53 Ohio St., 386", "8 Ohio Law Abs., 407", "93 Ohio St., 304"]
+cites_cases: ["112 N. E., 1014", "118 Ohio St., 307", "122 Ohio St., 391", "123 Ohio St., 213", "160 N. E., 898", "164 N. E., 59", "171 N. E., 860", "174 N. E., 735", "183 N. E., 295", "30 Ohio App., 21", "43 Ohio App., 376", "93 Ohio St., 304"]
 ---
 
 # Currie v. Baltimore & Ohio Rd.
