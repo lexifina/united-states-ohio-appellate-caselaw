@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "216"
+decided: "1953-12-28"
+citations: ["100 Ohio App. 473"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Conn and Deeds, JJ., concur.", "Fess, Conn and Deeds, JJ., of the Sixth Appellate District, sitting by designation in the First Appellate District."]
+parties: ["In re Estate of Hutson: Village of Amelia, Appellant, v. Village of Bethel, Appellee."]
+source_url: "https://static.case.law/ohio-app/100/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422501
+cites_cases: ["165 Ohio St., 115"]
+---
+
+# Village of Amelia v. Village of Bethel
+
+## Majority (Fess, J.)
+
+Fess, J.
+The village of Amelia, Ohio, appeals on questions of law and fact from an order of the Common Pleas Court dismissing its appeal on questions of law and fact from an order of the Probate Court finding and determining that the decedent died a resident of the village of Bethel, Ohio, and that the inheritance tax paid on his estate should be distributed to the village of Bethel, Ohio. The appeal to this court on questions of law and fact is dismissed and the appeal retained on questions of law.
+The record discloses that on September 26, 1952, the administratrix filed her application with the Probate Court for determination of inheritance tax, in which it was averred that the deceased died a resident of Bethel village. On October 7, 1952, a journal entry determining tax without auditor’s appraisal was filed, in which the amount of tax to which each succession was liable was determined; but with respect to the township in which such tax originates, the entry recites, “to be determined later by the court as soon as residence is ascertained.” Receipt of payment of the tax in the sum of $5,566.80 on October 13, 1952, was certified to the Probate Court on October 15, 1952. On October 20, 1952, subpoenas were directed to five persons to appear as witnesses on October 21 in the matter of the Hutson estate. On November 12, 1952, an entry was made reciting that the matter came on for hearing upon the petition for determination of inheritance tax, that upon the evidence the court found that Henry Hutson died a resident of Bethel and that the tax should be distributed to that village. Exceptions were allowed the village of Amelia, Ohio. It is apparent that the proceedings were adverse and not ex parte, anc that they were in the performance of a judicial, not an administrative, function. An appeal to the Common Pleas Court upon questions of law and fact was perfected by the filing of a bone pursuant to a further order fixing the amount thereof.
+Upon motion of the village of Bethel as appellee, made under special appearance, the Common Pleas Court dismissed the appeal on the ground that it was not taken from a final order of the Probate Court.
+Section 5341, General Code (Section 5731.22, Revised Code), provides that the Probate Court, upon its own motion, or upon application of any interested person, shall by order direct the county auditor to fix the value of property, the succession to which is subject to tax, and that the auditor after certain proceedings shall report his findings to the court. Section 5345, General Code (Section 5731.32, Revised Code), provides that upon the report of the appraisal and other evidence relating to any such estate, the court shall forthwith, upon the filing of such report, by order entered upon the journal, find and determine, as of course, “the actual market value of all estates, the amount of taxes to which the succession or successions thereto are liable, the successors and legal representatives liable therefor; and the townships or municipal corporations in which the same originated”; and that, thereupon, the judge shall give notice of such order to all persons known to be interested therein and to the Tax Commissioner. (Emphasis supplied.)
+Section 5345 provides also that, in case no application foi appraisement is made, the Probate Court may make and entei such findings and determination without such appraisement.
+As we construe Section 5345, in case a determination without appraisement is made, the court likewise is required to give notice thereof.
+Section 5345-1, General Code (Section 5731.33, Revised Code), provides that in any inheritance tax proceeding in which the court has determined the tax without having directed an appraisement under Section 5341, on written motion of the Tax Commissioner filed within 30 days, such finding shall be vacated and an order of appraisement shall be issued, after the return of which the tax shall be redetermined.
+It is apparent that Section 5345, General Code (Section 5731.32, Revised Code), contemplates that the tax may be determined without directing the auditor to make an appraisement. This was the procedure followed in the instant case, and pursuant to Section 5345, on October 7, 1952, the court entered a determination of the amount of taxes due but made no determination with respect to the municipality in which the same originated. On November 12, 1952, after the hearing, the supplementary entry was made with respect to the municipality of origin. In the meantime, no motion pursuant to Section 5345-1, General Code, was filed by the Tax Commissioner.
+Section 5346, General Code (Section 5731.38, Revised Code), provides that the Tax Commissioner or “any person dissatisfied with the appraisement and determination of taxes, may file exceptions thereto in writing” within sixty days from the entry of the order, and upon the hearing of such exceptions the court may make such order as it may deem just and proper in the premises. It will be noted that no provision is made with respect to the filing of exceptions by a township or municipality upon the matter of the origin of the tax.
+Section 5348, General Code (Section 5731.40, Revised Code), provides that an appeal may be taken by any party from the final order of the court under Section 5346, General Code. The final order is one with respect to appraisement and determination of taxes, and not one relating to the determination of the origin. The village of Amelia, however, is not thereby deprived of an appeal. Section 10501-56, General Code (Section 2101.42, Revised Code), provides that “if, for any reason, a record has not been taken at the hearing of any matter before the Probate Court * * * then an appeal on questions of law and fact may be taken to the Court of Common Pleas by a person against whom it is made, or whom it affects, from any order, decision, or judgment of the Probate Court in the manner provided by law for the prosecution of such appeal from the Court of Common Pleas to the Court of Appeals.”
+It is true that the order with respect to the appraisement and determination of tax did not become final until after 60 days from its entry, but the order determining the origin became final, in so far as the village of Amelia was concerned, upon its entry.
+The judgment of the Common Pleas Court is reversed, and the cause remanded thereto for further proceedings.
+Judgment reversed and cause remanded.
+Conn and Deeds, JJ., concur.
+Fess, Conn and Deeds, JJ., of the Sixth Appellate District, sitting by designation in the First Appellate District.
