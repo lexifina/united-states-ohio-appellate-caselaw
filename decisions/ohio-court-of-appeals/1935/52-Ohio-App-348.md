@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1935-11-12"
+citations: ["52 Ohio App. 348", "20 Ohio Law Abs. 380"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Levine and Terrell, JJ., concur in the judgment."]
+parties: ["Beach, Recr., v. Mizner, Exr."]
+source_url: "https://static.case.law/ohio-app/52/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1348636
+---
+
+# Beach v. Mizner
+
+## Majority (Lieghley, P. J.)
+
+Lieghley, P. J.
+Plaintiff, George E. Beach, filed a petition in the Common Pleas Court alleging that he is the duly appointed and acting receiver of The Service Savings and Loan Company, an Ohio building and loan corporation; that the defendant, Harvey A. Mizner is the duly appointed and acting executor of the estate of Jacob B. Lynn, deceased.
+That in his lifetime on the 10th day of July, 1922, said deceased subscribed for ten shares of the capital stock of The East Shore Savings and Loan Association, an Ohio corporation, and that there remains an unpaid balance of nine hundred dollars thereon; that thereafter said subscription was duly assigned to The Service Savings and Loan Company; that thereafter the court ordered that said unpaid balance be paid on or before March 15th, 1934.
+The plaintiff further avers that, ‘ ‘ On the 16th day of July 1934, plaintiff presented to defendant a verified copy of said subscription together with the amount due thereon and demanded that defendant allow the same as a valid claim against the estate of said Jacob B. Lynn, deceased, and defendant then and there refused to allow the same as a valid claim.”
+The petition does not contain an averment that said claim was presented to said executor “within four months after the date of his appointment,” as provided in Section 10509-112, General Code. Nor did said petition aver that plaintiff had filed a petition with the Probate Court for leave to file said claim with said executor in accordance with the requirements of Section 10509-134, General Code.
+To this petition the defendant demurred on two grounds:
+First: That the court has no jurisdiction of the subject of the action.
+Second: That the petition does not state facts which show a cause of action.
+The demurrer to the petition was sustained and plaintiff not desiring to plead further the action was dismissed at the costs of plaintiff.
+The petition incorporates a reference, to the record of the appointment of defendant as executor with page and docket number of the Probate Court records. It was undisputed in argument and brief that he was appointed more than four months before the claim involved herein was presented for allowance or rejection.
+It is the contention of defendant and it was apparently the view of the trial court that a creditor must file his claim with the executor within four months after his appointment or the claim is conditionally barred. The condition is the indispensable necessity of invoking and satisfying the provisions of Section 10509-134, General Code, without which the claim is absolutely barred.
+It is claimed by plaintiff that Section 10509-112, General Code, does not have the effect of barring a claim if the four months limitation is not complied with nor does it operate to conditionally bar said claim. It is contended that the right to file claims with the executor continues so long as there are assets remaining in his hands for distribution and that the claimant merely suffers the penalties provided and enumerated in Section 10509-112, General Code.
+Prior to the enactment of the present Probate Code which became effective January 1st, 1932, no definite time was fixed within which claims of creditors must be presented. Section 10741, General Code, theretofore contained the only reference to the effect that six months after his appointment the executor or administrator may pay the debts without liability to creditors who later present claims. This subsection 112 now in effect provides a definite time within which claims shall be filed and gives certain preferences to such diligent creditors who present their claims within this limit. This section now reads as follows:
+“Sec. 10509-112, Presentation of claims; allowance or rejection. Creditors shall present their claims, whether due or not due, to the executor or administrator within four months after the date of his appointment. Such executor or administrator shall allow or reject all claims, except contingent claims, within thirty days after their presentation. Any claim presented after the time herein provided shall not prevail as against bona fide purchasers or as against executors and administrators who have acted in good faith, or against a surviving spouse who has made the election to take under the will or at law, and, except as to negotiable instruments maturing subsequent to the expiration of such time, any such late claim shall not prevail as against bona fide distributees.”
+Section 10509-133, General Code, deals with the time when claims are barred to the effect that a claimant must commence a suit for the recovery of his claim within two months after rejection or be forever barred. Former Section 10722, General Code, was rewritten and given the above number changing the limitation from six months to two months and allowing the exception set forth in Section 10509-134, General Code. Section 10509-133, General Code, reads as follows:
+“When claim barred. If a claim against the estate of a deceased person has been presented to the executor or administrator, and has been disputed or rejected by him, but not referred to referees, the claimant, except as is otherwise provided by law, must commence a suit for the recovery of such blaim within two months after such dispute or rejection, if the debt or any part of it be then due, or within two months after some part of it becomes due, or be forever barred from maintaining an action thereon. Except as is otherwise pro.vided by law, no action shall be maintained thereon after such period, by a person deriving title thereto from such claimant.”
+As we understand it power and jurisdiction were placed in the Probate Court to reinstate a barred claim under the circumstances enumerated in Section 10509-134, General Code, which is in the following language:
+“Reinstatement of barred claim. Upon petition filed by a creditor or person deriving title from him, whose claim has not been presented within the time prescribed by law, the probate court, if after notice to all interested parties and hearing, it is of the opinion that justice and equity so require, and that the petitioner is not chargeable with culpable neglect in failing to present his claim within the time so prescribed, may permit petitioner to file his claim for allowance, but such allowance shall not affect any payment or distribution made before the filing of such claim, nor shall it prejudice the rights of creditors whose claims were filed within the time prescribed by law. ’ ’
+Therefore, creditors shall present their claims within four months after the date of appointment of executor or administrator for allowance or rejection. Section 10509-112, General Code.
+If duly presented and then rejected and not referred, suit must be instituted within two months after rejection or be forever barred. Section 10509-133, General Code.
+If not presented within four months creditors may petition the Probate Court for leave to file for allowance which may be granted upon proper proof with rights limited. Section 10509-134, General Code.
+The Probate Code now in force which became effective January 1, 1932, was enacted for some commendable purpose. It-is a generally accepted theory and belief that it was inspired by the uncertainty and confusion attendant upon the administration of estates under former statutes. To remedy this, the law now expressly specifies the order and the time for each necessary procedural step. , Section 10508, General Code, to Section 10508-14, General Code.
+These sections mandatorily require such a claim as is the subject of this action to he presented in four months. The facts of presentation and rejection are a part of the cause of action without which the plaintiff can not maintain the action. Or, if not thus presented, there is no cause of action without resort to Section 10509-134, General Code, for aid and reinstatement as therein provided.
+There are certain claims such as contingent claims and claims rejected after allowance at the request of an heir or creditor that are not controlled by these strict time limitations, hut even these are controlled by limitations applicable to this class of claims. However, the claim of plaintiff herein is not one of these.
+Finally, it is our opinion that a petition to state a cause of action upon such a claim must contain averments that the claim was duly presented within four months and that the same was rejected. Without the existence of these facts there is no cause of action and no right in plaintiff to maintain an action. The claim is barred unless and until reinstated under Section 10509-134, General Code.
+The judgment is affirmed with exceptions noted.
+Judgment affirmed.
+Levine and Terrell, JJ., concur in the judgment.
