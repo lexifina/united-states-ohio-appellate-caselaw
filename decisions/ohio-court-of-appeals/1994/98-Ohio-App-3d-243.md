@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "66170"
+decided: "1994-09-12"
+citations: ["98 Ohio App. 3d 243"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Blackmon and Matia, JJ., concur."]
+parties: ["CITY OF CLEVELAND, Appellant, v. OHIO CIVIL RIGHTS COMMISSION et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/98/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764836
+cites_cases: ["15 O.O.3d 9", "18 OBR 361", "18 Ohio St.3d 315", "399 N.E.2d 72", "481 N.E.2d 575", "581 N.E.2d 1135", "61 Ohio St.2d 17", "64 Ohio App.3d 427", "646 N.E.2d 1122", "71 Ohio St.3d 1497"]
+---
+
+# City of Cleveland v. Ohio Civil Rights Commission
+
+## Majority (Dyke, Judge.)
+
+Dyke, Judge.
+On July 12, 1989, Ronald Dennis filed a charge with the Ohio Civil Rights Commission (“OCRC”) alleging handicap discrimination. Dennis had applied for a position as a firefighter with the city of Cleveland (“city”). Dennis had taken the written examination, the physical agility test, a psychological evaluation and a medical examination, and was placed on the eligible-for-hire list. In February 1989 it was discovered that Dennis had a congenital eye condition which prevented him from completely closing his right eyelid. The city removed him from the eligibility list due to his medical condition.
+The OCRC determined that probable discriminatory action had taken place and attempted to achieve a settlement between the parties. When this was not accomplished, the OCRC filed a complaint, May 17, 1990. The parties agreed on the facts at issue and to a ruling by the hearing examiner without an actual hearing. Both parties briefed their arguments and the examiner made findings of fact, conclusions of law, and recommendations.
+On March 29, 1991, the hearing examiner found that Dennis’s condition did not otherwise limit his functional ability, and that his general health and vision were good. The examiner also found that the city’s physician based his finding of unacceptability for hire on standards promulgated by the National Fire Protection Association, disapproving the hiring of persons with congenital malformations. The examiner further recognized the report of Dr. Gregory S. Kosmorsky, D.O., Dennis’s physician at the Cleveland Clinic, which stated that Dennis’s condition would not affect his performance as a firefighter.
+The examiner’s conclusions of law determined that the OCRC had met its burden to submit evidence in support of a prima facie case of handicap discrimination. Under the first prong to prove a prima facie case, the OCRC proved that notwithstanding the fact that Dennis had no functional limitation, the city perceived Dennis as “virtually unemployable as a firefighter.” Under the second prong, the examiner relied upon the report of Dr. Kosmorsky as evidence that Dennis could safely and substantially perform the duties of a firefighter. Furthermore, the city’s reliance on the generalized medical standards of the National Fire Protection Association failed to rebut the proof of this element submitted by the OCRC. The city was responsible for making an individualized determination of Dennis’s abilities, but failed to do so. Finally, under the third prong, no dispute existed regarding the fact that Dennis was removed from the city’s eligibility list solely because of his physical impairment.
+Having proved a prima facie case of handicap discrimination, the burden of proof shifted to the city to show that its action qualified under one of the exceptions allowed by the statute. The examiner concluded that the city did not meet its burden to submit evidence to show that Dennis’s condition created an occupational hazard. The city made a bare assertion that smoke or embers may get into Dennis’s eye, impairing the performance of his duties.
+The examiner determined that even if the city had submitted some evidence of an occupational hazard, this was rebutted by the OCRC’s recommendation that Dennis wear a gas mask. The examiner found this to be a reasonable accommodation, which would rebut any evidence of an occupational hazard, had the city put forth any such evidence.
+The examiner recommended that the city cease its discriminatory practices, offer Dennis employment at a pay scale comparable to what he would have been paid had he been hired with others off of the eligibility list, and back pay.
+The city filed its objections to the examiner’s findings of fact, conclusions of law, and recommendations. The OCRC affirmed the examiner’s recommendations and filed its order on September 19, 1991. The city appealed to the common pleas court, which affirmed the OCRC’s order on August 13, 1993. A timely notice of appeal was filed with this court on September 15, 1993. Appellant, the city, files three assignments of error.
+I
+“The common pleas court erred in affirming the determination of the Ohio Civil Rights Commission that [the] employer had committed unlawful handicap discrimination in violation of Ohio Rev.Code Section 4112.02(A) where the complainant was not ‘handicap[ped]’ as defined in Ohio Rev.Code Section 4112.01(A)(13).”
+Appellant argues that the Administrative Code section relied upon by the OCRC for the definition of “handicap” impermissibly enlarges the scope of the legislation. Appellant’s argument is not well taken.
+Ohio Adm.Code 4112-5-02(H) prohibits discrimination against not only those persons with functional disabilities, but also against those persons who are perceived by the employer as being handicapped. This perceived handicap language applied to the factual situation in this case because Dennis is not actually handicapped under the R.C. 4112.01(A)(13) definition as it existed at the time of the alleged discrimination. The definition was amended June 30, 1992 to incorporate the language at issue here from the Administrative Code.
+An administrative agency is given authority to enact provisions with the full force and effect of law to enable it to effectuate the legislative policy behind the Revised Code provisions passed by the General Assembly. “The basic limitation on this authority is that an administrative agency may not legislate by enacting rules which are in excess of legislative policy, or which conflict with the enabling statute.” English v. Koster (1980), 61 Ohio St.2d 17, 19, 15 O.O.3d 9, 11, 399 N.E.2d 72, 74.
+The hearing examiner concluded that the Ohio Adm.Code 4112-5-02(H) definition of “handicap” applied. This conclusion was affirmed by the OCRC ruling and also by the common pleas court. The standard of review which this court must follow is whether the court below abused its discretion in determining that the Administrative Code definition was valid:
+“In reviewing the lower court’s reversal of a civil rights determination, the appellate court’s standard of review is limited to abuse of discretion. * * * The term ‘abuse of discretion’ refers to more than a minor error in law or in judgment, implying instead that the attitude of the court in its decision was unreasonable, arbitrary, or unconscionable.” Kent State Univ. v. Ohio Civ. Rights Comm. (1989), 64 Ohio App.3d 427, 438-439, 581 N.E.2d 1135, 1143. We are constrained to hold that the court of common pleas did not abuse its discretion.
+The enabling statute, R.C. 4112.04, mandated that:
+“(A) The Ohio civil rights commission shall:
+U * * *
+“(4) Adopt, promulgate, amend, and rescind rules to effectuate the provisions of sections 4112.01 to 4112.08 of the Revised Code, and the policies and practice of the commission in connection therewith[.]”
+The definition contained in the Administrative Code prohibiting discrimination against one with a perceived handicap is not in conflict with this enabling provision and also furthers the policy of the legislation to prevent unfair discriminatory employment practices. Prohibiting discrimination against someone the employer believes to be handicapped, even if such is not the case, furthers the policy against discrimination aimed at persons with disabilities. We find that the common pleas court did not abuse its discretion in applying the Administrative Code definition to this set of facts.
+Appellant’s first assignment of error is overruled.
+II
+“The common pleas court erred in accepting the Ohio Civil Rights Commission’s contention that the complainant in this case was ‘perceived’ as having a handicap simply because he was not hired as a result of a physical condition which caused him to fail to meet the medical standards.”
+Appellant argues that it did not even perceive Dennis to be handicapped at the time it took him off the eligibility list. Appellant asserts that Dennis simply failed to meet the medical standards used to determine qualified applicants. Appellant’s argument is not well taken.
+We cannot find that the common pleas court abused its discretion in ruling upon this issue. Appellant’s action in relying upon generalized standards without making individualized assessments of the abilities of the applicants is discriminatory. In this case, the hearing examiner found that based upon its reliance on the generalized medical standards, the city “perceived Complainant [Dennis] as virtually unemployable as a firefighter. Based on the foregoing discussion, Complainant had a ‘perceived handicap’, as defined by Administrative Code Section 4112-5-02(H).” We affirm the common pleas court’s decision to uphold this ruling by the hearing examiner.
+Appellant’s second assignment of error is overruled.
+III
+“The common pleas court erred in rejecting the employer’s position that even if the complainant were handicapped, the Ohio Civil Rights Commission failed to prove he could safely and substantially perform the duties of firefighter where it offered no analysis assessing the risks posed in a fire situation.”
+Appellant asserts that Dr. Kosmorsky’s report was insufficient to support the OCRC’s burden to prove that Dennis could safely and substantially perform the essential duties of a firefighter. Appellant’s argument lacks merit.
+A reviewing court may not substitute its judgment for that of an administrative body if there is some evidence supporting its decision. Pushay v. Walter (1985), 18 Ohio St.3d 315, 18 OBR 361, 481 N.E.2d 575. Dr. Kosmorsky’s report constitutes some evidence in support of the second element of the prima facie case of discrimination asserted by the OCRC. The court of common pleas did not abuse its discretion in affirming the administrative agency’s ruling which relied upon Dr. Kosmorsky’s report.
+Appellant’s third assignment of error is overruled. The court of common pleas decision to uphold the rulings of the OCRC is affirmed.
+Judgment affirmed.
+Blackmon and Matia, JJ., concur.
