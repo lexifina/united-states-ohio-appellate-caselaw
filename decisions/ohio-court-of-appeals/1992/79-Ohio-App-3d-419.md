@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "63596"
+decided: "1992-04-24"
+citations: ["79 Ohio App. 3d 419"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Francis E. Sweeney, P.J., and Harper, J., concur.", "Matia, C.J., dissents."]
+parties: ["The STATE ex rel. AMERICAN NATIONAL RED CROSS, v. POKORNY, Judge."]
+source_url: "https://static.case.law/ohio-app-3d/79/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670878
+cites_cases: ["14 OBR 1", "14 Ohio St.3d 1", "24 O.O.3d 320", "25 OBR 77", "25 Ohio St.3d 53", "285 N.E.2d 22", "3 O.O.3d 441", "30 Ohio St.2d 326", "320 N.E.2d 286", "338 N.E.2d 522", "346 N.E.2d 325", "361 N.E.2d 247", "385 U.S. 355", "39 Ohio St.3d 174", "40 Ohio St.2d 65", "436 N.E.2d 1005", "44 Ohio St.2d 86", "453 U.S. 156", "46 Ohio St.2d 58", "469 N.E.2d 847", "49 Ohio St.2d 295", "495 N.E.2d 16", "529 N.E.2d 1245", "59 O.O.2d 387", "69 O.O.2d 396", "70 Ohio St.2d 213", "73 O.O.2d 328", "75 O.O.2d 142"]
+---
+
+# State ex rel. American National Red Cross v. Pokorny
+
+## Majority (Journal Entry.)
+
+Journal Entry.
+Relator, American National Red Cross (“Red Cross”), avers that it is a party-defendant to a civil action, Imke v. Risius, Cuyahoga County Court of Common Pleas case No. CV-177465, which is pending before respondent, Judge Thomas J. Pokorny. Plaintiffs in case No. CV-177465 aver that in 1983, Cora E. Imke received a transfusion of blood which infected her with the AIDS virus and caused her death in 1987. The plaintiffs in case No. CV-177465 have filed a jury demand.
+Relator moved to strike the jury demand (as to relator only). Respondent denied the motion to strike jury demand by entry received for filing on April 20, 1992. Trial in case No. CV-177465 is scheduled to commence on April 27, 1992.
+Relator requests that this court issue a writ of prohibition against respondent judge “instructing and ordering Respondent * * * to refrain from proceeding against the Red Cross with a trial by jury (other than perhaps an advisory jury pursuant to [Civ.R.] 39(C) * * *.” Complaint, ad damnum clause. Relator has also filed an Emergency Application for Alternative Writ.
+Under the doctrine of sovereign immunity, the United States is immune from suit except to the extent to which the government consents to being sued. “It has long been settled that the Seventh Amendment right to trial by jury does not apply in actions against the Federal Government.” Lehman v. Nakshian (1981), 453 U.S. 156, 160, 101 S.Ct. 2698, 2701, 69 L.Ed.2d 548, 553.
+Congress chartered the Red Cross in Section 1 et seq., Title 36, U.S.Code. The Supreme Court of the United States held in Dept. of Emp. v. United States (1966), 385 U.S. 355, 87 S.Ct. 464, 17 L.Ed.2d 414, that “the Red Cross is an instrumentality of the United States for purposes of immunity from state taxation levied on its operations, and that this immunity has not been waived by congressional enactment.” 385 U.S. at 358, 87 S.Ct. at 467, 17 L.Ed.2d at 417-418. Relator argues, therefore, that the holdings in Lehman and Dept. of Emp. require the conclusion that a court may not require the Red Cross to submit to trial by jury.
+Relief in prohibition is available only in limited circumstances:
+“ ‘The conditions which must exist to support the issuance of a writ of prohibition are: (1) The court or officer against whom it is sought must be about to exercise judicial or quasi-judicial power; (2) the exercise of such power must be unauthorized by law; and (3) it must appear that the refusal of the writ would result in injury for which there is no other adequate remedy in the ordinary course of the law.’ State, ex rel. McKee, v. Cooper (1974), 40 Ohio St.2d 65 [69 O.O.2d 396, 320 N.E.2d 286], paragraph one of the syllabus.” Bobb v. Marchant (1984), 14 Ohio St.3d 1, 3, 14 OBR 1, 2, 469 N.E.2d 847, 849.
+Under some circumstances, however, a party relator in an action in prohibition need not meet all three of these criteria:
+“Ordinarily, all three prerequisites must be present before a claim in prohibition has been stated. State, ex rel. Dayton, v. Kerns (1977), 49 Ohio St.2d 295, 297, 3 O.O.3d 441, 443, 361 N.E.2d 247, 249. However, we have held that ‘[i]f an inferior court is without jurisdiction whatsoever to act, the availability or adequacy of a remedy of appeal to prevent the resulting injustice is immaterial to the exercise of supervisory jurisdiction by a superior court to prevent usurpation of jurisdiction by the inferior court.’ State, ex rel. Adams, v. Gusweiler (1972), 30 Ohio St.2d 326, 329, 59 O.O.2d 387, 388, 285 N.E.2d 22, 24; Johnson v. Perry County Court (1986), 25 Ohio St.3d 53, 58, 25 OBR 77, 81, 495 N.E.2d 16, 21. But before we will exercise our jurisdiction to issue the writ in such instance, there must be a patent and unambigous [sic ] lack of jurisdiction of the inferior court which clearly places the dispute outside the court’s authority. State, ex rel. Smith, v. Court (1982), 70 Ohio St.2d 213, 215-216, 24 O.O.3d 320, 321, 436 N.E.2d 1005, 1007, citing State, ex rel. Gilla, v. Fellerhoff (1975), 44 Ohio St.2d 86, 88, 73 O.O.2d 328, 329, 338 N.E.2d 522, 523. Thus, where this showing has not been made, the availability of an adequate remedy in the ordinary course of law precludes the issuance of the writ of prohibition.” Tilford v. Crush (1988), 39 Ohio St.3d 174, 176, 529 N.E.2d 1245, 1247.
+Relator contends that prohibition lies because respondent would be exceeding his jurisdiction by proceeding with a jury trial on April 27, 1992. We hold, however, that relief in prohibition is not appropriate in this action.
+As stated in Tilford, supra, a supervisory court may issue a writ of . prohibition without regard to whether an adequate remedy at law exists only if there is a patent and unambiguous lack of jurisdiction. Relator has not, however, cited any authority for the proposition that the Red Cross is exempt from jury trials. Rather, we note that the holding of Dept. of Emp., supra, is limited to a conclusion that “the Red Cross is an instrumentality of the United States for purposes of immunity from state taxation * * *.” (Emphasis added.) Furthermore, although relator has cited federal court decisions regarding immunity from jury trial for the postal service and the Tennessee Valley Authority, relator has not cited any authority regarding immunity from jury trial for the Red Cross. As a consequence, we cannot conclude that there is a patent and unambiguous lack of jurisdiction for respondent’s going forward with the scheduled trial by jury on April 27, 1992.
+This conclusion does not, however, leave relator without a remedy. “[Relator’s] remedy is by way of appeal, and ‘prohibition is not a substitute for appeal.’ State, ex rel. Gilla, v. Fellerhoff (1975), 44 Ohio St.2d 86, 88 [73 O.O.2d 328, 329, 338 N.E.2d 522, 523].” State ex rel. Ruffin v. Court of Common Pleas (1976), 46 Ohio St.2d 58, 75 O.O.2d 142, 346 N.E.2d 325. That is, relator may challenge respondent’s decision to try case No. CV-177465 to a jury by way of an appeal. Under the circumstances present in this action, appeal is an adequate remedy.
+Accordingly, we hold that relator’s verified complaint fails to state a claim upon which relief can be granted and dismiss the verified complaint sua sponte. Relator to pay costs.
+Complaint dismissed.
+Francis E. Sweeney, P.J., and Harper, J., concur.
+Matia, C.J., dissents.
