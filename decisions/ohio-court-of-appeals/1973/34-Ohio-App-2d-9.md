@@ -1,0 +1,91 @@
+---
+court: "Ohio Court of Appeals"
+docket: "72AP-268"
+decided: "1973-01-09"
+citations: ["34 Ohio App. 2d 9"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside and Reilly, JJ., concur."]
+parties: ["Powell, Appellant v. Larimer et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/34/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713422
+cites_cases: ["139 Ohio St. 29", "152 Ohio St. 430", "171 Ohio St. 121", "24 Ohio App. 2d 18", "44 Ohio St. 596"]
+---
+
+# Powell v. Larimer
+
+## Majority (Holmes, J.)
+
+Holmes, J.
+This matter involves an appeal of a judgment in favor of defendant Grlorine B. Larimer in a declaratory judgment action brought in the Franklin County Court of Common Pleas, probate division, by Ernestine B. Powell, coexecutrix of the estate of A. Sophie Rogers, deceased.
+The question presented to the trial court was whether a valid joint and survivorship account had been established by the decedent in favor of Grlorine B. Larimer, one of the defendants herein and a coexecutrix of the estate of Dr. Rogers.
+The facts in brief are that the deceased, Dr. Rogers, had for a number of years maintained a savings account at the Ohio National Bank, Worthington branch, and had deposited and withdrawn moneys from such account in furtherance of handling her regular business affairs.
+In the latter part of 1966, Dr. Rogers, who was well up in years, became ill and had to be taken to the hospital on December 27th of that year. On the following day, December 28th, three persons — -Eleanor Luthard, a business associate of Dr. Rogers, the plaintiff Ernestine Powell (the doctor’s attorney) and defendant Grlorine Larimer, a longtime employee of the doctor — discussed the manner in which the business affairs of the doctor would be carried out while the latter was in the hospital.
+It was decided that checking accounts would be established, enabling Mrs. Larimer and Mrs. Powell to handle funds in such accounts. It was also decided that Mrs. Lari-mer’s signature was to be added to the previously established savings account.
+Mrs. Larimer proceeded to the bank for such purpose and was given joint and survivorship cards to be signed. Although Mrs. Powell indicated such cards were not the type that she had desired for her client, the cards were nevertheless signed in order to proceed with their discussed arrangements for the handling of Dr. Rogers’ banking affairs.
+The checking accounts were established and the signature of Mrs. Larimer was added to the savings account on the same date of December 28, 1966.
+Dr. Rogers died on January 10, 1967, and Mrs. Lari-mer and Mrs. Powell, pursuant to the terms of Dr. Rogers’ Last Will and Testament, were appointed as coexeeutrixes of the estate of Dr. Rogers.
+In January 1967, it became necessary to provide funds for the operation of the ongoing business as left by Dr. Rogers. Mrs. Larimer was asked for some moneys for such purpose, but Mrs. Larimer informed Eleanor Luthard that there were no funds in the accounts of Dr. Rogers.
+The evidence shows that Mrs. Larimer obtained a tax release for the balance in the joint savings account on February 10, 1967, and in April she withdrew the balance of the account, a sum of $4,418.76, and transferred such amount to her own personal account.
+Mrs. Powell, the coexecutrix, learning of such sum as had been transferred to the account of Mrs. Larimer, asked that such amount be deposited to the estate account, but such was refused, and Mrs. Powell brought this declaratory judgment action alleging that such moneys are the property of the estate.
+The matter was tried to the court which entered findings of fact and conclusions of law, the pertinent part being as follows:
+“Findings of Fact
+“For the reasons set forth in the oral decision and verdict rendered at the conclusion of the trial (see pages 110 through 116 of the transcript), the Court finds that the decedent, A. Sophie Rogers, intended to and did establish a joint and survivorship bank savings account in the Clintonville Branch of the Ohio National Bank with defendant, G-lorine Larimer, as such survivors; that such account was not intended to be a ‘business account,’ the said decedent having established two ‘business’ checking accounts from funds taken from this same account the day before adding the name of the defendant, Glorine Lari-mer thereto; and that all actions of the decedent were with her full knowledge and understanding.
+“Conclusions of Law
+“The account in question being of the joint and sur-vivorship character, the survivor, G-lorine Larimer, is entitled to the proceeds thereof and the Estate of A. Sophie Rogers has no claim thereon.’’
+The plaintiff sets forth the following assignments of error.
+1. “The trial court erred in refusing to admit the testimony of the Certified Public Accountant concerning the study that was done to show the purpose of the savings account in question (T.28), and also in refusing to admit Exhibits 4, 5, and 6, the worksheets of the Accountant.
+2. “The trial court erred in ruling that the witness, James Wiley, was not qualified as an expert witness to testify to the matters concerning the use of the account in question.
+3. “The trial court erred in the interpretation of the Dead Man’s Statute in excluding testimony of both Glor-ine Larimer and Ernestine B. Powell, except as to matters following death and appointment of fiduciaries..
+4. “The trial court erred as a matter of law, in contradiction of the decisions of the Supreme Court of Ohio, in finding that a valid joint and survivorship account was established.
+5. “The trial court erred in the specific finding that the account in question was not a business account.
+6. ‘ ‘ The trial court erred in the finding that there was an intent of the deceased to create a joint and survivor-ship account, in that such finding is completely unsupported by the evidence.”
+The plaintiff’s first assignment of error, in effect, is that the court would not permit the testimony of Mr. James E. Wiley, a certified public accountant, relative to the bank ledger cards of the questioned savings account of the deceased, and testimony relating to the use and experience of such account.
+It was, at the time of the trial of this matter, and is here, the position of the plaintiff that such testimony would show the prior nature and use of such account, and that such prior use and nature were directly related to the intent of the deceased Dr. Rogers in continuing such account with the added name of defendant G-lorine Larimer.
+It is further argued that the intent of the deceased shown by such testimony is that the account was to be continued in the same sense that it had been used previously— that is, for business purposes.
+It should be noted here that the trial court, in holding such testimony not to be relevant, asked: “I think it is agreed that the account was originally used for business purposes, is that correct?” Counsel for appellee Larimer answered: “I wouldn’t dispute it at all.”
+Therefore, at this point in the trial, it may be assumed that the nature of the prior account was stipulated to be a business account. The question as to whether the new account was to be considered a business account, or a joint and survivorship account was still the issue before the court.
+The additional testimony of the accountant relative to the past history of the old account would have added no light to that issue before the court. Such additional testimony would have been redundant in view of the agreed nature of such old account.
+Therefore, the plaintiff’s first assignment of error is rejected.
+For basically the same reasoning, we must hold that the second assignment of error is without merit.
+The third assignment of error involves the refusal of the trial court to permit Ernestine Powell or Glorine Lari-mer to testify to any matters that took place prior to the death of Dr. Rogers, such ruling being based upon the so-called “dead man” statute — R. 0. 2317.03.
+Such section, in part, is as follows:
+“A party shall not testify when the adverse party is the guardian or trustee of either a deaf and dumb or an insane person or of a child of a deceased' person, or is an executor or administrator, or claims or defends as heir, grantee, assignee, devisee, or legatee of a deceased person * * *.
+“This section does not apply to actions for causing death, or actions or proceedings involving the validity of a deed, will or codicil. When a ease is plainly within the reason and spirit of this section and sections 2317.01 and 2317.-02 of the Revised Code, though not within the strict letter, their principles shall he applied.”
+• Basically, the purpose of such law is to prevent a party from testifying in an action where the adverse party is a fiduciary of a deceased person, or is a representative of one of the types of persons under an incapacity as designated, or one who is claiming through a deceased person.
+Such law, in effect, prohibits testimony that would be against the interests of a deceased whose lips are sealed, or against the interests of one who is in an incapacitated position.
+As stated in 56 Ohio Jurisprudence 2d 562, Witnesses, Section 141:
+“It seeks to protect the representative party against the evidence of adverse parties offering themselves as witnesses. Without the bar of the statute, a party could testify to things which the dead person might have been able to contradict had his mouth not been closed by death. The statute closes the door to fraud, and, in short, is in the nature of a statute against frauds and perjuries, it being considered that there would be a temptation in the case covered by it to commit fraud and perjury, against which protection should be given by excluding the testimony. ’ ’
+Further, such article states:
+“The statute has a second object, it having been the apparent intention of the legislature to provide mutuality between the parties, and the statute being intended to embrace that class of cases where, by the nature of the case, mutuality would be impossible. It is a general principle that if one of the parties to a transaction cannot give his version of it, the other party thereto should not be admitted to testify in his own favor, for where there is no mutuality, there should not be admissibility * * *.”
+One of the elements of such a statute is that the parties must stand in an adverse position, in order for the statute to become effective to bar one of them as being adverse to the representative party. Totten v. Miller (1941), 139 Ohio St. 29.
+The statute prohibits a party from testifying in an action where the adverse party sustains certain relations or characters, or comes within certain specified descriptions included in which, in addition to a guardian or trustee of either a deaf and dumb or an insane person, or of a child of a deceased person, or an executor or an administrator, the statute sets forth the category of one who “claims or defends as heir, grantee, assignee, devisee, or legatee of a deceased person * * *.” Then certain enumerated exceptions to the statute are listed.
+Certain texts concerned with a discussion of the “dead man” statute speak of such statute as placing those persons who are adverse in interest to the estate or legal successor of a decedent, or a representative of other persons covered by the statute under a disability. Under the legal theory of the statute, the representative of the estate of the deceased person, or other covered persons, becomes the protected party in a legal action.
+As one that is protected by the provisions of the law, such representative party may avail himself of such protection or, based upon any benefit thought to be gained may choose to waive such protection.
+As stated in 56 Ohio Jurisprudence 2d 564, Witnesses, Section 143:
+“It is the well-settled general rule that the protected party may waive the protection of the statute which prohibits a party to an action against certain representative persons from testifying at the trial. Thus, it is held that it is not the design of the statute to place an absolute and insuperable barrier to a party’s testifying as to facts oc-' curring before the decedent’s death where the adverse party is an executor or administrator, the exclusion of the evidence being a privilege which the executor or administrator may waive.. * * *”
+As stated in Roberts v. Briscoe (1887), 44 Ohio St. 596, at page 602:
+“But what is intended for the benefit and protection of the estate should not be permitted to operate as a source of injury. The interest of an estate may urgently require that an executor or administrator should waive what belongs to him as a privilege, and call the opposite party as a witness. The facts upon which he founds his defense, or upon which he bases his claim, may be locked up in the breast of the adverse party, and without his testimony a failure of justice may ensue. The legislature could not have designed to place the estates of deceased persons at such disadvantage by depriving them of evidence, within reach, necessary to their protection against imposition and fraud. The adverse and surviving party, when compelled to testify by the executor or administrator, can not reasonably complain; for, though a party, he can then be examined fully in his own behalf on the subject of his examination in chief. * * *”
+As to the waiver of a representative party in presenting his own testimony, the court in Roberts v. Briscoe, supra, stated as follows, at page 603 of the opinion:
+“ * * * It is obvious that the interest of the testator’s estate should be the paramount idea of the executor, and the law contemplates that if he has knowledge that can be made to inure to the benefit of the estate, he will be ready to bear witness, though in so doing he must waive the privilege of excluding the opposite party from testifying, and open the door to his admission.”
+In the later case of Ferrebee v. Boggs (1970), 24 Ohio App. 2d 18, we find the following statement at page 25 of the opinion:
+“The dead-man’s statute was enacted to give protection to the estate from fraudulent claims and to provide mutuality between the parties with respect to evidence. It is, however, a privilege to the estate only and may be waived. Roberts v. Briscoe, 44 Ohio St. 596.”
+In the instant case, defendant Glorine Larimer is being sued in two separate capacities, one as an individual and one as the coexecutrix of the estate of Sophie Rogers. It would seem clear that the interests of the plaintiff co-executrix and the defendant as an individual are in fact adverse.
+However, the adversity is not as clear when considering the interests of the defendant as a coexecutrix. As between the duty owed to the estate, of which she is a fiduciary, and her self interest as an individual, the former status should prevail and her interest as such fiduciary would not technically be adverse to the plaintiff.
+It would appear, however, that the better view of the real status of the parties here is that of adversity of interests, and that they are adverse parties in the sense of the statutory language.
+Therefore, it is our belief that R. C. 2317.03 is generally applicable to the parties within this matter, and the estate or the party actually representing the interests of the estate and its assets would be considered the protected party under such section.
+In this regard, it is felt that the interests of the defendant as an individual are, in the sense of the statute, adverse to the interests of the estate; therefore, the plaintiff coexecutrix, claiming the account to be an asset of the estate, would be the protected party who could exercise the privilege of waiving the protection of the statute.
+We hold that the plaintiff should be allowed' to so exercise such right of waiver and testify as to transactions relative to the formation of the new account, even though such transactions may have occurred prior to the death of Dr. Rogers.
+Such testimony could conceivably include the conversation between the plaintiff, the decedent, and Glorine Lari-mer, concerning the establishment of the new account.
+However, the admission of any such evidence would be governed by the same rules of evidence, including the rules pertaining to hearsay, as would pertain in any other instance.
+In a proceeding to determine the ownership of a joint and survivorship account, the overriding issue to be determined is the intent of the testator. Such a determination necessitates a fair and reasonable investigation and interpretation of the acts and expressions of the testatrix in this regard. The end question to be answered, of course, is: in what manner did the deceased wish to dispose of her assets?
+The mere fact of the existence of a joint and survivor-sMp account is not conclusive on the subject of the intent of the deceased. Other reliable evidence may he shown to rebnt the presumption of the establishment of sneh account, for other than survivorship purposes.
+As stated in paragraph 3 of the syllabnus in Fecteau v. Cleveland Trust Co. (1960), 171 Ohio St. 121:
+“The fact that a bank account is carried in the names of two persons jointly with right of survivorship is not always conclusive as to the ownership of the account, and, where a controversy arises as to the ownership of such account, evidence is admissible in a proper case to show the true situation.”
+Also, see Union Properties, Inc., v. Cleveland Trust Co. (1949), 152 Ohio St. 430.
+We believe that in the instant matter, due to the admitted nature of the prior business use of the savings account, as carried out during the life of Dr. Rogers, and the evident desire of the plaintiff coexecutrix to waive the protection of the statute, a reasonable tolerance as to evidence and testimony which would tend to show the “realities of ownership” of the new account should be permitted.
+The judgment of the Franklin County Court of Common Pleas is therefore reversed, and this matter is remanded for further proceedings according to law.
+Judgment reversed.
+Whiteside and Reilly, JJ., concur.
