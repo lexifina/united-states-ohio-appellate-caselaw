@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "No 3350"
 decided: "1941-04-10"
-citations: ["34 Ohio Law Abs. 140", "34 Ohio Law Abs. 141"]
+citations: ["34 Ohio Law Abs. 140"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
