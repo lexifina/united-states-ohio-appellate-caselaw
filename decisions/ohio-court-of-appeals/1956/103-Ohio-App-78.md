@@ -1,0 +1,57 @@
+---
+court: "Ohio Court of Appeals"
+docket: "266"
+decided: "1956-09-07"
+citations: ["103 Ohio App. 78"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quatman, P. J., and Younger, J., concur."]
+parties: ["The State, ex rel. Rausch, a Taxpayer, et al., Appellees, v. Galloway et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/103/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1427372
+cites_cases: ["120 Ohio St., 297", "166 N. E., 214", "166 Ohio St., 268", "21 Am. St. Rep., 772", "23 N. E., 931", "43 N. E., 1000", "47 Ohio St., 90", "54 Ohio St., 470"]
+---
+
+# State ex rel. Rausch v. Galloway
+
+## Majority (Middleton, J.)
+
+Middleton, J.
+This is an appeal on questions of law from a judgment of the Court of Common Pleas of Union County.
+Relators’ amended petition seeks a declaratory judgment as to the validity and constitutionality of Amended House Bill No. 164 (126 Ohio Laws, 626), passed by the 101st General Assembly of Ohio, which is a bill “to provide for the election of a board of directors of the county agricultural society of Union County, Ohio * *
+A demurrer was filed to the petition, which was overruled in all its four branches, and, the respondents not desiring to plead further, the court declared Amended House Bill No. 164 unconstitutional and invalid and that the election held pursuant thereto conferred no right or office upon any person. It is from that judgment that an appeal is prosecuted to this court.
+In the opinion of this court the relators, in their amended petition, set forth sufficient personal and private interests in the subject matter of this action to give them legal capacity to maintain the action.
+It is the court’s opinion also that there is not a misjoinder of parties or causes of action, and with the lower court’s ruling thereon we find no error.
+The principal question is raised by the fourth branch of the respondents’ demurrer, to wit, that the facts contained in the petition do not constitute a cause of action.
+The relators maintain that the Act as passed by the Legislature violates Section 26, Article II of the Constitution of Ohio, which provides: “All laws, of a general nature, shall have a uniform operation throughout the state * *
+When tested by this provision of the Constitution, is the subject legislated on in Amended House Bill No. 164 of a local or of a general nature?
+An examination of the history of the legislation dealing with county agricultural societies reveals that the Legislature has, at least since 1846, by general laws of uniform operation throughout the state, legislated upon the subject of county agricultural societies.
+The law regulating county agricultural societies, as now in force, is found in Chapter 1711 of the Revised Code. All provisions of this chapter are of a general nature and of uniform operation throughout the state. The organization of both county and independent agricultural societies is therein provided for. The requirement for membership in such societies is set forth, and the method by which directors of county agricultural societies are chosen is also provided for therein.
+While the subject matter of the act being considered is general in character, its effect is local, as it does not operate outside Union County.
+The general rule is clearly stated in 10 Ohio Jurisprudence (2d), 686, Sections 637 and 638.
+Section 637. “The scope and purpose of Section 26 of Article 2 of the Ohio Constitution is to prevent laws of a general nature from being enforced in some counties, and not in others, and compel as near as possible uniformity of laws throughout the state. It requires that laws of a general nature operate throughout the state and not only in one or more counties and that they operate therein uniformly.
+“The constitutional provision is not intended to guarantee the equal protection of all the inhabitants of the state, but only to provide that laws of a general nature shall be in full and equal force in all parts of the state.
+“The origin of this provision is said to have been in the intent to remedy the evils of the early practice of making it a crime to do in one county, or even township, what it was perfectly lawful to do elsewhere, and to provide that acts for the punishment of offenses should or should not be enforced in certain localities as the electors thereof might respectively decree. But it was not aimed alone at the local definition of crime; it was designed to require all legislation of a general nature to have a uniform operation. The want of uniformity in the laws prescribing the rights and obligations of the inhabitants of the state was the very mischief that Section 26, Article 2, was designed to prevent. ’ ’
+Section 638. “The constitutional requirement of uniform operation of all laws of a general nature is prospective and not retrospective in operation. It is now settled beyond controversy that this provision is mandatory and that a failure on the part of the Legislature to observe it will be fatal to the validity of a statute, although the general rule that under certain circumstances a part of an act may be held unconstitutional without invalidating the entire act has been applied in the situation now under discussion.
+“The constitutional provision as to the uniform operation of laws of a general nature is a general, unqualified, and positive prohibition or limitation of legislative power forbidding the giving of a partial operation to any law of a general nature, or — in its own affirmative terms — requiring that a uniform operation throughout the state shall be given to all laws of a general nature. The requirement of the Constitution is not merely of operation, but uniform operation throughout the state; that is, the whole state, and not only in one or more counties.”
+The general rule as set out above is supported by the weight of authority as found in the decision of the Supreme Court. In Brown et al., Commrs., v. State, ex rel. Merland, a Taxpayer, 120 Ohio St., 297, at page 304, 166 N. E., 214, where it is said:
+“* * * The pronouncements of this court in the past have not always been consistent or harmonious. Without any change in the language of Section 26 of Article II, the changing personnel of this court and the changing conditions of human progress have brought fluctuations in decisions which must be accounted for partly on the theory of a different trend of thought and a different attitude toward local control of local conditions. It would be futile to attempt to reconcile all of them, for the reason that they are wholly irreconcilable. In the course of these decisions, however, certain rules and principles have been declared which may be said to form the basis of a test of what, constitutes legislation of a general nature.
+“In Hixson v. Bur son, 54 Ohio St., 470, at page 481 of the opinion, 43 N. E., 1000, 1002, it is said: ‘If the subject does or may exist in, and affect the people of, every county, in the state, it is of a general nature.’ ”
+And on page 307 of the same opinion:
+“Without attempting to review all of the former decisions of this court in applying Section 26 of Article II, it may be stated that, while certain of the earlier cases cannot be reconciled, the majority of the cases, and especially those of later years, have been quite strict in requiring legislation, the subject matter of which is general in its nature, to be given general application.”
+Judge Burket, in the case of Hinson v. Burson, 54 Ohio St., 470, 43 N. E., 1000, referred to in Brown v. State, ex rel. Merland, states at page 479:
+“The constitutionality of an act, under said section 26, is determined by the nature of its subject matter, its operation and effect, and not by its form only.”
+And again, on page 481:
+“* * * But how are we to determine whether a given subject is of a general nature? One way is this: if the subject does or may exist in, and affect the people of, every county, in the state, it is of a general nature. On the contrary, if the subject cannot exist in, or affect the people of every county, it is local or special. * * *
+“So that practically this section of the Constitution means that the legislation on a subject to which, in its nature, laws having a uniform operation throughout the state can be made applicable, must be by statutes having such uniform operation, and can not be by local or special acts. The subject of the statute being of a general nature, all laws without exception as to such subject, must have a uniform operation. The Constitution makes no exception, and the courts can make none. ’ ’
+In State, ex rel., v. Ellet, 47 Ohio St., 90, 23 N. E., 931, 21 Am. St. Rep., 772, it is stated on page 94:
+“Whether a statute be a law of a general nature or not, depends, it is conceded, upon its subject matter, and not upon its form; and, hence, to come within this constitutional inhibition, it is not necessary that the statute be general in form. Nor, can it be maintained that because the act is local in form, it must be presumed that there was some sufficient local necessity for its enactment; for this would totally defeat the provision of the Constitution. If it must be assumed, merely because the statute has been enacted, that the Legislature had information showing that there was a necessity for such legislation with respect to the particular locality, it would follow that all legislation, local in form, must be upheld, however general the nature and subject matter of such legislation might be. Speaking upon this subject, Okey, J., in the opinion in Falk, Exp., supra, says: ‘We are not willing, nor are we permitted, to adopt any such rule of construction; and, indeed, to do so would be in effect to unsay what we have deliberately said as to the mandatory character of the constitutional provision we are considering.’ ”
+A survey of the county fairs in Ohio, as reported by the Ohio Legislative Service Commission, states that the first agricultural society in Ohio appeared in 1818, and agricultural societies now exist in some form in practically every county in the state. These societies and the fairs and services which they sponsor are a very definite and valuable contribution to the agricultural education of the citizens of the state.
+It may be true, as stated by counsel for respondents in their brief, that because of the nonrepresentative method of electing directors of agricultural societies the management is poor. However, if this is a matter which needs correction it can be accomplished by a law of a general nature and of uniform operation throughout the state.
+If the theory advanced by the respondents is sound and the act as enacted be held constitutional, being local in character, there could be as many different laws on the subject as there are agricultural societies in the state. That the subject matter of the act under discussion is of a general nature seems obvious, and discussion should not be necessary.
+In the court’s opinion Amended House Bill No. 164 is a special act, the subject matter thereof is general in character, but such act does not have uniform operation throughout the state and, therefore, violates Section 26 of Article II of the Constitution of Ohio.
+We find no error in the judgment of the Court of Common Pleas, and its judgment is affirmed.
+Judgment affirmed.
+Quatman, P. J., and Younger, J., concur.
