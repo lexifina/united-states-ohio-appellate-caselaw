@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3612"
+decided: "1954-11-18"
+citations: ["100 Ohio App. 111"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Griffith, P. J., and Nichols, J., concur."]
+parties: ["Rappoport et al., Appellants, v. Goodwin et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/100/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422468
+---
+
+# Rappoport v. Goodwin
+
+## Majority (Phillips, J.)
+
+Phillips, J.
+Plaintiffs, lot owners in Ridgewood Plat, Boardman Township, Mahoning County, Ohio, appeal on questions of law and fact from a judgment of the Court of Common Pleas entered upon a finding of a judge thereof for defendants in plaintiffs ’ action in injunction to compel defendants Garcia and Conner to remove driveways they had erected with the consent of Boardman Township Trustees in 1951 across strips of land purchased from defendant Goodwin. Such strips of land are situated immediately north and immediately south of and contiguous to the parking strips situated on either side of Ridgewood Drive, owned by them previously and designated as the Garcia and Conner strips, which strips of land defendants contend they own by reason of having purchased them from defendant Goodwin.
+Ridgewood Drive is an improved street, 80 feet wide including the parking strip, facing on the westerly side of Market Street, and leading into and being one of the principal means of egress and ingress from Market Street to Ridgewood Plat.
+Such ten-foot strips of land known as the Garcia and Conner strips had, since 1947, been shrubbed and otherwise beautified, maintained and used by plaintiffs and other lot owners in Ridgewood Plat as an entranceway thereto, and on which a permanent stone monument and gateway were erected at the time of the platting of Ridgewood Plat. Such strips have recently been permitted to grow wild, possibly as the result of litigation.
+The realty company which platted Ridgewood Plat was adjudicated bankrupt. As the result thereof, unsold lots and unplatted acreage, which included the disputed strips, were resold to those from whom they had been purchased, and such purchasers in turn conveyed them to defendant Goodwin and to Tad Pithian. Subsequently, Pithian conveyed his interest therein to defendant Goodwin, and it is now claimed by defendants that Goodwin became sole owner of the unsold land in question.
+Later, at different times, defendant Goodwin attempted to plat all acreage owned by him, except the disputed strips.
+In 1947, defendant Goodwin stated at a meeting of Ridge-wood Plat property owners that the disputed strips had no value to him, and that, if and when an acceptable association of such property owners was formed, he would deed the strips to that association.
+Defendant Conner installed a driveway across the northerly disputed ten-foot strip in 1947. In 1948, when defendant Garcia attempted to install such a driveway across the southerly disputed ten-foot strip of land, defendant Goodwin, at the request of and acting in behalf of the lot owners of Ridgewood Plat, and upon receiving a guarantee that he would be saved from liability for costs, sued defendant Garcia in the Court of Common Pleas in injunction and Garcia was enjoined from erecting a driveway across the Garcia strip.
+Plaintiffs duly appealed to this court" ón questions’ of law and fact, in which appeal this court will try the case de novo and make its own finding regardless of the judgment of the' trial court. However, counsel for plaintiffs assigned the following four grounds of error in which they claim the trial judge erred to their prejudice, and which, of course, we will disregard as such, but the first three of which we will dispose of in our finding since counsel for plaintiffs base their contentions upon them:
+“1. That the said Court of Common Pleas erred in its holding that there was no common-law dedication of the strips in question and that said strips were not appurtenances to the plat.
+“2. That the said Court of Common Pleas erred in holding that there was no trust, either express, resulting or construe^ tive found from the evidence.
+“3. That the said Court of Common Pleas erred in finding that the existence of single hardsurfaee driveways over the strips in question do [does] not interfere unreasonably with the use of the said strips of land for the purposes of the easement. . .
+“4. That the judgment of the Court of Common Pleas was contrary to law and fact, said fact being set forth in the. pleadings and in the evidence developed in the case.” .■
+By brief plaintiffs urge:
+“It is the contention of appellants herein that the land..in question had been dedicated for plat use at the time the plat was put on record and as a result thereof this land was held by the holders of legal title in trust for the benefit of owners of property in said Ridgewood Plat. * * * These strips, which we are concerned with here, are not like the other property in the plat as being numbered as plat lots or indicated as being within the confines of the dedicated street, and, therefore, they are undesignated lands within the plat. These strips of land were set aside for the express purpose of providing an entrance-way to the land and to the plat. ’ ’
+Plaintiffs contend further that “these strips were as such dedicated to the plat owners as was the roadway, and this dedication was for the purpose of the beautification and aesthetic enhancement of the entrance to Ridgewood Plat, ’ ’ and that, this court should find “that a trust is imposed on this land. Further, that such land was dedicated for the purpose used by plaintiffs-appellants, and that any private use, and particularly a private use for commercial purposes would be such a use as to wholly defeat the rights of property owners within Ridge-wood Plat in seeing that such land be maintained as a beauty spot and park at the entranceway to the aforesaid Ridgewood Plat.”
+Plaintiffs urge further that this court make a finding “that the land in question was held in trust by defendant Goodwin as successor in title to the Realty Security Company,” platter of Ridgewood Plat, and, following him, is being held in trust presently by both defendants Garcia and Conner for the use and benefit of property owners in Ridgewood Plat, and especially plaintiff. Plaintiffs urge further that “Garcia Strip” and “Conner Strip” are appurtenant to the land in Ridgewood Plat.
+Plaintiffs submit the following questions as the “questions in the ease” to be determined by the Court of Appeals, which questions, as applicable to such strips, we will endeavor to answer :
+“1. Has the land in question, regardless of the designation of its legal title, been subject to a trust, either express or implied, in favor of the plaintiff and other owners of land in the Ridgewood Plat as against the legal title holders.
+“2. Are the strips of land, both the one in question and that adjacent to Conners’ property so dedicated as to be appurtenances to the Ridgewood Plat and to give property owners therein an equitable title in them which would then restrict the uses as to which each might be put.
+“3. Assuming one or both of the above to be true, would the construction of private driveways over and across such strips be a departure of use só as to defeat the purposes of the trust and/or the nature of the dedicated appurtenances.”
+Notwithstanding, as stated, the appeal comes to us as one on questions of law and fact, defendants Garcia and Conner, like plaintiffs, have by brief treated it as one on questions of law and filed cross-assignments of error, which, like plaintiffs’ original assignments of error, we will disregard as such for the reasons stated, bnt which we will dispose of in our finding since, like plaintiffs, defendants base their contentions upon their assignments of error.
+Defendants Garcia and Conner claim in their cross-assignments of error that the court erred in its journal entry wherein it stated:
+“1. Seventh: That from all the evidence, it appears conclusively that the platting company intended these strips of land to be an adjunct to the plat for park or parkway purposes and as a part of the entrance; and that the plat lot owners, namely, Arthur H. Rappoport, Dorothy MacDonald, and Frank Kyle, and all other plat lots owners in said plat, have an equitable easement in said strips for park or parkway purposes and as a part of the entrance; and for reasoning, see memo filed by the court on March 23, 1953 and made a part hereof by reference.
+“2. Eighth: That the duty of maintaining said lands covered by the said easement was and is on all said plat lot owners, except as to said driveways; and that the said easement is limited to a use reasonably necessary and convenient and as little burdensome to the servient estate as possible for the use contemplated.
+“3. Ninth: That the platting company owned the fee subject to this easement in the plat owners, and said fee was by due and sufficient legal conveyances transferred to Myron N. Goodwin, and by him to the said Leoncio Garcia and Mary Garcia and to the said Harry Conner and Edna P. Conner.
+“4. In failing to find that the Garcias and Conners were owners in fee simple of the tracts of land herein described, free and clear of all incumbrances and restrictions of any kind whatsoever. ’ ’
+Defendant Goodwin contends that the questions to be determined by the court in this case are as follows:
+“1. Has there been a dedication of the 10-foot strips in question?
+“2. Is there a trust, either express or implied, in favor of the owners of land in Ridgewood Plats as against the legal titleholder of the 10-foot strips in question?
+“3. Is there an easement in the 10-foot strips in question appurtenant to the other lots sold in the Ridgewood Plats?
+“4. In the event that any of the preceding questions are answered affirmatively, would the construction of a private driveway over and across each of such strips be such a use as to conflict with rights of any person under such dedication, trust, or easements?”
+An examination of the plat, which was originally legally dedicated by the owners of the real estate platted, which was duly accepted by the Commissioners of Mahoning County, definitely shows by monuments placed at each end of the 100-foot strip of land known as Ridgewood Drive that it was the intention of the platters to dedicate the entire 100-foot strip as appurtenant to each and every lot situated in that addition.
+We are in accord with all of plaintiffs’ contentions, except we find it unnecessary to determine that Goodwin is holding title in trust for the lot owners of Ridgewood Plat. On the other hand, we find that the absolute title to the strips in question resides in all the lot owners of such plat, as appurtenant to such lots and not as mere easements in favor of such lot owners.
+Our finding and decree is for the plaintiffs, mandatorily enjoining the defendants to remove any and all obstructions, including driveways, over such Garcia and Conner strips.
+Judgment accordingly.
+Griffith, P. J., and Nichols, J., concur.
