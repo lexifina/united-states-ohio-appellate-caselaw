@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "67260"
+decided: "1994-11-07"
+citations: ["98 Ohio App. 3d 361"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nahra, C.J., Porter and Weaver, JJ., concur."]
+parties: ["STATE AUTOMOBILE MUTUAL INSURANCE COMPANY, Appellant; Toole, Admr., Appellee, v. CLEVELAND CARRIAGE COMPANY et al."]
+source_url: "https://static.case.law/ohio-app-3d/98/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764856
+cites_cases: ["12 OBR 368", "12 Ohio St.3d 294", "13 OBR 280", "13 Ohio App.3d 228", "16 O.O.3d 139", "23 O.O.3d 495", "32 Ohio St.3d 360", "325 N.E.2d 257", "403 N.E.2d 985", "41 Ohio App.2d 231", "433 N.E.2d 547", "466 N.E.2d 544", "468 N.E.2d 922", "513 N.E.2d 1324", "567 N.E.2d 1004", "58 Ohio St.3d 44", "583 N.E.2d 309", "583 N.E.2d 381", "62 Ohio St.2d 114", "62 Ohio St.3d 397", "66 Ohio App.3d 1", "69 Ohio St.2d 593", "70 O.O.2d 447"]
+---
+
+# State Automobile Mutual Insurance v. Cleveland Carriage Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff State Automobile Mutual Insurance Company (“State Automobile”) appeals from the judgment of the trial court which determined that intervening plaintiff Margaret A. Toole, Administrator of the Estate of Edward J. Bartunek
+(the “Administrator”), is entitled to uninsured motorists coverage in connection with the death of her decedent. For the reasons set forth below, we reverse that determination.
+I
+The record reveals that on September 6, 1991, the decedent was operating his motor vehicle eastbound on Superior Avenue in Cleveland, and was struck by a horse which had broken away from a carriage owned by Cleveland Carriage Company. The decedent later died from injuries which he sustained in this collision. Pursuant to the medical payments coverage provision of the policy it had issued to the decedent, State Automobile paid the estate $10,447.88. It is undisputed that Cleveland Carriage did not possess any liability insurance.
+On March 23, 1993, State Automobile filed this action against Cleveland Carriage Company, and its agent Jerri Lawrence (“Carriage”) in order to obtain reimbursement of the sums which it paid to the decedent’s estate. On July 20, 1993, the Administrator moved to intervene in the action and asserted a complaint against State Automobile for uninsured motorists coverage. The trial court subsequently granted the Administrator’s motion to intervene, and on November 18, 1993 the Administrator moved for summary judgment, claiming that she was entitled to uninsured motorists coverage pursuant to the Supreme Court’s decision in State Farm Auto. Ins. Co. v. Alexander (1992), 62 Ohio St.3d 397, 583 N.E.2d 309. In opposition, State Automobile maintained that State Farm Auto. Ins. Co. v. Alexander, supra, was inapposite since the holding of that case is that household exclusionary clauses or intrafamilial exclusionary clauses are unenforceable pursuant to R.C. 3937.18. State Automobile further maintained that coverage was not authorized since the decedent’s fatal collision involved a horse which had broken away from a motorless carriage and did not involve an uninsured motor vehicle. The trial court subsequently granted the Administrator’s motion for summary judgment and certified that there is no just reason for delay. State Automobile now appeals, assigning a single error for our review.
+II
+State Automobile’s assignment of error states:
+“The court below erred in its application of State Farm v. Alexander (1992), 62 Ohio St.3d 397, in granting summary judgment to intervening plaintiff/appellee, and granting uninsured motorists coverage to intervening plaintiff/appellee where none exists.”
+Pursuant to R.C. 3937.18(A)(1), uninsured motorist coverage is mandated for the protection of insureds “who are legally entitled to recover damages from owners or operators of uninsured motor vehicles because of bodily injury, sickness, or disease, including death, resulting therefrom[.]” (Emphasis added.)
+This statute expressly states that it is applicable to motor vehicles, Horsely v. United Ohio Ins. Co. (1991), 58 Ohio St.3d 44, 45, 567 N.E.2d 1004, 1005, and it is well settled that the purpose of the statute is to protect insured motorists, under their own policy, from the effects of personal injury resulting from another motorist who carries no insurance. Globe Am. Cas. Co. v. Goodman (1974), 41 Ohio App.2d 231, 236, 70 O.O.2d 447, 449, 325 N.E.2d 257, 261. See, also, Rowe v. State Farm Mut. Auto. Ins. Co. (1990), 66 Ohio App.3d 1, 4, 583 N.E.2d 381, 383.
+Pursuant to the mandate of R.C. 3937.18, any contractual restrictions on uninsured motorist coverage must comply with the purpose of the statute. Ady v. W. Am. Ins. Co. (1982), 69 Ohio St.2d 593, 23 O.O.3d 495, 433 N.E.2d 547, syllabus. Thus, contracts may not exclude “motor vehicles” from the policy definition of “uninsured motor vehicles.” Horsely v. United Ohio Ins. Co., supra, 58 Ohio St.3d 44, 45, 567 N.E.2d 1004, 1005.
+In accordance with the foregoing, the Supreme Court has held that a motorcycle meets the definition of a “motor vehicle” set forth in R.C. 4501.01(B) and therefore may not be excluded from the contractual definition of an “uninsured motor vehicle.” Id. In addition, the Supreme Court has determined that a snowmobile is a “motor vehicle” under R.C. 4501.01(B), and therefore may not be excluded from the contractual definition of an “uninsured motor vehicle.” Metro. Prop. & Liab. Ins. Co. v. Kott (1980), 62 Ohio St.2d 114, 16 O.O.3d 139, 403 N.E.2d 985, syllabus. Conversely, in Berry v. Motorists Mut. Ins. Co. (1983), 13 Ohio App.3d 228, 13 OBR 280, 468 N.E.2d 922, this court determined that a backhoe operated off a public road is not a “motor vehicle” under R.C. 4501.01(B), and therefore may be excluded from uninsured motorist coverage.
+Pursuant to these previous decisions, it is clear that in defining the proper scope of uninsured motorists coverage in any particular instance, a court must evaluate the contract language and facts presented in light of the statutory mandate that coverage be provided to protect the insured from injury caused by an uninsured motorist, and in light of the statutory definition of a “motor vehicle.”
+In this instance, the policy of insurance issued by State Automobile provides in relevant part as follows:
+“A. We will pay damages which an ‘insured’ is legally entitled to recover from the owner or operator of an ‘uninsured motor vehicle’ because of ‘bodily injury:’
+« * sf; *
+“The owner’s or operator’s liability for these damages must arise out of the ownership, maintenance or use of the ‘uninsured motor vehicle.’
+it * * *
+“C. ‘uninsured motor vehicle’ means a land motor vehicle or trailer of any type * * *.”
+The contractual definition of “uninsured motor vehicle” in the State Automobile policy thus refers to the term “motor vehicle” and therefore meets the mandate of R.C. 3937.18 that coverage be provided for persons “legally entitled to recover damages from owners or operators of uninsured motor vehicles.”
+With regard to the facts presented, we note that it is undisputed that the decedent sustained his fatal injuries after a horse broke away from a motorless carriage and collided with his vehicle.
+Considering the foregoing with regard to R.C. 3937.18, it is clear that uninsured motorists coverage is not warranted since the Administrator’s damages were not caused by the “owner or operator of an uninsured motor vehicle.” The driver of the sole vehicle involved in the accident, the decedent, was an insured under the subject policy. Further, with regard to R.C. 4501.01(B), neither the horse nor the carriage to which it was attached is even arguably a “motor vehicle” under R.C. 4501.01(B) since neither is a vehicle drawn “by power other than muscular power * * *.” Accordingly, the trial court erred in granting the Administrator’s motion for summary judgment. ,
+The Administrator insists, however, that the language of State Farm Auto. Ins. Co. v. Alexander, supra, authorizes uninsured motorists coverage upon a showing that (1) damages were caused due to a motor vehicle accident; and (2) that the party seeking the coverage is “legally entitled to recover” from the tortfeasor responsible for the accident.
+We find State Farm Auto. Ins. Co. v. Alexander inapposite to this matter. First, it must be noted that the syllabus of the case states as follows:
+“An automobile insurance policy may not eliminate or reduce uninsured or underinsured motorists coverage, required by R.C. 3937.18, to persons injured in a motor vehicle accident, where the claim or claims of such persons arise from causes of action that are recognized by Ohio tort law.” (Emphasis added.)
+The phrase “coverage required by R.C. 3937.18” clearly refers to the mandate and purpose of R.C. 3937.18, which is to provide protection for insureds “who are legally entitled to recover damages from owners or operators of uninsured motor vehicles.” Second, the entire focus and holding of the opinion is to invalidate intrafamilial exclusionary clauses and to reverse the Supreme Court’s prior decision in Dairyland Ins. Co. v. Finch (1987), 32 Ohio St.3d 360, 513 N.E.2d 1324. Third, State Farm Auto. Ins. Co. v. Alexander is factually distinguishable from this matter since the driver in that case had less liability coverage than the insured passenger who was injured, thereby implicating contractual uninsured provisions, and in this instance there is a single motor vehicle, the decedent’s, and a single driver, the decedent, an insured under the subject policy. Last, the Administrator misinterprets relevant terms of art, as the phrase “legally entitled to recover” presumes a tortfeasor who is an uninsured motorist. See Sumwalt v. Allstate Ins. Co. (1984), 12 Ohio St.3d 294, 12 OBR 368, 466 N.E.2d 544, syllabus. Accordingly, State Farm Auto. Ins. Co. v. Alexander has no application herein.
+State Automobile’s assignment of error is meritorious.
+The judgment of the trial court is reversed, and the cause is remanded for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Nahra, C.J., Porter and Weaver, JJ., concur.
