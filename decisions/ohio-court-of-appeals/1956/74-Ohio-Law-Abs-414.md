@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5341"
+decided: "1956-03-01"
+citations: ["74 Ohio Law Abs. 414"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(DEEDS, J, of the Sixth District, sitting by designation in the Second District.)", "HORNBECK and DEEDS, JJ, concur."]
+parties: ["STATE, Plaintiff-Appellee, v. WEBB, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/74/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1787503
+cites_cases: ["156 Oh St 271"]
+---
+
+# State v. Webb
+
+## Majority (By MILLER, PJ.)
+
+OPINION
+By MILLER, PJ.
+This is a law appeal from the judgment of the Common Pleas Court finding the defendant guilty of accepting a bribe in violation of §2917.01 R. C.
+The record reveals that Elwood Webb, the defendant-appellant, at the time stated in the indictment was a police officer for Marion Township; that on August 3, 1954, he received a complaint and upon investigation arrested one Ferris Lee Johnston charging him in the Justice of the Peace Court of Guy Burrell with having committed a felonious as- ' sault; that the same was based upon information since the alleged act was not committed in his presence; that on the following day Johnston entered a pleas of not guilty in said court and was bound over to the grand jury; that approximately one week later Webb was advised by Alfred Wilson, a Justice of the Peace for Marion Township, that the evidence he had obtained would not be sufficient to convict Johnston of the charge made against him for the reason that the persons upon whom the assault was alleged to have been committed were too young to testify, being of the tender ages of five and six years. It appears that the case was not filed originally in Wilson’s court for the reason that he was on vacation at the time; hence the affidavit was filed in the court of Justice Burrell in Hamilton Township. Webb, as previously stated, was an officer from Marion Township. After receiving the information from Justice Wilson, Webb investigated the case further, advising the Prosecuting Attorney’s office that the evidence would not sustain a conviction and through the assistance of that office secured an order remanding the case back to the court of Justice Burrell, where the charge was reduced to disorderly conduct, to which a plea of guilty was entered and sentence pronounced.
+The evidence discloses further that prior to the remanding of the case to the Justice’s Court, Webb had a conference with Johnston at which Johnston testified it was understood that he and Webb would trade automobiles, Webb being the owner of a 1940 Packard and Johnston, a 1949 Ford. He admitted that no terms were mentioned for such a trade, could relate none of the conversation, but merely stated that it was his understanding that there would be an exchange of automobiles. This was denied by Webb in its entirety. However, the day after the case was finally disposed of Webb and Johnston happened to meet at a certain grill at which an exchange of cars was agreed upon. The trade was consummated and Webb gave his note for $150.00 in addition to his automobile, and which was paid shortly thereafter.' Johnston testified that it was a fair deal as well as did several expert witnesses who testified in behalf of the defendant. There is no direct evidence in the record which would indicate that Webb secured any advantage in the exchange.
+The record discloses that the note, which was given, was prepared by one Edward Little at which time Johnston stated in response to a question by Little, “Well, which one is getting cheated?” to which Johnston replied, “I think it is a very fair trade. I need a heavier car to pull a trailer with.” There is other evidence in the record that Johnston owned a trailer and desired the heavier Packard car with which to pull it. There is no direct evidence that Webb received anything of value or benefit to him from the defendant without a consideration. The pertinent part of §2917.01 R. C. under which the indictment was drawn provides:
+“No member of the General Assembly, or a state officer or other officer, * * *, shall solicit or accept any valuable or beneficial thing to influence him with respect to his official duty, * * *.”
+It. will be noted in order that there be a violation of this section there must be a solicitation or acceptance of some valuable or beneficial thing for the purpose of influencing one in the conduct of his official duties. This being a criminal prosecution the burden rested on the State to prove beyond a reasonable doubt every essential element of the offense with which the accused was charged. The indictment charged that the defendant Webb “being a duly elected and qualified constable in the township of Marion, County of Franklin, did solicit and/or accept from Ferris Lee Johnston, a thing of value to influence him with respect to his official duty, * * *.” Now, all of the direct evidence offered concerning a thing of value received by the defendant -is that he received nothing of value without adequate consideration; that considering the value on the open market of the two automobiles in their present condition the exchange as made was a fair and equitable one. In order to sustain the conviction it was necessary that the jury find from circumstantial evidence that there was a difference in value between the two cars greater than $150.00. If it so found, then it would appear that Webb received something of value for his services.
+In the case of State of Ohio v. Urbaytis, 156 Oh St 271, the court holds in the third paragraph of the syllabus that circumstantial evidence alone will not warrant a conviction unless it excludes every reasonable hypothesis except that of guilt. Here, as in the cited case, we have direct evidence which rebuts any circumstantial evidence tending to establish the guilt of the accused. Therefore, we are of the opinion that the evidence was insufficient to sustain the conviction.
+The other assignments of error relating to the sufficiency and weight of the evidence are likewise well taken and those relating to the admission of evidence and misconduct of the Prosecuting Attorney, we find are without merit.
+The judgment is reversed and cause remanded to the trial court with instructions to discharge the accused.
+HORNBECK and DEEDS, JJ, concur.
