@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+docket: "L78-270"
+decided: "1979-06-29"
+citations: ["65 Ohio App. 2d 96"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Potter, P. J., and Connors, J., concur."]
+parties: ["Padgett, Appellant, v. Ohio Department of Public Welfare, Appellee."]
+source_url: "https://static.case.law/ohio-app-2d/65/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1486659
+cites_cases: ["15 Ill. 2d 564", "155 N. E. 2d 638", "187 N. E. 2d 231", "190 N. E. 2d 731", "22 Ohio St. 382", "237 Ark. 954", "26 Ill. 2d 443", "28 Ill. 2d 199", "58 Ohio St. 637"]
+---
+
+# Padgett v. Ohio Department of Public Welfare
+
+## Majority (Brown, J.)
+
+Brown, J.
+Plaintiff-appellant, Archie Padgett, individually, and as father and next friend of Randy Scott Padgett, a minor, appeals from the final judgment of the Court of Common Pleas of Lucas County in a declaratory judgment action which declared and determined that defendant-appellee, the Ohio Department of Public Welfare, was not required to bear and pay a pro rata share of the legal fees and expenses incurred by plaintiff in settlement with Penn Central Transportation Company of a suit for personal injuries sustained by plaintiff’s minor son, Randy Scott Padgett.
+Plaintiff had initiated a legal action in May 1976, for personal injuries, expenses and losses incurred by his son and himself in the United States District Court, Northern District of Ohio, Western Division, against Penn Central Transportation Company (hereinafter Penn Central) for injuries arising out of an accident at a Penn Central crossing on May 4,1974.
+On or about September 30, 1977, the defendant, the Ohio Department of Public Welfare, paid the medical and hospital expenses on behalf of Randy Scott Padgett in the sum of $3,535.30 in Medicaid benefits (see Sections 1396 et seq., Title 42, U.S. Code).
+Under R. C. 5101.58, the defendant was subrogated to plaintiffs claim against the third party liable to plaintiff for damages arising out of the injuries to Randy Scott Padgett.
+In December. 1977, the suit for personal injuries was settled for $7,400. This constituted only a partial recovery of plaintiffs loss. The settlement included $3,535.30 representing the medical expense claim subrogated to the defendant under R. C. 5101.58.
+From the amount of the $7,400 settlement the sum of $2,616.50 was deducted and paid for plaintiffs legal counsel for plaintiffs legal fees and expenses. Plaintiff alleges and contends that since plaintiff incurred the full amount of the attorney’s fees and expenses in recovering on his claim against Penn Central, the defendant, the Ohio Department of Public Welfare, should bear a pro rata share of those legal fees and expenses, that is, a pro rata share of $2,616.50. The Court of Common Pleas determined otherwise, as reflected in the last paragraph of the judgment entry, as follows:
+“It is Ordered that judgment be granted in favor of the Defendant and that the Plaintiff pay the sum of $3,535.30 to the Defendant, without the deduction therefrom of any attorney fees or expenses.***”
+The plaintiffs sole assignment of error, in essence, contends that the judgment refusing to impose an obligation on the defendant, the Ohio Department of Public Welfare, to bear a pro rata share of the legal fees and expenses was reversible error. We disagree. The trial court correctly determined that defendant had no obligation to pay any part of plaintiffs legal fees and expenses.
+The defendant notified all parties of its subrogated claim prior to any settlement by plaintiff with Penn Central pursuant to the explicit requirements of R. C. 5101.58.
+The relevant section in Title XIX of the Social Security Act, Section 1396a, Title 42, U. S. Code, requires that a state recover from any liable third party the amount the state has paid on behalf of a Medicaid recipient for injuries caused by a third party. This is provided in Section 1396a, Title 42, U. S. Code, as follows:
+“(a) A State plan for medical assistance must—
+u * * *
+“(25) provide (A) that the State or local agency administering such plan will take all reasonable measures to ascertain the legal liability of third parties to pay for care and services (available under the plan) arising out of injury, disease, or disability, (B) that where the State or local agency knows that a third party has such a legal liability such agency will treat such legal liability as a resource of the individual on whose behalf the care and services are made available for purposes of paragraph (17)(B), and (C) that in any case where such a legal liability is found to exist after medical assistance has been made available on behalf of the individual, the State or local agency will seek reimbursement for such assistance to the extent of such legal liability [.]”
+A federal regulation, Section 450.31, 42 C.F.R. (see Volume 34, page 752, Federal Register, Section 250.31), prescribes what is required of a state when a third-party tortfeasor is liable for a Medicaid recipient’s injuries, as follows:
+“(a) jRequirements for State Plans. A State plan for medical assistance under title XIX, Social Security Act, must provide that:
+U * * *
+“(4) The State or local agency will seek reimbursement from a third party for assistance provided when the party’s liability is established after assistance is granted and in any other case in which the liability of a third party existed, but was not treated as a current resource.
+“(b) Federal Financial Participation. The State may claim Federal financial participation in expenditures for medical assistance made in accordance with the provisions for consideration of income and resources in the approved State plan. Accordingly, since the liability of a third party is considered as a resource, the State may not include, in the amount claimed, payments made for medical care and services rendered recipients, arising out of injury, disease, or disability, to the extent that: (1) The third party liability constituted a current resource but was disregarded when such payments were made, (2) the agency failed to take reasonable steps to collect reimbursement from a third party whose liability was subsequently established***.” (Emphasis added.)
+In response to the requirements contained in Section 450.31, 42 C.F.R. (see Volume 34, page 752, Federal Register, Section 250.31), the Ohio General Assembly, by enacting R. C. 5101.58 in 1976, has taken “reasonable steps to collect reimbursement from a third party.” “The agency,” that is, the Ohio Department of Public Welfare, has taken “reasonable steps to collect reimbursement from a third party” by its action in “notifying] in writing” the railroad company prior to settlement “of* * *[a] valid claim for subrogation” pursuant to R. C. 5101.58.
+Therefore, the defendant took reasonable steps to recover its Medicaid funds from Penn Central by following the procedures specifically provided by R. C. 5101.58, and by reason thereof, is entitled to recover the full amount of its subrogated claim pursuant to R. C. 5101.58.
+Plaintiff cannot rely upon the equitable principle of subrogation requiring a sharing of legal fees as applied to insurance companies in cases such as Newcomb v. Cincinnati Ins. Co. (1872), 22 Ohio St. 382, and Washington Fire & Marine Ins. Co. v. Hammett (1964), 237 Ark. 954, 377 S. W. 2d 811. The statutory right of subrogation granted to the defendant, the Ohio Department of Public Welfare, under R. C. 5101.58 does not require any payment by the subrogee, defendant herein, of the Medicaid recipient’s attorney’s fees. 50 Ohio Jurisprudence 2d 374, 376, 378, 379, 380, Subrogation, Sections 1 to 5. Where the statute which creates the right of subrogation in the public agency, the Ohio Department of Public Welfare, does not specifically grant any right to deduct attorney’s fees and expenses from the subrogated amount payable to the public agency, a deduction for attorney’s fees and expenses cannot be made. State, ex rel. Renner, v. Guilbert (1898), 58 Ohio St. 637; 1978 Ohio Atty. Gen. Opinions, No. 78-036, unreported; 6 Ohio Jurisprudence 3d 681, Attorneys at Law, Section 148; Skaggs v. Junis (1963), 28 Ill. 2d 199, 190 N. E. 2d 731; In re Estate of Poole v. Illinois Public Aid Commission (1962), 26 Ill. 2d 443, 187 N. E. 2d 231; Hardwick v. Munsterman (1959), 15 Ill. 2d 564, 568, 155 N. E. 2d 638, 641.
+The plaintiff’s assignment of error is not well taken. The judgment of the Court of Common Pleas of Lucas County is affirmed.
+Judgment affirmed.
+Potter, P. J., and Connors, J., concur.
+R. C. 5101.58 provides, in part, as follows:
+“An application for aid to dependent children under Chapter 5107, poor relief under Chapter 5113, or medical assistance under section 5101.51 of the Revised Code, gives a right of subrogation to the department of public welfare and the department of welfare of any county for the liability of a third party for the cost of medical services and care arising out of injury, disease, or disability of an applicant for or recipient of medical assistance, to the extent of any payments made under Chapter 5107 or 5113 or section 5101.51 of the Revised Code for medical assistance. Subrogation rights may be enforced separately or jointly by the department of public welfare and county department of welfare. The third party becomes liable to the department of public welfare or county department of welfare as soon as notified in writing of the valid claim for subrogation under this section.
+“Subrogation does not apply to that portion of any judgment, settlement, or compromise of a claim, to the extent of attorneys’ fees,-costs, and other expenses incurred by a recipient of aid or medical assistance in securing the judgment, settlement, or compromise, or to the extent of medical, surgical, and hospital expenses paid by such recipient from his own resources.”
+The assignment of error reads as follows:
+“I. The trial court erred in holding that there is no basis to impose a pro rata share of expenses on the Ohio Department of Public Welfare or to deny the full recovery of its claim against plaintiffs-appellants.”
+Paragraph 5 of the Stipulation of Facts on file reads as follows:
+“5. O.D.P.W. [the Ohio Department of Public Welfare] notified plaintiffs concerning its subrogated amount prior to the settling of the case between plaintiffs and Penn Central.”
