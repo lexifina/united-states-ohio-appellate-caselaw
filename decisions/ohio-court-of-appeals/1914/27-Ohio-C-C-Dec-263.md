@@ -1,0 +1,67 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1914-12-30"
+citations: ["27 Ohio C.C. Dec. 263"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sayre and Walters, JJ., concur."]
+parties: ["Abraham Weil, et al. v. Connecticut Fire Ins. Co."]
+source_url: "https://static.case.law/ohio-cc-dec/27/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8817266
+cites_cases: ["15 L. R. A. (N. S.) 1055", "58 N. E. Rep. 805", "63 Ohio St. 258", "75 Ohio St. 375", "79 N. E. Rep. 930", "80 Ohio St. 49"]
+---
+
+# Weil v. Connecticut Fire Ins.
+
+## Majority (IONES, J.)
+
+IONES, J.
+In the lower court the plaintiffs in error filed a petition, seeking damages for the loss by fire upon an insurance policy. The policy was one of the standard forms, and was attached to the petition.
+The petition contained an allegation,
+“That said plaintiffs have duly performed all the conditions on their part to be performed,” etc.
+The insurance company filed its answer, containing five defenses.
+It is not necessary to allude to these various defenses, except to say that the first defense, with the exception of some admissions therein contained, was in effect a general denial of the allegations in the petition.
+The real question involved in this ease arises upon the allegations of the third defense. That defense contains a number of the provisions contained in the policy of insurance sued on, among which are the following;
+“In the event of disagreement as to the amount of loss the same shall, as above provided, be ascertained by two competent and disinterested appraisers, the insured and this company each selecting one, and tbe two so ebosen shall first select a competent and disinterested umpire; the appraisers together shall then estimate and appraise the loss, stating separately sound value and damage, and, failing to agree, shall submit their differences to the umpire.”
+The following provision was also contained in the third defense :
+“No suit or action on this policy, for the recovery of any claim, shall be sustainable in any court of law or equity until after full compliance by the insured with all the foregoing requirements. ’ ’
+A reply was filed. Upon the pleadings the cause went to the court and jury. At the conclusion of the entire evidence the defendant moved the court for a directed verdict, which, upon due consideration, the trial court sustained and directed the jury to return a verdict for the defendant.
+I. The error relied upon in this court is: that the court below erred in directing the jury to return a verdict for the defendant.
+It is conceded by counsel in argument and it is also evident from the record, that the .action of the trial court was based upon the fact that the evidence adduced upon the trial failed to show a compliance upon the part of the plaintiffs below with the provisions relating to the procurement of an appraisement of the property, as set forth in the third defense of defendant’s answer.
+It appears from the record that on September 5, 1912, nearly two months after the loss by fire occurred, the insurer wrote a letter to plaintiffs in error, acknowledging the receipt of the proofs of loss. That letter contained the following statement:
+“Beg to advise that we can not accept the above mentioned document as a satisfactory proof of loss for the reason that the terms and conditions of the policy have not been complied with by yourself.
+“That we disagree with you as to the amount of wool alleged to have been destroyed, in pounds and value per pound and as a whole, and as to the amount of loss claimed thereon.
+“Therefore, we advise you that for the reason set forth above and others not herein set forth, we reject said document as not satisfactory proof of loss to this company. ’ ’ * * *
+It has been held by the courts of this state that the provisions thus contained in the third defense of defendant’s answer constitute a' condition precedent, imposing an obligation upon the insured, in the event of disagreement as to the amount of loss, to procure an award or ascertainment by appraisement, or to show legal excuse therefor, before he can maintain an action upon the policy. Graham v. Insurance Co. 75 Ohio St. 375 [79 N. E. Rep. 930; 15 L. R. A. (N. S.) 1055; 9 Ann. Cas. 79]; Phoenix v. Ins. Co. v. Carnahan, 63 Ohio St. 258 [58 N. E. Rep. 805].
+It was incumbent upon the plaintiffs in this case, under the allegations of their petition, to show affirmatively that they had performed this condition contained in the policy. If they had intended to rely upon a legal excuse for its nonperformance they should have pleaded such excuse in the petition in the first instance. This they did not do. At the close of the trial, when the court was asked to direct a verdict for the defendant, the plaintiffs asked permission to 'amend their reply, which permission the court granted. This amendment to the reply, made at the close of the case, contained an allegation that:
+“Said plaintiffs offered to bring about and made every effort on their part to secure an appraisement, adjustment, award and ascertainment of said loss as provided for by said policy, but said defendant refused to confer with said plaintiffs as to said appraisement, adjustment, award or ascertainment, and by their refusal prevented, any appraisement, adjustment, award or ascertainment of said loss. ’ ’
+It is urged by counsel for plaintiffs in error that there was no disagreement as to the amount of loss shown by this record which would become a predicate for the demand for appraisal and award.
+This disagreement is evidenced by plaintiff’s exhibit No. 12 and is contained in the letter of September 5, 1912, above referred to.
+It is urged by counsel for plaintiffs in error that good faith required that the insurer, itself, should have made an investigation, and upon tbe facts thus revealed it should have ascertained a fixed or definite sum upon which a disagreement could arise.
+The letter of September 5, 1912, shows that the insurer disagreed with the insured “as to the amount of wool alleged to have been destroyed, in pounds and value per pound and as a whole, and as to the amount of loss claimed thereon.” Prior to this letter the insured had submitted to the insurer their proof of loss.
+We are of the opinion that this was a sufficient disagreement upon the part of the insurer as to require the .plaintiffs in error to comply with the contractual provision in their policy relating to the appraisal.
+While there are some authorities holding otherwise and which would seem to require the insurer, itself, to make a tona fide investigation of the loss and a definite ascertainment of the amount and submit such to the insured, we are of the opinion that this is not the law of Ohio. Upon this point we think that the following cases are decisive: Everett Co. v. Insurance Co. 20 Dec. 171 (9 N. S. 241); Phoenix Ins. Co. v. Carnahan, supra.
+In neither of these cases does it appear that a definite ascertainment of any sort was made by the insurer and submitted to the insured.
+The case of Everett Co. v. Insurance Co. supra, which was later affirmed by the Supreme Court of Ohio without report, upon this subject is very similar to the case at bar. In that case the disagreement arose over the amount claimed in the proofs of loss, and it does not appear that any other sum was submitted to the insurance company to the insured as a basis for agreement.
+In view of these authorities, therefore, we conclude that there was such a disagreement as to the amount of loss which required the insured to act under the provisions of the policy relating to appraisal, which was a condition precedent to their bringing a suit for the loss sustained.
+II. The most serious question involved in this ease, however, arises on the allegations of the amended reply and the evidence disclosed in the record in relation thereto.
+In this connection the contention of the plaintiffs below iff, that upon the pleadings, as amended, the insured had shown a legal excuse for noneompliance with the provisions relating to appraisal.
+Some question was made by counsel 'for defendant in error as to the right of the court to permit the amended reply to be filed at the close of the case. But in view of the fact that the parties, upon the trial, tried the issue that was raised by the amended reply, and in view of the further fact that the record does not disclose that the defendant below was taken by surprise, we think that there was no abuse of discretion upon the part of the trial court, under the statute permitting amendments to be made at any stage of an action, in permitting the amended reply to be filed at that time. We, however, think that the matters contained in the amended reply should have been properly included in tire petition, as they tended to show a legal excuse for noneompliance with one of the provisions of the policy, and the burden of showing the allegation therein contained remained throughout the entire case upon the plaintiffs below.
+The evidence, if any, tending to justify the action of the insured in not complying with the provisions of the policy is contained on pages 26, 27 of the record. Abram Weil, one of the plaintiffs, after testifying with relation to a nonwaiver which had become the subject of dispute between the parties, testified' that he went to the Chittenden Hotel, at Columbus, and called up Mr. Parsons, the adjuster of the insurance company, and found that he was at home sick. The only portion of Mr. Weil’s testimony relating to this question of the adjustment and ascertainment of the loss is found in the following questions and answer :
+“Q. What did you say to him about arbitration of it by anyone, or ascertainment of loss?
+“ (Objected to.)
+‘ ‘ Q. I asked you as to what you said ? A. I told Mr. Parsons over the phone if he had anybody in Columbus, he could pick a man and we pick one, and the two pick a third, or settle the thing any way at all.”
+The record does not disclose affirmatively that Mr.-Parsons made any answer to the statement of the witness, and does not disclose affirmatively that any reply whatever was made, and it only inferentially appears that Mr. Parsons may have heard the statement of Mr. Weil.
+It was incumbent on the plaintiffs below to show that they had complied with the condition precedent in the policy above referred to, or to furnish some legal excuse, under the authority cited, as to why they had not complied with the same. In order to recover on this theory it was necessary to show that the defendant had, by its conduct or otherwise, done something whieh was tantamount to a waiver of this contractual provision in the policy.
+The statement of Mr. Weil, above referred to, only shows that he stated to the adjuster over the phone that he could pick a man and the insured would pick one, and the two pick a third, and that they would settle it any way at all. There was no reply upon the part of Mr. Parsons. So far as this evidence discloses, his silence may have been an acquiescence in the proposition of Mr. Weil; in which event it would be necessary for Mr. Weil to proceed under the provisions of the policy and demand an appraisal and name an appraiser. There was nothing said or done by Mr. Parsons which is equivalent either to an estoppel or a waiver.
+As was said by Davis, J., in List v. Chase, 80 Ohio St. 49 [17 Ann. Cas. 61].
+“A waiver is a voluntary relinquishment of a known right. It may be made by express words or by conduct which renders impossible a performance by the other party, or which seems to dispense with complete performance at a time when the obligor might fully perform. Mere silence will not amount to waiver where one is not bound to speak. ’ ’
+And in Phoenix Co. v. Carnahan, supra, the same judge says:
+‘1 The insured can not rest upon the silence of the insurer as to arbitration, when a difference arise» as to the amount of the loss. It was therefore incumbent on the insured, not the insurer, to perform this condition as a condition precedent to his right of recovery, whenever a difference should arise, as to the amount of the loss whether a demand was made by the insurer or not. ” * * *
+Applying these rules in this case we see nothing done or said upon the part of the insurance company, or its adjuster, that wotild preclude its right from relying upon the provisions of its contract. Mere silence will not constitute such an estoppel or waiver as would deny it the right to insist upon its compliance.
+If Mr. Weil made the statement he claims to have made over the telephone to Mr. Parsons and Mr. Parsons made no reply thereto, Mr. Weil could have as well taken his silence to mean his acquiescence with the statement that he would procure an appraiser, and thus rely upon carrying out the stipulations of the contract between them.
+We are, therefore, inclined to the opinion that, in view of the facts disclosed by this record, the plaintiff below did not furnish sufficient proof to obviate the necessity of complying with the provisions of the policy and that the court did not err 'in directing a verdict for the defendant below.
+The judgment of the lower court is affirmed.
+Sayre and Walters, JJ., concur.
