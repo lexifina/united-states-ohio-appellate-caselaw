@@ -1,0 +1,62 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. 57289"
+decided: "1990-07-26"
+citations: ["5 Ohio App. Unrep. 155", "5 AOA 155"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PRYATEL, J., and MARTIN, J., concur.", "Sitting by assignment, Judge August Pryatel, Retired, of the Eighth Appellate District; Judge William J. Martin, of the Carroll County Common Pleas Court."]
+parties: ["Osborne v. Lyles"]
+source_url: "https://static.case.law/ohio-app-unrep/5/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1616445
+cites_cases: ["153 Ohio St. 513", "24 Ohio St. 3d 54", "5 Ohio App. 3d 140", "50 Ohio St. 2d 317", "67 Ohio St. 2d 378", "8 Ohio App. 3d 38"]
+---
+
+# Osborne v. Lyles
+
+## Majority (JOHN V. CORRIGAN, P.J.)
+
+JOHN V. CORRIGAN, P.J.
+On February 13, 1984, plaintiff-appellant Donald Osborne ("appellant-Osborne") and plaintiff-appellant Jesus Figueroa ("appellant-Figueroa") were in a bar called R & T, located in the City of Cleveland, Ohio. Both appellants left the bar upon hearing that appellant-Figueroa's car had been damaged outside Apparently, defendant, Michael Lyles ("defendant-Lyles"), an off-duty Cleveland police officer, lost control of his car and hit appellant-Figueroa's parked car.
+As appellant-Osborne approached the damaged car, defendant-Lyles confronted him and ordered him to leave the area. Not knowing that defendant-Lyles was a Cleveland police officer, appellant-Osbornerefused. Defendant-Lyles took a swing at appellant-Osborne and a scuffle ensued. Defendant-Lyles pulled a gun out, pointed it at appellant-Osborne; and announced that he was a Cleveland police officer.
+Not knowing whether defendant-Lyles was telling the truth about being a Cleveland police officer, appellant-Osborne ran past defendantLyles and back into the R & T bar. DefendantLyles struck appellant-Osborne as he ran toward the bar. While this confrontation between defendant-Lyles and appellant-Osborne was occurring appellant-Figueroa ran back into the R & T bar to call the police.
+Defendant-Lyles followed appellant-Osborne with gun and badge in hand and informed the patrons of the bar that he was a Cleveland police officer. Defendant-Lyles pointed his gun at appellant-Osborne's head and forced him to lay on the floor. Defendant-Lyles continued to scream at appellant-Osborne and the patrons of the bar, warning them to back off.
+Appellant-Figueroa called the Cleveland Police a second time describing defendant-Lyles as a man with a gun, not a police officer. Appellant-Figueroa attempted to talk with defendant Lyles, but defendant-Lyles pointed his gun at appellant-Figueroa and ordered him to back off.
+Approximately ten minutes later, the Cleveland Police arrived on the scene. The Cleveland Police ordered defendant Lyles to drop his gun, because they did not initially recognize him. The Cleveland Police almost shot defendant-Lyles after he refused to drop his gun, but one of the officers informed the other officers that defendant-Lyles was a police officer. No arrests were made at the R & T bar on this particular night.
+On May 6,1986, appellants filed a complaint against defendant-Lyles and defendant-appellee the City of Cleveland ("appellee"). In their complaint, appellants alleged that defendant-Lyles committed various torts against them including assault and battery, false imprisonment, and intentional infliction of emotional distress. Appellants further asserted that defendant-Lyles was acting in his capacity as a police officer for appellee and that appellee was liable for the tortious conduct of defendant-Lyles. Finally, appellants asserted a negligence claim against defendant-Lyles for negligently colliding with appellant-Figueroa's parked automobile.
+On August 14, 1986, appellee filed a motion for summary judgment arguing that defendantLyles' conduct was malicious and intentional, and that he assaulted appellants for personal reasons and not to promote law enforcement. In support of its motion, appellee attached the depositions of both appellants who basically stated that defendant-Lyles' conduct was unbecoming of A' -police officer. On September 26, 1986, appellants filed a brief in opposition to appellee's motion for summary j udgment. Appellants also attached their own depositions in support of their brief. However, appellants argued that defendant-Lyles was acting as a police officer seeking to arrest and detain them while committing the alleged torts. On December 12, 1986, appellee's motion for summary judgment was denied.
+On April 8, 1987, appellee filed a motion for reconsideration of their motion for summary judgment. On January 19, 1989, the trial court granted appellee's motion for reconsideration, and upon reconsideration, the trial court granted appellee's motion for summary judgment. The trial court held that the doctrine of respondeat superior did not apply because defendant Lyles neither acted in furtherance of the business of appellee nor in a manner to be expected of a police officer.
+On February 21,1989, the trial court entered a default judgment in favor of appellants against defendant-Lyles on the remaining claims.
+Appellants filed a timely notice of appeal and subsequently raised the following assignmentsof error:
+"I. THE TRIAL COURT ERRED IN GRANTING THE MOTION FOR SUMMARY JUDGMENT ON JANUARY 12,1989 WHEN GEN UINE ISSUES OF MATERIAL FACT WERE PRESENTED BY THE EVIDENCE OF RECORD.
+"A. OFFICER LYLES WAS ACTING WITHIN THE SCOPE OF HIS EMPLOYMENT SINCE HE WAS MAKING AN ARREST AND WAS AUTHORIZED TO DO SO.
+"B. OFFICER LYLES' CONDUCT WAS WITHIN THE SCOPE OF HIS EMPLOYMENT SINCE HE WAS REQUIRED BY HIS EMPLOYER TO INTERCEDE IN A CRIMINAL EVENT WHETHER ON OR OFF DUTY.
+"C. APPELLEE CITY OF CLEVELAND IS LIABLE FOR THE INTENTIONAL TORTS OF OFFICER LYLES BECAUSE LYLES' CONDUCT WAS RATIFIED BY APPELLEE.
+"II. THE TRIAL COURT COMMITTED PREJUDICIAL AND REVERSIBLE ERROR IN ENTERTAINING AND GRANTING THE MOTION FOR RECONSIDERATION IN CONTRADICTION OF THE COURT’S PRIOR RULING IN WHICH THE COURT DETERMINED THAT SUMMARY JUDGMENT SHOULD BE DENIED."
+In their first assignment of error, appellants argue that the trial court erred in.granting appellee's motion for summary judgment which was premised upon the finding that the actions of defendant-Lyles were not in the furtherance of the business of appellee and that the doctrine of respondeat superior did not apply. Specifically, appellants argue that defendant-Lyles was acting in the scope of his employment for appellee when he committed the intentional torts against them.
+Civ. R. 56(C) provides in pertinentpart that:
+"A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom, that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor."
+Therefore, a Civ. R. 56(C) motion for summary judgment can only be granted when the moving party demonstrates that:
+"(1) No genuine issue as to any material fact remains to be litigated;
+"(2) the moving party is entitled to judgment as a matter of law; and
+"(3) it appears from the evidence that reasonable minds can come to but one conclusion, and viewing such evidence most strongly in favor of the party against whom the motion for summary judgment is made, that conclusion is adverse to that party." Temple v. Wean United, Inc. (1977), 50 Ohio St. 2d 317, 327.
+Further, upon an appeal from a summary judgment, the reviewing court should look at the record in the light most favorable to the party opposing the motion. Campbell v. Hospitality Motor Inns, Inc. (1986), 24 Ohio St. 3d 54, 58.
+Herein, appellants argue that genuine issues of material fact existed for the trier of fact with regard to appellee's liability for the tortious conduct of defendant-Lyles under the doctrine of respondeat superior.
+A principal is not liable for his agent's tortious acts when such acts are not performed to further the principal's business and when they are motivated purely by the agent's personal malice toward the injured party. Finley v. Schuett (1982), 8 Ohio App. 3d 38. Further, in order to obligate a principal to respond in damages for the tortious conduct of its agent, it is necessary that the agent be acting within the scope of his employment. Rogers v. Allis-Chalmers Mfg. Co. (1950), 153 Ohio St. 513, 526. Where the tortious conduct is willful and malicious, it is not generally considered within the scope of the agent's employment. Finley, supra.
+The documentary evidence before the trial court regarding appellee's motion for summary judgment adduced that defendant-Lyles acted solely to accomplish his own end. In fact, the depositions of both appellants indicated that neither one of them believed defendant-Lyles was a police officer. Appellants both stated that defendant-Lyles's conduct was contrary to which one expects of a police officer.
+Defendant-Lyles assaultedappellant-Osborne without provocation or excuse and was motivated by his personal enragement and malice. Even after defendant-Lyles pulled out his gun and announced that he was a Cleveland police officer, appellants were still not convinced that he was a police officer. Appellant-Osborne ran away from defendant-Lyles because he did not know whether Lyles was a police officer or just some crazy person with a gun. When appellant-Figueroa called the police department on the telephone, he informed them a man with a gun was threatening his friend. Appellant-Figueroa never said that there was a police officer making an arrest with a gun.
+The record in the instant case is devoid of evidence adducing that defendant-Lyles was authorized to engage in the conduct he exhibited on the evening of February 13, 1984. The evidence supports the trial court'sfinding that defendantLyles was motivated by personal malice and intent. Thus, defendant Lyles was not acting within the course and scope of his employment at the time of the incident at issue
+Accordingly, we find that the trial court did not err in granting appellee's motion for summary judgment since there was no genuine issue of material fact as to whether appellee was liable for the actions of defendant-Lyles.
+Appellants' first assignment of error is not well taken and is overruled.
+In their second assignment of error, appellants argue that the trial court erred in entertaining and granting appellee's motion for reconsideration.
+The Ohio Rules of Civil Procedure do not prescribe motions for reconsideration after a final judgment. Pitts v. Dept. of Transportation (1981), 67 Ohio St. 2d 378. However, a motion for reconsideration would be the proper procedural vehicle for obtaining relief after interlocutory orders. Id., at 380, fn. 1.
+Since an order denying a motion for summary judgment is not a final appealable order, the trial court had authority to rule on appellee's motion to reconsider its motion for summary judgment. Fieg Sewering Co. v. Romaniw (Feb. 8, 1990), Cuyahoga App. No. 56526.
+In their brief, appellants cite Mathews v. Mathews (1981), 5 Ohio App. 3d 140, in support of their argument that the trial court erred in granting appellee's motion for reconsideration. The court in Mathews stated that the test to apply in ruling on a motion for reconsideration is:
+"whether the motion for reconsideration calls to the attention of the court an obvious error in its decision or raises an issue for our consideration that was either not considered at all or was not fully considered by us when it should have been." Mathews, supra, at 143.
+In its memorandum of opinion, in which the trial court granted appellee's motion for reconsideration, the' trial court held that the prior order denying appellee's motion for summary judgment was in error with respect to the doctrine of respondeat superior. Based on this court's analysis of appellants' first assignment of error, we find that the trial court properly granted appellee's motion for reconsideration of its motion for summary judgment.
+Appellants' second assignment of error is without merit and is overruled.
+Judgment affirmed.
+PRYATEL, J., and MARTIN, J., concur.
+Sitting by assignment, Judge August Pryatel, Retired, of the Eighth Appellate District; Judge William J. Martin, of the Carroll County Common Pleas Court.
