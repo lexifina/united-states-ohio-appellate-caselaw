@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-06-09"
+citations: ["9 Ohio Law Abs. 27"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vickery, PJ, and Levine, J, concur."]
+parties: ["NEWCOMB, Receiver v KRUEGER & PELTON"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895562
+cites_cases: ["18 O. C. C., 589", "208 U. S., 423", "77 U. S., 483"]
+---
+
+# Newcomb v. Krueger & Pelton
+
+## Majority (-SULLIVAN, J.)
+
+-SULLIVAN, J.
+Section 1711 GC is the basis for the apfor the summary order in the proceedings ¡ and among other\ it provides as follows:
+“.Such .attorney at law receiving money for his client and refusing or neglecting to -pay it when demanded shall be proceeded 'against, in a summary way, on motion, etc.”
+, After the refusal of the court to issue summary process to the attorneys, excepwere taken and thus we have before us -the legal propriety of the procedure, and as this is the only question submitted, the merits or validity of the claim is not before us for review.
+'Under the authorities there is no question but that attorneys have a lien upon their clients papers and documents in their possession for their expenditures and services rendered in the clients behalf, and also for a general balance due on account of costs, and, on .this doctrine the attorneys plant their case, and insist that, under the record, no summary order has any legal structure upon which to rest. Longworth v. Handy, 13 O. D. Reprint, 47, referring to 1711 GC, says:
+“We have no doubt that the proceeding to amerce is so- far penal in its character as that it does not apply to a case where the attorney has a bona fide claim upon the fund collected or acts in good faith in refusing to pay it over. The statute undoubtedly contemplates a case where the duty of the attorney to pay over is clear.”
+In 2 Ruling Case Law, 1063-1066, we find that general authority coincides with,-Long-’ worth supra, as will be seen by the following excerpt:
+“It has been held that the general or retaining lien of the attorney on papers, money, etc., in his hands exists not only for all costs, charges and disbursements due him in the particular case in which they come into his possession, but. also for the costs and the amount due him for other professional business and employment in other cases.”
+The same doctrine is laid down in Texas v. White, 77 U. S., 483, and 2 Kents Commentaries, 14th Edtion, page 640.
+In Corpus Juris • under “Attorney and Client” 368-785, it is stated that the attorney’s lien
+“Includes ordinary legal documents of the client in possession of the attorney and notes and bonds or money collected by the attorney.”
+and reference is made to the case Leggitt v Douglas, Wright, 488, and 18 O. C. C., 589.
+In the instant case the lien upon the draft and fund arises from the situation disclosed by the record, that the fund represented a draft of the surety company to the order of the attorneys. The draft and and therefore the fund does not issue from the II. A. Stahl Properties Company, from its. assets depleted by the draft either before or after the qualifying of the receiver. The draft issued from a third -party and given in full discharge of the indebtedness and' claim against such party. Had the attorneys with the connivance of the H. A. Stahl Co., taken the money from' the general assets, the lower court might have hesitated upon the question of good faith. If there appeared in the record some flagrant act of counsel whose tendency was deliberately to thwart the eflect of the receivership, and thus to obstruct the administration of justice, then the claim of bad faith could well be made. Were the court, from the record, cognizant of some clandestine or surreptitious act on the part of the attorneys to circumvent orderly procedure with respect to the receivership, then it might be claimed that even in the foreclosure suit, a summary order might issue because of the inherent power of the court to act upon a clear professional aggression. When it arises from the record that in good faith an issue has been raised as to the conflicting rights to the possession of property, a summary order could have no other effect than to deprive a party of his day in court and the' record in this case, in our judgment, shows that there unmistakably projects from the case an issue that must be tried in an independent action wherein the whole field of controversy may be traversed in order justly to decide the case and the reason is obvious for the deciding element is that' it has good faith for its foundation, and it must be borne in mind that'the effect .of a summary order in case of good faith', might result in irreparable loss resulting from a shift in the possession of the fund in question from the claimants to the general assets of the receiver.
+The involuntary surrender of property pending a judicial determination which would be the result of ,a summary order in the instant case, would reverse the status quo, and thus relieve the attorneys named of the advantage which they now have by virtue of the legal situation and transfer it to the receiver who would merge it with the general assets, and this new situation would create an added burden upon the present possessors of the funds, supplemented by depriving them of the protection of the constitutional provision as to due process. From such a situation is revealed the rea- ' son for the holding that in cases like the one at bar, summary process shall not be transformed into a quasi-judgment where the contention is impregnated with good faith, especially in the case at bar where bad faith is not charged but good faith conceded.
+In line with our reasoning the general rule as to the rights of receivers to a summary order as against conflicting rights is Section 66 of Ruling Case Law, Vol. 23 and we cite it: ,
+“The general rule is well established that a receiver cannot ordinarily, through summary proceedings, take into custody property found in the possession of strangers to the record claiming adversity, and, if' he does so he will be liable individually therefor. The principles upon which the cases announcing this rule generally rest are that the receiver merely stands in the place of, and has no greater rights than, the party over whose property he has been appointed receiver; that everyone is entitled to his day in court; and that summary proceedings are not suitable to try conflicting claims to title. The proper course to pursue in cases where a receiver desires to obtain possession of property in the hands of a stranger to the suit, claiming adversely, is either for the receiver to bring an action against the third party, or for the plaintiff to make him a party to the suit and have the receivership extended as to him. Contempt proceedings are not appropriate.”
+Counsel in his able and exhaustive brief for plaintiffs in error relies upon the case of Bien v. Robinson, Receiver (1908), 208 U. S., 423. The distinction between this citation and the case at bar has been noted above but to repeat it, the Bien case fund came directly on check from the general assets, and thus it" became obvious' that there was an assault made on the body of the property and not involving facts, which in the instant case produced a fund which had never assimilated with the general assets. This distinction is vital and con-, trolling even though in certain other respects there are similarities.
+Thiis holding, the judgment of the Common Pleas Court is hereby affirmed.
+Vickery, PJ, and Levine, J, concur.
