@@ -1,0 +1,72 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6193"
+decided: "1960-01-12"
+citations: ["111 Ohio App. 269", "83 Ohio Law Abs. 178"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Duefy, J., concurs.", "Miller, J., not participating."]
+parties: ["Metro Tavern, Inc., Appellant, v. Board of Liquor Control, Appellee."]
+source_url: "https://static.case.law/ohio-app/111/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1441605
+cites_cases: ["96 Ohio App., 6"]
+---
+
+# Metro Tavern, Inc. v. Board of Liquor Control
+
+## Majority (Bryant, P. J.)
+
+Bryant, P. J.
+Metro Tavern, Inc., a corporation, operator of a tavern and restaurant at 5502 St. Clair Avenue, Cleveland, Ohio, under a D-5 night club liquor permit issued by the Ohio Department of Liquor Control, applied on April 5, 1957, for a renewal and reissuance of this permit. On November 20, 1957, the renewal application was rejected by the department, the rejection order stating that it was refused because of local objections and because the corporate secretary had been convicted in the United States District Court at Cleveland “recently” of a charge of illegal possession of whiskey and therefore was not a proper person to have an interest in such a permit.
+A copy of the rejection order was on the same date addressed to “Metro Tavern, Inc., 5502 St. Clair Avenue, Cleveland 3, Ohio,” and was sent registered mail, return receipt requested. It was delivered by the Post Office Department as addressed, the registry receipt being signed by Earl Hanlock, a porter employed at the tavern, who promptly notified Mrs. Josephine Bellito, president of the corporation, of its arrival and shortly thereafter delivered the order to Mrs. Bellito. She, in turn the same day, gave it to her then attorney in Cleveland, with directions to file an appeal. In as much as the registry receipt was postmarked November 22, 1957, we assume that either one or two days after the mailing of the rejection order, it was in the hands of the chief officer of the corporation.
+On December 31, 1957, the board received a letter from the attorney for Metro Tavern, Inc., hereinafter called Metro, dated December 30, 1957, giving notice of intention to appeal and asking for a hearing with reference to the department’s rejection order of the application for renewal.
+We shall refer briefly to the events taking place during the next nine months. On January 9, 1958, the board by letter to Metro notified it that its appeal would be heard before the board on January 21, 1958. At the bottom of this letter was a note warning Metro that the board would determine at the hearing whether or not Metro had filed its appeal within the thirty-day period, this note reading as follows:
+“The Board of Liquor Control will determine whether or not the notice of appeal was filed within the 30-day period prescribed by law before proceeding with the order of rejection of the Department of Liquor Control.?’
+On January 16, 1958, counsel for Metro addressed the following request for reassignment and continuance to the Department of Liquor Control:
+“IN RE: Metro Tavern, Inc.
+5502 St. Clair Avenue Cleveland 3, Ohio
+“G-entlemen:
+“I am requesting a continuance in this matter from Tuesday, January 21st for two weeks for the reason that I am involved in the trial of three lawsuits in Cuyahoga County.”
+This request was granted by the board. On January 23, 1958, the board also granted a request of Metro for the suspension of the order of rejection of the application during the pendency of the appeal.
+The matter was set for February 19, 1958, March 20, 1958, and July 17, 1958, each assignment being vacated apparently at the request of counsel for the department. On March 10, 1958, the following motion to dismiss the appeal was filed by counsel for the department:
+"Now comes the Director of the Department of Liquor Control and moves for a dismissal of the appeal herein for the reason that the notice of appeal was not filed within the prescribed 30-day period.”
+Finally, on September 5, 1958, the board sent a letter to Metro notifying it that the motion to dismiss the appeal would be heard on September 17,1958. On that date counsel, witnesses and the appellant appeared at the board’s hearing room in Columbus. On arriving there it was learned that only two of the four members of the board were present. One of the two board members present, E. G. Schuessler, entertained the view that three members of the board were the minimum needed for a quorum and that, bcause only two were present, no hearing could be held and no action taken except to reassign the appeal or motion, and in keeping with his views he declined to take part in the hearing. The other member of the board present was Herman H. David who felt that one board member could conduct the hearing. He proceeded with the hearing with Mr. Schuessler declining to participate. As a result, the board that day consisted of one member only. Thus it was that a hearing was held, witnesses were called, motions were made and overruled and the case was taken under advisement.
+It was on October 8, 1958, that the board issued an order sustaining'the motion to dismiss the appeal, this being signed by Mr. David, who was present, and by the two members who were not present. It also set forth the dissent of Mr. Schuessler and a statement of the reason for his dissent that the board lacked jurisdiction.
+It was from this order that the case was-appealed to the Common Pleas Court of Franklin County by Metro upon the ground that the order was not supported by reliable, probative and substantial evidence and was not in accordance with law. We have not been favored with an opinion of the court below but the journal entry approved by that court reversed the board’s order for the reason that it “is not in accordance with law in that proper notice of the rejection order of the Director of Liquor Control was not served upon the appellant.”
+Upon appeal to this court from the court below on questions of law, the principal question is found in the single assignment of error which reads as follows:
+“The lower court erred when it ruled that the notice sent by registered mail return receipt requested to the address of the applicant was not proper notice and not according to law.”
+Apparently it was the holding of the court below that the department, in mailing the rejection order to 5502 St. Clair Avenue, Cleveland, Ohio, used the wrong address and hence the service was defective. This is challenged by counsel for the department. On the other hand, counsel for Metro insists that service should have been made upon Sam Donald Friedman, attorney and statutory agent for Metro, whose office is located in the Engineers Building, Cleveland, Ohio.
+It must be borne in mind that under the express provisions of the Liquor Control Act, holders of such permits are entitled to a renewal unless the department can show good cause for not doing so, in which event the applicant has the right to appeal to the Board of Liquor Control. Section 4303.271 of the Revised Code provides in part as follows :
+“The holder of a permit issued under Sections 4303.02 to 4303.23, inclusive, of the Revised Code, who files an application for the renewal of the same class of permit for the same premises, shall be entitled to the renewal thereof and the department shall renew the permit unless the department rejects for good cause any such application, subject to the right of the applicant to appeal such rejection to the Board of Liquor Control.” (Emphasis added.)
+The application for renewal filed by Metro was on a four page printed form furnished by the Department of Liquor Control in which questions one, two, three and five, the only ones here pertinent, and the answers thereto, are as follows:
+“1. Name Metro Tavern Inc.
+“2. An Corporation
+(Individual, partnership, corporation, club, or assoc.)
+“3. Location 5502 St. Clair Avenue
+(Street Address)
+Cleveland 3 Cuyahoga
+(City or Village) (Postal Zone or RFD) (County)
+“4. Is the business actually within the limits of the city or village mentioned? Yes
+Is this an incorporated city Yes
+If not, state township where located
+“5. Residence address 5407 St. Clair Ave. Cleveland 3.
+(Street and Number) (Zone) (City or Village)”
+As before stated, the rejection order was sent to the address of the permit premises. Section II of Regulation No. 65 of the Board of Liquor Control provides in part as follows:
+‘ ‘ When the director refuses to issue, renew or transfer any permit he shall, by registered mail, return receipt requested, send to the person so refused, notice of such order at the address stated in such person’s application and a copy of such notice to the attorney of record of the applicant. The notice shall set forth the reasons for his action, refer to the law or rule directly involved, and state that the party will be afforded a hearing by the board if requested within thirty days from the time of mailing the notice.” (Emphasis added.)
+It would appear that this regulation was within the powers granted to the Board of Liquor Control by the provisions of the Liquor Control Act, particularly Section 4301.04 (D), Revised Code, which provides in part as follows :
+“The board may adopt, repeal, and amend bylaws in relation to its meetings and the transaction of its business and regulating its procedure on appeal.” (Emphasis added.)
+It is clear from the above-quoted regulation that the notice of appeal should have been filed with the board thirty days from the date of mailing the rejection order.
+It is contended on behalf of Metro that Regulation No. 65 of the Board of Liquor Control is in conflict with the provisions of the Administrative Procedure Act, Chapter 119 of the Revised Code. With this we find ourselves unable to agree. Even if there had not been strict compliance with the notice provision, it must be borne in mind that for a period of more than ten months counsel for Metro accepted the rejection order as having been duly and properly served and twice without objection of any sort asked for and obtained action by the Board of Liquor Control favorable to Metro. The first time was the request for continuance and the second time was the request for an indefinite stay of execution.
+In 2 Ohio Jurisprudence (2d), 507, Appearance, Section 10, it is said:
+“A special appearance is an appearance of a defendant in court for the sole purpose of objecting to the mode or manner in which it is claimed that jurisdiction over his person has been acquired. By making such an appearance a defendant does not submit his person to the jurisdiction of the court. A general appearance is a voluntary submission of the defendant to the jurisdiction of the court by some act on his part, other than objecting to the jurisdiction of the court over his person, which recognizes the case as being in court. It is frequently stated broadly that any appearance except for the purpose of challenging the court’s jurisdiction of the person of the defendant is a general appearance. As a general rule, when the defendant becomes an actor in the case without objecting to the jurisdiction, he enters his appearance and may not thereafter object to the jurisdiction over his person. The general test of a general appearance is whether some act has been done, or step taken, by a person not legally notified, before the tribunal or board, which calls upon it to examine, however, slightly, into the merits of the controversy before it. The act or step referred to may be the filing of certain papers in the cause, the invoking of some action by the court, or the submission of some right for adjudication. Appearance in a suit is regarded as a general appearance unless the contrary appears. * * *”
+See, also, the case of Fayette County Agricultural Society v. Scott, 96 Ohio App., 6.
+For the reason that the service, in our judgment, was lawful and, in addition, for the reason that there was actual service upon the president of the corporation, and because the objection was raised for the first time in the Common Pleas Court, and finally because there was no prejudice whatsoever to Metro, we feel that the holding of the court below invalidating the service was erroneous.
+It does not follow that we approve the action taken by the Board of Liquor Control. Section II of Regulation No. 65 of the board, above quoted, requires that when the Director of the Department of Liquor Control refuses a renewal application he shall in the notice of rejection set forth not only his reasons but in addition he shall “refer to the law or rule directly involved.” This is a salutary provision and it is mandatory. The rejection order in this case was completely lacking in any reference to either the law or rule directly involved. The one section set forth, Section 4301.10 (A) (2), Revised Code, relates merely to the general power of the director and has nothing whatever to do with the facts or reasons in this ease. It will be noted that the rejection order attempts to set forth two reasons. The first is alleged local objection but we note that the authorities objecting are not identified either by name or office and there is no statement of any kind as to the grounds for such objection. The second reason is the alleged conviction of Louis J. Londrico, corporate secretary, in the Federal District Court in Cleveland, Ohio, of illegal possession of whiskey. We also note that nowhere is it alleged that he had any interest, large or small, in the corporation nor that the violation had anything whatever to do with the operation of the tavern.
+We note also that the record is lacking an executed notice of rejection of Metro’s application for renewal of their permit.
+Department’s exhibit “A” purports to be the notice of rejection in this case, but it is an unsigned carbon copy, the original of which, so far as we can ascertain, contained only the typed signature of the director, with a place for a manual signature by the chief of the permit division.
+We conclude that the order of the Board of Liquor Control dated October 8,1958, was erroneous and must be reversed and that the order of rejection as set forth in the department’s exhibit “A” was also insufficient and must be reversed and set aside.
+Judgment reversed.
+Duefy, J., concurs.
+Miller, J., not participating.
