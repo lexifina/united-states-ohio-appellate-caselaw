@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "7-93-12"
+decided: "1993-11-04"
+citations: ["98 Ohio App. 3d 711"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shaw and Thomas F. Bryant, JJ., concur."]
+parties: ["CONNORS, Appellant, v. STERLING MILK COMPANY et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/98/cases/0711-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764778
+cites_cases: ["1982 WL 2468", "1988 WL 76179", "1989 WL 59014", "20 OBR 392", "20 Ohio App.3d 300", "397 U.S. 471", "417 U.S. 484", "440 U.S. 93", "486 N.E.2d 197", "603 N.E.2d 975", "65 Ohio St.3d 281"]
+---
+
+# Connors v. Sterling Milk Co.
+
+## Majority (Hadley, Judge.)
+
+Hadley, Judge.
+This is an appeal by plaintiff-appellant, Christina Bell Connors, from the judgment of the Common Pleas Court of Henry County in favor of defendantsappellees, Sterling Milk Company and Wes Trimble, Administrator, Bureau of Workers’ Compensation (“the bureau”).
+On February 18, 1991, at approximately 6:30 a.m., a masked assailant entered Connors’ place of employment, Sterling Milk Company, located at 126 W. Washington, Napoleon, Ohio. The assailant ordered Connors by gunpoint out of the store. Once outside, the assailant and Connors walked down the block and into an alley. Connors was then told to kneel next to the dumpster. The assailant then stood in front of Connors and placed his gun on the top of the dumpster. He told Connors to perform oral sex on him. When Connors refused, he lowered his pants and began masturbating. Prior to ejaculation, the assailant placed Connors’ hands on his penis and forced her to perform oral sex. The assailant then walked out of the alley. Connors went back into the store and called the police.
+Connors continued her employment at Sterling Milk Co. after the sexual assault. During this time, Connors experienced flashbacks of the sexual assault and acute crying spells. On June 8, 1991, Connors was admitted to Fulton County Health Center for six days. She was diagnosed as suffering from post-traumatic stress disorder and depression as a direct and proximate cause of the sexual assault.
+On February 18, 1991, Connors filed an application for benefits with the Bureau of Workers’ Compensation. The district hearing officer denied her claim on October 21, 1991. Connors then appealed to the Toledo Regional Board of Review which denied her claim on December 18, 1991. Connors appealed to the Industrial Commission. Her claim was denied on November 18, 1992. Consequently, Connors filed her notice of appeal in the Common Pleas Court of Henry County on February 10, 1993. Sterling Milk Co. and the bureau filed a Civ.R. 12(B)(6) motion to dismiss Connors’ complaint for failure to state a claim upon which relief can be granted. On June 23, 1993, the trial court granted Sterling Milk Co.’s and the bureau’s motion to dismiss. It is from this judgment that Connors now appeals and asserts the following three assignments of error:
+Assignment of Error No. I
+“The trial court erred to the prejudice of the plaintiff-appellant in granting defendant-appellee’s motion to dismiss for failure to state a claim upon which relief can be granted for the reason that defendant-appellee’s motion to dismiss is predicated upon a statutory classification of psychiatric injuries which is unconstitutional in light of Article II, Section 35 of the Ohio Constitution.”
+Assignment of Error No. II
+“The trial court erred to the prejudice of the plaintiff-appellant in granting defendant-appellee’s motion to dismiss for failure to state a claim upon which relief can be granted for the reason that defendant-appellee’s motion to dismiss is predicated upon a statutory classification of psychiatric injuries which is unconstitutional in light of the equal protection clauses of the Ohio and United States Constitution[s].”
+Assignment of Error No. Ill
+“The trial court erred to the prejudice of the plaintiff-appellant in granting defendant-appellee’s motion to dismiss for failure to state a claim upon which relief can be granted for the reason that defendant-appellee’s motion to dismiss is predicated upon a statutory classification of psychiatric injuries which is unconstitutional in light of the due process clause[s] of the Ohio and United States Constitution[s].”
+Appellant argues that the workers’ compensation statutes are unconstitutional because psychiatric injuries without contemporaneous physical or traumatic injury are not covered. Appellant’s arguments are without merit.
+R.C. 4123.01(C)(1) defines “injury” as:
+“ ‘Injury’ includes any injury, whether caused by external accidental means or accidental in character and result, received in the course of, and arising out of, the injured employee’s employment. ‘Injury’ does not include:
+“(1) Psychiatric conditions except where the conditions have arisen from an injury or occupational disease[.]”
+In Rambaldo v. Accurate Die Casting (1992), 65 Ohio St.3d 281, 603 N.E.2d 975, syllabus, the court stated:
+“In the absence of a clearly defined expressed legislative intent to recognize mental conditions caused solely by work-related stress as occupational diseases within the purview of the Workers’ Compensation Act, such mental conditions are not compensable as occupational diseases.”
+In the case sub judice, Connors admits that she did not suffer any contemporaneous physical injury from the sexual assault. Furthermore, Connors does not allege that she suffered any traumatic injury from the sexual assault.
+Connors argues that no rational basis exists to justify the disparate treatment between physical work-related injuries and mental work-related injuries without contemporaneous physical injury and, therefore, the denial of benefits under the Workers’ Compensation Act violates the Equal Protection Clause and is a denial of due process under the United States Constitution and the Ohio Constitution. Connors’ arguments are without merit.
+The United States Supreme Court in Dandridge v. Williams (1970), 397 U.S. 471, 485, 90 S.Ct. 1153, 1161, 25 L.Ed.2d 491, 501-502, held that: “In the area of economics and social welfare, a State does not violate the Equal Protection Clause merely because the classifications made by its laws are imperfect.” Absent a suspect or fundamental classification, a statute will not be overruled “unless the varying treatment of different groups or persons is so unrelated to the achievement of any combination of legitimate purposes that we can only conclude that the legislature’s actions were irrational.” Vance v. Bradley (1979), 440 U.S. 93, 97, 99 S.Ct. 939, 942, 59 L.Ed.2d 171, 176.
+As Connors does not assert that she falls within a suspect or fundamental classification, the appropriate standard of review is the rational basis test (the law will be upheld if it is rationally related to a legitimate government interest).
+In applying the rational basis test we find that the exclusion for mental or emotional stress in the absence of contemporaneous physical or traumatic injury under the Workers’ Compensation Act does not violate the Equal Protection Clause or the Due Process Clause of the United States Constitution or the Ohio Constitution for the following reasons: (1) the state has a legitimate interest in maintaining the self-supporting nature of its Workers’ Compensation Fund; (2) the state has a legitimate interest in distributing the available resources to the disabilities determined by the state to be covered rather than to cover all disabilities inadequately; and (3) the state has a legitimate interest in maintaining a contribution rate at a level that will not unduly burden participating employers. See, also, Geduldig v. Aiello (1974), 417 U.S. 484, 94 S.Ct. 2485, 41 L.Ed.2d 256; Rose v. Mayfield (1984), 20 Ohio App.3d 300, 20 OBR 392, 486 N.E.2d 197; Zaricki v. Laco Die Casting Co. (July 8, 1982), Cuyahoga App. No. 44254, unreported, 1982 WL 2468; Neil v. Mayfield (July 22, 1988), Montgomery App. No. CA10881, unreported, 1988 WL 76179; and Fields v. Youngstown (May 30, 1989), Mahoning App. No. 88 C.A. 89, unreported, 1989 WL 59014.
+Connors also argues that the General Assembly exceeded its scope of authority in defining injury pursuant to R.C. 4123.01(C)(1) to exclude psychiatric injury without .contemporaneous physical or traumatic injury from coverage under the Workers’ Compensation Act in contravention of Section 35, Article II, of the Ohio Constitution.
+Section 35, Article II of the Ohio Constitution, in pertinent part, states:
+“For the purpose of providing compensation to workmen and their dependents, for death, injuries or occupational disease, occasioned in the course of such workmen’s employment, laws may be passed establishing a state fund to be created by compulsory contribution thereto by employers, and administered by the state, determining the terms and conditions upon which payment shall be made therefrom. * * *”
+The purpose of Section 35, Article II of the Ohio Constitution is to compensate workers and/or their dependents for injuries arising out of the course of employment. However, Section 35 does give the state the authority to determine what injuries are compensable.
+Whereas the state has a legitimate interest in maintaining and determining what disabilities ■ are compensable under the Workers’ Compensation Act, Connors’ assignments of error two and three are overruled. Furthermore, as Section 35, Article II grants the state the authority to determine the terms and conditions of payment under the Workers’ Compensation Act, the General Assembly did not exceed its authority by excluding psychiatric injuries without contemporaneous physical or traumatic injury as being not compensable. Therefore, Connors’ first assignment of error is overruled and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Shaw and Thomas F. Bryant, JJ., concur.
+. Following Connors' hospitalization, she was discharged from her employment with Sterling Milk Co. on June 20, 1991.
