@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 232"
+decided: "1937-11-11"
+citations: ["26 Ohio Law Abs. 345"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, PJ, and GEIGER, J, concur."]
+parties: ["MOSSBARGER et v OSWALD et"]
+source_url: "https://static.case.law/ohio-law-abs/26/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685445
+cites_cases: ["14 O. 307", "32 O.C.A. 113", "35 Oh St 119", "56 A.L.R. 750"]
+---
+
+# Mossbarger v. Oswald
+
+## Majority (By HORNBECK, J.)
+
+OPINION
+By HORNBECK, J.
+Appellants, plaintiffs below, as administrators of the estate of Elmer E. Trump, deceased, filed their petition in the Court of Common Pleas to sell real estate of decedent to pay his debts. Appellee Helen D. Trump was made a party defendant. Said appellee filed an answer and cross petition to effect that she was the owner in fee and in possession of the land described in the appellants’ petition, by virtue of a warranty deed executed and delivered to her by Elmer E. Trump during his lifetime, to-wit, on the 13th of March, 1934, for a valuable consideration, and that she accepted said deed and thereafter left it with her uncle, Elmer E. Trump, for safe-keeping, where it was found at the time of his decease. She asks that her title to the real estate be quieted against appellants and other defendants. Appellee Helen D. Trump also had a mortgage lien against said premises, concerning which there is no controversy.
+Issue was joined on the cross petition and the cause was tried to the trial judge, who found in favor of appellee and quieted her title to the premises as prayed. From this action of the trial court this appeal on questions of law is prosecuted.
+The one and only question under consideration, in view of the state of the record, is whether or not the trial court erred in weighing the evidence as to the delivery of the deed from Elmer E. Trump in his lifetime to Helen D. Trump and her acceptance of the deed.
+Helen D. Trump testified in her behalf and upon this testimony it is clear that her uncle delivered the deed in question to her with the purpose of relinquishing all right thereto and title to the property therein described and that she accepted it with the purpose of taking that which the deed conveyed. In her testimony she is corroborated by several witnesses in the particulars that her uncle intended to and did make the deed with the purpose of transierring the title to the land therein described to his niece and having so done he delivered the deed to her. There is no question on this record but that the deed was made by Elmer E. Trump in the office oí Mr. E. L. Bush, free from the influence of his niece, who was not present nor in the vicinity, and that it was the intention of the grantor, when the deed was made, that it be delivered.
+The only evidence, independent of some circumstances which may be construed against the claim of the niece in certain particulars, which tends to contradict her statement as to the delivery and acceptance oí the deed, is that of Mr. Bush, who testified to statements made by Miss Trump to him after the deed of her uncle was found among his effects, the inference from which was that there had been no legal delivery or acceptance of the deed.
+The trial court clearly exercising his proper prerogative held that under all of the circumstances the appellee had established the averments of her cross-petition. With this determination we cannot interfere, as it is but the application of the familiar principle that unless and until the record discloses that the verdict or judgment is manifestly against the weight of the evidence a reviewing court must not disturb it.
+There is no dispute in Ohio as to the law controlling this case. The authorities are unanimous to effect that to pass title there must not only be a delivery of the deed by the grantor with intention to sever his right to further control the instrument, but there must also be an acceptance of the deed with the expressed or implied intent to take title as therein conferred. Lloyd v Giddings, 7 O. (part 2) 50; Shirley v Ayers, 14 O. 307; Dukes v Spangler, 35 Oh St 119; Lemley v Shafer, 14 Oh Ap 363; Johnson v Darling, 32 O.C.A. 113.
+We have examined the cases cited by counsel and feel that it would be a work of supererogation to discuss them. There is no conflict in any of the authorities cited upon a fair consideration of the facts upon which the principles of law were announced. The one case cited by counsel for the administrators which arrests attention is Re Nichols (Pa.) 42 Atf. 696, which is cited in 56 A.L.R. 750, the syllabus of which is:
+“There is no delivery of a deed from father to son, and a leaving thereof in the father’s hands for safe-keeping merely. Where the father shows the son the deed, and the latter, after taking it in his hands and looking at it, hands it back, and tells his father to keep it and what he had as long as he- lived, to which the father replied that he would do ju-st as the son said.”
+The facts in this case clearly make the syllabus sound but they must be read sogether. in the first place, the action was to restore a lost deed, as to the existence of which the court was in greal doubt. The deed which it was sought to restore was of cate July 29, 1880, while much of the evidence related to a deed in existence as early as 1869. What little testimony there was from which it could be inferred that there was a deed and a transfer by the grantor to the plaintiff, was definite .to effect that when it was given to the plaintiff he gave it (the deed) back to keep so long as he, the grantor, lived. The court, in speaking' of the testimony of the plaintiff, says:
+“To get at the real force of this evidence, however, we must look into the testimony oi the petitioner himself, which, while clearly incompetent as to anything that occurred in the lifetime of Dr. Nichols, may be referred to, to see how much stress is to be laid upon the statement of Meyers, as well as to show from the petitioner’s own mouth how utterly untenable his whole claim is.”
+Without setting forth the statements of the plaintiff at length, which are found on page 693 of the opinion, suffice to say that they support the quotation from the opinion and are convincing that, giving full weight to all that the plaintiff said, there was no delivery or acceptance as is contemplated in law to pass title to property described in the deed. By plaintiff’s testimony in this case she did not leave the deed with her uncle for any fixed time but until she might desire to record it.
+The circumstances wherein the plaintiff permitted her uncle to remain on the land deeded and to exercise control of it so long as he lived was somewhat inconsistent with her acceptance of the title under his delivery of the deed but not conclusive on the question. When and if the requirements of the law were met she was at liberty to permit her uncle to remain in his home upon any terms or conditions which she saw fit- to impose and this tact alone is but a circumstance to be considered along with all others on the ultimate question for determination.
+No error prejudicial to appellants’ rights appearing in this record, the judgment will be affirmed.
+BARNES, PJ, and GEIGER, J, concur.
