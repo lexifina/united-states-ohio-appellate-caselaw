@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "L-78-041"
+decided: "1978-07-07"
+citations: ["62 Ohio App. 2d 48"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown and Connors, JJ., concur.", "Wiley, J., retired, was assigned to active duty under authority of Section 6(C), Article IV, Constitution."]
+parties: ["Schmidt, Appellant, v. State Aerial Farm Statistics, Inc., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/62/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707373
+cites_cases: ["1 Ohio App. 91", "12 A.L.R. 1247", "124 Ohio St. 123", "132 N.J.L. 336", "19 Ohio St. 462", "207 N.E. 2d 339", "28 Ohio App. 2d 188", "31 A.L.R. 3d 1423", "31 Me. 435", "353 Mo. 1166", "353 S.W. 2d 956", "4 Ohio 376", "40 A. 2d 607", "42 Ohio St. 631", "438 P. 2d 867", "54 A.L.R. 2d 1298", "59 Ill. App. 2d 328", "73 Wash. 2d 434", "81 A.L.R. 1119", "84 Ohio App. 399"]
+---
+
+# Schmidt v. State Aerial Farm Statistics, Inc.
+
+## Majority (Wiley, J.)
+
+Wiley, J.
+The appeal herein is from a judgment entered by the trial court granting the motion of the defendants to dismiss the complaint of the plaintiff for the reason that it failed to state a claim upon which relief could be granted.
+Defendant Gale H. Astles is the president and sole stockholder of defendant State Aerial Farm Statistics, Inc. In 1973, plaintiff Schmidt filed suit against State Aerial Farm Statistics and Gale H. Astles on an alleged breach of contract. Defendants filed a counterclaim in this action. The cause was tried by a jury which found against plaintiff on his complaint and in favor of defendants on their counterclaim, in the sum of $9,625. A subsequent action was filed (which is the subject of this appeal) in which the original plaintiff alleges that the judgment against the plaintiff in the prior litigation was secured by the perjured testimony of defendant Gale H. Astles. The plaintiff prays for a judgment as follows:
+“[Against] both defendants in an amount equal to the existing judgment, together with interest and court costs added, which defendant, State Aerial Farm Statistics, Inc., presently holds against plaintiff; for further judgment against both defendants in the amount of $250,000.00 (Two Hundred Fifty Thousand Dollars), as and for damages to plaintiffs credit and reputation and ability to earn a livelihood; for further judgment in the amount of $100,000.00 as and for punitive and exemplary damages; for reasonable attorney fees herein incurred by plaintiff, for plaintiffs costs herein expended and for such other and further relief to which plaintiff may be entitled.”
+The sole assignment of error states:
+“The trial court erred in dismissing plaintiffs complaint.”
+The plaintiff-appellant alleges that the complaint was filed under the authority of R. C. 1.16 which states, in pertinent part:
+“Any one injured in person or property by a criminal act may recover full damages in a civil action, unless specifically excepted by law.”
+The plaintiffs reliance upon this code section as creating a statutory tort action is misplaced. This section is only a codification of the common law in Ohio that a civil action is not merged in a criminal prosecution which arose from the same act or acts. Story v. Hammond (1831), 4 Ohio 376, 378. For the legislative history of R. C. 1.16, see 74 Ohio Laws 243, Section 10; R. S. 6803; G. C. 12379. This Ohio common law rule, as codified by the statute, was contrary to the English rule which stated that no civil action could be maintained for a criminal act, at least until criminal proceedings had been completed against the offender. See Howk v. Minnick (1869), 19 Ohio St. 462.
+Perjury is a statutory crime in Ohio. R. C. 2921.11 states in pertinent part:
+“(A) No person, in any official proceeding, shall knowingly make a false statement under oath or affirmation, or knowingly swear or affirm the truth of a false statement previously made, when either statement is material. * * *
+“(F) Whoever violates this section is guilty of perjury, a felony of the third degree.”
+Under the common law, perjury is the willful and corrupt taking of a false oath, lawfully administered in a judicial proceeding or the course of justice, with respect to a matter material to the issue or point of inquiry.
+Ordinarily, a person injured by the criminal act of another may have redress in the courts in a civil action. As an exception to this general rule of law, there is a very well established rule that no action lies to recover damages caused by perjury, false swearing, subornation of perjury, or an attempt to suborn perjury, whether committed in the course of, or in connection with, a civil action or a criminal prosecution, regardless of whether the perjurer was a party to, or a witness in, the action or proceedings. 56 Ohio Jurisprudence 2d 500, Witnesses, Section 66; 60 American Jurisprudence 2d 1012, Perjury, Section 75; Liles v. Gaster (1885), 42 Ohio St. 631; The Taplin-Rice Clerkin Co. v. Hower (1931), 124 Ohio St. 123; Bickerstaff v. Hingsley (1913), 1 Ohio App. 91; Kinter v. Kinter (1949), 84 Ohio App. 399.
+The appellant contends Liles v. Gaster, supra, is not controlling in the instant case in that in Liles there was no averment in the pleadings that the witness knew the statements were false. Furthermore, in Liles the court expressly declined to make a determination with regard to a situation where a witness uses words that are false and actuated by express malice. The court further stated that a witness who is sworn to tell the truth is absolutely privileged in testifying, “while doing so in good faith.” The court further stated that the reason for the rule is to protect a witness from civil suits for false testimony which would detract largely from the reliability of the evidence given and would “multiply the opportunities for operating upon the fears of witnesses to the serious detriment of justice.” At pages 636 and 637, the court again indicated it was not determining what the liability of a witness might be if he acts with actual malice, or if he maliciously perverts the truth or takes advantage of his position as a witness to utter false, malicious and slanderous words. It stated further:
+“Whether, in such cases, a witness is liable only to an indictment for perjury, as many authorities hold, or may also be liable in a civil action, as others maintain, is a question not now before us.”
+In Kinter v. Kinter and Bickerstaff v. Hingsley, supra, it is not specifically stated that the witness testified falsely, knowing that the testimony was false. However, in the rather recent case of Baker v. Orlowsky (1971), 28 Ohio App. 2d 188, the petition alleged that the defendant, a medical doctor, gave false testimony in the proceeding to determine mental competency and that the false and fraudulent statement was known by the defendant to be false, and fraudulent. The court referred to the general rule and also to Kinter v. Kinter, Liles v. Gaster, and Bickerstaff v. Hingsley, but made no reference to the additional factor that the defendant, at the time of testifying, knew that his statment was false. The judgment of the trial court sustaining the demurrer to the petition was affirmed.
+Courts in other jurisdictions which have accepted the general rule without the reservation made in Liles v. Gaster are: Kantor v. Kessler (1945), 132 N.J.L. 336, 40 A. 2d 607; Morris v. Taylor (Tex. Civ. App. 1962), 353 S.W. 2d 956; Hager v. Major (1945), 353 Mo. 1166, 186 S.W. 2d 564; John Allan Co. v. Brandow (1965), 59 Ill. App. 2d 328, 207 N.E. 2d 339; Dunlap v. Glidden (1850), 31 Me. 435. See also 3 Restatement of Torts 2d 250, Section 588 (1977), which states:
+“A witness is absolutely privileged to publish defamatory matter concerning another in communications preliminary to a proposed judicial proceeding or as a part of a judicial proceeding in which he is testifying, if it has some relation to the proceeding.”
+In keeping with the general rule, we hold that the giving of false testimony in a judicial proceeding, even though the allegation is made that the person giving the false testimony knew it to be false, does not give rise to a civil action for damages resulting from the giving of the false testimony. See, also, Annotation 12 A.L.R. 1247,1269; Annotation 81 A.L.R. 1119, 1126; Annotation 54 A.L.R. 2d 1298, 1317, Section 7; Platts, Inc. v. Platts (1968), 73 Wash. 2d 434, 438 P. 2d 867, Annotation 31 A.L.R. 3d 1423; Prosser on Torts 777, 778 (4th ed. 1971); Prosser on Torts 795 (3rd ed. 1964).
+The sole assignment of error is found not well taken and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Brown and Connors, JJ., concur.
+Wiley, J., retired, was assigned to active duty under authority of Section 6(C), Article IV, Constitution.
