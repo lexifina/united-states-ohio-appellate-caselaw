@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "86AP-952"
+decided: "1987-09-29"
+citations: ["39 Ohio App. 3d 39"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCormac and Bryant, JJ., concur."]
+parties: ["Bauer, n.k.a. DeVault, Appellee, v. Bauer, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/39/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6706392
+cites_cases: ["1 O.O. 201", "10 OBR 364", "10 Ohio App. 3d 251", "123 Ohio St., 76", "153 Ohio St., 82", "156 N.E. 2d 113", "168 Ohio St. 447", "18 O.O. 3d 446", "18 Ohio Law Abs. 515", "195 N.E. 258", "25 Ohio App. 2d 50", "266 N.E. 2d 233", "416 N.E. 2d 610", "461 N.E. 2d 1337", "49 Ohio App. 100", "54 O.O. 2d 80", "64 N.E. 567", "64 Ohio St. 2d 250", "66 Ohio St. 566", "7 O.O. 2d 276"]
+---
+
+# Bauer v. Bauer
+
+## Majority (Whiteside, J.)
+
+Whiteside, J.
+Defendant, Rodney Bauer, appeals from a judgment of the Franklin County Court of Common Pleas and raises the following assignment of error:
+“The trial court erred in holding that a person may be found in contempt and committed to jail for failing to pay a civil judgment.”
+Plaintiff, Sharon DeVault (formerly Bauer), was awarded a divorce from defendant in 1971, at which time plaintiff was awarded custody of the parties’ minor child, and defendant was ordered to pay $20 per week in child support. Defendant made only sporadic child-support payments. In 1986, the child, then still a minor, elected to live with defendant, and the defendant’s support obligation to plaintiff was terminated by court order effective January 1, 1986. In that same year, before the child reached the age of majority, but after support obligations had terminated, plaintiff obtained judgment against defendant for child-support payments still owed. The court ordered defendant to purge himself of contempt by making payments of $150 per month until arrearages, attorney fees, and costs were paid. Upon noncompliance with that order and after the child reached the age of majority, the court during civil contempt proceedings found defendant to be:
+“In CONTEMPT of this Court’s prior Orders and hereby sentenced to ten (10) days in the Franklin County jail and assessed a fine of Five Hundred Dollars ($500.00). The Defendant, Rodney A. Bauer, may purge his contempt by paying to the Plaintiff all past due and current payments on his child support arrearage has [sic] previously required by this Court in it’s [sic] prior contempt citation no later than October 15, 1986.
+“Further, Plaintiff is hereby awarded reasonable attorney fees and costs of this action in the amount of Two Hundred Fifty Dollars ($250.00).”
+Defendant contends that the judg: ment in the civil action was a debt, and any attempts to imprison defendant are unconstitutional under Section 15, Article I of the Ohio Constitution.
+Section 15, Article I of the Ohio Constitution reads as follows:
+“No person shall be imprisoned for debt in any civil action, on mesne or final process, unless in cases of fraud.”
+A “debt,” as defined by Webster’s Third New International Dictionary (1961) 583, is “something * * * owed by one person to another * * *: something that one person is bound to pay to another * * *.” Ohio courts have long recognized that the present obligation to support one’s children or one’s former spouse is not a debt, but is an obligation owed to the public generally.
+Cases upholding the contempt authority of courts, including the right to order confinement of the parties found in contempt, take the position that a claim for support money is not a debt within the constitutional guarantee ^gainst imprisonment for a debt. It is, instead, a present obligation which arises from a duty owed to society and is in the nature of an allowance. The Ohio Supreme Court in State, ex rel. Cook, v. Cook (1902), 66 Ohio St. 566, 64 N.E. 567, held in the second paragraph of the syllabus:
+“A final money decree for alimony is not a debt within the purview of the constitutional inhibition against imprisonment for debt, but is such an order as that, under favor of section 5640, Revised Statutes, punishment as for a contempt may follow a willful failure to comply with it.”
+More recently, in the first paragraph of the syllabus of Slawski v. Slawski (1934), 49 Ohio App. 100, 18 Ohio Law Abs. 515, 1 O.O. 201, 195 N.E. 258, the Court of Appeals for Lucas County stated:
+“A decree in a divorce action, ordering the payment of money for the support of a minor child, is not a judgment for the payment of money nor is it a debt within the constitutional inhibition against imprisonment for debt, but is in the nature of an order for the payment of alimony, and contempt will lie for wilful failure to comply with its terms.”
+This court stated in State v. Ducey (1970), 25 Ohio App. 2d 50, 55, 54 O.O. 2d 80, 83, 266 N.E. 2d 233, 236, that:
+“It is reasonable and proper for members of the public at large to assume that if another member of society desires to increase the population by the addition of his progeny, he full well intends to assume the burdens attendant therewith.
+“It is also reasonable for the state to provide for certain measures which exact penalties and sanctions for those who do not see fit to meet the attendant responsibilities of [their] progeny.”
+However, this court has never held that the duty owed to society to support one’s child continues after the child attains the age of majority. In the case at hand, the defendant’s duty to make continuing child-support payments to plaintiff ceased when the trial court ordered a change of custody pursuant to the minor child’s election to reside with defendant. Additionally, any parental duty owed to society to support the child ended when the child reached the age of majority. At that time, as the Ohio Supreme Court stated in the first paragraph of the syllabus of Smith v. Smith (1959), 168 Ohio St. 447, 7 O.O. 2d 276, 156 N.E. 2d 113:
+“The amount of past due and delinquent installments remaining due and owing on an installment child-support order or judgment is fixed and unalterable on the date the last installment payment becomes due and owing; and at that time the payee of the installment support order or judgment has an absolute right to have all past due and delinquent installment payments reduced to a ‘lump-sum judgment,’ on which execution may be lawfully levied. (Corbett v. Corbett, 123 Ohio St., 76, and McPherson v. McPherson, 153 Ohio St., 82, followed.)”
+Accordingly, when the amount of arrearages owed was reduced to a lump-sum money judgment, even though the judgment originated with the child-support order, the obligation became a debt that defendant owed to plaintiff. It was no longer a duty owed to society as a whole. It is unquestioned that a court may enforce its orders for the purpose of insuring support for children during their minority by means of garnishment, attachment, or execution on the judgment and, in some cases, the extraordinary remedy of contempt.
+However, after the children have attained the age of majority and the support money yet unpaid is reduced to a lump-sum judgment during a civil proceeding, the judgment becomes a debt, and imprisonment for that debt is precluded under Section 15, Article I of the Ohio Constitution.
+This is not to say that a party seeking the payment of support arrearages is without any other recourse to relief. One to whom a lump-sum judgment based on support arrearages is due has the right to collect on that judgment by garnishment, attachment or execution on the judgment.
+Additionally, a complainant may in appropriate circumstances initiate criminal rather than civil contempt proceedings. The Ohio Supreme Court has distinguished between civil and criminal contempt proceedings in Brown v. Executive 200, Inc. (1980), 64 Ohio St. 2d 250, 253-254, 18 O.O. 3d 446, 448-449, 416 N.E. 2d 610, 613, as follows:
+“While both types of contempt contain an element of punishment, courts distinguish criminal and civil contempt not on the basis of punishment, but rather, by the character and purpose of the punishment. * * * Punishment is remedial or coercive and for the benefit of the complainant in civil contempt. Prison sentences are conditional. The contemnor is said to carry the keys of his prison in his own pocket, * * * since he will be freed if he agrees to do as ordered. Criminal contempt, on the other hand, is usually characterized by an unconditional prison sentence. Such imprisonment operates not as a remedy coercive in its nature but as punishment for the completed act of disobedience, and to vindicate the authority of law in the court. * * * Therefore, to determine if the sanctions in the instant cause were criminal or civil in nature, it is necessary to determine the purpose behind each sanction: was it to coerce the appellees to obey the consent judgment decree, or was it to punish them for past violations?” (Citations omitted.)
+As this court has recently stated in Tucker v. Tucker (1983), 10 Ohio App. 3d 251, 252, 10 OBR 364, 366, 461 N.E. 2d 1337, 1339:
+“Offenses against the dignity or process of the court, where the primary purpose of the punishment imposed is to vindicate the authority of the court by punishing the contemnor for his disobedience, are criminal con-tempts. * * *”
+The defendant in a criminal contempt proceeding is entitled to those rights and constitutional privileges afforded one in a criminal action. Here, however, the proceeding was admittedly in civil, rather than criminal, contempt.
+Accordingly, defendant’s assignment of error is sustained, the judgment of the trial court is reversed, and this cause is remanded to the Franklin County Court of Common Pleas, Division of Domestic Relations, with instructions to overrule the motion filed by plaintiff on September 15,1986, for an order finding defendant to be in civil contempt for violation of support orders.
+Judgment reversed and cause remanded with instructions.
+McCormac and Bryant, JJ., concur.
