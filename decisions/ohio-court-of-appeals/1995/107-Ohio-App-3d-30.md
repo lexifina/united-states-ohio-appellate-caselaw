@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "95API04-83"
+decided: "1995-10-24"
+citations: ["107 Ohio App. 3d 30"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Peggy Bryant, J., concurs.", "Tyack, J., dissents."]
+parties: ["GREGORY et al., Appellants, v. OHIO DEPARTMENT OF TRANSPORTATION, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/107/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1785656
+cites_cases: ["21 O.O.3d 177", "23 OBR 235", "23 Ohio App.3d 124", "3 O.O.3d 413", "361 N.E.2d 486", "423 N.E.2d 467", "49 Ohio App.2d 335", "49 Ohio App.3d 129", "491 N.E.2d 729", "525 N.E.2d 808", "551 N.E.2d 215", "56 Ohio St.3d 39", "564 N.E.2d 462", "584 N.E.2d 794", "593 N.E.2d 9", "65 Ohio App.3d 487", "67 Ohio St.2d 282", "71 Ohio App.3d 22", "87 Ohio St.3d 282"]
+---
+
+# Gregory v. Ohio Department of Transportation
+
+## Majority (Bowman, Presiding Judge.)
+
+Bowman, Presiding Judge.
+Appellant, Lester A Gregory (“Gregory”), a self-employed truck driver, was involved in a one-vehicle accident at dusk, on December 5,1989, when driving his 1988 Kenworth tractor with no trader. Gregory was travelling southbound on State Route 67 (“S.R. 67”) at approximately the legal speed limit of fifty-five m.p.h., when he approached an abandoned railroad crossing where the tracks had been removed and the roadway was paved. There were no warning signs posted. Approximately one thousand feet from the railroad crossing, Gregory first observed an incline in the road but did not begin to decelerate until he was approximately one hundred feet from the top of the incline. He realized that he would not be able to negotiate the incline in a reasonably safe manner at his rate of speed because he could not see the other side. Gregory applied his brakes and locked them, his vehicle began to skid and momentarily went airborne. Upon landing, Gregory again applied his brakes but he could not control his vehicle. He proceeded off the side of the road, into a ditch and collided with a road sign and a tree, and sustained injuries.
+Appellant filed a complaint in the Ohio Court of Claims against appellee, the Ohio Department of Transportation (“ODOT”), alleging that ODOT negligently maintained S.R. 67 and failed to post proper warning signs regarding the abandoned railroad crossing. Appellant, Zurich-American Insurance Company, also joined in the complaint, alleging property damages as the insurer for Gregory.
+The trial was bifurcated as to the issues of liability and damages. A trial was held on the issue of liability and the Court of Claims found that appellants failed to prove that ODOT was negligent in failing to maintain the highway in a reasonably safe condition. The Court of Claims also found that ODOT did not violate any mandatory provision of the Manual of Uniform Traffic Control Devices (“Manual”) and, therefore, did not breach its duty of care. Appellants timely appealed this judgment and raise the following assignment of error:
+“The Ohio Court of Claims erred in finding that the Ohio Department of Transportation did not have a mandatory duty to place warning signs in advance of an abandoned railroad crossing after removal of advance railroad crossing signs.”
+By the assignment of error, appellants contend that the Court of Claims erred in finding that ODOT did not have a mandatory duty to place warning signs in advance of the abandoned railroad crossing and appellee was negligent.
+In order to recover in a negligence action, appellants were required to demonstrate that (1) appellee owed a duty of care to appellant; (2) appellee breached that duty; and (3) appellee’s breach of that duty proximately caused appellant’s injuries. See Strother v. Hutchinson (1981), 67 Ohio St.2d 282, 285, 21 O.O.3d 177, 179, 423 N.E.2d 467, 469-470.
+Pursuant to R.C. 5501.11, ODOT has a responsibility to construct and maintain state highways in a reasonably safe condition and, therefore, ODOT owed a duty to Gregory. White v. Ohio Dept. of Transp. (1990), 56 Ohio St.3d 39, 42, 564 N.E.2d 462, 465-466. ODOT’s duty to maintain state highways in a reasonably safe condition is further defined by the Manual, “which mandates certain minimum safety measures.” Leskovac v. Ohio Dept. of Transp. (1990), 71 Ohio App.3d 22, 27, 593 N.E.2d 9, 12. R.C. 4511.10 and 4511.11(D) require that traffic control devices placed upon state highways conform to the Manual’s specifications. Id. at 27, 593 N.E.2d at 12. However, the state is not an insurer of the safety of its highways. Knickel v. Dept. of Transp. (1976), 49 Ohio App.2d 335, 339, 3 O.O.3d 413, 415-416, 361 N.E.2d 486, 489.
+This court, in Perkins v. Ohio Dept. of Transp. (1989), 65 Ohio App.3d 487, 584 N.E.2d 794, determined that “a deviation from the mandatory standards of the manual renders ODOT negligent per se and liable in damages if proximate causation is established.” See, also, Leskovac, 71 Ohio App.3d at 27-28, 593 N.E.2d at 12. Pursuant to Pierce v. Ohio Dept. of Transp. (1985), 23 Ohio App.3d 124, 23 OBR 235, 491 N.E.2d 729, the state is liable in damages for accidents which are proximately caused by its failure to conform to the requirements of the Manual. See, also, Lumbermens Mut. Cos. Co. v. Ohio Dept. of Transp. (1988), 49 Ohio App.3d 129, 130, 551 N.E.2d 215, 217-218.
+In Perkins, this court also determined that not all portions of the Manual are mandatory and, therefore, some areas are within the discretion and engineering judgment of ODOT. This is consistent with the Manual itself, which, at Section ID, provides as follows:
+“The decision to use a particular device at a particular location should be made on the basis of an engineering study of the location. Thus, while this Manual provides standards for design and application of traffic control devices, the Manual is not a substitute for engineering judgment. Except for sections of this Manual that mandate the installation of a traffic control device, it is the intent that the provisions of this Manual be standards for traffic control device installation, but not a requirement for installation.” (Emphasis added.)
+The issue of whether an act constitutes a mandatory duty or a discretionary act determines the scope of the state’s liability because ODOT is immune from liability for damages resulting from not performing a discretionary act. Winwood v. Dayton (1988), 87 Ohio St.3d 282, 525 N.E.2d 808.
+The Court of Claims found that ODOT did not violate any mandatory provision of the Manual and did not breach its duty of care. Appellants argue that the language of Section 2N-29 of the Manual is mandatory and appellee was required to place appropriate warning signs in advance of the abandoned railroad crossing. Section 2N-29 of the Manual provides as follows:
+“Bump Sign (W-62)
+“This sign is intended for use to give warning of any sharp rise in profile that is sufficiently abrupt to require a reduction in speed. The Advisory Speed sign (W-143) shall be used to indicate the maximum safe speed at which the bump can be comfortably traveled. The sign shall be removed as soon as the bump condition has been corrected.”
+Although use of the term “shall” provides a mandatory duty within the scope of the Manual (Section 1E of the Manual; Leskovac, supra, 71 Ohio App.3d at 27, 593 N.E.2d at 12), the passage concerning placement of a bump sign does not use “shall.” Rather, the word “shall” is used to require an advisory speed sign only when ODOT has determined that a bump sign is needed. “Shall” indicates that the two signs will be used together but does not automatically require a bump sign. It is left to the engineers’ discretion to determine when a sharp rise in profile is “sufficiently abrupt to require a reduction in speed” so as to require use of a bump sign. In Lumbermens, supra, 49 Ohio App.3d at 131, 551 N.E.2d at 218-219, this court stated: “[I]t may be an exercise of engineering judgment whether conditions are such that a rough road sign or a bump sign should be installed.”
+Since appellee exercises discretion when determining whether a bump sign is necessary, ODOT is immune from tort liability for damages resulting from not performing a discretionary act. Winwood, supra. As a result, the trial court did not err in finding that appellee did not breach its duty of care to appellants and appellants’ assignment of error is not well taken.
+For the foregoing reasons, appellants’ assignment of error is overruled, and the judgment of the Ohio Court of Claims is affirmed.
+Judgment affirmed.
+Peggy Bryant, J., concurs.
+Tyack, J., dissents.
+. At trial, appellants relied to a large extent on Sections 2N-43 and 3B-33 of the Manual which do impose a mandatory duty to erect certain signs at a railroad crossing. The Court of Claims found these provisions were not applicable as the railroad crossing had been abandoned and the tracks paved over. Appellants have not appealed this finding by the trial court and have presumably abandoned reliance on the provision of Section 2N-43 and 3B-33.
+. This section was amended effective on July 9, 1990, and the revision reads as follows:
+"ROUGH ROAD and BUMP Signs — In Sections 2N-28 and 2N-29 (page 2-68) revises ‘shall’ to ‘should’ in the second sentence in each section.”
+
+## Dissent (Tyack, Judge,)
+
+Tyack, Judge,
+dissenting.
+I respectfully dissent.
+Lester Gregory was apparently operating at or below the posted lawful speed limit when his Kenworth tractor was launched airborne as a result of going over an abandoned railroad crossing. The Ohio Department of Transportation (“ODOT”) had removed the warning signs previously posted and, for reasons impossible to discern from the record before us, had not graded the crossing or erected a bump sign, some other form of warning sign, or even a sign reducing the speed at the abandoned crossing. The removal of a previous warning sign distinguishes this case from the run-of-the-mill situation where ODOT simply fails to post a revised speed limit sign or fails to otherwise warn the public of a hazard.
+I believe that, because ODOT removed a warning sign from a road condition which was hazardous enough to send a large vehicle airborne when operating at or below the posted speed limit, ODOT had a mandatory duty at a minimum to replace the warning with some other form of warning sign.
+I believe that ODOT’s negligence is clear and the removal of the previous warning signs take this case out of the scope of any arguable governmental immunity. Since the majority of the panel does not so find, I respectfully dissent.
