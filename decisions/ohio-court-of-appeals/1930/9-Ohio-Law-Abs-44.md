@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1930-10-17"
+citations: ["9 Ohio Law Abs. 44"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MAUCK, J. (4th Dist). sifting in place of ' . POLLOCK, J.", "Roberts and Mauck, JJ, concur."]
+parties: ["MIGLIERERO v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895770
+cites_cases: ["52 Oh St, 487"]
+---
+
+# Miglierero v. State
+
+## Majority (FARR, J.)
+
+FARR, J.
+It would be superfluous in this connection to enter upon a discussion of the meaning of nunc pro tunc entry. Nunc pro tunc means “now for then”, and it is an entry that is used to correct an inadvertence or mistake, so that courts have resorted to nunc pro tunc entries for the purpose of correcting a redord and entering at a present time, that which was ordered to be done at a previous date, and that is the simple explanation of a nunc pro tunc entry. Now, that was invoked in the instant case in the Municipal Court of the city of Youngstown, and it is well settled in this jurisdiction that the entry of a court of record, in fact the principle attaches to entries made upon the dockets of justices of the peace to the effect that they import absolute verity, therefore and of course the same principle applies to the entries of a Municipal Court. Therefore this Court must accord to this record absolute verity:
+That leaves the only question remaining, as to whether or not the Municipal Court had. a right to make a nunc pro tunc entry as it did. Had it been a motion for new trial there probably would be but little question but that the accused would have a right to make such motion. It is. contended here that the fine and costs had been paid and that it was a concluded, and therefore a conclusive judgment, and that the Judge of the Municipal Court had no right to go back of the entry then made, and it is worthy of note that a nice question h,as been presented in this connection.
+Attention is directed to a case decided by this court a few years since, Antonio v. Milliken, as Sheriff, 9 Oh Ap, 357. It was a habeas corpus proceeding and the facts were these: Antonio had been found guilty in the Municipal Court of the city of Youngstown of a minor offense and sentenced to pay a fine of twenty-five dollars and costs, and to undergo a period of imprisonment in the county jail for thirty days. The Honorable George H. Gessner, who was at that time a judge of the Municipal Court of the city of Youngstown, and, after the accused being committed to jail paid the fine and costs, then directed his release from the county jail, suspending the imprisonment; however, the sheriff of Mahoning County refused to release Antonio, and the cause came on for hearing in the court below on an application for a writ of habeas corpus which refused the release of Antonio, and this Court held that the right was inherent in the Municipal Court to grant such release to Antonio at that time. That was within the same term of the Municipal Court. This order was madé at the same term, but did the Judge of the Municipal Court have authority and such control over the judgment in the case as to make the nunc pro tunc order?
+Some authorities are of interest in this' connection. In 15 R. C. L., 688, under the heading “Judgments”:
+“Opening and vacating judgment. Authority to grant relief.
+Sec. 140. In general. All courts of record have inherent power to vacate or set aside their judgments or orders during the term at which rendered. This is a power of daily exercise by the-courts find its existence within proper limitation of time and property can not be questioned. It is based upon the substantial principle of right and wrong , to be exercised for the prevention of error and injury and for the furtheranee of justice.”
+It is not germain in the present inquiry to determine whether or not this order was made, because this court must assume that the entry put on the journal by the Municipal Judge imports absolute verity. It must be assumed that a Municipal Court, like any other court, had a right to make the order if it was invested with jurisdiction.
+Cálling attention to 34 C.J., 207, under the head of “Judgments”:
+“Amending, correcting, opening and vacating judgments. Sec. 436. Jurisdiction and power generally. During Term. A court has full control over its orders and judgments during the term at which they are made, and may upon sufficient c'ause shown in the exercise of its sound discretion, amend, correct, revise, supplement, open or vacate such judgments. This was the rule at common law and it prevails in almost all jurisdictions. Unless previously adjourned sine die, every term continues 1 until the beginning of the next for the purpose of this rule. An adjourned term is considered but a continuation of the regular term. In a few jurisdictions it has been held that jurisdiction., ceases with the rendition of the final 1 judgment.”
+Now if jurisdiction did not cease, Judge Moore had authority to make the entry that he did make. But, returning to the first proposition as to the‘right to vacate, correct, open, supplement and revise judgments, the foot note on page 208 gives t quite a number of cases from many states as'sustaining that view, and among them - Ohio is recognized as holding to the effect .'that during the term a trial court has the right to do these things with reference to /’.'a judgment. Confronted with this situation, also with the record of the Municipal Court importing absolute verity, and with the right of the Municipal Judge to make a nunc pro tunc entry, the purpose "of which ‘is fully set out in Printing Company v. Green, 52 Oh St, 487, and with the Ohio ,'authprities sustaining the view that this iftower is inherent in Ohio courts, and especially in view of the holding in the case Of Antonio v. Milliken, there is no refuge , froih the conclusion but what this testil'mony was pertinent in the instant case, and "that the trial court was in error in instructing the jury as it did, that it was a >.coxicluded judgment, and therefore that . the Municipal Court had no authority to várate or set it aside.
+It follows that this judgment must be reversed, because contrary to law. If the .’Municipal Court be right, then it was not á conviction of a third offense and the conviction would be contrary to law and against, the evidence.
+For the reasons given the judgment is- reversed and the cause remanded for such proceedings as are authorized by law.
+Roberts and Mauck, JJ, concur.
