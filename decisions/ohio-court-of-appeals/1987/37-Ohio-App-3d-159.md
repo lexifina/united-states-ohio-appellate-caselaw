@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "85-CA-40"
+decided: "1987-04-01"
+citations: ["37 Ohio App. 3d 159"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Milligan and Wise, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Fitch, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/37/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713240
+cites_cases: ["18 O.O. 3d 354", "24 Ohio St. 2d 158", "265 N.E. 2d 296", "413 N.E. 2d 1187", "53 O.O. 2d 355", "64 Ohio St. 2d 116"]
+---
+
+# State v. Fitch
+
+## Majority (Putman, P.J.)
+
+Putman, P.J.
+The appellant, Rodney D. Fitch, appeals his convictions for five counts of grand theft (R.C. 2913.02), four counts of aggravated burglary (R.C. 2911.11[A][2]), and one count of breaking and entering (R.C. 2911.13[A]), as charged in the indictment. The appellant raises ten assignments of error. We sustain the first assignment of error and reverse.
+Assignment of Error No. I
+“The trial court erred in overruling defendant-appellant’s motion to dismiss for a failure to observe his rights as they arise under Ohio Revised Code Section 2941.401, Ohio Revised Code Section 2945.71, Section 10, Article I of the Constitution of the State of Ohio, and the Sixth Amendment of the United States Constitution.”
+* * *
+The appellant was indicted by the Coshocton County Grand Jury on October 31, 1984 for certain illegal acts performed between July 1, 1983 and May 7, 1984. On November 1, 1984, the Coshocton County Sheriff’s Office sent the warrant issued for the appellant’s arrest to the Lebanon Correctional Institute. Arraignment was scheduled for November 5, 1984; appellant was not produced at that time and a $10,000 bond was set by the court. On November 21, 1984, the Lebanon Correctional Institute acknowledged receipt of the warrant for the arrest of the appellant. On March 1, 1985, the institution in which appellant was incarcerated acknowledged receipt of a letter from the Coshocton County Sheriff stating that the appellant would be taken into custody upon his release. The appellant received a copy of this letter. The “return of executed warrant” shows that the warrant was executed on March 22, 1985. The appellant was released on the same day and he was immediately arrested and taken into custody by the Coshocton County Sheriff. The appellant was arraigned on April 2,1985 and entered a not guilty plea. The trial date was set for June 17,1985. The appellant was held in lieu of bond throughout.
+On June 14, 1985, the appellant filed a motion to dismiss the entire indictment for violation of his speedy trial rights under R.C. 2941.401, R.C. 2945.71, Section 10, Article I of the Ohio Constitution, and the Sixth Amendment to the United States Constitution. The trial court heard and denied the motion on June 17, 1985.
+On July 11, 1985, the appellant filed a notice of appeal from the denial of his motion alleging that his speedy trial rights had been violated. His interlocutory appeal was dismissed by this court for “want of jurisdiction” on September 17, 1985.
+The appellant, prior to the newly set trial date, renewed his motion to dismiss and alleged that the delay between remand and the new trial date violated his speedy trial rights. This motion was rejected by the trial court.
+On November 20, 1985, the appellant’s trial commenced on ten of the original thirty-four counts alleged in the indictment. The prosecution requested the court to enter a nolle pro-sequi as to the remaining counts. On November 27, 1985, the jury returned verdicts of guilty as to all ten counts. On the same day, the court entered judgment and sentenced the appellant. On December 4, 1985, the appellant filed a motion for judgment of acquittal pursuant to Crim. R. 29(C) which was overruled by the trial court on December 9, 1985. It is from this judgment and sentence that the appellant now appeals.
+The appellant asserts that the trial court erred in overruling his June 14, 1985 motion to dismiss for a failure to observe his rights under R.C. 2941. 401, R.C. 2945.71, Section 10, Article I of the Ohio Constitution, and the Sixth Amendment to the United States Constitution.
+We agree and sustain this assignment of error.
+In its judgment entry which denied the appellant’s June 14 motion to dismiss, the trial court stated:
+“Upon the evidence presented at hearing, the court finds the defendant was notified of the existence of the instant indictment by a Deputy Sheriff of Coshocton, Ohio at the Lebanon Correctional Institute] on March 1, 1985. Evidence presented at the hearing makes it clear that the state is not capable of proving that defendant was actually notified of this indictment at any time prior to March 1, 1985.”
+R.C. 2941.401 states:
+“When a person has entered upon a term of imprisonment in a penal or correctional institution of this state, and when during the continuance of the term of imprisonment there is pending in this state any untried indictment, information, or complaint against the prisoner, he shall be brought to trial within one hundred eighty days after he causes to be delivered to the prosecuting attorney and the appropriate court in which the matter is pending, written notice of the place of his imprisonment and a request for a final disposition to be made of the matter, except that for good cause shown in open court, with the prisoner or his counsel present, the court may grant any necessary or reasonable continuance. The request of the prisoner shall be accompanied by a certificate of the warden or superintendent having custody of the prisoner, stating the term of commitment under which the prisoner is being held, the time served and remaining to be served on the sentence, the amount of good time earned, the time of parole eligibility of the prisoner, and any decisions of the adult parole authority relating to the prisoner.
+“The written notice and request for final disposition shall be given or sent by the prisoner to the warden or superintendent having custody of him, who shall promptly forward it with the certificate to the appropriate prosecuting attorney and court by registered or certified mail, return receipt requested.
+“The warden or superintendent having custody of the prisoner shall promptly inform him in writing of the source and contents of any untried indictment, information, or complaint against him, concerning which the warden or superintendent has knowledge, and of his right to make a request for final disposition thereof
+“Escape from custody by the prisoner, subsequent to his execution of the request for final disposition, voids the request.
+“If the action is not brought to trial within the time provided, subject to continuance allowed pursuant to this section, no court any longer has jurisdiction thereof, the indictment, information, or complaint is void, and the court shall enter an order dismissing the action with prejudice.
+“This section does not apply to any person adjudged to be mentally ill or who is under sentence of life imprisonment or death, or to any prisoner under sentence of death.” (Emphasis added.)
+R.C. 2941.401 provides that, when properly notified, an inmate of a state correctional institution has a right to demand trial of an untried indictment within one hundred eighty days of the service of his request. The record reveals that the appellant was incarcerated in a state correctional institution from June 8, 1984 until March 22, 1985. The appellant was indicted by the Coshocton County Grand Jury on October 31, 1984. The Coshocton County Sheriffs Department sent the warrant on the indictment to the Lebanon Correctional Institute on November 1, 1984, and the institution acknowledged receipt of the warrant on November 21, 1984. Although the appellant did receive a copy of a letter wherein the institution in which he was incarcerated acknowledged receipt of a letter from the Coshocton County Sheriffs Department stating that appellant would be taken into custody upon his release, the record is clear that appellant did not receive notice of his specific right under R.C. 2941.401 “to make a request for final disposition” of the pending indictment.
+The state legislature, in its wisdom, has elected to obligate the state to notify the accused of his right to make a demand for speedy disposition of pending indictments as well as the fact of such indictments. It would nullify the entire purpose of the statute if failure to give notice of the right would operate to relieve the state of its legal burden to try cases within rule.
+Absent such specific advice, the state cannot rely upon the prisoner’s failure to make demand for speedy disposition but must count the time as having commenced upon the first triggering of the state’s duty to give notice of the right to make demand for speedy disposition. State v. Floyd (Oct. 25, 1979), Cuyahoga App. No. 39929, unreported; State v. Carter (June 30, 1981), Franklin App. No. 80AP-434, unreported. Appellant pursued the proper remedy at law to enforce his statutory rights by filing a motion to dismiss the charge for denial of a speedy trial. State, ex rel. Bowling, v. Court of Common Pleas (1970), 24 Ohio St. 2d 158, 53 O.O. 2d 355, 265 N.E. 2d 296.
+The first assignment of error having been sustained, this court has “no occasion to pass” upon the other assignments of error. See Dupler v. Mansfield Journal Co. (1980), 64 Ohio St. 2d 116, 125, 18 O.O. 3d 354, 360, 413 N.E. 2d 1187, 1194.
+The judgment of the trial court is reversed.
+Judgment reversed.
+Milligan and Wise, JJ., concur.
