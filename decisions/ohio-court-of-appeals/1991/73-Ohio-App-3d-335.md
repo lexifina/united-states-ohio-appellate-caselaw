@@ -1,0 +1,68 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5-90-50"
+decided: "1991-09-20"
+citations: ["73 Ohio App. 3d 335"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hadley and Shaw, JJ., concur."]
+parties: ["SCHNEIDER, Appellant, v. MILLER, d.b.a. Miller Motors or Classic Motors, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/73/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1473062
+cites_cases: ["10 OBR 500", "10 Ohio St.3d 167", "14 O.O.3d 203", "19 OBR 255", "19 Ohio St.3d 93", "22 O.O.3d 422", "33 Ohio App.3d 228", "396 N.E.2d 761", "429 N.E.2d 456", "449 N.E.2d 1289", "462 N.E.2d 407", "483 N.E.2d 144", "5 OBR 398", "5 Ohio St.3d 181", "515 N.E.2d 24", "60 Ohio St.2d 41", "68 Ohio App.2d 255"]
+---
+
+# Schneider v. Miller
+
+## Majority (Thomas F. Bryant, Presiding Judge.)
+
+Thomas F. Bryant, Presiding Judge.
+This is an appeal from a judgment entered in the Findlay Municipal Court in favor of defendant-appellee, Harold Robert Miller, d.b.a. Miller Motors or Classic Motors, and against plaintiff-appellant, R. Larry Schneider, following a bench trial.
+On August 20, 1988, appellant learned that appellee had a 1966 Chevrolet Impala SS at his used car lot in Findlay. Appellant was in the market for such a car and, along with his brother-in-law (who had told him about the car), went to appellee’s place of business to look at the car. Appellant took a test drive in the car and decided to purchase it.
+When appellant returned to the car lot, he asked appellee about a squeaking noise in the car and appellee told him it was the brakes and they needed to be replaced. Appellee also pointed out to appellant that the trunk was rusted and it would cost about $500 to repair, and that the engine might need to be rebuilt at some point. Negotiations for the purchase price then began and the parties settled on a price of $2,580. Appellant made a down payment of $100 toward the purchase price.
+On August 21, 1988, appellant returned to the car lot with his wife and stepson (for whom he was purchasing the car). He paid the balance of the purchase price, signed a bill of sale acknowledging that the car was sold “as is,” and signed a separate document indicating that the car was sold “as is” with no warranty. The car was then driven by appellant or his stepson to their home in Marysville with a detour to Lakeview to show the car to someone attending a classic car show.
+Within a day or two after taking the car to Marysville, appellant drove it to a repair shop to have the brakes replaced and the trunk repaired. On September 8, 1988, appellant wrote a letter to appellee seeking to rescind the contract. He offered to return the car to appellee in exchange for a return of the purchase price. Appellant alleged that the entire underside of the car was hardly attached to the frame because the frame was rusted, that the car was not safe to drive, could not be repaired and was a “death trap.” Appellee refused to agree to rescind the contract and appellant subsequently brought suit.
+After a bench trial, the trial court entered judgment in favor of appellee. The court denied appellant’s claim for breach of warranty because the car was sold “as is” without any warranty. As to appellant’s claim for fraud and deceit, the court held that appellee had not engaged in conduct that could be construed as a false representation nor had he concealed any material fact concerning the vehicle. The court also denied appellant’s claim for rescission of the contract, holding that appellee made no assurances or guarantees that the vehicle was in any certain condition. The court further denied appellant’s claim that appellee had engaged in unfair and deceptive practices in violation of R.C. 1345.02.
+Appellant’s first assignment of error on appeal is as follows:
+“I. The court errored [sic] in its decision both factually and under the law in finding that there was no ground for recision and revocation of acceptance under Ohio Revised Code Section 1302.66.”
+Appellant claims that he is entitled to rescission and revocation of acceptance under R.C. 1302.66, which provides in part as follows:
+“(A) The buyer may revoke his acceptance of a lot or commercial unit whose non-conformity substantially impairs its value to him if he has accepted it:
+“(1) on the reasonable assumption that its non-conformity would be cured and it has not been seasonably cured; or
+“(2) without discovery of such non-conformity if his acceptance was reasonably induced either by the difficulty of discovery before acceptance or by the seller’s assurances.”
+Appellant argues that the defects in this vehicle substantially impair its value to him and that he could not have reasonably discovered the defects prior to the purchase. Appellant admitted at trial that he took a test drive in the vehicle and saw the areas of the trunk that were rusted out. At no time did appellant testify that he could not have had this vehicle inspected by a mechanic or other knowledgeable person for defects. Furthermore, appellant admitted that appellee acknowledged the rust problem in the trunk of the car.
+It is interesting to note that appellant owned another 1966 Chevrolet Impala SS at the time he purchased the vehicle which is the subject matter of this lawsuit. He testified at trial that he had experienced problems with rust on the underside of that car, but claimed that such knowledge did not put him on notice that more than just the trunk of this car could be rusted.
+In support of his contention that he is entitled to rescission or revocation of acceptance, appellant cites McCullough v. Bill Swad Chrysler-Plymouth, Inc. (1983), 5 Ohio St.3d 181, 5 OBR 398, 449 N.E.2d 1289, and Goddard v. General Motors Corp. (1979), 60 Ohio St.2d 41, 14 O.O.3d 203, 396 N.E.2d 761. Both cases deal with warranties on new cars limiting the buyer’s remedy to repair and replacement of defective parts. Neither case addresses the sale of a twenty-two year old car sold “as is” with no warranty. Appellant’s reliance on these cases is misplaced.
+Appellant claims that “there has been a failure of ‘essential purpose’ to the contract when the alleged motor vehicle turns out to be nothing but ‘junk.’ ” This is not a valid argument. Appellant apparently borrows the “failure of essential purpose” language from the law applicable to limited warranties. In particular, when a new car warranty is limited to repair and replacement of defective parts, a court will afford the purchaser additional relief if that limited warranty fails of its essential purpose. McCullough v. Bill Swad Chrysler-Plymouth, Inc., supra, and Goddard v. General Motors Corp., supra. The present case involves a car sold “as is” and does not involve a limited warranty.
+Appellant has not shown that he accepted this vehicle on the reasonable assumption that its alleged nonconformity would be cured, nor has he shown that such nonconformity was induced by the difficulty of discovery before acceptance or by appellee’s assurances. Accordingly, he is not entitled to revoke acceptance of the vehicle pursuant to that statute.
+Appellant’s next argument in support of his right to rescind or revoke acceptance is based on R.C. 1302.28, which relates to warranties of fitness for particular purpose. Appellant claims that appellee knew he was purchasing the car for his sixteen-year-old stepson to use as a motor vehicle, not for parts. He concludes that such knowledge on the part of appellee makes R.C. 1302.28 applicable.
+Appellant completely ignores the portion of R.C. 1302.28 which provides that “there is unless excluded or modified under section 1302.29 of the Revised Code an implied warranty that the goods shall be fit for such purpose.” (Emphasis added.) R.C. 1302.29 relates to exclusion or modification of warranties and is particularly applicable to the facts of this case. That statute provides in part:
+“(C) Notwithstanding division (B) of this section:
+“(1) unless the circumstances indicate otherwise all implied warranties are excluded by expressions like ‘as is,’ ‘with all faults,’ or other language which in common understanding calls the buyer’s attention to the exclusion of warranties and makes plain that there is no implied warranty; and
+“(2) when the buyer before entering into the contract has examined the goods or the sample or model as fully as he desired or has refused to examine the goods there is no implied warranty with regard to defects which an examination ought in the circumstances to have revealed to him[.]”
+Official Comment No. 7 to UCC 2-316 (R.C. 1302.29) provides that terms like “as is” “in ordinary commercial usage are understood to mean that the buyer takes the entire risk as to the quality of the goods involved.” (Emphasis added.) See, also, Maritime Manufacturers, Inc. v. Hi-Skipper Marina (1985), 19 Ohio St.3d 93, 19 OBR 255, 483 N.E.2d 144.
+The evidence in this case is undisputed that appellant test drove this car and apparently examined it as fully as he desired before the purchase. Furthermore, he initialed the bill of sale directly underneath the notation which indicated that the car was sold “as is” and had more than one hundred thousand miles on it. Appellant also signed the bill of sale directly under language which provides:
+“Purchaser agrees that this Order includes all of the terms and conditions on both the face and reverse side hereof, that this Order cancels and supersedes any prior agreement and as of the date hereof comprises the complete and exclusive statement of the terms of the agreement relating to the subject matters covered hereby[.]”
+It has been held that an integration clause such as this which provides that the entire agreement between the parties is contained within the four corners of the contract is effective to waive any implied warranty. Nick Mikalacki Constr. Co. v. M.J.L. Truck Sales, Inc. (1986), 33 Ohio App.3d 228, 515 N.E.2d 24.
+In addition to signing the bill of sale in two places, appellant also signed a Buyers Guide which indicates the vehicle is sold “AS IS — NO WARRANTY.” This document instructs the buyer to read the back of the form which provides that one of the major defects that may occur in a used motor vehicle is “cracks, corrective welds, or [a] rusted through” frame.
+Appellant is a practicing attorney who claims that he should not be held to the provisions of the documents which he signed. Such a claim is untenable.
+Appellant claims that the trial court abused its discretion in basing its decision on inaccurate facts because the decision states that appellant used the car several weeks before taking it to the repair shop when the evidence shows that he had the car only two or three days. The trial court’s decision states that appellant took the car to the repair shop “[a]fter several weeks of usage,” but this is merely an observation by the trial court and clearly not the basis for its decision.
+Appellant’s first assignment of error is overruled.
+Appellant’s second assignment of error is:
+“II. The court errored [sic] in its decision both factually and under Ohio law in finding that there was no ground for violation of the Consumer Practices Act under Ohio Revised Code Section 1345.03.”
+R.C. 1345.03 provides that no supplier shall commit an unconscionable act or practice in connection with a consumer transaction. Pursuant to the definitions contained in R.C. 1345.01(A) and 1345.01(C), appellee is subject to the provisions contained in R.C. Chapter 1345. Appellant produced no evidence at trial that appellee had knowledge of the alleged defect in this car at the time of the sale, nor did he produce any evidence that appellee attempted to conceal such defect even if he did have knowledge of it.
+Appellant having produced no evidence of any conduct on the part of appellee which would have been a violation of the Consumer Sales Practices Act, appellant’s second assignment of error is overruled.
+Appellant’s third and final assignment of error is as follows:
+“HI. The court errored [sic] in its decision both factually and under the law finding that there was no ground for common law misrepresentation and/or fraud.”
+The Ohio Supreme Court has succinctly set forth the elements of fraud as follows:
+“ ‘(a) a representation or, where there is a duty to disclose, concealment of a fact,
+“ ‘(b) which is material to the transaction * * *,
+“ ‘(c) made falsely * * *,
+“ ‘(d) with the intent of misleading another into relying upon it,
+“ ‘(e) justifiable reliance upon the representation or concealment, and “ ‘(f) * * * injury proximately caused by the reliance.’ ” Cohen v. Lamko, Inc. (1984), 10 Ohio St.3d 167, 169, 10 OBR 500, 502, 462 N.E.2d 407, 409, quoting Friedland v. Lipman (1980), 68 Ohio App.2d 255, 22 O.O.3d 422, 429 N.E.2d 456, paragraph one of the syllabus.
+Appellant produced no evidence that appellee made any statements or engaged in any conduct which could be construed as a false representation. There was also no evidence that appellee concealed any material fact concerning the vehicle. Appellee disclosed to appellant certain repairs that needed to be made and there is no evidence that appellee had any knowledge concerning the rusted frame and body on the car. Furthermore, appellant had every opportunity to inspect the car before purchase and, having failed to do so, cannot now complain of that failure.
+Appellant’s third assignment of error is overruled.
+Accordingly, the judgment of the Findlay Municipal Court is affirmed.
+Judgment affirmed.
+Hadley and Shaw, JJ., concur.
