@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10394"
+decided: "1982-05-05"
+citations: ["7 Ohio App. 3d 139"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mahoney and Bell, JJ., concur."]
+parties: ["Haas, Appellant, v. The State of Ohio, Bureau of Motor Vehicles, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/7/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710414
+cites_cases: ["13 Ohio St. 2d 53", "21 Ohio St. 2d 38", "25 Ohio St. 2d 111", "352 U.S. 432", "390 U.S. 570", "42 O.O.2d 100", "42 Ohio St. 2d 341", "50 O.O.2d 84", "54 O.O.2d 254", "71 O.O.2d 317"]
+---
+
+# Haas v. State, Bureau of Motor Vehicles
+
+## Majority (Victor, P.J.)
+
+Victor, P.J.
+Petitioner-appellant, Henry R. Haas, was arrested on November 14, 1980, and charged with driving while intoxicated. Petitioner refused to submit to a chemical test to determine the alcohol content of his blood, and in due course he was notified of the suspension of his license pursuant to R.C. 4511.191. In accordance with R.C. 4511.191(F), petitioner filed a petition for relief from suspension with the municipal court, alleging, inter alia, that R.C. 4511.191(1) is unconstitutional. The municipal court denied the petition, and petitioner appeals.
+Assignment of Error No. 1
+“The trial court erred in holding Revised Code Section 4511.191 constitutional as that section has a chilling effect on the exercise of appellant’s rights.”
+The issue on appeal is whether the court below properly denied appellant’s petition. R.C. 4511.191 was amended in 1978, at which time R.C. 4511.191(1), of which defendant complains, was added. (137 Ohio Laws, Part II, 2763, 2767-2768.) This section provides for termination of the suspension by the Registrar of Motor Vehicles when a defendant pleads guilty or no contest. Petitioner contends that R.C. 4511.191(1) operates to coerce pleas of guilty or no contest, and thus chills the right to plead not guilty and demand a trial by jury. Under prior law, the refusal to submit to a chemical test for blood alcohol levels resulted in a six-month suspension by the registrar regardless of the plea entered in the criminal proceedings for driving while intoxicated. The Ohio Supreme Court found this former statutory scheme constitutional. McNulty v. Curry (1975), 42 Ohio St. 2d 341 [71 O.O.2d 317], paragraph one of the syllabus; Hoban v. Rice (1971), 25 Ohio St. 2d 111 [54 O.O.2d 254], paragraph one of the syllabus; and State v. Starnes (1970), 21 Ohio St. 2d 38 [50 O.O.2d 84]. These same cases also determined that the proceedings on petition to the municipal court are civil, and are separate and distinct from criminal proceedings for driving while intoxicated.
+The results of chemical sobriety tests' may give rise to presumptions which operate in favor of either the defendant or the state. R.C. 4511.19. These presumptions based on scientific tests significantly enhance the quality of the evidence available in prosecutions for driving while intoxicated, and effectuate the orderly enforcement of traffic laws for the protection of the public. This interest in public safety is sufficient to justify the placing of burdens upon the rights of automobile operators. As noted in Breithaupt v. Abram (1957), 352 U.S. 432, 439:
+“* * * The increasing slaughter on our highways, most of which should be avoidable, now reaches the astounding figures only heard of on the battlefield. The States, through safety measures, modern scientific methods, and strict enforcement of traffic laws, are using all reasonable means to make automobile driving less dangerous.
+“As against the right of an individual that his person be held inviolable, even against so slight an intrusion as is involved in applying a blood test of the kind to which millions of Americans submit as a matter of course nearly every day, must be set the interests of society in the scientific determination of intoxication, one of the great causes of the mortal hazards of the road.”
+In the cases already cited, the Ohio Supreme Court has determined that license suspension is a permissible sanction for those who withdraw their consent to a sobriety test. The legislature has recently provided that individuals who plead guilty or no contest to driving under the influence, thereby obviating the need for evidence which would normally be produced by the test, may petition to terminate their administrative suspension.
+“ ‘The legislature has the full authority to prescribe the conditions upon which licenses to operate motor vehicles are issued and to designate the agency through which and conditions upon which licenses when issued shall be suspended or revoked. The right of a citizen to operate a motor vehicle upon the highways of this state is not a natural or unrestricted right, but a privilege which is subject to reasonable regulation under the police power of the state in the interest of public safety and welfare. * * V ” State v. Starnes, supra, at page 45.
+The purpose of this administrative suspension is not to punish the licensee but to protect the public, State v. Starnes, supra, and the purpose of R.C. 4511.191 (I) is not to coerce guilty pleas but to encourage the fulfillment of the licensee’s obligation to take the test. This is clearly distinguishable from United States v. Jackson (1968), 390 U.S. 570, upon which defendant and the authorities he cites rely. Defendant is not subject to different criminal penalties based on the plea he enters. The legislature has merely recognized that the statutory goal may be fulfilled either by submitting to the test or by conceding that its results would have been incriminating. Because the time in which the test must be administered is relatively short, and realizing that studied reflection may yield a willingness to submit to the test when compliance is no longer practicable, the legislature has in effect given the operator a second opportunity to perform his obligation and avoid the penalty for his breach. Since this statute involves a purely administrative proceeding, we find neither a chilling effect on defendant’s right to trial nor invidious discrimination against him. Defendant loses sight of the fact that he always had the option' of taking the test when asked to do so. We, therefore, overrule this assignment of error.
+Assignment of Error No. 2
+“The court erred in holding appellant lacked standing to challenge the constitutionality of the statute.”
+We feel that defendant has a “direct interest in the [statute] * * * of such a nature that his rights will be adversely affected by its enforcement,” Anderson v. Brown (1968), 13 Ohio St. 2d 53 [42 O.O.2d 100], paragraph one of the syllabus, and has standing to attack its constitutionality. In light of our disposition of Assignment of Error No. 1, however, we affirm the judgment of the trial court.
+Judgment affirmed.
+Mahoney and Bell, JJ., concur.
+R.C. 4511.191(1) provides:
+“A suspension of the license or permit to drive of a resident, the suspension of the operating privilege of a nonresident, or the denial of a license or permit for refusal to submit to a chemical test to determine the alcoholic content of the person’s blood pursuant to this section, shall be terminated by the registrar upon receipt of notice of the person’s entering a plea of guilty or of his conviction after entering a plea of no contest under Criminal Rule 11, to the offense of driving a motor vehicle while under the influence of alcohol, if the offense for which the plea is entered arose from the same incident that led to the suspension or denial.”
