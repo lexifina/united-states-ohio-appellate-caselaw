@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "92-L-103"
+decided: "1993-04-02"
+citations: ["85 Ohio App. 3d 765"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ford, P.J., and Nader, J., concur."]
+parties: ["ALBERTSON, Appellee, v. RYDER, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/85/cases/0765-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1689082
+cites_cases: ["103 B.R. 882", "36 Ohio App.3d 14", "40 Ohio App.3d 17", "44 Ohio St.3d 61", "450 N.E.2d 1161", "450 N.E.2d 278", "46 Ohio App.3d 118", "5 OBR 320", "5 Ohio App.3d 140", "521 N.E.2d 466", "531 N.E.2d 324", "541 N.E.2d 55", "546 N.E.2d 965", "577 N.E.2d 1077", "592 F.2d 118", "594 F.2d 314", "6 OBR 2", "6 Ohio St.3d 3", "62 Ohio St.3d 39"]
+---
+
+# Albertson v. Ryder
+
+## Majority (Christley, Judge.)
+
+Christley, Judge.
+Appellant, Clayton Ryder III, is appealing a qualified domestic relations order entered by the Lake County Court of Common Pleas, Juvenile Division, on May 12, 1992.
+This case emanates from a paternity suit which found appellant to be the father of Geoffrey Scott Albertson and liable for support and related expenses.
+In addition the court ruled: (1) that appellant pay $152.52 per week, plus poundage, through the Child Support Enforcement Agency until Geoffrey attains age eighteen or completes high school, whichever occurs later; (2) that appellant pay appellee for one half the cost of paternity testing plus interest; (3) that appellant pay child support arrearages in the amount of $30,705.73, one half in lump-sum, the other half through the purchase of an annuity; (4) that appellant pay sanctions in the amount of $250 plus interest; and (5) that a new birth certificate be issued to reflect that appellant is the father of Geoffrey.
+On July 8, 1991, appellant appealed that order and, on June 30, 1992, this court affirmed the trial court’s order.
+While the case was on appeal, appellee filed a motion for an order requiring Allen-Bradley (appellant’s employer who sponsored an employee savings plan in which appellant participated) to pay the lump-sum child support in the amount of $16,264.74 plus interest. On July 15,1991, appellant filed a motion for relief from judgment and motion to stay judgment. Appellee, Kelly J. Albertson, filed a brief in opposition to those motions.
+On August 6, 1991, the trial court issued a judgment entry regarding the above pleadings, stating that the trial court did not have jurisdiction since the case was on appeal. The trial court granted, in part, the motion for stay pending appeal, and, denied it in part. The trial court concluded that it would be improper and unjust to stay the payment of ongoing child support, but in regard to the lump-sum arrearage, the court granted the stay provided that appellant post a supersedeas bond in the full amount plus ten percent interest for one year. Thus, the total bond amount was to be $34,312. The trial court concluded in regard to appellee’s motion for the lump sum that it was moot in light of the stay granted. It further found that it did not have jurisdiction to consider the motion for lump sum since the matter was on appeal. On September 12, 1991, appellee filed a motion for reconsideration of the August 6, 1991 post-judgment entry based on the fact appellant had failed to post the supersedeas bond as ordered in the August 6, 1991 judgment entry. Appellant responded, arguing the savings plan was actually a spendthrift trust. Appellee’s reply brief included a request for a qualified domestic relations order (“QDRO”).
+As a result, the trial court filed a QDRO on December 19, 1991 in the amount of $16,264.74. The court found that appellant had failed to file the supersedeas bond as previously ordered. The court also found that the Allen-Bradley savings plan was not exempt from attachment for child support.
+On April 20, 1992, appellee filed a motion to modify the QDRO to take into account tax consequences that had not been previously considered.
+On May 12,1992, the trial court filed a new QDRO in the amount of $20,354.78. On June 5, 1992, appellant appealed the May 12, 1992 judgment entry. On appeal, appellant raises two assignments of error:
+“1. The trial court erred to the prejudice of defendant appellant, Clayton Ryder III, by ordering appellant’s employer Allen-Bradley Company to pay to appellee, Kelly Juanita Albertson, past due child support, sanctions and attorney fees pursuant to a qualified domestic relations order.
+“2. The trial court erred by modifying a previously ordered judgment while that judgment was on appeal, and unilaterally increasing the judgment to taking into consideration tax consequences to appellee, Kelly Juanita Albertson.”
+In the first assignment, appellant contends that appellee may not attach the Allen-Bradley employee savings plan for permanent employees.
+Appellant is correct in stating that the Employee Retirement Income Security Act (“ERISA”) applies to his employer’s saving plan, Section 1001 et seq., Title 29, U.S.Code. However, he overstates the law, without citation, in claiming that a child support claim is preempted by ERISA.
+Ohio courts have considered this issue. The Ohio Supreme Court held that a domestic relations court has the authority to issue a QDRO attaching benefits provided under pension plans qualifying under ERISA. Taylor v. Taylor (1989), 44 Ohio St.3d 61, 541 N.E.2d 55; R.C. 3113.21(D)(4). The court noted that the United States Congress created a limited exception to the anti-alienation provision (ERISA Section 1056[d][3] for court orders which meet the requirements of a QDRO).
+To qualify as a QDRO, an order must relate to the provision of child support, alimony payments or marital property rights of a spouse, former spouse, child or other dependent of the participant, and it must be made pursuant to state domestic relations law. See, also, Dayton v. Dayton (1987), 40 Ohio App.3d 17, 531 N.E.2d 324.
+A review of the pertinent statutes and case law has found that many courts outside Ohio have also found spousal and child support to be valid exceptions to the alienation and assignment proscriptions of ERISA. See, e.g., Section 206, Title 29, U.S.Code; Am. Tel. & Tel. Co. v. Merry (C.A.2, 1979), 592 F.2d 118; Cody v. Riecker (C.A.2, 1979), 594 F.2d 314.
+In Merry, the Second Circuit held that a garnishment order used to satisfy court ordered family support payments is implicitly exempted from provisions preempting state law relating to alienation and assignment proscriptions of ERISA.
+In the present case, the order in question meets the requirements of a QDRO. The order relates to child support and the juvenile court made it pursuant to the domestic relations law. R.C. 3103.03 requires a parent to support his minor children. The juvenile court has concurrent jurisdiction with the domestic relations court in ordering child support. Since the order in question was a QDRO, the general antialienation clause of ERISA does not apply.
+In the alternative, appellant argues that his plan is part of a spendthrift trust and cannot be touched. We do not agree that a saving plan governed by ERISA is the same thing as a spendthrift trust. Morrison v. Roulston (1989), 103 B.R. 882. Appellant cites no authority for his assertion.
+Even if we were willing to equate an ERISA account with a spendthrift trust, we do not accept appellant’s assertion that a spendthrift trust cannot be reached for child support. To support his position, appellant cites Scott v. Bank One Trust Co., N.A. (1991), 62 Ohio St.3d 39, 577 N.E.2d 1077. Scott is clearly distinguishable from the present situation and had nothing to do with child support obligations.
+Ohio courts have carved an exception to general spendthrift trust law. In Matthews v. Matthews (1981), 5 Ohio App.3d 140, 5 OBR 320, 450 N.E.2d 278, Judge Moyer, then of the Tenth District, wrote that where there was no express exclusion in a strict support trust, a judgment may be obtained against the interest received by the beneficiary of a spendthrift trust for child support. The reason behind this position is that the beneficiary should not be allowed to enjoy his interest while neglecting his support obligations. Id. at 142, 5 OBR at 322, 450 N.E.2d at 281.
+Therefore, the first assignment is without merit.
+In the second assignment of error, appellant contends that the trial court erred by modifying a previous judgment while that judgment was on appeal, and unilaterally increasing the judgment to take into consideration the tax consequences of appellee.
+The QDRO in question was issued while the case was under appeal regarding the original June 14, 1991 judgment entry. Appellant filed a motion to stay which was granted on the condition that appellant file a supersedeas bond. Appellant failed to file the bond.
+If a party fails to post the supersedeas bond staying the enforcement of a judgment against him, the trial court may issue a judgment entry ordering enforcement of the judgment while the judgment is being appealed. Accord State ex rel. Klein v. Chorpening (1988), 6 Ohio St.3d 3, 6 OBR 2, 450 N.E.2d 1161; Northfield Park Assoc. v. Northeast Ohio Harness (1987), 36 Ohio App.3d 14, 521 N.E.2d 466.
+Thus, the first QDRO issued on December 19, 1991 was an enforcement order qualifying under Civ.R. 70. Under that order, the trustee of the plan was to issue payment to appellee and her son in the amount of $16,264.74 plus interest, the amount then being considered by the court of appeals.
+A modified QDRO was filed on May 12, 1992, which increased the amount of the lump sum judgment to compensate for the tax consequences.
+A trial court continues to have jurisdiction so long as the exercise of that jurisdiction does not interfere with the power of the appellate court to review the judgment on appeal, and the appellate court’s ability to affirm, modify or reverse that judgment. Buckles v. Buckles (1988), 46 Ohio App.3d 118, 120-121, 546 N.E.2d 965, 968.
+Under the present facts, when the trial court changed the amount of the judgment being considered by this court, it modified the judgment on appeal. As such, the trial court interfered with this court’s ability to affirm, modify or reverse the judgment on appeal. Therefore, the trial court did not have jurisdiction at that time to modify the QDRO on May 12, 1992.
+Appellant’s second assignment of error has merit and the judgment of the trial court is affirmed in part and reversed in part. The original QDRO of December 19, 1991 is reinstated in full force and effect.
+Judgment affirmed in part and reversed in part.
+Ford, P.J., and Nader, J., concur.
+. Child support in the amount of $30,750.73, $237 for the paternity testing, and $250 for sanctions.
