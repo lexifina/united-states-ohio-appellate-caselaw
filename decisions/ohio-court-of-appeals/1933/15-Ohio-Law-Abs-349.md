@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 13605"
+decided: "1933-10-23"
+citations: ["15 Ohio Law Abs. 349"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LIEGHLEY, PJ, and LEVINE, J, concur."]
+parties: ["SIMON v CLEVELAND HEIGHTS (city)"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1652083
+cites_cases: ["116 Oh St 205", "149 Cal. 79"]
+---
+
+# Simon v. Cleveland Heights city
+
+## Majority (By McGILL, J.)
+
+OPINION
+By McGILL, J.
+From a careful reading of the bill of exceptions it is clear that the evidence establishes that the City of Cleveland Heights has a population of about fifty thousand persons and is in character a residential ■city generally, but contains ten business districts; that plaintiff in error’s place of business fronts upon a main thoroughfare and lies within one of the business districts; that his place of business is bounded on the west side and in the rear by a cemetery and on the east side by an apartment building about two hundred feet away; that the said place of business is more than fifty feet from any place of residence or where food is kept or sold; that his place of business is conducted in a clean and sanitary manner in a modern establishment for the slaughtering of chickens; and finally, while there may be odors arising from the killing of chickens within the place of business, that there are no odors outside said place of business.
+The evidence does not even suggest that any of the neighbors or inhabitants were annoyed by noises or odors in connection with this place of business, nor does it establish that the operations carried on had any close relation to the public health and welfare.
+There is nothing in the record to indicate that the business as carried on amounted to a nuisance and counsel for the City of Cleveland Heights, upon oral argument, conceded that it was not a nuisance per se.
+In Volume 8 Ohio Jurisprudence, at page 409, it is said;
+“The general limitations upon the power of the state to regulate occupations obviously apply to the suppression or prohibition of businesses. In fact, the restrictions upon the power to prohibit are even more stringent than those upon the power to regulate. This is natural since the consequences of prohibition are severer and more drastic than those of regulation. Every individual has a right to pursue in a lawful manner any lawful calling which he may select. The state can neither compel him to pursue any particular calling, nor prohibit him from engaging in any lawful business, if he does so in a lawful manner. If a business is not harmful, the prosecution of it cannot lawfully be prohibited to one who will conduct the business in a proper and circumspect manner. Such an individual would be deprived of his liberty without due process of law. Any law which prohibits altogether an occupation, the prosecution of which does not necessarily work an injury to the public is unwarranted.”
+Tiedeman in his work on Limitations of Police Power says at page 194, paragraph 85:
+“It will probably not be -disputed that every one has a right to pursue in a lawful manner, any lawful calling which he may select. The State can neither compel him to pursue any particular calling, nor prohibit him from engaging in any lawful business, provided he does so in a lawful manner. It is equally recognized as beyond dispute, that the State, in the exercise of its police power, is, as a general proposition, authorized to subject all occupations to a reasonable regulation, where such regulation is required for the protection of public interests, or for the public welfare. It is also conceded that there, is a limit to the exercise of this power, and that it is not an unlimited arbitrary power, which would enable the legislature to prohibit a business, the prosecution of which inflicts no damage upon others.”
+Again, the same author says at page 301:
+“It has also been maintained and, I think satisfactorily established, that no trade can be prohibited altogether, unless the evil is inherent in the character of the trade, so that the trade, however conducted, and whatever may be the character of the person engaged in it, must necessarily produce injury upon the public or upon individual third persons.”
+At page 433 it is further said by this same author:
+“As long as a trade does not injure the public health, and is the source of no annoyance whatever to the inhabitants of the locality in which it is conducted, it cannot lawfully be prohibited. Every man has a constitutional right to follow on his premises any calling, provided it does not in any way interfere with another’s reasonable enjoyment of his premises. But if the prosecution of a certain trade affects another injuriously, the State may so regulate the trade that the injury may be avoided or reduced to a minimum. If the trade is in itself; and necessarily, harmful to one’s neighbors, or to the public health, it may be prohibited altogether. But if it can be prosecuted under certain limitations, so as to avoid injury to others, the police regulation must be confined to the imposition of these needed restrictions, and the trade cannot be absolutely prohibited.”
+In the case of The C. A. King & Company v Horton, 116 Oh St 205 (1927) with reference to the police power, the law is stated as follows:
+“Syllabus 3. The ‘police power’ is the power to guard the public morals, safety, and health, and to promote the public convenience and the common good, and is one of the powers not surrendered to the federal government, and therefore remains with the states respectively. It is within the power of the state to devise the means to be employed to those ends so long as they do not go beyond the necessities of the case and have a real and substantial relation to the object to be accomplished.”
+In the case of Ex Parte R. P. Quarg, 149 Cal. 79, (1906), it is said at page 81:
+“The police power is broad in its scope, but it is subject to the just limitation that it extends only to such measures as are reasonable in their application and which tend in some appreciable degree to promote, protect, or preserve the public health, morals, or safety, or the general welfare. The prohibition of air act which the court can clearly see has no tendency to affect, injure, or endanger the public in any of these particulars, and which is entirely innocent in character, is an act beyond the pale of this limitation, and it is therefore not a legitimate exercise of police power.”
+It is deemed unnecessary to cite additional authorities to the: effect that the exercise of the police power, by statute or ordinance, is subject to limitations. There is a limit to the powers which may be exercised by the state. Where others are not materially injured or annoyed by the conduct of a lawful business, an ordinance prohibiting that business.may well be said to infringe upon the rights of property guaranteed by the.constitution and existing in the individual.
+Where a business by_ reason of its inherent character is a nuisance per se, such business may be prohibited by the exercise of the police power with a view to suppressing the same. If, however, it is not a nuisance per se but may become a nuisance by reason of its method or manner of conducting such business, then the police power may be invoked to regulate such business.
+In the case at bar the last clause of that portion of the ordinance above quoted, anc! under which the conviction was obtained, does not attempt to regulate the business as to the location or method of operation, but it in fact expressly prohibits the conduct of a lawful business. It is not a regulatory measure, but a complete prohibition. In so far as this ordinance undertakes to prohibit the slaughtering of chickens in the City of Cleveland Heights for sale, we think that it is an unreasonable exercise of the police power and is unconstitutional.
+Accordingly the judgment is hereby reversed, the conviction set aside and the defendant discharged.
+LIEGHLEY, PJ, and LEVINE, J, concur.
