@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2-91-21"
+decided: "1992-04-17"
+citations: ["79 Ohio App. 3d 268"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Evans and Thomas F. Bryant, JJ., concur."]
+parties: ["In re DUNN et al."]
+source_url: "https://static.case.law/ohio-app-3d/79/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1670930
+cites_cases: ["1988 WL 126768", "3 OBR 240", "3 Ohio App.3d 210", "346 N.E.2d 286", "369 N.E.2d 1047", "444 N.E.2d 431", "46 Ohio St.2d 83", "49 Ohio St.3d 93", "52 Ohio St.2d 89", "551 N.E.2d 172", "6 O.O.3d 293", "75 O.O.2d 156"]
+---
+
+# In re Dunn
+
+## Majority (Hadley, Presiding Judge.)
+
+Hadley, Presiding Judge.
+Appellant, Roxanne (Dunn) Wyman (“Roxanne”), appeals from the judgment of the Auglaize Court of Common Pleas, Juvenile Division, which awarded custody of appellant’s two minor children to appellee, Tanya J. Dunn (“Tanya”).
+Roxanne married Larry Dunn (“Larry”) in March 1973 and they had two children, Averil in 1973 and Andrea in 1977. In December 1981 Roxanne left Larry and their two children and moved in with Tim Wyman. In 1984, Larry was granted a divorce from Roxanne in the Van Wert County Common Pleas Court. This court also awarded custody of Larry and Roxanne’s children to Larry, with liberal visitation rights to Roxanne. Roxanne was ordered to pay child support in the amount of $25 a week. Subsequently, Roxanne married Tim and Larry married Tanya. Roxanne continued to visit regularly with her children, but did not provide any support for them.
+Larry unexpectedly died in February 1991. The present action was thereafter commenced by Tanya, first seeking an order for temporary custody and, then, a complaint to determine permanent custody. A trial on the merits was held in July 1991, wherein psychological examinations of the children were presented and the juvenile judge interviewed both children in chambers. On August 27, 1991, the court rendered its decision and on September 23, 1991, Tanya was awarded custody of Averil and Andrea. It is from this decision and judgment that Roxanne appeals, asserting the following assignment of error:
+Assignment of Error
+“Whether statutory and case law in Ohio supports an award of custody to a non-parent and non-relative when the Court has specifically found that the surviving parent seeking custody is suitable to have custody but then determines that custody to a non-parent/non-relative is in the best interest of the children.”
+We will first address the parties’ dispute over the applicability of R.C. 3109.06 and 3109.04. R.C. 3109.06 provides for certification to another court in cases regarding the allocation of parental rights and responsibilities. It also provides that the court which has already issued an order regarding such parental rights and responsibilities does not lose jurisdiction upon the death of the custodial parent. That court retains jurisdiction to resolve the case in the best interest of the child. The test of best interest of the child stated in R.C. 3109.06 refers to the court that has already issued an order allocating parental rights and responsibilities. In the present action, the Van Wert Court of Common Pleas had already issued such an order regarding the Dunn children. Therefore, that paragraph of R.C. 3109.06 has no application to the present action because this case was certified by the Van Wert court to the Auglaize court. Rather, it is unequivocal that the standards set forth in R.C. 3109.04 must be followed, as R.C. 3109.06 dictates:
+“Any disposition made pursuant to this section, whether by a juvenile court after a case is certified to it, or by any court upon the death of a person awarded custody of a child, shall be made in accordance with section 3109.04 of the Revised Code.”
+Therefore, when a court undertakes the allocation of parental rights and responsibilities, it must follow R.C. 3109.04. Relevant to the present action is R.C. 3109.04(D)(2) which states:
+“If the court finds, with respect to any child under eighteen years of age, that it is in the best interest of the child for neither parent to be designated the residential parent and legal custodian of the child, it may commit the child to a relative of the child * * *.”
+This language has been interpreted by the Ohio Supreme Court. First, in Boyer v. Boyer (1976), 46 Ohio St.2d 83, 75 O.O.2d 156, 346 N.E.2d 286, the Supreme Court had the opportunity to interpret the language of R.C. 3109.04 as amended in 1975. Therein, the court applied only a best-interest test to a custody dispute between a parent and a nonparent. The following year, the Supreme Court modified its ruling in Boyer in In re Perales (1977), 52 Ohio St.2d 89, 6 O.O.3d 293, 369 N.E.2d 1047. Although Perales involved a custody dispute under R.C. 2151.23, instead of a dispute under R.C. 3109.04, the Perales court’s reasoning has been applied to the latter. E.g., Thrasher v. Thrasher (1981), 3 Ohio App.3d 210, 213, 3 OBR 240, 242, 444 N.E.2d 431, 434; In re Zeedyk (Nov. 30, 1988), Defiance App. No. 4-87-5, unreported, 1988 WL 126768.
+The Perales decision involved a dispute between a parent and a nonparent, and modified the construction of R.C. 3109.04 by combining the best-interest test and the prior-suitability test. Thrasher, supra, and Zeedyk, supra. Perales, at the syllabus, stated:
+“In an R.C. 2151.23(A)(2) child custody proceeding between a parent and a nonparent, the hearing officer may not award custody to the nonparent without first making a finding of parental unsuitability — that is, without first determining that a preponderance of the evidence shows that the parent abandoned the child, that the parent contractually relinquished custody of the child, that the parent has become totally incapable of supporting or caring for the child, or that an award of custody to the parent would be detrimental to the child.”
+Thus, suitability of the parent must first be determined. However, if the unsuitability is based on detriment to the child, courts must measure suitability in terms of the harmful effect on the child, not in terms of society’s judgment of the parent. Id., 52 Ohio St.2d at 98, 6 O.O.3d at 297, 369 N.E.2d at 1052.
+The above recitation of the law governing custody disputes between a parent and a nonparent indicates that the trial court erred as a matter of law in its decision that Boyer is the only applicable law in this case. To the contrary, the subsequent Supreme Court case of In re Perales and cases citing it control in the present action.
+Although we find that the juvenile court erred as a matter of law in application of the facts as enunciated by the juvenile court in its decision and order, we find that under the Perales test, the juvenile court correctly awarded custody to appellee and, therefore, affirm the judgment of the juvenile court.
+“[A] reviewing court is not authorized to reverse a correct judgment merely because erroneous reasons were assigned as the basis thereof.” Joyce v. Gen. Motors Corp. (1990), 49 Ohio St.3d 93, 96, 551 N.E.2d 172, 174.
+A review of the evidence as stated in the trial court’s decision dated August 27, 1991 indicates that there was a preponderance of evidence that it would be detrimental to the children to award custody to Roxanne. First, the court, as the factfinder at the trial, concluded that although Roxanne and Tim were very involved in the lives of Averil and Andrea, the two children would never accept Roxanne as their mother. Also, the court found that the evidence indicated that if the children were removed from Waynesfield (Tanya’s residence), it would have a “devastating” and “detrimental” effect on the emotional stability of each child. The factfinder also indicated that the children have become integrated in the Waynesfield community. From a personal interview with the children, the factfinder found that Andrea considers Tanya to be her mother and does not view Roxanne and Tim as parental figures.
+Therefore, based on the above, we find that the juvenile court could find by a preponderance of the evidence that Roxanne was unsuitable, in terms of the detrimental effect on the child, not in terms of society’s judgment of Roxanne, and the court properly awarded custody to Tanya.
+For the above stated reasons, the assignment of error is overruled. The judgment of the trial court is affirmed.
+Judgment affirmed.
+Evans and Thomas F. Bryant, JJ., concur.
+. The Auglaize Court of Common Pleas, Juvenile Division, obtained jurisdiction over this action pursuant to R.C. 3109.06, upon the Van Wert Court of Common Pleas’ certification of the case by its order of March 15, 1991.
+. Prior language indicated that the test was one of suitability of the parent.
