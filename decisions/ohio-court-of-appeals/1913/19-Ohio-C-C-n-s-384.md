@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1913-05"
+citations: ["19 Ohio C.C. (n.s.) 384"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Metcalfe, J.; Norris, J., and Pollock, J., concur."]
+parties: ["Edward J. Bickerstaff v. William Hingsley and Edward Bertell."]
+source_url: "https://static.case.law/ohio-cc-ns/19/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1820180
+cites_cases: ["42 O. S., 633", "9 Am. St. Rep. 413"]
+---
+
+# Bickerstaff v. Hingsley
+
+## Majority
+
+Plaintiff in error was plaintiff below. A demurrer was filed to the plaintiff’s petition in the common pleas court. The demurrer was sustained by that court and the plaintiff not desiring to plead further judgment was rendered against him on the pleadings. The petition avers, in substance, that in an action in which the plaintiff herein was defendant, an injunction was issued against him prohibiting him from trespassing upon a certain coal mine; that he was arrested upon an order issued in a contempt proceeding for a violation of said order of injunction, and that upon a hearing of such charges in contempt both of the defendants testified that at certain times they had seen him upon the premises doing acts which were in violation of the order of the court. He avers that such testimony was false, and that by reason of such false testimony judgment was rendered against him in the contempt proceeding and he was thereby greatly injured.
+The only question presented by the • demurrer in this ease is whether statements pertinent to the issue on trial made by witnesses called upon to testify in a judicial proceeding are privileged, or if a witness having testified to a fact which is pertinent to the issue can be subjected to an action for damages on the ground that such testimony is false. It can readily be seen that if an action can be maintained against witnesses on account of pertinent statements made by them upon the trial of causes in court how very much the administration of justice would be hampered, and what a drag there would be upon the testimony of witnesses. If the rule prevailed that when a witness testifies in good faith in the ordinary course of justice, as they are reqxúred to do, that if they testified against the interest of one of. the parties they could be subjected to an action for damages, how loath they would be to testify at all, and wh,at a great temptation there might be in many cases to obscure or avoid the truth altogether. An examination of the law upon this subject leads us to the conclusion that the rule is an inflexible one that witnesses who testify to pertinent facts can not be subjected to a civil action even though it be alleged that-such testimony is false.
+Tn the case of Liles v. Gaster, 42 O. S., 633, it is held that such action can not be maintained. In the opinion on page 635 it is said:
+“The general rule is that language used in the ordinary course of judicial proceedings, whether by the judge, a party, counsel, jurors or witnesses is protected if it be relevant to the matter under consideration, and the court have jurisdiction, the privilege accorded to a witness under such circumstances is founded upon public policy. The due administration of justice requires that a witness should be perfectly free to speak according to his belief without regard to consequences. He is sworn to tell the truth, the whole truth, and nothing but the truth concerning the matter in trial. While doing so in good faith he is absolutely privileged, and can not be found guilty of perjury nor is he liable to a civil action; thus far all the authorities agree.”
+The question is ably and thoroughly discussed is the case of Hunckle v. Voneiff, 69 Maryland, 169, also reported in 9 Am. St. Rep. 413. I quote from the opinion on page 414, 9 Am. St.:
+“The case now before us is not that of an advocate, but of a witness, and in our opinion it is of the greatest importance to the administration of justice that witnesses would go upon the stand with their minds absolutely free from .apprehension that they may subject themselves to an action for slander for what they may say while giving their testimony.”
+And again on page 415, after citing ,a number of cases he says:
+“Willes, Coleridge, Cockburn, Blackburn, Kelley, Creswell, Lord Cairns, and other eminent jurists have again and again expressed the opinion that the privilege of a witness should be absolute, have pointed out the great benefit of such privilege to the administration of justice, and have deprecated in strong terms the evil consequences tl:ey thought would ensue if witnesses were placed under any intimidation or the fear of being involved in litigation by reason of what they might say when under examination.”
+This case holds that a party who utters slanderous words of another while upon the witness stand was not liable to an action for damages for those words. In the note on page 421, quoting from the case of Henderson v. Broomhead, 4 Hurl. & N., 577, it is said: “The rule is inflexible that no action will lie for words spoken or written in the course of giving evidence.” The note in this case in 9 Am. St., supra, contains a very able exposition of the doctrine, and see also 22 Am. & Eng. Ency. of L., 698 (second edition).
+It was said in argument that if a judgment be procured by false testimony, if the party can have no redress against the offending witness by way of ,an action for damages that he is without remedy at law, but this is not so. Under the statutes of Ohio, if it be afterwards found that the judgment has been procured in whole or in part by false testimony, and the party giving the false testimony has been convicted of perjury, the judgment may be set aside on the application of the party aggrieved, and an action can be sustained for that purpose. G-enerál Code, Section 11681.
+We think the judgment of the court below was right and the same is affirmed.
