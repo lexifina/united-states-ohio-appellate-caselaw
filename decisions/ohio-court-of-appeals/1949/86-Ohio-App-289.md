@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "21660"
+decided: "1949-09-26"
+citations: ["86 Ohio App. 289"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Skegl, P. J., and Hurd, J., concur."]
+parties: ["In re Lonardo et al."]
+source_url: "https://static.case.law/ohio-app/86/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1398137
+cites_cases: ["173 N. E., 8", "340 Ill., 464", "72 A. L. R., 798"]
+---
+
+# In re Lonardo
+
+## Majority (McNamee, J.)
+
+McNamee, J.
+Petitioners invoke this proceeding for the purpose of being admitted to reasonable bail. They are now confined to jail in default of bail fixed by the Municipal Court of Cleveland, in the sum of $75,000 as to each petitioner. Each of the petitioners, is charged with being a suspicious person in violation of the ordinances of the city of Cleveland. The maximum penalty for conviction upon this charge is a fine of $50 and imprisonment for 30 days.
+The petitioners previously were convicted of serious crimes. The assistant prosecuting attorney represents that petitioners are members of an organized band of lawbreakers currently under investigation by the public authorities, and that their release on bail at this time would constitute a menace to the peace and safety of this community. Also, it is stated that at an early date the prosecuting attorney proposes to present evidence to the grand jury which may result in charges of serious violations of the criminal law against these petitioners.
+The petitioners’ bad reputations as evidenced by their criminal records and the representations as to their dangerous and lawless proclivities are factors that enlist the sympathetic understanding of this court in the effort of the law enforcement agencies to keep the petitioners confined in jail. We are aware of the difficulties encountered by public officials in the investigation of crime and prosecution of offenders. Also, we recognize the worthy motives that impel conscientious law enforcement officers to ask for high bail on minor charges against persons suspected of committing major crimes. But such considerations must yield to the imperious voice of the Constitution which the courts are sworn to support.
+Section 9, Article I of the Constitution of Ohio, and the Eighth Amendment to the Constitution of the United States provide that “excessive bail'shall not be required.” The provision of the Ohio Constitution reads:
+“All persons shall be bailable by sufficient sureties, except for capital offenses where the proof is evident, or the presumption great. Excessive bail shall not be required; nor excessive fines imposed; nor cruel and unusual punishments inflicted.”
+From these constitutional provisions there is derived the general principle governing the allowance of bail that the amount thereof shall he reasonable. The primary purpose of bail is to secure the appearance of the accused at the trial, hut in determining the amount of bail, the following factors, among others, may be considered: The nature of the offense, the penalty upon conviction thereof, the character and reputation of the accused, and the probability of his appearance for trial.
+In the leading case of People, ex rel. Sammons, v. Snow, Bailiff, 340 Ill., 464, 173 N. E., 8, 72 A. L. R., 798, the petitioner was charged with vagrancy. The maximum penalty upon conviction of that charge was imprisonment at hard labor for six months or a fine of $100. It appeared that the petitioner in that case had a long criminal record. In 1900 he was sentenced to the Pontiac reformatory for rape and subsequently paroled, in 1904 he was sentenced to the Joliet penitentiary for robbery, on May 28, 1904, he was taken from the penitentiary, was tried and convicted of murder and sentenced to be hanged on June 17, 1904, but was reprieved on June 16, and his sentence commuted to life imprisonment. On June 10, 1917, he escaped, hut on October 4, 1917, he was returned from his escape. On July 28,1923, he was paroled and was discharged on January 28, 1926. On August 12, 1927, he was sentenced to the federal penitentiary at Leavonworth and fined $1,500 for conspiracy against the laws of the United States. At the time of the vagrancy charge there was also pending against him three indictments for assault with intent to murder, driving while intoxicated and carrying concealed weapons. In reducing the hail on the charge of vagrancy from $50,000 to $5,000, Chief Justice Dunn, speaking for. the Supreme Court of Illinois, said:
+“The constitutional right to be admitted to reasonable bail cannot be disregarded. The judge has no more right to disregard and violate the Constitution than the criminal has to violate the law. It. is the duty of courts to support and maintain the Constitution, and if the judges, who have taken an oath to support the Constitution, openly violate it, how can they expect the courts to retain the confidence and respect of the people? A criminal may have forfeited his right to liberty, but neither courts nor any other power have the right to deprive him of it except in accordance with the law of the land. Under the circumstances of this case, in which the extreme penalty is imprisonment at hard labor for six months or a fine of $100, the action of the court in requiring $50,000 bail was unreasonable and violated the constitutional right of the petitioner to be bailed by sufficient sureties.”
+The foregoing pronouncements have a peculiar and forceful application here, where a conviction on the charge of being a suspicious person carries with it a lesser maximum penalty than the charge of vagrancy in Illinois.
+It is a matter of common knowledge that ordinarily, on the charge of being a suspicious person, bail is fixed in a small amount. Departure from this customary practice is warranted in cases where the accused is a person of criminal propensities as evidenced by repeated convictions for the commission of crime. But where the accused is charged with a violation of a city ordinance constituting a misdemeanor, he cannot be required to give bail in an amount proportioned to other and more serious charges which subsequently may or may not be made against him. If, by adhering to the constitutional mandate, as we must, an advantage accrues to those who deserve it least, such a result is to be deployed. But greater potentialities for enduring harm ,ie in an evasion of judicial duty which would impair the integrity of one of the fundamental guaranties oí liberty contained in the Bill of Rights.
+It is our (pinion that bail in the sum of $75,000 on the charge <f being a suspicious person is grossly disproportionite and excessive and ought to be reduced. In view of che records of criminality of the petitioners, we deem tae sum of $15,000 to be reasonable and adequate bail
+The petitioners are discharged from custody upon each of ¿hem furnishing bail in the sum of $15,000.
+Judgment accordingly.
+Skegl, P. J., and Hurd, J., concur.
