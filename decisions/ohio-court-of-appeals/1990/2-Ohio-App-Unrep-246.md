@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. CA-7901"
+decided: "1990-03-05"
+citations: ["2 Ohio App. Unrep. 246"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PUTMAN, P. J. and SMART, J. Concur."]
+parties: ["Minerva v. Zeidrich"]
+source_url: "https://static.case.law/ohio-app-unrep/2/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1610601
+cites_cases: ["384 U. S. 757", "50 Ohio St. 2d 103"]
+---
+
+# Minerva v. Zeidrich
+
+## Majority (GWIN, J.)
+
+GWIN, J.
+Defendant-appellant Joseph Zeidrich (appellant) appeals from the judgment and sentence entered by the Alliance Municipal Court after finding appellant guilty on a "no contest" plea to the charge of Driving Under the Influence of Alcohol/Drugs in violation of the Village of Minerva Ordinance 333.01(aX3). Appellant now seeks our review and raises the following assignments of error:
+ASSIGNMENT OF ERROR I
+THE TRIAL COURT ERRED IN FAILING TO SUPPRESS ANY AND ALL EVIDENCE OBTAINED BY THE VILLAGE OF MINERVA FOLLOWING THE TAKING OF DEFENDANT-APPELLANT INTO CUSTODY.
+ASSIGNMENT OF ERROR NO. II
+THE TRIAL COURT ERRED IN FAILING TO DISMISS THE CASE AGAINST THE DEFENDANT AS THE RESULT OF THE VILLAGE OF MINERVA'S FAILURE TO PROVIDE THE DEFENDANT A SPEEDY TRIAL AS GUARANTEED BY THE OHIO REVISED CODE.
+I
+We overrule appellant's first assignment of error for the reason that none of the evidence obtained against appellant prior to being Mirandized was testimonial or communicative in nature. The Fifth Amendment privilege against self-incrimination ". . .protects an accused only from being compelled to testify against himself, or otherwise provide the State with evidence of a testimonial or communicative nature. . ." Schmerber v. California (1966), 384 U. S. 757, 16 L.ed. 2d 908, 914.
+II
+In his second assignment, appellant claims that his right to a speedy trial as guaranteed by R. C. 2945.71(B)(2) was violated. We agree.
+Appellant was initially charged on June 24, 1988. Although the Uniform Traffic Citation indicated that appellant was to appear before the Minerva Mayor's Court on June 27, appellant did not so appear until September 12, 1988, at which time he pled not guilty. Appellant's case was then "bound over" to the Alliance Municipal Court and trial was scheduled for November 30, 1988, some one hundred and fifty-nine days following appellant's arrest.
+Revised Code 2945.71(B)(2) provides:
+"(B)A person against whom a charge of misdemeanor, other than a minor misdemeanor, is pending in a court of record, shall be brought to trial:
+•»* * *
+"(2) Within ninety days after his arrest or the service of summons, if the offense charged is a misdemeanor of the first or second degree, or other misdemeanor for which the maximum penalty is imprisonment for more than sixty days."
+It is the State's burden to bring an accused to trial within the statutory period. State v. Singer (1977), 50 Ohio St. 2d 103, 106. The statutory period may be extended, but only as provided by R. C. 2945.72. Relying on this Section, the Village asserts that appellant's own actions caused the delay and tolled the statutory period. In support, the Village points out that appellant did not initially appear until September 12, 1988, seventy-five days after appellant was summoned to appear on June 27, 1988. Although the record indicates that appellant did appear on September 12, there is nothing that affirmatively demonstrates that appellant caused the delay between June 27th and September 12th.
+Furthermore, there is no judgment entry stating that the one-hundred-and-fifty-nine-day gap between appellant's arrest and the scheduled trial date of November 30, was the result of appellant's actions or was the product of a "reasonable continuance granted other than upon the accused's own motion." R. C. 2945.72(H). Therefore, we are unwilling to charge the delay to appellant when the record is silent as to the cause of delay and it is the State's burden to bring the accused to trial within the statutory period.
+Additionally, the Village asserts that appellant's November 15th motion seeking a continuance of the November 30th trial extended the statutory period. Even if we were to charge these fifteen days to appellant (November 15, through November 30), the original trial date was set well beyond the time limits of R. C. 2945.71.
+Accordingly, appellant's second assignment of error is well-taken.
+For the foregoing reasons, the judgment of the Alliance Municipal Court is hereby reversed.
+Judgment reversed.
+PUTMAN, P. J. and SMART, J. Concur.
+On. June 7, 1989, appellant moved the trial court to dismiss because his right to a speedy trial was violated and the trial court summarily overruled the same. The next day, appellant changed his "not guilty" plea to "no contest" and the trial court found appellant guilty of the charged offense.
