@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "15658"
+decided: "1993-02-03"
+citations: ["86 Ohio App. 3d 204"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baird, P.J., concurs.", "Quillin, J., dissents."]
+parties: ["MACIOR, Appellant, v. LIMBACH, Tax Commr., Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/86/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1692090
+cites_cases: ["11 O.O.3d 70", "1974 WL 2686", "1981 WL 11359", "1983 WL 14029", "1984 WL 14501", "251 U.S. 342", "281 U.S. 111", "385 N.E.2d 291", "45 T.C.M. (CCH) 584", "48 T.C.M. (CCH) 91", "57 Ohio St.2d 5", "62 T.C. 131", "720 F.2d 664", "74 L.Ed. 731", "758 F.2d 653", "76 T.C. 468", "780 F.2d 1005", "881 F.2d 247"]
+---
+
+# Macior v. Limbach
+
+## Majority (Cook, Judge.)
+
+Cook, Judge.
+Appellant Lazarus W. Macior (“Macior”) appeals from the decision of the Ohio Board of Tax Appeals (“BTA”) affirming an order of the Tax Commissioner which denied Macior’s claim for refund of state taxes. We reverse.
+In the 1950’s, Macior took vows of poverty and obedience and became a Catholic priest and a member of the Order of Friars Minor, Franciscan Friars (“Franciscan Friars” or “Friars”). The Franciscan Friars are associated with the Roman Catholic Church, a tax-exempt organization. In 1967, Macior, who has a Ph.D. in biology, took a position with the University of Akron as a professor in the biology department.
+The salary from Macior’s teaching position was paid by check to Macior individually. The money was deposited into a savings account bearing Macior’s name. In a 1978 case the Federal Tax Court determined that income from the university and interest income from the bank account was taxable to Macior. Macior v. Commr. (1984), 48 T.C.M. (CCH) 91, 1984 WL 14501. That decision was affirmed by the Sixth Circuit Court of Appeals. Macior v. Commr. (C.A.6, 1985), 758 F.2d 653.
+Following the 1978 audit the name on the savings account was changed to “Franciscan Friars, Lazarus W. Macior (Agent).” In April 1988, the Tax Commissioner of Ohio, as prescribed by R.C. 5747.01 and 5747.02, claimed income taxes due for the years 1982 through 1985, using Macior’s Federal Adjusted Gross Income (“FAGI”) as the tax base. The income taxed was wages and interest income. The Friars paid the taxes on Macior’s behalf. Macior filed an application for refund, which was denied. Macior appealed to the BTA, which upheld the Tax Commissioner’s order. He then appealed to this court pursuant to R.C. 5717.04. Macior appeals only from the determination that the interest income from the savings account is taxable to him.
+Assignment of Error I
+“The finding that interest on a certain savings account of the Order of Friars Minor (Franciscan Friars) was income to appellant is against the manifest weight of the evidence and contrary to law.”
+Macior argues that the interest income from the savings account is not attributable to him because he was only acting as an agent of the Friars and the account was in the name of the Friars. He argues that pursuant to his vow of poverty he cannot be the owner of such an account.
+The standard of review that we must apply in this case is whether the decision of the BTA was reasonable and lawful, R.C. 5717.04.
+“ ‘A member of a religious order under a vow of poverty is not immune from Federal income tax by reason of his clerical status or his vow of poverty, but is subject to tax to the same extent as any other person on income earned or received in his individual capacity.’ ” Ocejo v. Commr. (1983), 45 T.C.M. (CCH) 584, 586, 1983 WL 14029, quoting McGahen v. Commr. (1981), 76 T.C. 468, 478, 1981 WL 11359, affirmed (C.A.3, 1983), 720 F.2d 664, citing Kelly v. Commr. (1974), 62 T.C. 131, 1974 WL 2686. When an agent receives income for a principal, it is the income of the principal and not the agent. Maryland Cas. Co. v. United States (1920), 251 U.S. 342, 347, 40 S.Ct. 155, 157, 64 L.Ed. 297, 301. However, where there actually is no agency relationship, it is a basic rule of tax law that a taxpayer’s assignment of income to another is ineffectual to relieve him of income tax liability. Lucas v. Earl (1930), 281 U.S. 111, 114-115, 50 S.Ct. 241, 74 L.Ed. 731, 733.
+The BTA determined that the interest on the savings account was income to Macior individually and not as an agent of the Friars. The BTA based this determination on the following: (1) Macior pays his living expenses from the account; (2) he makes withdrawals from the account, although he submits a monthly financial statement to his supervisor; (3) he is self-supporting; and (4) he lives in a single family home, because there is no friary in the area. These factors may correctly support the BTA determination that Macior’s salary is income to him. That determination is not appealed here. We do not find these factors dispositive of the determination of whether Macior should pay tax on the interest earned on the savings account in the name of the Friars.
+The BTA implies that the economic realities of the account are that Macior, and not the Order of Friars, was the principal. In Humana, Inc. v. Commr. (C.A.6, 1989), 881 F.2d 247, the Sixth Circuit Court of Appeals explained that the “economic realities” principle is not a broad legal doctrine designed to distinguish between legitimate and illegitimate transactions and employed at the tax court’s discretion when it feels a taxpayer is taking advantage of the tax laws. “In general, * * * a court cannot disregard a transaction in the name of economic reality * * * absent a finding of sham * * Id. at 255. In this case the BTA made no finding that this was a sham transaction. Furthermore, Macior argues that he changed the ownership of the account to properly reflect that it belonged to the Friars following the first tax audit. The interest earned therefrom thus belongs to the Friars unless it is a sham.
+There is no supportable reason to distinguish this account arrangement from the typical corporate or trust account. Because a corporate officer can make withdrawals does not justify charging that person with the interest earned on the account. Here the BTA unreasonably justified disregarding the ownership by the Friars based on the former ownership of the account in 1978 and the manner in which this priest lived. In that Macior proved he was a priest, and the Order verified both his vows and its ownership of the account, the BTA did not have reliable, probative evidence to disregard ownership of the account by the Friars.
+The BTA relied on the analysis set out in Fogarty v. United States (Fed.Cir. 1986), 780 F.2d 1005. Fogarty involved earned income, not interest income, and we find that case distinguishable. In fact, that case supports appellant’s position in that the court noted that payroll checks deposited into accounts in the name of the Order, over which Father Fogarty and the Order’s treasurer had control, were not Father Fogarty’s to keep. Based on his vow of poverty he had no right to receive or dispose of the money for his own benefit. Id. at 1007.
+Although the commissioner argues that Macior is foreclosed from raising this issue because he failed to contest federal taxation of the same income, she offers no dispositive authority for her position. The commissioner’s reliance on Dery v. Lindley (1979), 57 Ohio St.2d 5, 11 O.O.3d 70, 385 N.E.2d 291, is misplaced. That case, along with R.C. 5747.01(A), requires the state to follow the federal adjusted gross income “yardstick” as to what is included in Ohio adjusted gross income. Dery, supra, at 8, 11 O.O.3d at 71, 385 N.E.2d at 292. It does not require the state to follow the federal determination of to whom the income is attributed.
+We find the BTA’s determination that the interest income is taxable to Macior unreasonable. R.C. 5717.04. Macior’s first assignment of error is well taken.
+Assignment of Error II
+“The finding that interest on a certain savings account of the Order of Friars Minor (Franciscan Friars) was income to Appellant is violative of Appellant’s rights under the First and Fourteenth Amendments of the United States Constitution and Article I, Section 7, of the Ohio Constitution.”
+Based on our disposition of the first assignment of error, the second assignment of error is moot.
+The decision of the BTA is reversed as to the taxation of the interest income from the savings account and the cause is remanded to the BTA for further proceedings according to law and consistent with this opinion.
+Judgment accordingly.
+Baird, P.J., concurs.
+Quillin, J., dissents.
+. The Internal Revenue Service assessed taxes for the interest income to Macior for the years in question. Macior did not dispute that assessment.
