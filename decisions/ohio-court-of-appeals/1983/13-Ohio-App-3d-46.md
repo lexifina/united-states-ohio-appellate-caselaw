@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "46342"
+decided: "1983-11-07"
+citations: ["13 Ohio App. 3d 46"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wise, J., concurs.", "Stillman, J., dissents.", "Grey, J., of the Fourth Appellate ' District, sitting by assignment in the Eighth Appellate District."]
+parties: ["South Euclid Fraternal Order of Police, Lodge 80, Appellant, et al., v. D’Amico, Mayor, et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/13/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707179
+cites_cases: ["17 O.O.3d 19", "17 Ohio Misc. 245", "46 O.O.2d 325", "53 O.O. 132", "53 Ohio App. 2d 281", "6 Ohio St. 3d 268", "63 Ohio St. 2d 31", "7 O.O.3d 334", "95 Ohio App. 197"]
+---
+
+# South Euclid Fraternal Order of Police v. D'Amico
+
+## Majority (Grey, P.J.)
+
+Grey, P.J.
+This is an appeal from the Cuyahoga County Court of Common Pleas. The city of South Euclid passed an ordinance which provided limits on the use of sick leave by city employees.
+Appellant, the South Euclid Fraternal Order of Police, Lodge 80 (“F.O.P.”) brought an action for a declaratory judgment seeking to have the ordinance declared unconstitutional. The F.O.P. was granted summary judgment and the city of South Euclid, appellee herein, appealed. This court held summary judgment was improper, and the case was remanded for trial. After the trial, the court entered a judgment for the city, and the F.O.P. now appeals, designating two assignments of error which shall be treated jointly.
+“I. The trial court on remand erred in concluding that Ordinance 49-80 is constitutional. Ordinance 49-80 is unconstitutional and invalid because it retroactively affects or impairs vested rights and is vague and overly broad on its face and in its application.
+“II. The trial court on remand committed reversible error by following a more restrictive local municipal law on the issue of sick leave for firemen. The issue of regulating sick leave for firemen is of state wide concern and state laws governing sick leave must supersede more restrictive municipal ordinances; and the Revised Code applies when no municipal ordinance exists.”
+The F.O.P.’s position is that R.C. 124.38 has uniform application throughout the state and that a city, even a charter city, may not enact an ordinance which limits or restricts the effort of R.C. 124.38. The F.O.P. also argues that the ordinance here violates appellant’s rights because accumulated sick time is a vested right which may be used for any purpose permissible under R.C. 124.38, and since the ordinance limits that use it is a diminution of those vested rights.
+The city’s position is that the ordinance is necessary to protect against sick leave abuses and that it has “granted” sick leave benefits to employees for injuries or illnesses resulting from the performance of their duties off the job but only while the employee is in the sole employ of the city. Sick leave has not been “granted” for injuries or illnesses incurred in outside employment.
+The city’s use of the word “grant” capsulizes the issue here. If the right to use sick leave is a vested right, the city’s power to grant or deny it must be limited. A vested right exists, and cannot depend on the power of another to grant or deny it.
+R.C. 124.38 creates vested rights in sick leave. In Ebert v. Bd. of Mental Retardation (1980), 63 Ohio St. 2d 31 [17 O.O.3d 19], the Ohio Supreme Court held, at page 32:
+“* * * R.C. 124.38 neither establishes nor limits the power of a political subdivision. Rather, it ensures that the employees of such offices will receive at least a minimum sick leave benefit or entitlement.’’ (Emphasis sic.)
+“The sick leave credits once earned become a vested right of plaintiffs. Such accrued credits could not be retroactively revoked.” Id. at 34.
+See, also, State, ex rel. Randel, v. Scott (1952), 95 Ohio App. 197 [53 O.O. 132].
+In Ebert the board had been crediting its employees with more sick leave per pay period than the law allowed. When informed of this by the State Auditor, the board of mental retardation recomputed the sick leave and deducted the amounts previously credited. While not directly on point, Ebert does clearly establish the concept of sick leave benefits as vested rights. But may an employee be restricted in the use of those vested rights? We think not.
+The case of Birkbeck v. Bd. of Edn. (C.P. 1969), 17 Ohio Misc. 245 [46 O.O.2d 325] is informative. Although Birkbeck is a common pleas court decision and we as an appellate court are not bound by it as precedent, we are nonetheless as rational men bound by the logic of it as if it were. Mrs. Birkbeck, a nonteaching school board employee, had accumulated over ninety days’ sick leave. On October 21, 1966 her husband, who had suffered a severe heart attack, came home from the hospital. Mrs. Birkbeck remained off the job tending to her husband until he died on December 3. Since the school board had a policy of allowing a maximum of three days’ sick leave for illness or death in the immediate family, the board would allow Mrs. Birkbeck only three days. She sued and the court found at pages 249-250 in construing R.C. 143.29 (the virtually identical predecessor of R.C. 124.38) as follows:
+“Use of the word ‘may’ following the word ‘employees’ in the second sentence, ‘Employees may use sick leave, * * *’ indicates legislative intent to give employees, entitled thereto, the option to use sick leave, rather than the employing unit the right to grant sick leave.” (Emphasis added.)
+Birkbeck points out the dispositive idea. The employing unit does not “grant” sick leave; the employee earns it and accumulates it as a vested right. He may, at his option, use that vested right to sick leave for any purpose listed in the statute.
+This vested right is not unlimited. It may be used only for those purposes stated in the statute, i.e., illness, pregnancy, injury, exposure to a contagious disease, or death, injury or illness in the family. These categories are quite specific and may not be expanded. See, e.g., 1981 Ohio Atty. Gen. Ops. No. 81-015, at 2-55, where the Attorney General reasoned, correctly we believe, that when the statute was amended to include “pregnancy” but was not amended to include “pregnancy in the immediate family,” a teacher was not entitled to sick leave to attend to his pregnant wife.
+While the employing unit has the right to grant or deny sick leave, it does have the duty to see to it that sick leave is used only as allowed by law. Harbarger v. Ballard (1977), 53 Ohio App. 2d 281 [7 O.O.3d 334], upheld a city requirement for a physician’s statement to obtain sick leave because it did not affect the employees’ right to sick pay, but was only designed to protect against wrongful or improper claims. See, also, 1969 Ohio Atty. Gen. Ops. No. 69-164, at 2-342.
+The recent case of State, ex rel. Britton, v. Scott (1983), 6 Ohio St. 3d 268 is helpful here. In Britton, employees sought mandamus to compel Ohio State University to pay sick leave once the employees submitted a request citing one of the permissible reasons enumerated in R.C. 124.38. The Ohio Supreme Court rejected the idea that once the request was made, Ohio State University had a duty to pay. The employing unit has the discretion to allow, or disallow, the claim. Having discretion, mandamus will not lie.
+Suppose, however, Ohio State University had found the request was for one of the R.C. 124.38 reasons, but then refused to pay. Would mandamus lie? Clearly it would, because after the factual determination is made by the employing unit that the sick leave is for an R.C. 124.38 reason, there is no discretion to be exercised.
+While the city may set standards for determining when sick leave is properly used, it may not modify, amend or abridge the rights granted in the statute. The city may not, as it did in Ordinance 49-80, prohibit the use of sick leave for injuries incurred in outside employment since R.C. 124.38 permits sick leave for personal illness or injury without restriction. Again, referring to Birkbeck, at page 250:
+“* * * Thus, if this clause were to be interpreted to mean that the employer, at his discretion, may adopt a rule limiting the use of sick leave to absence due to illness or death in the employee’s immediate family, it would follow that the employer could likewise limit such absence due to the employee’s own illness, injury or exposure to contagious disease; a construction that would be completely unrealistic and, certainly, one not intended by the Legislature.”
+Based on the foregoing, we must find that Ordinance 49-80 is unconstitutional on its face. This ordinance contains two major parts, “137.04 SICK LEAVE DEFINED,” and “137.06 JUSTIFICATION AND APPROVAL OF SICK LEAVE.” The first part is clearly unconstitutional since only R.C. 124.38 can define what “sick leave” is. The second part is just as clearly within the power of the city to enadt procedures to see that sick leave is properly used. A court, if it finds only part of a statute unconstitutional, should declare those parts unconstitutional, and leave the rest intact. However, our reading of Ordinance 49-80 shows that the unconstitutional parts are so inextricably tied to the other parts, that to do so would be to render the ordinance a gutted shell. We therefore find Ordinance 49-80 unconstitutional on its face in its entirety.
+Based on the foregoing, assignments of error one and two are well-taken and are sustained. The judgment of the trial court is reversed and this case is remanded to the trial court with the direction to enter final judgment in favor of appellant South Euclid Fraternal Order of Police, Lodge 80.
+Judgment reversed and came remanded.
+Wise, J., concurs.
+Stillman, J., dissents.
+Grey, J., of the Fourth Appellate ' District, sitting by assignment in the Eighth Appellate District.
+Wise, J., of the Fifth Appellate District, sitting by assignment in the Eighth Appellate District.
+Stillman, J., retired, of the Eighth Appellate District, was assigned to active duty under authority of Section 6(C), Article IV, Constitution.
+The ordinance in question here has a similar provision.
