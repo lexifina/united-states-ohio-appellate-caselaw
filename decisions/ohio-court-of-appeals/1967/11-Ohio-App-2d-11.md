@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+docket: "698"
+decided: "1967-06-21"
+citations: ["11 Ohio App. 2d 11"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MiddletoN and YouNGER, JJ., concur."]
+parties: ["P & P Taverns, Inc., d. b. a. Party Bar, Appellant, v. State of Ohio et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/11/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713525
+cites_cases: ["130 Ohio St. 23", "142 Ohio St. 534", "4 Ohio St. 2d 31"]
+---
+
+# P & P Taverns, Inc. v. State
+
+## Majority (QuerNsey, P. J.)
+
+QuerNsey, P. J.
+This is an appeal by a permit holder from a judgment of the Common Pleas Court of Hancock County affirming an order of the Liquor Control Commission suspending appellant’s liquor permits for a period of 14 days. The transcript of the proceedings before the commission shows that its order was entered on a charge that one William Johns, an agent of the permit holder, “was convicted * * * for violating in and upon the permit premises Section 4301.22 (A), sale to a minor, * * * in violation of the provisions of the Liquor Control Act,” and a stipulation by and between counsel that Johns was so convicted. There was no other evidence in the transcript of proceedings before the commission, and no additional evidence was permitted to he introduced upon the appeal to Common Pleas Court.
+Appellant’s first and second assignments of error, that the commission’s order is against the manifest weight of the evidence and is contrary to law, are based upon allegations wMch are not portrayed by the record. The transcript of the proceedings before the commission does not show what transpired “off the record,” and this court cannot determine whether any competent evidence was excluded by the commission from its consideration. The evidence proffered by the permit holder to the Common Pleas Court was acknowledged by its attorney not to be newly discovered and was properly excluded by that court. Section 119.12, Revised Code. The record thus remaining before this court is bare of anytMng to portray appellant’s contentions made under these assignments of error and they are, therefore, without merit.
+In its tMrd assignment of error appellant claims that sub-paragraph (A) of Section 4301.25, Revised Code, which purports to permit the Liquor Control Commission to suspend or revoke any permit “for conviction of the holder or his agent or employee for violating a section of Chapters 4301. and 4303. of the Revised Code or for a felony,” is unconstitutional as denying the appellant the equal protection of the laws. Appellant theorizes that under this provision a permit holder might have Ms permit suspended or revoked by reason of an erroneous conviction of an agent or employee of an offense under the Liquor Control Act, either related or not related to the permit premises, or by reason of the conviction of an agent or employee of a felony, which, in the case of embezzlement, could even be’ an offense committed against the permit holder. It is noted that in each of these situations the permit holder has no right to, and, in fact, may not, conduct or control the defense of the agent or employee to the criminal charge.
+Although the quoted clause of Section 4301.25, Revised Code, has no limiting language, in no event could we be concerned with its constitutionality in its unlimited and general application but could be concerned with its constitutionality only if, and to the extent that, it is directly and necessarily involved in the controversy and essential to the protection of the rights of the appellant. Strongsville v. McPhee, 142 Ohio St. 534, and 16 Corpus Juris Secundum 306, Constitutional Law, Section 94. The limited constitutional issue, if there were one before us, would thus he whether a corporate permit holder is denied equal protection of the laws hy a statute which permits the suspension of its permit for conviction of its agent of a violation, in and upon the permit premises, of Section 4301.22(A), Revised Code, prohibiting certain prescribed sales to minors. In our opinion, however, even this limited constitutional issue is not available to the permit holder.
+Permits to carry on the liquor business issued under the provisions of the Liquor Control Act are mere licenses which may he revoked or suspended as therein provided and create no contract or property right. By reason of the harmful potentialities incident to the conduct of such business, a person who applies for and is issued a permit to sell alcoholic beverages thereby assents to and subjects himself to the provisions of the Liquor Control Act regulating the revocation or suspension of such permit. State, ex rel. Zugravu, v. O’Brien, 130 Ohio St. 23, and Solomon v. Liquor Control Commission, 4 Ohio St. 2d 31. The conduct here charged before the Liquor Control Commission was within the scope of the statutory provision prescribing the revocation or suspension of a liquor permit upon conviction of an agent of the permit holder of a prohibited sale to a minor, which provision may be applied against the permit holder within the sound discretion of the Liquor Control Commission. The permit holder, appellant herein, assented to such discretionary provision when it obtained its permits and is thereby estopped from asserting that the application thereof to suspend its permits denies to it the equal protection of the laws guaranteed by the Constitution. Appellant’s third assignment of error is without merit.
+This court finding no error, the judgment of the Common Pleas Court affirming the order of the Liquor Control Commission is, itself, affirmed.
+Judgment affirmed.
+MiddletoN and YouNGER, JJ., concur.
