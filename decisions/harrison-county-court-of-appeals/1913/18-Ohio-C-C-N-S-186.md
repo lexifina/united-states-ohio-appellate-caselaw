@@ -1,0 +1,53 @@
+---
+court: "Harrison County Court of Appeals"
+decided: "1913-11-26"
+citations: ["18 Ohio C.C. (N.S.) 186"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Norris J.; Metcalfe, J., and Pollock, J., concur."]
+parties: ["Wilber E. Simpson v. George Patton and James Carter."]
+source_url: "https://static.case.law/ohio-cc-ns/18/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1818764
+cites_cases: ["1 Pa., 297", "10 Mass., 290", "21 O. S., 610", "24 Ill., 184", "322 Ill., 420", "36 Conn., 432", "54 O. S., 24", "86 Ill., 283", "9 Mass., 231"]
+---
+
+# Simpson v. Patton
+
+## Majority
+
+This case is in this court by appeal. It was once decided and application made for a rehearing. The plaintiff in his petition seeks to enjoin the collection of a judgment recovered before a justice of the peace. He alleges in substanc, in his second cause of action, that in the year 1907, one Samuel J. Hughes, was elected justice of the peace for Athens township, this county, for a term commencing the 1st of January, 1908, and extending for a period of four years, which would be to January 1st, 1912; that on February 3d, 1910, Hughes resigned as such justice of the peace, and the trustees' of the township appointed James Carter, defendant, as such justice, to fill the unexpired term of Mr. Hughes, who had resigned, and that thereafter the Governor of the state commissioned Carter as such justice, under the law, for the unexpired term, until his successor should be elected and qualified, as stated in the petition.
+Now, at the November election, 1911, a successor was elected for the term commencing in January, 1912, but that suecessoi did not qualify as such justice, and Carter continued to act as justice until the following April, and the suit in question was brought before him and tried during that month. Ho heard the case and rendered the judgment complained of, which would be some months after the expiration of the term of Hughes, whom Carter was appointed to succeed, and to fill his unexpired term.
+Now, it is claimed on the part of the plaintiff that the act of Carter in rendering such judgment was entirely void, and it raises the question as to whether or not he had a right to act as such justice, or if he had not, whether his acts were that of a de facto officer acting under color of office so that the judgment would, be binding upon the parties. Section 1714 of the General Code, providing for appointment, reads as follows:
+“If a vacancy occur in the office of justice of the peace by death, removal, absence for six months, resignation, refusal to serve, or otherwise, the trustees within ten days from receiving notice thereof, by a majority vote, shall appoint a qualified resident of the township to fill such vacancy, who shall serve until the next regular election for justice of the peace and until his successor is elected and qualified. The trustees shall notify the clerk of the courts of such vacancy and the date when it occurred.”
+In pursuance of that section the trustees appointed James Carter for a justice of the peace, and the governor of the state on the fourth day of June issued a commission containing the following:
+“Know ye, That whereas James Carter, of Harrison county, has been duly appointed to the office of justice of the peace, in and for Athens township, until his successor is elected and qualified.
+“Therefore, By virtue of the authority invested in the Governor by the Constitution, and in pursuance of the provision of the statutes, I do hereby commission him, the said James Carter, to be justice of the peace, as aforesaid, authorizing and empowering him to execute and discharge, all and singular, the duties appertaining to said office, and enjoy all the privileges and immunities thereof. ’ ’
+Now, by the statute, and by the commission of the Governor, clearly James Carter had the right to continue to act as justice of the peace until his successor was elected and qualified, and it is conceded that no successor had been elected and qualified at the time he rendered the judgment in question.
+But it is said that that statute authorizing such appointment is in conflict with the provision of the Constitution of the state which limits the office of justice of the peace to four years, and that the term of Hughes, whom Carter was appointed to succeed, expired on the first day of January 1912, at the end of the term of four years; and it is, therefore, urged that this act is in conflict with the Constitution and that the question of the constitutionality of the act can be raised in this ease, and that is the question before this court—whether we may pass upon the constitutionality of this act when the judgment is collaterally attacked.
+Ex parte Strang, 21 O. S., 610, bears upon the question (propositions 1 and 2 of the syllabus):
+“The acts of an officer de facto, when questioned collaterally, are as binding as those of an officer de jure.
+“To constitute an office de facto of a legally existing office it is not necessary that he should derive his appointment from one competent to invest him with a good title to the office. It is sufficient if he derives his. appointment from one having colorable authority to appoint; and an act of the General Assembly, though not warranted by the Constitution, will give such authority.”
+And this case had to do with the police judge in the city of Cincinnati, and in the opinion, after discussing the question, Judge "White says:
+“The direct question in this case, is, whether the reputed or colorable authority required to constitute an officer, de facto can be derived from an unconstitutional statute.
+“The claim that it can not, seems to be based on the idea that such authority can only emanate from- a person or body legally competent to invest the officer with a good title to the office. "We do not understand the principle to be so limited. "We find no authorities maintaining such limitation while we find a number holding to the contrary. Fowler v. Bebee et al, 9 Mass., 231; Commonwealth v. Fowler, 10 Mass., 290.
+‘ ‘ The true doctrine seems to be that it is sufficient if the officer holds the office, under some power having color of authority to appoint; and that a statute, though it should be found repugnant to the Constitution, will give such-color.”
+To the same effect is the ease of State of Ohio v. Gardner, 54 O. S., 24:
+Syllabus. “In a prosecution for offering a bribe to an officer who is acting as such under a statute providing for the government of a municipal corporation, the defendant can not question the constitutionality of such statute.”
+There are two opinions in this ease, and reading somewhat from the opinion of Judge Spear, and from the authorities cited, we find quoted from McKinn v. Sommers, 1 Pa., 297, this language :
+“If a person usurp an authority to which he has no title, or color of title, his acts would be simply void, but a colorable title to an office can be examined only in a mode in which the officer is a party, and before the proper tribunal.”
+That was a case in which the officer was not a party and where his right to the office was involved, and to the same effect:
+“The People ex rel v. Weber, 24 Ill., 184: ‘Though a judge elected under a law not authorized by the Constitution, shall be ousted because he is not an officer de jure, yet his acts colore officii will be valid.”
+And, quoting from The People, ex rel, v. Weber, 86 Ill., 283:
+“The title of a de facto officer can not be inquired into in a collateral way between third parties, but it may be enquired into where he is suing in his own right as an officer.”
+To the same effect is Leach v. The People, ex rel, 322 Ill., 420. Again quoting from the opinion;
+“Brown, Treas., v. O’Connell, 36 Conn., 432, was an action of debt on a recognizance given in the police court of Hartford.
+‘ ‘ The Constitution provided that all judicial officers should be appointed by the General Assembly. That body, by a statute, undertook to authorize the appointment of a judge of the police court by common council. The Supreme Court held that the appointment was void, but that the appointee ‘was a judge de facto’ and that a' recognizance entered into before him in the police court for the appearance of a prisoner was valid and binding.”
+Then quoting from the work of Van Vleet on Collateral Attach, page 33, we find the following:
+“If it is necessary in order to guard the rights of the public, to hold the acts of an actual although unlawful incumbent of a judicial office valid, as being done by an officer de facto, then a fortiori is necessary to hold an actual judicial tribunal, erected under the forms of law, sustained by the power of the state, and settling rights and titles, a tribunal de facto.”
+Then again:
+“The de facto character of the officer is not impaired-because he was appointed by virtue of a void statute. Thus, a judge appointed by the governor, or a city council, or transferred to another district; or a probate clerk, or district attorney, appointed by authority of an unconstitutional statute; and county officers elected in a new county before the law organizing it could take effect, are all officers de facto.”
+Now, how stands this case, By the statute of the state, duly passed, the trustees were clothed with authority to appoint a justice of the- peace to succeed Hughes, resigned, for the unexpired term, and until his successor was elected and qualified. In pursuance of such appointment and the Governor’s commission Carter continued to act as justice of the peace, affecting the rights of litigants brought before him. He had the color of the' statute and the commission of the chief executive of the state for his authority to act as such justice.
+_ Now, it seems to us that he was acting under color of office and was a de facto justice of the peace at the time he rendered this judgment. We are not unmindful of the decision in the case of Bushnell v. Koon, 13 C. Dec., and 8 C. C. Rep., holding that acts of a justice of the peace after his term had expired was absolutely void. ' But we think that is clearly distinguishable from this ease; he had absolutely no color of office; he was not appointed for such a period; he was commissioned for a period of four years, and his term expiring at a certain date, and after that date he assumed to continue to act as such justice of the peace. We think this ease is not like that.
+It follows that a decree will be entered in this case finding that the act of the justice was the act of a de facto magistrate, and the judgment will be sustained and the case dismissed.
