@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6826"
+decided: "1948-05-17"
+citations: ["82 Ohio App. 480", "51 Ohio Law Abs. 471"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matthews, P. J., Ross and Hildebeant, JJ., concur in the syllabus, opinion and judgment."]
+parties: ["The Ohio National Life Ins. Co., Appellee, v. Struble et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/82/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1391758
+cites_cases: ["133 Oh St, 567", "133 Ohio St., 567", "143 Oh St, 239", "143 Ohio St., 329", "159 A. L. R., 1058", "159 A. L. R., 1067", "188 N. E., 514", "216 F., 242", "216 Fed., 242", "287 N. Y. 1", "287 N. Y., 1", "38 N. E. (2d) 105", "46 Ohio App., 253", "80 Ohio App., 531"]
+---
+
+# Ohio National Life Ins. v. Struble
+
+## Majority (Hildebeant, J.)
+
+Hildebeant, J.
+This cause is now before tbe court for trial de novo, following tbe action of this court in upholding the right of appeal (80 Ohio App., 531, 76 N. E. (2d), 420, wherein the nature of the action is set forth in the syllabus).
+It is, therefore, sufficient to state here that the validity of the plaintiff insurance company’s proceeding for mutualization is attacked by defendants as dissenting minority shareholders.
+The case is presented to this court on the petition of plaintiff for a declaratory judgment filed after demand made by the defendants, the amended and supplemental answer and cross-petition of the defendants filed in this court, and upon the record from the court below in the consolidated actions, together with additional evidence by way of deposition and the exhibits.
+Since, in Belden v. U. C. L. Ins. Co., 143 Ohio St., 329, 55 N. E. (2d), 629, on the suit of a nonparticipating policyholder, the Supreme Court held the mutualization statutes here involved (Sections 9364-1 to 9364-8, inclusive, General Code) constitutional, the defendants assume the validity of such statutes generally, and rely on other grounds hereinafter set forth.
+The defendants’ contentions are:
+I. The plan was not legally adopted, for three reasons : A. It was prematurely presented'. B. It did not receive a majority vote. C.- It did not comply with the securities act of 1933.
+II. Fraud invalidated the vote.
+III. The plan is fraudulently illegal.
+IV. The operative effect of the plan and statute is invalid and unconstitutional.
+We first consider objection A.
+The Legislature provided for the conversion of a domestic stock life insurance corporation into a mutual life insurance corporation by Sections 9364-1 to 9364-3, inclusive, General Code, effective August 23, 1937. Those sections were amended and supplemented and became Sections 9364-1 to 9364-8, inclusive, General Code, effective July 17, 1941. Under the amended sections, four steps are required to effectuate a mutualization plan, namely, (1) adoption of a plan by the board of directors, (2) approval by the shareholders, (3) approval by the policyholders and (4) approval by the Superintendent of Insurance of Ohio.
+Admittedly, adoption of a plan, stated to be in conformity to the amended law, by the board of directors was had on June 12, 1941, and the notice to shareholders of a meeting on July 30, 1941, to approve the plan was mailed on July 14, 1941, both steps prior to the effective date of the amended act on July 17, 1941. On July 30,1941, the board of directors met and again approved the plan, and subsequently the policyholders have approved the plan, with only the approval of the Superintendent of Insurance remaining to effectuate the plan.
+We find no merit in the claim that, because the board of directors adopted a plan, wherein it was stated to be pursuant to the amended act, prior to the effective date of the law as amended, and gave notice to the shareholders of a meeting to be held subsequent to the effective date for approval of a plan adopted in conformity to the law as it would exist at that time, its action was premature and void. On June 12, 1941, existing- law sanctioned the adoption of a plan of mutualization by the board, and the only legal plan and notice to shareholders that could be given was of a plan in conformity to the law which the board knew would be in existence at the time of the shareholders meeting.
+B. The claim is made that the plan did not receive a majority vote of the shareholders, for the reason that shares of stock held in a voting trust should have been voted by the trustees thereof instead of by the shareholders themselves, which was done.
+Voting trusts, sanctioned in Ohio by Section 8623-34, General Code, are the result of an agreement, whereby the shareholder parts with the voting power, but retains the beneficial ownership of the stock. Subject to the rules of construction applicable to contracts generally, it follows that a court may not enlarge such a contract beyond its fair implications. While such an agreement might grant specific authority for sale by the trustee here, the grant of “full power” to vote the stock for a limited time is clearly inconsistent with a power to destroy the beneficial ownership by sale or otherwise, and clearly appears not to have been within the contemplation of the parties to the agreement. This court is in accord with the following statements contained in headnotes to Matter of Bacon, 287 N. Y., 1, as reported in 38 N. E. (2d), 105:
+“A ‘voting trust’ with respect to stock in a corporation creates a separation of the voting power from beneficial ownership of stock, and the state may regulate such separation by exercise of ‘police power.’
+“A stockholder who deposits his stock under a voting trust parts with the right to vote but retains beneficial ownership of stock, and thereafter neither holders of voting trust certificates nor voting trustees possess all the rights of stockholders, and each group are ‘stockholders’ for some purposes, but neither group for all purposes * * *.
+“Under a voting trust agreement whereby stock of a corporation issued pursuant to plan of corporation’s reorganization under Bankruptcy Act was issued to voting trustees, the power to destroy stock, such as by liquidation of corporation through sale of its assets, would not be implied merely from a power to vote stock, and only by use of clear language could such an extraordinary power be conferred.”
+See, also, annotation, 159 A. L. R., 1067 et seq.
+C. As to the claim that the securities act of 1933 was not followed, this court is of the opinion from a reading of the act that this transaction is not included within the positive provisions of the act and is included within the provisions exempting it from compliance therewith.
+In contention II, defendants claim the directors committed a fraud upon the shareholders by concealing from them the fact that the stock had a value in excess of the $40 per share, fixed in the plan, thereby invalidating the vote.
+It must be borne in mind that in these mutualization proceedings the function of the directors is solely to propose a plan for approval or rejection by the shareholders, including the price per share mentioned therein, and they had no power to bind the shareholders to any part of it. The very purpose of the shareholders meeting is for discussion and consideration of the whole plan, including any objection made thereto. The record discloses defendants attended that meeting, objected to the price per share and offered resolutions with reference thereto, which were voted down both before and after approval of the plan was voted by 'the shareholders. It, therefore, appears that the approval as to price was the free approval of the shareholders, and no frand intervened.
+In contention III, the claim of fraud in the plan, by reason of limiting the price to $40 per share and dividends to $1.25 a share, must fail by reason of the voluntary adoption of those provisions by the shareholders. Nor in that plan does there appear any interest of the directors adverse to that of the shareholders ■calling into question their fiduciary obligations.
+Finding no fraud, the claimed inadequacy in price, which we do not find substantiated by the record, provides no ground for the relief prayed for herein.
+As pertinent to the circumstances here, we cite Wick v. Youngstown Sheet & Tube Co., 46 Ohio App., 253, 188 N. E., 514, and quote from page 265:
+“The District Court of Montana in Wall v. Anaconda Copper Mining Co., 216 F., 242, says, at page 246:
+“ ‘Serein the fraud charged must be proven and by legal evidence, and not merely alleged in pleadings 5nd for proof rested upon argument and oratorical endeavor. Finding no fraud in the sale, finding the stockholders’ consent was free, it is unnecessary to inquire into the purchase price. That was determined by the holders of two-thirds of Parrot stock; Amalgamated holding a little more than half said stock. They satisfied, none can complain. They could ■direct a corporate sale for any consideration, even as they individually could make personal sales. Doubtless gross inadequacy might be a circumstance in a fraudulent sale. Aside from that, the dissenting stockholder has a plain, speedy, and adequate remedy at law in the appraisal proceedings provided by the statutes, wherein he secures the value of his shares though the others receive from the sale but a tithe thereof.’ ”
+In conformity to the principles set forth in Johnson v. Lamprecht, 133 Ohio St., 567, 15 N. E. (2d), 127, the optional plan of mutualization here adopted by the shareholders, in the absence of fraud, will not be enjoined, and the dissenting minority shareholders are remitted to their statutory rights to obtain the fair' cash value of their shares.
+IY. The principal claim here is that the operative' effect of the plan and statute is unconstitutional as retroactive to defendants, because the amended act was passed subsequent to their acquisition of their stock. The record shows all their stock was acquired in 1940. At that time, the mutualization statutes effective in 1937 were in existence, so that defendants-acquired their stock presumably with knowledge thereof and subject to their provisions. The amended act merely related to word definitions and set up the procedure for dissenting shareholders to obtain the fair cash value of their stock. No vested rights of defendants were affected requiring further discussion of constitutional questions.
+In conclusion, we find no evidence in the record sufficient to sustain the charge of fraud and illegality necessary to the granting of equitable relief, which relief will, therefore, be denied.
+A decree may be presented accordingly.
+Decree accordingly.
+Matthews, P. J., Ross and Hildebeant, JJ., concur in the syllabus, opinion and judgment.
