@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "74AP-227"
+decided: "1975-06-05"
+citations: ["47 Ohio App. 2d 300"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Strattsbattgh, P. J., and Reilly, J., concur."]
+parties: ["The State, ex rel. Brown, v. Regional Public Safety Service Corporation."]
+source_url: "https://static.case.law/ohio-app-2d/47/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1476836
+cites_cases: ["104 Ohio St. 120", "5 Ohio App. 2d 307"]
+---
+
+# State ex rel. Brown v. Regional Public Safety Service Corp.
+
+## Majority (McCormac, J.)
+
+McCormac, J.
+At the request of the Secretary of State, the Attorney General of Ohio filed a quo warranto action on May 15, 1974, against “The Ohio Department of Public Safety, A Public Entity of the State of Ohio.” In this action the Attorney General sought to cancel respondent’s corporate status on the basis that some or all of its activities were beyond the scope of law. Respondent served a motion to dismiss which, by a decision of this court, on July 2, 1974, was held in abeyance pending a final hearing of the action. A motion of respondent to appoint a referee to hear evidence was also held in abeyance. Respondent then served an answer, admitting its corporate status, but denying any improper use of its corporate franchise. Respondent also set up the defense of lack of jurisdiction over the subject matter and failure to state a claim upon which relief can be granted.
+Subsequently, respondent amended its name and articles of incorporation, filing such amendments with the Secretary of State. The Secretary of State then notified the Attorney General that his complaints concerning the articles of incorporation, which had initially induced him to request the quo warranto action, were now satisfied. Despite receipt of that letter from the Secretary of State,, the Attorney General moved to file an amended complaint in. quo warranto against the corporation, under its new designation. The motion was granted and the amended complaint was. served. Once again respondent, now “Regional Public Safety Service Corporation, A Legal Instrumentality and Humane Entity of the State of Ohio,” denied any improper use of its corporate franchise, and raised the defense of lack of jurisdiction over the subject matter and failure to state a cause of action.
+On January 9, 1975, relator served a motion for summary judgment with an accompanying affidavit and exhibits'. Respondent served a memorandum contra, with an accompanying exhibit. No request for oral argument was made concerning this motion and, pursuant to rules of this court, the motion for summary judgment was submitted on the briefs.
+The first issue which respondent raises is whether the relator, the Attorney General of Ohio, has the standing to bring an action in quo warranto without the request of or aftér a withdrawal of the request of the Secretary of State. The Attorney General concedes that he is now proceeding on his own authority, without the request of anyone, but insists' that the law permits him standing in an action of quo warrahto. A determination of this question involves a construction: of R. C. Chapter 2733. R. C. 2733.05 provides, as follows:
+“The attorney general or a prosecuting attorney may bring an .action in quo warranto upon his own relation, or, on leave of the court, or of a judge thereof in vacation, he may bring the action upon the relation of another person. # # fc ? ? .
+Clearly, the Attorney General may, on his own relation, bring a civil action without being requested to do so by tho Secretary of State and even if the Secretary of State withdraws a previous request. See State, ex rel. Mikus, v. Hirbe (1965), 5 Ohio App. 2d 307.
+Relator contends that he has established a case in. quo warranto upon which he is entitled to a summary judgment under R. C. 2733.02, which provides, in part, .as follows:
+“A'civil action in quo warranto may be'brought in the name of the state against a corporation: . .
+“(A) When it has offended against a law .providing for its creation or renewal, or any amendment thereof * * #
+“(D) When it has misused a franchise, privilege, or right conferred upon it by law, or when it claims or holds by contract or otherwise, or has exercised a franchise, privilege or right in contravention of law.”
+Since the case is being heard upon relator’s motion for summary judgment, it is necessary that reasonable minds, construing the evidence most strongly in favor of the respondent, be capable of reaching only one conclusion, and that adverse to the respondent, before the motion is granted. Civ. E. 56(0). In considering summary judgment, only the materials specified in Civ. E. 56(C) may be considered.
+Quo warranto is an extraordinary remedy invoked against a corporation, where public interests are involved and the corporation has exercised a franchise, privilege or right in contravention of law, or misused a right conferred upon it by law.
+Eespondent’s amended articles of incorporation purport to establish “Eegional Public Safety Service Corporation : A Legal Instrumentality And Humane Entity Of The State of Ohio.” Such corporation is purported to be organized pursuant to statutory authorization, under E. C. Chapter 1717, as a public entity of the state of Ohio by citizens of the United States, for the purpose of associating themselves together to form a humane agency. The articles then set forth certain functions which they perceive to be within the authority of E. C. Chapter 1717.
+The first issue is whether a group of private citizens has a right to organize a humane organization under E. C. Chapter 1717. If there is no right for private citizens to organize for this purpose in the manner utilized by respondent, then the corporate franchise is improper as a matter of law and quo warranto is a proper remedy.
+E. C. 1717.03 and 1717.04 provide for the establishment of the Ohio Humane Society with branches and agents in counties. There is no contention that the respondent corporation is the Ohio Humane Society or- a branch or agent of that society. Therefore, those statutes are inapplicable to its creation. R. C. 1717.05 and 1717.06 provide for the organization of county humane societies and'appointments of 'agents of that society. Regional Public Safety Service Corporation purports to be an organization entitled to be. a public entity of the state of Ohio, rather than for any county,'so R. C. 1717.05 and 1717.06 have no application to its creation. It is doubtful in any event that the provision for creation of a county humane society under R. C. 1717.05 applies to this particular organization.
+Therefore, according to respondent’s amended articles of incorporation, which are admitted as part of the pleadings, respondent’s attempt to incorporate as a public humane society for the state of Ohio is in contravention of law and an attempt of private citizens to usurp a public function. Quo warranto is available to the Attorney General to oust respondent of any claim to corporate status for this purpose. Consequently, the relator is entitled to summary judgment for this reason.
+The relator also contends in his motion for summary judgment that respondent has misused its franchise in contravention of law. Respondent denies any such misuse, creating a question of fact not resolved by the affidavits or exhibits. In that respect, this case is distinguished from the State, ex rel., v. Ohio Police Patrol, No. C-72414, unreported, First Appellate District, 1974, where there was uncontroverted evidence that the Ohio Police Patrol had conducted certain activities in violation of law. Summary judgment is inappropriate for those allegations.
+However, quo warranto is a proceeding to determine the right to the use or exercise of a franchise and to oust the holder of its enjoyment, if the claim thereto is not well founded. State, ex rel. Price, v. Columbus, D. & M. Electric Co. (1922), 104 Ohio St. 120. As previously stated, quo warranto is appropriate here because the Regional Public Safety Service Corporation is not properly organized under R. C. Chapter 1717.
+R. C. 2733.14 provides, as follows:
+“When a defendant in an action in quo warranto is found guilty of usurping, intruding into, or unlawfully holding or exercising an office, franchise, or privilege, judgment shall be rendered that he be ousted and excluded therefrom, and that the relator recover his costs.”
+Therefore, it is ordered that the respondent, Regional Public Safety Service Corporation: A Legal Instrumental-, ity And Humane Entity Of The State of Ohio, be- wholly ousted and excluded from its corporate rights, privileges, and franchises, and that such corporation be dissolved.
+Judgment accordingly.
+Strattsbattgh, P. J., and Reilly, J., concur.
