@@ -1,0 +1,68 @@
+---
+court: "Ohio Court of Appeals"
+docket: "407"
+decided: "1939-12-19"
+citations: ["31 Ohio Law Abs. 78"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK, PJ. & BARNES, J., concur."]
+parties: ["WEBB v COTTRILL, Admrx."]
+source_url: "https://static.case.law/ohio-law-abs/31/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1698819
+cites_cases: ["133 Oh St 251", "16 Oh St 372"]
+---
+
+# Webb v. Cottrill
+
+## Majority (By GEIGER, J.)
+
+OPINION
+By GEIGER, J.
+The facts in this case, so far as disclosed by the pleadings and a “Transcript of the Testimony” filed in the Court of Common Pleas, are that John P. Cottrill, husband of Maggie H. Cot-trill, died intestate on January 24, 1936. He left surviving him his widow, one daughter, Zelia Westfall, one- granddaughter, Gladys Cerón, and three grandsons, John Cottrill, Virgil Webb and Franklin Webb. The two latter are children of the appellant, James W. Webb and Lillie A. Webb, daughter of Cottrill who predeceased him. Maggie H. Cottrill was appointed administratrix in the Probate Court of Clark County, Ohio.
+On June 15, 1936, the administratrix filed a complaint in the Probate Court alleging that the decedent, during his lifetime, was the owner of a mortgage note given by James Webb and Lillie Webb, in the sum of $1,500.00. Upon the hearing the Probate Court found that such note belonged to the estate of the decedent. Thereafter, Webb appealed to the Common Pleas Court upon law and fact. The administratrix filed a motion in Common .Pleas Court to dismiss the appeal for reasons stated, which motion was overruled. The case was heard in the Common Pleas Court as an appeal on questions of law and fact, and the decision of the Probate Court was affirmed.
+The note referred to reads as follows:
+.“$1500.00 March 17, 1934.
+On demand, after date, We promise to pay to the order of John B. Cottrill, fifteen hundred $1500.00 dollars at First National Bank, Springfield, Ohio. Value received, no interest.
+Lillie A. Webb,
+James N. Webb.”
+The note was endorsed as follows:
+“Springfield, Ohio,March 17. 1934.
+After my decease pay to the order of Lillie A. Webb, John Allen Cottrill and Zelia Westfall the balance remaining unpaid in the within promissory note.
+(Signed) J. B. Cottrill.” .
+Whether the endorsement was made on the note at the time of its execution or several months thereafter is not certain.
+It was claimed by Webb that the decedént gave the note to him under such conditions as were claimed to constitute a gift inter vivos, whereas, it is claimed on the part of the administratrix that at most, the endorsement was. an attempt to make a testamentary disposition of the note and that the facts were not sufficient to establish by clear and convincing evidence that there was a gift inter vivos.
+The Probate Court upon the hearing found that James W. Webb was guilty of having concealed the note and the Court ordered that the administratrix recover of Webb the sum of $1500.00 with $150.00 penalty as provided by the statute.
+Notice was given in Probate Court by Webb of his intention to appeal to the Court of Common Pleas of Clark County. He did not state whether he intended to appeal on the question of law or law and fact.
+Before we can give full consideration to the claims of the parties, it is necessary for us to determine whether or not the case, as disclosed by the record, is properly before this Court.
+Sec. 12223-3, GC, prescribes that a final order may be reviewed as thereafter provided, except that appeals from the judgment of the Probate Court, upon questions of law and fact, shall be taken in the manner provided by §§10501-56 and 10501-62, GC.
+Sec. 10501-56 GC, provides that appeal may be taken to the Common Pleas Court from a judgment of the Probate Court, among others, against one suspected of having concealed, embezzled or conveyed away the property of dead persons. The cause so appealed shall be tried, heard and decided by the Court of Common Pleas in the same manner as though the Court of Common Pleas had original jurisdiction thereof.
+Sec. 10501-62, GC, provides that if the judge of the Probate Court provides for the taking of a complete record so that a bill of exceptions may be prepared, as provided in Court of Common Pleas, there shall be no appeal to the Court of Common Pleas in any such case; but an appeal may be prosecuted to the Court of Appeals in all matters within its jurisdiction in the manner provided by law in the prosecution of other appeals to said Court.
+Presumably the appeal was made to the Court of Common Pleas under the provisions of Sec. 10501-56, GC, and we will assume that the appeal could not have been prosecuted to the Court of Appeals under the provisions of §10501-62, GC.
+On August 5, 1939, the cause came on to be heard in the Common Pleas Court upon the appeal of Webb “on questions of law”, from the judgment of the Probate Court, and the judgment of the Probate Court was affirmed and it was ordered that the clerk file with the Probate Judge a transcript of the judgment of the proceedings of the Court of Common Pleas and that the proceedings thereafter shall be the same as if the order had been made in the Probate Court.
+To this order of the Common Pleas Court notice of intention to appeal was given by Webb to the Court of Appeals “on the law and facts of said case”. Other matters are included in said notice which are not of consequence. The notice was addressed to an order of July 28th, 1939, whereas the correct date of the entry was August 5th, 1939. July 28th is the date of the decision and not of the entry.
+Further confusion arises from the fact that there was filed on July 21, 1938, a motion by the appellant that the Court grant a re-hearing on the motion of the appellee. On October 25, 1938, the cause came on for hearing upon the application of the appellant for a re-hearing of the motion of the appellee. Thereupon, the Court granted the application for re-hearing and upon consideration of the motion of the appellee finds said motion of appellee not well taken and same is overruled.
+The fact that the appellant moved the Court to grant a re-hearing of the motion of the appellee and the further fact that said motion appears by entry of October 25th, to have been re-heard, pre-supposes that there was a former order of the Court upon the motion of the appellee to dismiss the appeal, sustaining the same. While we are unable to find any such order in the journal entries, and so far as we are able to determine there was a motion made to re-hear the motion of the appellee to dismiss the appeal when the record does not disclose that sucn motion was ever sustained and that consequently a motion for re-hearing was not appropriate. However, we may overlook this matter and consider that there was, as a matter of fact, an entry sustaining the appellee’s motion to dismiss the appeal and that upon re-hearing, the Court overruled this motion, which had theretofore been granted, but which does not appear upon the record.
+The appellant could not appeal to this Court on law and fact, or — in the words of the statute — “appeal on questions of law and fact” for the reason that he has already had one appeal from the Probate Court to the Court of Common Pleas, and there had a “re-hearing and re-trial” of the cause upon law and fact. This cause must be heard in this Court as an “appeal on questions of law”.
+We find no assignments of error in this Court, but no other matter is presented in the brief than the claim that the judgment of the Court of Common Pleas was against the weight of the evidence.
+Sec. 11564, GC, provides that when a decision is not entered on the record or the grounds of the objection do not sufficiently appear in the entry, or the objection is to the decision because the finding of the Court is against the law and evidence, the party excepting must reduce his objection to writing and file the same not later than forty days after the overruling of the motion for a new trial or the decision of the Court, when a motion for new trial is not filed.
+Sec. 11571, GC, provides that the signature of the trial judge to a bill of exceptions may be dispensed with under certain enumerated conditions.
+But, all we have before us is what purports to be a transcript of the testimony taken before the Common Pleas Judge cn May 19,1939. None of the formalities required to perfect a bill of exceptions have been complied with and none of the provisions of §11571, GC, dispensing with the formal allowance of the bill of exceptions, appear in the record. We, therefore, have before us a case appealed upon, questions of law which involves the weight of the evidence, and there is no evidence presented to us, which under the statutes, will permit us to review the case upon the weight of the evidence.
+Tenesy v City of Cleveland, 133 Oh St 251, holds:
+“1. When an appeal is taken on questions of law, it is mandatory that a bill of exceptions be filed in the trial court within the forty day limitation prescribed by §11564, GC, to enable a reviewing court to consider the contents of such bill.
+“2. Where such bill of exceptions is not filed in the trial court within the time so prescribed, and the errors assigned are such as can be disclosed only by a bill of exceptions, the reviewing court has no alternative but to affirm the judgment.”
+State of Ohio v Bell, 52 Oh Ap 11 (criminal case), holds that §11564, GC, prescribing the time within which bills of exceptions in civil and criminal cases shall be presented to the trial court are in full force and are not affected by §12223-8, GC, and §13459-3, GC, of the new appellate procedure act. The latter sections relate only .to the filing in the reviewing court. The Court further says in syllabus 3:
+“3. When the questions raised by appellant are such as can be disclosed only by a bill of exceptions, and such bill of exceptions is not available, the judgment of the trial court should be affirmed.”
+There is another fatal defect in this proceeding in that the- record does not show that there was any motion for a new trial in the Court of Common Pleas, from the overruling of which error is prosecuted.
+2 O. Jur., page 264, §228, is to the effect that it is a general principle that since the right to a review of the decisions on the weight of the evidence by error is statutory, the party seeking the review must conform' to the statute giving the right. To do this he must have exhausted his remedy in the court below, where the evidence was heard, and such remedy is never exhausted until the court has refused him a new trial upon a motion assigning for cause that the finding is not supported by sufficient evidence, or that it is contrary to the evidence, and such motion is necessary whether the trial is by the court or to a jury, and before a reviewing court can review the finding in the court below, on conflicting evidence, it is indispensable that a motion for new trial should have been made and overruled.
+Ide v Churchill, 16 Oh St 372, is an early declaration of the principle which has been followed in a long line of cases. The second syllabus states:
+“* * * but a motion to set aside the finding, overruled by the Court and an exception taken to the decision of the Court upon the motion are indispensable prerequisites to the right to review the facts upon petition in error.”
+The third syllabus of that case states:
+“3. To entitle the party to such review, the bill of exceptions must show upon its face, that it contains all the evidence given upon the trial, and acted upon by the court below.”
+The Court, in that case — on page 377 —in speaking of the right to review concludes that the party seeking the review must conform to the statute giving him that right, and the Court states:
+“To do this, he must have exhausted his remedy in the court below, where the evidence is heard; and this is never done, until that court has refused him a new trial, upon a motion, assigning for cause that the finding is not supported by sufficient evidence. Until this is done, a reviewing court is bound to presume that he could have had justice in the court below, if he had seen fit to ask for it. It is the decision upon this motion to which alone the statute gives him the right to except.”
+See also the further remarks of the Court on the same page.
+It may be urged that the provisions of §11564, GC, that — “whenever an appeal is taken on questions of law and fact and the Court of Appeals determines that the case can not be heard upon the facts, and no bill of exceptions has been filed in the cause, that the Court of Appeals shall fix the time, not to exceed thirty days for the preparation and settlement of a bill of exceptions” will now permit the appellant to prepare and file a bill of exceptions within the thirty day period. This would be true, provided he has the right to file such a bill of exceptions in the court below, or that his cause is such that there need be no bill of exceptions. The appellant, under the decision has no right and therefore it would be idle for this Court, upon the finding that he erroneously appealed on law and fact, whereas he was only entitled to appeal on law, to fix a time for the preparation and settlement of a bill of exceptions. It is apparent that he has no right and the Court below has no power to perfect a bill of exceptions.
+Under the ruling of the Tenesy case, second syllabus, the judgment of the Court below will be affirmed.
+HORNBECK, PJ. & BARNES, J., concur.
