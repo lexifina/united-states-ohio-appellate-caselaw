@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 16595"
+decided: "1938-05-16"
+citations: ["27 Ohio Law Abs. 590"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["TERRELL, J, concurs.", "LEVINE, PJ, concurs in the judgment."]
+parties: ["CLEVELAND (city) v DUFFY et"]
+source_url: "https://static.case.law/ohio-law-abs/27/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1688482
+cites_cases: ["16 Oh St 221"]
+---
+
+# Cleveland v. Duffy
+
+## Majority (By LIEGHLEY, J.)
+
+OPINION
+By LIEGHLEY, J.
+By the will of John Colahan probated in Cuyahoga County, Ohio, February 27, 1911, he gave a life estate in all his property to his wife. The disposition thereof after her death was made by the following paragraph:
+“After the decease of both myself and my wife, I hereby give and bequeath lot 252 in the Willeysplle Allotment in trust to the City of Cleveland, Ohio, to be used forever thereafter as a location on which to build and maintain a hospital for persons injured by accident, and it is my will and desire to provide so far as my means will permit for the erection of a suitable building or, buildings for such purpose on lot 252, and in accordance with such purpose I hereby devise and will that lots 260 and 266 in said Willeyville Allotment together with any interest I may have in any other real estate, be sold to the best possible advantage and the proceeds of said sale devoted to said building or buildings to be erected on said lot 252.”
+Some years ago, a case was heard and decided by this court which involved a construction of the above quoted paragraph. It appears that the city of Cleveland needed a part of said lot 252 for some public improvement. The council of the city passed a resolution directing the law department to institute an action to ascertain whether the proceeds of the sale of said lot could be used to purchase another site for the specified hospital purposes within a radius of one-half mile from said sub-lot 252. The law department instituted such proceedings and a judgment of the trial court was heard in this court on review involving a construction of this paragraph and decided June 5, 1933 — case No. 12899. This court affirmed a judgment granting authority to locate the hospital upon some other site, apparently from the recitation cf the facts in the journal entry limiting, the location to one within a half-mile radius. The writer hereof dissented on authority of Board of Education v Edson, 16 Oh St 221, and other cases supporting the doctrine of this case.
+It was my view then and is my view now that the donor by the above language intended to create and did create a restricted, specific charitable trust in respect to the site of this hospital. My conclusion was based upon the language used and the mention of the specific lot three times in the paragraph. The facts surrounding the situation seem to me convincing that such was tlie intention of the donor. This sub-lot was his home located near the westerly end of the Lorain-Carnegie bridge. He left no children surviving him. There was no hospital nearer than a mile of his home. It was located in a particular part of the city wherein there was great industrial activity. He doubtless viewed from time to time that many results of intensive industrial activity in crippled and maimed. It seemed only reasonable that his charity was aroused to provide a local hospital at that place for the needs of that locality and not one located a half mile or a mile away.
+It is now proposed to spend these trust funds in expansion of the facilities of either City Hospital or Lutheran Hospital or Pair-view Hospital, each and all of which are located more than a mile from sub-lot 252. These hospitals all existed and were effectively functioning when this will was executed. If the donor had not conceived a present need for a hospital where he specified and not a half mile or a mile away, no necessity for his gift could have reasonably occuired to him. It might be conceded that a hospital on an adjacent lot or in the same block might favorably meet his purposes but this authority and the former authority of a half mile or a mile away is judicially writing a different will and dedicating the proceeds of his estate to a use which excludes his primary purpose. Just another instance of defeating the wish of a charitable testator by invoking the superservicable doctrine of ey pres in such cases.
+However, my associates in that case affirmed a judgment which authorized the City of Cleveland as trustee to locate the hospital upon a site as much as a half mile distant therefrom. Their judgment of affirmance must have been grounded upon a construction of the will involved that a general charitable trust was thereby created and intended and the doctrine of cy pres applied. The overwhelming weight of authority denies the right to apply this doctrine to a limited specific trust. If it bad been decided in that case that it was a limited localized trust then the majority of this court in that case could not have approved the judgment then affirmed. Such decision would have compelled a different decree and order.
+That case directly involved the decision of whether a general charitable trust was created or a restricted, limited, localized charitable trust in respect to location or sight. This court in that litigation considered and construed the above provision in the wiil and decided that a general charitable trust was created and intended.
+Now, in the case before us a petition was filed in the Common Pleas Court in the nature of a prayer for instructions which is in effect a prayer for a modification of the former order and authority decreed. The heirs of John Colahan were parties to the former lawsuit wherein the character of the trust was established.
+In the lower court in this proceeding the heirs of John Colahan asked leave to file answers and cross-petitions which leave was granted. Thereupon the city filed a motion to strike their answers and cross-petitions on the ground that they had no interest in this litigation and this motion ■was granted.
+In the original petition in this proceeding the Attorney General of Ohio was the only defendant named on the theory apparently that by statute he is charged with the duty of supervising the administration of such trust estates.
+. In this action it was sought to again obtain a construction of this will different than that made in the former litigation. The former judicial determination of this issue is deemed conclusive in this case. Having been thus determined, this proceeding below for instructions on the part of the trustee having for its object a modifica lion of the former order made in the former case with a view to obtaining authority to locate this hospital and expend the funds of the trust estate for the purposes expressed by the donor upon a site more than one-half mile from said.sub-lot 252, is one in which the heirs have no substantial interest.
+It is our opinion that the trial court was correct in sustaining the motion to strike the answers and cross-petitions from the files for that reason.
+TERRELL, J, concurs.
+LEVINE, PJ, concurs in the judgment.
