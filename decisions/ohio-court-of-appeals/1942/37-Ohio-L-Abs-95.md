@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "18830"
+decided: "1942-07"
+citations: ["37 Ohio L. Abs. 95"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STEVENS, J., & GUERNSEY, J., concur.", "Doyle, PJ. and Stevens, J., of the Ninth Appellate District, and Guernsey, J., of the Third Appellate District, sitting by designation."]
+parties: ["STATE v BRUNSWICK"]
+source_url: "https://static.case.law/ohio-law-abs/37/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1713992
+---
+
+# State v. Brunswick
+
+## Majority (By DOYLE, PJ.)
+
+OPINION
+By DOYLE, PJ.
+The appellant was indicted and tried for and found guilty of the crime of blackmail in the Court of Common Pleas of Cuyahoga county.
+The indictment charged two counts upon which the judgment of guilt was predicated. The following quoted language from the indictment, charging the offense, is sufficient for the purposes of this opinion:
+* •' that David Brunswick on or about the 16th day of October, 1940, at the county aforesaid, unlawfully orally menaced and threatened Michael L. Osborne to do an injury to the property and the person of said Michael L. Osborne with intent to compel said Michael L. Osborne to do an act against his will, to wit, to refrain from constructing a building at 10828 Carnegie Avenue, Cleveland, Ohio, and to refrain from opening, conducting and operating a floral business in said building at Í0828 Carnegie Avenue, Cleveland, Ohio
+The indictment was bottomed upon §13384 GC. It is:
+“Blackmailing. — Whoever, with menaces, orally or ,by written or printed communication, sent or delivered by him, demands of another a chattel, money or valuable security, or accuses, or knowingly sends or delivers a written or printed communication, with or without a name, or with a letter, mark or designation, accusing or threatening to accuse, another of a crime punishable by law, or of immoral conduct, which, if true, would tend to degrade and disgrace such person, or threatening to expose or publish any of his infirmities or failings, or to subject him to the ridicule or contempt of society, or to do any injury to the person or property of another, with intent to extort or gain from him a chattel, money or valuable security or a pecuniary advantage, or, with intent to compel him to do an act against his will, may be fined not more than one thousand dollars and shall be imprisoned in the penitentiary not less than one year nor more than five years.”
+The first problem for attention is: Does the charge in the indictment state an offense under the statute?
+A full discussion would extend this opinion to great length, and is unnecessary under the circumstances, for the reason that, as long as there is written and spoken language, academic debate will follow upon the construction of words, phrases, modifiers, etc. It is axiomatic, however, that a sentence or paragraph contained in a statute cannot be analyzed with reference to some preconceived pattern in the mind of the reader. It must be analyzed with reference to that which the author attempted to define. The analysis which this court gives the statute is not in exact accord with the learned pronouncements in the opinion of the Seventh District Court of Appeals (in the instant case), nor with the theories of counsel representing the litigating parties, although the conclusion reached is the same as that reached by the Court of Appeals of the Seventh District.
+The meaning of §13384 GC, supra, hinges upon the position of the adverbial phrase “orally or by written or printed communication, sent or delivered by him.” Four finite verbs are used to define various aspects of blackmailing — i.e., demanding, accusing, and/or either sending or delivering demands, threats, or accusations. From the position of the adverbial phrase, one must assume that it was inserted as a blanket provision covering all the various demands, threats, and accusations which are here defined as punishable. Blackmail, that is to say, may be committed either “orally or by written or printed communication, sent or delivered.”
+That the moot phrase is a sentence — (or in this case a clause — ) modifier, rather than a modifier of any particular verb, is indicated by its position between the subject and the four parts of the compound predicate. As Professor George O. Curme points out in his ■authoritative work, “Syntax” (Volume III of “A Grammar of the English Language by Kurath and Curme”), the adverbial element in a clause is normally more heavily stressed than the verb, and hence, normally, comes at the end of the clause following both verb and object. For example, “I saw my old friend again.” Here the adverb “again” modifies the verb “saw.”
+“In many cases, however,” says Professor Curme, “the adverbial element does not modify the verb directly but the sentence as a whole. In this case, the adverbial element usually precedes the verb.” (Op. cit., 16, 2, a.) It is as a modifier of the entire clause, therefore, that the phrase in question must be read.
+The charge in the indictment states an offense under the statute. This conclusion, however, does not mean that this court approves the statute as a model of clarity.
+The appellant further charges error of a prejudicial character in that “the court had no jurisdiction to hear this case.” A further statement of the facts are here necessary for a complete understanding of this question.
+David Brunswick was indicted on three counts. The second count charged malicious destruction of property. He was tried and found not guilty on this count. The first and third counts were predicated: upon the blackmail statute heretofore incorporated in this opinion. To these counts he interposed a demurrer. It was sustained by the Court of Common Pleas, and, the state not desiring to amend the indictment, the defendant was discharged. Thereafter the state filed its notice of appeal from this final order.
+The defendant moved the Court of Appeals to dismiss the appeal, on the ground that the state had" failed to comply with the provisions of §13459-3 GC, with respect to the time for filing its brief. This motion and the issue on the demurrer were presented to the Court of Appeals of the Seventh District, sitting by assignment in the Eighth District. That court, after a hearing,. entered the following order: “Motion to dismiss overruled. Exceptions. Judgment reversed as contrary to law. The first and third counts of indictment being sufficient to charge offenses under §13384 GC. Cause remanded. * *
+The defendant was then tried in the Court of Common Pleas upon the two counts in the indictment, and was found guilty and sentenced. The appeal before this •court is from this final order.
+Counsel for the state argue the rules of stare decisis, law of the case, etc. These rules are not of particular interest to the members of this court in this case. There is only one jurisdictional step necessary in an attempted appeal from a final order of.the Court of Common Pleas, and that is the filing of a written notice of appeal in the trial court within the pre•■scribed time. Sec. 12223-4 GC. The filing of a brief as prescribed in §13459-3 GC, is not a required step in conferring jurisdiction upon the Court of Appeals. The Court of Appeals of the Seventh District could have, within its discretion, ■dismissed the appeal for failure to ■comply with §13459 GC. See §12223-21 GC. It did not determine to do so and its judgment was entirely within its authority. And it is our ■conclusion that we have jurisdiction, as did the Court of Appeals ■of the Seventh District, in all respects to determine the respective appeals from the judgment of the trial court.
+Other claimed errors have been ■examined, and, in consideration ■thereof, it is determined that the defendant was properly convicted •upon the indictment and the evidence, and that no error of a prejudicial nature appears in the record from which he can assert that his constitutional or statutory rights were frustrated.
+Judgment affirmed.
+STEVENS, J., & GUERNSEY, J., concur.
+Doyle, PJ. and Stevens, J., of the Ninth Appellate District, and Guernsey, J., of the Third Appellate District, sitting by designation.
