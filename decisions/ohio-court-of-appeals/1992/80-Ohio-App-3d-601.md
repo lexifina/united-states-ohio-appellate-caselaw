@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "92-CA-19"
+decided: "1992-12-11"
+citations: ["80 Ohio App. 3d 601"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["William B. Hoffman, P.J., and Milligan, J. concur."]
+parties: ["The STATE of Ohio, Appellee, v. TAYLOR, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/80/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1673944
+cites_cases: ["32 O.O.2d 31", "367 U.S. 643", "378 U.S. 478", "384 U.S. 436", "451 U.S. 477", "468 U.S. 897", "469 U.S. 91", "494 U.S. 344", "498 U.S. 146"]
+---
+
+# State v. Taylor
+
+## Majority (Smart, Judge.)
+
+Smart, Judge.
+This is an appeal from the judgment of the Court of Common Pleas of Richland County, Ohio, that convicted and sentenced defendant-appellant Herbert Taylor (“appellant”) for aggravated robbery with a firearm in violation of R.C. 2911.01 and 2929.71, after a jury found him guilty.
+Appellant assigns a single error to the trial court:
+“The trial court erred prejudicially by overruling the motion to suppress statements taken from the accused upon police initiative by custodial interrogation after he requested counsel in violation of the rights secured to him by the Fifth and Fourteenth Amendments to the United States Constitution.”
+The record indicates that police arrested appellant on or about August 16, 1991, for robbing a Pizza Hut in July of that year. On August 19, 1991, appellant made an initial appearance in Mansfield Municipal Court and the trial court told him it would appoint counsel for him. Shortly thereafter, police took appellant to an interrogation room where Detective John Wendling of the Mansfield Division of Police interviewed him. Appellant testified that Wendling, who was not in uniform, told him he would be handling his case and if appellant wanted to get the matter straightened out they could do it then. The detective indicated that he would speak to the prosecutor and could make a deal for appellant. Appellant signed a Miranda waiver and made a tape-recorded statement implicating himself in the robbery.
+At the hearing on the motion to suppress the statement, appellant testified that he thought the detective was his court-appointed lawyer, and only discovered his mistake after he had begun the taped statement. Appellant indicated that he was familiar with the way that police act, and thought this man acted like a lawyer and not like a police officer. The detective apparently confirmed that he had not introduced himself as a police officer because he testified that appellant had mistaken him for an attorney when they first met, but that they had straightened out the confusion and laughed about it.
+Appellant later testified that he had lied about his involvement in the robbery to this man who he thought was his lawyer because he didn’t trust him. He testified that he understood that defense counsel were supposed to act in their client’s best interest; but it was apparent that he feared that defense counsel may betray their clients to further their own professional goals.
+When the court-appointed attorney arrived at the jail on that same day, he found that he was too late to advise his client not to give a statement.
+The detective testified at the hearing on the motion to suppress that it is standard procedure to interrogate suspects before they obtain counsel, because defense counsel always advise their clients not to give statements to police. The officer stated that he did not know at the time that appellant had requested appointed counsel.
+Appellant’s motion to suppress cited Minnick v. Mississippi (1990), 498 U.S. 146, 111 S.Ct. 486, 112 L.Ed.2d 489. In Minnick, the United States Supreme Court traces the development of case law designed to protect privilege against self-incrimination from Miranda v. Arizona (1966), 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694, to the present time. In Miranda, which followed the landmark Escobedo v. Illinois (1964), 378 U.S. 478, 84 S.Ct. 1758, 12 L.Ed.2d 977, 32 O.O.2d 31, the Supreme Court held that once an accused requested an attorney, all interrogation must stop.
+In Edwards v. Arizona (1981), 451 U.S. 477, 101 S.Ct. 1880, 68 L.Ed.2d 378, the Supreme Court sought to reinforce Miranda by holding that once an accused requests counsel, officials may not reinitiate interrogation until the accused has had contact with his attorney. Edwards sought to create a “bright line” rule to prevent police from badgering a defendant into waiving his previously asserted Miranda rights, Minnick, 498 U.S. 146, 150, 111 S.Ct. 486, 489, 112 L.Ed.2d 489, 496, citing Michigan v. Harvey (1990), 494 U.S. 344, 349, 110 S.Ct. 1176, 1179, 108 L.Ed.2d 293, 301; Smith v. Illinois (1984), 469 U.S. 91, 98, 105 S.Ct. 490, 494, 83 L.Ed.2d 488, 495.
+Edwards mandated that once an accused had requested an attorney, officials must cease their attempts to interrogate him until an attorney is present. In Minnick, the United States Supreme Court clarified the Edwards rule to bar all police-initiated interrogations after an accused requests counsel, unless that counsel is present, rather than requiring the accused to reiterate his request each time officials initiate questioning again. The Minnick court actually characterizes this reinitiation of questioning as “resumption” of interrogation rather than multiple occurrences, clearly intending to treat all incidences of interrogation as parts of a whole. Minnick holds, in essence, that once an accused has requested an attorney, officials may never reinitiate questioning. Waiver may only occur when the accused initiates the conversation.
+Under this Edwards-Minnick rule, it becomes irrelevant whether appellant actually did believe that the detective was his lawyer, whether appellant knew the detective was not a lawyer, or whether the detective tried to trick him into thinking that he was his lawyer. Minnick excludes this statement no matter what the circumstances were.
+We note that the police department’s standard operating procedure of trying to get to an accused before his attorney does is contrary at least to the spirit if not the letter of the Edwards-Minnick rule.
+In Minnick, the court stated at 151, 111 S.Ct. at 489-490, 112 L.Ed.2d at 496:
+“ * * * The rule ensures that any statement made in subsequent interrogation is not the result of coercive pressures. Edwards conserves judicial resources which would otherwise be expended in making difficult determinations of voluntariness, and implements the protection of Miranda in practical and straight-forward terms.
+“The merit of the Edwards decision lies in the clarity of its command and the certainty of its application.”
+We find no room herein, in light of the above-quoted language, for a “good faith” exception vis a vis United States v. Leon (1984), 468 U.S. 897, 104 S.Ct. 3405, 82 L.Ed.2d 677. The exclusionary rule crafted in the context of the Fourth Amendment is intended to be a deterrent to overzealous searches, see Mapp v. Ohio (1961), 367 U.S. 643, 81 S.Ct. 1684, 6 L.Ed.2d 1081. That approach has led to exhaustive judicial review of the circumstances, including good faith, inevitable discovery, exigent circumstances, automobile exception, expectation of privacy, etc. The United States Supreme Court has clearly chosen to avoid that course in adopting this “irrebuttable presumption.” (Scalia, J., dissenting.) Minnick, supra, 498 U.S. at 160, 111 S.Ct. at 494, 112 L.Ed.2d at 501.
+The trial court correctly interpreted Minnick but found it did not apply to the facts of this case because it could not find any “police misconduct.” It further found that no one had forced appellant to speak to police. However, Minnick clearly does not require an actual finding of police coercion. In fact, the language of Minnick (like its predecessor Edwards) expressly states that the purpose of the rule is to make judicial inquiry into the circumstances totally unnecessary. That is the purpose of fashioning a “bright line” rule.
+Neither can the police plead ignorance of appellant’s request for an attorney, because they, as representatives of the state, are charged with all that the state knew. Further, it may even be that the bright-line EdwardsMinnick rule does not allow for inquiry into what individual police officers knew.
+The state’s brief is replete with other evidence, besides the confession, tending to show that the state’s case was extremely strong. There is no place in the Minnick rule to factor this element into the equation, and this court is at a loss to understand why the state felt it needed the confession in light of the relative strength of its case.
+On authority of Minnick, the assignment of error is sustained.
+For the foregoing reasons, the judgment of the court of common pleas is reversed and the cause is remanded to that court for further proceedings in accord with law and consistent with this opinion.
+Judgment reversed and cause remanded.
+William B. Hoffman, P.J., and Milligan, J. concur.
