@@ -1,0 +1,24 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1505"
+decided: "1927-03-16"
+citations: ["6 Ohio Law Abs. 26"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Ferneding, Kunkle and Allread, JJ., concurring.)"]
+parties: ["CONTINENTAL FINANCE CO. v. GOLD SEAL TIRE CO."]
+source_url: "https://static.case.law/ohio-law-abs/6/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8750788
+cites_cases: ["107 O. S. 583", "130 Tenn. 515"]
+---
+
+# Continental Finance Co. v. Gold Seal Tire Co.
+
+## Majority (BY THE COUBT.)
+
+FULL TEXT.
+BY THE COUBT.
+This case originated in the Municipal Court and involves the title to two certain automobile rubber tires. The facts are as follows: A chattel mortgage upon a certain automobile was duly executed by the purchaser of an automobile to the seller and properly filed. The note and mortgage were assigned to the plaintiff who is also plaintiff in error. Shortly thereafter the owner of the automobile purchased of the Gold Seal Tire Company two new automobile tires and the purchaser gave a chattel mortgage thereon to secure the purchase price. Subsequently the new tires were placed on the mortgaged car. The mortgage held by the Finance Company having become in default the Finance Company repossessed himself of the automobile including the tires. The defendant, The Gold Seal Tire Company, repossessed itself of the mortgaged tires and the plaintiff brought this replevin suit in the Municipal Court to recover -the tires claiming to be the owner thereof by virtue of their having been placed on the wheels of the mortgaged car. It will be noted in this case that the Tire Company sold the tires in controversy to Johnson who was then the owner of the mortgaged automobile, but it does appear that the Tire Company authorized, consented to, or even knew that the tires were to be placed upon the mortgaged automobile. This case therefore differs from the case of Securities Company vs. Orlow, 107 O. S. 583 where the repairs in question were actually placed by the artisan upon the automobile. The artisan there was, as the Court held, charged with constructive knowledge of the mortgage upon the automobile upon which the repairs were made. We have examined the case of Blackwood Tire & Vulcanizing Company v. Auto Storage Company, 130 Tenn. 515, and Purnell v. Fooks, 122 Atlantic 901. In both cases the tires were placed upon the car by consent and with the knowledge of the party who after-wards claimed ownership of the tires. The casé-is very different where the party selling the tires and afterwards claiming them under a chattel mortgage was not a party to the-placing of the tires upon the mortgaged automobile, and was not even aware of their being so placed. The original mortgage upon the automobile was given and assigned to the-Finance Company before the tires in question were purchased or placed upon the automobile, consequently the mortgage held by the Finance-Company would not include after acquired property nor do we think it would include-property such as tires placed upon the automobile and capable of being removed without injury to the automobile where such accessions-were not placed upon or added to the automobile with the knowledge and consent of the party having an interest in the tires. The remaining question relates to the failure of the-Tire Company to add on the mortgage an affidavit as to the amount due. The mortgage of the Tire Company was good as between the parties. Neither the mortgagee of the automobile nor the Finance Company had a superior title as mortgagee of the automobile or assignee of the mortgage. The right of the Tire Company to its unfiled mortgage was superior to the rights of the mortgagee and the-plaintiff under his mortgage on the automobile. It is claimed, however, that -the Finance Company was a creditor of Johnson and as such creditor has the right to attack the validity of the unfiled mortgage. The creditor,, however, who may attack the validity of an unfiled mortgage is one who as creditor by some process has obtained lawful possession of the mortgaged property. The Finance Company, while it obtained possession of the tires, it did not obtain possession under any process as creditor noh by any authority from the Tire Company. Consequently the Finance-Company had no title to the tires as against the Tire Company and when, therefore, the Tire Company took possession of the tires its possession protected it from any subsequent process on behalf of the Finance Company. The judgment of the Municipal Court was in favor of the Tire Company and this judgment was affirmed by the Court of Common Pleas. We are of opinion that said judgments below should be affirmed.
+(Ferneding, Kunkle and Allread, JJ., concurring.)
