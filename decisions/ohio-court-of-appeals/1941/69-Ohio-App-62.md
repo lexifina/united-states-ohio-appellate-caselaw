@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3797"
+decided: "1941-12-01"
+citations: ["69 Ohio App. 62"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Overmyer and Lloyd, JJ., concur."]
+parties: ["Associates Investment Co., Appellee, v. LeBoutillier, Jr., Appellant."]
+source_url: "https://static.case.law/ohio-app/69/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1371068
+cites_cases: ["63 Ohio App., 50"]
+---
+
+# Associates Investment Co. v. LeBoutillier
+
+## Majority (Carpenter, J.)
+
+Carpenter, J.
+This was an action by a mortgagee to replevin an automobile. The Municipal Court of Toledo after an extended trial entered judgment for the plaintiff which.was affirmed by the Court of Common Pleas and defendant filed this appeal on questions of law.
+There is little dispute about the essential facts and they could have been stipulated in a few pages of record, but nearly four hundred pages of testimony were taken, and many exhibits were received.
+The plaintiff, Associates Investment Company, was engaged in financing automobile sales to distributors, dealers and owners, and as such served J. C. Steinman, Inc., a distributor of Studebaker automobiles in Toledo, both in its acquisition of such vehicles from the manufacturer at South Bend, Indiana, and its sales to and through its dealers.
+March 30, 1940, on direction of the plaintiff’s office in South Bend, the automobile in question and three others were turned over to a representative of Stein-man, and an invoice and manufacturer’s certificates of title as required under the Ohio law were executed by Studebaker to Steinman. The manufacturer does a strictly cash business, and this would not have been done but for the assurance of plaintiff to the manufacturer that it would pay for them.
+April 1, 1940, Steinman received these four automobiles and passed on two of them to the dealer, Carder Motor Sales, Inc. Through one of its salesmen, Carder Motor Sales, Inc., had an order for one of these two automobiles from the defendant Philip LeBoutillier, Jr. Late that day defendant received delivery of one of these automobiles from Carder and, with cash and his used automobile, paid Carder the full retail price for it. The only paper he got for this was a receipt in full from the Carder Motor Sales, Inc., and Carder told him that “the manufacturer’s title had not yet come through and he would fix it up as soon as it did. ’ ’ On this promise, defendant relied for his title.
+When Carder Motor Sales, Inc., got the automobile from Steinman, in payment for it, it signed a blank note and mortgage to plaintiff on this and the other car. The data about these cars had not reached Stein-man and the mortgage could not then be fully completed.
+Monday, April 2,1940, the plaintiff at its South Bend office paid Studebaker for the automobiles delivered to Steinman and received the manufacturer’s certificates of title and the invoice for them made out to Steinman. These were mailed to the Toledo office where they arrived April 3, 1940. That day a representative of plaintiff took these papers to the Steinman office and Steinman, to secure plaintiff for the purchase money it had paid Studebaker for Steinman for the four automobiles, executed to plaintiff a chattel mortgage upon them. Two of these automobiles, including the one replevined, had been passed on to Carder. Steinman assigned to Carder the manufacturer’s certificates of title on these, and Carder’s note and mortgage executed in payment for them were completed. Plaintiff then gave Steinman its check for these two cars. Thus two floor plan financing transactions were perfected, and plaintiff retained possession of the manufacturer’s certificates of title on all four of the automobiles to secure its mortgages. At this time no effort was made by plaintiff to ascertain what had become of the vehicle that had gone to defendant — it relied on its possession of the certificate.
+Carder never furnished defendant any semblance of title but kept his money. In about two months, the mortgage being in default, this action was brought. The defendant gave a redelivery bond and kept the automobile. Some question is raised about an amendment plaintiff was permitted to make to its affidavit in replevin but no error was thereby committed.
+In Crawford Finance Co. v. Derby, 63 Ohio App., 50, 25 N. E. (2d), 306, this court had before it a similar transaction and in it expressed its then and present opinion about the Ohio certificate of title law govern-' ing sales of motor vehicles. It is urged in behalf of defendant that this case differs from that in that here the plaintiff knowingly permitted the vehicle in question to be placed in the channel of trade and the defendant innocently got and paid in full for it before plaintiff had possession of the manufacturer’s certificate or had parted with any of its money for it; in other words, defendant thereby acquired some right or interest in the automobile prior and superior to the actual paper title plaintiff later duly possessed.
+If time really was of the essence of the matter, was defendant’s right and interest prior to that of plaintiff? On March 30, 1940, before the manufacturer would part with possession of the new automobile, plaintiff had to assume responsibility for payment for it. While plaintiff did not actually part with its money to Studebaker until April 2nd, it was under a legal obligation for it from March 30, 1940.
+It is not claimed, and no evidence indicates that plaintiff in any way participated in the fraud Carder perpetrated on defendant or that it had any reason to anticipate that such a fraud might be committed by any one. On the other hand, the provision of Section 6290-5, General Code, which provides that a dealer must furnish a purchaser a title within three days indicates that the Legislature anticipated that a motor vehicle might get ahead of its title, as happened here. The title was in Toledo and available to Carder within three days of the time it took defendant’s money and delivered the automobile.
+It must be assumed that defendant and plaintiff knew the provisions of the title law, and that both were bound to observe it. In this respect, the opinion comments in Crawford Finance Co. v. Derby, supra, apply here and will not be repeated. The defendant, without getting title to the automobile, trusted Carder, knowing that the latter part of Sections 6290-3 and 6290-4, General Code, required him to have a certificate of title before he could “acquire any right, title, claim or interest in or to said motor vehicle” and that neither this nor any other court could “recognize the right, title, claim, or interest of any person [defendant] in or to any [that] motor vehicle * * * unless evidenced by a certificate of title * *
+Any other result than this would only open the door to fraud and evasion which the title law was intended to prevent. Neither on equitable nor legal principles can the defendant’s claims be sustained. The judgments of the lower courts were right and they are affirmed.
+Judgments affirmed.
+Overmyer and Lloyd, JJ., concur.
