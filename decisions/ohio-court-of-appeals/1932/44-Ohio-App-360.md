@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1932-11-30"
+citations: ["44 Ohio App. 360", "14 Ohio Law Abs. 246"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Garver, P. J., and Lemert, J., concur."]
+parties: ["Hanratty et al. v. Godfrey."]
+source_url: "https://static.case.law/ohio-app/44/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1331048
+cites_cases: ["11 C. C., 403", "11 O.C.C. 403", "116 Oh St 586", "116 Oh St, 157", "116 Ohio St., 586", "157 N. E., 325", "157 NE 325", "53 A. L. R., 36", "53 A.L.R. 36"]
+---
+
+# Hanratty v. Godfrey
+
+## Majority (Sherick, J.)
+
+Sherick, J.
+E. J. Hanratty, as sheriff of Cuyahoga county, and his bondsman, the United States Fidelity & Guaranty Company, here seek reversal of a judgment entered against them upon the verdict of a jury rendered in a negligence case, based upon the negligence of a deputy sheriff and the provisions of Section 2831 of the General Code.
+The petition in this case, in addition to the usual facts of negligence in such suits, averred and established that five persons had been convicted of felonies in the court of common pleas of Cuyahoga county, and that in compliance with the statutes of this state that such persons upon conviction be committed to the state penitentiary within five days thereafter these prisoners were being conveyed to Columbus in an automobile belonging to the county of Cuyahoga, then in the use and control of its sheriff, in the performance of his official duties as such officer, and that the county car collided with plaintiff’s car en route, as a result of which serious injuries are said to have been sustained.
+These prisoners were in the custody of two legally appointed deputy sheriffs of Cuyahoga county and one police officer. One of these deputies was the driver of the car. The deputies had in their possession certain writs and processes of the trial courts commanding the transfer and commitment of these felons to the care of the warden of the state penitentiary, and under these writs the deputy sheriffs were acting.
+To the petition as filed the plaintiffs in error generally demurred. It is now claimed that the trial court erred in overruling these demurrers. It is also claimed that their motion for a directed verdict was improperly overruled. Other grounds of error claimed in the petition in error are not pointed out in brief or oral argument and have been abandoned.
+The question raised by the claimed errors is whether or not, under these facts, an action can be maintained directly against the sheriff and his bondsman. They first assert that the mere mechanical act by the deputy in operating the car was not an act done in an official capacity, or the performance of an official duty. Secondly, it is contended that even if the deputy was acting in an official capacity he was in the performance of a governmental duty, and that neither the sheriff nor his deputy would be liable in his official capacity.
+The plaintiffs in error recognize that Section 2834, General Code, makes it the general duty of the sheriff to execute every summons, order, or other process, and to make return thereof, and that Section 13455-1, General Code, enjoins upon him the special duty of conveying one sentenced for felony to the penitentiary within five days after sentence. To avoid the effect of the plain mandate of these sections, it is urged that when the deputy stepped behind the wheel of the car he was doing something any one could have done, and which he was not required'by law to do, and which was entirely outside the scope of his “official duties,” within the meaning of the term as intended by the statutes. We are unable to be convinced by this reasoning.
+Now it is provided by Section 2831, General Code, that: “The sheriff shall be responsible for neglect of duty or misconduct in office of each of his deputies.” By the enactment of this section it was without doubt the intention of the Legislature to place upon a sheriff the responsibility of seeing to it that his choice of deputies be wisely made, and that trustworthy and dependable peace officers be chosen as his aids. It was well recognized that deputies might be over-officious, and might carelessly or wantonly disregard the rights and liberties of those whom they were selected to serve. It was therefore proper to repose responsibility in the appointing officer, to the end that his appointee would not prostitute his office and that the people should be well served.
+In the present instance an official duty was being performed; and in order that it might be accomplished, an instrumentality, to wit, an automobile, was placed at the disposal of his deputy. We have recognized in this state that an automobile is not in and of itself a dangerous agency, but that it may be so operated as to become a dangerous instrumentality. It is not contended in this court that the sheriff’s deputy operated the car in an improper manner; but that it was negligently operated to the injury of the defendant in error is practically admitted. This being true, the inquiry comes, Was the negligence of the deputy official misconduct? We hold that it was.
+In the case of Rischer v. Meehan, 11 C. C., 403, 5 C. D., 416, it is said:
+“The real question in all such cases is, was the particular act complained of unlawful, and done while engaged in, and in connection with, the performance of an official duty? * * * If it was done in the attempt to perform an official duty, then it was official misconduct.”
+In United States Fidelity & Guaranty Co. v. Samuels, 116 Ohio St., 586, at page 592, 157 N. E., 325, 53 A. L. R., 36, it was urged that negligence of a police officer in the operation of an automobile was not official misconduct; but the court held otherwise and remarked that “whatever he was doing was being done, not as an individual, but as an officer acting not only by virtue of, but under color of, his office.” That court further held at page 593:
+“Clearly, where in the discharge of an official duty an officer fails to take that precaution or exercise that care which due regard for others requires, resulting in injury, his conduct constitutes a misfeasance.”
+It is therefore our conclusion that when the sheriff places this car at the disposal of his deputy, as an instrumentality to be used by him in the doing of an official act enjoined by statute upon him, and his deputy so unlawfully uses that agency that it injures another in the course of such use, it is official misconduct as contemplated in Section 2831 of the General Code, for which the sheriff is liable.
+It does not follow that because an action could not be maintained against the county for the official misconduct of a sheriff, or.his deputy, in the discharge of a governmental duty, there can be no recovery against one who is guilty of misconduct, or as against the sheriff and his bondsman, in this case, who is by the statute made responsible for his deputy’s misconduct. To say that the officer is not liable because the county could not be held would be absurd and lead to the conclusion that a police officer can do no wrong. Finding no error, the judgment is affirmed.
+Judgment affirmed.
+Garver, P. J., and Lemert, J., concur.
