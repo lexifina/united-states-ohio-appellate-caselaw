@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1941-04-22"
+citations: ["67 Ohio App. 538"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Klinger, P. J., and Crow, J., concur."]
+parties: ["Lima Memorial Hospital, Appellee, v. Harrod, Appellant."]
+source_url: "https://static.case.law/ohio-app/67/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1368293
+---
+
+# Lima Memorial Hospital v. Harrod
+
+## Majority (Guernsey, J.)
+
+Guernsey, J.
+This is an appeal upon questions of law and fact from a judgment of the Court of Common Pleas of Auglaize county, in an action pending in that court wherein Lima Memorial Hospital, the appellee herein, was plaintiff, and Ola V. Harrod, the appellant herein, was defendant.
+The action is one in partition and, by stipulation of the parties, was submitted to this court for trial de novo upon the transcript of the evidence had on the trial in the Common Pleas Court.
+In its petition plaintiff alleges that it has a legal right to and is seized in fee simple as the grantee of John C. Harrod, deceased, of the real estate described therein, subject to Ola V. Harrod’s right to one-half of the net income therefrom during her life; and that during the life of Ola Y. Harrod, plaintiff is the owner of and entitled to the other half of the net income from the real estate.
+Plaintiff further alleges that Ola V. Harrod is a tenant in common with plaintiff during the life of Ola Y. Harrod, in equal proportions or parts of the net income from the described real estate; that plaintiff and defendant have been unable to agree on the value of defendant’s estate or interest in the premises; that it is and will be difficult under the conditions existing to rent the premises profitably, make the necessary repairs and determine the net income arising therefrom during the life of the defendant; and that by reason thereof, the estates of both plaintiff and defendant and the estate in remainder of plaintiff will depreciate and become less valuable.
+The prayer of the petition is that the estates, during the life of Ola Y. Harrod, be partitioned and plaintiff’s interest be set off in severalty, or, if that cannot be done without manifest injury, that the value of the life estate of each of the parties hereto in one-half of the net income during the life of Ola V. Harrod be fixed and determined and the same sold under the order of this court and the proceeds arising from such sale be divided.
+From the petition and the other pleadings in the case, and from the transcript of the evidence, it appears that whatever rights either the plaintiff or defendant has in the real estate described in the petition, are derived from a deed executed by John C. Harrod, unmarried, to Lima Memorial Hospital, under date of December 24, 1936, which is recorded in volume 130 at page 4 of the record of deeds of Auglaize county. The material provisions of this deed, insofar as the subject-matter of this case is concerned, are as follows:
+“Know All Men by These Presents, that John C. Harrod, unmarried, the grantor, in consideration of the sum of one dollar and other valuable consideration •- — • dollars, in hand paid by Lima Memorial Hospital, of Lima, Ohio, the grantee, does give, grant, bargain, sell and convey unto the grantee its successors and assigns in office, the following described premises, situated in the county of Auglaize and state of Ohio, to wit: The southwest quarter (%) of the northwest quarter (%) of section two (2) township five (5) south, range seven (7) east, containing forty (40) acres more or less.
+“Also the following described real estate situated in the county of Auglaize and state of Ohio, to wit: One hundred (100) acres more or less, off the north side of the northeast quarter (%) of section number three (3) in township five (5) south, of range seven (7) east, Union township, Auglaize county, Ohio.
+“Subject to one-half of the net income from aforesaid described real estate belonging to Ola V. Harrod during tbe life of Ola V. Harrod. * * *
+“To have and to bold tbe above granted and bargained premises, with tbe appurtenances thereunto belonging unto tbe said grantee its successors in office and assigns forever. And said grantor does for himself and heirs covenant with said grantee its successors in office and assigns, that at and until tbe ensealing of these presents be was seized of tbe above described premises, as a good and indefeasible estate in fee simple, and has good right to bargain and sell tbe same in manner and form as above written, and that tbe same are free from all encumbrances whatsoever, except as above set forth and will warrant and defend said premises, with tbe appurtenances thereunto belonging, to tbe said grantee its successors in office and assigns, forever, against all lawful claims and demands of all persons whomsoever.”
+Under tbe pleadings and tbe evidence tbe sole question in this case is whether tbe plaintiff and defendant are co-tenants in such an estate or interest in tbe land described in tbe petition that such estate or interest may be partitioned, either under tbe statute or in equity. "Whether there is such an interest or estate is wholly dependent upon tbe character of tbe interest or estate tbe defendant Ola V. Harrod has therein.
+Prom an inspection of tbe provisions of tbe deed hereinbefore set forth it will be noted that no estate in tbe real estate therein described is granted to -Ola Y. Harrod and that any right she may bave therein is derived solely from tbe clause following tbe description of tbe real estate in tbe granting clause, which reads as follows:
+“Subject to tbe one-half of tbe net income from aforesaid described real estate belonging to Ola Y. Harrod during tbe life of Ola Y. Harrod. ’ ’
+Tbe deed, insofar as any right that Ola Y. Harrod may have thereunder is concerned, constitutes a contract between John C. Harrod and Lima Memorial Hospital, based upon a valuable consideration passing from one to the other, and the provision thereof last quoted constitutes a promise upon the part of Lima Memorial Hospital, supported by such consideration, to render unto Ola Y. Harrod one-half of the net income from the real estate during her life, which should constitute a charge upon the real estate. This promise was made for the benefit of Ola Y. Harrod and is enforceable by her. The right which Ola V. Harrod has under the deed is simply a contractual charge upon the real estate therein described. 1 Bouvier’s Law Dictionary (Rawle’s 3rd Rev.), page 459. Such contractual charge does not constitute such an interest or estate in land as may be partitioned either under the statute or in equity. It is, however, of such character that it may be enforced and protected by a court of equity.
+As the right and interest of defendant Ola V. Harrod has in such real estate does not constitute an estate or interest in land which may be the subject of partition, there is not such an estate or interest in the land in the parties as may be partitioned, and the petition herein will therefore be dismissed at costs of .the plaintiff.
+Petition dismissed.
+Klinger, P. J., and Crow, J., concur.
