@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "21665"
+decided: "1950-01-16"
+citations: ["56 Ohio Law Abs. 531"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SKEEL, PJ, McNAMEE, J, HURD, J, concur."]
+parties: ["STATE ex NATIONAL CITY BANK et, Relator, v. CUYAHOGA COUNTY COMMON PLEAS etc. et, Respondents."]
+source_url: "https://static.case.law/ohio-law-abs/56/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8753042
+cites_cases: ["142 Oh St 528", "146 Oh St 348", "307 U. S. 161"]
+---
+
+# State ex rel. National City Bank v. Cuyahoga County Common Pleas
+
+## Majority (Per CURIAM:)
+
+OPINION
+Per CURIAM:
+This is an action in Prohibition in which the Relator, National City Bank of Cleveland, Trustee, seeks the issuance of a writ prohibiting the Respondents, Judges of the Court of Common Pleas of Cuyahoga County from hearing and deciding applications for the allowance of expenses and attorneys fees. The applications were filed on May 13, 1949, in four cases in which final judgments were rendered at former terms of the Common Pleas Court. Applicants as holders of Land Trust Certificates of equitable ownership in the Citizens Building property and purporting to act in behalf of all certificate holders filed four actions and intervened as cross-petitioners in a fifth case during a period of eight years, as follows:
+“1. Stanley v. Citizens Building et al No. 513320 Common Pleas Court. Action for Declaratory Judgment. Dismissed by plaintiffs at their costs Jan. 20, 1942.
+2. Stanley v. Hart, Supt. of Banks et al No. 515986 Common Pleas Court. Action to set aside the trust and declare same invalid.
+Judgment for defendants, March 23, 1943; affirmed by the Court of Appeals; affirmed by Supreme Court of Ohio Feb. 9, 1944 (142 Oh St 528)
+3. State ex rel Stanley et al v. Cook, Supt. of Banks, et al, No. 30007, Supreme Court of Ohio. Action in mandamus. Judgment for respondents in that case Feb. 27, 1946. (146 Oh St 348)
+4. Cary R. Alburn, Trustee v. Union Trust Co. et al, No. 563819 Common Pleas Court. Action for declaratory judgment.
+Demurrer sustained Jan. 10, 1948;; affirmed by Court of Appeals and Supreme Court of Ohio. Certiorari denied by the United States Supreme Court.
+5. National City Bank, Trustee v. Cook, Supt. of Banks et al, No. 565171 Common Pleas Court. Quiet title action in which applicants intervened and filed an answer and cross-petition to set aside the trust and declare sanie invalid.
+Applicant’s answer was stricken, demurrer to their cross-petition was sustained and the title was quieted by final order entered Feb. 11, 1948; affirmed by Court of Appeals and Supreme Court; Certiorari denied by the United States Supreme Court.”
+In none of the above actions was there a claim made for attorneys fees or expenses. Jurisdiction was not reserved by the trial court in any of the cases, nor was there any fund created by applicants, or any fund or res in or under the control of the court at any time. Concurrently with the filing of the applications in the four cases originating in the Common Pleas Court, applicants requested a reference to a Referee.
+The Trustee moved for a dismissal of the applications in the Common Pleas Court on the ground that the Court was without jurisdiction to consider them. The Common Pleas Court overruled the Trustee’s motion on the authority of Sprague v. Ticonic Bank, 307 U. S. 161, and its own action in allowing attorneys fees and expenses to other certificate holders who were parties advérse to the applicants in two of the above cases. This allowance of fees and expenses was made in a proceeding where the jurisdictional question was neither raised nor considered.
+Upon a review of the record, we are of the opinion that the Common Pleas Court lost jurisdiction of the persons and subject matter in each of the above cases originating in that Court and that unless the principles announced in Sprague v. Ticonic Bank, supra, are controlling a writ of prohibition should issue. The facts and applicable principles of Sprague v. Ticonic Bank, supra, are well summarized in paragraph 1 of the syllabus:
+“1. When a litigant in the District Court, through the prosecution of a suit on his own behalf, and at his own expense, has affixed a lien on earmarked funds in an insolvent bank for the repayment in full, with ordinary costs and interest, of a sum theretofore deposited by him in trust, and by so doing, has incidentally through the principle of stare decisis, established like right for other depositors, not parties to the suit, but in like situation, it lies within the power of the court as a court of equity to make the successful litigant an allowance of costs ‘as between solicitor and client’ for counsel fees and litigation expenses, to be paid out of the earmarked funds.”
+Concededly, there are points of similarity between the Sprague case and these proceedings. In each, the claim for attorneys fees was made in original actions with no fund before or under the control of the trial court and with no reservation of jurisdiction or mandate from the reviewing courts to award “solicitor and client” costs. But the distinguishing characteristics of these proceedings are of impressive significance. The applicants were unsuccessful litigants in five suits as contrasted with the successful plaintiff in the single suit filed in the Sprague case. Here, no lien was affixed on earmarked funds securing the payment in full of the amount claimed or was there an establishment of a lien for the benefit of others through the principle of stare decisis or otherwise.
+In the Sprague case, the Supreme Court held that the power to consider a petition for attorneys fees filed in the original action after term was to be found in the “historic authority of a Court to do equity.” But the court’s opinion is weighted with references to a creation' of a fund by plaintiff to such an extent as to indicate clearly that this factor was deemed to be of persuasive if not controlling effect. After adverting to the sources bearing on 18th Century English Practice as supporting the “allowance of costs as between solicitor and client” the court said (at pages 165-166),
+“To be sure, the usual case is one where through the complainant’s efforts a fund is recovered in which others share. Sometimes the complainant avowedly sues for the common interest while in others his litigation results in a fund for a group though he did not profess to be their representative. The present case presents a variant of the latter situation.” (Emphasis ours.)
+And again on page 167 the following expression of the court appears:
+“But when such a fund is for all practical purposes created for the benefit of others, the formalities of the litigation — the absence of an avowed class suit or the creation of a fund as it were, through stare decisis, rather than through a, decree —hardly touch the power of equity in doing justice as between a party and the beneficiaries of his litigation.”
+We are unable to find precedential authority in the “historic practice of equity” for the allowance of “solicitor and client” costs in any case closely analogous to the instant proceedings.
+Five separate, successive and unsuccessful attempts were made by applicants to have the trust declared invalid. Applicants’ manifest purpose in this litigation was to secure for themselves and the other certificate holders a position as general creditors of the Union Trust Company in liquidation. At and subsequent to the institution of the first suit filed by them, the claims of general creditors of the Union Trust Bank were of much greater value than the land trust certificates. If applicants had been successful they would have created a fund in which all the certificate holders would have been beneficiaries. In such event applicants would have been entitled to an allowance of fees and expenses. Having failed they are not in a position of parties who seek justice between themselves and the beneficiaries of their litigation. True, applicants assert that “The resistance of the
+Successor Trustee, The Superintendent of Banks, and Union Properties Inc. to the determination of this question by the courts resulted in" a protracted series of lawsuits which entailed vast expenditure of time almost continuously over a period of approximately eight (8) years, 1941 to 1949, upon the part of the counsel hereinafter named, who represented the interests of the applicants and the entire class of certificate holders.”
+However, it was the position of the Trustee and not that of the applicants that was vindicated by the protracted litigation.
+Finally, it is to be observed that in the Sprague case it was held that an application for the allowance of fees and expenses could be made after term because the court viewed the petition for reimbursement as an independent proceeding supplemental to the original proceeding and involving no modification of the main decree. We find no parallel in the facts here considered where there is no successful action or main decree that properly may serve -as the basis for a supplemental proceeding for the allowance of solicitor and client costs.
+In our opinion the principles of the Sprague case are inapplicable.
+We consider as controlling the rule of law that holds where a court’s jurisdiction of the person and subject matter of an action has terminated, the court is as destitute of jurisdiction of either the person or subject matter as if such jurisdiction had never been acquired, and if in such circumstances the court proposes to take any further action a writ of prohibition may issue. 42 American Jurisprudence 162, 163. Sec. 25; 32 O. Jur. 585, Sec. 23.
+Writ allowed. Exceptions noted. Order see journal.
+SKEEL, PJ, McNAMEE, J, HURD, J, concur.
