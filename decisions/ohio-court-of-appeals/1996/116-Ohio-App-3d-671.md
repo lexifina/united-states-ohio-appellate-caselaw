@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "96APE05-707"
+decided: "1996-12-24"
+citations: ["116 Ohio App. 3d 671"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bowman and Tyack, JJ., concur."]
+parties: ["NATIONWIDE INSURANCE COMPANY, Appellee, v. ISREAL, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/116/cases/0671-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1163168
+cites_cases: ["109 N.E.2d 271", "142 Ohio St. 299", "157 N.E.2d 116", "158 Ohio St. 266", "169 Ohio St. 31", "1992 WL 82789", "52 N.E.2d 67"]
+---
+
+# Nationwide Insurance v. Isreal
+
+## Majority (Lazarus, Judge.)
+
+Lazarus, Judge.
+Defendant-appellant, Michael Isreal, appeals from a judgment of the Franklin County Court of Common Pleas granting summary judgment in favor of plaintiffappellee, Nationwide Insurance Company, and overruling his motion for reconsideration of the court’s dismissal of his third-party claim against Richard F. Miller. For the reasons that follow, we reverse.
+On April 28,1991, a car driven by appellant and a car driven by Miller collided. Appellant was found guilty of disobeying a traffic control device, and this court affirmed. See Columbus v. Isreal (Apr. 21, 1992), Franklin App. No. 91AP-668, unreported, 1992 WL 82789. Nationwide paid Miller, its insured, $11,225.21 and sued appellant to enforce its right of subrogation. Following vacation of a default judgment against appellant pursuant to Civ.R. 60(B), appellant filed a combined answer, counterclaim against Nationwide, and third-party complaint against Miller.
+Nationwide and Miller jointly responded with a motion to dismiss the counterclaim and third-party claim under Civ.R. 12(B) and 14. The trial court granted the motion as to both Nationwide and Miller. The court held that appellant failed to state a claim against Nationwide and that his claims against both Nationwide and Miller were barred by the doctrine of res judicata. Appellant filed a motion for reconsideration, and Nationwide filed a motion for summary judgment on its claim against appellant. The court denied the motion for reconsideration and offered an additional rationale for its earlier decision, finding that appellant’s third-party claim against Miller, filed almost four years after the accident, was time-barred. The court granted Nationwide’s motion for summary judgment, holding that “[t]he findings of fact from the Municipal Court proceeding are res judicata” and that “the issue of liability for the accident was res judicata.”
+Appellant asserts two assignments of error: (1) “The trial court erred in dismissing the defendant-appellant’s third-party complaint against the third-party defendant, Richard F. Miller”; and (2) “The trial court erred in granting appellee-Nationwide’s motion for summary judgment on the grounds of res judicata.” Appellant does not challenge the trial court’s dismissal of his counterclaim against Nationwide. Neither Nationwide nor Miller filed an appellate brief. Because both assignments of error depend on application of the doctrine of collateral estoppel, the assignments of error will be discussed together.
+The doctrine of res judicata, or claim preclusion, bars a claim that has been actually litigated between the parties and adjudicated. Norwood v. McDonald (1943), 142 Ohio St. 299, 52 N.E.2d 67, paragraphs one and two of the syllabus. A claim is barred by res judicata only if the claim is the same claim that was or could have been litigated in the prior action. State ex rel. Ohio Water Serv. Co. v. Mahoning Val. Sanitary Dist. (1959), 169 Ohio St. 31, 157 N.E.2d 116, paragraph one of the syllabus. Res judicata has no application in this case because Nationwide’s claim of negligence against appellant has not been litigated. The “claim” litigated in the first case was not a negligence claim but a charge under a traffic ordinance of the Columbus City Code. Therefore, the doctrine of res judicata does not apply.
+The doctrine of collateral estoppel, or issue preclusion, bars litigation of a fact or issue that has been actually litigated and necessarily determined in a prior action, even if the prior action involved entirely different claims. See Taylor v. Monroe (1952), 158 Ohio St. 266, 109 N.E.2d 271, paragraph three of the syllabus; Norwood, supra, at paragraph three of the syllabus; Ohio Water Service, supra, at paragraph two of the syllabus. Even assuming that collateral estoppel has some application in this case, application of the doctrine would not resolve all the issues in Nationwide’s negligence claim against appellant. The elements of a negligence claim are duty, breach of duty, proximate cause, and damages. The only issue necessarily determined in the previous action concerns duty and breach of duty: that appellant had a duty to obey a traffic control device and failed to do so. Another relevant issue under our comparative negligence system that has yet to be litigated is Miller’s negligence, if any. Because application of the doctrine of collateral estoppel, even if appropriate, would not resolve all the issues in either appellant’s third-party claim against Miller or Nationwide’s negligence claim against appellant, the trial court erred in granting Miller’s motion to dismiss and granting Nationwide summary judgment.
+The trial court also erred in relying on the theory that appellant’s third-party claim against Miller was time-barred because the third-party complaint was filed almost four years after the accident. Civ.R. 14(A) provides:
+“At any time after commencement of the action a defending party, as a third-party plaintiff, may cause a summons and complaint to be served upon a person not a party to the action who is or may be liable to him for all or part of the plaintiffs claim against him. The third-party plaintiff need not obtain leave to make the service if he files the third-party complaint not later than fourteen days after he serves his original answer.”
+In its March 14, 1995 judgment entry granting appellant relief from judgment under Civ.R. 60(B), the trial court granted appellant twenty-eight days in which “to file an answer and counterclaim against Mr. Miller.” In a combined pleading timely filed, appellant asserted an answer, a counterclaim against Nationwide, and a third-party complaint against Miller.
+For the foregoing reasons, both assignments of error are sustained, the judgment of the Franklin County Court of Common Pleas is reversed, and this cause is remanded to that court for further proceedings in accordance with law, consistent with this opinion.
+Judgment reversed and cause remanded.
+Bowman and Tyack, JJ., concur.
