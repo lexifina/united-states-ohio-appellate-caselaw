@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10124"
+decided: "1967-07-03"
+citations: ["12 Ohio App. 2d 133"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Long, P. J., and Hildebrant, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Tolbert et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-2d/12/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1463986
+cites_cases: ["378 U. S. 478", "384 U. S. 436"]
+---
+
+# State v. Tolbert
+
+## Majority (Hover, J.)
+
+Hover, J.
+Appellants were charged with and convicted of an armed robbery of a Frisch restaurant in Cincinnati on May 9, 1966. The actual robber apparently was one Lyons, also indicted but subject to a separate trial. Defendants, Tolbert and Miles, were indicted on the theory they were either aiders or abetters or conspirators.
+The facts are quite simple. The robbery occurred in the early morning hours of May 9 at the restaurant. Certain material hereinafter referred to was taken from the restaurant manager, one Anderson, by a lone robber, identified as Lyons, armed with a nickel-plated, black-handled, thirty-two caliber revolver. The next day the defendants were arrested at an apartment maintained by Miles at 295 McGregor Avenue in the city of Cincinnati. The apartment was being searched pursuant to a warrant. The search at the apartment revealed a metal box containing a cashbook and several envelopes containing comparatively large amounts of currency. Incident to the arrest of the defendants, a nickel-plated, black-handled, thirty-two caliber revolver was found in defendant Tolbert’s pocket. Subsequently, another envelope with the initials “B. G.” and containing money was found in another location. This was identified by Miles as originally being a part of the other material found at the McGregor Avenue apartment. The initials “B. G.” were those of a carhop captain who was on duty at the restaurant the night of the robbery.
+The day following the arrest, full written statements were taken from both defendants. The statements were taken in strict compliance with the Escobedo rule (Escobedo v. Illinois, 378 U. S. 478) but not in compliance with the subsequently announced Miranda rule (Miranda v. Arizona, 384 U. S. 436).
+On a motion to suppress evidence, filed and heard prior to trial, the court determined that all the material listed above and the accompanying written statements were admissible. At the subsequent trial, the court ruled the physical evidence was admissible, but the statements were excluded as violative of the Miranda rule. The trial occurred after the effective date promulgated by the Supreme Court of the United States for the Miranda doctrine, that is, June 13, 1966.
+The witness, Anderson, the manager of Frisch’s restaurant, identified the metal box and cashbook and the ‘ ‘ B. G. ” envelope as being the property of Frisch’s. He identified the box and book as having been taken in the robbery, and it is a very fair inference that the “B. G.” envelope was also taken in the robbery, although Anderson could not definitely so state.
+This case illustrates again the amazing, almost fantastic results that arise from the Miranda case in that written statements taken lawfully from defendants at the time of arrest, which conclusively indicate involvement in the offense charged, cannot be received in evidence at the time of trial. Without the statements, the state’s ease on a charge of aiding and abetting an armed robbery on the part of the two defendants, Tolbert and Miles, collapses for lack of any proof of participation in the robbery. Without the statements there is not one iota of evidence in the record to indicate any connection between the defendants and the robbery prior to or during the course of its commission. The metal box, cashbook and the “B. G.” envelope might be valid evidence of the offense of receiving stolen goods. The fact that they were found, along with the revolver, in the possession of the defendants the day after the commission of the crime cannot he taken as proof, either direct, inferential or circumstantial, that the defendants assisted the defendant Lyons in planning and executing the robbery.
+By virtue of the Miranda decision, the Supreme Court of the United States has dictated that courts fly in the face of logic, common sense and crystal-clear fact and acquit accused persons who are patently guilty on the basis, not only of a drastic extension of constitutional rights allegedly due an accused person, but also on the basis of requiring the application of those constitutional rights at a point during a criminal proceeding where the state has no opportunity to correct a procedural oversight simply because the required procedure did not exist at the time the state acquired the evidence.
+Fortunately, the simple passage of time will gradually correct these almost unbelievable applications of Miranda, not only in this but in hundreds of other similar cases; but until the time is reached at some indefinite period in the future where police officers in the discharge of their duties can be aware of what the Supreme Court of the United States determines those duties to be, gross miscarriages of justice, such as the acquittal of these defendants, will continue to occur.
+As stated above, when the court was required to refuse admission of the statements in evidence, the state’s case in support of the charge of armed robbery against these defendants collapsed.
+The motion made during the trial for a directed judgment of acquittal of the defendants-appellants should have been granted. This court is reluctantly obliged to enter the judgment which should have been entered in the court below dismissing the charge. The record indicates that the defendants have been confined in a state penal institution since the judgment of the trial court. Ordinarily, this would be a matter of some concern to a reviewing court: however, in this instance it is abundantly clear that the state of Ohio, in all good conscience, is not under any actual or moral obligation to express regret that the sentences have been partially served under an erroneous judgment.
+Deciding this matter as we do on the failure of the evidence to support the charge, it is unnecessary to consider the constitutional questions raised relative to the alleged illegal arrests and the simultaneous search and seizure of physical evidence.
+The motion made in the court below to dismiss the defendants at the close of the state’s case should have been granted and defendants thereupon dismissed. It is accordingly the order of this court that the judgment be entered here which should have been entered in the court below and, accordingly, the defendants must be dismissed.
+Judgment accordingly.
+Long, P. J., and Hildebrant, J., concur.
