@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "No 2301"
 decided: "1933-10-28"
-citations: ["15 Ohio Law Abs. 233", "15 Ohio Law Abs. 254"]
+citations: ["15 Ohio Law Abs. 233"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
