@@ -1,0 +1,72 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2641"
+decided: "1936-07-31"
+citations: ["22 Ohio Law Abs. 563"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and BODEY, JJ, concur."]
+parties: ["SEAMAN v LEONARD et"]
+source_url: "https://static.case.law/ohio-law-abs/22/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1676152
+---
+
+# Seaman v. Leonard
+
+## Majority (By BARNES, PJ.)
+
+OPINION
+By BARNES, PJ.
+The above entitled cause is now being determined on appeal by the defendants from the judgment of the Court of Common Pleas of Franklin County, Ohio.
+Plaintiff in her petition seeks an order of injunction against the defendants, and each of them, restraining them from in any way interfering with beer and liquor permits issued to plaintiff, as threatened by reason of a mechanical mint-vending device being operated in her place of business. The petition was filed in the Court of Common Pleas on the 9th day of October, 1935, and therein, after naming the defendants and their official status, sets out that she is operating a place of business under the name of Lone Pine Inn, located on U. S. Route 25, post office address, Troy, and situated in Miami County, State of Ohio.
+That on the 3rd day of August, 1935, she obtained from the Department of Liquor Control, Permit 4665 — D—3, authorizing her to sell liquor, and on the 29th day of May, 1935, she obtained Permit 16004 — D—1, authorizing her to sell beer.
+That since the issuing of said permits she has been engaged in connection with her other business at said place, in the sale of liquor, beer and hard liquors under the permits issued.
+That at her place of business as she is and has been, since the 29th day of May, 1935, operating a mint-vending machine; that said mint-vending machine is operated in her place of business under and by virtue of a contract entered into between herself and one Harry Warren, which contract is of date May 29, 1935, and by virtue of which contract she claims a right to use in her place of business the said mint-vending machine. The petition further describes the mint-vending machine and says that there was contained thereon a certain copyrighted plate, issued by the government of the United States to one Charles H. Knull, and that for a valuable consideration said Knull has assigned to the said Harry Warren the right to contract for the use of the same.
+A copy of the contract between the plaintiff and the said Harry Warren is attached to the petition and marked Exhibit A.
+The petition further alleges that the right to sell candy mints in accordance with the contract through the vending machine is a valuable right and is a lawful business.
+The petition also sets out in full all the legends and instructions attached to the machine designating a method of restricted use. The petition also refers to tokens which may be received by the customer, and that a glass dial indicates before he proceeds to play whether or not he will receive any tokens, and if so, the number. The instructions on the machine prohibit consecutive play or consecutive alternate play.
+As a complaint against the defendants, the plaintiff alleges that said defendants have in effect declared the use of said mint-vending machine a gambling device and threatened to and, as plaintiff believes, will cancel the said permits issued to plaintiff by said Board, authorizing her to sell beer and liquor in her said place of business, unless she removes said mint-vending machine and ceases to operate the same. The petition further sets out that the defendants are acting or pretending to act under Regulations 32 and 32-A of the Revised Regulations adopted by the Board of Liquor Control of Ohio, August 20, 1935, and further that such regulation is illegal, unwarranted and unconstitutional.
+The petition alleges that on September 20, 1935, the defendant served notice upon the plaintiff for a hearing before the Department of Liquor Control to be held on September 26, 1935, for the purpose of determining whether or not the said permits to sell beer and liquor should be revoked by reason of the said mint-vending machine being located in the place of business of the plaintiff. The said notice stated that said mint-vending machine was a gambling device and exhibited for gambling purposes. A copy of the notice, marked Exhibit B, is attached to and made a part of the petition. It further alleges that the hearing was had on October 5, 1935, and plaintiff’s permits to sell beer and liquor were suspended for a period of ten days.
+Then follows the following allegation, which is set out verbatim and in full:
+“Plaintiff further says that the defendants having designated said mint-vending machine as a gambling device and used as a gambling device, threaten to, and plaintiff believes will cancel and revoke her permits to sell beer and liquor if she continues to operate such mint-vending machine in her said place of business.”
+Thereafter follows general allegations denying the right or authority of the defendants to so act in the premises.
+Following is the prayer asking for injunction, the substance of which has been heretofore stated.
+On October 26, 1935, the defendants filed a joint answer in which they admit their official status, as set out in the petition.
+Admit that beer and liquor permits were issued to the plaintiff as alleged.
+Admit the business of plaintiff and its location and trade name under which it Is operated.
+Admit that notice was issued to the plaintiff to appear before the Board of Liquor Control on September 26, 1935, and show cause why her permits should not be revoked for having violated the regulation 32-A previously adopted by the Board of Liquor Control.
+Admit that after hearing, at which plaintiff was present and participated in, the Board of Liquor Control for good cause shown, suspended the several permits of the plaintiff for a period of ten days, commencing on the 5th day of October and ending on the 14th day of October, 1935, and notified her in writing of such action.
+The answer then avers and admits that pursuant to the authority granted to the Board of Liquor Control by §6064-3, GC, the Board of Liquor Control on October 19, 1934, promulgated the following rule and regulation, known as Regulation 32-A, which reads as follows:
+“No person authorized to sell beer, intoxicating liquors, or alcohol in Ohio, shall have, harbor, keep, exhibit, possess or employ, or allow to be kept, exhibited or used in, upon or about the premises of the permit holder any device, machine or apparatus which may or can be used for gambling or wagery.”
+The answer then avers that the device described in the petition of plaintiff will be and is considered a device that comes within the inhibitions contained in the aforesaid regulation. Then follows a general denial of all allegations not spscifically admitted.
+The joint answer also contains a second defense, the first averment of which adopted and incorporated all of the allegations, averments and denials of the first defense the same as if fully rewritten. The second defense then traverses the allega* ions of the petition claiming the action of the defendants to be void, illegal, without authority of law, unreasonable and arbitrary. Also makes the claim that Regulations 32 and 32-A, promulgated by the Board of Liquor Control are lawful and constitutional regulations and that the action of the Director of the Department and Chief Inspector are required under §§60C4-7, 6084-8 and 6084-25 GC to enforce Regulalation 32. There is the further averment that the intended action of defendants complained about in the petition will be pursuant to and by virtue of the authority granted them by the Legislature of the State of Ohio on the enactment of §§6084-3, 6064-7, 6064-8, 6064-25 and 6084-28 GC, and that all actions of the defendants, the Board of Liquor Control, were pursuant to and by virtue of the authority granted them by act of the Legislature.
+The answer contains the prayer that the petition be dismissed; that the applicat'on of plaintiff for a permanent restraining order be denied and that the defendants recover the costs.
+The plaintiff having filed no reply, the issues between the parties are joined by plaintiff’s petition and the joint answer of the defendants.
+In the court below the cause was tried on the pleadings and the evidence and on December 21, 1935, judgment was entered granting the prayer of the petition for injunction.
+-The defendants prosecuted an appeal to this court.
+By agreement of counsel it was stipulated that the transcript of evidence presented in the lower court might be used in this court, supplemented by such additional testimony as the parties might desire to take. The attorneys representing the respective parties also agreed to name a Master Commissioner ior taking such further testimony, all of which was confirmed by order of this court, duly journalized.
+After the additional testimony was presented, the Master Commissioner made his findings of fact. Both plaintiff and defendants filed objections to such findings.
+While not referred to in the briefs, we note from a careful examination of the transcript of evidence a failure of proof on what we conceive to be a vital element of plaintiff’s case. At the top of page 2 of plaintiff’s petition we find the following allegation:
+“Plaintiff further says that in her said place of business she is and has been sinie the 29th day of May, 1935, operating a mint-vending machine; said mint-vending machine is operated in her place of business under and by virtue of a contract entered into between herself and one Harry Warren, which contract is of date 29th day of May, 1935, * * * etc.”
+As heretofore stated, the petition was filed in the Common Pleas Court on October 9, 1935. This was four or five days after the Board of Liquor Control, on hearing, had suspended plaintiff’s permits for' a period of ten days, which suspension by its terms would terminate on October 14. From the petition the inference would be drawn that notwithstanding the order of suspension, plaintiff had continued to keep and operate the mint-vending machine in her place of business, and that this status maintained on the day she filed her petition, to-wit, October 9, 1935. The evidence very clearly and positively contradicts this allegation of the petition. On page 14 of the transcript of testimony taken in the lower court and by agreement presented in this court being the cross-examination of Rosalie Seaman, the plaintiff, we find the following questions and answers:
+“Q. Your permit to sell beer and spiritous liquor was revoked or rather suspended, was it not, from October 4 to October 14; is that right?
+“A. That is right.
+“Q. Did you have that machine at your place during that time?
+“A. X didn’t.”
+Also see the cross-examination of Rosalie Seaman taken before the Master Commissioner, at page 2:
+“Q. Have you been operating a Knull mint-vending device or machine in your place of business since the lower court has granted a permanent injunction in favor of you?
+A. I have not.
+Q. Have you had a machine since this suit has been instituted?
+A. I have not.”
+The gravamen of the action and the thing complained of by the plaintiff was the threatened cancellation of the beer and liquor permits issued to plaintiff by the defendant Board of Liquor Control. Touching this question of the threatened invasion of her claimed rights, on page 4 of the petition, she says that the defendants “threatened to, and plaintiff believes will, cancel the said permits issued to plaintiff by said Board authorizing her to sell beer and liquor in her said place of business unless she removes said mint-vending machine and ceases to operate same in her place of business.” (Emphasis ours).
+This allegation of the petition bears no other construction than that the threatened cancellation of the beer and liquor permits are predicated on the ground that she failed to remove said mint-vending machine and cease to operate same in her place of business. Plaintiff presents the evidence herself at the time of the filing of the petition the mint-vending machine was removed and, of course, then and there had ceased to operate in her place of business. Under this state of the record the conditions under which the defendants had threatened to cancel the permits had ceased to exist.
+The admissions of the answer do not remove this question as an issue in the case. The nearest approach is on page 3 of the answer, wherein the defendants say “that the intended action of the defendants complained about in the petition of the plaintiff will be pursuant to and by virtue of the authority granted them by the Legislature of the State of Ohio,” etc.
+Again referring to the petition the threat-1 ened action was based on her failure to remove said mint-vending machine and cease to operate the same at her place of business.
+Notice of hearing under dale of September 20, 1935, served on Rosalie Seaman, fixing the time as 1:30 P. M., Thursday, September 26» 1935, when the plaintiff should appear and show cause why her permits should not be revoked for violating the provisions of sections of the General Code of Ohio and Rule 32-A by operating the so-called Knull mint-vending machine, lends no aid to plaintiff’s cause for the reason that hearing was had and order made before plaintiff’s petition was filed. From all that appears on the record the Board’s action was terminated and nothing further was pending.
+We might indulge in the field of conjecture as to what action the defendants would have taken had the plaintiff not removed and ceased to operate the vending machine in her place of business, but this is not the character of case presented by the pleadings. Had the evidence supported her allegations wherein she says, “that in her place of business she is and has been since the 29th day of May, 1935, operating a vending machine,” etc., then the question we have been discussing would have been eliminated.
+For the reasons stated it is our determination that plaintiff’s prayer for injunction must be denied.
+In so concluding we do not reach the question of the legality of Rule 32-A. Entry may be drawn accordingly, and costs will be adjudged against the plaintiff.
+Exceptions will be allowed.
+HORNBECK and BODEY, JJ, concur.
