@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3-97-05"
+decided: "1997-06-23"
+citations: ["120 Ohio App. 3d 360"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Thomas F. Bryant and Hadley, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. ZORNS, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/120/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1539271
+cites_cases: ["10 Ohio St.2d 175", "100 Ohio App.3d 90", "226 N.E.2d 104", "39 O.O.2d 189", "56 Ohio App.3d 105", "564 N.E.2d 1070", "652 N.E.2d 205"]
+---
+
+# State v. Zorns
+
+## Majority (Evans, Presiding Judge.)
+
+Evans, Presiding Judge.
+This appeal is brought by Ricky A. Zorns, appellant, from a judgment of the Court of Common Pleas of Crawford County denying his petition for postconviction relief.
+On October 5, 1983, Ricky Zorns fatally shot James Spears outside the Court Cafe in Bucyrus, Ohio. The following month, Zorns was indicted by a grand jury on one count of murder with a gun specification. The state later amended the indictment to delete the gun specification, and Zorns pled no contest to the murder charge. In January 1984, Zorns was found guilty of murder and sentenced to fifteen years to life imprisonment. Over two years later, in 1986, Zorns filed a motion to withdraw his no contest plea, which was later granted by the trial court. In October 1986, a grand jury handed down a new indictment charging Zorns with aggravated murder with a gun specification. In December 1986, the state amended the indictment to voluntary manslaughter with a gun specification and Zorns entered a plea of guilty. He was subsequently sentenced to ten to fifteen years’ imprisonment on the voluntary manslaughter charge to run consecutively to a three-year sentence on the gun specification.
+On July 13, 1995, the trial court granted Zorns shock probation over the objection of the state. Within months of release, Zorns violated the conditions of his probation by failing to follow instructions of his probation officer, allegedly committing domestic violence, and violating a restraining order. In April 1996, the state dismissed the allegation that Zorns violated his probation by committing domestic violence, and Zorns pled guilty to the remaining probation violations. As a result, the trial court reimposed Zorns’s original sentence. Zorns proceeded to file a petition to vacate or set aside his sentence on August 26, 1996 and a motion for summary judgment on September 12, 1996. Both the petition and the motion were overruled by the trial court on January 21,1997.
+Zorns now appeals the decision of the trial court denying his petition to vacate or set aside his sentence, asserting three assignments of error:
+ASSIGNMENT OF ERROR NO. 1
+“The trial court erred to the prejudice of the defendant-appellant by denying him due process of law as guaranteed in the Fifth and Fourteenth Amendments to the United States Constitution by reindicting him on a more serious charge of aggravated murder after he successfully challenged his original conviction through Ohio’s Post-Conviction Relief Statute (R.C. 2953.21).”
+ASSIGNMENT OF ERROR NO. 2
+“The trial court erred to the prejudice of the defendant-appellant by not providing effective counsel, as guaranteed in the Sixth Amendment to the United States Constitution. Counsel’s performance fell below an objective standard of reasonableness since he failed to raise the issue of vindictive prosecution with the trial court.”
+In his first assignment of error, Zorns contends that the state acted vindictively when it proceeded to indict him on an aggravated murder charge with a gun specification after he had succeeded in exercising his legal right to withdraw his previous no contest plea to the charge of murder. In his second assignment of error, Zorns also claims that the failure of his attorney to argue the claim of vindictive prosecution was ineffective assistance of counsel.
+We find that the first two assignments of error are barred by res judicata, since the claims of vindictive prosecution and ineffective assistance of counsel are based on evidence contained in the record, which Zorns could have, but did not, argue at the trial level or on direct appeal. The Supreme Court of Ohio has given limited application to R.C. 2953.21, the postconviction relief statute, by applying the doctrine of res judicata to petitions seeking relief. Under the doctrine of res judicata, any issue that was raised or could have been raised on direct appeal, cannot be raised in postconviction proceedings. State v. Perry (1967), 10 Ohio St.2d 175, 39 O.O.2d 189, 226 N.E.2d 104. According to Perry:
+“Constitutional issues cannot be considered in postconviction proceedings * * * where they have already been or could have been fully litigated by the prisoner while represented by counsel, either before his judgment of conviction or on direct appeal from that judgment, and thus have been adjudicated against him.” Id., paragraph seven of the syllabus.
+Furthermore, the Supreme Court of Ohio in Perry went on to state:
+“Under the doctrine of res judicata, a final judgment of conviction bars a convicted defendant who was represented by counsel from raising and litigating in any proceeding except an appeal from that judgment, any defense or any claimed lack of due process that was raised or could have been raised by the defendant at the trial, which resulted in that judgment of conviction, or on an appeal from that judgment.” (Emphasis sic.) Id., paragraph nine 'of the syllabus.
+The record in the instant case shows that Zorns knowingly and voluntarily pled guilty, thereby admitting to the facts in the amended indictment, to the reduced charge of voluntary manslaughter with a gun specification, as part of a negotiated plea bargain. Zorns did not appeal his conviction or sentence. Zorns, having failed to raise the issue of vindictive prosecution at the trial level and having failed to take an appeal based on this claim or one of ineffective assistance of trial counsel, cannot now be heard to complain about such errors in a motion for postconviction relief. Perry, supra. We also note that this court may apply the doctrine of res judicata if the petition for postconviction relief does not include any material dehors the record in support of the claim for relief. State v. Combs (1994), 100 Ohio App.3d 90, 97, 652 N.E.2d 205, 209. Here, Zorns’s first and second assignments of error are based solely on evidence in the record and are therefore barred by res judicata. For these reasons, Zorns’s first and second assignments of error are overruled.
+ASSIGNMENT OF ERROR NO. 3
+“The trial court erred to the prejudice of the defendant-appellant by not providing a ‘neutral and detached’ hearing body at his probation revocation. This violated the due process clauses of the Fifth and Fourteenth Amendments of the United States Constitution.” •
+Zorns’s third assignment of error seeks redress for alleged errors in his probation revocation hearing through the use of Ohio’s postconviction relief statute, R.C. 2953.21. However, under the terms of the statute, postconviction relief is .not available to challenge a probation revocation. R.C. 2953.21(A)(1) states:
+“Any person who has been convicted of a criminal offense or adjudicated a delinquent child and who claims that there was such a denial or infringement of his rights as to render the judgment void or voidable * * * may file a petition in the court that imposed sentence, stating the grounds for relief relied upon, and asking the court to vacate or set aside the judgment or sentence or to grant other appropriate relief.”
+In State v. Armstrong (1988), 56 Ohio App.3d 105, 564 N.E.2d 1070, the appeals court found that “[i]n this context the term ‘judgment’ clearly refers to a criminal conviction or delinquency adjudication.” Id. at 105, 564 N.E.2d at 1071. The court recognized that “irregularities in the revocation of probation do not render the original conviction void or voidable.” Id. at 105, 564 N.E.2d at 1071-1072. It was also noted that R.C. 2953.21 does not afford any appropriate remedy for such a violation. Id. We agree with the reasoning employed by the court in Armstrong and find that probation revocation proceedings are not appropriately challenged under Ohio’s postconviction relief statute. As a result, Zorns’s third assignment of error is overruled.
+Having found no error prejudicial to Zorns herein in the particulars assigned and argued, we affirm the judgment of the trial court.
+Judgment affirmed.
+Thomas F. Bryant and Hadley, JJ., concur.
