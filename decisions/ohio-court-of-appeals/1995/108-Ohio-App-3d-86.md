@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "95CA22-2"
+decided: "1995-12-01"
+citations: ["108 Ohio App. 3d 86"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["John W. Wise, J., concurs.", "William B. Hoffman, J., concurs in part and dissents in part."]
+parties: ["BROOME, Appellant, v. OHIO SKI SLOPES, INC., D.B.A. Snow Trails Ski Resort, Inc., Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/108/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1787839
+cites_cases: ["107 Ohio App.3d 1", "451 N.E.2d 780", "585 N.E.2d 384", "6 OBR 170", "6 Ohio St.3d 110", "63 Ohio St.3d 84", "639 N.E.2d 771", "664 N.E.2d 1289", "667 N.E.2d 991", "70 Ohio St.3d 512", "75 Ohio St.3d 1218"]
+---
+
+# Broome v. Ohio Ski Slopes, Inc.
+
+## Majority (Gwin, Presiding Judge.)
+
+Gwin, Presiding Judge.
+Plaintiff Mark M. Broome appeals a summary judgment of the Court of Common Pleas, Richland County, Ohio, entered in favor of defendant Ohio Ski Slopes, Inc., d.b.a. Snow Trails Ski Resort, Inc., finding appellee was not liable to him for injuries he received at Snow Trails Ski Resort, Inc. in Mansfield, Ohio. The trial court cited two independent reasons for its decision, namely, the plaintiff knowingly released the defendant from this claim, and the claim is statutorily barred by R.C. Chapter 4169. Appellant assigns two errors to the trial court:
+“I. The trial court erred in granting defendant-appellee’s motion for summary judgment on the grounds that plaintiff-appellant’s claims are statutorily barred by O.R.C. Chapter 4169.
+“II. The trial court erred in granting defendant-appellee’s motion for summary judgment on the grounds that the plaintiff knowingly released the defendant from the instant claims.”
+Appellant’s statement on summary judgment pursuant to Loc.R. 4(D), asserts the judgment was inappropriate because there were disputed issues of fact and law. Appellant does not set forth any facts allegedly in dispute.
+The parties appear to be in agreement about the facts which gave rise to appellant’s injury. Appellant was riding a chair lift in a double chair shared by another passenger. A person three chairs ahead of him dropped two ski poles on the off-load ramp. The attendant at the top of the ski lift did not stop the lift to clear the ski poles. As appellant disembarked from the chair lift, his right foot hit the ski pole on the ramp, causing him to slip. His left ski turned and caught on a ski pole set to keep skiers away from the off-load ramp area. To catch his balance he threw up his arms, and the lift chair from which he had just come caught his right arm, picked him up, and threw him, causing the injuries of which he complains. Appellee admits the unloading attendant could have stopped the lift and cleared the ramp.
+The trial court found that appellant had expressly released appellee from all claims for liability when he signed and initialed a rental agreement and release of liability. (Appellee also claims the lift ticket it issued to appellant contained a valid release of liability. The trial court expressed reservations about the validity of the release language preprinted in small type on bottom of the ticket. This court shares the trial court’s doubts as to the enforceability of the release contained on the lift ticket.)
+The release of liability signed and initialed by appellant was issued when he rented ski equipment. Appellant argues the release is intended to release appellee from liability for injuries incurred while using the rented equipment. We agree that the majority of the release does refer to equipment rental. However, the release also contains language expressly agreeing not to sue for “injuries or damages related to skiing and/or the use of this equipment.” Appellant initialed this portion separately.
+The trial court found that appellant was under no compulsion to ski at Snow Trails and that he chose to assume the risk of his injury while skiing. The court concluded that he had contracted to assume all risk of injury and to make no claim for injury. We agree. Even disregarding the lift ticket, we find that appellant’s claim is barred.
+Appellee points us to the case of Anderson v. Ceccardi (1983), 6 Ohio St.3d 110, 6 OBR 170, 451 N.E.2d 780, which held that the primary or express assumption of the risk does not merge with contributory negligence under Ohio’s comparative negligence scheme. The Anderson court held that a person may expressly contract with another not to sue for future injuries caused by the other person’s negligence, 6 Ohio St.3d at 114, 6 OBR at 174, 451 N.E.2d at 783-784.
+In Bowen v. Kil-Kare, Inc. (1992), 63 Ohio St.3d 84, 585 N.E.2d 384, the Supreme Court reviewed an accident at a race track. The race track required participants to sign a release assuming all risk for damages and injuries arising from participation in the “Enduro 200” race, in which automobile drivers raced two hundred laps around an oval track. There was a factual dispute regarding whether Bower signed the release. The rules of the race required that officials signal drivers with a red flag in the event the race track became blocked or an automobile created a hazard on the track. Bowen was injured when his vehicle hit a guardrail and became disabled on the race track. Bowen signaled the flagman in the flag tower, but the flagman did not stop the race or permit Bowen to exit the automobile. Bowen remained with his car while the race continued around him, and eventually, another vehicle collided with his, causing him severe injury. The Supreme Court found that if Bowen actually signed the release, then the owners of the race track were not liable for the ordinary negligence of their employees, but only for willful and wanton misconduct, Bowen, 63 Ohio St.3d at 90, 585 N.E.2d at 390-391. The appellant’s complaint does not allege appellee’s employees acted with willful or wanton disregard for his safety.
+Appellant argues the trial court erroneously found he was skiing when he was injured. Appellant maintains he was a passenger on the chair lift. R.C. 4169.01(A) defines a “skier” as one who is wearing skis, or is at a ski area, on a ski slope or trail, for the purpose of skiing. R.C. 4169.01(B) defines a “passenger” as one who is waiting for, being transported by, or disembarking from, a passenger tramway. We agree with appellant that he was a passenger, not a skier, for purposes of R.C. Chapter 4169.
+While the distinction between passenger and skier is significant under R.C. Chapter 4169, we find it does not apply to this release. The release does not refer to the Revised Code, but rather refers merely to injuries and damages “related to skiing.” We find those words to be used in their ordinary sense, not as specific terms as defined by the statute. The words “injuries related to siding” include the type of injury appellant suffered here.
+We find that the rental agreement and release of liability bar appellant’s recovery against appellee for these injuries.
+The second assignment of error is overruled.
+The trial court also found as an independent reason that appellant’s claims were barred by R.C. Chapter 4169. Because we find that the release of liability bars appellant’s recovery, we find that this assignment of error is moot. Accordingly, the first assignment of error is overruled.
+For the foregoing reasons, the judgment of the Court of Common Pleas of Richland County, Ohio, is affirmed.
+Judgment affirmed.
+John W. Wise, J., concurs.
+William B. Hoffman, J., concurs in part and dissents in part.
+
+## Concurring in part and dissenting in part (Hoffman, Judge,)
+
+Hoffman, Judge,
+concurring in part and dissenting in part.
+I concur, in part, with the majority’s analysis of the scope and effect of the Rental Agreement and Release of Liability. As it pertains to any negligence on the part of the appellee, I agree that the release is sufficiently broad to extend beyond negligence associated with the rental of the ski equipment. Nevertheless, to preclude the appellant from recovery because he chose to rent skis instead of using his own skis seems inequitable in light of the fact his injury had nothing to do with any problem associated with the rental skis. Despite the seeming inequity, I join the holding reached the majority as it pertains to any claims the appellant has based on mere negligence against the appellee.
+However, I respectfully dissent from the majority’s conclusion that the appellant’s complaint does not allege that appellee’s employees acted with willful or wanton disregard for his safety. The majority acknowledges that if the appellee acted willfully and/or wantonly, the release would not bar recovery for such misconduct under Bowen v. Kil-Kare, Inc. (1992), 63 Ohio St.3d 84, 585 N.E.2d 384. Concededly, the appellant fails to utilize the terms “willful” or “wanton” in describing appellee’s conduct in his complaint. Instead, appellant characterizes appellee’s conduct as negligent and careless. Nevertheless, I find the facts alleged in the complaint and as supported and supplemented with the evidence offered in opposition to the appellee’s motion for summary judgment to be sufficient to give appellee notice under Civ.R. 8(A) of these claims. Illinois Controls, Inc. v. Langham (1994), 70 Ohio St.3d 512, 639 N.E.2d 771.
+. See, also, my dissent in Spangler v. Kehres (1995), 107 Ohio App.3d 1, 4-5, 667 N.E.2d 991, 992-993, discretionary appeal dismissed as having been improvidently allowed in (1996), 75 Ohio St.3d 1218, 664 N.E.2d 1289.
