@@ -1,0 +1,28 @@
+---
+court: "Ohio Court of Appeals"
+docket: "83"
+decided: "1931-01-22"
+citations: ["10 Ohio Law Abs. 634"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KUNKLE, PJ and HORNBECK, J, concur."]
+parties: ["HOSIER, etc v LUCAS et"]
+source_url: "https://static.case.law/ohio-law-abs/10/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 897102
+---
+
+# Hosier v. Lucas
+
+## Majority (ALLREAD, J.)
+
+ALLREAD, J.
+So far as the testimony of Mrs. Lucas is concerned, it appears from the record that the court adjourned for some thirty minutes to allow the sheriff to find Mrs. Lucas and serve a subpoena upon her. There was no motion that the case be adjourned for a longer time and the plaintiff did not apparently urge any other question as to the disappearance of Mrs. Lucas than the one presented. We do not think this alleged error of the trial court was prejudicial. We think the failure of the defendant, Mr. Lucas, to produce his wife as a. witness would be unfavorable to the defendant rather than aid the other side.
+We are also of opinion that there was no error on the part of the trial jugde in failing to refuse to allow the plaintiff to introduce defendant’s* book. Besides, the book is not offered as an exhibit to the bill of exceptions. We cannot say that this failure prejudiced the plaintiff.
+The next question is as to the sufficiency of the evidence to support the verdict. The plaintiff in error was a witness and his testimony was to the effect that the mortgage was given in 1908 and that he had received certain partial payments which left a balance due on the note of something over five thousand dollars. The defendant, John A. Lucas testified at considerable length in the bill of exceptions and he claimed about the 20th day of December, 1916 there was a conversation between him and the plaintiff as to the amount due on the note; that the witness produced cancelled checks in about the number of 40 or 43 and that the total amount of those checks was $1937.95 which had been paid up to that time; that the defendant remarked that the payments were almost equal to the face of the note. The parties were then on good terms' and the plaintiff asked that he be allowed to take the cancelled checks to verify the payments, and the defendant permitted him to take such checks; that some time thereafter the note as well as the cancelled checks, were lost and could not be produced on the trial. The defendant claimed that he thereupon paid additional amounts, more than enough to cancel the note. The plaintiff introduced one Bessie Moore, a lawyer in the office of James & Coolidge, at Dayton, who testified that the note had been placed in her possession and that she had written to Lucas stating that the amount still due on the note was in the neighborhood of $5,000.00. Lucas did not reply to her but sent a letter to the plaintiff in which he said that he did not think he owed that amount.
+The defendant also introduced Mr. Russell, one of the officials of the building and loan company, who testified that at the request of the plaintiff he drew up a second mortgage for $2500.00 to be signed by Lucas. He does not say that Lucas admitted that he owed that amount, but there is an inference to that effect in his tetsimony, although Lucas never signed the second mortgage nor did he distinctly agree with Russell that he would. This is the substantial state of the evidence as it went to the jury. The jury returned a verdict in favor of the defendant, and that verdict must be sustained unless it is manifestly contrary to the weight of the evidence.
+We have all examined this record and have reached the conclusion that the testimony offered by the defendant Lucas, if believed by the jury, would support the verdict. The testimony of Bessie Moore is not conclusive. The most that can be claimed for such testimony in connection with the answer to this letter sent to the plaintiff is that the defendant did not agree to the amount she claimed, claiming that that amount was too much. So far as the testimony of Russell is concerned, we think that is to the same effect, that the defendant did not agree with the amount of the mortgage proposed to be drawn as due upon the original mortgage.
+If this court were to sit in the place of a jury, we might accede to the claim that the plaintiff was entitled to something on his mortgage; but sitting as a reviewing court, we are compelled to sustain the verdict unless the evidence is manifestly inconsistent therewith. We therefore reach the conclusion that the verdict must be sustained. *
+There are some affidavits attached to the motion for new trial tending to prove that the defendant offered certain witnesses a payment of money in consideration that they would testify in his favor. These affidavits are not attached to the bill of exceptions and are found in connection with other affidavits in which the defendant denies the claim contained in said letters and admits only that he paid certain expenses of one witness, amounting to about $5.00. These affidavits should have been attached to the bill of exceptions, but we have considered the same and have considered that the affidavits on file are all the affidavits. If the affidavits filed by the defendants are conceded as true we can find nothing upon which the motion for a new trial should be granted. We therefore reach the conclusion that the judgment of the Court of Common PIea,s should be affirmed.
+KUNKLE, PJ and HORNBECK, J, concur.
