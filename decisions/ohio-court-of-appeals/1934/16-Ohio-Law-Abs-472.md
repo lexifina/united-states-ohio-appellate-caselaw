@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2384"
+decided: "1934-01-23"
+citations: ["16 Ohio Law Abs. 472"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KLINGER and GUERNSEY, JJ, (3rd Dist), and MONTGOMERY, J, (5th Dist) sitting.", "KLINGER and MONTGOMERY, JJ, concur"]
+parties: ["STATE ex MADIAS v DIXON et"]
+source_url: "https://static.case.law/ohio-law-abs/16/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1654771
+cites_cases: ["252 U. S., 512", "26 Mo. 496", "88 NW, 412"]
+---
+
+# State ex rel. Madias v. Dixon
+
+## Majority (By GUERNSEY, J.)
+
+OPINION
+By GUERNSEY, J.
+The pleadings filed therein raise the following legal questions: First,.does the Ohio Liquor Control Commission have the implied power of suspending a license as incidental to and by virtue of its power to revoke expressly granted by the Legislature ixx §6212-47 GC, which reads in part:
+"Any license issued pursuant to this act may be revoked for cause, and must be revoked for the following causes:
+“(1) Conviction of the licensee or his agent or employee for selling any illegal beer or other illegal beverages on the px’emises licensed.
+“(2) For making any false material statement ixx an application for a license.
+“(3) For transferring, assigning or hypothecating a license contrary to the provisions of this act.
+“(4) For selling or agreeing to sell beer to a wholesaler or retail dealer who is not licensed at the time of the agreement and. sale.
+“5. For failure or default of a licensee to pay an excise tax or any .part thereof,, and/or penalties imposed by or under the provisions of this act and for a violation of' any rule or regulation of the commission in pursuance thereof.
+“A license to manufacture or sell beer or other legal beverages under this act may be revoked by the commission on its own initiative or on complaint of any person, after a hearing at which the licensee shall be given an opportunity to be heard in such manner and upon such notice as may be prescribed by rules of said commission.
+"The following actions by the commission shall be subject to review by the Common Pleas Court of Franklin County and no stay shall be granted pending the determination of the matter:
+“1. The refusal of the commission to issue a license.
+“2. The revocation of a license by the commission.
+“Within three days after a license shall' have been revoked, notice thereof shall be given to the licensee by mailing such notice addressed to him at the premises licensed-The holder of such license shall thereupon surrender same by mailing it to the commission. The mailing thereof by the licensee; to the commission at Columbus by registered mail or insured parcel post shall be deemed sufficient compliance with this provision. The commission immediately upon giving notice of revocation, shall serve a-written notice thereof upon the commissioner of police, chief of police or chief police officer of the city, township or village in which the premises for which the revoked license was issued, is situated, or upon the sheriff of the county or a constable of the township in case the license was issued for premises situated in a township and not within any city or village. This notice shall include a statement of the number of such license, the name and place of residence of the holder thereof, the location of the licensed premises, and the date when such license was revoked.
+“In case such license be not forthwith surrendered, the commission shall issue a written demand for the surrender of such license and deliver said demand to the sheriff of the county in which the licensed premises are located or to any special agent of the commission, and said sheriff or special agent shall immediately demand possession of such license and return the same to the commission.”
+Second: If the power to suspend a license is implied from the express power of revocation, can it be exercised by the Ohio Liquor Control Commission without first giving a permit holder notice of a hearing or an opportunity to be heard?
+With reference to the first question, we have not found any Ohio decision directly in point but in the case of State Board of Dental Examiners, and others v Savelle, 8th Pacific, 2nd Edition (693 Colorado) 1932, involving the question of the authority of the State Board of Dental Examiners to suspend the license of certain dentists where the statute under consideration conferred power on the Board to revoke licenses but did not expressly authorize suspensions, it was held that insofar as the imposition of a penalty was concerned the power to revoke permanently includes the power to revoke temporarily, that is, to suspend; and we approve this holding as a correct statement of the law applicable to the authority of tl^e respondents to suspend a license.
+Counsel for the respondents have in their brief cited a number of authorities as applicable to the second question. Among the authorities cited is the Colorado case above referred to. This case is not pertinent to the second question, as the decision is limited to the proposition that the power to impose a penalty or revocation implies a power to impose a penalty of suspension and does not extend to the cases in which a suspension is attempted to be imposed apart from its inclusion in a penalty of revocation.
+The other cases relied on by the respondents are Burnap v U. S., 252 U. S., 512; State ex Brison v Lingo, 26 Mo. 496, and State ex Douglas v Megaarden, 88 NW, 412; (Minnesota). These cases all relate to suspensions from office pending the hearing of proceedings for removal, and do not relate to suspensions or revocations of licenses. From the statement of facts in the Burnap case it does not appear that the officer suspended had any right to a hearing and the suspension was treated as a part of the order to remove. In the other cases the suspensions were all made pending hearings on charges which had been filed and were sustained on the theory that the continued occupancy of the office pending the hearing of charges against the officer whose removal was sought would have a tendency to prevent a proper presentation of the charges upon which removal was sought. The theory upon which the suspension in the cases of removal was sustained do not apply to the suspension of a license as the continued operation under license would not in any way impede the proper authority in prosecuting proceedings for revocation of a license. It also seems clear that in the absence of express statutory authority that an officer could not be suspended from office nor a license suspended for purposes of investigation.
+Sec 6212-47 GC expressly provides that a license may be revoked for cause and must be revoked for certain specified causes, but the section also contains certain limitations on the right to revoke, the first being that the license shall be revoked “after a hearing at which the licensees shall be given an opportunity to be heard”; and the second, being that the action of the commission revoking a license shall be subject to review by the Common Pleas Court of Franklin County. While the power to revoke for certain purposes implies the power to suspend it would appear that the power that is implied can rise no higher than the power that is expressly granted and that the power to suspend is subject to the same limitations as the power to revoke, and that consequently the Commission only has power to suspend a license for cause after a hearing at which the licensee shall be given an opportunity to be heard and that an act of the Commission in suspending a license is subject to review by the Common Pleas Court of Franklin County in the same manner as the action of the Commission in revoking a license. To hold otherwise would confirm the power of the Commission to deprive a licensee of all the benefits of a license through a suspension of same without cause without a hearing and without review and thus accomplish a revocation through an implied power which it does not have under an express power, and such construction carried to its logical conclusion would authorize the Commission to suspend all licenses and nullify the purpose of the Act under which they are appointed.
+Holding these views, the demurrer will be overruled.
+KLINGER and MONTGOMERY, JJ, concur
