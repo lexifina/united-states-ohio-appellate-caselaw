@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "78257 and 78809"
+decided: "2001-06-18"
+citations: ["144 Ohio App. 3d 334"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kilbane and O’Donnell, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. PARKER, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/144/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 362729
+cites_cases: ["1999 WL 1129579", "2000 WL 217763", "2000 WL 263733", "2001 WL 333788", "715 N.E.2d 131", "724 N.E.2d 793", "86 Ohio St.3d 324", "88 Ohio St.3d 208"]
+---
+
+# State v. Parker
+
+## Majority (Michael J. Corrigan, Presiding Judge.)
+
+Michael J. Corrigan, Presiding Judge.
+In two cases consolidated before the court for trial without a jury, defendant Joseph Parker was found guilty of eight counts of aggravated arson in CR-354107, and one count of aggravated arson, one count of arson, and one count of disrupting public service in CR-353759. The court sentenced defendant to maximum sentences on a number of those counts, and further ordered that some of those counts be served consecutively. On appeal, we reversed the maximum and consecutive sentences and remanded for further consideration because the court failed to make the predicate findings required by R.C. 2929.14. See State v. Parker (Dec. 9, 1999), Cuyahoga App. Nos. 75117 and 75118, unreported, 1999 WL 1129579. On remand, the court again imposed maximum and consecutive sentences. Defendant appeals, and his sole assignment of error complains that the court, while making the appropriate findings for imposing the maximum sentences, failed to state its reasons for making those findings.
+I
+When imposing the maximum sentence for an offense, the sentencing court is required to do two things. First, the sentencing court must make a finding that the offender committed the worst form of the offense or that offender poses the greatest likelihood of committing future crimes. See R.C. 2929.14(C). Second, the sentencing court must state reasons that support its findings. See R.C. 2929.19(B)(2)(d).
+There is a substantive difference between the “findings” supporting a maximum term and the court’s “reasons” for making those findings. In State v. Berry (Mar. 9, 2000), Cuyahoga App. Nos. 75470 and 74571, unreported, 2000 WL 263733, we cited State v. Edmonson (1999), 86 Ohio St.3d 324, 715 N.E.2d 131, and said, “We read ‘finding’ to mean the various findings outlined in R.C. 2929.14 and ‘reasons’ should mean the trial court’s stated basis for its ‘findings.’ ” The Ohio Supreme Court recently reaffirmed this point in State v. Arnett (2000), 88 Ohio St.3d 208, 217, 724 N.E.2d 793, 800, by saying, “Indeed, as this court recently noted, some statutes require the sentencing judge to state both the findings and the reasons for those findings on the record.” (Emphasis sic.) (Citation omitted.) The court’s failure to provide its reasons along with its findings constitutes reversible error. See State v. Mickey (Apr. 5, 2001), Cuyahoga App. No. 77889, unreported, 2001 WL 333788.
+The factors going to the court’s reasons for imposing a maximum sentence are listed in R.C. 2929.12(B). In the similar context of consecutive sentences (which we will address shortly), we have stated:
+“It is not enough, as the state argues, that the record before the trial court ‘adequately supports’ the imposition of consecutive sentences. Rather, as is apparent from the statutory language of R.C. 2929.14(E)(4) and R.C. 2929.19(B)(2)(c), the trial court must make a record at the sentencing hearing that confirms that the trial court’s decision making process included all of the statutorily required sentencing considerations. See State v. Edmonson (1999), 86 Ohio St.3d 324, 715 N.E.2d 131.” See, also, State v. Bolton (Feb. 24, 2000), Cuyahoga App. No. 75865, unreported, 2000 WL 217763.
+We find this language fully applicable to imposing maximum sentences, since the language requiring the court to state its reasons is identical in any event. See R.C. 2929.19(B)(2)(c) and (d).
+The court did not state adequately its reasons for imposing a maximum sentence. The relevant portion of sentencing follows:
+“The Court finds the defendant committed one of the worst forms of this offense; that he created a substantial risk of injury to persons and property.
+“The Court feels that a maximum sentence is necessary to protect the public from you. The Court further finds consecutive sentences would not detract from the seriousness of the defendant’s conduct and are necessary to protect the public from future offense to be committed by this defendant; and that he poses a danger to the public and specific persons and to property.”
+While the court obviously made a finding for imposing the maximum sentence, the record does not contain any reasons for that finding. The court should have indicated that it considered the seriousness of the factors set forth in R.C. 2929.12(B) and that consideration of those factors provided the reasons for imposing the maximum term.
+We are aware that there are facts from the trial transcript that might provide support for finding that defendant committed the worst form of the offense. The court could have considered that defendant’s acts of arson against his former girlfriend caused her mental injury by way of intimidation. See R.C. 2929.12(B)(1). The court could also have considered that defendant’s relationship with the victim facilitated the offense. See R.C. 2929.12(B)(6). Moreover, defendant’s indiscriminate act of setting a house on fire without regard to the occupants of the house suggested a higher degree of seriousness for-the offenses, but adequate support from the record is not enough. Of course, these are factors for the court to consider. The court’s decision to impose the maximum sentences is reversed.
+II
+In order to impose consecutive sentences, the court must find that consecutive sentences are necessary in order to protect the public from future crime or to punish the offender and that consecutive sentences are not disproportionate to the seriousness of the offender’s conduct and to the danger the offender poses to the public. See R.C. 2929.14(E)(4). The court must also find that “(1) the offender was awaiting trial or sentencing on another offense, was under community control, or was under post-release control; (2) the harm caused was great or unusual and that no single prison term would adequately reflect the seriousness of the offender’s conduct; (3) the offender’s history of criminal conduct demonstrated that consecutive sentences were necessary to protect the public from future crime by the offender.” Id.
+As with its decision to impose maximum sentences, the court made the requisite findings for imposing consecutive sentences but it did not state its reasons. Defendant’s conduct arguably fell within R.C. 2929.14(E)(4)(c), particularly since the court did say that consecutive sentences “are necessary to protect the public from future offense to be committed by this defendant.” We recognize that this “finding” can also constitute a “reason” under the statute. See Bolton, unreported, at 9, fn. 1. Nevertheless, the better practice is for the court to make some statement setting forth the thought process that went into the decision. On remand, should the court once again choose to impose consecutive sentences, it should state its finding that consecutive sentences are warranted and clearly state its reasons for making that finding.
+Judgment reversed and cause remanded for resentencing.
+Kilbane and O’Donnell, JJ., concur.
