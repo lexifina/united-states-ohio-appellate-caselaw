@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA90-07-073"
+decided: "1991-02-25"
+citations: ["72 Ohio App. 3d 608"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones, P.J., Koehler and William W. Young, JJ., concur."]
+parties: ["BOARD OF TRUSTEES OF WILLIAMSBURG TOWNSHIP, Appellant, v. KRIEMER et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/72/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1470379
+cites_cases: ["1986 WL 14964", "287 N.E.2d 814", "31 Ohio App.2d 199", "448 N.E.2d 1164", "459 N.E.2d 907", "5 OBR 104", "5 Ohio St.3d 47", "60 O.O.2d 324", "9 OBR 494", "9 Ohio App.3d 279"]
+---
+
+# Board of Trustees v. Kriemer
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+On June 26, 1987, plaintiff-appellant, Board of Trustees of Williamsburg Township (“township trustees”), filed a complaint for a permanent injunction against defendants-appellees, Ralph and Mary Jo Kriemer (“Kriemers”), alleging a violation of the Williamsburg Township Zoning Resolution. The township trustees assert that property located at 351 Ashton Road no longer meets the requirements for a nonconforming use, and is therefore subject to the Williamsburg Township Zoning Resolution pursuant to R.C. 519.19.
+Both parties agree that the twenty-two acre parcel of property located at 351 Ashton Road is subject to the Williamsburg Township Zoning Resolution, which zoned the property for agricultural use. Prior to the enactment of the zoning resolution, the property was used as a junkyard by K.B. Crowder. Once the zoning resolution was adopted, the property became a nonconforming use, but was permitted to continue as a junkyard because it had lawfully existed at the time the regulation went into effect.
+Crowder owned the property until his death in January 1986. In July 1987, the Kriemers purchased the twenty-two acre parcel of land from Daniel Batchler, administrator of Crowder’s estate. The evidence presented indicates that the Kriemers wanted to operate the property as a salvage yard, but were delayed in their business venture because they did not receive approval for a salvage yard license until July 27, 1989.
+The township trustees, asserting a violation of R.C. 519.19, sought a permanent injunction to prevent the Kriemers from using the property as a junkyard. The trial court denied the motion for injunction on July 9, 1990. The court held that R.C. 519.19 had not been violated because the evidence failed to demonstrate a voluntary discontinuance of a nonconforming use for a period in excess of two years.
+The township trustees timely filed this appeal and assigned as error the following:
+Assignment of Error No. 1:
+“Whether the trial court correctly held that the defendants had not voluntarily discontinued the use of this property as a junk yard for a period in excess of two years.”
+Assignment of Error No. 2:
+“The trial court erred in finding that this junk yard was a valid nonconforming use.”
+Assignment of Error No. 3:
+“The trial court erred in failing to find that the failure of Mr. Crowder and Mr. Batchler to obtain a license was a voluntary discontinuance of a nonconforming use.”
+Assignment of Error No. 4:
+“The trial court erred in holding that the storage of junk on the premises by itself constitutes a continuance of the non-conforming use.”
+Since the township trustees’ first and third assignments of error relate to the same issue, we have consolidated the said assignments. This court will hereinafter discuss this appeal in terms of three assignments of error.
+The township trustees raise two issues with respect to the question of whether the junkyard was voluntarily discontinued. The township trustees first contend that for a period in excess of two years, neither Crowder nor his estate operated the property as a junkyard. Pursuant to R.C. 519.19:
+“The lawful use of any dwelling, building, or structure and of any land or premises, as existing and lawful at the time of enactment of a zoning resolution or amendment thereto, may be continued, although such use does not conform with such resolution or amendment, but if any such nonconforming use is voluntarily discontinued for two years or more, any future use of said land shall be in conformity with sections 519.02 to 519.25, inclusive, of the Revised Code. The board of township trustees shall provide in any zoning resolution for the completion, restoration, reconstruction, extension, or substitution of nonconforming uses upon such reasonable terms as are set forth in the zoning resolution.”
+In an injunction proceeding involving a nonconforming use, the burden is on the petitioner to show that there has been a voluntary discontinuance. See Bresher v. Duggins (Dec. 12, 1986), Preble App. No. CA86-02-005, unreported, 1986 WL 14964. Our review of the evidence indicates that the township trustees failed to meet their burden of showing that Crowder voluntarily discontinued the junkyard for a two-year period.
+The period in question spans from Crowder’s illness in 1984 until Crowder’s estate sold the property in July 1987. Crowder’s wife, Judy, testified that her husband operated the junkyard at a reduced level during his illness. She stated that her husband worked approximately one to two hours per day at the junkyard, and occasionally had a few boys help him during the time he was ill. A neighbor testified that the junkyard ceased operation after Crowder’s estate took control of the property. However, the estate’s administrator, Batchler, testified that after Crowder’s death, work continued at the junkyard and items were removed from it.
+The evidence presented reveals that there was no voluntary discontinuance on the part of Crowder or his estate. Although the junkyard usage may have become less frequent subsequent to Crowder’s illness and death, the use was still continuous, albeit at a slower pace.
+The township trustees also assert that the failure of Crowder and Batchler to maintain a junkyard license pursuant to R.C. 4737.06 evidences an intent to voluntarily discontinue the use of the junkyard. In order to show a voluntary discontinuance of a nonconforming use, a party opposing the use must demonstrate that there has been a manifest intention to abandon the nonconforming use. See Bowling Green v. Sarver (1983), 9 Ohio App.3d 279, 9 OBR 494, 459 N.E.2d 907. The township trustees failed to show that either Crowder or Batchler intended to abandon his operation of the junkyard. Although Crowder failed to renew his license in 1984 and Batchler failed to obtain a license after Crowder’s death, the evidence clearly indicates that they continued to use the property as a junkyard. We hold that the failure to obtain a license does not, by itself, constitute an abandonment of use. Accordingly, the township trustees’ first and third assignments of error are overruled.
+In their second assignment of error, the township trustees argue that even if a voluntary discontinuance cannot be found, this court should hold that the junkyard is not a valid nonconforming use because Crowder failed to obtain a junkyard license.
+To qualify and to continue as a nonconforming use, the use must have been lawful at the time it was established and the zoning ordinance was enacted. Pschesang v. Terrace Park (1983), 5 Ohio St.3d 47, 5 OBR 104, 448 N.E.2d 1164; R.C. 713.15 and 519.19. In the case at bar, it is undisputed that the junkyard use lawfully existed prior to the enactment of the zoning resolution. Furthermore, it appears that the junkyard use never became invalid because the Revised Code and Ohio case law does not suggest that a nonconforming use must cease when an owner fails to obtain a license. See Shaker Blvd. Co. v. Cleveland (1972), 31 Ohio App.2d 199, 208, 60 O.O.2d 324, 329, 287 N.E.2d 814, 821, fn. 12. Although the law provides a penalty for persons who operate a junkyard without a license, this penalty does not include enjoining an individual from using his property as a junkyard. R.C. 4737.06 and 4737.99. The second assignment of error is therefore overruled.
+The township trustees assert in their final assignment of error that the storage of junk is not an integral part of the definition of junkyard under the Williamsburg Township Zoning Resolution. This court has already ruled that a discontinuance did not take place during the time in question; however, we are obligated to address every assignment of error. We conclude that even if no activity or business occurred at the junkyard, storage of junk on the premises, by itself, constitutes a continuance of the nonconforming use.
+The zoning resolution, in pertinent part, reads as follows:
+“(39) Junk Yard: A place where waste, discarded or salvaged materials are bought, sold, exchanged, baled, packed, disassembeed [sic ] or handled, including auto wrecking yards, used lumber yards and places or yards for storage of salvaged house wrecking and structural steel materials and equipment, but not including such places where such uses are conducted entirely with [sic ] a completely enclosed building.”
+We agree with the common pleas court’s assessment that the storing of goods is included within the definition of the zoning resolution. The court’s well-reasoned opinion states:
+“The township has failed to prove that ‘handling’ does not include storage. In this court’s understanding of the resolution, ‘handling’ does include storage, since the resolution provides examples of use following within the definition of a Junk Yard, which includes at least one use that is primarily storage, i.e., ‘places or yards for storage of salvaged house wrecking and structural steel materials and equipment.’ The list of examples within the resolution is not exhaustive since this phrase is headed by the word ‘including.’ ”
+Since both parties concede that junk, such as cars, has been stored on the premises during the period the Williamsburg Zoning Resolution has been in effect, the trial court did not err in its reasoning. Accordingly, the township trustees’ final assignment of error is overruled.
+The assignments of error properly before this court having been ruled upon as heretofore set forth, it is the order of this court that the judgment or final order herein appealed from be, and the same hereby is, affirmed.
+Judgment affirmed.
+Jones, P.J., Koehler and William W. Young, JJ., concur.
