@@ -1,0 +1,25 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2168"
+decided: "1932-12-21"
+citations: ["13 Ohio Law Abs. 455"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ALLREAD, PJ, HORNBECK and KUNKLE, JJ, concur."]
+parties: ["CONVERSE v CONVERSE"]
+source_url: "https://static.case.law/ohio-law-abs/13/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645043
+---
+
+# Converse v. Converse
+
+## Majority (BY THE COURT)
+
+BY THE COURT
+The decision on this case was rendered on October 11, 1932. Within due time after the announcement of the original decision an application for rehearing was filed.
+In this application objections were made to the validity and legality of the order for the payment of temporary alimony, upon the ground that the petition in the original case is for alimony only and that there is no provision of law authorizing a judgment for alimony upon the ground of extreme cruelty. This application for a rehearing has been fully presented and has been before the court from time to time. We have re-examined the entire case a number of times on the application for rehearing. The application for the payment of temporary alimony was made upon a hearing and a rehearing. On January 8, 1931, the defendant was ordered to appear as per entry and the entry ordering the payment of temporary alimony was entered January 20, 1S31, in which the defendant was ordered to purge himself of contempt. On December 5, 1931, the court found that a rule in contempt was well taken and was sustained. On December 22, 1931, a further order in contempt was made and the defendant was ordered arrested and brought into court. On January 12, 1932, the matter came on to be further heard, the defendant being then in court. .It was ordered, after hearing had, that the defendant was guilty of contempt. It was therefore ordered that the defendant pay to the clerk of this court the amount of permanent alimony, to-wit, $60.00 per month as ordered, and $5.00 per month upon the arrearage, and upon failure to make the payments that the defendant be committed. It appears from the record that the first order was the payment of $20.00 per week or $80.00 per month for temporary alimony as well as the payments of other sums which probably have been made. The final order adjudging Converse in contempt and ordering his commital was dated January 12, 1932. Iq this entry the defendant was ordered to pay the amount of permanent alimony, to-wit, $60.00 per month as ordered and $5.00 per month on the arrearage. The question is, what does the court mean by the words, “Permanent alimony.”
+The next order was made on the same date, to-wit, January 12, and contains the adjudication of permanent alimony at $60.00 per month. This being less than the temporary alimony, there is no question as to the regularity of the decree. The defendant was adjudged to pay $60.00 per month for the permanent alimony and $5.00 per month on the temporary alimony theretofore allowed. We are unable to find that there is any irregularity about the orders of the court in respect to the amount of alimony. The words “permanent alimony” refer, evidently, to the final judgment made on the same date that the defendant was ordered committed. The several entries are in entire harmony with each other and are not inconsistent, nor inconsistent with the law. Counsel claim, however, that there is an irregularity in the order for the payment of alimony upon the grounds that the charges made in the petition are “gross neglect of duty and extreme cruelty.” In none of the judgments for alimony is there any statement as to the grounds for alimony. Where a general adjudication for alimony is made it will be presumed to be regularly made and will not be presumed to be void unless the illegality is made apparent from the record. It is true that in the petition praying for alimony the grounds for the allowance of alimony are “gross neglect of duty and extreme cruelty.” The findings will be presumed, in the absence of anything to the contrary, to be upon legal grounds. Where two or more grounds are stated, one of which is legal and the other of which may be construed to be illegal, a general finding will be upheld if it falls withing legal grounds. It would certainly be a strange adherence to technicality which would hold that where two grounds are stated in a petition a general finding which can be referable to either is illegal. This is like the two issue rule when a general judgment is sustained upon either issue. This is especially true where the objection is taken not directly to the grounds for alimony, but arises after the defendant has been hailed into court time and time again for the payment of the alimony and the objection is made to the final adjudication for contempt.
+We are therefore of opinion that this court was within its right in affirming the judgment below as to the contempt. Motion overruled and judgment affirmed.
+ALLREAD, PJ, HORNBECK and KUNKLE, JJ, concur.
