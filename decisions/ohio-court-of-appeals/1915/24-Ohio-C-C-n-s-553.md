@@ -1,0 +1,24 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1915-03-08"
+citations: ["24 Ohio C.C. (n.s.) 553", "26 Ohio C.C. Dec. 494"]
+reporter: "ohio-cc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Richards, J., and Kinkade, J., concur."]
+parties: ["Charles L. Evans v. Lou Beddinger and Elmer Stevie."]
+source_url: "https://static.case.law/ohio-cc-ns/24/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1600934
+---
+
+# Evans v. Beddinger
+
+## Majority (Chittenden, J.)
+
+Chittenden, J.
+Error to the court of common pleas.
+The facts, so far as they need be stated in this opinion, are as follows: On or about February 17, 1911, Elmer Stevie and Lou Beddinger entered into an agreement whereby Stevie was to exchange his automobile with Beddinger for a motor launch and was to pay Beddinger $150 in cash. The automobile was delivered to Beddinger and Stevie paid him $139.20. After more than a year had elapsed and Beddinger had failed to deliver the motor boat to Stevie,' Stevie brought an action in replevin to recover possession of the automobile. The plaintiff in error, Charles L. Evans, became surety on the replevin bond given in that action. On trial in the common pleas court a verdict was rendered in favor of Beddinger, and the jury having assessed the value of the automobile at $150, Beddinger elected to take the amount of the judgment in lieu of the automobile, and thereupon judgment was entered in favor of Beddinger against Stevie for $150. Execution was issued upon this judgment and returned unsatisfied. Evans was then cited to show cause why the judgment rendered against his principal should not be enforced against him. He appeared in response to such citation and filed his answer in which answer he set out in substance the facts concerning the trade between Stevie and Beddinger, and that his principal, Stevie, had begun an action in the Common Pleas Court of Hamilton- County against Beddinger to reeover damages in the sum of $450, alleged to have been suffered by him by reason of a breach of the contract of trade above referred to. He further alleged the insolvency of the defendant Beddinger, and asked that no further proceedings be taken against him during the .pendency of the .action by .Stevie against Beddinger until after judgment should have been entered therein in favor of Stevie, and that then sueh judgment should be set-off against the judgment of Beddinger, and that after sueh set-off he be discharged from further liability on the bond. To this answer a demurrer was filed which was sustained by the court, and no further pleading being filed by Evans judgment was entered against him in the sum of $150. Error is prosecuted in this court by Evans. He insists that the common pleas court erred in sustaining the demurrer and entering judgment against him.
+We have considered the oral arguments of counsel and have examined the briefs, and upon consideration of the question involved, we conclude that Evans is entitled to the benefit of having set-off against the judgment entered against him and his principal, Stevie, any valid judgment obtained by Stevie against Beddinger. At the time the matter was presented to the trial court on the demurrer, no judgment had been rendered. The allegations were simply that the action was pending, and we think that the trial court was justified in declining to stay the entering of judgment until after the case brought by Stevie against Beddinger had been determined. No existing defense was shown by Evans that would necessarily preclude the entering of judgment against him upon the summary proceedings that were instituted to accomplish that purpose; but it is clear that, in view of the allegations of the insolvency of Beddinger, and the fact that Beddinger had been'unable to satisfy his judgment upon execution against Stevie, Evans was entitled to be protected against the collection of the judgment from him until such time as 'it should be determined that no valid set-off could be obtained in the form of a judgment in favor of Stevie in the pending suit. Therefore, we think, that while the trial court did not err in sustaining the demurrer, it should have stayed the issuing of execution upon such judgment until the right of set-off could be determined in the then pending case of Stevie v. Beddinger. It was stated by counsel in oral argument in this court, and not disputed, that a verdict by direction of the court wás reeéntly rendered in favor of Stevie for $150 in that case.
+Under the statutory power conferred upon this court to modify judgments, we will so modify the judgment of the common pleas court as to stay the issuing of execution upon the judgment until after the final determination of the action set out in the answer of Evans. The judgment as so modified will be affirmed.
+Richards, J., and Kinkade, J., concur.
