@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1917-01-29"
+citations: ["28 Ohio C.A. 396", "6 Ohio App. 423"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jones (Oliver B.), J., and Gorman, J., concur."]
+parties: ["Helmers et al, Partners, v. McCarthy et al, Board of District Assessors, et al."]
+source_url: "https://static.case.law/ohio-ca/28/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1607924
+cites_cases: ["16 Ohio St., 614"]
+---
+
+# Helmers v. McCarthy
+
+## Majority (Jones (E. H.), J.)
+
+Jones (E. H.), J.
+After a careful consideration we have reached the conclusion that the principles of law announced in the case of Mills, Trustee, v. Bd. of Equalization of Cincinnati, 1 C. S. C. R., 566, and in the case of Wheeling Electric Co. v. Tax Commission of Ohio, decided by Judge Sater of the United States District Court for the Southern District of Ohio, are controlling in this case. The opinion in the latter case has not yet been reported, so far as we know, but a copy of same is attached to the brief filed by counsel for defendants herein.
+In the cases above cited it was held that a party seeking relief from an alleged illegal and unjust taxation value must first exhaust all his legal remedies before resorting to a court of equity; and that where the law provides the tribunal to whieh he can appeal for relief, such as a board of complaints, state tax commission or board of revision, he must avail himself of such opportunity before he can be heard in a court of equity. . It is admitted in this case that no appeal from the alleged unjust increase in their tax valuation was taken by the plaintiffs to the board of complaints. As an excuse for this they s,ay: first, that they had no notice of the increase until they received their tax bill, which was some time after the board of complaints had finished its work and adjourned; and, second, that if they had made a complaint or filed an appeal with the board of complaints it would not have been heard for the reason that the said board adjourned with a great many complaints on file untried and undisposed of. Neither of these excuses is valid. The firm had the only notice which the law provides for, namely, the publication in a newspaper of the fact that the tax commission had finished its work and that the same was open for inspection and objection. The evidence shows that these notices were published in accordance with the law. and it follows that the plaintiffs had constructive notice of the action of the assessors. In the second place, the fact that the board of complaints had more work than it could and did perform does not relieve the plaintiffs from the duty of first filing their complaint with it. Had they done so, and a hearing for any reason had been denied them, it might well be claimed that they would have some standing in this court.
+On the authorities above cited, which are only reaffirmations of the well-established general rule that a resort to a court of equity can only be had where there is no adequate remedy at law, we hold that the plaintiffs’ petition should be dismissed and the relief therein prayed for be denied.
+We are constrained to add that regardless of the above barrier, technical as it may appear, the plaintiffs would not be entitled to the relief sought even though their petition were entertained. The employee who made the tax return did not appear as a witness in the case. The chief witness for the plaintiffs upon the question of values was a member of the firm, who testified that the machines, the value of which was the subject of this action, were carried upon their books at a value of three times that at which they were returned by them for taxation. In the light of this and other evidence in' the case, we are satisfied that the value fixed on these machines by the district assessors was fair and reasonable; and therefore the plaintiffs must be considered as coming for relief to a court of equity while themselves unwilling to do equity by contributing their fair proportion of taxes to the public treasury.
+Under this evidence, there being no wrong to make right, there would be no room for the intervention of a court of equity.
+“It by no means follows, however, that the plaintiffs are entitled to an unconditional injunction against the collection - of the tax. They ask equity, and must do equity. They invoke the exercise of an extraordinary power of the court for their relief, and the court in its discretion should refuse that relief, except .upon conditions that are equitable and justt. We think, therefore, that the injunction should only be granted upon the condition that the plaintiffs, or their bank, shall first ' pay to the treasurer of Hamilton county, a sum that will be a pro rata equivalent for the tax imposed upon the state and independent banks, under the act of 1861 — that is to say, such sum as might lawfully have been assessed upon the plaintiffs, or their bank, under said act, had it been one of said state banks. If the parties e,an not agree upon this sum, proceedings can be adopted to ascertain it by the court; and, if found necessary, the bank itself can be made a party.” Frazer et al v. Sieborn, Auditor et al, 16 Ohio St., 614, at page 624.
+Courts of equity look through the form into the substance of things. Before one can be entitled to invoke their aid by the extraordinary remedy of injunction, something more than an irregularity, or illegality in procedure, or arbitrary official action, must be shown. There must be a wrong, an injustice or .an irreparable injury for which the law provides no adequate remedy; otherwise no relief can be granted.
+The petition of plaintiffs will be dismissed at their costs.
+Jones (Oliver B.), J., and Gorman, J., concur.
