@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2383-M"
+decided: "1995-05-24"
+citations: ["103 Ohio App. 3d 476"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Slaby, J., concurs.", "Baird, P.J., dissents."]
+parties: ["COOPERIDER, Admr., Appellant, v. PETERSEIM et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/103/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1776558
+cites_cases: ["1 Ohio St.2d 38", "10 Ohio St.2d 189", "107 Ohio St. 528", "140 N.E. 84", "203 N.E.2d 344", "226 N.E.2d 564", "30 O.O.2d 22", "364 N.E.2d 267", "39 O.O.2d 228", "4 O.O.3d 466", "45 Ohio St.3d 314", "50 Ohio St.2d 317", "544 N.E.2d 265", "586 N.E.2d 1121", "621 N.E.2d 738", "66 Ohio App.3d 826", "86 Ohio App.3d 612"]
+---
+
+# Cooperider v. Peterseim
+
+## Majority (Quillin, Judge.)
+
+Quillin, Judge.
+The plaintiffs, parents of decedent Alan Cooperider, appeal the trial court’s grant of summary judgment in favor of defendant Anthony McEwen. We affirm.
+' On the evening of May 31, 1990, Alan Cooperider, age twelve, got a ride home from baseball practice with his friend and neighbor, Sean McEwen. Sean’s father, Anthony McEwen, picked the boys up in his Toyota pickup truck, stopped to get fast food, then drove to their homes on East Smith Road in Medina. When they got to Alan’s house, McEwen pulled the truck to the side of the road opposite the Cooperiders’ driveway. Alan talked to Sean for a few moments, then got out. He went around the front of the truck and attempted to cross the street. As Alan moved beyond the front of the truck into the roadway, he was struck by a Lincoln Continental driven by Stuart Peterseim. Alan died as a result of his injuries.
+Plaintiffs brought actions against Peterseim, Peterseim’s father, the owner of the car that struck Alan, and McEwen. The trial court granted summary judgment for Peterseim’s father because plaintiffs had not produced evidence to raise the issue of his negligence in entrusting the car to his son. The trial court also granted summary judgment in favor of McEwen, ruling that McEwen owed no duty to Alan beyond properly driving his vehicle while Alan was his passenger and depositing Alan in a place of safety. McEwen did not have a duty, the trial court concluded, to determine if the roadway was clear for Alan to cross or a duty to warn Alan of any danger. Plaintiffs voluntarily dismissed their claim against Stuart Peterseim to pursue this appeal of the trial court’s grant of summary judgment in favor of McEwen.
+In reviewing the trial court’s entry of summary judgment, we apply the same standard used by the trial court in making its decision. Parenti v. Goodyear Tire & Rubber Co. (1990), 66 Ohio App.3d 826, 829, 586 N.E.2d 1121, 1122. Pursuant to Civ.R. 56(C), summary judgment is proper if:
+“(1) No genuine issue as to any material fact remains to be litigated; (2) the moving party is entitled to judgment as a matter of law; and (3) it appears from the evidence that reasonable minds can come to but one conclusion, and viewing such evidence most strongly in favor of the party against whom the motion for summary judgment is made, that conclusion is adverse to that party.” Temple v. Wean United, Inc. (1977), 50 Ohio St.2d 317, 327, 4 O.O.3d 466, 471, 364 N.E.2d 267, 273.
+In order to prove an actionable claim of negligence, a plaintiff must prove that the defendant owed the plaintiff a duty, that the defendant breached that duty, that the plaintiff suffered harm and that the harm was proximately caused by the defendant’s breach of duty. Mussivand v. David (1989), 45 Ohio St.3d 314, 318, 544 N.E.2d 265, 269. As previously noted, the trial court granted McEwen’s motion for summary judgment because it found that he owed no duty to Alan beyond exercising reasonable care while Alan was his passenger and depositing him in a place of safety.
+Although plaintiffs assign numerous errors, the disposition of this case turns on the existence and scope of McEwen’s duty to care for Alan’s safety. Whether a defendant owes a plaintiff a duty is a threshold question of law for the court to determine. Id. If indeed McEwen owed no duty to Alan beyond depositing him in a place of safety, then McEwen is entitled to judgment as a matter of law and the trial court’s grant of summary judgment was proper.
+Cases similar to the one at bar have arisen involving common carriers. Although McEwen was not acting as a common carrier when he drove the boys home from baseball practice, an examination of the law with respect to carriers is helpful to our analysis.
+“A common carrier of passengers is required to exercise the highest degree of care to provide a reasonably safe place for its passengers to alight.” Feldman v. Howard (1967), 10 Ohio St.2d 189, 39 O.O.2d 228, 226 N.E.2d 564, paragraph one of the syllabus. “[W]here a passenger has been safely discharged from a public taxicab onto a sidewalk where no danger exists, and thereafter such passenger in attempting to cross a street is struck and injured by a motor vehicle, there is no liability on the part of the taxicab driver * * * for such injury.” Id. at paragraph two of the syllabus.
+It stands to reason that a common carrier owes a high duty of care to its passengers because, while a passenger, one entrusts one’s safety to the carrier and most threats to the passenger’s well-being are in the control of the carrier. There is little that a reasonably prudent or cautious passenger can do for his or her own protection: a passenger’s safety depends largely on the skill and judgment of the carrier. Once the passenger has been delivered to a place of safety, however, the heightened duty and the justifications for it end. At that point, the former passenger is once again in the best position to care for his or her own safety and may reasonably be expected to do so.
+By undertaking to drive Alan home, McEwen assumed the type of control over Alan’s safety that gives rise to a duty to exercise reasonable care. That duty, however, extends only as far as the driver-passenger relationship which gave rise to it. Like the duty of a common carrier, McEwen’s duty to Alan ended once Alan exited the truck to a place of safety.
+Plaintiffs argue that even if McEwen’s duty was only to deposit Alan in a place of safety, it remains a question for the jury whether McEwen had fulfilled that obligation.
+A place of safety, as contemplated in Feldman and similar cases, generally means a piece of firm ground which itself is reasonably safe. See Dietrich v. Community Traction Co. (1964), 1 Ohio St.2d 38, 30 O.O.2d 22, 203 N.E.2d 344; Reining v. N. Ohio Traction & Light Co. (1923), 107 Ohio St. 528, 140 N.E. 84. The inquiry is not whether McEwen dropped off Alan at the safest possible place but whether McEwen dropped him off at a reasonably safe place. Here, McEwen dropped off Alan on the side of the road across from Alan’s own house. He had dropped Alan there on numerous occasions without incident. If Alan had been struck while leaving the vehicle, or if he had fallen into a hole upon exiting the truck, the analysis might differ. Neither is the situation here, however; Alan was struck by a third person’s car after running into the roadway. We conclude as a matter of law that McEwen deposited Alan in a reasonably safe place, thereby discharging whatever duties he owed Alan as his passenger.
+Plaintiffs contend that McEwen’s duty to Alan was greater than that generally owed by carriers to their passengers because Alan was not an adult. Although there may be circumstances that give rise to a greater duty on the part of a driver who accepts the task of delivering a child to his home, they are not present in the case at bar. There was nothing in the record to indicate that Alan was anything other than a normal twelve-year-old boy; there was nothing to indicate that Alan needed special assistance or was incapable of crossing a street without supervision. Although there are many things that twelve-year-olds cannot be expected to do on their own, crossing the street is not one of them. Once Alan exited the vehicle, he was no longer in a position where he could not protect himself; he could appreciate the dangers of crossing the street in front of his own home and could reasonably be expected to see to his own safety in doing so.
+Based on the foregoing, the assignments of error are overruled.
+Judgment affirmed.
+Slaby, J., concurs.
+Baird, P.J., dissents.
+
+## Dissent (Baird, Presiding Judge,)
+
+Baird, Presiding Judge,
+dissenting.
+Though I dissented in Nichols v. Coast Distrib. Sys. (1993), 86 Ohio App.3d 612, 621 N.E.2d 738, it is now the law of this district. It seems to me that the facts of today’s case are even more compelling than those in Nichols, and that they present at least a question of fact as to the negligence of the driver in placing his vehicle so as to constitute an obstruction of the view of oncoming traffic to someone crossing the road.
