@@ -1,0 +1,67 @@
+---
+court: "Ohio Court of Appeals"
+docket: "59250"
+decided: "1990-10-29"
+citations: ["70 Ohio App. 3d 163"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Krupansky, P.J., Matia and Parrino, JJ., concur.", "Thomas J. Parrino, J., retired, of the Eighth Appellate District, sitting by assignment."]
+parties: ["JACOMIN, Appellant, v. CITY OF CLEVELAND et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/70/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1465485
+cites_cases: ["1986 WL 704", "1988 WL 141229", "37 Ohio St.3d 106", "408 U.S. 564", "470 U.S. 532", "524 N.E.2d 447"]
+---
+
+# Jacomin v. City of Cleveland
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an accelerated appeal brought pursuant to App.R. 11.1 and Loc.R. 25 of the Court of Appeals of Cuyahoga County and involves the termination of a civil servant who was serving a probationary period of employment. The appellant appeals from the judgment of the trial court which affirmed the decision of the Civil Service Commission of the city of Cleveland that the appellant, George Jacomin, had been properly terminated during a probationary period of employment.
+On July 22, 1988, the appellant was hired by the appellee, city of Cleveland, as a temporary appointee for the position of electrical worker at the Cleveland Hopkins International Airport. The appellant allegedly served a ninety-day term of probation as a part of the temporary appointment. In the spring of 1989, the appellant passed the civil service examination with regard to eligibility for appointment to the permanent position of electrical worker.
+On May 8, 1989, the appellant was selected from the eligibility list and was appointed as a regular appointee to the classification of electrical worker. As a result of the regular appointment, the appellant was placed on a second ninety-day period of probation.
+During this second ninety-day period of probation, the appellant was reviewed by his superior on three different occasions. The first probationary review, which occurred after thirty days of regular employment, indicated that the appellant had performed unsatisfactorily in the areas of quantity of work, dependability, reliability, initiative, motivation, and attendance. The second probationary review, which occurred after sixty days of regular employment, indicated that the appellant had performed unsatisfactorily in the areas of initiative, motivation, and attendance. The third and final probationary review, which occurred after ninety days, indicated that the appellant had performed unsatisfactorily in the areas of quantity of work, cooperation, initiative, motivation, and attendance. In addition, the ninety-day probation review recommended that the appellant be terminated on the basis of unsatisfactory work performance.
+On July 26, 1989, the appellant was terminated from his employment as an electrical worker. The appellant appealed his termination to the Cleveland Civil Service Commission. On August 28, 1989, the civil service commission conducted a hearing with regard to the appellant’s termination. The civil service commission affirmed the termination of the appellant.
+On September 21, 1989, the appellant appealed the decision of the civil service commission to the Cuyahoga County Court of Common Pleas. On January 10, 1990, the trial court affirmed the decision of the civil service commission which upheld the appellant’s termination.
+Thereafter, the appellant timely brought the instant appeal.
+I
+The appellant’s first assignment of error is that:
+“The lower court erred in concluding that the civil service commission lacked jurisdiction to review the decision of the appointing authority.”
+The appellant, in his initial assignment of error, argues that the trial court erred in finding that the civil service commission lacked the authority to review the appellant’s dismissal. Specifically, the appellant argues that the civil service commission did have the authority to review the termination of the appellant.
+This assignment of error is well taken.
+Sections 3 and 7 of Article XVIII of the Ohio Constitution provide that a chartered municipality possesses the power of local self-government. This home-rule authority extends to the area of civil service provisions.
+Charter provisions and rules, which deal with civil service employment and are promulgated pursuant to the home-rule authority of the Ohio Constitution, will prevail over conflicting state civil service provisions. State, ex rel. Bardo, v. Lyndhurst (1988), 37 Ohio St.3d 106, 524 N.E.2d 447; Burk v. Cleveland (Dec. 22, 1988), Cuyahoga App. No. 54818, unreported 1988 WL 141229; State Personnel Bd. of Review v. Bay Village Civil Service Comm. (Jan. 19, 1986), Cuyahoga App. No. 49919, unreported, 1986 WL 704. Thus, the general civil service laws as codified within R.C. Chapter 124 et seq. will apply where the charter provisions are silent or where the charter has adopted the language of the particular state statute. In addition, express charter provisions will prevail over conflicting state civil service provisions as found within the Revised Code. State Personnel Bd. of Review v. Bay Village Civil Service Comm., supra.
+Herein, Section 121 of the Cleveland City Charter provides that:
+“Any person in the classified service of the City who is suspended for more than ten (10) days, reduced in rank, or dismissed from the service of the City may appeal from such decision to the Civil Service Commission within ten days from and after the date of the suspension, reduction, or dismissal. In such event the director of the department involved, upon notice from the Commission of such appeal, shall forthwith transmit to the Commission a copy of the charges and proceedings thereunder. The Commission shall hear such appeal within ten days from and after the filing of the same with the Commission, and may affirm, disaffirm or modify the judgment of the director, and the judgment of the Commission in the matter shall be final.” (Emphasis added.)
+A review of Section 121 of the Cleveland City Charter demonstrates that any employee, regardless of the classification of regular, temporary, or emergency employee, is provided with the opportunity to appeal his or her termination of employment to the civil service commission.
+Thus, the appellant did possess the right to appeal his termination to the civil service commission within ten days of dismissal. Therefore, the trial court erred in finding that the civil service commission did not possess the authority to review the appellant’s termination.
+The appellant’s first assignment of error is well taken.
+It should be noted that the disposition of the appellant’s initial assignment of error in favor of the appellant is merely a procedural decision and does not in any manner affect the decision of termination as approved by the trial court and the civil service commission.
+II
+The appellant’s second assignment of error is that:
+“The lower court erred in concluding that city of Cleveland Charter Section 131 and the civil service rules, most notably Rule 6.80, mandate that appellant serve a probationary period at the time of his regular appointment.”
+The appellant, in his second assignment of error, argues that the trial court erred in finding that the appellant was required to serve a second probationary period which formed the basis of the termination from employment. Specifically, the appellant argues that he was not required to serve a second period of probation upon appointment as a regular employee since the appellant had previously served an initial period of probation during his prior term as a temporary appointee.
+This assignment of error is not well taken.
+A review of the Charter of the city of Cleveland and the Rules of the Cleveland Civil Service Commission fails to indicate the requirement that a temporary appointment, either transitory or emergency, be required to serve a mandatory probationary period of employment. In fact, the record before this court fails to disclose the existence of any probationary reports rendered with regard to the appellant’s term as a temporary employee.
+Civil Service Commission Rule 6.80, as in effect at the time of the appellant’s termination, however, dealt with the probationary employment period of a new regular employee and provided that:
+“6.80 Probationary Period. The probationary period provided by Section 131 of the Charter of the City of Cleveland is hereby fixed at ninety (90) days from the effective date of regular appointment, provided:
+“A. That the commission may, where the good of the service requires, fix the duration of the probationary period for individual classifications at six (6) months, but such action must be taken at the time the examination for such classification is announced.
+“B. That where there is a variance between the effective date of regular appointment and subsequent ‘On Payroll Date’ notice, the latter date will prevail and take precedence over the former; the necessary calendar days of probation shall begin from the ‘On Payroll Date’ notice.
+“C. Employees will be continuously evaluated and subject to probationary termination at any time if their performance does not merit continued employment.
+“D. If retained after the 90-day probationary period, all employees, including both regular and temporary, shall be discharged only for cause, or subject to layoff in accordance with Civil Service Rules.
+“E. Notwithstanding the provisions of Rule 6.80-D, the Commission may for good cause shown, extend an employee’s initial 90-day probationary period for an additional period not to exceed ninety (90) days where such extension is necessary for adequate evaluation of that employee’s performance. (Revised Min. 3-27-86)” (Emphasis added.)
+Civil Service Commission Rule 6.80 clearly provided that an employee who was appointed as a regular employee was required to serve a ninety-day period of employment probation. Thus, regardless of the appellant’s previous employment as a temporary employee, the appellant was subject to a “second” mandatory period of employment probation.
+The appellant’s second assignment of error is not well taken.
+III
+The appellant’s third assignment of error is that:
+“The lower court’s interpretation of the city of Cleveland Charter and the civil service rules violated the appellant’s constitutionally protected expectation of continued employment.”
+The appellant, in his third assignment of error, argues that the trial court’s judgment, which affirmed the decision of termination, deprived the appellant of his constitutional right to an expectation of continued employment. Specifically, the appellant argues that he possessed a legitimate claim of continued employment.
+This assignment of error is not well taken.
+The appellant, as a probationary employee, did not possess a property interest in continued employment so as to come within the protection of the Fourteenth Amendment to the United States Constitution. The appellant was not denied any constitutional rights as a result of his termination. Cleveland Bd. of Edn. v. Loudermill (1985), 470 U.S. 532, 105 S.Ct. 1487, 84 L.Ed.2d 494; Bd. of Regents v. Roth (1972), 408 U.S. 564, 92 S.Ct. 2701, 33 L.Ed.2d 548.
+The appellant’s third assignment of error is not well taken.
+Affirmed in part and reversed in part.
+Judgment accordingly.
+Krupansky, P.J., Matia and Parrino, JJ., concur.
+Thomas J. Parrino, J., retired, of the Eighth Appellate District, sitting by assignment.
