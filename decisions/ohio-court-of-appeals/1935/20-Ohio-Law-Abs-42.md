@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1319"
+decided: "1935-05-02"
+citations: ["20 Ohio Law Abs. 42"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KUNKLE, PJ, and HORNBECK, J, concur."]
+parties: ["NETH v NETH et"]
+source_url: "https://static.case.law/ohio-law-abs/20/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1665962
+cites_cases: ["104 Oh St, 312", "105 Oh St, 471", "124 Oh St, 12", "16 Oh. St, 284", "17 Oh St, 450", "26 Oh St, 389", "36 Oh St, 312", "53 Oh St, 291", "53 Oh St, 302", "55 Oh St, 491", "58 Oh St, 395"]
+---
+
+# Neth v. Neth
+
+## Majority (By BARNES, J.)
+
+OPINION
+By BARNES, J.
+The major question for determination in this court is whether or not the prescribed period of 70 days within which proceedings in error may be filed dates from August 25, 1934 or December 5, 1934.
+Sec 12270 GC reads as follows:
+' “Sec 12270 - GC. PROCEEDINGS IN ERROR; LIMITATIONS. No proceeding to reverse, vacate or modify a judgment or final order shall be commenced unless within 70 days after the entry of the judgment or finaí order complained of; or in case the person entitled to such proceeding is an infant, a person of unsound mind or imprisoned, within 70 days exclusive of the time of such disability.” ,
+If the overruling of motion for new trial was a judgment or final order, then the proceedings in this court was filed within time; if not a final judgment or order then same is not filed within time and the motion to dismiss must be allowed.
+The Supreme Court in the case of Young v Shallenbeiger, 53 Oh St, 291, syllabus 4 makes the following announcement:
+“4. The overruling of a motion for a new trial is not a final order to which error can be prosecuted.”
+Also in the case of Wells, Jr. v Wells, 105 Oh St, syllabus 3:
+“3. A motion for new trial affects the time when the limitation begins to run only in’ those cases -where the motion for new trial prevents the entry of a judgment.”
+Sec 11599 GC specifies the class of cases and circumstances under which judgment may not be entered until the expiration of three days for filing motion for new trial or if motion is filed within three days then the final judgment follows the adjudication on motion for new trial.
+“Sec 11599 GC- JUDGMENT ON VERDICT WHEN ENTERED. When a trial by jury has been had, judgment must be entered by the clerk in conformity to the verdict, unless the verdict is special, or the court orders the case to be reserved for further argument or consideration immediately af:er the time for the filing of a motion for new trial if it has not been filed. When a motion for new trial is filed then such judgment shall be entered only when the court has sustained such verdict by overruling the motion. Upon such overruling it. shall immediately be entered.” (Black face ours).
+Prior to the amendment of the above quoted section of the Code, it was the duty of the Clerk of Courts to enter judgment immediately upon the return of the verdict. The statutory provision for filing motion for new trial was in substance the same as the present provisions. The Supreme Court in the case of Young v Shallenberger, 53 Oh St, 291 had under con-' sideration the identical question as in the instant case. It was there held that the time for filing proceedings in error would be calculated from the date of entering judgment and not from date-of overruling motion for new trial. , It was urged in the reported case that a party might be deprived of his remedy on error by the court declining or omitting to pass on the. motion until the expiration of the time al-. lowed after the rendition of the judgment for commencing the proceedings. Judge Williams rendering the opinion at page •302 makes the following comment:
+“It is not to be presumed that the court will disregard its duty or fail to dispose of the motion at any time when required by the parties; and if he, by consent- or inattention permit the time to expire he can not complain of the - consequence of his own act or omission. The right to prosecute error exists only when conferred by statute; and the remedy to be effective must be pursued in the time and mode provided. The statute has declared in express terms, that ‘no proceedings to reverse a judgment shall be commenced unless- within six months after the rendition of the judgment’, and the court is powerless to enlarge its terms if it desired to do so¡ The time begins to run from the day of the rendition of the judgment.” Robinson v Orr, 16 Oh. St, 284; Bowen v Bowen, 36 Oh St, 312.
+The- same principle is announced in the case of Dowty v People, 58 Oh St, 395.
+The case of Weaver v Columbus, Shawnee & Hocking Valley R. R. Co., 55 Oh St, 491 has been cited in support of contention that the period of time within v/hich bill of exceptions may be taken should be cbm-, puted from the day motion for new trial was overruled. The second syllabus would seem to support the contention, but an examination of §5301 Revised Statutes, as amended March 22, 1922, 89 Ohio Laws 124, and in force when the bill of exceptions, which was the subject of the controversy in the reported case was taken will render understandable the reason for the court’s announcement. §5301 as then enacted is quoted in the opinion at page 493.
+“Sec 5301. When the decision is not entered on the record or the grounds of the objection do not sufficiently appear in the entry, or the exception is to a decision of the court on a motion to d'reeí a non-suit, cr to arrest the testimony from the jury, or for a new trial for misdirection by the court to the jury, or because the verdict, or if a jury is waived, the finding of the court is against the law and the evidence, or in the admission or rejection of evidence, the party excepting must reduce his exceptions to writing and present the same to the trial judge or judges for allowance within fifty days after overruling of the motion for a new trial, or the decision of the court where a motion for a new trial is not necessary.” (Black face ours).
+In the cases thus far cited actions at law were under consideration, but the rule requiring motion for new trial in order to bring certain errors before the court is requisite in equity cases as well as in actions at law. The section of the Code, §11578 GC by its express language necessarily includes both actions at law as well as equity. The Supreme Court in very early decisions laid down this principle and the rulo has never been changed.
+Turner v Turner et, 17 Oh St, 450.
+Spangler v Brown, 26 Oh St, 389.
+However, the amendment in 1892 of Revised Statute 5326 now §11599 GC only delayed entering of judgment in actions at law. This entire subject is discussed in the’ case of Boedker v Richards Company, 124 Oh St, 12. Chief Justice Marshall on page 19 refers to the rule as it applies to actions at law both before and after the amendment of 1902 and then calls attention to two cases recited by the Supreme Court in 1922. Craig v Welply, 104 Oh St, 312; Wells, Jr. v Wells, 105 Oh St, 471, We quote the following from same page.
+“Neither of those cases was triable by jury. There was no intervention of a verdict. The court in each instance was at liberty to enter the decree immediately upon the termination of the cause.”
+Keeping iii mind that §11599 GC as amended in 1.902, insofar as it limited entering judgment pnly applied to cases at law, we very readily can distinguish the ru'e when considering other forms of action. The case of Craig v Welpley et, 104 Oh St 312 was an equitable proceeding and therein the court had under’consideration the time within which error proceedings must be commenced. Syllabus 2 reads as follows:
+“2. The limitation of time provided by §12270 GC within which proceedings to reverse, vacate or modify a judgment shall be commenced begins to run from the date of the judgment sought to be reversed and not from the overruling of motion for new trial in the cause.”
+Also the case of Wells, Jr. v Wells, 105 Oh St, 471, here again the court had under consideration the time wit-h’n winch proceedings in error should be filed. This was a divorce action and in the first syllabus the court specifically holds that §12270 GC is applicable. The third syllabus reads as follows:
+“3. A motion for a new trial affects the time when the limitation begins to run only in these cases where the motion for new trial prevents the entry of a judgment.”
+The proceedings in the instant case was summary in its character. The procedure is prescribed by statute. It is a new action seeking a new trial in another case. The petition alleged all the - statutory requirements. It was triable to the court and not to a jury. The trial court heard the cause and his determination was against the petitioner. This finding was made (he basis of a journal entry complete under its language as a final judgment.
+The motion for new trial which was to be filed within three days whUe requisite for a review on the question of the weight of the evidence would not have the effect of tolling the statute for filing proceedings in error. We can appreciate very fully the embarrassment that might arise in the event the trial court failed to rule on the motion for new trial promptly, but the answer to this is in the language of Judge Williams, as above quoted, from the case of Young v Shallenberger, 53 Oh St, 302.
+We doubt very much if this anomalous situation would arise if counsel and the trial court come to a full realization that the entering of the judgment starts the running of the statute as affecting review. There are many practical methods available and undoubtedly the trial court would lend its aid in the solution. If the motion for new trial is mere form there certainly should be no delay in overruling. If ccunsel representing the losing party earnestly thinks that the trial court should give further consideration to the cause, it is probable that arrangements for a rehearing might be made before filing journal entry, although in the finality the journal entry should be filed before motion for new trial.
+If no practical method can be found and review is desired, the petition must be filed within the statutory time after the entry of final judgment. There might be a situation where the trial court by inadvertence or inexcusable delay would hold the motion for new trial until after proceedings in error are instituted in the reviewing court and then might sustain the motion and grant a new hearing. It would then be necessary to dismiss the proceedings in error.
+This situation may not be ideal, but so stands, the law. The petition in error will be dismissed at costs of plaintiff in error.
+Exceptions will be allowed.
+Entry may be drawn accordingly.
+KUNKLE, PJ, and HORNBECK, J, concur.
