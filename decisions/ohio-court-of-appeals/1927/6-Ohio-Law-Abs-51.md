@@ -1,0 +1,27 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1927-12-07"
+citations: ["6 Ohio Law Abs. 51"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Mauck, J., concurs.)"]
+parties: ["SEYMOUR et v. STATE."]
+source_url: "https://static.case.law/ohio-law-abs/6/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8752013
+cites_cases: ["19 OS. 363"]
+---
+
+# Seymour v. State
+
+## Majority (MIDDLETON, PJ.)
+
+FULL TEXT.
+MIDDLETON, PJ.
+The plaintiffs in error were charged under an indictment in the Court of Common Pleas with the crime of burglary and larceny and on trial to a jury in that court were found guilty of said charge. The indictment aforesaid charged in substance that said plaintiffs in error in the night season of the seventh day of March, 1927, did unlawfully break and en-iter a certain poultry house and did unlawfully steal and carry away from said house thirty-nine chickens of the value of $44.16.
+The only contention made in this proceeding is that the verdict of the jury so as aforesaid returned was and is not supported by sufficient evidence. The record of the trial is one of unusual length and we regard it as unnecessary ■to discuss in detail the incriminating circumstances testified to by the witnesses called by the state in the trial. It is sufficient to say that it was the privilege and right of the jury to weigh the evidence and to act upon the same as they saw proper. If the jury believed all of the testimony of the witnesses presented by the state the evidence so adduced fully warranted the conclusion .that the plaintiffs in ■error were guilty of the larceny of the chickens described in the -indictment. The evidence in respect to the charge of burglary, however, is very limited and consists largely of the proof that the chicken house in question was forcibly broken open and that this breaking would only be necessary in the night season for the reason that during the day the chicken house was kept open. It appears that there were two openings in this chicken house, one ■being a window and the other a door described by one witness as being about five and a half by three feet. This door the evidence shows was locked each night and- opened the next morning. It was further shown in the evidence that the property in question was located near a public highway and that it was within plain • sight of - people residing in that locality, the nearest resident thereto living about one-quarter of a mile from the scene of the alleged crime. The evidence further shows that the building was probably entered through the window, from which had been torn a wire netting and the glass in the window broken. It is also in evidence that the tracks of a motor vehicle were discovered, indicating that said vehicle had been backed from the public road in question up against a fence near the chicken house, and human tracks were to be seen leading from the chicken house to the machine described. Under this state of the evidence this court is not justified in saying that from the facts mentioned the jury were clearly wrong' in determining that a burglary was committed when the chickens were stolen. It is said in the case of Methard v. State, 19 OS. 363, 368:
+“The facts that a building was burglar-iously entered, goods stolen therefrom, and the possession by the accused soon thereafter of the goods stolen, are competent evidence to go to the jury and, in connection with other circumstances, indicative of guilt, such as giving a false account or refusing to give any account of the manner in which or the means by which he came into possession of the stolen goods, they may afford a strong presumption of fact of the guilt of the accused and warrant the jury in finding him guilty of both the burglary and larceny.”
+The plaintiffs in error undertook to account for their possession of- certain chickens which were sold by them to a dealer on the eighth day of March, 1927, and claimed that the chickens so sold were the property of the mother of one of them, and were supported in this contention by the testimony of several witnesses. It appears, however, that such testimony in some very material matters was not as convincing as it- might be and was not corroborated by other witnesses as it might fairly be expected it would be. For instance, the rental contract between the mother of the plaintiff in error mentioned and one William McGinnis, who was the owner of the property on which the mother resided at the time she is alleged to have sold these chickens, provided as she stated that she was to have all incubator chickens which she might purchase. The purpose of this testimony is evident. It was given to account for the fact that she was able to dispose of so many chickens without the knowledge of her landlord. On the witness stand, however, McGinnis denied that there was any understanding of that sort and insisted that she was to raise chickens on the halves and he was to furnish the feed.
+Without going further into the details of all’ the evidence in this case it is sufficient to say that under the well settled rule that the verdict must be clearly wrong before a reviewing court may interfere on the ground that it is-against the manifest weight of the evidence,, we are impelled to affirm the judgment.
+(Mauck, J., concurs.)
