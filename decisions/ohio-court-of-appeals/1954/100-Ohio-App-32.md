@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1047"
+decided: "1954-10-15"
+citations: ["100 Ohio App. 32"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["J.T., Quatman and Middleton, concur."]
+parties: ["Shenk, Appellee, v. Shenk, Appellant."]
+source_url: "https://static.case.law/ohio-app/100/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422528
+cites_cases: ["149 A. L. R., 1287", "33 Ohio Law Abs., 336", "4 Ohio Supp., 243", "49 Ohio Law Abs., 207", "70 A. L. R., 964", "85 Ohio App., 392"]
+---
+
+# Shenk v. Shenk
+
+## Majority (Younger, P. J.)
+
+Younger, P. J.
+Plaintiff instituted this action in the Common Pleas Court of Allen County, seeking a divorce, alimony and a division of property, on the grounds of gross neglect of duty and extreme cruelty. Her petition also contains an averment that she is the owner of no property and has no income except a small monthly check received from insurance due to her ill health.
+The answer of defendant, in addition to the formal admissions and denials, alleges that for many years past plaintiff has been in failing health and that many years ago it was established that plaintiff was totally incapacitated and that in view of her mental sickness she was awarded total permanent disability in accordance with the terms of certain life insurance which she possessed and “defendant avers that in truth and in fact she is totally and permanently disabled by reason of mental infirmities.” The defendant further avers that plaintiff does not have the mental capacity to sue and maintain this action, but asks that if the court should find that she does have the mental capacity to sue that he himself be given permission to amend his answer and ask for a divorce.
+The case was heard by the court very much as an ordinary divorce case, except the court permitted Dr. R. E. Bushong, Superintendent of the Lima State Hospital, to testify as a witness for plaintiff, over the objection of defendant, that he examined Mrs. Shenk on June 1st — which was four months after the petition was filed — and that “she was competent at the time of her examination.” However, objections to the testimony of defendant’s witnesses and cross-examination of plaintiff’s witnesses as to plaintiff’s condition and eccentricities were sustained by the court, with the comment at one time: “We are not trying this woman’s sanity at all. I don’t care whether the house was full of papers or not.” No determination as to plaintiff’s sanity was made.
+At the conclusion of the hearing, plaintiff was granted a divorce and an award of alimony. From that judgment, this appeal is taken.
+The defendant makes six assignments of error, but in the view we take of this case it is necessary to consider only assignments numbers 1 and 2, which are as follows:
+“Assignment of Error No. 1. The court erred in not first determining the sanity of the plaintiff.
+“Assignment of Error No. 2. The court erred in refusing to permit the defendant to introduce evidence. ’ ’
+These assignments will be considered together.
+At the outset, it must be kept in mind that marriage is a civil contract, a personal and human relationship, as well as an institution. It cannot be created except by the consent of the parties. It cannot be dissolved except by the consent and the intelligent exercise of the will of one of the parties. That is to say, that no matter what or how many valid grounds for divorce exist, it is only by the decision and will of the party aggrieved that an action for divorce may be brought. Such aggrieved party may desire to condone acts that may have been committed by the opposite party. Such party may, for personal reasons, whether social, financial or religious, or out of consideration for the welfare of children or even other members of the families involved, desire that the marriage relation continue. There are no marital offenses which cannot be condoned. It is not the marital offense in itself that works the dissolution of the marriage union. It is the will and volition of the party aggrieved that invokes the judicial process to review the wrong and grant the relief which such will and volition of the aggrieved party has decided to request.
+For this reason, a valid petition for divorce can not be filed for an insane or incompetent plaintiff by a next friend or guardian, for in such instance the will and decision exercised would be that of the next friend or guardian and not that of the real party in interest. Such next friend or guardian could not know the real will and decision of an insane or incompetent plaintiff in a divorce proceeding. Such a decision is entirely and exclusively personal.
+The Court of Appeals for Cuyahoga County, in the case of Jack v. Jack, 49 Ohio Law Abs., 207, 75 N. E. (2d), 484, has held:
+“The great weight of authority in this country holds that a guardian of a mentally incompetent person cannot maintain an action for divorce. The cases are collected in 70 A. L. R., 964 and 149 A. L. R., 1287.”
+Also in point are the following: 19 A. L. R. (2d), 182, Section 20; 9 R. C. L., 406, Section 204; 17 American Jurisprudence, 290, Section 272; 27 C. J. S., 672, Section 89; Murphy v. Murphy, 85 Ohio App., 392; Prather v. Prather, 33 Ohio Law Abs., 336, 4 Ohio Supp., 243.
+The decision in this case necessarily turns upon the interpretation and construction of Section 11251, General Code (Section 2307.15, Bevised Code), which was in force at the time the case was heard in the Common Pleas Court and which reads as follows:
+“When the insanity of a party is not manifest to the court, and the fact of insanity is disputed by a party or an attorney in the action, the court may try the question, or impanel a jury to try it.”
+This section is a part of the code of procedure in civil actions and neither diligent counsel in this ease nor this court has been able to find a case in which this section has been subjected to interpretation or construction. It is interesting to note that the forerunner to this section as published in 1860, 1 Revised Statutes, S. and C., 384, reads as follows:
+“* * * and in case the idiocy, lunacy or insanity of such person be not manifest to the court, it shall be the duty of the court before proceeding further in the suit, on the suggestion of the idiocy, lunacy or insanity of such party, upon probable cause, to direct an issue upon the fact, and forthwith to impanel a jury to try and determine the question * * *.”
+It is the contention of defendant that the provisions of this section are mandatory and that when the question of sanity is raised, the court must determine the issue by one of the two methods provided for in the section. Counsel for plaintiff contend that the section leaves it within the discretion of the court as to whether or not the question of insanity is to be determined, that the court “may” determine the matter if it deems it advisable and “may” use either of the two procedures enumerated in the statute, and that if the court feels that the matter should not be determined, then it is within its discretion not to do so.
+Reason and the nature of divorce proceedings impel us to accept the contention of the defendant and we hold that the provisions of Section 11251, General Code (Section 2307.15, Revised Code), are mandatory, especially so far as proceedings in divorce cases are concerned. Since the institution of an action for divorce depends entirely upon the intelligent exercise of the will or volition of the plaintiff, it is incumbent upon the court to know, as far as it is humanly possible, and to ascertain, in cases where the sanity of the plaintiff is seriously questioned, whether or not that will or volition is expressed by a sane and competent person. While the statute in its present form does not expressly provide that such determination should be made before the case is heard on its merits, we are of the opinion that it should be determined first so that the procedure would be in proper order.
+In his answer, the defendant advised the court of his belief as to the insanity of plaintiff and stated that he was placed in an embarrassing situation, because if plaintiff was insane, her acts in the past should be overlooked and no cross-petition filed. Common decency required this.
+On the other hand, defendant was entitled to have the sanity of plaintiff determined so that if she was found to be sane he could proceed with his defense or cross-petition as he deemed proper.
+For the failure of the court to make a determination of the sanity of the plaintiff by (1) trying the issue himself, or (2) impanelling a jury to decide the issue, and the failure of the court to admit evidence offered by defendant as to the insanity of plaintiff, after the hearing on the merits of the case had been started, without the determination of the issue of sanity, the judgment appealed from is reversed.
+Judgment reversed.
+J.T., Quatman and Middleton, concur.
