@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-880629"
+decided: "1989-11-08"
+citations: ["52 Ohio App. 3d 49"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, P.J., Hildebrandt and Gorman, JJ., concur."]
+parties: ["The State of Ohio, Appellee, v. Price, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/52/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710212
+cites_cases: ["10 Ohio St. 2d 230", "124 N.E. 2d 148", "15 O.O. 3d 349", "162 Ohio St. 486", "227 N.E. 2d 212", "39 O.O. 2d 366", "401 N.E. 2d 437", "457 U.S. 31", "55 O.O. 388", "61 Ohio St. 2d 285"]
+---
+
+# State v. Price
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal from the Court of Common Pleas of Hamilton County.
+The defendant-appellant, Eric Price, appeals from his two-count conviction for aggravated robbery with firearm specifications following a bench trial. In his assignments of error he contends: (1) the trial court erroneously overruled his motion to suppress the in-court identification based upon a one-on-one lineup, and (2) the judgment of conviction was against the manifest weight of the evidence. Neither assignment of error is well-taken.
+The state presented evidence that the defendant, at gunpoint, demanded money from two picnickers. When they were unable to give him money, the defendant led one of the picnickers into the woods, where she eventually escaped and called the police. Both victims gave police a description of their assailant, and within two hours of the incident, police officers apprehended the defendant as the result of a radio broadcast of his description given by the victims. A gun was not recovered from the defendant at the time he was taken into custody or thereafter.
+Police transported the defendant to a Circle K store parking lot near the scene. The victims, whom police had also transported there, viewed defendant handcuffed in the back seat as well as outside the police cruiser. Both victims identified defendant as the gunman. Subsequently, and within three hours of the incident, one of two ten-year-old independent witnesses to the incident identified the defendant from a photo array.
+The indictment included two counts of aggravated robbery, two counts of robbery and one count of kidnapping with a specification as to each count alleging that defendant had a firearm on or about his person or under his control and a specification that he had previously been convicted of attempted aggravated burglary. After the trial court overruled his motion to suppress, defendant waived a jury trial; and, following a bench trial, the trial court found him guilty of both counts of aggravated robbery and the related specifications, but not guilty of the remaining counts and specifications. The trial court imposed a sentence of three years’ actual imprisonment on the gun specifications and imposed concurrent indefinite terms of not less than ten nor more than twenty-five years on the aggravated robbery charges, the minimum terms being actual imprisonment.
+A defendant’s claim that identification testimony must be excluded assumes that the procedures violated his right to a fair trial as guaranteed by the Due Process Clause of the Fourteenth Amendment. It has merit only if the in-court testimony of a state’s witness is shown to be so unreliable under the totality of the circumstances that it must be excluded in the interest of fundamental fairness. If an initial identification resulted from suggestive and unnecessary procedures, the in-court identification is not automatically subject to exclusion.* * *
+In the case sub judice the description of the defendant given to the police by both victims corresponded as to his height, weight, estimated age, facial hair, dreadlocks hair style and dark pants. Only their description of his shirt differed. One victim testified she had fifteen minutes to identify the defendant while the other stated that he had five minutes. Both victims testified that they made a conscious effort to remember the defendant during the commission of the crimes, and one victim remembered specific items including a cross around defendant’s neck and an emblem on his hat. The other victim noted his unusual high-step gait which the judge also observed when the defendant walked from counsel table to the witness stand to testify. The victims’ identification was substantiated by the in-court identification of the two independent witnesses who were not present at the one-on-one confrontation although one identified the defendant from a photo array. Therefore, the record does not reflect a substantial likelihood of misidentification by the victims, and the defendant’s first assignment of error is overruled.
+In his second assignment of error the defendant contends that the trial court’s judgment was against the manifest weight of the evidence and contrary to law.
+In reviewing a claim that the judgment is against the manifest weight of the evidence, an appellate court reviews the entire record and determines whether the trier of fact clearly lost its way in resolving conflicts in the evidence and created such a miscarriage of justice that the conviction must be reversed and a new trial ordered. Tibbs v. Florida (1982), 457 U.S. 31; State v. Robinson (1955), 162 Ohio St. 486, 55 O.O. 388, 124 N.E. 2d 148. The weight to be given the evidence and the credibility of witnesses are primarily for the trier of facts. State v. DeHass (1967), 10 Ohio St. 2d 230, 39 O.O. 2d 366, 227 N.E. 2d 212, paragraph one of the syllabus; State v. Ford (Mar. 8,1989), Hamilton App. Nos. C-880119 and C-880120, unreported.
+Because a firearm was not recovered and the victims received no injuries, defendant challenges the state’s failure to prove that he had a deadly weapon as charged in the indictment. However, the state is not required to produce the firearm to obtain a conviction for aggravated robbery. The trier of facts can infer from the evidence that the gun, described by the witnesses, could actually fire a projectile. Based upon the description of the gun by the victims and witnesses and their belief that it was operable, together with the gunman’s threats, “give me all your money or I’m going to kill you,” the trial court’s inference was reasonable and supported its finding that an aggravated robbery was committed. State v. Vondenberg (1980), 61 Ohio St. 2d 285, 15 O.O. 3d 349, 401 N.E. 2d 437. The trial court, as the trier of facts, did not lose its way, and defendant’s second assignment of error is overruled.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Shannon, P.J., Hildebrandt and Gorman, JJ., concur.
