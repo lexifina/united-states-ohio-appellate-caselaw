@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "L-99-1056"
+decided: "1999-05-12"
+citations: ["133 Ohio App. 3d 575"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Handwork, P.J., and Pietrykowski, J., concur."]
+parties: ["The STATE of Ohio, Appellee, v. WILTON, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/133/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 138642
+---
+
+# State v. Wilton
+
+## Majority (Melvin L. Resnick, Judge.)
+
+Melvin L. Resnick, Judge.
+This matter is before the court on appeal from the Lucas County Court of Common Pleas. The following facts are undisputed.
+On December 23, 1998, appellant, David D. Wilton, entered a guilty plea to one count of R.C. 4511.19(A)(1), driving while under the influence of alcohol (“DUI”). As this was appellant’s third offense in six years, he faced enhanced penalties pursuant to R.C. 4511.99(A)(4)(a). This was appellant’s first felony offense under the statute. The court accepted his guilty plea and sentenced him to twelve months in prison. On appeal, appellant contends his sentence is erroneous. Appellee, the state of Ohio, agrees.
+R.C. 4511.99(A)(4)(a) states:
+“If, within six years of the offense, the offender has been convicted of or pleaded guilty to three or more violations of division (A) or (B) of section 4511.19 of the Revised Code, * * * or if the offender previously has been convicted of or pleaded guilty to a violation of division (A) of section 4511.19 of the Revised Code under circumstances in which the violation was a felony and regardless of when the violation and the conviction or guilty plea occurred, the offender is guilty of a felony of the fourth degree. The court shall sentence the offender in accordance with sections 2929.11 to 2929.19 of the Revised Code and shall impose as part of the sentence a mandatory term of local incarceration of sixty consecutive days of imprisonment in accordance with division (G)(1) of section 2929.13 of the Revised Code or a mandatory prison term of sixty consecutive days of imprisonment in accordance with division (G)(2) of that section, whichever is applicable. If the offender is required to serve a mandatory term of local incarceration of sixty consecutive days of imprisonment in accordance with division (G)(1) of section 2929.13 of the Revised Code, the court, pursuant to section 2929.17 of the Revised Code, may impose upon the offender a sentence that includes a term of electronically monitored house arrest, provided that the term of electronically monitored house arrest shall not commence until after the offender has served the mandatory term of local incarceration.
+“In addition to all other sanctions imposed, the court shall impose upon the offender, pursuant to section 2929.18 of the Revised Code, a fine of not less than seven hundred fifty nor more than ten thousand dollars.
+“In addition to any other sanction that it imposes upon the offender, the court shall require the offender to attend an alcohol and drug addiction program authorized by section 3793.02 of the Revised Code. The cost of the treatment shall be paid by the offender. If the court determines that the offender is unable to pay the cost of attendance at the treatment program, the court may order that payment of the cost of the offender’s attendance at the treatment program be made from the court’s indigent drivers alcohol treatment fund.”
+Appellant argues that pursuant to R.C. 2929.13(G), he could not be sent to prison. Rather, appellant argues, he was only subject to local incarceration. R.C. 2929.13(G) states:
+“Notwithstanding divisions (A) to (E) of this section, if an offender is being sentenced for a fourth degree felony OMVI offense, the court shall impose upon the offender a mandatory term of local incarceration or a mandatory prison term in accordance with the following:
+“(1) Except as provided in division (G)(2) of this section, the court shall impose upon the offender a mandatory term of local incarceration of sixty days as specified in division (A)(4) of section 4511.99 of the Revised Code and shall not reduce the term pursuant to section 2929.20, 2967.193, or any other provision of the Revised Code. The court that imposes a mandatory term of local incarceration under this division shall specify whether the term is to be served in a jail, a community-based correctional facility, a halfway house, or an alternative residential facility, and the offender shall serve the term in the type of facility specified by the court. The court shall not sentence the offender to a prison term and shall not specify that the offender is to serve the mandatory term of local incarceration in prison. A mandatory term of local incarceration imposed under division (G)(1) of this section is not subject to extension under section 2967.11 of the Revised Code, to a period of post-release control under section 2967.28 of the Revised Code, or to any other Revised Code provision that pertains to a prison term.
+“(2) If the offender previously has been sentenced to a mandatory term of local incarceration pursuant to division (G)(1) of this section for a fourth degree felony OMVI offense, the court shall impose upon the offender a mandatory prison term of sixty days as specified in division (A)(4) of section 4511.99 of the Revised Code and shall not reduce the term pursuant to section 2929.20, 2967.193, or any other provision of the Revised Code. In no case shall an offender who once has been sentenced to a mandatory term of local incarceration pursuant to division (G)(1) of this section for a fourth degree felony OMVI offense be sentenced to another mandatory term of local incarceration under that division for a fourth degree felony OMVI offense.”
+In sum, a person is entitled to one felony DUI wherein he or she is eligible for “local incarceration.” Any subsequent felony DUI convictions will result in more severe sanctions under R.C. 2929.13(G)(2), such as prison time. See Painter, Ohio Driving Under the Influence (1998) 225, Section 19.11. It is undisputed that the case before us is appellant’s first felony DUI offense. Accordingly, the court erred in sentencing appellant to prison. Moreover, because R.C. 2929.13(G)(1) and (2) set forth such different penalties, it is the opinion of this court that a defendant’s status as a felony offender should be set forth in the indictment as an element of a second DUI offense.
+Appellant’s sole assignment of error is found well taken. The judgment of the Lucas County Court of Common Pleas is reversed, and this cause is remanded for resentencing. Appellant shall be present at his resentencing pursuant to Crim.R. 43(A). Costs assessed to appellee.
+Judgment reversed.
+Handwork, P.J., and Pietrykowski, J., concur.
