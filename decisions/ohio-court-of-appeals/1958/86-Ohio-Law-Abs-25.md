@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "205"
+decided: "1958-02-04"
+citations: ["86 Ohio Law Abs. 25"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Collier, P. J., and Radcliff, J., concur."]
+parties: ["LANG, Plaintiff-Appellant, v. WESTERN AND SOUTHERN LIFE INSURANCE COMPANY et, Defendants-Appellees."]
+source_url: "https://static.case.law/ohio-law-abs/86/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804729
+cites_cases: ["197 N. Y., 309"]
+---
+
+# Lang v. Western & Southern Life Insurance
+
+## Majority (Gillen, J.)
+
+Gillen, J.
+Plaintiff, Yitula Hopkins Lang, instituted this action in the Court of Common Pleas of Brown County, Ohio, to recover the proceeds of a policy of insurance issued by the Western and Southern Life Insurance Company to John W. Lang on the 27th day of June, 1947. The original beneficiary named in the policy was Clara Lang, Mother of the insured. The policy of insurance shows that on September 24, 1948, the beneficiary was changed to the plaintiff, Yitula Hopkins Lang. On June 30, 1953, as shown by Defendant’s Exhibit No. 1, the insured, in the presence of an agent of the Western and Southern Life Insurance Company, filed with the insurer a further change of beneficiary, wherein defendant, Robert W. Lang, brother of the insured, was named beneficiary. Robert W. Lang filed an answer and cross-petition setting forth his claim to the proceeds of the policy of insurance.
+The Western and Southern Life Insurance Company, by way of interpleader, placed the proceeds of the policy, less $785.00 representing a loan on said policy, in the hands of the Clerk of Court and waived all of the formalities and provisions concerning change of beneficiary set forth in said policy.
+On the 16th day of April, 1941, the Western and Southern Life Insurance Company issued to plaintiff an insurance policy in the sum of $1,000.00 in which the insured’s mother, Etta Hopkins, was named beneficiary.
+The plaintiff and John W. Lang were married April 9, 1948, subsequent to the issuance of both policies. It is the claim of plaintiff that some time between August and October of 1948 she and her husband entered into a verbal agreement whereby she was to be named beneficiary in his policy and he was to be named beneficiary in her policy; that pursuant to said verbal agreement the beneficiaries were changed and her husband gave her his policy; that by reason of said verbal agreement there was an assignment of his policy to her. We have carefully examined the record in regard to this claim. Her policy shows that the change in beneficiary to her husband was made October 14, 1948, and his policy shows that plaintiff was made beneficiary September 24,1948. In other words, the change of beneficiary in the two policies was not made at the same time. It is the further claim of plaintiff that she had possession of her husband’s policy at all times subsequent to the date of the alleged verbal agreement. As a matter of fact, she had both policies in her possession most of the time. Whether this was merely an arrangement for safekeeping is not made clear. The record does show, however, that John W. Lang paid all premiums due on his policy up to the time of his death May 21, 1955. On the 25th day of April, 1955, as shown by Defendant’s Exhibit No. 2, John W. Lang made an application for a policy loan in which he stated that no assignment of the policy had been made. This application was signed in the presence of a witness and together with the policy was turned over to a representative of the Company to perfect the loan. Plaintiff was aware of this transaction. At the time John W. Lang changed the beneficiary to Robert W. Lang, he signed an application which contained the statement that the policy Avas not in the possession of another person and that there was no claim against it. At the time this change was made John W. Lang and his Avife had been having marital difficulties and he had filed three separate divorce actions, each of which had been dismissed without prejudice.
+The evidence adduced by plaintiff is insufficient to establish a verbal assignment of the policy. It proves only that at the time the beneficiaries were changed in 1948 the parties agreed to make the change and that the policies were turned over to plaintiff for safekeeping.
+We have examined the ease of Katzman v. Aetna Life Insurance Co., 197 N. Y., 309, 128 N. E. 2nd, 307, relied upon by counsel for plaintiff and find that the factual situation therein is entirely different from the ease at bar. In that case the Court found that much of the time during their married life the husband was unemployed and depended for his support largely on the wife’s earnings; that because of this adverse economic status, they were unable to put aside any savings for sickness and death expenses, so the husband and wife agreed on or about May 15, 1944, after some seventeen years of married life, that the husband would take out a policy on his life and name the wife as beneficiary if she, the wife, would pay the premiums. Under such circumstances the Court found:
+“5. Husband who allegedly named wife as beneficiary of his life policy pursuant to agreement that she would pay premiums, and who allegedly later, without wife’s knowledge, changed beneficiary to his sister, perpetrated a fraud upon his wife, which, if established by evidence, the Supreme Court had equitable power to correct.”
+In the case at bar John W. Lang originally purchased the policy of life insurance for the protection of his mother. He paid all premiums due on the policy up to the time of his death. The most that can be said for plaintiff’s claim is that, for a time, during the term of the policy she was the named beneficiary. There is no evidence to establish fraud on the part of John W. Lang.
+In the case of Campbell v. The Prudential Insurance Company, 137 N. E. 2nd, 515, the court found:
+“5. By separation agreement, in which husband agreed to keep insurance policy on his life in force for his children’s benefit, and subsequent divorce decree incorporating such agreement, husband estopped himself from invoking privilege of changing beneficiary under policy to woman whom he subsequently married, and her desigrtation as beneficiary by insured in violation of such agreement was ineffective, where no innocent party was misled and damaged thereby, and constituted fraud against children.
+“6. An insurance company had right to waive provisions of its life insurance policy regulating mode and manner of changing beneficiary thereof.”
+There are no facts in the case at bar which would invoke the doctrine of estoppel. We have carefully examined the entire record including the Separate Finding of Fact and Con-elusions of Law by tbe trial court and find no prejudicial error contained therein. The judgment of the court below will, therefore, be affirmed.
+Judgment affirmed.
+Collier, P. J., and Radcliff, J., concur.
