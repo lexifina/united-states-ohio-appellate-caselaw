@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2753"
+decided: "1937-05-18"
+citations: ["25 Ohio Law Abs. 93"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROSS, PJ, HAMILTON and MATTHEWS, JJ, (1st Dist) sitting by designation.", "HAMILTON, J, concurs.", "ROSS, PJ, dissents m separate memorandum."]
+parties: ["FOX v BEN SHECHTER & CO"]
+source_url: "https://static.case.law/ohio-law-abs/25/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1682193
+---
+
+# Fox v. Ben Shechter & Co.
+
+## Majority (By MATTHEWS, J.)
+
+OPINION
+By MATTHEWS, J.
+This is an appeal on questions of law from a judgment of the Court of Common Pleas of Summit County, in favor of the plaintiff in that court in an action in which she sought damages for personal injuries received by her when she stepped on a slippery substance on the floor of the defendant’s grocery, fruit, and vegetable store, as she was leaving it after purchasing groceries therein from the defendant.
+The appellee alleged that the appellant was negligent in allowing decayed or partially decayed fruit and vegetable matter to remain on the floor in the main aisle of the store near the front door, that she entered the store, went to the rear, was engaged in making purchases for fifteen to twenty minutes, and, as she was leaving the store slipped on this matter and fell against a counter.
+There is substantial evidence to support this claim and that the matter had been upon the floor for fifteen minutes or more at the time of the accident.
+The plaintiff was not asked whether she had seen this substance on the floor and did not testify on that subject. There was no evidence that she knew that it was on the floor.
+The accident occurred on the 2nd day of February, 1933 shortly after 5:30 P. M. The store was well lighted, but there is evidence that the lights were so situated that the decayed fruit and vegetable substance were in the shadow of the counter.
+There was no direct evidence as to how or by whom the substance was placed upon the floor. There was evidence that the store was equipped with a refuse chute leading to the basement, and that the store opening to this chute was in the wall about six or eight feet from the place where the appellee slipped.
+It is argued that in this situation, the record fails to disclose any negligence on the part of the defendant, and that the court should have sustained the appellant’s motions for instructed verdict and should have rendered judgment in its favor. This argument is countered by the appellee’s claim that it was the duty of the defendant to exercise reasonable care to see that the floor would be reasonably safe for customers, that it was its duty also to exercise reasonable care in inspecting the floor to discover any substance thereon that would cause it to be unsafe for its customers, and to exercise reasonable care to guard its customers against such danger.
+The appellee contends that the evidence makes it more probable that the defendant through its clerks had placed this substance on the floor and that, therefore, an inference to that effect may be drawn, and, furthermore, that the evidence that this substance had been on the floor from fifteen to twenty minutes in a room 20 by 50 feet, where the defendant had several clerks, and where customers were in attendance was substantial evidence that the defendant either knew, or in the exercise of reasonable care should have known that the substance was on the floor long enough before the accident to have removed it, had it exercised reasonable care.
+We believe the appellee’s position is sound. The evidence presents an issue of fact to be determined by the jury rather than an issue of law to be determined by the court.
+Counsel relies principally upon Kroger Grocery & Baking Co. v McCune, 46 Oh Ap 291, (16 Abs 78), and Lowe v Hippodrome Inn Co., 30 Oh Ap 520, (6 Abs 641),
+but these cases present no novel principle. On the contrary, they declare the old doctrine that if the evidence shows the invitee was injured as the direct result of a defect in the premises and that defect existed at the time of the accident through the negligence of the occupant who had invited the plaintiff, then there is a liability. For negligence to exist, there must be sume sort of knowledge of the condition causing the injury. If the occupant created the condition, of course, he had knowledge. Proof that he created it would be proof that he had notice. And this proof may take the form of circumstantial as well as direct evidence.
+If the evidence shows that someone else created the condition, or if there is no evidence as to the creator of the condition, then evidence that the occupant knew of the condition must be adduced to impose a duty upon the occupant with reference thereto. This evidence of notice to the occupant also may be either circumstantial or direct.
+The cases relied upon by counsel for appellant recognize all these rules.
+It is true that in applying these rules to the facts of those cases, the court held that the plaintiff had failed to adduce any evidence of knowledge on the part of the defendant.
+In the case at bar there is evidence from which the jury could reasonably infer it was more probable that the condition was created by the defendant. It was operating the store. It had control of the fruit, vegetables, and groceries while they were loose and until placed in some kind of a bundle and delivered to the customers to be taken from the store. While being handled by defendant, placing them in bins, on counters, displaying them and then delivering them to customers — the likelihood of dropping them upon the floor was very much greater than after they were bundled up and delivered to the customers. Furthermore, it is not to be supposed that decayed fruit would be delivered to a customer.
+It is possible that a customer dropped this grape. That is not the rule. The rule is, whether there is evidence that makes it more probable that defendant dropped it. In Sears, Roebuck & Co. v Peterson, 76 Fed. (2d) 243, it is said at page 246:
+•‘But it is urged by defendant that there was no proof that defendant had knowledge of the presence of the twine upon the floor, or that it had been upon the floor for such a length of time as to charge it with constructive knowledge. This is not a case in which the condition was attributable either to the elements or the act of some third party. The negligence here complained of was that of the defendant itself, committed, it is true, by its employee. It would be an anomaly to hold that one is not to be charged with notice of a condition arising from his own active negligent act, or that there must be proof of knowledge or notice of a dangerous condition created by the negligent act or omission of the owner of the premises. It is universally held that the owner of the premises is charged with notice of any structural defects in his property, on the theory that one must be charged with notice of his own act, and, hence, wherever defective conditions are due to the direct act of the defendant, or of persons whose acts are constructively his own, no notice need be shown, but is necessarily implied.”
+If the jury concluded that it was more probable that defendant dropped it. no further evidence was necessary on that branch of the case. If the jury did not draw that inference it could have concluded that no matter who created the condition it had been there fifteen or twenty minutes and that under the circumstances the defendant should have discovered it in that time and have had sufficient time to remove it after discovery and before the plaintiff was injured. If it reached this conclusion, this element of liability was established in that way.
+We are also of the opinion that the issue of contributory negligence was properly submitted to the jury, and that the finding of the jury on the issues should not be disturbed by the court. We cannot say that the verdict is manifestly against the weight of the evidence.
+Finding no error in the record, the judgment of the Court of Common Pleas of Summit County is affirmed.
+HAMILTON, J, concurs.
+ROSS, PJ, dissents m separate memorandum.
+
+## Dissent (By ROSS, PJ.)
+
+DISSENTING OPINION
+By ROSS, PJ.
+I dissent from the conclusion of the majority of the court for the reason that there is in the record not one scintilla of evidence that the substance upon which the plaintiff claimed she slipped was either negligently placed upon the floor by the owner, or his employes, or remained fcnere for such a time as to constitute constructive notice of its presence.
+The owner in the final analysis is only required to use the care which reasonably" careful and prudent persons are accustomed to use under the same or similar circumstances. This requires the operator ;f a store in which vegetables and fruit are sold to use care that such things do not fall upon the floor or into the aisles, where they may cause injury to patrons, who, owing to the insufficient lighting, are unable to see them while exercising reasonable care for their own safety and.slip and fall when stepping upon such substances.
+The evidence in this case is that the plaintiff and her husband entered the store, that he noticed some debris upon the floor, that some fifteen minutes later his wife slipped upon some substance in the vicinity of the debris, which he said looked like lettuce leaves and grapes. That he examined the place where her foot slipped, and that it was a wet spot with null marks running through it, and at the end of the marks there was a decayed grape.
+How long this grape had been upon the floor, how it came there, where it came from, all are mattei's of pure speculation, and one guess, freeing the proprietor irom liability is just as good as another guess resulting in imposing liability.
+This court has held that elements of negligence, proximate cause and injury in a case are all matters of proof, not conjecture. Flamm v Coney Island Co., 49 Oh Ap 122, (18 Abs 580). I consider the case of Kroger Grocery & Baking Co., 46 Oh Ap 291, (16 Abs 78), well-considered and apropos the instant case. The 4th paragraph of the syllabus in that case is:
+“Customer could not recover for injuries sustained in slipping on leaf of lettuce on floor of grocery store, where there was no evidence whether employees knew of presence of lettuce on floor or how long it remained there.”
+There must be some limit this side of pure conjecture and speculation where the function of a jury ceases.
+In my opinion the defendant was entitled to an instructed verdict, and in any event the case should be reversed as containing a verdict directly and manifestly against the weight of the evidence.
