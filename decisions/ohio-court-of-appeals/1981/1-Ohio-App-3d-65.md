@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-800098"
+decided: "1981-02-04"
+citations: ["1 Ohio App. 3d 65"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Castle, P.J., Palmer and Black, . JJ., concur."]
+parties: ["The State of Ohio, Appellant, v. Truitt, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/1/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707196
+cites_cases: ["120 U.S. 274", "16 O.O.3d 201", "18 O.O.3d 461", "284 U.S. 299", "445 U.S. 684", "449 U.S. 879", "62 Ohio St. 2d 170", "64 Ohio St. 2d 273"]
+---
+
+# State v. Truitt
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal from the Court of Common Pleas of Hamilton County.
+The state of Ohio, as appellant, seeks reversal of the trial court’s dismissal of the indictment and discharge of the defendant by reason of former jeopardy. The state asserts in its single assignment that the court below erred in holding that the prosecution for the sale of a controlled substance (R.C. 2925.03[A][1]; trafficking in drugs) was barred by defendant’s earlier misdemeanor conviction for possession of a separate and distinct quantity of drugs (R.C. 2925.11; drug abuse). We agree with the state.
+Defendant-appellee, Robert T. Truitt, was the subject of a police surveillance designed to observe suspected drug trafficking at a particular location. The officers observed the defendant deliver several pills, later identified as Talwin (pentazocine), to an individual in exchange for currency. At the approach of uniformed police officers, the pair walked away in different directions. The defendant discarded a bag he was carrying before he was finally apprehended, and the bag contained more Talwin.
+The defendant was charged with both possession of a controlled substance (the Talwin found in the bag) and sale of a controlled substance (the Talwin delivered to the individual). The possession charge, a misdemeanor, was tried separately in the Hamilton County Municipal Court, and the defendant was found guilty. It is this conviction that was the basis of his motion in the Court of Common Pleas to dismiss the sale charge, which under the allegations of the indictment was a felony of the second degree.
+The law applicable to this case is found in Blockburger v. United States (1932), 284 U.S. 299. The Blockburger rule, simply stated, is that “* * * where the same act or transaction constitutes a violation of two distinct statutory provisions, the test to be applied to determine whether there are two offenses or only one, is whether each provision requires proof of a fact which the other does not. * * *” (Emphasis added and citation omitted.) Id., at 304. The state asserts that the appropriate application of the Blockburger rule requires an analysis of the elements comprising the two offenses. We agree with the state’s desired result, but not with its reasoning. We agree that Blockburger makes the definitive statement of the law, but we hold that, on the facts sub judice, the first step in applying the Blockburger test requires us to determine whether the two offenses charged stem from the same act or transaction. We do not reach and do not decide whether, from an abstract point of view, each of the statutes involved includes an element not shared by the other.
+The facts of Blockburger are helpful in implementing the test. Therein, the defendant was charged, inter alia, with the sale of morphine to an individual and also with a second sale of morphine to the same individual on the following day. In affirming the two convictions, the Supreme Court held that the first sale had been completed and that the second sale, however close in time, was a separate and distinct transaction. The court distinguished between offenses which are continuous in character and those that consist of an isolated act. Id., at 302.
+The record in the instant case indicates that the defendant sold a particular quantity of pills to an individual. Shortly after that transaction was completed, the defendant was apprehended with constructive possession of a quantity of pills separate and distinct from those involved in the sale. The defendant was not charged with possessing the drugs that he sold, nor with selling the drugs later found in his constructive possession. We hold that the defendant’s possession of the additional pills was an act separate and distinct from the sale.
+This principle is illustrated by a more obvious example. Assume that the defendant had been successful in his flight from the police immediately after the sale, but was apprehended a month later with a quantity of Talwin on his person. The double jeopardy provision would, without doubt, allow his prosecution for both the prior sale and the later possession. We fail to see how the immediacy of defendant’s arrest in the instant case should lead to a different result. The legislature has decreed that possession is one offense and sale is another, and the defendant was charged with two separate offenses. The legislature has not chosen to make a crime of dealing in (pushing) drugs as a continuing course of conduct, but to proscribe a series of acts committed while dealing in drugs with a separate punishment for each. See Whalen v. United States (1980), 445 U.S. 684.
+A useful analogy is supplied by the case of State v. Roberts (1980), 62 Ohio St. 2d 170 [16 O.O.3d 201], certiorari denied (1980), 449 U.S. 879, in which a different aspect of double jeopardy was considered. The defendant therein was charged with both the possession for sale of a narcotic drug and with the sale of a narcotic drug. The court held that the statute prohibiting two convictions for allied offenses of similar import (R.C. 2941.25) allowed him to be convicted of only one of those offenses, because “* * * the facts demonstrate that both charges [were] * * * based upon a single sale and involve[d] the same parties and the same type and quantity of drugs, and it is not proven that the defendant possessed a quantity of any type of narcotic drug in excess of the amount sold * * *.” Id, at 174. The court reasoned that in such circumstances the defendant’s possession of the drugs was incidental to and an indivisible part of the sale. In the instant case, the drugs possessed by the defendant were not the drugs that he sold.
+The single assignment has merit.
+The appellee’s brief includes a section designated as an assignment of error, wherein he claims that the state failed to obtain leave to appeal in a timely and proper manner. However, appellee did not file a notice of cross-appeal, and we ignore the attempt to present the issue because it is not properly before this court. See App. R. 4; State, ex rel. Bossa, v. Giles (1980), 64 Ohio St. 2d 273, 274, at fn. 1 [18 O.O.3d 461].
+We reverse the judgment below and remand this cause for further proceedings.
+Judgment reversed and cause remanded.
+Castle, P.J., Palmer and Black, . JJ., concur.
+In Blockburger, supra, at page 302, the Supreme Court contrasted the facts of that case with those of In re Snow (1887), 120 U.S. 274, wherein it was held that the offense of cohabitating with more than one woman was a continuous offense having duration and not an isolated act under the statute in question.
+The defendant in Roberts was charged under the now repealed provisions of R.C. 3719.20(A) and (B).
