@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1014"
+decided: "1940-09-30"
+citations: ["33 Ohio Law Abs. 414"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["NICHOLS, PJ. & PHILLIPS, J., concur."]
+parties: ["MORRIS v RETAIL CLERKS’ INT. PROTECTIVE ASS’N. LOCAL No. 450 et"]
+source_url: "https://static.case.law/ohio-law-abs/33/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1704158
+---
+
+# Morris v. Retail Clerks' Int. Protective Ass'n
+
+## Majority (By CARTER, J.)
+
+OPINION
+By CARTER, J.
+The action below was one for injunctive relief. Appeal on questions of law and fact was by plaintiff-appellant attempted to be prosecuted to this court from the action of the trial court
+in the dismissal of the petition as against Retail Clerks’ International Protective Association, Local No. 450. The court however made a finding in favor of appellant and granted a permanent injunction against Joseph McDonald, whom the court found attempted to prevent deliveries of supplies to appellant by means of intimidation and coercion. The court also dismissed the case as to the other defendants at the conclusion of appellant’s evidence.
+A perusal of the record discloses no bond filed, which is essential under the provisions of §12223-6 GC, to confer jurisdiction on this court to hear an appeal on questions of law and fact.
+No bond having by appellant been given, the words “and fact” are ordered stricken from the notice of appeal,- and disposition will be made as one on questions of law only pursuant to the provisions of §11564 GC.
+The record discloses substantially the following: Plaintiff-appellant, Jim Morris, d.b.a. Central Market & Dairy, has been engaged in the grocery, meat and dairy business since the early part of May, 1938, to the present time. Prior to May, 1938, plaintiff-appellant was the owner and operator of a marker under the name of Central Market, selling groceries and produce. A Mr. Groff operated a meat department. Mr. Groff retired from this department and the entire building was taken over by Morris and reorganized into a market and dairy business. Sometime in February, 1937, an agreement was entered into by approximately one hundred retail food store merchants relative to closing hours. There is no provision in this agreement as to' the length of time the same was to run. In fact, the date of its execution is not disclosed by the agreement. However there was testimony submitted as to the date when it was to become effective and also parol testimony as to the length of time the agreement was to continue. It is urged that this was incompetent testimony. In this we can not concur. The contract was not complete and the testimony aliunde was for the purpose of supplying the omitted parts of the agreement. It in no way modified the terms of the agreement, but was evidence as to what the agreement was at the time. In such a case the parol evidence rule has no application. Metzler’s Ohio Trial Evidence, page 549, and cases therein cited.
+The record further discloses that Morris, after he had taken over the meat business, violated the terms of the agreement relative to closing hours. Thereupon a discussion was had concerning closing hours under the agreement. However Morris refused to comply further with the agreement. Thereupon and on or about the 11th day of October, 1939, a picket was placed in front of plaintiff-appellant’s place of business bearing a placard as follows: “Unfair to Organized Labor Local No. 450, affiliated with A. F. of L.” Thereupon this action was instituted seeking an injunction restraining the defendants from picketing Morris’ place of business, and as hereinbefore suggested the court dismissed the petition as to all the defendants except McDonald. Appeal is prosecuted to this court.
+There can be no question but that Mor-, ris signed the contract or agreement known as Defendant’s Exhibit “A” in which about 100 food store merchants agreed to close their stores each week at noon Wednesday until Thursday morning, except when a holiday falls in that week; to close Monday, Tuesday, Thursday and Friday at six p. m. except before a holiday at 8 p. m.; to close each and every Saturday night at 8 p. m.; to close each New Year, Decoration Day, Fourth of July, Labor Day, Thanksgiving, Christmas and Sundays.
+There is nothing in the contract to indicate how long same was to continue. However there is testimony in the record, and we think properly so, that the agreement was to automatically be in effect one yéar and the next until the majority saw ñt to change it. As we construe this testimony the agreement was to continue until the majority saw fit to change the same, and this seems to be the construction placed thereon as the majority are still adhering to this arrangement. The contract according to the record was to become effective March 1, 1937.
+One of the vital questions presented is whether a trade dispute existed making lawful picketing proper. The trial court found that a trade dispute did not exist in this case, and that there was no unlawful picketing on the part of the Retail Clerks’ International Protective Association; Local No. 450. The court could and properly found under the evidence that plaintiff-appellant had breached the agreement entered into between the appellant and the other parties to the contract, and that resort could be had to proper picketing.
+. This agreement if adhered to by plaintiff-appellant reduced the hours of labor as to the clerks in the employ of food stores affected thereby. If not complied with, their hours of labor were increased. This agreement was for the benefit of all employees coming within its provisions, and of course that included the employees of plain.tiff-appellant; and the fact that the dairy- business was later combined with the sale of food in our judgment did not alter the situation. Appellant still sold food. ■ No strike is involved.
+This appeal is on questions of law, and this court can not reverse unless the finding is so manifestly wrong, as held by some courts, as to shock the conscience of the reviewing court. The evidence before us in this case does not call for a reversal of the case on the grounds that such is against the manifest weight of the evidence or contrary to law. On the other - hand, there is ample evidence in the record justifying the finding of the lower court.
+Judgment affirmed.
+NICHOLS, PJ. & PHILLIPS, J., concur.
