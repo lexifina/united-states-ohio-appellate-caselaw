@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1931-11-19"
+citations: ["41 Ohio App. 192", "12 Ohio Law Abs. 42"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lemert and Montgomery, JJ., concur."]
+parties: ["Gause v. Peeler et al., Board of Township Trustees of Worthington Township, Richland County."]
+source_url: "https://static.case.law/ohio-app/41/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1327891
+cites_cases: ["164 N. E., 791", "164 NE, 791", "30 Ohio App., 249", "4 Ohio App., 208"]
+---
+
+# Gause v. Peeler
+
+## Majority (Sherick, P. J.)
+
+Sherick, P. J.
+This is an error proceeding to this court from the court of common pleas, and the matter is before this court upon one question only, that being that the trial court wrongfully sustained a demurrer to the amended petition, as therein filed.
+The plaintiff, James V. G-ause, in his petition alleges that Clapper road is a township road in Worthington township, Eichland county, Ohio, and that on the 5th day of September, 1927, he was proceeding along this township road with a team and wagon, that his wagon slipped into an unguarded washout in said road causing it to tip violently by reason of the washout and general bad condition of the road, and that he sustained a very serious injury in being thrown from the wagon. It is charged that his injury is the direct result of the failure of the township trustees to perform the duties imposed upon them by law, and that in their failure to perform these duties they were negligent.
+The petition further recites that on and prior to the 5th day of September, 1927, and in fact for a period of two years, the defendants failed, refused and neglected to do any work on this road, to drag the same, or to gravel it, or to keep the road in good repair, and that the plaintiff had on numerous occasions notified the trustees of the condition of the road, to the effect that it was almost impassable, badly washed, drainage structures clogged, and greatly in need of maintenance and repair, and that, though thus repeatedly notified of its condition, the trustees had wholly failed to repair or to do any work on this township road.
+These are the- essential averments of the petition that need he considered in the matter, and present the question whether or not the trial court properly sustained a demurrer to this petition. It appears that the court sustained this demurrer upon the authority of the case of Smith v. Commissioners of Williams County, 10 C. C. (N. S.), 115, 19 C. D., 610, and also upon the authority of Durrell, Admr., v. Ohio Traction Co., 7 N. P. (N. S.), 136, 19 O. D. (N. P.), 112. It will be noted that in both of these eases the county commissioners in their official capacity were the defendants, and we are inclined to believe that these two cases are not authority upon which the demurrer in this case should have been sustained.
+Turning to the Smith case we find that the court therein said, on page 118 of 10 C. C. (N. S.): “It is provided in some of the statutes relating to improved roads and in other cases that the commissioners shall keep them in repair, but there is no such provision as to an ordinary county road. On the contrary, express provisions are made in some statutes, as to township trustees keeping roads in repair, and conditions as to supervisors keeping roads in repair in their district, and provisions as to the fund from which they may draw to keep the roads in their district in repair.” Prom this excerpt it is clear that the court in that case recognized that there were certain statutes pertaining to the duties of township trustees with which county commissioners were not similarly charged. '
+"We would direct attention to Section 3370, General Code, which provides: “The township trustees shall have control of the township roads of their township and shall keep the same in good repair.” It is clear from this section that a duty is imposed by statute upon the township trustees with reference to the repair of its township roads.
+Turning now to Section 3298-17, General Code, it is provided: “Each board of township trustees shall be liable, in its official capacity for damages received by any person, firm or corporation, by reason of the negligence or carelessness of said board of trustees in the discharge of its official duties.”
+Having seen that the trustees are charged with the duty of keeping the township roads in repair, it seems clear to us by the last-quoted section that it is provided that they shall be liable in damages for a failure to perform any such duty as is created and imposed by Section 3370.
+Examining further the sections of the statutes pertaining to the repair and maintenance of township roads we find that Section 3298-18, General Code, makes provision for the levy and collection of township taxes for the purpose of creating an adequate fund for the maintenance and repair of township highways. We also find that it is provided in another section, that being Section 3375, that township trustees shall cause unimproved public roads of the township to be dragged at the beginning of each fiscal half year, and that a sum shall be appropriated for that purpose and not be used for any other purpose.
+From these sections of the Code it appeals to us that it was the intention of the Legislature of this state to provide a means whereby township roads might be repaired and maintained, and that the Legislature, to accomplish the contemplated end, imposed certain duties upon township trustees in reference thereto; and it was further provided that the traveling public had certain rights in the use of township roads, and that, in the event the trustees failed to perform the duties imposed upon them by statute, the trustees in their official capacity should be liable for injuries sustained by the public in the use of these roads when the same are not kept in proper repair and safe for travel.
+Holding as we do, we conclude that the amended petition in this case states a cause of action, and that the demurrer interposed thereto should have been overruled. We have been unable to find any reported case in this state wherein an injured party has attempted to recover in a suit as against the township trustees. We do find several recent cases where county commissioners have been sued. See the case of Bales, Admx., v. Bd. of Commrs. of Cuyahoga County, 30 Ohio App., 249, 164 N. E., 791, and also the case of Whitney v. Niehaus, 4 Ohio App., 208, which have been helpful to us in arriving at our conclusion in this matter.
+It therefore follows that the cause will be reversed and remanded to the trial court with instructions to overrule the demurrer, and for further proceedings according to law.
+Judgment reversed and cause remanded.
+Lemert and Montgomery, JJ., concur.
