@@ -5,6 +5,7 @@ citations: ["18 Ohio Law Abs. 537"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["STATE ex SCHROER v SCHIRMER et"]
 source_url: "https://static.case.law/ohio-law-abs/18/cases/0537-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -14,4 +15,13 @@ cites_cases: ["2 OO 246"]
 
 # State ex rel. Schroer v. Schirmer
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+STATE ex SCHROER v SCHIRMER et
+Ohio Appeals, 1st Dist, Hamilton Co
+Decided July 9, 1934
+Prank K. Bowman, Cincinnati, for relator.
+Louis J. Schneider, Cincinnati, Prosecuting Attorney, and Walter H. Bachrach, Cincinnati, for respondents.
+For full opinion see 2 OO 246; 49 Oh Ap 103.
