@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 276"
+decided: "1934"
+citations: ["18 Ohio Law Abs. 456"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROBERTS and CARTER, JJ, concur."]
+parties: ["COMMERCIAL NATL BANK v HALL et"]
+source_url: "https://static.case.law/ohio-law-abs/18/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1661094
+cites_cases: ["104 Oh St 188", "11 Oh St 691", "117 NE 502", "135 NE 620", "6 Ohio, 399", "96 Oh St 410"]
+---
+
+# Commercial Natl Bank v. Hall
+
+## Majority (By PHILLIPS, J.)
+
+OPINION
+By PHILLIPS, J.
+Many grounds of error have been urged by the plaintiff in the petition in error. It is claimed by the plaintiff that the lower court erred in excluding testimony offered by the plaintiff. In at least one instance-the. record discloses no record dictation as to what the witness would have testified, had he been permitted to testify. Hence, this court cannot determine whether or not the action of the trial court in sustaining the objection was reversible error. With reference to the other testimony which plaintiff urges should not have been excluded, we believe the court did not commit reversible error in this respect.
+It is also claimed that the court erred in admitting incompetent testimony offered by the defendants in error over the objection of the plaintiff and while we feel that some of this evidence was incompetent and improperly admitted and while we feel that a long line of questions of similar nature would amount to prejudicial error, yet, we do not feel, all things considered, that the court committed reversible error by admitting the testimony in question at the trial of this case in the lower court.
+Before the introduction of any evidence, plaintiff moved the court for judgment on the pleadings. This motion was. overruled and objections saved. The refusal of the court to sustain that motion-is urged as a ground of error.
+Defendants -in the second defense of their answer said “plaintiff compromised its claim for principal and interest in full and complete and-final payment of said bonds and all the interest due thereon and that on April 1, 1932, there was turned over to the county of Monroe the possession of each of said bonds as evidence of the final payment and settlement of all claims and demands had by plaintiff against the county of Monroe in the amount of said bonds.” By the use of - this language, it was for the jury to say whether or not plaintiff did compromise its claim, We hold therefore, that by reason thereof, plaintiff was not entitled to judgment on the pleadings.
+Reference is now made to the ground of error urged by the plaintiff, that the court erred in overruling plaintiff’s demurrer to the second defense of defendants’ answer. We are constrained to believe that a proper motion directed against certain allegations of the second defense of the answer at the proper time would have been in order. However, it is believed that, that portion of the second defense heretofore quoted states a defense to the petition of the plaintiff and that therefore, the lower court did not commit reversible error in refusing to sustain ■ plaintiff’s demurrer.
+.Plaintiff urges that the verdict of the jury was against the weight of the evidence. There appears from the testimony, as shown by the record, credible evidence to support the yerdict. The verdict of the jury should not be disturbed unless it is so manifestly against the weight of the evidence and so clearly unsupportel by it as to show a misapprehension or mistake or unlawful disregard of duty. The jury and the trial court had the opportunity 6f observing the demeanor of the witnesses upon the stand, and therefore are more competent to weigh the evidence than this court. This court does not feel that it should substitute its judgment for that of the jury.
+In the state of the record, the jury might very easily have found the issues in favor of the defendants and they did. In the final analysis, the granting of a motion or petition for a new trial is necessarily addressed to the sound discretion of the trial judge and his conclusion should not be disturbed unless there is a clear abuse of that discretion. Hurley v State, 6 Ohio, 399; Holt v State, 11 Oh St 691; State v Lopa, 96 Oh St 410; 117 NE 502; Chandler and Taylor Company v So. Paufee Company, 104 Oh St 188; 135 NE 620; 46 Corpus Juris 412, Note 55.
+We find no abuse of that discretion in this instant] case. The action of the trial court in overruling the motion of the plaintiff for a new trial and entering judgment on the verdict, clearly indicated that he reached the conclusion that substantial justice had been done in this case and in this respect by the verdict of the jury. The court is not disposed to disturb the conclusion reached by the trial judge on the weight of the evidence.
+Plaintiff complains that the court erred in refusing to give the special instructions requested by it to be given. Request to charge number one;
+“I charge you as a matter of law that the bayment of less than the sum due upon a liquidated demand, although agreed to be received in full satisfaction, cannot be insisted upon as such payment by the defendants because there is no valuable consideration to relinquish the balance, by ‘liquidated demand’ is meant a claim that' can be arrived at mathematically.”
+There was a dispute between the parties concerning the interest from October I„ 1931 to April 1, 1932, and if a settlement, was made as a result of this dispute or can be accepted or agreed to accept less than the full amount to secure its money quickly, we believe that would be a valuable consideration and sufficient consideration to relinquish the balance. Apparently the plaintiff received its money sooner than it would have had it insisted upon collecting the interest up to and including April 1st, 1932, the date of payment which might have been an inducement to accept less than the amount claimed. We feel, therefore, that the court did not err in refusing to charge request number one.
+Request to charge number two:
+“I further charge you as a matter of law that if- the Auditor of Monroe County, by letter addressed to plaintiff, designated any Bank to which the plaintiff ‘The Commercial National Bank of Tiffin, Ohio, should send bonds and coupons for payment and that in response to said letter said plaintiff did send said bonds and coupons, that the bank so designated by said Auditor became the ostensible agent of the defendants, and they are estopped to deny any ostensible agency, and any act of said ostensible agency, is chargeable to defendants and not to plaintiff, and bind the defendants’.”
+We find no error in refusing to give request number two, as it involved a question of fact for the determination of the jury.
+Request to charge number three:
+“I further charge you as a matter of law, that The Commercial National Bank was not required to tender back the amount or any part of the money received from and paid by Monroe County; that the money so received by it was due The Commercial National Bank, in any event, and if returned to Monroe County could be recovered back by the plaintiff.”
+We believe that under all the circumstance? that the plaintiff bank, if it were not satisfied with accepting the sum of $7192.50, in full settlement, should have turned back that amount of money, and not have accepted it,- and then asked for interest it claimed due. It could not accept the provisions and benefits accruing to it in part and reject in part unless such modified acceptance was consented or agreed to by the party proposing such compensation or settlement.
+It is the holding of this court, therefore, that the court was not in error in refusing to give special request number three.
+We have carefully read the briefs and attentively listened to the arguments of counsel for plaintiff in support of its contention that the court erred in its general charge to the jury, and have read the court’s charge several times.
+The court, in its charge, as shown on page 94 of the record used this language:
+“But, of course, if the witnesses are otherwise equally credible, greater weight should be given to the testimony of those who swear affirmatively rather than to those who swear negatively as to want of knowledge or recollection upon a particular subject.”
+Counsel has failed to call the attention of the court to and a careful search of the record by this court fails to reveal any instance in the record where there was negative and positive testimony on the same subject. Hence, the court’s charge dealt with an abstract proposition of law. Mere abstract propositions of law, although in themselves correct, which are not applicable to the facts of the case on trial are misleading, and should not be given to the jury in the charge of the court.
+There was no place in the record where the jury could have applied this instruction to the evidence and, therefore, it must be presumed that the jury was not misled thereby.
+Counsel for plaintiff has asked this court to say whether or not the defaulted bonds in the instant case cease to bear interest after their due date. There is no provision in the bonds to the effect that they shall not bear interest after the date of maturity and, in the absence of such provision, §8304 GC would control, which provides as follows:
+“Upon all judgments, decrees or orders rendered on any bond, bill, note or other instrument, containing stipulations for the payment of interest in accordance with the provisions of the next preceding section, interest shall be computed until payment at the rate specified in such instrument.”
+The next preceding section of the Code referred to therein deals with the maximum rate of interest that may be charged. .
+We have carefully studied the record which we find fails to disclose error apparent upon the face thereof not herein disposed of.
+We hold, therefore, that having found no prejudicial error the court did not err in overruling the motion of the plaintiff for a new trial, and it is concluded that the judgment of the lower court should be affirmed, and it is so ordered.
+ROBERTS and CARTER, JJ, concur.
