@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "8939"
+decided: "1961-05-29"
+citations: ["114 Ohio App. 213"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Long, P. J., concurs."]
+parties: ["Urmston, Appellee, v. City of North College Hill, Appellant."]
+source_url: "https://static.case.law/ohio-app/114/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1446177
+cites_cases: ["113 Ohio App., 375", "119 Cal. App., 180", "135 Kan., 657", "172 Ohio St., 426", "29 Cal. (2d), 332"]
+---
+
+# Urmston v. City of North College Hill
+
+## Majority (O’Connell, J.)
+
+O’Connell, J.
+The defendant-appellant in this case is a municipal corporation. The plaintiff-appellee is the owner of certain real property on Hamilton Avenue in the municipal corporation (North College Hill, Ohio).
+In 1929, the municipal corporation passed a general zoning-ordinance in which all real property was classified either as business or as residential. The property of the plaintiff was classified as residential. There have been several amendments made to the zoning ordinance, but none of them has affected the plaintiff’s property, so it still remains residential. And there is a residence said to be 75 years old on the plaintiff’s property.
+The property immediately south of the plaintiff’s is in a business zone, and the property immediately to the north (in the city of Mt. Healthy), although classed as residential, does have a nonconforming business user. Other adjacent residential users are to the east of plaintiff’s property and on the west side of Hamilton Avenue.
+The plaintiff filed with the North College Hill council an application for a change of zoning from residential to business. The North College Hill council refused this request on two different occasions. The plaintiff then appeal his cause to the Court of Common Pleas of Hamilton County from that decision of the North College Hill council.
+In his amended petition, the plaintiff alleges that “the action of the city council of the city of North College Hill placing the [his] # * * premises in a residential zone was unreasonable and arbitrary, and constituted a gross abuse of discretion and likewise the refusal of defendant through its legislative and administrative branches to permit plaintiff to put said land to reasonable use; (to wit, use for business purposes), was unreasonable and constituted a gross abuse of discretion.”
+The prayer of the plaintiff’s petition is that “the court enter a declaratory judgment, declaring that the aforesaid zoning ordinances, insofar as they purport to restrict plaintiff’s use of the aforesaid property to exclude uses other than residential purposes as therein contained are invalid, and cannot lawfully be enforced against plaintiff.”
+The defendant denies “that the original zoning of the plaintiff’s property was unreasonable, arbitrary or an abuse of discretion” and alleges that “the original zoning of the subject real estate and the enforcement of said ordinance” was “a valid exercise of the police power of the city of North College Hill.” The defendant denies further “that refusal of permission to use said property for business purposes was unreasonable or an abuse of discretion.”
+The Common Pleas Court found that “the zoning ordinance of the city of North College Hill as amended, as it applies to plaintiff’s property, bears no reasonable relation to the health, safety, morals, or general welfare of the city of North College Hill, and that the refusal of the council of the city of North College Hill to rezone plaintiff’s parcel of property as ‘business’ property is arbitrary and unreasonable.” Judgment finding that “the plaintiff has a right to use his property as business property” was then awarded to the plaintiff.
+The cause is in this court on an appeal from that judgment of the Court of Common Pleas.
+In the recent ease of State, ex rel. Martin Land Development Co., v. Clepper, 113 Ohio App., 375, this court laid down, as follows, some general principles governing the zoning laws and the rights of the legislative authority with regard to them:
+“It is quite superfluous to quote any cases on the right of the political subdivision to zone or to rezone; the law in Ohio is well settled that there is such power. Of course, the action of the agency must not be capricious or arbitrary or unreasonable. Only under such circumstances may an applicant lay his cause before the court as a necessary substitute arbiter.”
+And (quoting from 58 American Jurisprudence, 956) “it is considered sufficient if the legislative body could reasonably have had considerations of public health, safety, morals, or general welfare in mind. The matter is largely within the discretion of the legislative authority, which is presumed to have investigated and found conditions such that the legislation which it enacted was appropriate, so that if the facts do not clearly show that the bounds of that discretion have been exceeded, the courts must hold that the action of the legislative body is valid. In this respect, it has been declared that the municipal governing bodies are better qualified because of their knowledge of the situation to act upon those matters than are the courts, which will not substitute their judgment for that of the legislative body.”
+And (quoting from 42 Ohio Jurisprudence, 815) “if the validity of the legislative classification for zoning purppses is fairly debatable, the legislative judgment must be allowed to control, unless there is a clear abuse of legislative power * *
+And again, in 1 Law of Zoning, by Mitzenbaum, 118 (quoting from Criterion Service, Inc., v. City of East Cleveland (1949), 88 N. E. [2d], 300), there is the following: “It is for the legislative authority of a county and not the courts to determine the text of regulations to be embodied within the terms of a zoning ordinance. Only in the event that it is made to appear by clear and convincing proof that the terms of such ordinance are ‘unreasonable, oppressive and confiscatory’ will a court intervene. ’ ’
+Since the matter turns on whether the action of the legislative board is arbitrary or unreasonable, definitions of these words are in order at this point. According to Webster’s Unabridge Dictionary (1959), “arbitrary” means “fixed or arrived at through an exercise of will or by caprice, without consideration or adjustment with reference to principles, circumstances, or significance, or given to making decisions thus; decisive but unreasoned.” The word, “unreasonable,” means “not conformable to reason, irrational, not governed or influenced by reason; immoderate,' exorbitant.”
+According to 3A Words and Phrases, 565, “ ‘arbitrary’ means bound by no law, harsh and unforbearing,” quoting from Webb v. Dameron (Tex. Civ. App.), 219 S. W. (2d), 581, 584.
+Prom the supplement to the same volume, at page 31, there is the following:
+“ ‘Arbitrary and capricious action’ on part of an administrative agency is willful and unreasoning action, without consideration and in disregard of facts and circumstances, and where there is room for two opinions, an action is exercised honestly and upon due consideration, the action is not ‘arbitrary or capricious, ’ even though it may be believed that an erroneous conclusion has been reached.” Smith v. Hollenbeck, 48 Wash. (2d), 461, 294 P. (2d), 921.
+Also, in 43 Words and Phrases, 368, “ ‘unreasonable’ is defined as carrying the same idea as irrational, foolish, unwise, absurd, silly, preposterous, senseless, stupid, etc.” Southern Kansas Stage Lines Co. v. Public Service Commission, 135 Kan., 657, 11 P. (2d), 985.
+Now, in the light of these definitions and in view of the facts that the matter is “largely within the discretion of the legislative authority,” that the “municipal governing bodies are better qualified * * * to act upon those matters than are the courts, which will not substitute their judgment for that of the legislative body,” that in debatable zoning cases where there is no abuse of power, the legislative judgment must be allowed to control, it is the opinion of this court that the action of the council of North College Hill in refusing to change the zone of the plaintiff from residence to business was not arbitrary or unreasonable,* and the court is further of the opinion that the “legislative authority could reasonably have had considerations of public health, safety, morals or general welfare in mind,” both in the passage of the entire original zoning ordinance and in its refusal of the plaintiff’s application for a change from residence zone to business zone.
+Moreover, in City of Louisville v. Bryan S. McCoy, Inc. (Ky.), 286 S. W. (2d), 546, the second paragraph of the head-notes reads as follows:
+“There is a presumption in favor of validity of a zoning ordinance, and burden is on person attacking to show its invalidity, and should reasonable minds differ as to whether ordinance has a substantial relation to public health, morals, safety or general welfare, ordinance must stand as a valid exercise of police power. ’ ’
+And, the fact that certain residential property would be adaptable for business purposes does not render its classification as residential invalid, as the following quotation from 101 Corpus Juris Secundum, 782, makes clear: “A classification of certain property as residential is not invalid solely because such property is adaptable and suitable for business or industrial purposes and would be of greater value if used for such purposes, or because such property has depreciated in value due to its designation as residential instead of business property or because nearby business property has the same characteristics as the restricted parcel. ’ ’
+And, as it was put in paragraph eight of the syllabus in Wilkins v. City of San Bernardino, 29 Cal. (2d), 332, 175 P. (2d), 542, “the mere existence of some adjacent property devoted to other uses does not destroy character of restricted property for residential purposes or render zoning restriction arbitrary. ’ ’
+Furthermore, it is the best interest of the entire district, rather than the adaptability and suitability of a particular piece of property, that determines the reasonableness of a zoning ordinance. Smith v. Collision, 119 Cal. App., 180, 6 P. (2d), 277.
+The judgment of the Court of Common Pleas is, therefore, reversed, and judgment is entered in this court for the defendant-appellant.
+Judgment reversed.
+Long, P. J., concurs.
+
+## Dissent (Hildebrant, J.,)
+
+Hildebrant, J.,
+dissenting. I respectfully dissent from the judgment of the majority of this court. In my opinion, the judgment of the Court of Common Pleas of Hamilton County, on the record, should be sustained. •
