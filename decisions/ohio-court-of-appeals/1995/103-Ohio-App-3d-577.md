@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+docket: "68029"
+decided: "1995-05-22"
+citations: ["103 Ohio App. 3d 577"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Blackmon, P.J., and Harper, J., concur."]
+parties: ["WOODMAN, Appellant, v. TUBBS JONES, Pros. Atty., Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/103/cases/0577-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1776515
+cites_cases: ["1 O.O. 371", "16 OBR 186", "16 Ohio App.3d 176", "193 N.E. 352", "1987 WL 13930", "1994 WL 68156", "20 O.O.3d 142", "24 O.O.3d 237", "27 Ohio St.2d 102", "271 N.E.2d 834", "327 N.E.2d 753", "419 N.E.2d 1108", "42 Ohio St.2d 242", "435 N.E.2d 1114", "451 N.E.2d 538", "454 N.E.2d 1330", "475 N.E.2d 197", "48 Ohio App. 284", "49 Ohio St.3d 228", "5 OBR 530", "5 Ohio App.3d 243", "551 N.E.2d 981", "56 O.O.2d 58", "570 N.E.2d 1095", "59 Ohio St.3d 108", "596 N.E.2d 545", "601 N.E.2d 83", "641 N.E.2d 1155", "655 N.E.2d 184", "66 Ohio App.2d 79", "7 OBR 201", "7 Ohio App.3d 157", "70 Ohio St.2d 131", "71 O.O.2d 223", "72 Ohio App.3d 836", "74 Ohio St.3d 1405", "77 Ohio App.3d 61", "95 Ohio App.3d 67"]
+---
+
+# Woodman v. Tubbs Jones
+
+## Majority (Nahra, Judge.)
+
+Nahra, Judge.
+Appellant, Robert Woodman, is appealing the trial court’s ruling in favor of appellee, Stephanie Tubbs Jones, Cuyahoga County Prosecuting Attorney, on her motion to dismiss the complaint, or in the alternative, motion for summary judgment. For the following reasons, we affirm.
+Plaintiff-appellant’s complaint alleged that more than one year ago, the State Auditor submitted an audit report to the Prosecutor for the city of Lakewood covering the period from January 1, 1986 to December 31, 1991. A copy of this sixty-page report was attached to the complaint. Plaintiff alleged that the report set forth numerous instances of malfeasance or gross neglect of duty by various public officials for which a criminal penalty is provided. As of the date of filing of the complaint, May 18, 1994, the defendant-appellee had not commenced criminal proceedings against any of the Lakewood officials. According to the complaint, the failure to commence criminal proceedings within one hundred twenty days after receiving the audit report violated R.C. 117.29 and constituted wanton and willful neglect of duty or misconduct in office. Therefore, appellant requested that Stephanie Tubbs Jones be removed from the office of prosecutor, pursuant to R.C. 309.05.
+After the case was set for a hearing, appellee moved to dismiss the complaint, or in the alternative, for summary judgment. The motion stated that on August 3, 1994, indictments were returned against eight individuals from the city of Lakewood, in Cuyahoga Common Pleas Court case Nos. CR-312806 through CR-312812. No affidavits and documentary evidence were attached to the motion. The appellant’s brief in opposition states that according to newspaper accounts, the prosecutor’s office began presenting evidence to the grand jury in mid-June 1994.
+Appellee moved to supplement the record on appeal pursuant to App.R. 9(E), with copies of the indictments against the Lakewood officials. We must deny this motion, because App.R. 9(E) can only be used to correct or modify what occurred on the trial court record. The indictments were never filed with the trial court in this case. A court cannot take judicial notice of court proceedings in another case. Diversified Mtge. Investors, Inc. v. Athens Cty. Bd. of Revision (1982), 7 Ohio App.3d 157, 7 OBR 201, 454 N.E.2d 1330; State v. Velez (1991), 72 Ohio App.3d 836, 596 N.E.2d 545.
+I
+Appellant’s first assignment of error states:
+“The trial court denied appellant due process by granting appellee’s 12(B)(6) motion without a hearing.”
+A hearing on a Civ.R. 12(B)(6) motion is required only if a party requests such a hearing. Civ.R. 12(D); Bratton v. May Co. (Mar. 9, 1994), Summit App. No. 16230, unreported, 1994 WL 68156. In this case, no party requested a hearing.
+Accordingly, this assignment of error is overruled.
+II
+Appellant’s second assignment of error states:
+“The court erred in holding that the complaint of appellant failed to state a claim upon which relief could be granted.”
+“In order for a court to dismiss a complaint for failure to state a claim upon which relief can be granted, it must appear beyond doubt from the complaint that the plaintiff can prove no set of facts entitling him to recovery.” O’Brien v. Univ. Community Tenants Union (1975), 42 Ohio St.2d 242, 71 O.O.2d 223, 327 N.E.2d 753; see Greeley v. Miami Valley Contr. Inc. (1990), 49 Ohio St.3d 228, 551 N.E.2d 981.
+Here, appellant’s complaint states that the prosecutor willfully and wantonly neglected her duty and/or engaged in gross misconduct by failing to indict the Lakewood officials within one hundred twenty days, in violation of R.C. 117.29.
+Although R.C. 117.29 states that the prosecutor “shall” institute criminal proceedings within one hundred twenty days, “shall” cannot be interpreted as mandatory in this statute. “Shall” usually means the provision in which it is contained is mandatory. Dorrian v. Scioto Conserv. Dist. (1971), 27 Ohio St.2d 102, 107-108, 56 O.O.2d 58, 60-61, 271 N.E.2d 834, 837-838; In re Galloway (1991), 77 Ohio App.3d 61, 71, 601 N.E.2d 83, 90. “Shall” must be interpreted as permissive or advisory, however, if it appears from the wording, sense or policy of the statute that the legislature so intended. Id Here, the legislature must have intended “shall” to be permissive or advisory because a prosecutor can commence criminal proceedings only when such action is warranted. Criminal proceedings may not be warranted in every case where an audit report sets forth malfeasance or gross neglect.
+This reasoning was applied in an analogous case. 1962 Ohio Atty.Gen.Ops. No. 3062. The Attorney General concluded that R.C. 117.10 (now R.C, 117.28), which stated that a civil action to recover funds misappropriated by public officials shall be instituted within ninety days after receiving a report indicating misappropriation, was directory rather than mandatory. The Attorney General also noted that ninety days was not a statute of limitations for bringing the civil action, and the action could be commenced beyond the ninety-day period. Similarly, there is no one-hundred-twenty-day statute of limitations to bring a criminal action against the Lakewood officials in this case. The reasoning of 1962 Ohio Atty.Gen. Ops. No. 3062 applies here. R.C. 117.29 is advisory rather than mandatory.
+Appellant cannot have the prosecutor removed for violating R.C. 117.29 because that section is permissive and no violation could have occurred. Appellant contends that the complaint states a claim for neglect or misconduct by the prosecutor for failing to issue indictments until one year and five months after receiving the audit report. The complaint does not state that one year and five months was an unreasonable delay, caused by the prosecutor’s willful neglect or gross misconduct. Complaints under R.C. 309.05 must contain distinct charges and specifications of willful neglect or gross misconduct. Chenault v. McLean (1933), 48 Ohio App. 284, 1 O.O. 371, 193 N.E. 352; Murr v. Meyer (July 10, 1987), Ottawa App. No. OT-86-70, unreported, 1987 WL 13930. The complaint also failed to aver that on the facts existing at the time of the complaint, a grand jury would be required in good faith to return an indictment. Chenault, supra. Additionally, the complaint must aver facts, not just legal conclusions, so that the public official is reasonably informed of his alleged act of misconduct, and the official can prepare a defense. Signers v. Mack (1979), 66 Ohio App.2d 79, 20 O.O.3d 142, 419 N.E.2d 1108. The complaint simply attaches the audit report and does not specify which items mandated criminal indictments.
+Appellant’s complaint did not state a claim upon which relief could be granted. Even if the complaint did state a claim entitling appellant to relief, appellee was entitled to summary judgment, as will be discussed below.
+Accordingly, this assignment of error is overruled.
+Ill
+Appellant’s third assignment of error states:
+“The court erred in granting appellee’s motion for summary judgment which was filed without leave of court after the case had been set for trial.”
+It is within the discretion of the trial court to grant leave to file summary judgment, even if the case is set for trial. Paramount Supply Co. v. Sherlin Corp. (1984), 16 Ohio App.3d 176, 179-180, 16 OBR 186, 190-191, 475 N.E.2d 197, 201-203. The trial court may grant leave by ruling on the merits of the summary judgment motion. Indermill v. United Savings, Inc. (1982), 5 Ohio App.3d 243, 5 OBR 530, 451 N.E.2d 538. The trial court did not abuse its discretion by granting leave in this case.
+Accordingly, this assignment of error is overruled.
+W
+Appellant’s fourth assignment of error states:
+“The court erred in granting appellee’s motion for summary judgment where appellee was not entitled to judgment as a matter of law.”
+A motion for summary judgment forces the nonmoving party to produce evidence on any issue for which the party bears the burden of production at trial. Wing v. Anchor Media, Ltd. of Texas (1991), 59 Ohio St.3d 108, 111, 570 N.E.2d 1095, 1099. Here, appellant had the burden to produce evidence showing that the prosecutor willfully and wantonly neglected her duties or committed gross misconduct. Appellant produced no evidence showing that the prosecutor intentionally and deliberately delayed in bringing the indictments. Reasonable minds cannot infer such intentional delay merely from the fact that one year and five months elapsed, especially in a case involving a sixty-page audit report that would require considerable investigation.
+Alternatively, appellant had to produce some evidence of gross misconduct. R.C. 3.07 provides:
+“Any person holding office in this state, or in any municipal corporation, county, or subdivision thereof, coming within the official classification in Section 38 of Article II, Ohio Constitution, who willfully and flagrantly exercises authority or power not authorized by law, refuses or willfully neglects to enforce the law or to perform any official duty imposed upon him by law, or is guilty of gross neglect of duty, gross immorality, drunkenness, misfeasance, malfeasance or nonfeasance is guilty of misconduct in office.”
+There was no evidence that the prosecutor exercised authority not authorized by law, refused or willfully neglected to enforce the law, neglected her duty, etc. There was no evidence proving that the prosecutor willfully and wantonly neglected her duties or committed gross misconduct. Reasonable minds could only conclude that the appellant was not entitled to have the prosecutor removed pursuant to R.C. 309.05. Appellee was entitled to summary judgment. Civ.R. 56(C).
+Accordingly, this assignment of error is overruled.
+V
+Appellant’s fifth assignment of error states:
+“Appellant’s complaint was a special statutory proceeding requiring a hearing and the granting of appellee’s motion to dismiss/for summary judgment without a hearing was a denial of due process.”
+A hearing for a claim under R.C. 309.05 is not mandatory if the complaint is not well pled. Chenault, supra; Freeman v. Grimshaw (Nov. 21, 1980), Scioto App. No. CA 1254, unreported. Additionally, the Civil Rules apply to all proceedings, unless the rules are clearly inapplicable. Civ.R. 1(C)(7); Price v. Westinghouse Elec. Corp. (1982), 70 Ohio St.2d 131, 133, 24 O.O.3d 237, 238-239, 435 N.E.2d 1114, 1115-1116. The Civil Rules are inapplicable when their use will alter the basic statutory purpose for which the special procedure was originally provided. Id.; State v. Reno Hotel (1994), 95 Ohio App.3d 67, 641 N.E.2d 1155. Here, Civ.R. 12(B)(6) and 56 do not alter the basic statutory purpose of R.C. 309.05. Civ.R. 12(B)(6) and 56 can apply to proceedings to remove the prosecutor from office.
+Accordingly, this assignment of error is overruled.
+The decision of the trial court is affirmed.
+Judgment affirmed.
+Blackmon, P.J., and Harper, J., concur.
