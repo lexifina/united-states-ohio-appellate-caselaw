@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 10410"
+decided: "1930-04-21"
+citations: ["9 Ohio Law Abs. 262"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LEMERT, P. J., SHERICK, J, (5th Dist) and ROBERTS, J. (7th Dist) sitting.", "Sherick and Roberts, JJ, concur."]
+parties: ["BURNS-BOWE BAKING CO v PAKOS"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895539
+cites_cases: ["16 Oh App. 496", "3 Oh App 213", "6 O. C. D. 254", "69 Oh St 10"]
+---
+
+# Burns-Bowe Baking Co. v. Pakos
+
+## Majority (LEMERT, P. J.)
+
+LEMERT, P. J.
+One of the assignments of error presented by defendant is the admission of evidence concerning payments by decedent to the step-mother, Mary Pakos. In considering this part of the record in the case it becomes necessary to look to all the evidence to determine the effect of this testimony as to any payments made by decedent to Mary Pakos, and to determine whether or not they were for the ifather’s use and benefit. Conceding that evidence of payment and contribution by decedent to his father to be competent and admissible, then the evidence of payments made to another but for the father’s use and benefit and in payment of his obligations, is proper. Such payments and contributions-directly for the benefit of the father, as decedent’s beneficiary, although made to a third person, have as much probative value' in aiding the jury in arriving at the amount of pecuniary loss -to the beneficiary as does evidence of payments made directly to the beneficiary. It is well settled in 69 Oh St 10, that evidence which tends to show that beneficiaries received financial aid from the deceased during his lifetime and that they would likely have continued to have received such aid had he lived, is competent and for the purpose of showing that such beneficiaries needed and would likely have received such aid from the decedent, the circumstances, age and means of support of the beneficiaries, if parents or next of kin of decedent, as well as the age, health, disposition and thrift of decedent may be shown.
+In determining what amount of damages, if any, may be awarded to parents for the wrongful death of a mere child, the jury may consider the age ,and sex of the child, the circumstances and conditions of living of the parents and other helpful facts existing at the time of the child’s
+. 3 Oh App 213.
+6 » he: take it that the evidence introduced herein stated was not for the purpose of Showing financial aid to those who were not .'beneficiaries, but ,as evidence of the financial circumstances, mode of life and need for future aid of the surviving parent of the deceased and for the purpose we believe it to have been competent. Any misconception which the jury might have had concerning the effect or purpose of such evidence was cured .by the court in its charge when the court said:
+“Now the eleven step-children and the §tep-mother are not to be regarded by the jury as beneficiaries or next of kin. The beneficiaries in this instance would be the father, the full brother and the full sister who survive the deceased.”
+On the second proposition as to whether or not the verdict of the jury is excessive, and is not supported by the evidence, we have to say that an action for wrongful death is a statutory action providing for damages proportioned to the pecuniary injury resulting to the persons for whose benefit the action is brought. The question Of determining the amount of pecuniary injury, is placed by the statute peculiarly in the control and charge of the jury and was'so intended by the legislature and so specified in the language of the statute, 10772 GC. So that the question of damages is within the discretion of the jury and a reviewing court is not justified in disturbing the verdict unless it clearly appears that it is grossly excessive and out of all proportion to what the evidence shows could possibly be the pecuniary loss of the next of kin. Helpful cases along this line may be found in 6 O. C. D. 254; 16 Oh App. 496; 15 C. D. 628.
+The record in this case is conclusive that decedent paid to this father, or for the father’s use, approximately $120.00 to $150.00 a month. In addition he bought for the use and benefit of the father’s household, furniture, rugs, piano, beds, papering of the home etc. So that in reviewing the record in the case, with the decedent giving to the father from $120.00 to $150.00 per month, and with ,an expectancy of life at 13.82 years, it will thus be seen that the father would have benefitted to the extent of more than the amount of the verdict, to-wit, $12,000.00.'
+With reference to the pecuniary loss to the beneficiaries other than the father, to-wit, the brother and sister of decedent, we do not believe from the record before us that they were dependent upon decedent for their support. Therefore, we find that the trial court did not err in admitting the evidence objected to by plaintiff in error. This evidence was highly competent and relevant to a determination of the issues in the case; the evidence concerning financial aid to the stepmother for the use and benefit of the father, as well as the evidence concerning the circumstances and conditions of life of the father as next of kin of decedent, were proper for the consideration of the jury. The greater weight of the evidence shdws a pecuniary loss to the father of the amount and even more than the verdict of the jury. Thus, without consideration of the elements of «pecuniary loss to the next of kin other than the father, and without consideration of .the loss of possible inheritance, the pecuniary loss in this case is shown to be the amount of the verdict rendered herein. The evidence fully justified the verdict of the jury as to the damages, the determination of which under the language of the,statute governing actions for wrongful death, was peculiarly within the discretion of the jury.
+We find that the verdict is not so excessive as to require the intervention of this court. Therefore, finding no errors in the record before us, the judgment and finding of the court below is hereby affirmed. Exceptions may be noted.
+Sherick and Roberts, JJ, concur.
