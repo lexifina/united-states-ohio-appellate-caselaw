@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "94 C.A. 153"
+decided: "1997-01-22"
+citations: ["117 Ohio App. 3d 578"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Joseph E. O’Neill, P.J., and Gene Donofrio, J., concur."]
+parties: ["BOBOVNIK et al., Appellees, v. METROPOLITAN PROPERTY AND CASUALTY INSURANCE COMPANY, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/117/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1222423
+cites_cases: ["1993 WL 39593", "22 Ohio St.2d 212", "259 N.E.2d 123", "28 OBR 238", "28 Ohio St.3d 143", "308 N.E.2d 454", "31 OBR 83", "31 Ohio St.3d 34", "37 Ohio St.2d 119", "502 N.E.2d 1008", "508 N.E.2d 949", "51 O.O.2d 285", "581 N.E.2d 533", "583 N.E.2d 309", "62 Ohio St.3d 242", "62 Ohio St.3d 397", "66 O.O.2d 259", "662 N.E.2d 280", "75 Ohio St.3d 302"]
+---
+
+# Bobovnik v. Metropolitan Property & Casualty Insurance
+
+## Majority (Cox, Judge.)
+
+Cox, Judge.
+This matter presents a timely appeal from a decision of the Mahoning County Common Pleas Court, adopting the referee’s report and recommendation and finding that plaintiff-appellee, Stephen Bobovnik, was entitled to uninsured motorist coverage under the terms of an insurance policy issued by defendant-appellant, Metropolitan Property and Casualty Insurance Company.
+The facts in this matter are not in dispute. On July 29, 1993, appellee was injured in an automobile accident when he was forced off the road by an unidentified motor vehicle, crossed over a grass median, and collided with two other vehicles approaching in the opposite direction. The unidentified vehicle which caused this accident did not make contact with appellee’s vehicle.
+At the time of the accident, appellee was insured under an automobile insurance policy issued by appellant, which included uninsured motorist coverage. Appellee requested uninsured motorist benefits from appellant for the injuries which he sustained as a result of the accident; however, appellant declined coverage primarily on the basis that there was no physical contact between the unidentified motor vehicle and appellee’s vehicle.
+Appellee filed a complaint •with the trial court on November 29, 1993, seeking a declaration that he was entitled to uninsured motorist coverage under the automobile insurance policy issued by appellant. Both parties thereafter submitted motions for summary judgment. After a hearing on the motions, the court referee issued his report and recommendation, to which both parties filed objections. Appellee’s objection was made for the limited purpose of correcting his date of injury as set forth in the referee’s report. On July 27, 1994, the trial court filed its judgment entry adopting the referee’s report and finding that appellee was entitled to benefits under the uninsured motorist coverage provided by appellant. It is from this decision that the within appeal emanates.
+Appellant sets forth two assignments of error on appeal.
+Appellant’s first assignment of error alleges:
+“The trial court erred as a matter of law in holding that the physical contact requirement for uninsured motorist coverage of a hit-and-run vehicle is invalid and unenforceable.”
+Appellant argues that in a case, such as the one at bar, where an insured seeks to recover uninsured motorist benefits as a result of a hit-and-run motor vehicle accident, the physical contact requirement in an automobile insurance policy is valid and enforceable. Appellant offers that this is so particularly in light of the fact that the alleged tortfeasor herein was unidentifiable, thereby making it impossible to determine whether or not that individual was actually uninsured.
+In support of its contentions, appellant cites a litany of cases including State Auto. Mut. Ins. Co. v. Rowe (1986), 28 Ohio St.3d 143, 28 OBR 238, 502 N.E.2d 1008; Travelers Indemn. Co. v. Reddick (1974), 37 Ohio St.2d 119, 66 O.O.2d 259, 308 N.E.2d 454; and Bielecki v. Nationwide Mut. Ins. Co. (Feb. 5, 1993), Trumbull App. No. 92-T-4703, unreported, 1993 WL 39593. All of the cited cases held that an insurance company’s denial of uninsured motorist benefits for an insured’s injuries caused by an unidentified motorist in the absence of physical contact was proper and in accordance with the law.
+Appellant maintains that the trial court essentially concluded that Reddick and Rowe could be ignored because these cases were in effect overruled by the Ohio Supreme Court in State Farm Auto. Ins. Co. v. Alexander (1992), 62 Ohio St.3d 397, 583 N.E.2d 309. However, appellant submits that Alexander is simply not on point, as that case focused on the extent to which uninsured motorist coverage must be made available for injuries caused by tortfeasors known to be uninsured when the insured had an actionable tort claim against an identifiable tortfeasor. Appellant states that the present case is centered on whether a tortfeasor who is unknown and against whom no claim can be brought may be deemed an uninsured motorist.
+Appellant cites Kurent v. Farmers Ins. of Columbus, Inc. (1991), 62 Ohio St.3d 242, 581 N.E.2d 533, for the proposition that to qualify for uninsured motorist coverage and prove the elements of a claim, an insured must show that the tortfeasor was uninsured. Appellant believes that appellee failed to make such a showing in this case. Therefore, appellant concludes that the trial court erred in holding that the physical contact requirement set forth in its automobile insurance policy was invalid and unenforceable.
+Recently, the Ohio Supreme Court in Girgis v. State Farm Mut. Auto. Ins. Co. (1996), 75 Ohio St.3d 302, 662 N.E.2d 280, addressed the very issue which is before us in this matter and held at paragraphs one and two of its syllabus as follows:
+“R.C. 3937.18 and public policy preclude contract provisions in insurance policies from requiring physical contact as an absolute prerequisite to recovery under the uninsured motorist coverage provision.
+“The test to be applied in cases where an unidentified driver’s negligence causes injury is the corroborative evidence test, which allows the claim to go forward if there is independent third-party testimony that the negligence of an unidentified vehicle was a proximate cause of the accident.” (Citations omitted.)
+In appellant’s own motion for summary judgment, it agrees that there are no disputed questions of fact herein. Furthermore, the referee’s report dated April 4, 1994 noted that at the time of the hearing on both parties’ motions for summary judgment, it was agreed by and between the parties that the facts in this matter were not in dispute. Therefore, appellant obviously does not dispute that appellee’s injuries arose from a chain of events set in motion by an unidentified tortfeasor who made no contact with appellee or his vehicle. As a result, we do not find independent third-party testimony to be necessary in this case. Appellee has met the corroborative evidence test as established in Girgis, supra.
+Additionally, in rendering its decision in Girgis, the Ohio Supreme Court specifically modified Reddick and Rowe, which were cited by appellant as being controlling authority. The trial court properly determined that appellee was entitled to uninsured motorist coverage as an insured under appellant’s automobile insurance policy.
+Appellant’s first assignment of error is found be without merit.
+Appellant’s second assignment of error alleges:
+“The trial court erred as a matter of law in interpreting the insurance policy to provide coverage for appellee’s injuries caused by a hit-and-run vehicle which made no contact with appellee or his vehicle, contrary to the express policy condition that to be covered, the hit-and-run vehicle must make contact with the insured or a vehicle occupied by him.”
+Appellant argues that pursuant to Olmstead v. Lumbermens Mut. Ins. Co. (1970), 22 Ohio St.2d 212, 51 O.O.2d 285, 259 N.E.2d 123, the trial court must give the language in an insurance policy its plain and ordinary meaning unless absurdity would result. It is appellant’s contention that the insurance policy in question is clear and unambiguous.
+Appellant’s automobile insurance policy states at Part 3, page 7:
+“Metropolitan will pay all sums * * * because of bodily injury sustained by the insured, caused by accident and arising out of the ownership, maintenance or use of an uninsured highway vehicle * * *.”
+An “uninsured highway vehicle” is defined at page 8 of appellant’s automobile insurance policy as being:
+“(a) a highway vehicle with respect to the ownership, maintenance or use of which there is * * *, no bodily injury liability bond or insurance policy applicable at the time of the accident with respect to any person or organization legally responsible for the use of such highway vehicle * * *;
+“(b) a hit-and-run vehicle.”
+A “hit-and-run vehicle” is further defined as meaning a highway vehicle which causes bodily injury to an insured arising’ out of physical contact of such vehicle with the insured or with the vehicle which the insured is occupying at the time of the accident provided:
+“(a) there cannot be ascertained the identity of either the operator or owner of such highway vehicle * *
+Based upon this language, appellant submits that appellee would be entitled to coverage if he could identify the tortfeasor-driver and prove that the driver was uninsured, or if he could show some physical contact with the unidentified vehicle. Appellant maintains that appellee has been unable to set forth any evidence to meet either requirement.
+Appellant contends that there is no case law supporting the trial court’s construction of the insurance policy in the manner in which it did. Therefore, appellant concluded that under the plain terms of its automobile insurance policy and R.C. 3937.18, it has no obligation to afford uninsured motorist coverage to appellee.
+Language in an insurance policy which is reasonably open to different interpretations will be construed liberally in favor of the insured and strictly against the insurer. Faruque v. Provident Life & Acc. Ins. Co. (1987), 31 Ohio St.3d 34, 31 OBR 83, 508 N.E.2d 949.
+Regardless of appellant’s arguments under this assignment of error, we again reiterate that the Ohio Supreme Court in Girgis recently held that R.C. 3937.18 and public policy preclude contract provisions in insurance policies from requiring physical contact as an absolute prerequisite to recovery under the uninsured motorist coverage provision. The Ohio Supreme Court in Girgis further recognized that its decision may increase the filing of claims but found the possibility of fraudulent claims to be acceptable in light of the current situation, which prevents insureds with legitimate claims from recovering.
+Nonetheless, we agree with the referee’s report dated April 4, 1994, which was adopted by the trial court and which addressed appellant’s contentions hereunder at page 2 as follows:
+“The defendant’s (appellant’s) own policy defines an uninsured vehicle as one wherein the identity of the other owner or operator is unknown. The defendant cannot now claim that because the plaintiff cannot make such identification the plaintiff cannot prove the other party was not insured.”
+Given that the physical contact requirement in insurance policies has been rendered invalid and unenforceable by the Ohio Supreme Court in Girgis, and construing the remaining policy language in question strictly against appellant, we find that the trial court did not err as a matter of law in its interpretation herein.
+Appellant’s second assignment of error is found to be without merit.
+The judgment of the trial court is affirmed.
+Judgment affirmed.
+Joseph E. O’Neill, P.J., and Gene Donofrio, J., concur.
