@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "91-OT-016"
+decided: "1992-01-10"
+citations: ["76 Ohio App. 3d 775"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Abood and Sherck, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. PECINA, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/76/cases/0775-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1479746
+cites_cases: ["103 Ohio App. 38", "144 N.E.2d 223", "15 OBR 73", "15 Ohio App.3d 45", "27 A.L.R.4th 597", "3 O.O.2d 124", "3 OBR 141", "3 Ohio App.3d 125", "330 N.E.2d 921", "43 Ohio St.2d 126", "443 N.E.2d 1375", "455 N.E.2d 503", "472 N.E.2d 361", "7 OBR 335", "7 Ohio App.3d 255", "72 O.O.2d 70"]
+---
+
+# State v. Pecina
+
+## Majority (Melvin L. Resnick, Judge.)
+
+Melvin L. Resnick, Judge.
+This case is on appeal from a judgment of the Ottawa County Court of Common Pleas. Defendant-appellant, Gregory A. Pecina, pled guilty to aggravated burglary and burglary before the Honorable James E. Thierry, the then sole common pleas judge of Ottawa County. Appellant was subsequently sentenced by the Honorable Paul Moon, the newly elected sole common pleas judge of Ottawa County.
+Appellant has set forth a single assignment of error:
+“The trial court erred in imposing sentence upon the defendant inasmuch as the court did not comply with Criminal Rule 25(B).”
+The undisputed facts giving rise to this appeal begin with appellant’s appearance before Judge Thierry for his initial appearance on January 28, 1991. The case was then continued to January 31, 1991 for arraignment. At the arraignment, after plea negotiations, a plea agreement was reached, and appellant entered a plea of guilty to aggravated burglary, as charged in the first count of the indictment, and a plea of guilty to burglary, a lesser included offense of the second count of the indictment. Leave was given to dismiss the third count of the indictment at the time of sentencing. The case was then referred to the probation department for a presentence investigation report. On March 22, 1991, the matter came on for sentencing before Judge Moon, the then sole presiding common pleas judge of Ottawa County.
+Prior to sentencing the appellant, the court made the following statement:
+“THE COURT: All right. I have reviewed the report thoroughly, I have reviewed the case file thoroughly, I am not the Judge before whom the defendant entered his plea in these cases, although I have familiarized myself with the file, the facts of the case and the full extent of the pre-sentence investigation and report and feel that I have sufficiently familiarized myself, so that I may pronounce sentence in this case, these two cases.
+“I have considered the matter set forth at Section 2929.12 of the Ohio Revised Code and also those matters and criteria for probation set forth at Section 2951.02 of the Ohio Revised Code.”
+The court then, after hearing from appellant’s attorney and allowing the appellant his right to a statement of allocution, which was declined, sentenced appellant to consecutive terms of eight to twenty-five years and eight to fifteen years.
+Crim.R. 25(A) and (B) pertain to the procedure the court is to take when a judge becomes disabled or unable to perform the duties of the court either during trial or after verdict or finding of guilt and provides as follows:
+“RULE 25. Disability of a judge
+“(A) During trial. If for any reason the judge before whom a jury trial has commenced is unable to proceed with the trial, another judge designated by the administrative judge, or, in the case of a single-judge division, by the Chief Justice of the Supreme Court of Ohio, may proceed with and finish the trial, upon certifying in the record that he has familiarized himself with the record of the trial. If such other judge is satisfied that he cannot adequately familiarize himself with the record, he may in his discretion grant a new trial.
+“(B) After verdict or finding of guilt. If for any reason the judge before whom the defendant has been tried is unable to perform the duties of the court after a verdict or finding of guilt, another judge designated by the administrative judge, or, in the case of a single-judge division, by the Chief Justice of the Supreme Court of Ohio, may perform those duties. If such other judge is satisfied that he cannot perform those duties because he did not preside at the trial, he may in his discretion grant a new trial.”
+Appellant contends that neither the Revised Code nor the Criminal Rules permit the substitution of a judge at the time of sentencing. He further correctly maintains that nowhere in the record is it indicated that Judge Thierry was under any disability and unable to perform the duties of the court. He therefore claims that Crim.R. 25(B) requires the sentencing judge to be designated by the Chief Justice of the Supreme Court of Ohio and that no such designation appears of record in this case. Appellant cites Beatty v. Alston (1975), 43 Ohio St.2d 126, 127, 72 O.O.2d 70, 71, 330 N.E.2d 921, 923, which held in regard to Crim.R. 25(B):
+“This rule inferentially commands that unless unable to do so, the judge who presided at a criminal trial must also preside at post-conviction proceedings, including sentencing. * * * ”
+Appellee contends that Beatty is distinguishable in that the record in that case showed that the judge taking the plea was clearly available. Further, appellee maintains that appellant’s failure to object on the record to the sentencing by a judge other than the one who took the plea constitutes consent and a waiver of the provisions of Crim.R. 25(B). State v. McKinley (1982), 7 Ohio App.3d 255, 257, 7 OBR 335, 337, 455 N.E.2d 503, 506; State ex rel. Dake v. Alvis (1957), 103 Ohio App. 38, 3 O.O.2d 124, 144 N.E.2d 223.
+While this court agrees with the Beatty decision, that case is clearly distinguishable on its facts because in Beatty the record demonstrated that the original judge was available. When the record does not make any showing of disability or inability to perform and is otherwise silent as to how a different judge came to handle the sentencing, as in this case, a reviewing court can take judicial notice of the official roster of the Secretary of State of Ohio to determine that at the time of sentencing Judge Paul Moon was the sole presiding judge of the Ottawa County Court of Common Pleas. Therefore, Judge Moon had full authority to act without the necessity of an assignment by the Chief Justice of the Supreme Court of Ohio. State ex rel. Dake v. Alvis, supra, 103 Ohio App. at 39, 3 O.O.2d at 125, 144 N.E.2d at 225; Evid.R. 201(C) and (F).
+Nevertheless, we find that type of review to be unnecessary in this case because appellant waived his right to challenge the authority of Judge Moon by his failure to make a timely objection prior to sentencing. Such a waiver is supported in Brown v. Brown (1984), 15 Ohio App.3d 45, 47, 15 OBR 73, 75, 472 N.E.2d 361, 362; McKinley, supra; Berger v. Berger (1981), 3 Ohio App.3d 125, 130-131, 3 OBR 141, 146-148, 443 N.E.2d 1375, 1381-1382; and; State ex rel. Dake, supra.
+As stated in Brown, supra, 15 Ohio App.3d at 47, 15 OBR at 75, 472 N.E.2d at 363:
+“In pointing out what is required under the individual assignment system before a case can be transferred from one judge to another, Berger, supra, also commented that, like other procedural irregularities these requirements could be waived. Id. [3 Ohio App.3d] at 130 [3 OBR at 146, 443 N.E.2d at 1381]. It was emphasized that the substitution of one judge for another did not go to the jurisdiction of the court or render the judgment void. Berger therefore concluded that:
+“ ‘ * * * [A]ny party objecting to reassignment must raise that objection at the first opportunity to do so. If the party has knowledge of the transfer with sufficient time to object before the new judge takes any action, that party waives any objection to the transfer by failing to raise that issue on the record before the action is taken. If the party first learns about the transfer after action is taken by the new judge, the party waives any objection to the transfer by failing to raise that issue within a reasonable time thereafter. The definition of a reasonable time may well be controlled by time limits for motions for rehearing, reconsideration, or a new trial.’ Id. at 131 [3 OBR at 147-148, 443 N.E.2d at 1382].”
+In this case not only did appellant not object prior to sentencing, he also failed to raise any post-sentence objection or motion in the lower court. See, generally, Annotation (1984), 27 A.L.R.4th 597. Appellant’s sole assignment of error is therefore not well taken.
+Upon consideration whereof, the court finds that appellant was not prejudiced or prevented from having a fair trial, and the judgment of the Ottawa County Court of Common Pleas is affirmed. Costs of this appeal assessed against appellant.
+Judgment affirmed.
+Abood and Sherck, JJ., concur.
