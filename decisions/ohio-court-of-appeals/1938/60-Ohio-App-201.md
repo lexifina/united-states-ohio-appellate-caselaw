@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1938-06-15"
+citations: ["60 Ohio App. 201"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton and Hornbeck, JJ., concur.", "Boss, P. J., and Hamilton, J., of the First Appellate District, and Hornbeck, J., of the Second Appellate District, sitting by designation in the Ninth Appellate District."]
+parties: ["Taylor et al., Appellants, v. Summit Post No. 19, American Legion, Inc., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app/60/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1358624
+---
+
+# Taylor v. Summit Post No. 19, American Legion, Inc.
+
+## Majority (Ross, P. J.)
+
+Ross, P. J.
+The action is to enjoin the defendant Summit Post American Legion, Inc., from using certain premises at the corner of West Market street and Casterton avenue, in the city of Akron, for other than residence purposes.
+The plaintiffs in the trial court were owners of lots on Casterton avenue, which runs in a general north and south direction. After the case was appealed to the Court of Appeals certain owners of property upon West Market street, west of the property of the Legion, were brought in as added plaintiffs.
+When the case was called for trial by the court, it was made to appear that these- owners of property upon West Market street desired to dismiss their action against the' Legion, and accordingly they were permitted to retire from the case.
+The case, therefore, is here and now presented as it was in the trial court upon the petition of the property owners'on Casterton avenue.
+The plaintiffs rely for relief upon certain restrictions found in the deeds of the Legion and the predecessors in title.
+All of the property in question was originally owned by Thomas Casterton, who died leaving a widow, Hattie Casterton, and two children, Thomas and Susan. The property was left to his widow until his children reached the age of twenty-one, when it was to be divided between the widow and children. A suit was instituted by the widow to disentail the lands and the property was sold through a commission, which made a deed to J. P. Whitelaw, containing the restrictions relied upon. These restrictions as far as pertinent to the issues in the case forbade the use of the premises, now owned by the defendant Legion, for other than residence purposes. The pertinent part of the restrictive clause is as follows: “And subject also to the following restrictions, limitations and reservations which are reserved to and for the benefit of Hattie Casterton, Susan Casterton and Thomas Casterton, widow and devisees of Thomas Casterton, deceased, their heirs, assigns and legal representatives, and also to and for the benefit of any and every present or future owner of any part of the real estate owned by the said Thomas Casterton, deceased, at the time of his death and fronting or abutting on said West Market street west of said lot of land hereby conveyed, all of which restrictions, limitations and reservations are to be covenants running with the land.”
+As there is now no owner of property upon West Market street, west of the property deeded to White-law, objecting to the proposed use of the premises covered by the Whitelaw deed, we may dismiss that portion of the restrictive covenant, limited to the benefit of snch owners of property west of the Whitelaw lot, from further consideration.
+The Legion purchased the Whitelaw property from his heirs.
+Before considering the effect of the remaining portion of the restrictive covenant, we may also dispose of another matter strongly urged upon us. The Casterton heirs, after the deed to Whitelaw, joined with other property owners in the filing of an allotment plat, which included the Whitelaw property. There is nothing in the record proving that Whitelaw ever joined in any mutual agreement, by which his property with that of others set out in the allotment plat was restricted to residence use only. It is claimed that such agreement may be inferred from certain facts shown in the evidence. A limitation upon the use of the property is too serious a matter to be predicated upon mere inference. Such restrictions fro tanio deprive the owner of the full use of his fee. If such restrictions are to be enforced and such limited use maintained, the existence of the agreement to restrict must not be left to mere conjecture and inference. It must be proved as a substantial fact. No such proof appears in the record.
+In 13 Ohio Jurisprudence, 976, it is stated:
+“Another fundamental rule is that the language of the stipulation is to be construed strictly against the restrictions and in favor of. the free use of property, and that if doubtful meaning attaches thereto, the doubt must be resolved against the restriction. This is based upon the principle that such restrictions are not favored by the law. Thus, where the words of a restriction are equally capable of two or more different constructions, that construction will be adopted which least restricts the free use of the land. Such restrictions are not to be extended by conjecture or implication, or to be inferred from doubtful language. # # #
+“Of course, if the restriction is valid, and is expressed in plain and unambiguous language, it must be given' effect in accordance with its express provisions, and the terms of the restriction are to be interpreted according to ordinary meaning of the words, and construed with the terms of all the covenants contained in the contract or deed, as well as with the interpretation placed upon the covenant by purchasers of the lot, including the defendants. The construction to be given should be with reference to the context of the instrument. If the words of restriction employed in the written instrument have acquired, by common understanding, long continued, a special significance in the particular vicinity, and the parties have due notice thereof, the result must be the same as if technically apt words had been used to restrict the building operations of the parties within the limits indicated by the meaning which local but known and observed usage had given to the words actually employed.”
+We find no evidence of any restriction upon the property of the Legion by virtue of the so-called Eaton Casterton allotment.
+What then is the effect of the reservation “for the benefit of Hattie Casterton, Susan Casterton and Thomas Casterton, widow and devisees of Thomas Casterton, deceased, their heirs, assigns, and legal representatives.”
+Nowhere in the record is there any evidence that the benefit-of the Whitelaw restriction was ever assigned to any one by tbe Castertons. There was, at the time the Whitelaw deed was executed and delivered, no general plan of restrictions of which the Whitelaw restriction was a part.
+What right has Thomas Casterton, one of the beneficiaries of the Whitelaw restriction, to enforce it?
+At the time of the Whitelaw deed he was a part owner in the remaining portion of the Casterton estate. It is not alleged or proved that he is now an owner of any property originally affected by such restrictive covenant. It should be noted in connection with this problem that the Castertons, including Thomas, owned property on West Market street, east of the Whitelaw lot as well as west of it.
+Again, we are compelled to bear in mind that at the time Whitelaw purchased his property from the Castertons there was no general plan of restrictions adopted. In fact the Castertons sold other lots without restrictions.
+We know of no case holding, under such circumstances, where the restrictive covenant becomes a purely personal one with the grantor, and no general plan of restriction exists, and the grantor conveys all his interest in the tract affected, and moves away into another locality, and no benefit is shown accruing to him by the enforcement of the restriction or detriment where it is violated, that a court of equity will intervene with injunctive power to limit the full use of the property conveyed.
+Although Thomas Casterton is a plaintiff in this case, there is not a scintilla of evidence that any “benefit” will accrue to him by restraining or limiting the full use of the property of the Legion.
+It is to be noted that the language of the restrictive covenants limits the restriction for the “benefit” of certain named persons, including the plaintiff and the lot owners west of the Legion lot.
+Before equity will interfere, some equitable ground for its jurisdiction must appear. None has been shown. No injury — not to say irreparable injury — will, as far as the record indicates, ensue.
+There might be circumstances permitting relief for one for whose benefit such a covenant was made. Manifestly, the instant case does not present a proper basis for such relief. No assignee of the covenant appears showing impairment of benefit.
+We find against the claims of the plaintiffs and in favor of the defendants. The petition may be dismissed.
+Petition dismissed.
+Hamilton and Hornbeck, JJ., concur.
+Boss, P. J., and Hamilton, J., of the First Appellate District, and Hornbeck, J., of the Second Appellate District, sitting by designation in the Ninth Appellate District.
