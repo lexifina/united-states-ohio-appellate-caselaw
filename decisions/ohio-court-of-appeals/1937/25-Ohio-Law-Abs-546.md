@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1937-10"
+citations: ["25 Ohio Law Abs. 546"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROBERTS and NICHOLS, JJ, concur."]
+parties: ["JASPAR et v KOVALICHIK et"]
+source_url: "https://static.case.law/ohio-law-abs/25/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1682183
+cites_cases: ["123 Oh St 642", "45 Oh St 631", "81 Oh St 471"]
+---
+
+# Jaspar v. Kovalichik
+
+## Majority (By CARTER, J.)
+
+OPINION
+By CARTER, J.
+This cause is in this court on appeal on questions of law. The action is one in which the plaintiff is seeking a permanent injunction. On the date of the filing of the petition plaintiff sought a temporary restraining order which the court granted and fixed a bond at t-wo hundred dollars. Subsequent thereto a motion was filed by the defendants seeking a dissolution of the temporary restraining order; hearing had and the temporary restraining order was dissolved and appeal is prosecuted to this court to reverse this order of dissolution.
+A motion is filed in this court to dismiss the appeal on the ground that an appeal does not lie from the order or decree wherein the court dissolved the temporary restraining order. The sole question presented to this- court is whether an appeal 011 questions of law can be prosecuted to the Court ol Appeals from an order dissolving a temporary restraining order in an action wherein the ultimate relief sought is injunction.
+A thorough search of the Ohio law discloses that Ohio courts, particularly the higher courts, have not had this identical question presented for determination. Many cases may be found where courts have considered applications for temporary restraining- orders which have been refused or where courts have considered applications lor dissolution of temporary restraining orders wherein the court has refused such application. However, such is not the case belore this court.
+The Constitution oí the State of Ohio, as amended in 1912, provides that Courts of Appeals may affirm, reverse or modify judgments of the lower courts of record. Under the Constitution the power of = the Courts of Appeals to affirm, reverse or modify is limited to judgments. §11582 GC defines a judgment as follows:
+“A judgment is a final determination of the rights of the parties in action; a direction of a court or judge made or entered in writing and not included in a judgment is an order.”
+Sec 12247 GC provides:
+“A judgment rendered or final order made by a Court of Common Pleas or by the Superior Court of Cincinnati or by the Municipal Court of Cleveland or by a judge of any of such courts may be reversed, vacated or modified by the Court of Appeals having jurisdiction in the county «'herein the Common Pleas, Superior or Municipal Court is located for errors appearing on the record.”
+It will be observed that this statute not only refers to judgments rendered but final orders as well, while the Constitution limits the Court of Appeals to judgments. The Legislature has seen fit to define a final order as follows:
+“An order affecting a -substantial right in an action when in effect it determines the action and prevents a judgment and an order affecting- a substantial right made in a special proceeding or upon a summary application in an action after judgment is a final order which may be vacated, modified or reversed as provided in this title.”
+It will thus appear that the statutes of the state are somewhat broader possibly than the provisions of the Constitution.
+However, inasmuch as this court has come to the conclusion it has, it becomes immaterial to discuss or to determine whether the statutory provisions are enlargements of the constitutional provisions. The basis of appellant’s appeal to this court as urged in argument is that the dissolution oí the temporary restraining order was an order affecting a substantial right made in a special proceeding. Where the ultimate relief sought is an injunction, is such an action a special proceeding? Assuming that the dissolution thereof was an order affecting a substantial right, was it an order in a special proceeding? This question has been answered at least twice by the highest court of this state. In the case of the May Company v The Bailey Company, 81 Oh St 471, the syllabus is as follows:
+“An order of the Court of Common Pleas granting a temporary injunction in a suit in which the ultimate relief sought is an injunction is not either a judgment or a final order which may be reviewed by the Circuit Court on petition in error.”
+And the court in the course of its opinion say:
+“Counsel for plaintiff in error rely upon the case of Burke v Railway Co., 45 Oh St 631, as authority for the conclusion that the order of the Court of Common Pleas in this case was reviewable under §6709 GC as a final order and that it is within the definition of a final order as given in §6707, Revised Statutes. It is not claimed that the Court of Common Pleas in allowing the temporary injunction rendered a final judgment, in the case or that it made an order which determines an action and prevents a judgment. The precise claim is that it made an order affecting a substantial right made in a special proceeding. Whether the order involved in the case of Burke v Railway Company was or was not an order affecting a substantial right made in a special proceeding, it is entirely clear that the order in the present case is not of that character. This was a suit for injunction. The order of the Court of Common Pleas was not ancillary to the exercise of its jurisdiction upon any other subject. The application for an allowance of the temporary injunction was a part of the ancient suit in equity administered in the main case without any provisions of the statute authorizing it or providing for it. as a proceeding in an action. There was no occasion for dividing up the case leaving part of it in the Court of Common Pleas while a part of it was taken to the Circuit Court. The questions involved in the allowance of the temporary injunction were not different from those which would be involved in a consideration of the final judgment and the case should have been disposed of wholly in the Court of Common Pleas before a resort was had to the jurisdiction of the Circuit Court.”
+In the case of Jones, Treasurer et v First National Bank of Bellaire, 123 Oh St 642, the syllabus is as follows:
+“An order of the Court ol Common Pleas overruling a motion to vacate a temporary injunction in a suit in which the ultimate relief sought is an injunction, is neither a judgment nor a final order which may be reviewed by the Court of Appeals on a petition in error.”
+The court in its opinion on page 646 uses the following language:
+“It is quite self evident that the proceeding instituted by the Bank was an action. and not a special proceeding. The temporary injunction issued was certainly an interlocutory order. If the granting of an injunction as stated in May Company v Bailey Company, supra, is only an interlocutory order, then it is difficult to understand how the overruling of a motion to dissolve such an interlocutory order can be a final order affecting a substantial interest in a special proceeding.”
+As indicated in this opinion, the court held that an order of the Court of Common Pleas overruling a motion to vacate a temporary injunction in a suit in which the ultimate relief sought is an injunction, is neithir a judgment nor a final order which may be reviewed by the Court of Appeals on a petition in error. The court also states that it was self evident that the proceeding instituted by the Bank was an action, and not a special proceeding. According to this holding the case at bar is an action and not a special proceeding as claimed by appellants. These cases appear to be dispositive of the question raised on the motion of the appellees for a dismissal of the appeal. Such being the case the attempted appeal on questions of law to this court cannot be successfully maintained and the motion of the appellees to dismiss the appeal is sustained. Appeal dismissed.
+ROBERTS and NICHOLS, JJ, concur.
