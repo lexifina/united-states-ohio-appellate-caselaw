@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6301"
+decided: "1943-10-25"
+citations: ["74 Ohio App. 54"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ross, P. J., and Hildebrant, J., concur."]
+parties: ["The Wilson Freight Forwarding Co., Appellee, v. The Cleveland, Columbus & Cincinnati Highway, Inc., Appellant."]
+source_url: "https://static.case.law/ohio-app/74/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1377347
+cites_cases: ["32 N. E., 476", "49 Ohio St., 489", "55 Ohio App., 193"]
+---
+
+# Wilson Freight Forwarding Co. v. Cleveland, Columbus & Cincinnati Highway, Inc.
+
+## Majority (Matthews, J.)
+
+Matthews, J.
+While both parties to this appeal are common carriers of freight, the case does not present any question peculiar to their special characters as such.
+They were both corporations carrying freight over the public highways from the city of Hamilton, but in different directions. The plaintiff’s route extended to Pittsburgh, Pennsylvania, and eastwardly. The defendant’s route extended to Cleveland, and beyond. They employed the same independent contractor to bring the freight from the customer to the central point or dock belonging to the independent contractor, where each took charge of that which was consigned to places on its route. This independent contractor, as was its custom, collected cartons of blank bills of lading from the Hamilton Autographic Register Company for shipment to McKay Company, at York, Pennsylvania. In doing so, it is admitted that the independent contractor was acting for and on behalf of the plaintiff. And also, as was the custom, it took the cartons to its dock in Hamilton, where the plaintiff would have taken possession and carried them to York, Pennsylvania. This same independent contractor represented the defendant in collecting packages and placing them on the same dock for shipment by it.
+It is admitted that both plaintiff and defendant were, ■ through their agent, present at the dock and in a position to take possession of these cartons. They should have been taken by the plaintiff to York, but actually some one took them to Cleveland and placed them, on defendant’s dock there.
+The plaintiff had issued a bill of lading to the shipper, and, as the cartons were not delivered to the consignee, the shipper supplied other blanks to it, and made claim against the plaintiff for the loss The plaintiff settled with the shipper and took an assignment of its claim. Shortly thereafter, the defendant notified the plaintiff that the cartons were on its dock in Cleveland, and tendered them to the plaintiff. The plaintiff refused to accept their return and demanded reimbursement of the amount it had paid the shipper. On refusal, this action was brought.
+The Municipal Court of Cincinnati found for the plaintiff. The Common Pleas Court affirmed the judgment and this appeal is from that affirmance.
+There is no direct evidence as to how or by whom these cartons were taken from Hamilton to Cleveland, and it is asserted that because of that fact there is an entire failure of proof. But there is proof that the defendant was in Hamilton at the time the cartons were there and that at a later date it was in Cleveland, with these cartons in its possession. We believe that from these facts an inference of fact arises that it was the defendant that took them from Hamilton to Cleveland. Certainly, if this were a criminal prosecution, such an inference would arise.
+In 20 American Jurisprudence, 220 et seq., it is said:
+“It is well established that possession by the accused, shortly after the commission of a crime, of the fruit of the crime is a fact which may be shown against the accused as indicating his guilt. Such possession, if unexplained, is said in many cases to create a presumption or an inference of guilt. In other words, when proof is given that property recently stolen was found in the possession of a person, such person is presumed to be the one who stole it, unless he accounts satisfactorily to the jury for his possession. Some of the courts, in speaking of the character of evidence of unexplained possession of recently stolen property, characterize it as prima facie evidence. The strength of the presumption which possession of stolen property raises against the accused depends upon all the circumstances surrounding the case and is for the jury to determine.”
+The distinction between a civil and criminal action is entirely irrelevant to the inquiry of whether an inference arises from proven facts. The only difference we can see is that the consequences of drawing the inference are graver in the one instance than in the other.
+But it is said there is no evidence that the defendant knew the cartons were on its dock in Cleveland until it found them there just before it notified the shipper and that under such circumstances it cannot be charged with conversion. It is true that the defendant stated in its letters that it had just discovered the cartons on its dock and did not know how they had gotten there, but laying aside the rule against self-serving declarations, its assertion of lack of knowledge did not conclusively prove the fact and the trial court’s finding is in general terms for the plaintiff.
+It should also be remembered in considering this phase that the defendant is a corporation acting-through agents. It might very well be that some agent consciously but under mistake or otherwise took these cartons from Hamilton to Cleveland and placed them on the dock. The defendant would be liable for such action by its agent, notwithstanding- its officers or other agents did not know the facts. The defendant’s possession is evidence that it transported the cartons intentionally.
+We cannot say that this record is devoid of evidence that the defendant through its agents did not know of all the facts all the time as to how these cartons were transported from Hamilton to Cleveland.
+Defendant relies on Dixon Bros. v. Millhorn, 55 Ohio App., 193, 9 N. E. (2d), 183, and Wellington v. Wentworth, 49 Mass. (8 Met.), 548. In the first case, the trier of the facts had found the issue of knowledge in favor of the plaintiff, and the judgment for the plaintiff was affirmed. In the second case, the issue of knowledge was found in favor of the defendant, and the judgment for defendant was affirmed. Applying the ratio decidendi of those cases to this record, the judgment for the plaintiff should be affirmed, as we find there is sufficient evidence to support the finding of knowledge.
+It is finally urged that the defendant cannot be held for conversion of these cartons and contents because the action is based on negligence. If the premise were correct, the conclusion would follow, because conversion is based on affirmative acts and not on mere negligence or nonfeasance. 40 Ohio Jurisprudence, 22; 26 R. C. L. 1112. But the defendant was not merely negligent. Its action was more than nonfeasance. When it carried these cartons from Hamilton to Cleveland, it acted affirmatively and exercised an unjustified dominion over the shipper’s property. That constituted a conversion and the fact that it was done through mistake does not destroy its affirmative character. It was done intentionally and the motive — innocent or even praiseworthy in one sense — or culpable or even criminal — is immaterial. 26 R. C. L. 1112; Baltimore & Ohio Rd. Co. v. O’Donnell, 49 Ohio St., 489, 32 N. E., 476; 1 Restatement of Law of Torts, Section 244.
+We find no error in the record and the judgment is affirmed.
+Judgment affirmed.
+Ross, P. J., and Hildebrant, J., concur.
