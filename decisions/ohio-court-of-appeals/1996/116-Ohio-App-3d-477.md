@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "94-C-67"
+decided: "1996-12-18"
+citations: ["116 Ohio App. 3d 477"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Joseph E. O’Neill, P.J., and Cox, J., concur."]
+parties: ["The STATE of Ohio, Appellee, v. BROWN, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/116/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1163222
+cites_cases: ["392 U.S. 1", "440 U.S. 648", "443 U.S. 47", "597 N.E.2d 1141", "632 N.E.2d 1391", "73 Ohio App.3d 486", "91 Ohio App.3d 623"]
+---
+
+# State v. Brown
+
+## Majority (Gene Donofrio, Judge..)
+
+Gene Donofrio, Judge..
+This case comes before the court on appeal from Columbiana County, Northwest Area County Court, where defendant-appellant, Raymond E. Brown, pleaded no contest to driving under the influence of alcohol in violation of R.C. 4511.19(A)(3).
+Prior to entering his plea, appellant sought to suppress the introduction of evidence obtained by the arresting officer following the stop of appellant’s motor vehicle on March 5, 1994.
+The trial court overruled appellant’s motion and subsequently entered a finding of guilty on appellant’s plea. This appeal follows.
+Appellant’s sole assignment of error alleges:
+“The trial court erred to the prejudice of the defendant/appellant by overruling defendant’s/appellant’s motion to suppress the results of any and all blood, breath or urine tests taken of the defendant/appellant in conjunction with this case, due to the fact that the arresting officer did not have a reasonable, articulable suspicion to believe that defendant/appellant was engaging in illegal activity at the time the arresting officer made the stop of defendant’s/appellant’s automobile.”
+On March 5, 1994 at approximately 2:58 a.m., Deputy Larry Richards of the Columbiana County Sheriffs Department was on routine patrol, traveling east on U.S. Route 62 in Knox Township, Columbiana County, Ohio. As he approached the truck sales and garage known as “Williamson GMC,” he noticed appellant’s automobile stopped, with its headlights on, facing west, blocking an entranceway to Williamson GMC. Appellant, the driver, was inside the vehicle with two other male passengers. Deputy Richards did not see anyone exit the vehicle. As Deputy Richards passed the vehicle, he made a U-turn, pulled his cruiser behind appellant’s vehicle, and activated his overhead lights. As Deputy Richards exited his cruiser, appellant began to pull away. Deputy Richards yelled at appellant to halt and appellant did. Deputy Richards testified that he did not believe that appellant saw the cruiser pull in behind his vehicle.
+Deputy Richards testified that he made the investigatory stop of appellant because appellant was sitting off the road with his headlights on and because there had been prior thefts at the GMC location. He also testified that appellant’s vehicle was not in motion, there was no erratic driving, and there was no visible evidence of any criminal conduct.
+After the hearing, the trial court overruled appellant’s motion to suppress, finding that Deputy Richards had “reasonable and articulable factors which justified the making of an investigatory stop.” The trial court found that (1) Officer Richards observed appellant’s vehicle parked/standing in front of Williamson GMC at 2:58 a.m., (2) Williamson GMC was then closed, and (3) Officer Richards knew that Williamson GMC had been the victim of numerous recent thefts.
+On appeal, the issue before us is whether these three factors were sufficient to create a reasonable suspicion in the objective mind of a police officer, in order to warrant an investigatory stop in light of the totality of the circumstances under Terry v. Ohio (1968), 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889, and its progeny.
+Under the Fourth Amendment, a police officer is justified in conducting a brief investigatory stop of an individual only if the officer has reasonable suspicion that criminal activity may be afoot. Delaware v. Prouse (1979), 440 U.S. 648, 99 S.Ct. 1391, 59 L.Ed.2d 660. The propriety of the initial stop must be viewed in light of the totality of the surrounding circumstances. Absent any basis for suspecting a defendant of misconduct, the balance between the public interest in crime prevention and the defendant’s right to personal security and privacy tilts in favor of freedom from public interference. Brown v. Texas (1979), 443 U.S. 47, 52, 99 S.Ct. 2637, 2641, 61 L.Ed.2d 357, 362-363.
+In order to justify a stop, the officer must have more than a vague suspicion or inarticulate hunch that criminal activity is afoot. Terry v. Ohio, supra, at 22, 88 S.Ct. at 1880-1881, 20 L.Ed.2d at 906-907; Delaware v. Prouse, supra, at 661, 99 S.Ct. at 1400, 59 L.Ed.2d at 672. Further, a person’s mere presence in an area of high crime activity or where previous criminal activity has taken place in and of itself does not constitute reasonable suspicion. Brown v. Texas (1979), 443 U.S. 47, 99 S.Ct. 2637, 61 L.Ed.2d 357; State v. Rhude (1993), 91 Ohio App.3d 623, 632 N.E.2d 1391.
+In State v. Rhude, supra, the court affirmed the granting of the defendant driver’s motion to suppress based upon an investigatory stop at 1:30 a.m., where an officer observed Rhude driving approximately thirty m.p.h. in a thirty-five m.p.h. zone, pull in a driveway, turn around and drive back out onto the road in the opposite direction, and pull into another driveway. The officer testified that although he did not observe Rhude operating his vehicle in an impaired or erratic manner or violating any traffic laws, because police had received many complaints concerning prowlers and burglaries in the area, he decided to stop Rhude’s vehicle.
+The Rhude court held that where a motorist is not observed violating any traffic or other laws and where the police are not specifically looking for a particular individual. or vehicle which individual is driving, they lack reasonable suspicion to stop the motorist.
+In State v. Klein (1991), 73 Ohio App.3d 486, 597 N.E.2d 1141, the court reversed the trial court’s denial of Klein’s motion to suppress, based on an investigatory stop at 1:35 a.m., where an officer observed Klein sitting in a vehicle on an auto sales lot. Klein pulled out of the car lot as the officer approached. The officer followed Klein, and while no traffic violations or any evidence of criminal conduct was observed, the officer stopped and eventually arrested Klein for DUI. The officer testified that the reason he stopped Klein was because there had been recent thefts from cars in the area of the car lots.
+The Klein court held that under the totality of the circumstances, the police officer lacked requisite reasonable suspicion to warrant an investigative stop of defendant, where defendant’s activities before the investigative stop were equally consistent with innocent behavior, though defendant was stopped in high crime area at 1:35 a.m.
+In the instant case, appellant’s conduct was not indicative of criminal behavior. Neither appellant nor any passenger was observed outside the vehicle or engaged in any type of activity that would lead to a reasonable suspicion that criminal activity was about to take place. Further, appellant’s vehicle was not observed in motion; there could thus be no reasonable suspicion of any traffic violation. We thus find that the stop of appellant was not based on reasonable suspicion.
+Our opinion should not be read as a proscription of an officer’s attempt to render assistance to a vehicle parked on the side of the road or of the investigation of any situation giving rise to a reasonable suspicion of criminal activity. Indeed, Deputy Richards in the instant case was justified in observing appellant’s vehicle and even approaching the vehicle to determine whether assistance was needed. However, once appellant began to pull away and it was obvious to the officer that appellant had not seen the cruiser pull in (thus not indicating that appellant was fleeing), and absent any indication of illegal activity, any justification for the stop ceased to exist.
+While in a motion to suppress the trial court is in the best position to resolve questions of fact and evaluate witness credibility, an appellate court must independently determine as a matter of law, without deference to the trial court’s conclusion, whether the facts meet the legal standards set forth in Terry, supra, and its progeny.
+Here, the factors observed by Deputy Richards and relied on by the trial court are inadequate to create a reasonable suspicion justifying the investigative stop of appellant.
+Therefore, appellant’s sole assignment of error is with merit.
+The decision of the trial court is hereby reversed, and appellant is discharged.
+Judgment reversed.
+Joseph E. O’Neill, P.J., and Cox, J., concur.
