@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "10848"
+decided: "1983-04-20"
+citations: ["8 Ohio App. 3d 381"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mahoney, P.J., concurs.", "Quillin, J., concurs in judgment only."]
+parties: ["Kaye et al., Appellants, v. Buehrle et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/8/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6713114
+cites_cases: ["12 O.O.3d 108", "24 A.L.R. 3d 465", "58 Ohio St. 2d 97"]
+---
+
+# Kaye v. Buehrle
+
+## Majority (Baird, J.)
+
+Baird, J.
+This is an appeal from a directed verdict rendered in favor of defendants at the close of plaintiffs’ case.
+In the spring of 1980, plaintiffs, Lawrence B. Kaye and his wife, were in the market for a new home. They contacted Anita Levin of Marting Realty who recommended a home owned by defendants Y. E. and Kathleen J. Buehrle. On June 1, 1980, after a brief inspection of the house, the Kayes presented an offer to the Buehrles which was rejected. The Kayes then agreed to pay the full asking price of $129,000 and later the same evening the parties executed a contract which was a standard Marting form.
+Prior to the signing of the contract no information was given to the Kayes concerning the condition of the basement even though Marting was made aware by the Buehrles that it would leak during a torrential rain.
+The day after the Kayes moved into the home there was a heavy rainfall which resulted in the basement flooding profusely. Furthermore, after several months the basement wall began to buckle under the pressure of the buildup of water in the ground outside the home. Approximately one-year later the Kayes had the drainage problem and the wall repaired and then commenced this action claiming fraudulent misrepresentation and breach of warranty. Named as defendants were the Buehrles and Marting Realty.
+Defendants answered saying, inter alia, they were insulated from liability by a clause of the contract, written in bold red ink, which stated:
+“* * * SELLER DOES NOT WARRANT the property or any of its systems or appliances beyond delivery of possession to Buyer, and Buyer acknowledges that he has examined same and has signed this agreement as the result of said examination. Buyer accepts property in an ‘AS IS’ condition, excepting that Buyer shall, however, be given reasonable access to property within 14 days of acceptance of this agreement, for any contractor(s) employed by him, at his sole expense, to inspect the condition of the property as to Roof, Basement, Plumbing, Heating and Electrical Systems and Appliances. Should, as the result of such inspection(s), the Buyer’s contractor(s) accurately determine major damage, or inoperable or unsafe conditions existing, then in such case, Seller may have the option of cancellation of this agreement, or to correct the defects in such systems or appliances. Notwithstanding the foregoing, the Buyer may, at his option, waive any defect or defects in the property and accept the deed to the property from the Seller. Failure of Buyer to cause inspections to be made within 14 days from acceptance of this agreement shall be construed as a waiver by the Buyer and his acceptance of the property in an ‘AS IS’ condition without further repair obligations as to anyone. * * *”
+At the close of the Kayes’ case, defendants moved for a directed verdict claiming that the evidence indicated that the Kayes did not have a contractor inspect the house within fourteen days after the signing of the contract as provided therein. Therefore, the defense argued, the house was accepted “as is.” The court accepted this argument and directed a verdict saying that the Kayes had failed to sustain their allegations of fraud and that they had failed to avail themselves of the rights granted them by the contract, thereby precluding their recovery.
+Assignment of Error
+“The act of the trial court in granting a directed verdict in favor of defendants was contrary to Civil Rule 50(A)(4) in that the evidence and issues construed most favorably toward plaintiffs would have resulted in an award for plaintiffs.”
+In determining whether the court erred in directing the verdict, we must examine the judgment in view of each count of the Kayes’ complaint. The complaint contains three counts sounding in fraud and one for breach of warranty.
+Looking first at the claim for breach of warranty, we find that it was properly disposed of by the court. In their complaint, the Kayes allege that the Buehrles “expressly warranted the soundness of the basement” and that said warranty was breached by virtue of the condition of the premises. The evidence, however, discloses no statements made by the Buehrles prior to the sale of the house which could constitute an express warranty. Any statements found in the record which might be construed as a warranty were made after the contract of sale was signed. Thus, the Kayes cannot claim that they relied on express warranties in purchasing the house as they have presented no evidence of any statement made and relied upon prior to the signing of the contract. Therefore, the court did not err in directing the verdict as to this claim.
+The Kayes’ three claims for fraud touch each of the three different forms of fraud: fraudulent misrepresentation, fraudulent concealment, and fraudulent nondisclosure. As the law for each type of fraud is different, we will consider each claim separately.
+Considering first the claim for fraudulent nondisclosure, the Kayes charge that Marting failed to disclose that the basement was leaking and that the house was in a defective condition. The Supreme Court of Ohio has held that a seller who is under a duty to disclose facts and fails to do so will be held liable for damages directly and proximately resulting from his silence. Miles v. McSwegin (1979), 58 Ohio St. 2d 97 [12 O.O.3d 108]. It must be emphasized that such liability rests upon the seller if, and only if, he is under a duty to disclose the matter in question. Restatement of the Law, Torts 2d 119, Section 551.
+Comment j to Section 551 of the Restatement states:
+“* * * If the parties expressly or impliedly place the risk as to the existence of a fact on one party or if the law places it there by custom or otherwise the other party has no duty of disclosure. * * * ” (Emphasis added.) Id. at 123.
+In the case at bar the contract clearly places the risk upon the Kayes as to the existence of any defects. The contract states that the property is to be accepted “as is” subject to a specified inspection by the Kayes. It has been held that when a buyer contractually agrees to accept property “as is,” the seller is relieved of any duty to disclose. See Annotation, 24 A.L.R. 3d 465, 491, Section 9; 37 American Jurisprudence 2d 525, Fraud and Deceit, Section 388. Absent a duty to disclose on the part of Marting, the Kayes’ claim for fraudulent nondisclosure must fall.
+Although the “as is” clause bars the Kayes’ claim for nondisclosure, such is not the case when the fraud claimed is “positive” fraud, i.e., fraud of commission rather than omission. An “as is” clause cannot be relied upon to bar a claim for fraudulent misrepresentation or fraudulent concealment. Annotation, 24 A.L.R. 3d 465, 482, Section 7(b); 37 American Jurisprudence 2d 525, Fraud and Deceit, Section 388. Thus, the contract in this case has no effect on the Kayes’ claims for fraudulent misrepresentation and fraudulent concealment.
+The Kayes’ claim for fraudulent misrepresentation charges that the Buehrles fraudulently stated that the property was not experiencing water leakage. However, as stated earlier, no statements were made by the Buehrles with respect to the condition of the house prior to its sale. Thus, the critical element of reliance is not present. The Kayes did not rely on any affirmative representations of the Buehrles in purchasing the house. Therefore, the directed verdict was proper as to the claim for fraudulent misrepresentation.
+The Kayes’ final claim is for fraudulent concealment. In it they claim that the Buehrles had patched cracks in the basement wall in an effort to conceal the fact that the wall was structurally unsound.
+A party to a transaction is liable to the other for fraudulent concealment if he “by concealment or other action intentionally prevents the other from acquiring material information.” Restatement of the Law, Torts 2d 118, Section 550.
+The evidence indicates that in 1972 the Buehrles experienced some structural problems with the basement wall and had them repaired. The repairs included patching cracks that had developed in the wall. After these repairs were made, there were no further problems with the wall until several months after the Kayes purchased the house. There is no evidence to indicate that the Buehrles patched the wall with the intent to conceal any defects. From the record it seems clear that their intent was simply to repair the wall.
+Without evidence of an intent to conceal and acts performed to effect that intent, the Buehrles cannot be held liable for fraudulent concealment.
+From the foregoing we conclude that the directed verdict was proper as to each count of the Kayes’ complaint. Therefore, the judgment is affirmed.
+Judgment affirmed.
+Mahoney, P.J., concurs.
+Quillin, J., concurs in judgment only.
