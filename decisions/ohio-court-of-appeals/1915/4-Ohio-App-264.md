@@ -1,0 +1,29 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1915-03-22"
+citations: ["4 Ohio App. 264"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Powell and Houck, JJ., concur."]
+parties: ["Betz v. Betz."]
+source_url: "https://static.case.law/ohio-app/4/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1834845
+cites_cases: ["26 Ohio St., 291", "3 Leigh, 85"]
+---
+
+# Betz v. Betz
+
+## Majority (Shields, J.)
+
+Shields, J.
+This proceeding in error is prosecuted to reverse the judgment of the court of common pleas of this county.
+It appears that a decree for alimony was granted the plaintiff in error, Anna Betz, against the defendant in error, Walter C. Betz, by the probate court of Licking county; that afterward the plaintiff in error caused an execution to issue out of said probate court upon said decree for alimony to the sheriff of said county, who levied the same upon the property of the defendant in error to satisfy what was claimed to be an unpaid balance due on said decree for alimony, amounting to something like $900; that said sheriff was proceeding to advertise for sale the property of the defendant in error so levied on, to satisfy said claim of the plaintiff in error, when the defendant in error, in an action commenced by him in the court of common pleas of said county, procured a temporary injunction against said sheriff restraining him from selling said property, on the ground that he had then already paid the full amount of said decree for alimony so awarded against him, and a 'sum largely in excess of said sum, and that said execution so levied upon his property was therefore wrongful and unjust.
+An answer was filed in this proceeding, denying payment of the alimony as alleged by the defendant in error, who afterwards filed a reply thereto, and after a full hearing was had upon the merits of the claims of said parties said common pleas court found that payment of said decree for alimony had been made by the defendant in error, as alleged by him in his petition, and said temporary injunction was thereupon made perpetual.
+The plaintiff in error afterward filed a petition in error in this court to reverse said judgment of said common pleas court on the ground that said court had no jurisdiction to hear said last-named cause for the reason that the probate court of said county had first acquired and retained jurisdiction thereof, and that if the defendant in error was seeking any relief his remedy was by motion in said probate court.
+The rule that a judgment or lien for alimony is a continuing and subsisting claim against the husband and that it does not become dormant nor become affected by injunction or other proceedings until paid, is well recognized; but, not unlike any other obligation created by the judgment of a court, when such judgment or lien for alimony is paid, such obligation is discharged. Here it was claimed that the decree for alimony, made and entered by the probate court, was paid, and because of this alleged payment and satisfaction of said decree the sale of the property of the defendant in error, sought to be reached by the plaintiff in error on execution, was enjoined upon petition filed by the defendant in error setting up such payment and satisfaction of said decree. This action of the common pleas court is assigned as error, the plaintiff in error contending that said court had no jurisdiction over the subject-matter of said proceeding. The record herein shows that the defendant in error filed a petition in said court setting up payment of said alimony adjudged against him; that the plaintiff in error was duly served with process and voluntarily submitted herself to the jurisdiction of said court by filing an answer therein; that upon the hearing thereof she made the defense alleged in her said answer, and that said court, after hearing had upon the merits of the claims of the respective parties thereto, by its order, made said injunction perpetual. Under this state of facts were the rights of the plaintiff in error determined and concluded in this proceeding? We think they were, and we further think that the proceeding instituted by the plaintiff in error in the common pleas court was a separate and independent proceeding from the action pending in the said probate court, and that said proceeding was not unauthorized by the facts and circumstances of the case. True, a motion filed in the probate court might have served the purposes of the defendant in error, and it might not. Surely it would have been of no avail if not heard and passed on by said court favorably to the- rights of the defendant in error .before the sale of h’is property. Whatever the action of the court had it been so filed, we do not think such remedy was exclusive to work out the rights of the defendant in error as found by the court of common pleas; and having submitted to the jurisdiction of said court without objection, we think relief was properly granted to the defendant in error by injunction. In this connection we quote the opinion of Judge White in Miller et al. v. Longacre et al., 26 Ohio St., 291, who cites therein with approval the principle of law laid down in Crawford v. Thurmond et al., 3 Leigh, 85:
+“Jurisdiction in equity has been maintained to enjoin the enforcement, by execution, of a judgment which had been paid, notwithstanding the right of the complainant to proceed by motion in the court issuing the execution, to have satisfaction of the judgment entered, and the execution set aside.”
+We are of the opinion that the common pleas court had jurisdiction to grant the relief asked for, and the judgment of said court is therefore affirmed, at the costs of the plaintiff in error.
+Judgment affirmed.
+Powell and Houck, JJ., concur.
