@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "00COA-1353"
+decided: "2000-10-02"
+citations: ["140 Ohio App. 3d 90"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["William B. Hoffman, P.J., and Edwards, J., concur."]
+parties: ["OFFHAUS, Admr., Appellant, v. GUTHRIE et al.; Cincinnati Insurance Company, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/140/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1227145
+cites_cases: ["100 Ohio St. 186", "110 Wis.2d 469", "125 Ohio App.3d 376", "126 N.E. 66", "135 A.2d 395", "15 O.O. 4", "178 Wis.2d 719", "29 Ohio Law Abs. 210", "30 OBR 78", "30 Ohio St.3d 35", "364 N.E.2d 267", "390 Pa. 331", "4 O.O.3d 466", "50 Ohio St.2d 317", "506 N.E.2d 212", "518 N.W.2d 179", "52 Ohio St.3d 214", "54 Wash.App. 195", "556 N.E.2d 505", "628 N.E.2d 1377", "663 N.E.2d 639", "665 N.E.2d 1115", "665 N.E.2d 1121", "68 Ohio St.3d 509", "708 N.E.2d 760", "75 Ohio St.3d 447", "76 Ohio St.3d 34", "76 Ohio St.3d 41", "773 P.2d 105"]
+---
+
+# Offhaus v. Guthrie
+
+## Majority (Farmer, Judge.)
+
+Farmer, Judge.
+On September 29, 1998, Michael J. Guthrie, a juvenile, shot and killed his neighbor, Tammy Offhaus. Guthrie was subsequently convicted on January 7, 1999, for the crimes of aggravated murder and abuse of a corpse.
+On April 29, 1999, appellant, David J. Offhaus, as Administrator of the Estate of Tammy D. Offhaus, filed a complaint for wrongful death against Guthrie, his mother, Florence Hutman, and his stepfather, Michael Hutman (hereinafter the “Hutmans”). The complaint alleged that the Hutmans were liable in damages under R.C. 3109.10 and the doctrines of negligent supervision and negligent entrustment.
+At the time of the murder, the Hutmans had a homeowner’s policy issued by appellee, Cincinnati Insurance Company. The Hutmans sought coverage under the policy for the case filed against them.
+On June 30, 1999, appellee filed a declaratory judgment action to determine its obligations to the Hutmans. On December 17, 1999, appellee filed a motion for summary judgment. By judgment entry filed February 3, 2000, the trial court granted the motion, finding that appellee had no duty to defend and indemnify the Hutmans in the underlying case.
+Appellant filed an appeal and this matter is now before this court for consideration. The sole assignment of error is as follows:
+“The trial court erred in granting Cincinnati Insurance Company’s motion for summary judgment filed in the consolidated declaratory judgment action because there are genuine issues of material fact in dispute and Cincinnati Insurance Company, as the moving party, is not entitled to judgment as a matter of law.”
+Appellant claims the trial court erred in granting summary judgment to appellee. We disagree.
+Summary judgment motions are to be resolved in light of the dictates of Civ.R. 56. This procedure was reaffirmed by the Supreme Court of Ohio in State ex rel. Zimmerman v. Tompkins (1996), 75 Ohio St.3d 447, 448, 663 N.E.2d 639, 640-641:
+“Civ.R. 56(C) provides that before summary judgment may be granted, it must be determined that (1) no genuine issue as to any material fact remains to be litigated, (2) the moving party is entitled to judgment as a matter of law, and (3) it appears from the evidence that reasonable minds can come to but one conclusion, and viewing such evidence most strongly in favor of the nonmoving party, that conclusion is adverse to the party against whom the motion for summary judgment is made. State ex rel. Parsons v. Fleming (1994), 68 Ohio St.3d 509, 511, 628 N.E.2d 1377, 1379, citing Temple v. Wean United, Inc. (1977), 50 Ohio St.2d 317, 327, 4 O.O.3d 466, 472, 364 N.E.2d 267, 274.”
+As an appellate court reviewing summary judgment motions, we must stand in the shoes of the trial court and review summary judgments on the same standard and evidence as the trial court. Smiddy v. The Wedding Party, Inc. (1987), 30 Ohio St.3d 35, 30 OBR 78, 506 N.E.2d 212.
+Specifically, appellant claims the trial court erred in holding there was no “occurrence” under the policy from which appellee had a duty to defend.
+The policy sub judice, attached to appellee’s motion for summary judgment, provides for coverage for an “occurrence.” “Occurrence” is defined in the policy under “Definitions” at paragraph 5 as follows:
+“ ‘occurrence’ means an accident, including continuous or repeated exposure to substantially the same general harmful conditions, which results, during the policy period, in:
+“a. bodily injury,
+“b. property damage,
+“c. personal injury.”
+Under the Civ.R. 56 standard, we are required to construe the facts in a light most favorable to the nonmoving party (appellant herein). Appellee concedes only to the facts that “Michael Guthrie took a .357 magnum across the street from his home and murdered Tammy Offhaus. He subsequently has sex with the body. He has pled guilty to these crimes and admitted to committing them in open court.”
+Appellant avers in his complaint that the Hutmans gave Guthrie access to the gun box where the .357 magnum was stored, were aware that Guthrie routinely carried the gun, and were aware that Guthrie was not welcome in the Offhaus home. Under the causes of action, appellant claimed Guthrie committed an intentional tort and the Hutmans are liable under R.C. 3109.10 and the doctrines of negligent supervision and negligent entrustment.
+In support of the averments in the complaint, appellant filed all of the public records from the criminal investigation regarding the murder. Said records were obtained via the Ohio Public Records Act and were filed with an accompanying affidavit of the Ashland County Prosecuting Attorney, Robert P. DeSanto. Within these records are two statements made to law enforcement officers that appellant argues contain operative facts. One statement was made by Guthrie wherein he acknowledged that he removed the .357 magnum from its storage area within his house, loaded the weapon, went to the Offhaus house, and fired the weapon, resulting in Offhaus’s death. We note this statement falls within the hearsay exception of a statement made against penal interest. See Evid.R. 804(B)(3).
+The second statement was made by the Hutmans. Mr. Hutman stated that the .357 magnum was kept locked in a gun lock safe and that Guthrie had one of three keys to the safe. The Hutmans both acknowledged that Guthrie was not a novice with guns and had used the .357 magnum in the past to target shoot. During the making of this statement, the Hutmans were clearly aware that Guthrie was a suspect in the case. Although it may be subject to argument, it can be surmised that the Hutmans, as Guthrie’s mother and step-father, were aware that their statement was against their penal interest for the purposes of the summary judgment motion.
+Upon review, we conclude operable facts of evidentiary value as to the negligent supervision and negligent entrustment claims are in the record.
+Appellant argues that the “occurrence” sub judice is the negligent supervision claim and the negligent entrustment claim, not the acts of murder and sexual abuse of a corpse. Appellee on the other hand argues said claims are not separate acts or “occurrences” separate and apart from the criminal acts.
+In Huston v. Konieczny (1990), 52 Ohio St.3d 214, 217, 556 N.E.2d 505, 509, the Supreme Court of Ohio held a parent can be held liable for the acts of a child:
+“At common law, a parent is not ordinarily liable for damages caused by a child’s wrongful conduct. Elms v. Flick (1919), 100 Ohio St. 186, 126 N.E. 66, paragraph four of the syllabus; Prosser & Keeton, Law of Torts (5 Ed.1984), Section 123. However, liability can attach when the injury committed by the child is the foreseeable consequence of a parent’s negligent act. Kuhns v. Brugger (Pa.1957) [390 Pa. 331, 347], 135 A.2d 395, 404, fn. 14. In those circumstances, liability arises from the conduct of the parent. Bankert v. Threshermen’s Mut. Ins. Co. (Wis.1983) [110 Wis.2d 469, 475-476], 329 N.W.2d 150, 153. Applying these principles, courts have held parents liable for the acts of their children in several ways which are relevant to the issue here.
+“Parents may incur liability when they negligently entrust their child with an instrumentality (such as a gun or car) which, because of the child’s immaturity or lack of experience, may become a source of danger to others. See, e.g., Davis v. Mack (C.P.1939), 29 Ohio Law Abs. 210, 15 O.O. 4, and Bankert, supra.”
+The matter sub judice is not about liability but coverage under a homeowner’s policy. We find the Supreme Court of Ohio’s dicta in Cuervo v. Cincinnati Ins. Co. (1996), 76 Ohio St.3d 41, 44, 665 N.E.2d 1121, 1122-1123, to be controlling on this issue:
+“Similarly, the damages for which the Cuervos seek compensation flow from Peter’s intentional acts of sexual molestation of a minor. Thus, and on this record, the obligation of Cincinnati to pay the judgment entered against his father, Stephen, is precluded as well. See Gearing [v. Nationwide Ins. Co., 76 Ohio St.3d 34, 665 N.E.2d 1115], at paragraph two of the syllabus. See, also, Taryn [E.F.] v. Joshua [M.C.] (1993), 178 Wis.2d 719, 505 N.W.2d 418; Northwest G.F. Mut. Ins. Co. v. Norgard (N.D.1994), 518 N.W.2d 179, 184; Farmers Ins. Co. of Washington v. Hembree (1989), 54 Wash.App. 195, 773 P.2d 105.”
+We are further persuaded to adopt the Cuervo conclusion by comparing the facts sub judice to a similar case from the Sixth District Court of Appeals, Noftz v. Ernsberger (1998), 125 Ohio App.3d 376, 382, 708 N.E.2d 760, 764, wherein the court held that “an insurer has no duty to defend or indemnify its insured when the insurer demonstrates that the acts of the insured were intentional.” The essential facts in Noftz and this case are identical. The minors committed intentional acts resulting in harm to their respective victims, the victims sued the minors and their parents and the claims against the parents were in negligence for negligent supervision of the minors.
+We conclude negligent supervision and negligent entrustment are not “occurrences” separate and apart from the underlying intentional tort but are derivative claims arising out of the intentional acts. Also, said claims are not a “continuous or repeated exposure to substantially the same general harmful conditions” because of the derivative nature of the negligence theories. Upon review, we find the trial court did not err in granting summary judgment to appellee. The sole assignment of error is denied.
+The judgment of the Court of Common Pleas of Ashland County is hereby affirmed.
+Judgment affirmed.
+William B. Hoffman, P.J., and Edwards, J., concur.
+. In Cueivo, the claim against the actor's parent was for negligence, similar to the facts of this case.
