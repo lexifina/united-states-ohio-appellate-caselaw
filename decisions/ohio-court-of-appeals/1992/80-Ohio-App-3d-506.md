@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "15366"
+decided: "1992-06-03"
+citations: ["80 Ohio App. 3d 506"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baird, P.J., and Cook, J., concur."]
+parties: ["SPHERE DRAKE INSURANCE COMPANY et al., Appellees, v. ROSS, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/80/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1674060
+cites_cases: ["16 OBR 24", "16 Ohio App.3d 23", "313 N.E.2d 844", "39 Ohio St.2d 95", "418 N.E.2d 744", "46 Ohio St.3d 84", "474 N.E.2d 371", "481 So.2d 878", "49 Ill.Dec. 724", "545 N.E.2d 83", "569 N.E.2d 906", "58 Ohio St.3d 189", "582 F.Supp. 865", "68 O.O.2d 56", "84 Ill.2d 365"]
+---
+
+# Sphere Drake Insurance v. Ross
+
+## Majority (Reece, Judge.)
+
+Reece, Judge.
+On August 9, 1987, while a patron at a bar known as “Froggies,” appellant, Kelly Ross, was injured in an altercation with the bar’s security staff. Ross commenced a lawsuit on August 5, 1988, against Froggies On The Lake, Inc., its owners, and members of its security personnel (hereinafter referred to collectively as “Froggies”). Froggies was covered under a general liability insurance policy issued by the appellee, Sphere Drake Insurance Company (“Sphere”). Sphere filed this action for a declaratory judgment to determine whether, under the policy, it has a duty to indemnify Froggies should Ross prevail in his lawsuit.
+By its judgment entry dated September 13, 1991, the court held that under the terms of the policy, Ross may not recover damages from Sphere. Ross appeals, raising the following assignments of error.
+Assignments of Error
+“I. The trial court erred in finding, as a matter of law, that the assault and battery exclusion contained in the policy of insurance at issue operates to exclude coverage for the tort claim of appellant, Kelly Ross.
+“II. The trial court erred in failing to find that the language contained in the exclusion at issue is ambiguous and should therefore be construed in favor of the insured.”
+The insurance policy between Sphere and Froggies contained an endorsement which provided:
+“It is agreed that the insurance does not apply to bodily injury or property damage arising out of assault and battery or out of any act or omission in connection with the prevention or suppression of such acts, whether caused by or at the instigation or direction of the insured, his employees, patrons or any other person.” (Emphasis added.)
+Ross contends that his lawsuit is based on Froggies’ negligence in hiring and supervising its security staff. Therefore, because his action is founded in negligence, it does not fall within this policy exclusion exempting damages arising from an assault and battery, an intentional tort. In contrast, Sphere argues that Ross’ injuries were the direct result of an assault and battery perpetrated by Froggies’ employees. Accordingly, even should it be shown that Froggies was also negligent in causing Ross’ injuries, the exclusion avoids any liability under the policy.
+In support of his position, Ross cites Physicians Ins. Co. of Ohio v. Swanson (1991), 58 Ohio St.3d 189, 569 N.E.2d 906. In Swanson, the Ohio Supreme Court construed two insurance policies excluding coverage for injuries which are “expected or intended” or “caused intentionally” by the insured. Id. at 190-191, 569 N.E.2d at 908. The court held that the operation of these types of exclusionary clauses depends not on whether the acts of the insured were intentional, but whether the resulting injury was intended by the insured. Id. at 192-193, 569 N.E.2d at 910. The court stated:
+“In order to avoid coverage on the basis of an exclusion for expected or intentional injuries, the insurer must demonstrate that the injury itself was expected or intended.” Id. at the syllabus.
+Ross argues that the record is devoid of any evidence that Froggies’ security personnel intended to cause him injury or to cause the extent of his injuries. Therefore, based on the holding in Swanson, the court erred in applying the policy exclusion in the instant case.
+We find Ross’ reliance on Swanson to be misplaced. Even prior to Swanson, courts recognized an ambiguity in exclusionary clauses exempting injuries arising from the “expected” or “intended” acts of the insured. See Riverside Ins. Co. v. Wiland (1984), 16 Ohio App.3d 23, 25, 16 OBR 24, 474 N.E.2d 371. The issue is whether such clauses exclude coverage for the intentional acts of the insured or apply only to the expected results of the insured. In resolving this issue, the courts have determined that these exclusionary clauses apply to the “expected results” of the insured’s acts. This conclusion has been based both on the language employed in the policy and because ambiguities in an insurance contract are to be construed liberally in favor of the insured and strictly against the insurer. Swanson, supra, 58 Ohio St.3d at 192-193, 569 N.E.2d at 910, Wiland, supra, 16 Ohio App.3d at 25, 16 OBR at 26, 474 N.E.2d at 373. See, also, Buckeye Union Ins. Co. v. Price (1974), 39 Ohio St.2d 95, 68 O.O.2d 56, 313 N.E.2d 844, syllabus.
+By contrast, in the case sub judice, we find no ambiguity in the policy. From the clear language of the exclusionary clause, Sphere is not liable for injuries “arising out of assault and battery or out of any act of omission” resulting in an assault and battery. Absent an ambiguity, the words of the policy must be given their plain and ordinary meaning. Burris v. Grange Mut. Ins. Co. (1989), 46 Ohio St.3d 84, 89, 545 N.E.2d 83, 88. Under this type of exclusionary clause, Sphere does not have to show that Ross’ injuries were expected or intended by Froggies. Sphere has to show only that the injuries resulted from an assault and battery perpetrated by “the insured, his employees, patrons or any other person.”
+In the present case, for purposes of the declaratory action only, the parties agreed that members of Froggies’ security staff committed an assault and battery against Ross. Even in the absence of such an agreement, the record, including Ross’ own deposition, demonstrates that Ross’ injuries directly resulted from an assault and battery committed by the security personnel.
+The fact that Ross has asserted a cause of action against Froggies for negligent hiring and supervision of its employees does not avoid the exclusion. While we find no Ohio cases on point, numerous other courts have interpreted “assault and battery” exclusionary clauses. In St. Paul Surplus Lines Ins. Co. v. 1401 Dixon’s, Inc. (E.D.Pa.1984), 582 F.Supp. 865, 867-868, the court stated:
+“ ‘It is undoubtedly true that for plaintiffs to recover in this suit, they must demonstrate that their injuries were caused by the allegedly negligent acts. But although the injuries must, in this sense have been caused by Ross’ negligent acts, it does not follow that these same injuries did not ‘aris[e] out of assault and battery.’ Plaintiffs’ real contention is that their injuries arose out of an assault and battery which, in its turn, arose out of Ross’ negligence. Thus, plaintiffs’ injuries are unambiguously excluded from coverage by the assault and battery exclusion.’ ” Quoting Sauter v. Ross Restaurants, Inc. (May 21, 1981), E.D.Pa. No. 80-1202, unreported, at 6. See, also, Thornton v. Illinois Founders Ins. Co. (1981), 84 Ill.2d 365, 371, 49 Ill.Dec. 724, 727, 418 N.E.2d 744, 747; Gregory v. W. World Ins. Co. (Ala.1985), 481 So.2d 878, 881.
+In conclusion, we find no ambiguity in the assault and battery exclusion contained in the insurance policy. Because Ross’ injuries resulted directly from an assault and battery, the exclusion operates to exempt Sphere from any liability under the policy. Even should Ross prevail in his negligence action against Froggies, it would not affect this result. The fact that a concurrent cause in negligence may have contributed to Ross’ injury does not change the fact that his injury was the result of an assault and battery, the very thing the policy excludes from its coverage.
+Ross’ assignments of error are therefore overruled and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Baird, P.J., and Cook, J., concur.
