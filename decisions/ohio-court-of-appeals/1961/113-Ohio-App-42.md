@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5361"
+decided: "1961-02-27"
+citations: ["113 Ohio App. 42"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith and Deeds, JJ., concur."]
+parties: ["Roberts, Appellee, v. Roberts, Appellant."]
+source_url: "https://static.case.law/ohio-app/113/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1444396
+cites_cases: ["107 Ohio App., 184", "109 Ohio St., 481", "113 Ohio App., 33", "122 Ohio St., 294", "143 N. E., 187", "171 N. E., 330", "38 Ohio St., 370", "71 Ohio App., 110", "88 Ohio App., 283", "90 Ohio App., 24"]
+---
+
+# Roberts v. Roberts
+
+## Majority (Fess, J.)
+
+Fess, J.
+On January 20, 1961, the decision of this court reversing a judgment of the Court of Common Pleas, Division of Domestic Relations, and remanding the cause thereto for a new trial was entered on the journal of this court. Pursuant thereto, the cause was remanded on the same date to the trial court. Thereafter, a notice of appeal to the Supreme Court was filed in this court and a motion to certify the record herein was filed by plaintiff, appellee herein, in the Supreme Court of Ohio, which is pending therein. The cause comes on for hearing upon an application of plaintiff for the allowance of temporary alimony pursuant to the provisions of Section 3105.14, Revised Code. On argument in support of the motion, we are advised by counsel that a similar application to the domestic relations court has been disallowed on the ground that that court does not have jurisdiction to make such an allowance pending the appeal.
+The last sentence of Section 3105.14, Revised Code, provides :
+‘ ‘ When an appeal is taken by either party, the Court of Appeals, or a judge thereof in vacation, may grant like alimony, custody, and support during the pendency of the appeal, upon like notice.”
+Prior to the enactment of the foregoing sentence, it had been held that no authority was vested in the Court of Appeals to grant temporary alimony pending an appeal. Dann v. Dann, 71 Ohio App., 110, 48 N. E. (2d), 140. As we construe that provision, in specific terms it authorizes the Court of Appeals to grant temporary alimony during the pendency of the appeal but does not so authorize after a decision has been rendered upon such appeal and the cause has been, by entry, remanded to the trial court for new trial or other proceedings, notwithstanding that a notice of appeal to the Supreme Court has been filed in this court and a motion to certify the appeal has been filed in the Supreme Court.
+In support of the motion, plaintiff cites Hebden v. Hebden, 107 Ohio App., 184, 152 N. E. (2d), 448, in which there was pending a motion to certify the record from a previous judgment of the Court of Appeals. However, the cause was also pending in the Court of Appeals upon a second appeal and the court allowed, in part, a motion of the plaintiff-appellant for child support and expense money. The allowance, therefore, was based upon the pendency of the appeal rather than the pendency of the motion to certify the record in the former appeal.
+The mere taking of an appeal from a judgment of the lower court upon questions of law does not of itself remove the cause in its entirety from the jurisdiction of the lower court. Thus, where nothing but a notice of appeal appears, a reviewing court will assume that the predicated appeal was on questions of law and when no supersedeas bond is given and no suspension of any order made, the lower court is free to proceed as though notice of appeal had not been given. Hence, in the absence of anything further, the lower court can make entries approving and confirming sales, etc., after the filing of the notice of appeal. In other cases involving miscellaneous fact situations, the rule has been reiterated that an appeal on questions of law does not necessarily bring the entire case before the appellate court but is only the final order, judgment or decree sought to be reviewed. As to the remainder of the case, the lower court retains all jurisdiction not inconsistent with that of the appellate court to review, affirm, modify, or reverse the final order, judgment or decree from which the appeal has been perfected. 3 Ohio Jurisprudence (2d), 253, 254, Section 351. Cf. Fawick Airflex Co. v. United Electrical, Radio & Machine Workers of America, 90 Ohio App., 24, 103 N. E. (2d), 283; King v. King, 38 Ohio St., 370. Frequently, out of deference to the reviewing court, the trial court will refrain from further proceedings below pending the determination of the appeal. But this does not mean that on appeal on questions of law the trial court loses all jurisdiction.
+When a case, upon the application of the appellant in the Court of Appeals is remanded by that court to the trial court not merely for the purpose of correcting the records theretofore made in the trial court, but for the purpose of a further hearing therein, whether upon a supplemental motion for a new trial or otherwise, the jurisdiction of such cause is in the trial court, and the jurisdiction of the Court of Appeals can therefore be reinvoked only by the method and within the time prescribed by statute. New York Central Rd. Co. v. Francis, 109 Ohio St., 481, 143 N. E., 187. Furthermore, after the Court of Appeals has affirmed a conviction and remanded a case to the trial court, the Court of Appeals is without jurisdiction to entertain a motion to suspend the sentence and admit the defendant to bail under the statute giving a reviewing court power to suspend sentence and admit to bail pending appeal, since the case is no longer pending in the Court of Appeals. State v. Johnson, 88 Ohio App., 283, 97 N. E. (2d), 692; 4 Corpus Juris Secundum, 628.
+With regard to the effect of a motion to certify the record upon a judgment of the Court of Appeals, it has been held that the jurisdiction of the Court of Appeals over a cause pending or determined in such court is not suspended by the mere filing of a motion in the Supreme Court to require such Court of Appeals to certify its record. City of Cincinnati v. Alcorn, a Taxpayer, 122 Ohio St., 294, 171 N. E., 330.
+It is therefore held that upon the reversal of the judgment of the Court of Common Pleas, Division of Domestic Relations, and the remand of the cause to that court for a new trial, such court was reinvested with jurisdiction, including jurisdiction to grant temporary alimony as well as injunctive relief pending redetermination of the cause, and that the Court of Appeals no longer retains jurisdiction to make an order for such relief.
+Application for temporary alimony and other relief denied.
+Application denied.
+Smith and Deeds, JJ., concur.
+The motion was overruled, May 17, 1961.
