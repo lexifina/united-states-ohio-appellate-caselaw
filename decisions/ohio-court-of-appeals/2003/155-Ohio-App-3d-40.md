@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "19731"
+decided: "2003-10-10"
+citations: ["155 Ohio App. 3d 40"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brogan and Wolff, JJ., concur."]
+parties: ["NARDECCHIA, Appellee, v. NARDECCHIA, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/155/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 639223
+cites_cases: ["1 O.O.3d 86", "11 OBR 166", "11 Ohio App.3d 112", "1992 WL 132460", "1992 WL 394859", "2003-Ohio-5410", "351 N.E.2d 113", "371 N.E.2d 214", "450 N.E.2d 1140", "463 N.E.2d 417", "47 Ohio St.2d 146", "5 OBR 481", "5 Ohio St.3d 217", "53 Ohio St.2d 9", "690 N.E.2d 535", "7 O.O.3d 5", "81 Ohio St.3d 239"]
+---
+
+# Nardecchia v. Nardecchia
+
+## Majority (Grady, Judge.)
+
+Grady, Judge.
+{¶ 1} Lisa M. Nardecchia appeals from a judgment of the domestic relations court denying her motion for relief from judgment pursuant to Civ.R. 60(B).
+{¶ 2} Dean L. Nardecchia and Lisa M. Nardecchia were married on June 1, 1985. They had three children. In 2001, Dean and Lisa agreed that they would no longer remain married. They subsequently entered into a separation agreement that Dean prepared.
+{¶ 3} On December 7, 2001, the separation agreement and a petition for dissolution and shared parenting was filed in the domestic relations court. Lisa and Dean appeared pro se for the final hearing on January 18, 2002. The final judgment and decree of dissolution and the final decree of shared parenting, incorporating the separation agreement, were filed on January 18, 2002.
+{¶ 4} On March 29, 2002, Lisa filed a motion for relief from judgment pursuant to Civ.R. 60(B), requesting an order vacating the final judgment and decree of dissolution and the final decree of shared parenting. A hearing on the motion was held on October 1 and October 28, 2002. On December 24, 2002, the domestic relations court issued a decision and order dismissing Lisa’s motion for relief from judgment.
+{¶ 5} Lisa appeals, presenting three assignments of error.
+FIRST ASSIGNMENT OF ERROR
+{¶ 6} “The trial court erred as a matter of law by failing to grant appellant’s Civil Rule 60(B) motion because there was a mistake made by the parties regarding the actual value of appellee’s Dean L. Nardecchia PERS retirement account, and therefore, would have changed the separation agreement and the division of marital property involved.”
+{¶ 7} Retirement accounts that accumulate during the marriage are marital property. R.C. 3105.171(A)(3)(a)(ii). In an action for divorce or legal separation, the court must divide the parties’ marital property equally between them. R.C. 3105.171(C)(1).
+{¶ 8} A petition for dissolution must be supported by an attached separation agreement that provides for division of all property. R.C. 3105.63(A)(1). Unlike in an action for divorce or legal separation, in a dissolution proceeding the court divides property according to the terms of the approved separation agreement. R.C. 3105.65(B). Therefore, marital property need not be divided equally in a decree of dissolution when the parties so agree.
+{¶ 9} Dean and Lisa agreed that each would retain his or her respective Ohio Public Employee’s Retirement System (“PERS”) account, free of any claim by the other. Dean’s account is worth more than four times the value of Lisa’s account. Lisa accepted other property in exchange for the share of Dean’s account to which she would be entitled in a divorce action. The trial court adopted the agreement when it incorporated their separation agreement into the decree of dissolution that it entered on January 18, 2002.
+{¶ 10} In the Civ.R. 60(B) motion that she filed a little more than two months later, on March 29, 2002, Lisa argued that the parties had mistakenly undervalued Dean’s PERS account. Lisa argued that Dean’s account is worth almost twice as much as the parties believed it was worth when they signed their separation agreement. When they valued the account, the parties apparently had failed to include the amount that Dean’s employer had contributed, which is available to him on withdrawal. The evidence supported Lisa’s contentions. It also supports a finding that Lisa’s PERS account was similarly undervalued.
+{¶ 11} “To prevail on a motion brought under Civ.R. 60(B), the movant must demonstrate that (1) the party has a meritorious defense or claim to present if relief is granted; (2) the party is entitled to relief under one of the grounds stated in Civ.R. 60(B)(1) through (5); and (3) the motion is made within a reasonable time, and, where the grounds for relief are Civ.R. 60(B)(1), (2), or (3), not more than one year after the judgment, order, or proceeding was entered or taken.” GTE Automatic Elec. v. ARC Industries (1976), 47 Ohio St.2d 146, 1 O.O.3d 86, 351 N.E.2d 113, paragraph two of the syllabus.
+{¶ 12} The standard of review to be applied in appeals from the award or denial of Civ.R. 60(B) motions is an abuse-of-discretion standard. Associated Estates Corp. v. Fellows (1983), 11 Ohio App.3d 112, 11 OBR 166, 463 N.E.2d 417; Doddridge v. Fitzpatrick (1978), 53 Ohio St.2d 9, 7 O.O.3d 5, 371 N.E.2d 214. An abuse of discretion connotes, an attitude by the court which is arbitrary, unconscionable, or unreasonable. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 5 OBR 481, 450 N.E.2d 1140.
+{¶ 13} A decree of dissolution is founded on an agreement of the parties. “[I]f consent or mutuality did not exist when the parties entered into the separation agreement because of fraud or material mistake or misrepresentation, then there was no agreement upon which the dissolution decree could have been based. This lack of mutuality undermines the integrity of the dissolution proceeding and may constitute sufficient grounds to set aside the decree under Civ.R. 60(B).” In re Whitman (1998), 81 Ohio St.3d 239, 241, 690 N.E.2d 535.
+{¶ 14} Courts have used Civ.R. 60(B) to set aside dissolution decrees where the separation agreement was based on incomplete financial disclosure. In re Hobbs (June 11, 1992), Franklin App. No. 91AP-1478, 1992 WL 132460; Kelly v. Nelson (Dec. 29, 1992), Franklin App. No. 92AP-1014, 1992 WL 394859. Unless the agreement permits the court to modify the property division it contains, the court must vacate the entire dissolution decree when it grants Civ.R. 60(B) relief on a finding that the agreed division was founded on a mistake. Whitman.
+{¶ 15} The domestic relations court overruled Lisa’s Civ.R. 60(B) motion on a finding that, though the parties had been mistaken about the value of Dean’s PERS account, they were likewise mistaken about the value of Lisa’s PERS account. The court reasoned that notwithstanding those mistakes, Lisa was not prejudiced as a result because the true values of the parties’ respective PERS accounts bear the same ratio to one another as the values at which they were divided.
+{¶ 16} The trial court’s rationale assumes that Lisa would have agreed to the same division had correct values been used. Perhaps she would have, but her agreement to divide the accounts as they did is undermined by the mistake that was made. Further, if the dissolution decree is vacated Lisa has the option to convert the proceeding to an action for divorce. R.C 3105.65(C). That would entitle her to a full one-half share of Dean’s PERS account, and would likewise entitle Dean to a full one-half share of Lisa’s PERS account. Lisa’s one-half share of the combined value of the two accounts would be greater than the share she agreed to take. Whether the other property divisions to which the parties agreed would then survive is unlikely, but whether they would is speculative.
+{¶ 17} All that Lisa was required to show was that (1) her motion was timely, (2) a mistake of fact had occurred that was material to one of the issues to be determined by the decree of dissolution, and (3) if the decree is vacated to the extent that it was affected by the mistake, she will have a meritorious claim or defense to present. GTE Automatic Elec., supra. All three are demonstrated on this record. Therefore, the trial court abused its discretion when it overruled Lisa’s motion, notwithstanding the court’s surmise, which may be correct, that in the end the parties will likely agree on the same division.
+{¶ 18} The first assignment of error is sustained.
+SECOND ASSIGNMENT OF ERROR
+{¶ 19} “The trial court erred as a matter of law by not granting appellant, Lisa M. Nardecchia’s Civil Rule 60(B) motion because appellee, Dean L. Nardecchia, did not honestly disclose his income for the calculation of child support in the separation agreement and dissolution and, therefore, committed fraud by not disclosing an amount in excess of $5,000.00 to be factored into said calculation, making the dissolution decree void.”
+{¶ 20} Lisa argues that the domestic relations court should have vacated its final judgment and decree of dissolution because of Dean’s failure to accurately disclose his current income. She argues that Dean underestimated his income by approximately $5,000 and therefore she is entitled to child support in a greater amount than the court ordered.
+{¶ 21} The trial court found that, at best, the evidence indicated that Dean’s annual income, which he originally disclosed to be $75,088, could have been slightly more than $80,000. It found that the difference between the two figures is attributable to payments for comp time and vacation time that Dean had failed to use. The domestic relations court denied Lisa’s Civ.R. 60(B) motion on a finding that this additional income was nonrepetitive and unique to that year.
+{¶ 22} We cannot find that the domestic relation’s court abused its discretion in denying Lisa’s motion on account of this discrepancy. There is evidence that Dean’s additional income was nonrepetitive and unique to the given year. The court’s decision to exclude the amount from his income for purposes of child support calculation is not unreasonable, arbitrary, or unconscionable. Blake-more.
+{¶ 23} The second assignment of error is overruled.
+THIRD ASSIGNMENT OF ERROR
+{¶ 24} “The trial court erred in finding that the appellant, Lisa M. Nardecchia, had signed the final decree of dissolution as it was against the weight of the evidence, therefore, the decree filed January 22, 2002, was void.”
+{¶ 25} The parties signed a separation agreement, but the copy that was filed with their petition for dissolution was not one that Lisa had signed. She does not argue that in its terms the version filed with the court differs from the one she had signed. We fail to see how Lisa was prejudiced by this clerical error.
+{¶ 26} The third assignment of error is overruled.
+Conclusion
+{¶ 27} Having sustained the first assignment of error presented, we reverse the judgment from which this appeal was taken and remand the cause for further proceedings.
+Judgment reversed and cause remanded.
+Brogan and Wolff, JJ., concur.
+. For convenience and clarity, the parties are identified by their first names.
