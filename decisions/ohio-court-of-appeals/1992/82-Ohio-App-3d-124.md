@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5-91-41"
+decided: "1992-08-26"
+citations: ["82 Ohio App. 3d 124"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hadley, P.J., and Shaw, J., concur."]
+parties: ["SOCIETY BANK AND TRUST COMPANY, Appellee, v. ZIGTERMAN et al.; Ohio Citizens Bank, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/82/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679996
+cites_cases: ["132 Ohio St. 71", "135 Ohio St. 275", "14 O.O. 121", "16 Ohio 449", "174 Ohio St. 233", "179 N.E. 362", "188 N.E.2d 587", "20 N.E.2d 527", "22 O.O.2d 248", "40 Ohio App. 302", "450 N.E.2d 1140", "5 N.E.2d 159", "5 OBR 481", "5 Ohio St.3d 217", "50 Ohio St.3d 182", "553 N.E.2d 650", "7 O.O. 195"]
+---
+
+# Society Bank & Trust Co. v. Zigterman
+
+## Majority (Evans, Judge.)
+
+Evans, Judge.
+This is an appeal from a judgment of the Court of Common Pleas of Hancock County denying the motion of defendant, Ohio Citizens Bank, for relief from a default judgment.
+On July 3, 1990, Society Bank & Trust Company, appellee, filed an action for foreclosure of real estate mortgages against Ohio Citizens Bank, appellant, and others who had an interest in certain real properties located in Hancock and Henry Counties. Through its attorney, appellant filed a motion for an extension of time to respond to plaintiffs complaint. However, before appellant filed its answer, appellee filed, along with an amended complaint, a motion for leave to file an amended complaint and to join Federal Home Loan Mortgage Corp. as a party-defendant, and for dismissal of appellant as a party. The amended complaint alleged that Federal Home Loan had taken by assignment the mortgage previously held by Community Bank of Napoleon, appellant’s predecessor in interest and, thus, was the proper party-defendant. The court granted appellee’s motion, allowing the substitution of parties, the dismissal of appellant as a party, and the filing of the amended complaint. The court further ordered that “[n]o additional responsive pleading is required by any existing party.” Neither Federal Home Loan nor appellant filed an answer to the amended complaint.
+The court entered a judgment of foreclosure on January 31, 1991. A default judgment was entered against those defendants who had failed to answer the complaint, and summary judgment was entered against the other defendants. An order of sale was issued on February 6, 1991, and a final order of confirmation and distribution of proceeds was filed on July 26, 1991. As against appellant, the trial court ordered the “release and satisfaction” of its lien as follows:
+“Mortgage to the Community Bank of Napoleon, aka Ohio Citizens Bank, and assigned to Federal Home Loan Mortgage Records, Volume 170, Page 621, Recorder’s Office of Henry County, Ohio, which mortgage is dated September 3, 1975, and is in the original amount of Thirty-Four Thousand Dollars ($34,000.00).”
+The court further ordered that the sale of the Henry County property was “subject to the right of redemption held by the United State [sic] of America,” by virtue of a federal tax lien.
+On August 8, 1991, appellant filed a Civ.R. 60(B) motion for vacation of the default judgment against it, asserting that its mortgage interest had never been assigned to Federal Home Loan and, thus, as the first mortgage holder on the Henry County property, it must have been granted the opportunity to intervene in the foreclosure action before its interest could be terminated by the court. In a lengthy opinion setting forth the facts and procedural history of the foreclosure action, the trial court denied appellant’s motion.
+Appellant timely appealed the court’s denial of its motion, asserting the following assignments of error:
+“I. The trial court erred in not finding that the filing of an amended complaint was an abandonment of the action against appellant Ohio Citizens Bank and finding that Ohio Citizens Bank was required to answer the amended complaint or set up its interest in the real estate.
+“II. The trial court erred in finding that there was [sic] no grounds claimed for setting aside the default under Rule 60(B).”
+Essentially, appellant complains that the court erred in ordering the “release and satisfaction” of its mortgage on the Henry County property when the foreclosure was based upon the petition by a lienor with an interest junior to appellant’s. For the following reasons, we agree with appellant’s contentions, and reverse the judgment of the trial court.
+I
+It has long been the law that a mortgagee with an interest senior to all others is not a necessary party to a foreclosure action initiated by a lienor with an interest acquired subsequent to another’s interest in the same property. See Myers, Fall & Collins v. Hewitt (1847), 16 Ohio 449, 451. Thus, if the senior mortgagee is not a party to the action when sale of the property is ordered, the purchaser at the sheriff’s sale takes the property subject to the interest of the prior mortgagee. See, e.g., Metro. Mtge. Co. v. Nugent Furniture Co. (1931), 40 Ohio App. 302, 306, 179 N.E. 362, 364 (court may not decree foreclosure of an undue first mortgage where mortgagee does not consent; rather, court must grant foreclosure to subsequent lienholder/plaintiff and order the property sold subject to the first mortgage). However, if the senior mortgagee is named as a party-defendant, or intervenes in the action to assert its interest, it receives priority in the distribution of the sale proceeds, even if a junior mortgagee initiated the action.
+In this case, the plaintiff/appellee, Society Bank & Trust, requested the trial court to dismiss appellant as a party to the action. Contrary to the trial court’s assertion that appellant had “never been dismissed by judgment entry,” the record clearly reflects that the court signed a judgment entry dismissing appellant as a party and allowing appellee to file an amended complaint, as follows:
+“For good cause shown, Plaintiff’s Motion for leave to file an Amended Complaint, dismissing Ohio Citizens Bank as a party * * * is hereby granted.”
+The court further held that “[n]o additional responsive pleading is required by any existing party.” Appellant’s attorney was served with a copy of the court’s entry dismissing appellant from the case.
+The law relevant to this case is set forth in Grimm v. Modest (1939), 135 Ohio St. 275, 14 O.O. 121, 20 N.E.2d 527:
+“ ‘[I]t is elementary law that when a party substitutes an amended petition for an earlier one, this constitutes an abandonment of the earlier pleading and a reliance upon the amended one. The earlier pleading becomes functus officio.’ ” Id. at 277, 14 O.O. at 122, 20 N.E.2d at 528, quoting State ex rel. Talaba v. Moreland (1936), 132 Ohio St. 71, 75, 7 O.O. 195, 196, 5 N.E.2d 159, 161.
+The Supreme Court of Ohio later expanded the rule set forth in Grimm and Moreland, declaring that the effect of filing an amended petition omitting a party as defendant was to abandon the action as to that party. Wrinkle v. Trabert (1963), 174 Ohio St. 233, 238, 22 O.O.2d 248, 251, 188 N.E.2d 587, 591.
+We agree with appellant that the court erred in determining that appellant must “be found guilty of sitting on its rights” and thus waived its interest in the property despite the fact that appellant was notified by the court that it was no longer a party to the foreclosure action, and had no obligation to participate further. The trial court abused its discretion in denying appellant’s motion on the grounds stated. See Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 219, 5 OBR 481, 482, 450 N.E.2d 1140, 1142. Once appellant was dismissed from the action and omitted as a party from appellee’s amended complaint, appellant was not a party in the foreclosure action. The first assignment of error is sustained.
+II
+We also find the second assignment of error well taken. Under Civ.R. 60(B)(5), the court should have granted appellant’s motion for relief from judgment. Such relief would be justified on the ground that the court had no authority to adjudicate the rights of a senior lienholder not a party to the action.
+Thus, the court’s judgment against appellant is not only voidable for good cause shown pursuant to Civ.R. 60(B), but also void as having been rendered without the authority to do so. A trial court simply has no jurisdiction to render a judgment against one who was not a party to the action, and a movant against whom such a judgment has been rendered is “entitled to have the judgment vacated.” State ex rel. Ballard v. O’Donnell (1990), 50 Ohio St.3d 182, 184, 553 N.E.2d 650, 652. The second assignment of error is sustained.
+Having found prejudice to appellant in the particulars assigned and argued, we reverse the judgment of the trial court and remand the case to that court for proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Hadley, P.J., and Shaw, J., concur.
+. We note that vacation of the judgment would result in a situation wherein the purchaser of the property at issue owns the property subject to appellant’s mortgage. Such result is surely not prejudicial to one who purchased property at a sheriff’s sale when, as indicated by documents submitted by appellant in support of its motion, the subject mortgage was at all relevant times easily discoverable through a simple title search.
