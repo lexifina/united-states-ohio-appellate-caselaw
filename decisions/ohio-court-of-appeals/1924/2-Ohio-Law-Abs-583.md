@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "4964"
 decided: "1924-03-28"
-citations: ["2 Ohio Law Abs. 583", "2 Ohio Law Abs. 265"]
+citations: ["2 Ohio Law Abs. 583"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
