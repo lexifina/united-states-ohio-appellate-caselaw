@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2105"
+decided: "1950-11-30"
+citations: ["90 Ohio App. 295"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, P. J., Hornbeck and Wiseman, J J., concur."]
+parties: ["Salley, Appellee, v. Wagner et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/90/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1404811
+cites_cases: ["108 Ohio St., 377", "112 N. E., 1013", "140 N. E., 770", "147 Ohio St., 293", "147 Ohio St., 363", "151 Ohio St., 467", "85 Ohio App., 278", "86 Ohio App., 483", "86 Ohio App., 513", "93 Ohio St., 300"]
+---
+
+# Salley v. Wagner
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal on questions of lav/ from the Common Pleas Court of Montgomery County in which court judgment was rendered on a verdict returned in favor of the plaintiff.
+This action was brought against the chief of police and two police officers of the city of Miamisburg and The Ohio Casualty Insurance Company, which wrote their official bonds, to recover damages which plaintiff alleged he sustained by reason of an unlawful arrest and false imprisonment. The case was tried to a jury which returned a general verdict against Arthur Wagner, the chief of police, and The Ohio Casualty Insurance Company in the sum of $1,000, the full amount of the official bond. The jury returned verdicts in favor of the two police officers.
+Defendants, appellants, filed a motion for judgment non obstante veredicto, which was overruled and thereupon judgment was entered on the verdict.
+The two errors assigned are: The trial court erred in overruling the motion for judgment non obstante veredicto based on the answers given by the jury to special interrogatories; and the court erred in entering judgment for the plaintiff upon the general verdict, disregarding the answers to special interrogatories.
+There being no bill of exceptions, the sole question presented is whether the special findings of fact are inconsistent with a general verdict. If the findings are inconsistent with the general verdict the former must control. Section 11420-18, General Code.
+The following special interrogatories submitted by the defendants were answered and returned with the verdict:
+“1. Did chief of police Wagner fail to faithfully perform his duties as the chief of police of the city of Miamisburg, Ohio? Answer: Yes.
+“2. If your answer to special interrogatory No. 1 is no, then do not answer this interrogatory. If it is yes, then answer. In what respect or respects did chief of police Arthur Wagner fail to faithfully perform his duties as chief of police of the city of Miamis-burg, Ohio? Answer: Failed to properly instruct subordinates in performance of their duties according to law.
+“3. Did police officer Edward Dickey fail to faithfully perform his duties as a police officer of the city of Miamisburg, Ohio? Answer: No.”
+Special interrogatory No. 4 was not answered since no answer was required.
+“5. Did police officer Ruff or d Cos fail to faithfully perform his duties as a police officer of the city of Miamisburg, Ohio ? Answer: No. ”
+Special interrogatory No. 6 was not answered since no answer was required.
+The amended petition alleged that The Ohio Casualty Insurance Company bonded the three police officers of the city of Miamisburg and that the undertakings were conditioned that the company would save the city and the public harmless from any wrong or damage done by the principals in such bonds under color of such office and from any failure of such principals to faithfully perform the duties of their offices. The plaintiff then charged the defendant police officers with certain unlawful acts in connection with his arrest and imprisonment, viz., that he was deprived of his liberty unlawfully, that he was imprisoned unlawfully, with force, and without a warrant of commitment, and that during his imprisonment he was deprived of sufficient food, deprived of legal counsel, kept incommunicado, and was subjected to prolonged and repeated questioning and threats of physical violence. It will be observed that there was no charge made that the chief of police failed to properly instruct his subordinates according to law. Even so, the jury found that officers Dickey and Cox did not fail to ’faithfully perform their duties. We are concerned mostly with interrogatories Nos. 1 and' 2. These interrogatories were so framed as to indicate a purpose to test the verdict with respect to the liability of The Ohio Casualty Insurance Company which was liable only if Wagner failed in some way to faithfully perform his duties as alleged.
+It is contended that interrogatories Nos. 1 and 2 were not properly submitted and embrace a question of mixed law and fact. Interrogatory No. 1 unquestionably constitutes a question of mixed law and fact, and this interrogatory was improperly submitted. The answer to this interrogatory may be disregarded. Brier Hill Steel Co. v. Ianakis, 93 Ohio St., 300, 112 N. E., 1013; Master Tire & Rubber Co. v. Lansinger, 108 Ohio St., 377, 140 N. E., 770; 39 Ohio Jurisprudence, 1160, Section 429. While it is true interrogatory No. 2 is predicated upon an affirmative answer to interrogatory No. 1, nevertheless, this interrogatory calls for a special finding upon a particular question of fact. The plaintiff was entitled to have submitted this interrogatory for the purpose of eliciting from the jury a finding of fact on which the general verdict was based, even though it was predicated upon the former interrogatory which called for a finding on a question of mixed law and fact. While it is true the jury had a duty to consider whether Wagner faithfully performed Ms duties as chief of police, nevertheless, the question in its entirety called for a finding of an ultimate fact by requiring the jury to state in what respect or respects Wagner failed to faithfully perform his duties. That this was a proper question to be submitted to the jury is supported by Klever v. Reid Bros. Express, Inc., 151 Ohio St., 467, 477, 86 N. E. (2d), 608; Elio v. Akron Transportation Co., 147 Ohio St., 363, 375, 71 N. E. (2d), 707; Wheeling & Lake Erie Ry. Co. v. Hollywood Cartage Co., 86 Ohio App., 513, 517, 93 N. E. (2d), 708. In those cases it is pointed out that where two questions are propounded, one being a question of mixed law and fact and the other eliciting a finding on specific fact issues though predicated upon the first question, the second question is properly submitted.
+Answering interrogatory No. 2, the jury failed to find the defendant Wagner guilty of any acts charged in the amended petition. We are unable to find that the answer bears any definite relation to any of the factual issues in the case. Since the jury failed to find that such defendant was guilty of any of the unlawful acts alleged in the amended petition, can the general verdict stand? What is the legal effect when the jury, in answer to a question properly submitted, fails to find such defendant guilty of any acts alleged? In Masters v. New York Central Rd. Co., 147 Ohio St., 293, 70 N. E. (2d), 898, the second paragraph of the syllabus is as follows:
+“An interrogatory requiring the jury in a personal injury action, in the event the jury finds the defendant guilty of negligence, to specify the act or acts of negligence is a proper inquiry; and the failure or inability of the ju,ry to find the existence of a claimed act of negligence, in answer to interrogatories so submitted, is equivalent to a finding on such claim of negligence against the party having the burden to establish it.” (Emphasis ours.)
+On page 298, the court, in commenting on this principle of law, said :
+“The reason for the rule is that a special verdict or answers to interrogatories must find facts, and it will be inferred that the failure to find a certain fact is due to the absence or insufficiency of evidence to support it. ”
+The Supreme Court, in Elio v. Akron Transportation Co., supra, reaffirmed this principle of law. See, also, Casanova v. Wagner, 85 Ohio App., 278, 280, 88 N. E. (2d), 312; and Croke v. C. & O. Ry. Co., 86 Ohio App., 483, 492, 93 N. E. (2d), 311. Does the answer to interrogatory No. 2 completely negative the finding of the general verdict that the defendant Wagner was guilty of one or more of the unlawful acts alleged in the petition? We think it does. If the jury fails in its answer to find the defendant guilty of some specific unlawful act alleged in the petition a verdict for the plaintiff is improperly returned and cannot stand.
+The trial court should have sustained the motion for the judgment non obstante veredicto.
+The judgment is reversed and the cause remanded with instructions to sustain the motion.
+Judgment reversed.
+Miller, P. J., Hornbeck and Wiseman, J J., concur.
