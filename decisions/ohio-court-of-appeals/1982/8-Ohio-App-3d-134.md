@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-810885"
+decided: "1982-11-03"
+citations: ["8 Ohio App. 3d 134"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shannon, P.J., Keefe and Black, JJ., concur."]
+parties: ["Schneider et al., Appellants, v. Schneider et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/8/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711416
+cites_cases: ["35 O.O. 172", "38 O.O. 53", "43 Ohio App. 178", "79 Ohio App. 397", "8 Ohio Law Abs. 443", "82 Ohio App. 380"]
+---
+
+# Schneider v. Schneider
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs-appellants, Harold and Joan Schneider, seek relief from the trial court’s final order dismissing their partition suit and assessing costs wholly against them. The pro se brief appears to present a single assignment of error to the effect that this final order was “contrary to the facts and the evidence in this case.” We believe this attempt to state an assignment of error misses the point, and in order to consider the merits of appellants’ claims of error without being diverted by procedural considerations, we deem the assignment of error to be that the final order appealed from was contrary to law. The record is devoid of any evidence of any nature whatsoever, being limited to the journal entries, the original papers and two transcripts containing only the oral arguments of counsel. In other words, we have no “evidence” against which to review the order appealed from.
+The issues that we discern in the brief and in oral argument are whether the court erred (1) in dismissing the partition suit, (2) in assessing the costs against appellants, and (3) in failing to order the next higher bidder at the partition sale to purchase the real estate. For the reasons explained below, we find no merit in any of these claims.
+Although limited to the sparse record, we can make out certain basic procedural acts. The appellants brought the partition suit against the other owners of undivided interests in certain property. Finding that appellant Harold Schneider held an undivided interest and was entitled to partition, the court issued a writ of partition. The commissioners found division could not be made without manifest injury to the value of the property and appraised it at $216,000. The court ordered the property to be sold at auction, with the purchase money to be paid in full in cash on day of sale, a provision concurred in by appellants’ counsel. Appellants asked for and obtained authority to advertise the sale in addition to the notices normally run in the Court Index, the additional cost to be added to the costs of the suit. The property was duly bid in by Joan Schneider at $211,100. Finding she was the highest bidder, the court ordered her to close the purchase, but she failed or refused to do so. More than four months after the auction, appellees having meanwhile moved for an order finding Joan Schneider in contempt, the court entered its final order dismissing the partition suit at plaintiffs’ cost.
+Appellants claim that the cotenants failed and refused to furnish the true net income from the property (although they concede the cotenancy had existed since 1963), that if Joan Schneider had known the true income, she would not have raised Julian Schneider’s bid by $100 thereby making the highest bid of $211,100, that she should be released from her bid, that Julian Schneider should be ordered to buy the property for $211,000, and that assessment of all costs against appellants was not warranted. We disagree.
+It is clear beyond doubt that Joan Schneider committed contempt of court, in the first instance, when without just cause she failed or refused to complete the purchase to which she was obligated by acceptance of her bid, and in the second instance, when without just cause she failed or refused to carry out the direct order of the court to close the purchase. R.C. 2329.30; see Beach v. Beach (1946), 79 Ohio App. 397 [35 O.O. 172]; Bloomberg v. Roach (1930), 43 Ohio App. 178. Joan Schneider asserts she had just cause to ignore her obligations by reason of misrepresentations made to her by Julian Schneider about the income from the property. We hold that appellants have not established just cause because the record is devoid of any evidence whatsoever tending to prove what representations were made, whether they were false and in what respect, and whether prejudicial reliance was made on them. We find claims and counterclaims about what was communicated concerning gross and net income from the property, but these are found in statements or arguments of counsel, not in any material of an eviden-tiary nature. Further, we are not convinced that even if these representations were made, appellants had the right to rely on them, considering other sources of information available to them about the income from the property; nor are we convinced that under the circumstances disclosed by the record, misinformation furnished by a third party could legally excuse Joan Schneider from her responsibility to the court to carry out the obligations generated by her highest bid at the judicial sale.
+Since Joan Schneider was obligated to close the purchase, the next bidder, Julian Schneider, had no liability. The court did not err in refusing to order him to close the purchase at $211,000.
+Being in contempt of court, Joan Schneider was subject to such sanctions, including incarceration, as the court in its discretion might determine. The dismissal of the partition suit in which she was a plaintiff was clearly within the court’s power. It appears to be among the mildest of sanctions, and it was not, in our judgment, an abuse of discretion.
+The apportionment of costs among the parties is not fixed by law, but under R.C. 5307.25, it is reposed in the discretion of the trial court. The court must take into consideration the benefits to the various parties and decide the issue “according to equity.” See Foureman v. Foureman (1947), 82 Ohio App. 380 [38 O.O. 53]; Hoefner v. Korach (1930), 8 Ohio Law Abs. 443. We find no abuse of discretion in the court’s ordering appellants to pay all the costs. Appellants initiated the partition suit and the extra advertising, Joan Schneider brought the partition to a halt by failing or refusing to close the sale, and the other cotenants derived no benefits whatsoever from the litigation.
+We find no error.
+The single assignment of error has no merit. The judgment below is affirmed.
+Judgment affirmed.
+Shannon, P.J., Keefe and Black, JJ., concur.
+The first brief, filed on March 26, 1982, was sua sponte stricken from the record for failure to comply with court rules.
+The claim is that the gross income was overstated by about $7,500 and that when the true gross income was known, Joan Schneider’s financial backers refused to proceed with their alleged commitments.
+R.C. 5307.25 reads in full as follows:
+“Having regard to the interest of the parties, the benefit each may derive from a partition, and according to equity, the court of common pleas shall tax the costs and expenses which accrue in the action, including reasonable counsel fees, which must be paid to plaintiff’s counsel unless the court awards some part thereof to other counsel for services in the case for the common benefit of all the parties; and execution may issue therefor as in other cases.”
