@@ -1,0 +1,75 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-10-27"
+citations: ["16 Ohio Law Abs. 17"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["FARR and POLLOCK, JJ, concur in the judgment."]
+parties: ["DAIRYMENS’ CO-OPERATIVE SALES CO, INC v FREDERICK DAIRY CO, INC, et"]
+source_url: "https://static.case.law/ohio-law-abs/16/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655106
+cites_cases: ["100 Oh St, 285", "106 Oh St, 469", "110 Oh St, 388", "116 NE, 452", "126 NE, 291", "140 NE, 376", "31 Oh St, 1", "95 Oh St, 333"]
+---
+
+# Dairymens' Co-Operative Sales Co. v. Frederick Dairy Co.
+
+## Majority (By ROBERTS, J.)
+
+OPINION
+By ROBERTS, J.
+It is the contention, generally speaking, of counsel for the motion that the ordering of a sale or the confirming of a sale of property by the receiver is not a final order upon which error can be prosecuted. Attention will be called first to §12258 GC:
+“What is a final order. An order affecting a substantial right in an action when in effect it determines the action and prevents a judgment, and an order affecting a substantial right made in a special proceeding or upon a summary application in an action after judgment, is a final order which may be vacated, modified or reversed, as provided in this title.”
+Difference of opinion has arisen in numerous actions as to the proper construction of this section of the Code. Calling attention now to the case of Thompson et v denton, 95 Oh St, 333, the syllabus reads as follows:
+“Under the provisions of §6, Article IV of the Constitution of Ohio, an appeal will lie to the Court of Appeals from an order of the Court of Common Pleas fixing fully and finally the compensation for the services of a receiver in a chancery case.”
+That is read now principally for the purpose of tracing decisions of the Supreme Court upon this subject, and now calling attention to the fact that so far as the syllabus is concerned that proposition has been in effect reversed by the Supreme Court itself in a. later case. This was a case in which an action was brought for equitable relief, asking that a receiver be appointed to take charge of and manage the property and assets of the corporation, and second, that the court administer as a trust fund the property and assets of the corporation. It is said in the opinion, on page 334:
+“Thereafter the court to which application was thus made appointed Elroy C. Denton as such receiver, who proceeded to administer the trust, and, after conducting the business as a going concern for nearly a year, sold the assets then remaining, consisting largely of merchandise, to B. W. Jones, which sale was confirmed by the court on May 10, 1915.”
+It is sufficient to say that this case finally reached the Supreme Court upon the proposition as to whether error or appeal could be prosecuted from the judgment of the Court of Common Pleas ordering a sale of property in the receiver’s hands. The Supreme Court several times had held that the appointment and the discharge of the receiver were final orders upon which error might be prosecuted, but whether an order made by a court, interlocutory in its nature, directing the receiver to do certain things in the administration of his trust, for instance to sell property, is a final order or not, had not previously been determined by the Supreme Court.
+This case, however, more particularly came up upon the proposition of whether a final order was involved in- the order of the court to the receiver to pay certain compensation for services. In the opinion it is said, on page 335:
+“From this order Jones, together with certain other parties, appealed to the Court of Appeals. Motion was made by appellee Denton to dismiss the appeal on the ground that the Court of Appeals was without jurisdiction to entertain an appeal from such an order in such a case. The Court of Appeals sustained the motion and dismissed the appeal. From this judgment error is prosecuted to the Supreme Court of Ohio, appellants coming as a matter of right, since the case involves a question arising under the constitution of the state of Ohio.
+There is but a single question in this case, important as it is: Under favor of that part of §6, Article IV, of our Constitution, which provides that Courts of Appeals shall have ‘appellate jurisdiction in the trial of chancery cases’, does an appeal lie from an order of the kind entered May 22, 1915, fixing the compensation of the receiver.’’
+Omitting a part of the opinion and then quoting from Page 336:
+“The case in hand is not fraught with the difficulty encountered in Wagner v Armstrong et, supra, for here the case is undoubtedly one of chancery origin.”
+And what the court then says so far as this being a chancery case should be recollected and considered in with what the Supreme Court has said in the other case.,
+“The' relief sought, the manner of the administration of the trust, the entire proceedings had in the Court of Common Pleas, were all of an equitable nature.”
+Reading from page 339:
+“It would certainly require no argument to support the position of plaintiffs in error that some right of, review should be vouchsafed them in a matter of this importance. If it were to be held that the order in question is not a final order from which appeal will lie — and if it be hereafter held that error could not be prosecuted from the same order for the same reason — then we are making this very final order, conclusive and forever binding by the very act of holding that it is not final.
+In this connection attention should be directed to the fact that counsel for defendant in error in their brief inferentiaily contend just as earnestly that error does not lie from the allowance of compensation to a receiver, as they do that there can be no appeal. It is their contention that the order in question is neither a judgment nor a final order.”
+What the court there said is peculiarly pertinent to the present issue. The Common Pleas Court ordered a sale of the entire assets of this dairy company. If that was not an order from which appeal or error could be prosecuted, nothing could be done, and the administration of the estate would thereafter follow to whatever final determination might be reached, and if, as a matter of fact, the sale should not have been made and this remained by subsequent developments, it would then be absolutely too late to remedy the error or the damage which might be done. That is to say, if there is any right to determine the legality or propriety of the sale to this purchaser, it necessarily must come through the exercise of such right following such action and before the further progress of the case.
+On page 343 the opinion terminates as follows:
+“If the receiver was not, in the larger sense, a party to the action, then’the creditors had no representative in court. It is the more rational view, we think, that ho was very much in court, the very arm of the court, and the representative of creditors, the alter ego of the company itself.
+The judgment of the Court of Appeals is reversed and the cause is remanded to that court with instruction to overrule the motion to dismiss the appeal.”
+Turning now to the ease of Packing Company v State ex, 100 Oh St, 285, it is not necessary to make any particular statement concerning the nature of this case. It is sufficient to say that it was an action under the Valentine Anti-Trust Law, and so far as what might be involved in the real issue itself is not important. However, commencing with paragraph 3 of the syllabus, the following appears:
+“Where it appears that articles of food have been held in cold storage by arrangement or contract between two or more parties for such period that the sale by the owner is prohibited by the provisions of the Cold Storage Act, such act constitutes a violation of the rerms of the Valentine Act Anti-Trust Law.”
+Paragraph 4:
+“In such case the court may enjoin the sale by the offending party of such food products, and may appoint a receiver to take and hold same, and if it, deems it best for all concerned, may order the receiver to sell them in such manner as may be just and as the court may prescribe.”
+Paragraph 5:
+“An order so made in such a proceeding is a judgment under the Constitution, which may be made the predicate of a proceeding in error.”
+It- may be observed that in this case we have the precise proposition involved as in the instant case; that is, whether a proceeding in error may be had against an order of the court ordering the sale of property in the hands of a receiver. Perhaps I should read a little from the opinion commencing on page- 286, with regard to the nature of the action:
+“The action is one for injunction, the appointment of a receiver, and other equitable relief.”
+Reading from page 289:
+“The Court of Common Pleas granted an injunction restraining the delivery of the pork to the Packing Company, and restraining the Packing Company from offering any part thereof for sale. It also appointed a receiver to take charge of the property. The defendant companies filed motions to discharge the order of injunction and to remove the receiver. At the hearing of these motions, all of the pleadings were introduced in evidence, together with certain affidavits. The court overruled the motions and thereafter issued its order to the receiver to sell the property without delay. Exceptions were taken by the defendant companies, and error was prosecuted to the Court of Appeals of Franklin County. Here with slight modification the judgment was affirmed. Proceedings in error were forthwith prosecuted to the Supreme Court.”
+The same circumstances and conditions that we have in the. case under consideration. Turning now to the case of Forest City Investment Co. v Haas, 110 Oh St, 388, the syllabus reads as follows:
+“An order appointing a receiver is an order affecting a substantial right made in a special proceeding and is a ‘final order’ ■within the meaning of §12258 GC. (Cincinnati, Sandusky & Cleveland Railway Company v Sloan, 31 Oh St, 1, followed and approved) .
+A proceeding for the appointment of a receiver does not constitute a chancery case within the purview of §6, Article IV, of the Ohio Constitution as amended in 1912.
+(Thompson v Denton, 95 Oh St, 333 overruled) .
+It will be remembered that Thompson v Denton was the first Supreme Court decision from which we read, and in that rhe court held that an issue such as is under consideration was both subject to appeal and error proceedings. So far as the appeal is concerned, that part of the Thompson v Denton case is now overruled.
+Reading further from the. syllabus:
+“Such an oisder is a judgment which may be reviewed by the Court of Appeals on error but not .on appeal.”
+And it will be remembered that the issue in this case is to dismiss an attempted error proceeding. As this is the last declaration of the Supreme Court on this proposition, so far as observed, we will indulge in a reading .of a part of the opinion, commencing on page 190:
+“Two questions are presented by this record: First, was the order appointing the receiver a final order; second, if so, was that order appealable?
+In our state the legislature has defined the term ‘final order.’ §12258, GC, includes within that definition ‘an order affecting a substantial right made in a special proceeding.’ Unless this court concludes to reverse the case of Cincinnati, Sandusky & Cleveland Rd. Co. v Sloan, 31 Oh St, 1, we must reach the conclusion that an order appointing or removing a receiver is a ‘final order’ within the meaning of §12258, GC. The second paragraph of the syllabus in the Sloan case holds:
+‘Proceedings in relation to the appointment and removal of receivers are special proceedings, under §512 '(§12258 GC) of the Code; and an order affecting a substantial right made in such proceeding, is a final order within the meaning of said section.”
+There the court held that such orders were reviewable on error, citing a considerable number of cases.
+Reading again from page 191:
+“While the case of Packing Company v State ex, 100 Oh St, 285; 126 NE, 291, was later considered by this court in Packing Company v State, 106 Oh St, 469, 140 NE, 376, and overruled in part, the holding of the court in the prior case that an order similar in character to this was a final order, and therefore reviewable, was not in fact disturbed by this court in the later case.”
+Reading from page 192:
+“In Railroad Company v Sloan, supra, Mr. Justice White comments at length upon the subject. He states that the appointment of a receiver is equivalent to an equitable execution upon a debtor’s property. It is the duty of the courts to exercise, and no doubt they do exercise, unless in exceptional cases, the greatest care and caution in the appointment of receivers. The appointment is ancillary to the main action. The appointee is an officer of the court, his possession the possession of the court, and the appointment is made in order to conserve the interests of the litigants with respect to the property in custodia legis.
+This court is therefore of the opinion that the order appointing the receiver was a ‘final order’ within the meaning of §12253, GC, and that the same was a ‘judgment’ reviewable on error in the Court of Appeals.”
+The court on page 194 refers to the case of Thompson-v Denton as follows:
+“The decision of Thompson v Denton, 95 Oh St, 333, 116 NE, 452, is at variance with the principle here announced. In the course of the opinion in that case it seems that the court was there concerned as to whether error or appeal would lie from final orders made in special proceedings; and whether, if both were denied, litigants would thereby be deprived of a right to judicial review. Counsel had contended that neither error nor appeal could be taken from a final order.” • .
+The opinion concludes with this paragraph:
+“We are therefore of the opinion that the proceedings for the appointment or removal of a receiver do not constitute a chancery case within the purview of- our Constitution, and that the Court of Appeals did not err in dismissing the appeal from the order appointing the receiver.”
+So we find the attitude of the Supreme Court upon this issue to the effect that while it formerly held in the 95th Oh Sc that the appointing'or removal of a receiver or confirmation of an order of sale made by the receiver were both subject to appeal and error, that such a proceeding is now held by the Supreme Court not to be a chancery matter, but it still adheres uniformly through these cases to the proposition that it is a final order or judgment and subject to review upon error. Now, that was the precise proposition involved in this case, a motion filed to dismiss the petition in error but upon the order or judgment of the Court of Common Pleas ordering or affirming the sale of the assets of the property. It follows that this motion should be overruled.
+FARR and POLLOCK, JJ, concur in the judgment.
