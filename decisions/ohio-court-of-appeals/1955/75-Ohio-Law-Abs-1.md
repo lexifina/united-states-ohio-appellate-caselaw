@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+docket: "734"
+decided: "1955-12-12"
+citations: ["75 Ohio Law Abs. 1"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["NICHOLS and GRIFFITH, JJ, concur."]
+parties: ["SHEPARD, Admrx., Plaintiff-Appellant, v. ESPY et, Defendants-Appellees."]
+source_url: "https://static.case.law/ohio-law-abs/75/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1788699
+cites_cases: ["133 Pacific 1169", "33 Oh St 533", "41 Oh St 232", "58 Oh St 123", "86 Oh St 213"]
+---
+
+# Shepard v. Espy
+
+## Majority (By PHILLIPS, PJ.)
+
+OPINION
+By PHILLIPS, PJ.
+Paul F. Karns, a bachelor, called decedent, lived as husband and wife with defendant Espy, whom he allegedly knew was the legal wife of another man, and who was named as beneficiary in a policy of insurance issued upon decedent’s life at his request by defendant insurance company, a corporation. That policy of insurance was in full force and effect at the time of his death five months later, when defendant insurance company paid the proceeds thereof to defendant Espy, at which time it allegedly knew the marital status of defendant Espy.
+Plaintiff, administratrix of decedent’s estate, sued defendant in the court of common pleas to have defendant Espy declared a constructive trustee of the proceeds of such policy for the benefit of decedent’s estate, and that she be ordered:—
+“* * * to pay such proceeds as she has received to the plaintiff as administratrix of the estate of Paul F. Karns, or in the alternative, that the defendant, Knights Life Insurance Company of America be ordered to pay plaintiff herein the amount so wrongly paid by it to the defendant, Alice Espy.”
+Defendants separately demurred to plaintiff’s petition (the allegations of which as applicable are set forth hereinafter herein) claiming that since decedent had an insurable interest in his own life and could insure it for the benefit of any person the facts stated in plaintiff’s petition do not state a cause of action against defendant.
+The pertinent allegations of plaintiff’s petition are as follows:—
+“* * * Plaintiff further says that her decedent, Paul P. Karns, during his lifetime resided with the defendant, Alice Espy, at the address herein set forth. The deceased and Alice Espy held themselves out as husband and wife, when in fact they were not, and could not be husband and wife because Alice Espy was at that time intermarried with another man.
+“Plaintiff further says that the defendant, Alice Espy, through this unlawful, irregular and immoral relationship did induce the decedent to purchase said policy of life insurance upon his life in the Knights Life Insurance Company of America, defendant herein, naming her beneficiary. Said statements being wilfully and fraudulently false and made with intent to deceive and mislead the company and were material as to the matter of inducing the company to issue the policy.
+“Defendant, Alice Espy, caused herself to be named as ‘Alice Karns, wife,’ and represented to the insurer after his decease that she was the wife of said Paul F. Karns, when in truth and in fact she was not.
+“The plaintiff further says that the insurer, Knights Life Insurance Company of America, who is made defendant herein, did issue the policy of insurance upon the life of the deceased, naming as beneficiary ‘Alice Karns, wife.’ Upon the death of Paul F. Karns, the defendant insurer became cognizant of the true facts as to this contract of insurance, but did, nonetheless, pay to the defendant, Alice Espy, the proceeds of this policy.
+“The decedent died June 20, 1955, in a construction accident, while working for Hoopes Construction on a sewer project in the City of Salem, Ohio.
+“* * * and that she be ordered to pay such proceeds as she has received to the plaintiff as administratrix of the estate of Paul F. Karns, or in the alternative, that the defendant, Knights Life Insurance Company of America be ordered to pay plaintiff herein the amount so wrongly paid by it to the defendant, Alice Espy.”
+The trial judge sustained both demurrers and entered judgment for defendants, and from that judgment plaintiff appealed to this court on questions of law and fact. The appeal was improperly appealed as one on questions of law and fact, and it appearing that a bill of exceptions was duly filed the appeal was retained, submitted, argued, and will be determined as one on questions of law only.
+By first assigned ground of error plaintiff contends:—
+“Where the beneficiary and the insured of a policy of life insurance willfully and fraudulently misrepresent a material fact to the insurer, i. e. that they are husband and wife, and when such policy of insurance would not have been issued but for such misrepresentation, it is error for the court to sustain a demurrer to the petition alleging such facts, on the ground that the beneficiary had an insurable interest in the life of the insured.”
+By the second assigned ground of error plaintiff contends:—
+“Where the insured of a policy of life insurance is induced to enter the transaction upon an immoral and unlawful consideration, it is error for the court to sustain a demurrer to the petition alleging such facts, on the ground that there was an insurable interest.”
+“It seems to be conceded by counsel on both sides that under the laws of Ohio a person may, in good faith, insure his own life for the benefit of any one whom he may choose, though not related to him by blood or marriage, and that such insurance so procured is not invalid as being against public policy.” Schmidt, Admx. v. Prudential Insurance Company, 37 Oh Ap 258 at 260.
+“The relations of the parties to a contract of insurance are contractual, and, consequently, must be determined by its terms, * * *. If such contracts are not to be enforced as written, they might as well not be written at all. Accordingly, an insurance company is liable according to the terms and provisions of its contract and not otherwise; * * 22 O. Jur., Section 174, Page 330.
+“Policies of insurance should be construed, like other contracts, so as to give effect to the intention and express language of the parties, the general rule being that the intent is to be obtained, in the first instance, from the language of the entire policy considered as a whole in connection with the risk or subject-matter. * * *.” 22 O. Jur., Section 175, Page 332.
+“A party cannot, for his own benefit, insist upon the performance of a contract between others and to which he is not a party or privy; nor claim relief against either of the parties to such contract, for investments or improvements he may have made on the assumption that the contract would be observed.” Vought v. The Columbus, Hocking Valley & Athens R. R. Co., 58 Oh St 123.
+“One not a party to a life policy in force, can not avoid it for fraud, nor recover back the premiums paid thereon, although he caused the policy to be effected and paid the premiums.” United States Life Insurance Company v. Frank H. Wright, 33 Oh St 533.
+In the case of Mutual Benefit Life Ins. Co. of Newark, N. J. v. Cummings, et al, 133 Pacific 1169, plaintiff on the 5th day of May, 1911, issued a policy of insurance on the life of Harry A. Cummings payable on his death to “Evelyn M. Cummings, his wife.” Harry A. Cummings died on the 23rd day of August, 1911. Everlyn Cummings, who lived with decedent during his life as his wife, claimed the proceeds of such policy of insurance, as did his legal wife Sophia J. Cummings. In deciding to whom the proceeds of such policy of insurance should be paid the court said:—
+“In a contest between claimants to a life policy, evidence held to show that the insured intended that the proceeds should be paid to his mistress instead of his legal wife; the policy having named the mistress as beneficiary, though designating her as ‘wife.’
+“A person may adopt or assume a different name from his true one and carry on business and make contracts under the fictitious name.
+“Where a man, who had deserted his lawful wife and was living and cohabiting with another woman, took out a policy in the latter’s favor, designating her as ‘wife,’ the contract being wholly made for her benefit, she is entitled to the proceeds of the policy as against insured’s true wife, for a person may insure his own life in favor of one having no insurable interest in his life; the fact that the beneficiary was named as his wife, and had adopted his surname not affecting her rights, for a person may adopt a fictitious name.”
+In the body of the opinion written in the case the court said:—
+“The policy is a contract and should be so construed as to effectuate the intention of the parties to it. * * *
+“It is the settled law of this country that a person has a right to insure his own life and have the money made payable to any person whom he may desire, whether such beneficiary has an insurable interest in his life or not. * * *
+“The living together as husband and wife of the deceased and the beneficiary, while the deceased had a wife living, was an act of gross immorality that cannot be too strongly condemned, but this illicit relation between them did not incapacitate him to make a valid contract of insurance upon his life for the benefit of his reputed wife. If he had made her a present of $2,000, the gift would have been valid as to all the world, excepting his creditors. A man or a woman, being of lawful age and compos mentis, has power to give all his or her property to his or her paramour, and no one but the creditors of the person making such a gift can successfully contest the validity thereof. The immoral relation between the parties does not vitiate their contract or gift. * * *
+“It is our duty to construe the policy so as to effectuate the intention of the insured and the company that issued the policy. It is morally certain that the parties to this contract intended that the proceeds of the policy should be paid to Evelyn M. and not to Sophia J.”
+Defendants’ demurrers to plaintiff’s petition admit as true all well pleaded allegations thereof, which brings the facts in the case under review under control of the case of Mutual Benefit Life Insurance Company v. Cummings, and other cases cited supra.
+The evidence reveals no interest of plaintiff administratrix, or those she represents, in the contract between defendant insurance company and deceased Karns, and in our opinion plaintiff’s petition does not state a cause of action against defendants.
+By paying defendant Espy the proceeds of the policy of insurance it issued to decedent defendant insurance company voluntarily waived any defense it might have had against her claim and performed the terms of the policy of insurance and paid defendant Espy the proceeds of such policy.
+False representations, if any, furnished the defendant insurance company by deceased concerning the relationship between decedent and defendant Espy were immaterial to the contract for the reason decedent had an insurable interest in his own life and was privileged to insure his life for the benefit of any one he chose, including his mistress. See Eckel v. Renner, 41 Oh St 232; Keckley v. Coshocton Glass Company, 86 Oh St 213, paragraphs 4 and 5 of the syllabus; Schmidt v. Prudential Ins. Co., 37 Oh Ap 258; Pierce v. Metropolitan Life Ins. Co., 46 Oh Ap 36; and Rakestraw v. City of Cincinnati, 69 Oh Ap 504.
+In our opinion defendants’ demurrers were properly sustained by the trial judge, and the judgment of the trial court must be and is affirmed hereby.
+NICHOLS and GRIFFITH, JJ, concur.
