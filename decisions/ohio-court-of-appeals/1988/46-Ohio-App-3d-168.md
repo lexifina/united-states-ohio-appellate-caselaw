@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "54118"
+decided: "1988-03-28"
+citations: ["46 Ohio App. 3d 168"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Patton and Dyke, JJ., concur."]
+parties: ["Mathis et al., Appellants, v. Cleveland Public Library, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/46/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6710197
+cites_cases: ["13 Ohio App. 2d 67", "16 OBR 391", "16 Ohio App. 3d 342", "181 So. 2d 426", "183 So. 2d 653", "184 N.E. 2d 115", "19 O.O. 2d 446", "233 N.E. 2d 876", "248 La. 1033", "319 N.E. 2d 218", "40 Ohio App. 2d 273", "42 O.O. 2d 147", "459 N.E. 2d 877", "476 N.E. 2d 388", "69 O.O. 2d 259", "84 A.L.R. 3d 826", "9 OBR 511", "9 Ohio St. 3d 199"]
+---
+
+# Mathis v. Cleveland Public Library
+
+## Majority (Nahra, C.J.)
+
+Nahra, C.J.
+Appellants, Kevin Mathis, a minor, and Juanita Mathis, Kevin’s mother, appeal the order of the trial court granting summary judgment in favor of appellee, the Cleveland Public Library (hereinafter the “library”).
+On January 7, 1980, eight-year-old Kevin Mathis was struck by an automobile as he attempted' to cross Baldwin Avenue, a four-lane residential street, in front of a parked bookmobile owned and operated by the library. Appellants filed suit on March 12, 1980, and following years of litigation on various issues, the library moved for summary judgment. Both parties filed several briefs with eviden-tiary material, including affidavits and deposition testimony, the substance of which will be discussed as necessary under appellants’ assignments of error. The trial court granted summary judgment in favor of the library and appellants timely appealed.
+I
+Appellants’ first argument is that:
+“The trial court erred in granting summary judgment where the evidence demonstrated that the appellee was negligent in failing to undertake positive safety steps to protect young children who were drawn to the ap-pellee’s bookmobile.”
+Appellants contend that a jury must decide whether the library failed to exercise ordinary care for the safety of its patrons by parking its bookmobile at the curb on the street. Specifically appellants argue that the library was negligent by failing to institute precautionary measures, such as requiring off-street parking or the use of signs and/or flashing lights as suggested by appellants’ expert and as suggested by various courts for ice cream street vendors, see, e.g., Thomas v. Goodies Ice Cream Co. (1968), 13 Ohio App. 2d 67, 69, 42 O.O. 2d 147, 148, 233 N.E. 2d 876, 878. Ap-pellee maintains that the library’s conduct was not negligent.
+The accident in this case is most unfortunate, but the fact that it occurred does not necessarily mean that someone was at fault and is liable. The bookmobile was legally parked at the curb on a residential street. Although an issue of fact may exist as to whether Kevin attempted to use the bookmobile on January 7, as a matter of law we are unwilling to impose a duty on the library to protect its patrons, or others, from all conceivable hazards, including normal traffic. Warnings such as flashing lights or signs would not have assisted in preventing this accident because the driver of the automobile was well aware of the bookmobile and was traveling at about twenty m.p.h., a speed required for traffic in school zones. Parking near a crosswalk or in private lots would pose the same risk to a child who darted across a street from between parked cars. This accident might have been avoided had a guard been posted to control traffic to assist wherever and whenever the bookmobile parked. This, we believe, is extending the duty of ordinary care to an unreasonable extreme.
+The issue of whether an ice cream truck street vendor would be negligent in similar circumstances has not been decided in this jurisdiction. A bookmobile, however, is not analogous to the ice cream street vendor characterized as a “modern Pied Piper” by the Court of Appeals for Summit County in Roberts v. American Brewed Coffee (1973), 40 Ohio App. 2d 273, 275, 69 O.O. 2d 259, 260, 319 N.E. 2d 218, 220. A bookmobile does not actively attract very young children to its premises by playing music and/or ringing bells. More significantly, the bookmobile makes regular weekly stops and remains stationary for a long period of time, unlike the ice cream vendor who moves continuously in the street and only stops when a customer signals thus increasing the urgency to appear at the vendor’s truck. A legally parked bookmobile that is stationary for a period of time at the curb on a residential street is more akin to an ice cream store. Although the store may be attractive to children, no duty exists to protect these children from the hazards of moving traffic while they are crossing the street to reach or leave the store.
+Since we are unable to discern any negligent act or omission on the part of the library in parking its bookmobile at the curb on Baldwin Avenue, the trial court did not err in granting summary judgment in favor of the library. Accordingly, this assignment of error is overruled.
+II
+Appellants’ last argument is that:
+“The trial court erred in finding that the attractive nuisance doctrine provides a proper basis for granting ■appellee’s motion for summary judgment.”
+Although the library first argued for summary judgment based upon the attractive nuisance doctrine, other reasons were eventually set forth in the extensive briefing that followed the library’s initial motion. The record, however, is silent as to why the court granted the library’s summary judgment motion and this court will not engage in speculation as to why the court ruled the way it did. Even if the court’s reasoning were incorrect, that would not control the disposition of the case on appeal and would be immaterial if the ruling were correct. State, ex rel. Ohio Assn. of Pub. School Emp., Chapter 561, v. Orange City School Dist. Bd. of Edn. (Mar. 29, 1984), Cuyahoga App. No. 47242, unreported. This assignment of error is overruled.
+Judgment affirmed.
+Patton and Dyke, JJ., concur.
+See Mathis v. Cleveland Public Library (1984), 9 Ohio St. 3d 199, 9 OBR 511, 459 N.E. 2d 877, affirming in part and reversing in part (Oct. 28,1982), Cuyahoga App. No. 44570, unreported.
+Appellants have failed to raise their assignments of error properly. See, generally, North Coast Cookies, Inc. v. Sweet Temptations, Inc. (1984), 16 Ohio App. 3d 342,16 OBR 391, 476 N.E. 2d 388. However, we will address the issues on the merits and refer counsel to App. R. 12(A), App. R. 16(A)(2) and Loe. App. R. 6(2) for compliance in the future.
+Kevin’s mother testified in her affidavit that Kevin regularly used the bookmobile. However, the driver of the bookmobile testified that (1) it took three to five minutes to prepare the bookmobile for its patrons after parking; (2) the accident occurred approximately fifteen to twenty minutes after he parked the vehicle; and (3) Kevin was not on the bookmobile on January 7. The driver of the automobile which struck Kevin testified that Kevin was running across the street away from the side of the street where he lived and where the bookmobile was parked and in the direction of the playground and recreation center on the opposite side of Baldwin Avenue.
+Views on this issue vary. Compare Roberts v. American Brewed Coffee (1973), 40 Ohio App. 2d 273, 69 O.O. 2d 259, 319 N.E. 2d 218, and Thomas v. Goodies Ice Cream Co. (1968), 13 Ohio App. 2d 67, 42 O.O. 2d 147, 233 N.E. 2d 876 (cause of action against vendor upheld) with Goff v. Carlina (La. App. 1965), 181 So. 2d 426, writ refused (1966), 248 La. 1033, 183 So. 2d 653 (vendor not negligent) and Sidders v. Mobile Softee, Inc. (App. 1961), 19 O.O. 2d 446, 184 N.E. 2d 115 (negligence lawsuit against vendor failed to state a cause of action); see, generally, Annotation, Civil Liability of Mobile Vendor for Attracting Into Street Child Injured by Another’s Motor Vehicle (1978), 84 A.L.R. 3d 826.
