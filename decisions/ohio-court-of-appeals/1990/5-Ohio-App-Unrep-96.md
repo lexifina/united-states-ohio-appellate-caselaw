@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. L-89-211"
+decided: "1990-07-13"
+citations: ["5 Ohio App. Unrep. 96", "5 AOA 96"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HANDWORK, P.J., RESNICK, J., concur.", "ABOOD, J., dissents"]
+parties: ["In the Matter of Pullen"]
+source_url: "https://static.case.law/ohio-app-unrep/5/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1616378
+cites_cases: ["29 O.O. 347", "29 Ohio App. 114", "42 Ohio App. 540", "66 Ohio App. 242", "88 Ohio Law Abs. 10"]
+---
+
+# In re Pullen
+
+## Majority
+
+This matter is before the court on appeal from the December 6, 1988 judgment of the Lucas County Court of Common Pleas, Juvenile Division, as supplemented by findings of fact and conclusions of law filed June 16, 1989.
+Appellant, Sandra Jo Lambright, initiated this case under R.C. 3115.32 by filing a Notice of Registration of a Foreign Support Order. The court originally dismissed the action on the ground that it lacked jurisdiction. However, that judgment was reversed by this court on a prior appeal, and the case was remanded for further proceedings.
+After an evidentiary hearing, the court found that appellee, Donald Pullen, owed appellant $2,685 in support arrearages. On appeal, appellant challenges the amount of the arrearage asserting the following two assignments of error:
+"L THE TRIAL COURT ERRED AS A MATTER OF LAW IN FINDING THAT RESPONDENT'S PAYMENT OF $1,965.00 TO A THIRD PARTY SHOULD BE CREDITED AGAINST RESPONDENT’S CHILD SUPPORT ARREARAGE.
+"II. THE TRIAL COURT’S FINDING THAT RESPONDENT PAID $4,000.00 DIRECTLY TO PETITIONER, RECEIPTS FOR WHICH WERE DESTROYED IN A FIRE, IS AGAINST THE MANIFEST WEIGHT OF THE EVIDENCE."
+The court was presented with the following evidence. Appellant presented, as proof of the arrearage, two affidavits signed by her. She attested that appellee initially paid $350 directly to the court as support payments, that she had received $2,250 directly from appellee from September 27,1980, through February 27,1982, and that she had received no other payments from appellee. She also attested that appellee owed $8,650 in back support as of March 25, 1987, the date of the child's emancipation. Appellee testified that he had also paid $1,965 directly to a dentist, at appellant's request, for braces for the child. He further stated that he had paid $4 ,000-$5,000 directly to appellant, at her request, during the 1970s. Appellee's present wife testified that appellee had periodically sent money to the daughter since 1981. Appellee also testified that he was unable to produce any documentation regarding the payments in the 1970s because his receipts had been destroyed in a 1984 fire.
+Following the hearing, the court awarded appellant accrued child support in the amount of $2,685. The court calculated the total amount of supportdue as$ll,250. The court then deducted $350 paid through the court, $2,250 paid directly to appellant, $1,965 paid to the child's dentist, and $4,000 paid directly to appellant.
+The only disputed set offs are the payment to the dentist of $l,965-and the periodic payments made in the 1970s in the amount of $4,000. Appellant does not challenge the setoffs of $350 and $2,250.
+We have consolidated appellant's assignments of error on review.l First, appellant chailenges that the payment to the dentist could not offset appellee's child support obligation because it was paid to a third party rather than through the court or directly to appellant. Appellant cites no case law in support of her argument. Appellee argues that the divorce decree included the payment of dental care as support and maintenance of the child. Second, appellant suggests that the court's decision is against the manifest weight of the evidence because the court credited appellee with the payment of $4,000 of support when appellee has no documentation to substantiate his testimony.
+As of the time the decree was entered, a father had the statutory duty to support his child pursuant to G.C. 7997 (now R.C. 3103.03). The term "support" as used under Ohio law at that time included expenses such as "food, clothing, education, medical care, and a suitable residence." Hopkins v. Commr. of Internal Revenue (1944), 29 O.O. 347, 353. See, also, Door Cty. Memorial Hospital v. Cole (1960), 88 Ohio Law Abs. 10, 12. However, upon divorce, the court could modify the father's statutory duty of support in its decree. If the court declared that the father was obligated to pay a sum certain for the support and maintenance of his child, then the father's statutory obligation was satisfied by the payment of this amount. The father had no duty to pay for other medical expenses unless he otherwise agreed to do so. See Brunswick v. The First Central Trust Co. (1940), 66 Ohio App. 242 (if the divorce decree is silent regarding support obligations of the father, and the mother voluntarily supports the child, the mother cannot seek reimbursement from the father's estate); Harker v. Wolff (1931), 42 Ohio App. 540 (a father has no duty to pay a doctor for medical services rendered to his child where the divorce decree specified a sum to be paid as support); and Dodge v. Keller (1927), 29 Ohio App. 114 (a father has no duty to pay a funeral director for funeral expenses for his child where the divorce decree provided that the father was to pay a specified sum as support). Furthermore, where a decree orders that the support payments be made through the court or support agency, no credit will be given for payments not made pursuant to that order. Agner v. Agner (Sept. 2, 1988), Wood App. No. WD-87-78, unreported.
+In the case at bar, the divorce decree modified appellant's statutory duty to support his child by providing that he was required to pay "$50.00 per month for the care, support, maintenance and education of the minor child, *** such payments to be made to the Clerk of this Court (the Oregon Circuit Court] for the use and benefit of said minor child."
+Under this decree, appellee's sole obligation was to pay $50 per month. Appellee's agreement to pay the dentist for the child's braces was a voluntary undertaking by appellee which cannot offset his obligation under the decree. Furthermore, appellee paid such monies directly to the dentist rather than through the court as directed by the decree. Appellee also testified that he paid an additional $4,000-$5,000 directly to appellant contrary to the court's decree. Therefore, none of the above payments can be credited against appellee's support obligations.
+Wherefore, we find appellant's first and second assignments of error well-taken.
+Accordingly, we find that the trial court has committed error prejudicial to appellant, and that appellant is entitled, as a matter of law, to have judgment rendered in her favor. Therefore, pursuant to the authority granted to us by App. R. 12(B), we reverse the judgment of the trial court and render the judgment that the trial court should have rendered. Appellant is awarded $8,650 ($11,250 of support arrearage less $350 paid through the court and less $2,250 stipulated as paid directly to appellant) in support arrearages. This case is remanded to the lower court for enforcement. Furthermore, pursuant to App. R. 24, the court costs of this appeal are taxed against appellee.
+Judement reversed.
+HANDWORK, P.J., RESNICK, J., concur.
+ABOOD, J., dissents
