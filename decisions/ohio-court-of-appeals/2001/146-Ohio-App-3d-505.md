@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3186-M"
+decided: "2001-12-26"
+citations: ["146 Ohio App. 3d 505"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Batchelder, P.J., and Slaby, J., concur."]
+parties: ["The STATE of Ohio, Appellee, v. TUCK, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/146/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 528883
+cites_cases: ["18 O.O.3d 435", "1883 WL 178", "2001 WL 731084", "2001-Ohio-7017", "206 F.3d 882", "232 F.3d 536", "268 F.3d 377", "39 Ohio St. 273", "416 N.E.2d 598", "523 U.S. 371", "64 Ohio St.2d 232", "752 N.E.2d 904", "93 Ohio St.3d 49"]
+---
+
+# State v. Tuck
+
+## Majority (Whitmore, Judge.)
+
+Whitmore, Judge.
+{¶ 1} Defendant-appellant Nathan G. Tuck has appealed a decision of the Medina County Court of Common Pleas which denied his motion to suppress all of the state’s evidence against him. This court affirms.
+I
+{¶ 2} During 1996, appellant was indicted on two counts of drug trafficking in violation of R.C. 2925.03(A)(1) and (5). A warrant was issued for his arrest and appellant fled to Canada, where he was born and has since maintained citizenship. The state began extradition proceedings. While the extradition process was pending, appellant attempted to enter the United States from Canada via Minnesota, but was detained by United States customs officers due to the active Ohio warrant. Customs officials turned appellant over to Minnesota authorities, who found illegal drugs on appellant’s person. The state of Minnesota filed charges against appellant and, after the case was resolved, appellant was extradited to Ohio and arraigned on the 1996 drug charges.
+{¶ 3} Appellant entered a not guilty plea, and moved to suppress all of the state’s evidence on the basis that the evidence was obtained in violation of his constitutional rights, and his rights as a foreign national under the Vienna Convention on Consular Relations (“VCCR”). After a hearing on the matter, the trial court denied appellant’s motion. Appellant changed his plea to no contest, and was sentenced accordingly.
+{¶ 4} Appellant has timely appealed the trial court’s denial of his motion to suppress, and has assigned three errors for this court’s review.
+II
+Assignment of Error No. One
+{¶ 5} “The trial court erred in overruling the appellant’s motion to suppress any and all statement [sic] made by the appellant illegally obtained in violation of the appellant’s rights under the Supremacy Clause of the Constitution Article 6, Clause 2, and the Vienna Convention on Consular Relations, Article (36) Section (1).”
+{¶ 6} In his first assignment of error, appellant has contended that the trial court erred in denying his motion to suppress. Appellant has asserted that his rights guaranteed by the VCCR were violated when arresting officers failed to inform him that he had a right, as a Canadian national, to meet with Canadian consular officials. The state has argued that the trial court properly denied appellant’s motion because the VCCR does not confer upon appellant an individually enforceable right. The state has further asserted that even if this court finds that the VCCR does bestow rights enforceable by individuals, suppression of evidence is an inappropriate remedy, for violations of such rights.
+{¶ 7} Both the United States and Canada are signatories to the VCCR. The Vienna Convention on Consular Relations, April 24, 1963, TIAS 6820, 21 U.S.T. 77, 596 U.N.T.S. 261. Article 36 of the VCCR provides:
+{¶ 8} “1. With a view to facilitating the exercise of consular functions relating to nationals of the sending State:
+{¶ 9} “* * *
+{¶ 10} “(b) if he so requests, the competent authorities of the receiving State shall, without delay, inform the consular post of the sending State if, within its consular district, a national of that State is arrested or committed to prison or to custody pending trial or is detained in any other manner. Any communication addressed to the consular post by the person arrested, in prison, custody or detention shall also be forwarded by the said authorities without delay. The said authorities shall inform the person concerned without delay of his rights under this sub-paragraph[.]
+{1H} “* * *
+{¶ 12} “2. The rights referred to in paragraph 1 of this Article shall be exercised in conformity with the laws and regulations of the receiving State, subject to the proviso, however, that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under this Article are intended.” (Emphasis added.)
+{¶ 13} Whether suppression of evidence is the appropriate remedy for a violation of the VCCR is an issue of first impression for this court. For purposes of this case we need not decide whether appellant had an individually enforceable right under Article 36 of the VCCR. This is because we conclude that even if the treaty creates individual rights, suppression of evidence is not an available remedy. See United States v. Page (C.A.6, 2000), 232 F.3d 536, 540 (holding that suppression of evidence and dismissal of the indictment are not available remedies for violations of Article 36 of the VCCR). The only other Ohio appellate district which has addressed the issue has concluded the same. In State v. Mendoza (June 29, 2001), Marion App. No. 9-01-02, 2001 WL 731084, the Third District Court of Appeals found that violations of the VCCR did not require the suppression of evidence because “rights arising from the [VCCR] do not rise to the level of Constitutional rights.”
+{¶ 14} Although the Supreme Court of Ohio has yet to decide the issue, the court has recently expressed skepticism on the topic:
+{¶ 15} “We doubt whether suppression of evidence is the appropriate remedy for a violation of the VCCR. Rights of persons arising under a treaty are regarded as if they arose under a statute of this state. State v. Vanderpool (1883), 39 Ohio St. 273, 276-277 [1883 WL 178]. Thus, as in the case of a statutory violation, the exclusionary rule is not an appropriate sanction, absent an underlying constitutional violation, unless the treaty expressly provides for that remedy. Kettering v. Hollen (1980), 64 Ohio St.2d 232, 234, 18 O.O.3d 435, 437, 416 N.E.2d 598, 600. Nothing in the text of the VCCR requires suppression of evidence, and ‘there is no indication that the drafters of the Vienna Convention had these “uniquely American rights in mind, especially given the fact that even the United States Supreme Court did not require Fifth and Sixth Amendment post-arrest warnings until it decided Miranda in 1966, three years after the treaty was drafted.” ’ United States v. Page (C.A.6, 2000), 232 F.3d 536, 541, quoting United States v. Lombera-Camorlinga (C.A.9, 2000), 206 F.3d 882, 886 (en banc). Furthermore, ‘no other signatories to the Vienna Convention have permitted suppression under similar circumstances, and * * * two (Italy and Australia) have specifically rejected it.’ Id. at 888.” State v. Issa (2001), 93 Ohio St.3d 49, 55 fn. 2, 752 N.E.2d 904.
+{¶ 16} Accordingly, we find no merit in appellant’s first assignment of error.
+Assignment of Error No. Two
+{¶ 17} “The trial court erred in overruling the appellant’s motion to suppress any and all statements made by the appellant illegally obtained in violation of the appellant’s constitutional rights under Article I, Section 10 of the ohio constiution [sic] and the Fifth Amendment to the United States Constitution.”
+{¶ 18} In his second assignment of error, appellant has asserted that “[a]ny and all statements obtained * * * were clearly obtained in violation of [appellant’s] right not to bear witness against himself as preserved against the authority of the sovereign by the Fifth Amendment to the United States Constitution and Article I, Section 10 of the Ohio Constitution.” In support of this assertion, appellant has simply stated that he was the target of an investigation and that he was placed in custody and questioned without being advised of his Miranda rights. Appellant has not identified the statements which he believes were obtained in violation of his rights and has not pointed to the portions of the record on which the assignment of error is based.
+{¶ 19} App.R. 16(A)(7) requires an appellant to provide an “argument containing the contentions of the appellant with respect to each assignment of error presented for review and the reasons in support of the contentions, with citations to the authorities, statutes, and parts of the record on which appellant relies.” It is not the duty of this court to make arguments in support of an appellant’s bald assertions and to search the record for evidence in support of our position. Accordingly, we disregard the second assigned error. App.R. 12(A)(2).
+Assignment of Error No. Three
+{¶ 20} “The trial court erred in finding the appellant was not detained by the agents, thereby depriving the appellant of his rights under the Vienna Convention.”
+{¶ 21} In his third assignment of error, appellant has argued that the trial court erred in denying his motion to suppress. Specifically, appellant has asserted that the court erred in finding that appellant was not detained, thus depriving appellant of his rights under the VCCR. Because this court has determined that the suppression of evidence is not an appropriate remedy for a violation of the VCCR, we need not address whether appellant was in fact “detained.”
+Ill
+{¶ 22} Appellant’s three assignments of error are overruled. The judgment of the court of common pleas is affirmed.
+Judgment affirmed.
+Batchelder, P.J., and Slaby, J., concur.
+. Because the indictments charged appellant with having committed offenses prior to July 1, 1996, appellant was charged under the pre-Senate Bill 2 version of R.C. 2925.03.
+. In 1998, the United States Supreme Court acknowledged that the Vienna Convention on Consular Relations “arguably confers on an individual the right to consular assistance following arrest[.]” Breard v. Greene (1998), 523 U.S. 371, 376, 118 S.Ct. 1352, 140 L.Ed.2d 529 (per curiam). This left open the question of whether arrestees have an individually enforceable right under Article 36 to be informed of a right to consular notification. The Supreme Court of Ohio has not addressed the issue. See State v. Issa (2001), 93 Ohio St.3d 49, 55-56, 752 N.E.2d 904. Recently, the United States Sixth Circuit Court of Appeals has concluded “that the Vienna Convention does not create in a detained foreign national a right of consular access.” United States v. Emuegbunam (C.A.6, 2001), 268 F.3d 377, 392.
