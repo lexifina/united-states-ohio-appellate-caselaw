@@ -1,0 +1,67 @@
+---
+court: "Ohio Court of Appeals"
+docket: "14806"
+decided: "1991-04-03"
+citations: ["70 Ohio App. 3d 118"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cacioppo, J., concurs.", "Quillin, P.J., concurs in judgment.", "I concur in the judgment."]
+parties: ["TUROWSKI, Admr., Appellee, v. JOHNSON; Ohio Edison Company, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/70/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1465564
+cites_cases: ["15 OBR 311", "15 Ohio St.3d 164", "1989 WL 1643", "1990 WL 118688", "1991 WL 1579", "1991 WL 6326", "21 O.O.3d 429", "24 OBR 388", "24 Ohio App.3d 211", "29 OBR 441", "29 OBR 446", "29 Ohio St.3d 59", "29 Ohio St.3d 65", "355 Mich. 382", "425 N.E.2d 961", "44 Ohio App.3d 206", "473 N.E.2d 264", "494 N.E.2d 1160", "496 U.S. 384", "505 N.E.2d 957", "505 N.E.2d 966", "542 N.E.2d 701", "568 N.E.2d 695", "57 Ohio St.3d 711", "577 N.E.2d 446", "580 N.E.2d 842", "583 N.E.2d 1018", "589 N.E.2d 462", "62 Ohio App.3d 757", "64 Ohio App.3d 129", "65 Ohio App.3d 273", "67 Ohio App.2d 122", "68 Ohio App.3d 704", "796 F.2d 1165", "94 N.W.2d 810"]
+---
+
+# Turowski v. Johnson
+
+## Majority (Reece, Judge.)
+
+Reece, Judge.
+This case returns to us following our reversal and remand in Turowski v. Johnson (1990), 68 Ohio App.3d 704, 589 N.E.2d 462 (Turowski I), directing the lower court to determine proper attorney fees to be awarded to Ohio Edison Company (“Ohio Edison”), pursuant to Ohio’s frivolous conduct statute, R.C. 2323.51. Ohio Edison now appeals the trial court’s determination of those fees.
+Facts
+A factual recitation is not necessary to properly analyze the case at bar. In Turowski I, this court found the lower court’s denial of Ohio Edison’s request for attorney fees to be assessed against attorney Kenneth Turowski to be arbitrary and an abuse of discretion, and remanded the case to the trial court for a determination of a proper fee award under R.C. 2323.51.
+Following our remand, the trial court conducted an R.C. 2323.51(B)(2) hearing, limiting itself to a determination of the fee to be assessed against Turowski. Ohio Edison maintained that it had spent over seventy-seven hours on all aspects of the case, and requested an award based upon a rate “between $75 and $50 an hour[.]” Turowski responded that because early in the litigation Ohio Edison had offered his client $1,000 to settle the claim, such being the cost of litigation to Ohio Edison, such a fee award would be “fair and reasonable[.]” Turowski questioned the amount of time Ohio Edison spent on its appeal of the trial court’s initial decision denying R.C. 2323.51 relief. The court took the matter under consideration.
+On September 19, 1990, the trial court issued a finding and order, determining that Turowski engaged in “frivolous conduct” as defined by R.C. 2323.-51(A)(2) and that Ohio Edison was adversely affected thereby. R.C. 2323.-51(B)(2)(c). The court awarded Ohio Edison attorney fees of $250. Ohio Edison timely appeals.
+Assignments of Error
+“I. The trial court erred in holding that, pursuant to Ohio Revised Code Section 2323.51, appellant had a duty to file a written request for a voluntary dismissal and a duty to notify the trial court and appellee that it would seek sanctions as soon as it had a basis to do so.
+“II. The trial court erred in holding that the amount of reasonable attorney fees to be awarded, pursuant to Ohio Revised Code Section 2323.51, depends upon the seriousness of the violation, the ability of the culpable party (appellee) to pay, and the efforts of the movant (appellant) to mitigate its damages.
+“III. The trial court abused its discretion in finding that the reasonable attorney fees of appellant were $250.00, such finding being arbitrary and contrary to the evidence.”
+Ohio Edison argues its assigned errors collectively. We shall do likewise. Ohio Edison essentially challenges the propriety of the trial court’s ultimate determination of attorney fees to which Ohio Edison was entitled under R.C. 2323.51.
+Ohio appellate courts have generally applied an abuse of discretion standard in reviewing a trial court’s sanction under R.C. 2323.51. See In re Annexation of 18.23 Acres (Jan. 11, 1989), Summit App. No. 13669, unreported, 1989 WL 1643; Cregar v. Ohio Edison Co. (Jan. 11, 1991), Trumbull App. No. 89-T-4316, unreported, 1991 WL 1579; Sturm v. Sturm (Aug. 16,1990), Cuyahoga App. No. 57380, unreported, 1990 WL 118688, motion to certify record allowed (1991), 57 Ohio St.3d 711, 568 N.E.2d 695. See, also, Sladoje v. Slettebak (1988), 44 Ohio App.3d 206, 542 N.E.2d 701 (R.C. 2323.51 applied). This standard was adopted from parallel case law regarding review of Civ.R. 11 and Fed.R.Civ.P. 11. Stevens v. Kiraly (1985), 24 Ohio App.3d 211, 24 OBR 388, 494 N.E.2d 1160; see, also, State, ex rel. Fant, v. Sykes (1987), 29 Ohio St.3d 65, 29 OBR 446, 505 N.E.2d 966 (per curiam), and P.K. Lumber Co. v. Investors Title Agency, Inc. (Jan. 23, 1991), Montgomery App. No. 12184, unreported, 1991 WL 6326 (citing to Fed.R.Civ.P. 11 and Cooter & Gell v. Hartmarx Corp. [1990], 496 U.S. 384, 110 S.Ct. 2447, 110 L.Ed.2d 359).
+Abuse of discretion connotes conduct on the part of the trial court amounting to more than error of law or judgment, but rather an attitude unreasonable, arbitrary or unconscionable. Ruwe v. Bd. of Springfield Twp. Trustees (1987), 29 Ohio St.3d 59, 61, 29 OBR 441, 443, 505 N.E.2d 957, 959. u t * * * term discretion itself involves the idea of choice, of an exercise of the will, of a determination made between competing considerations. * * * ’ ” State v. Jenkins (1984), 15 Ohio St.3d 164, 222, 15 OBR 311, 361, 473 N.E.2d 264, 313, citing Spalding v. Spalding (1959), 355 Mich. 382, 384-385, 94 N.W.2d 810, 811-812. Keeping this standard in mind, we turn to Ohio Edison’s assigned errors.
+Ohio Edison asserts that the trial court inappropriately applied a mitigation and notice requirement to determine the reasonableness of its fee request under R.C. 2323.51. Rather than emplace rigid requirements, the statute posits substantial discretion with the trial court to determine “ * * * the attorney’s fees that were both reasonably incurred by a party and necessitated by the frivolous conduct” (emphasis added). R.C. 2323.-51(B)(3)(b). In order to meet these ends, a trial court properly exercises its discretion in considering a movant’s failure to mitigate or give notice to the court and the offending party when it discovers a sufficient basis for seeking sanctions under R.C. 2323.51. See, e.g., Matter of Yagman (C.A.9, 1986), 796 F.2d 1165, 1183 (applying Fed.R.Civ.P. 11). It is clear from the record that the trial court considered Ohio Edison’s failure to mitigate or give notice not as a bar to recovery of fees, but rather as a measure of the reasonableness and necessity of the fees so incurred. See, e.g., Pisanick-Miller v. Roulette Pontiac-Cadillac GMC, Inc. (1991), 62 Ohio App.3d 757, 577 N.E.2d 446. This matter being within the trial court’s discretion, we discern no abuse. The first error assigned is overruled.
+In its second error assigned, Ohio Edison asserts without authority that the trial court erroneously considered the seriousness of Turowski’s violation, his ability to pay a sanction levied, and the efforts of Ohio Edison to mitigate.
+We have already discussed mitigation with respect to R.C. 2323.51(B)(3)(b), and its reasonableness and necessity requirements. Upon review of Ohio Edison’s other claims we find that they are equally subject to our analysis with respect to the first error assigned. Ohio Edison urges that the trial court’s consideration of Turowski’s ability to pay constitutes error. Ohio Edison concedes, however, that the trial court, after naming this as a factor considered, makes no further mention of this issue. The record is bereft of any evidence relating to Turowski’s ability to pay a sanction. The record being thus constituted, this court has no basis upon which to find an abuse of discretion.
+Ohio Edison also claims that the trial court erroneously considered Turowski’s culpability in determining the appropriate level of sanctions, arguing that a finding of frivolous conduct voids any consideration of the offending party’s subjective intent. We disagree.
+R.C. 2323.51(A)(2)(b) defines “frivolous conduct” of a party or his counsel as that which “is not warranted under existing law and cannot be supported by a good faith argument for an extension, modification, or reversal of existing law.” Thus, there is nothing in the statute which prohibits a trial court from considering the culpability of the sanctioned party to determine the reasonable level of the award to the movant. “Considering that the frivolous conduct statute was patterned after the Disciplinary Rules, it would appear that the General Assembly intended to sanction egregious conduct, not mere misjudgment or tactical error.” (Footnote omitted.) Stephens v. Crestview Cadillac, Inc. (1989), 64 Ohio App.3d 129, 134, 580 N.E.2d 842, 845. See, also, DR 7-102(A).
+Ohio Edison’s second error assigned is overruled.
+Finally, Ohio Edison complains that the trial court abused its discretion by awarding attorney fees of $250 in light of its request for fees between $3,862 and $5,793. A trial court may, however, disagree with the attorney as to the amount of time required to perform a particular service. Drake v. Menczer (1980), 67 Ohio App.2d 122, 126, 21 O.O.3d 429, 432, 425 N.E.2d 961, 964 (Krenzler, P.J., concurring). A trial court’s decision as to the appropriate level of attorney fees pursuant to R.C. 2323.51 will not be reversed absent an abuse of discretion. Painter v. Midland Steel Products Co. (1989), 65 Ohio App.3d 273, 583 N.E.2d 1018. Moreover, the language of R.C. 2323.51(B)(3) implies that a movant cannot recover fees generated as a result of its own imprudent conduct. See Pisanick-Miller, supra.
+Ohio Edison also appears to argue that an award of attorney fees at five percent of a movant’s request is itself an abuse of discretion. We have not discovered any authority with which to support this claim, and Ohio Edison has not provided such basis.
+Finding no abuse of discretion, Ohio Edison’s third error assigned is overruled.
+Conclusion
+Based upon the foregoing, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Cacioppo, J., concurs.
+Quillin, P.J., concurs in judgment.
+
+## Concurrence (Quillin,, P.J.,)
+
+Quillin,, P.J.,
+concurring in judgment.
+My analysis of the problem is a little different than that of the majority. After a determination of frivolous conduct has been made, I view it as a two-step process. First, the court should determine, pursuant to R.C. 2323.-51(B)(3)(b), “the attorney’s fees that were both reasonably incurred by a party and necessitated by the frivolous conduct.” Second, pursuant to R.C. 2323.-51(B)(3), the court should make an award which “shall not exceed, and may be equal to or less than,” those reasonable and necessary attorney fees.
+On the issue of the attorney fees that were both reasonably incurred and necessitated by appellee’s frivolous conduct, the record is short and to the point. At the hearing on fees, appellant’s counsel submitted a statement reflecting that 77.24 hours were expended on the case, which included 49.75 hours prior to appeal plus 27.49 hours for the appeal. Appellee’s response was:
+“[Plaintiff’s counsel]: Very briefly, Your Honor. An offer was made of settlement in this case relatively early on, an offer of $1,000 was made. And that basically was indicated to me to be the case that Miss Cook had believed that Ohio Edison would have to extend to defend this case.
+“And based upon that offer, that $1,000 offer, I will ask the Court to consider that as being fair and reasonable fees in this case.
+“THE COURT: Anything else?
+“[Defendant’s counsel]: No, Your Honor.
+“THE COURT: Do you want to put on any testimony? Do you dispute the hours they put into this?
+“[Plaintiff’s counsel]: Judge, this is the first opportunity I have had to look at this document.
+“THE COURT: Well, take a look at it.
+“[Plaintiff’s counsel]: The only thing that I might have some question about is the hours for appeal. I notice that that is time, if I am reading this correctly, a lump figure.”
+Based on the record, a finding that the reasonable and necessary attorney fees defending this $3.2 million lawsuit were only $250 would be patently erroneous.
+But the question remains whether the trial court may award a sum which is less than the attorney fees reasonably incurred and necessitated by the frivolous conduct. I believe that R.C. 2323.51(B)(3) clearly allows this by saying that the award “shall not exceed, and may be equal to or less than,” reasonable and necessary attorney fees.
+At this point I believe that the trial court’s authority should be virtually unassailable — almost to the extent a sentence in a criminal case is virtually unassailable. This approach has the added virtue of limiting litigation by discouraging appeals.
+One further thought is in order. It is generally agreed that frivolous conduct on the part of both plaintiffs and defendants is too common. If the statute is to have the intended effect of reducing frivolous conduct by making it subject to sanctions, trial courts must have the courage to administer the statute to that end.
+I concur in the judgment.
