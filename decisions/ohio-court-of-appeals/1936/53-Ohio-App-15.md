@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1936-05-11"
+citations: ["53 Ohio App. 15", "22 Ohio Law Abs. 322"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Overmyer and Carpenter, JJ., concur."]
+parties: ["Engler, Appellant, v. Reed, Admr., Appellee."]
+source_url: "https://static.case.law/ohio-app/53/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1351061
+cites_cases: ["123 Oh St, 213", "123 Ohio St., 213", "15 Ohio App., 346", "174 N. E., 735", "174 NE, 735"]
+---
+
+# Engler v. Reed
+
+## Majority (Lloyd, J.)
+
+Lloyd, J.
+This action was brought in the Court of Common Pleas by appellant, Maud Engler, to recover damages for personal injuries alleged to have been proximately caused by the negligence of the decedent Wolf. From the judgment therein entered upon a verdict in favor of the appellee administrator, plaintiff appeals.
+On March 6, 1935, appellant was a guest passenger in an automobile owned and driven by a Dr. Boyce. Also riding in the automobile were Mrs. Boyce, a minor son of Dr. and Mrs. Boyce, and a Mrs. Swint. Mrs. Engler sat in the front seat at the right of Dr. Boyce, the others sitting in the rear seat. They lived in Fremont and were on their way to Toledo on U. S. Route No. 20. About seven miles west of Fremont, and not within any municipality, Route No. 20, on which is a 20-foot concrete pavement, intersects Lindsey Road.
+Approaching the intersection from the east the pavement on Route No. 20 curves or jogs to the north about 10 feet, and approaching from the west, jogs approximately the same distance to the south — the pavement east of the intersection being about 10 feet farther to the south than it is on the west side thereof, mAiring the concrete pavement approximately 30 feet wide at the point of intersection.
+. As Boyce, driving on the north side of Route No. 20, approached the intersection from the east, Wolf, driving on the south side of Route No. 20, was approaching the intersection from the west. When Wolf reached the intersection of Route No. 20 and Lindsey Road, he turned teethe left across the northerly half of the pavement, intending to enter Lindsey Road, and while doing so was struck by the Boyce car, resulting in the death of Wolf and the alleged injuries of which Mrs. Engler complains.
+In her petition Mrs. Engler charges that Wolf was negligent in attempting to turn left across U. S. Highway No. 20, onto Lindsey Road, when such movement could not be made in safety; in turning left without passing to the right of the center line of Lindsey Road; in failing to keep a proper lookout, and in making a turn to the left without first giving a signal visible from the outside of his automobile; his negligence being the alleged proximate cause of her injuries. All of this was denied by appellee, who affirmatively alleged that appellant was guilty of contributory negligence. Counsel for appellant claim in their brief that the verdict and judgment in favor of appellee are1 manifestly against the weight of the evidence, that the trial judge erred in submitting to the jury the issue of contributory negligence, and that if this issue were involved the trial court erred in its charge to the jury in relation thereto.
+The witnesses testify that Boyce was proceeding along Route No. 20 from 45 to 50 miles an hour. They agree that the weather, although somewhat cool, was clear; that visibility was good and that the pavement was dry. There is no evidence tending to show that any occasion arose for Mrs. Engler to do anything in the way of protest or otherwise until the collision was imminent, and when it was an assured occurrence a protest from her could avail nothing. All that she could see was equally visible and apparent to Boyce, who, without contradiction, testified that he theretofore had been, and at the time of the collision was, looking straight ahead. Traveling along the highway in the open country there was nothing to indicate to Mrs. Engler that there was danger of a collision with another ear at Lindsey Road, until arrival there, and there was then nothing that she could say or do to avoid the ensuing result.
+The evidence does not disclose that Mrs. Engler was familiar with the location of Route No. 20 Lindsey Road intersection, but does show positively that she had no control over the manner in which the Boyce automobile was being operated. Seated as she was beside Dr. Boyce, she was required to use her faculties of sight and hearing to discover such observable dangers as guest passengers of ordinary care and prudence would have done under the same or similar circumstances. But she was not required to be on the qui vive every second to watch and observe what Dr. Boyce was doing, and how he was operating his automobile, he admittedly being a competent driver, and there having been no occasion prior thereto to find fault with the manner of his driving or to anticipate the after-happening collision. Neither the testimony of the two witnesses called by the appellee, nor the evidence offered by appellant, raised any presumption or inference of contributory negligence on her part.
+Mrs. Swint testified that her mother, Mrs. Engler, was “on the front seat” and Mrs. Boyce and herself were “in the back seat”; that “Mrs. Boyce had been talking and we looked at each other and mother said ‘ There is a car turning in front of us ’ and we looked up and I saw the car directly in our path. We were back a little. She said ‘There is a car in front of us, and we are going to crash, ’ and the doctor put on his brakes.”
+No witnesses testified otherwise, and although Dr. Boyce testified that he did not hear Mrs. Engler, the evidence shows that he then, or a moment before, lessened the speed of his car in an attempt to avoid the collision. We quite agree with the second paragraph of the syllabus in the case of Cleveland Ry. Co. v. Heller, 15 Ohio App., 346, which reads:
+“A passenger in an automobile has a right to assume that the driver knows how to operate the car, and that he is driving it in a. proper manner, and where the car is in good running condition and operated by a competent driver the failure of the passenger to remonstrate or talk to the driver as to the manner of operating the car does not constitute contributory negligence. ’ ’
+There being no evidence of contributory negligence on the part of Mrs. Engler, the court committed prejudicial error in charging the jury on that subject.
+On the theory that the evidence offered by appellant was sufficient to warrant an inference of contributory negligence, the trial judge in charging the jury used this language:
+“Unless in her own ease there arises a presumption which she did not remove.”
+The Supreme Court, in its opinion in Smith v. Lopa, 123 Ohio St., 213, 174 N. E., 735, stated:
+‘ ‘ The law is well settled that, when the evidence produced by the plaintiff himself raises a reasonable inference or a reasonable presumption — and the terms are often used interchangeably' — of contributory negligence on his part, he then must carry the burden of dispelling that inference or presumption by evidence that equals the inference or presumption.”
+In other words, in such case all that is necessary is to produce evidence that equals or counterbalances the inference or presumption so arising. The words “to remove” suggest something more than equal or counterbalance, and their use in this connection is at least technically erroneous. With this exception, the charge of the court was commendably brief and clearly expressed.
+The judgment of the Court of Common Pleas is reversed and the cause remanded to that court for a new trial.
+Judgment reversed and cause remanded.
+Overmyer and Carpenter, JJ., concur.
