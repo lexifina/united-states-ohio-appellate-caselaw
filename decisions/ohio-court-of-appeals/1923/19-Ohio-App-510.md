@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1923-12-10"
+citations: ["19 Ohio App. 510"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cushing and Buchwalter, JJ., concur."]
+parties: ["Hine et al., Partners, v. Eikler."]
+source_url: "https://static.case.law/ohio-app/19/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849542
+cites_cases: ["101 Ohio St., 282", "123 Ia., 149", "94 Ohio St., 93"]
+---
+
+# Hine v. Eikler
+
+## Majority (Hamilton, J.)
+
+Hamilton, J.
+Defendant in error, Rosie Eikler, secured a judgment on a verdict at the hands of a jury for personal injuries growing out of a collision between a buggy in which she was seated and a trailer attached to an automobile truck owned and operated by plaintiffs in error.
+The record discloses that plaintiffs in error were road contractors, and were constructing a section of a public highway in Hamilton county known as Dugan Cap Road. The road was being constructed of concrete, with a top dressing of warrenite, and with a curb at each side. The road was eighteen feet wide. In the legislation providing for its construction the chief highway engineer, in the approval of the plans, declared that the making of the improvement would require the closing of the highway to traffic.
+It appears that on the 30th day of September, 1921, the defendant in error, together with her husband, drove to this new highway construction.' The road was partially blocked on the left hand side of the entrance to the construction by a trestle with the words “Road Blocked” thereon. There was no obstruction on the right hand side of the entrance.
+There was some evidence that traffic was passing through this open side of the road.
+The concrete and curbing were completed and set, and had been swept. There still remained the placing thereon of the top dressing, which had not been started.
+Defendant in error, with her husband, drove the horse and buggy on this newly-constructed road, and drove down to a place where the agents and employes of the plaintiffs in error had lunched, and were engaged in a game of amusement, on the edge of the road. Defendant in error, with her husband, drove past the men and pulled over to the right hand side of the newly constructed road within a few inches of the curb. The husband alighted and engaged with the employes in the game of amusement, the wife waiting in the buggy. While so seated in the buggy an employe of the plaintiffs in error, in a truck of the plaintiffs in error, drove by, with a two-wheeled trailer attached to the truck with chains. The motor truck was moving rapidly and the trailer was swinging back and forth across the road. The truck passed the buggy, but the trailer, in swinging, struck the buggy, throwing defendant in error out and causing the injuries complained of.
+The charge of negligence was unreasonable speed, negligent operation, and the negligent attachment of the trailer to the automobile in a manner that caused it to swing back and forth, and the negligent operation of the truck in passing too close to the buggy.
+The defense was a general denial and the charge of contributory negligence.
+The important question for consideration and the main specification of error is that the verdict and judgment are against the weight of the evidence.
+It is argued by plaintiffs in error that under the facts the defendant in error was clearly guilty of contributory negligence, and they rely on the cases of Schell v. DuBois, Admr., 94 Ohio St., 93, and Chesrown v. Bevier, 101 Ohio St., 282, where the Supreme Court of Ohio laid down the rule that the violation of a statute passed for the protection of the public is negligence per se.
+The statute of Ohio, Section 13421-9, General Code, makes it an offense to drive over, upon, or along, or across a public highway, or any part thereof, which has been closed, etc.
+It is claimed that this situation is in accord with the facts of this case, and that the defendant in error was violating a statute while upon this road construction; that she was guilty of continuing negligence, and thereby contributed directly to her injury.
+Defendant in error denies in the brief that the road had been legally closed under the provisions required by law, and denies that the road was actually closed. This proposition was submitted to the jury under the following charge of the court:
+“Therefore, gentlemen of the jury, it is for you to determine whether or not under all the evidence and circumstances this highway was closed to travel to the plaintiff at that time, at the time of the accident. If it was, she would have no right upon it and she would have been negligent in law if she went upon it, if you so find it to have been closed. And. if her negligence in any way contributed to her injury, she cannot recover. If you find that the highway was not closed, then she would have a right on the road * *
+The steps necessary to close a road are provided by law, and, while there may have been some technical omission in the proceedings, the law was substantially complied with. However, we find no provisions in the law as to the opening of a road for traffic. The opening presents a question of fact.
+E. A. Gast, the county engineer of Hamilton county, testified as follows:
+“Q. What official connected with that improvement was charged with the duty of declaring that road open after the work was completed? A. There, is no official procedure in opening a road. A road gradually becomes into use as it becomes passable due to the progress of the work.
+“Q. That occurs when the blocks are taken down at various parts of the road? A. It happens that blocks are often there three or four months after the road is completed, but the travel uses it just the same. It is open for -free travel whenever they can get through.”
+The charge of the court submitting this question of fact to the jury was all that the plaintiffs in error were entitled to. The court in substance charged the jury that if the road was blocked defendant in error was guilty of negligence, and could not recover if this negligence in any way contributed to her injury.
+Under the facts submitted there was a question as to whether or not defendant in error was negligent in driving upon the road. The jury may have been justified, under the circumstances, in finding she was not.
+Assuming, without so deciding, that defendant in error was unlawfully at the place where the injury occurred, what then were her legal rights, and what duty did the plaintiffs in error owe to her?
+Plaintiffs in error claim that under the circumstances they owed her no duty. Their duty, however, rests on the broad maxim sic utere, tuo ut alienum non laedas. We know of no law which would excuse any person from the duty to so use his property as not to injure others. The evidence clearly supports a violation of this maxim. But, under the rule, the negligence established against the plaintiffs in error would not permit a recovery if the technically illegal position of the defendant in error should be held to directly contribute in any degree to her injury.
+If we consider that defendant in error was in the nature of a trespasser, made such by statute, her negligence must be determined under the law as to trespassers.
+The rule of law laid down by the Supreme Court in the Chesrown case, supra, is difficult to apply to all cases, and particularly so to the charge of contributory negligence in this case. It is true the court in the Chesrown case says that the violation of law must directly contribute to the injury, the proximate cause being for the jury. Under this rule does the fact that the party was at the particular place in violation of law directly contribute to her injury and bar her recovery? If the defendant in error was a trespasser, as we concede it possible for her to be, would that defeat a recovery? We think not. She was in no place of inherent danger. She was stationary. She was on the right hand side of a wide highway. The road was open at least to the extent that she could drive without interference. Nor was she cautioned by any of the employes as to her presence being unlawful. Certainly if she was a trespasser, it was purely technical.
+The principle is laid down in 1 Shearman & Bed-field on the Law of Negligence, Section 97, that in order to defeat recovery plaintiff’s trespass must be culpable from a common sense point of view, and not in the technical sense, which would include every neglect to comply with the letter of the law. Unless the plaintiff has done something which persons of ordinary prudence and moral sense would feel to be careless and morally wrong, involving a reasonable possibility of injury, either to himself, or the person upon whose premises he is trespassing, he should not be debarred from his right of action for negligence.
+The court says in the third proposition of the syllabus of the Chesrown case:
+“The violation of a statute passed for the protection of the public is negligence per se.”
+In the case of Davies v. Mann, 10 Mees. & W., 546, referred to by text-writers as the celebrated “donkey case,” Davies unlawfully let his donkey on the highway, fettered, and Mann, the defendant, driving rapidly and carelessly, ran over the donkey. The court held that “although the ass may have been wrongfully there, still the defendant was bound to go along the road at such a pace as would be likely to prevent mischief. Were this not so, a man might justify the driving over goods left on a public highway, or even over a man lying asleep there, or the purposely running against a carriage going on the wrong side of a road.”
+In the case of Tackett v. Taylor County, 123 Ia., 149, the court says in the opinion:
+“It is not enough that had it not been for plaintiff’s disobedience of the law he might not have been present, and that the accident would not have happened. Most injuries would have been obviated had there been no one present to be hurt. The disobedience, to defeat recovery, must have contributed directly to the injury.”
+While these decisions may appear to be in conflict with the decisions in the Schell and Chesrown cases, we do not think they go that far, as the question of proximate cause is left to the jury.
+We are of opinion that the conduct of defendant in error was not such as could be considered to have directly contributed to her injury. The most that could be claimed against her was that by being illegally there she indirectly contributed to the injury. There is no efficient cause of the injury growing but of her conduct. In other words, her negligence, if any, was an independent matter. Tn any event the question of proximate cause was properly submitted to the jury.
+There were some other questions of law presented and argued in the brief, but they are not of a substantial character under the circumstances.
+The charge of the court as a whole is most favorable to the plaintiffs in error. Indeed it is claimed by plaintiffs in error that, from the wording of the charge, the jury must have disregarded the charge in arriving at the verdict they did.
+Judgment affirmed.
+Cushing and Buchwalter, JJ., concur.
