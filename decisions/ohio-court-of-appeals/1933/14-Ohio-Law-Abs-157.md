@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1135"
+decided: "1933-01-13"
+citations: ["14 Ohio Law Abs. 157"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ALLREAD, FJ, and KUNKLE, J, concur."]
+parties: ["WOODWARD v DAWKINS LUMBER CO et"]
+source_url: "https://static.case.law/ohio-law-abs/14/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1648577
+---
+
+# Woodward v. Dawkins Lumber Co.
+
+## Majority (HORNBECK, J.)
+
+HORNBECK, J.
+It is the theory of the Daly Co. that, upon the written order for the lumber in question, upon shipment thereof to Moraine, the title clearly passed to the Daly Co.; that the Dawkins Co. thereupon extended credit to the Daly Co.; that the facts (subsequent to the order and particularly at the time of, and on the day before the letter, dated September 29, 1932, was prepared and turned over to the representative of the Dawkins Co.) disclose mutual knowledge of both companies through their representatives, of the insolvency of the Daly Co.; that the letter and the arrangement therein set up and which the Dawkins Co. undertook to effectuate, clearly disclose a purpose to prefer the Dawkins Co. over the other creditors of the Daly Co.; that there never was any serious dispute over any material subject matter of the contract, and that the slight difference of opinion as to the grade of the lumber, between the Frigidaire Co. and the Daly Co. of which the Daly Co. had knowledge, was adjusted by a report of the inspector to which the Dawkins Co. and the Daly Co. were parties in agreement. On the other hand, the Dawkins Co. claims that the whole transaction was carried on in good faith; that the contract was made up not only of the written order, but of telephone conversations and correspondence; that the difference between the Daly Co., by reason of their representation and warranties to the Frigidaire Co. was substantial and of such a character that it might have provoked serious disagreement between the Dawkins Co. and .the Daly Co.; that, although there was an inspection made by the inspector of the National Hardwood Lumber Association, it was made without, notice to. the Dawkins Co. either before or after the report of the inspector, and that, therefore, the Dawkins Co. was not a party to any agreement referable to the report; that the representatives of the Dawkins Co. did know of the financial embarrassment of the Daly Co., but not of its insolvent condition.
+This cause comes to us on error and our obligation under the law is to sustain the judgment unless the record discloses that it is manifestly against the weight of the evidence or contrary to law. We are also obliged to reconcile the facts in the light of good faith between the parties instead of bad faith, if they permit of such determination.
+It reasonably appears that the Daly Co. at the time the letter of date September 29, .1931 was written was insolvent. We recognize the principle that payment of an obligation may be made in money or other material. We doubt if the facts in this case will permit of a determination of payment of the claim of the Daly Co. to the Dawkins Co. by the lumber in question and if they did a payment in lumber would be subject to the same restriction as payment in money. The letter does not support the theory of payment of the Dawkins Co. amount with lumber. It is not proven that there was an agreement between the Dawkins Co., the Daly Co. and the Frigidaire Co. to accept the report of the inspector of the National Hardwood Lumber Association. There is no doubt that there was a claim of more consequence than is now urged by the Receiver on the part of the Frigidaire Company of failure of the Daly Co. to deliver lumber according to their contract.
+The extended correspondence between the lumber companies, their several telephone conversations, the delay in the acceptance of the lumber by the Frigidaire Co., the necessity of calling an inspector to examine the lumber in the cars, the failure of the Daly Co., to pay any sum on the contract price and other circumstances indicate that there was a serious controversy respecting the compliance of the Daly Company with the terms of its contract with the Frigidaire Co. While this would not control the relation between the lumber companies on their separate contract, yet, because of the fact that it is conceded that the written order from the Daly Co. to the Dawkins Co. may not set forth all of their contract, it would seem that the Daly Co. if it cared to stand upon its rights, could have caused the Dawkins Co. considerable trouble, delay, expense and might eventually have defeated or reduced its claim materially.
+This was the situation when the representative of the Dawkins Co. secured the letter from the representative of the Daly Co., which letter was- approved by Mr. Woodward, now the Receiver, who then was representing the officers or some of the officers of the Daly Co. The letter, plaintiff’s Exhibit “H” is as follows:
+“Sept. 29, 1931.
+“W. H. Dawkins Lumber Co.,
+Parkersburg, W. Va,
+Gentlemen:
+Kindly refer to your shipments in B. & O. cars 269820, 290357 and 271962 containing 8/4 No. 1 Com. & Btr. Chestnut, W.H.N.D. on our order No. 6275.
+Please be advised that on account of stock not being up to grade bought from you, we are hereby refusing these cars and it will be necessary for you to make disposition of same yourselves, and we are so notifying the Frigidaire Corp., at Dayton, O.
+Yours very truly,
+THE DALY LUMBER COMPANY,
+Signed P. A. Rutledge, Vice-Pres.”
+We believe that the dispute was of such character that by the sales act it might reasonably appear that the representatives, of the lumber companies in good faith agreed that there might be a return of the lumber from the Daly Co. to the Dawkins Co. This construction should be put upon the transaction between these parties if it can be done. Of course, there are facts indicating that the title to the lumber had passed. The Receiver, Mr. Woodward, and the other representative of the Daly Lumber Company did not so characterize the transaction when made. They now place a different interpretation upon it.
+Then, too, from the standpoint of the Daly Co., at the time that the letter in question was written, it would seem to represent a fair and equitable determination of their controversy. When, and if the Frigidaire Co. had been satisfied under its agreement with the Daly Co. and this company had collected all of the purchase price of the lumber it would only have, according to the record, a profit of $60.00 for all of its efforts. As against this loomed the possibility, as was stated at the time, of a three-cornered fight in which the Daly Co. stood to lose both by the refusal of the Frigidaire Co. to pay it and by the recovery of a judgment against them by the Dawkins Co. There was too much at stake to hazard against the possible return of $60.00. It is true, no doubt, that Mr. Woodward knew of the insolvency of the Daly Co., when the letter of September 30, 1931, was written. It may or may not be true that the representative of the Daly Co. knew fully of the financial condition of the Daly Co. Even though it was known to both parties, this would not prevent a legal transfer of the lumber in question, under §8449 (4), GC, if the Daly Co. had the right to rescind the sale and elected to do so.
+The facts in this case are susceptible to two interpretations, one of which imputes good faith to the parties, the other bad faith. If the purpose of the lumber companies as set forth in the letter over the signature of the representative of the Daly Co., truly represents what was done, it may clearly be reconciled on the theory of good faith.
+We cannot say from a fair consideration of all of this evidence that the judgment of the trial court was unwarranted.
+The judgment will be affirmed.
+ALLREAD, FJ, and KUNKLE, J, concur.
