@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5077"
+decided: "1958-03-31"
+citations: ["107 Ohio App. 93"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Deeds, P. J., Fess and Smith, JJ., concur."]
+parties: ["City of Toledo, Appellee, v. Gfell, Appellant."]
+source_url: "https://static.case.law/ohio-app/107/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1434365
+cites_cases: ["106 Ohio St., 658", "122 Ohio St., 608", "140 N. E., 941", "152 Ohio St., 6", "165 Ohio St., 238", "165 Ohio St., 326", "166 Ohio St., 108", "166 Ohio St., 138", "174 N. E., 251", "28 Ohio Law Abs., 571", "34 Ohio Law Abs., 265", "88 Ohio App., 117"]
+---
+
+# City of Toledo v. Gfell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal on questions of law from a judgment of the Toledo Municipal Court entered upon a verdict of a jury finding defendant guilty of driving an automobile while under the influence of intoxicating liquor, contrary to Ordinance Number 21-6-9.
+The record in the instant case discloses some evidence of objective symptoms from which an inference could be drawn that the defendant, at the time and place, was under the influence of alcohol. There is also evidence of a drunkometer test disclosing an alcoholic content of 0.225 per cent and expert-opinion testimony that such content would indicate the subject was under the influence of intoxicating liquor.
+In the general charge to the jury, the court said, inter alia:
+11 The affidavit charges the defendant with a violation of an ordinance of the city of Toledo, to wit: Ordinance No. 21-6-9, ‘ (a) no person who is under the influence of intoxicating liquor or narcotic drugs, or opiates shall operate or be in actual physical control of any vehicle, streetcar or trackless trolley within this city.’ And the court, at this point, also wishes to read to the jury Section 21-6-10 of the Ordinance of the city of Toledo, which reads as follows: ‘Persons under the influence of intoxicating liquor. In any prosecution for the violation of Section 21-6-9 of this article relating to driving a vehicle while under the influence of intoxicating liquor, the amount of alcohol in the defendant’s blood at the time alleged as shown by chemical analysis of the defendant’s blood, urine, breath or other bodily substance shall give rise to the following presumptions: 1. If there was at that time 0.05 per cent or less by weight of alcohol in the defendant’s blood, it shall be presumed that the defendant was not under the influence of intoxicating liquor. 2. If there was at that time in excess of 0.05 per cent but less than 0.15 per cent by weight of alcohol in the defendant’s blood, such fact shall not give rise to any presumption that the defendant was or was not under the influence of intoxicating liquor, but such fact may be considered with other competent evidence in determining the guilt or innocence of the defendant. 3. If there was at the time 0.15 per cent or more by weight of alcohol in the defendant’s blood, it shall be presumed that the defendant was under the influence of intoxicating liquor. 4. The foregoing provisions of this section shall not be construed as limiting the introduction of any other competent evidence bearing upon the question whether or not the defendant was under the influence of intoxicating liquor. ’ ’ ’
+In Shepherd v. Midland Mutual Life Ins. Co., 152 Ohio St., 6, 87 N. E. (2d), 156; Carson v. Metropolitan Life Ins. Co., 165 Ohio St., 238, 135 N. E. (2d), 259; and Ayers v. Woodard, Sheriff, 166 Ohio St., 138, 140 N. E. (2d), 401; the Supreme Court held that a presumption is a procedural device which is resorted to only in the absence of evidence by the party in whose .favor a presumption would otherwise operate; and where a litigant introduces evidence tending to prove- a fact, either directly or by inference, which for procedural purposes would be presumed in the absence of such, evidence, the presumption never arises and the case must be submitted to the jury without any reference to the presumption in either a special or a general charge. Those cases were civil cases, but in our opinion the principle there announced would apply with equal cogency to the trial of criminal cases. As stated by the court in the Carson case, a charge to the jury such as the one in the instant case indicates to that body that the presumption has some evidentiary weight. Under the Ayers case, such a charge is error per se.
+Defendant contends also that the ordinance prescribing in Section 3 a legislative presumption against the accused, quoted by the court in the charge, is unconstitutional as a dilution of the presumption of innocence and the principle of proof of guilt beyond a reasonable doubt. But defendant failed to raise this question at the trial or in his motion for a new trial. We are not required to determine the constitutionality of an ordinance, where the defendant did not raise the question as an affirmative defense at the trial below. City of Cincinnati v. Lindsay, 88 Ohio App., 117, 97 N. E. (2d), 693; State v. Miller, 28 Ohio Law Abs., 571; Kuhn v. Wood, 34 Ohio Law Abs., 265, 36 N. E. (2d), 1006. Cf. Cuthbertson v. State, 106 Ohio St., 658, 140 N. E., 941; Village of Clarington v. Althar, 122 Ohio St., 608, 174 N. E., 251; City of Grandview Heights v. Redick, Dir., 165 Ohio St., 326, 135 N. E. (2d), 267; Grandle v. Rhodes, Aud., 166 Ohio St., 108, 139 N. E. (2d), 328.
+For error in the charge prejudicial to the defendant, the judgment is reversed and the cause remanded for a new trial.
+Judgment reversed.
+Deeds, P. J., Fess and Smith, JJ., concur.
+The ordinance, which was adopted in 1948, provides that no person who is under the influence of intoxicating liquor shall operate or be in actual physical control of any vehicle and has not been amended to conform to the provisions of Section 4511.19, Revised Code, as amended in 1953 (125 Ohio Laws, 461). In the instant case the defendant was charged with operating the vehicle while under the influence of intoxicating liquor rather than being in actual physical control of the vehicle.
