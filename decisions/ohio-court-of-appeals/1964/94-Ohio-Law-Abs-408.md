@@ -1,0 +1,86 @@
+---
+court: "Ohio Court of Appeals"
+docket: "26735"
+decided: "1964-03-19"
+citations: ["94 Ohio Law Abs. 408", "120 Ohio App. 349"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kovachy, P. J., Corrigan, J., concur."]
+parties: ["Union Commerce Bank et, Plaintiffs-Appellees, v. Roth et, Defendants-Appellants."]
+source_url: "https://static.case.law/ohio-law-abs/94/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1818645
+cites_cases: ["102 N. H., 519", "157 Ohio St., 45", "201 Tenn., 631", "60 Ohio App., 317", "60 Ohio Law Abs., 202", "65 Ohio Law Abs., 129", "66 Ohio App., 121", "74 Ohio App., 299"]
+---
+
+# Union Commerce Bank v. Roth
+
+## Majority (Wasserman, J.)
+
+Wasserman, J.
+This is an appeal on questions of law from a judgment rendered in the Probate Court of Cuyahoga County in favor of the executors, the plaintiffs-appellees herein.
+On February 5, 1957, the decedent, Samuel A. Roth, executed his will and shortly thereafter executed a codicil thereto. He died March 14, 1960, survived by his spouse, Harriet Roth, and three children, Alice R. Kruse, Roger R. Roth and George W. Roth and two grandchildren. His will was admitted to probate on March 30, 1960. Thereafter on the 29th day of June, 1960, his widow elected to take under the law and against the will pursuant to Section 2107.39, Revised Code.
+Item I of the decedent’s will provides that all of his “just debts and funeral expenses” be paid out of his estate; Item II contains specific bequests to his wife and children; Item III, “Trust A,” provides for the qualification of this trust for Federal estate tax and marital deduction; Item IV, “Trust B,” provides for the residue and remainder of his property for the benefit of his wife and issue; Item V sets forth the power of the Trustees; and Item VI represents the restrictive clause governing the alienation of the beneficial interest of the principal of “Trust B” by any of the beneficiaries before disposition. Items VII and VIII of his will provide as follows:
+“ITEM VII. The Provisions made for my wife, Harriet Roth, under this my Last Will and Testament, shall be in lieu of her dower rights and her distributive share in my estate but she shall be entitled to all other rights that she may have as my widow under laws of the State of Ohio as they exist at my death. In the event my said wife shall elect not to take under this my Last Will and Testament, then the property disposed of herein shall pass as if my said wife predeceased me.
+“ITEM VIII. I direct that all estate, inheritance and succession taxes of any kind whatsoever and by whomever imposed which may be payable by reason of my death with respect to any property, whether passing under this will or otherwise, together with any penalties and interest thereon, shall be paid by my executors out of my residuary estate passing under ITEM IV of this my Last Will and Testament and no beneficiary of any such property shall be required to reimburse my residuary estate for any taxes so paid.”
+The plaintiffs-appellees brought the action — seeking a declaratory judgment respecting the allocation of administration expenses, debts, Federal estate taxes, and Ohio inheritance taxes.
+The facts were stipulated in the hearing in the Probate Court, together with the documents in the record and the briefs of the parties. No oral testimony was introduced.
+The referee submitted to Probate Court a finding to the effect that the “tax clause” contained in Item VIII was to be disregarded since the wife decided to take under the law, that her share of the decedent’s estate was to bear a proportionate share of the Federal estate tax, and that the Ohio inheritance tax assessed was to be deducted from her share.
+Exceptions were filed by defendants-appellants.
+The matter came before the Probate Court for hearing on the exceptions. The Probate Court confirmed the finding of the referee. The decision of the referee was approved and a journal entry was signed on October 22, 1963.
+Notice of appeal was filed on October 23, 1963.
+By stipulation of all the parties, all administrative ex-penses and debts, with tbe exception of Federal estate taxes and Ohio inheritance taxes, are to be deducted by the executors from the gross estate before the one-third is allotted to the widow as her share of decedent’s estate in accordance with Item I of the will.
+The only question presented is whether the provisions of Item VIII of decedent’s will, which charge taxes against the property passing under Item IV, the intent of which is to keep Federal estate taxes to a minimum, shall be given effect.
+The parties have stipulated that payment of taxes under Item IV (in accordance with Item VIII) for the property passing to Harriet Roth would save the estate approximately $41,-000.00. In addition, all of the adults having a beneficial interest in the estate have expressed a desire to give effect to Item VIII in order to minimize the Federal tax burden of the estate.
+The defendants-appellants set forth three assignments of error:
+“1. The Probate Court erred in determining that the tax clause in decedent’s will was a provision for the benefit of Harriet Roth and that the tax clause was, therefore, to be disregarded when Harriet Roth elected to take under Section 2105.06, Revised Code.
+“2. The Probate Court erred in determining that because Harriet Roth elected to take under Section 2105.06, Revised Code, her intestate share of the decedent’s estate is to bear its proportionate share of Federal estate tax.
+“3. The Probate Court erred in determining that because Harriet Roth elected to take under Section 2105.06, Revised Code, the amount of the Ohio inheritance tax assessed against her succession to the decedent’s estate is to be deducted from her intestate share.
+Under the first assignment of error one must consider the question “Does the election by the surviving widow to take under the law destroy the efficacy of the entire will? We think not. In In re Estate of Reed, 65 Ohio Law Abs., 129, 114 N. E. (2d), 314, the court stated:
+“* * * The law is well settled in Ohio that the rejection of a will by a surviving spouse does not thereby nullify and invalidate the plain intention of a testator as expressed in his will. * * *”
+In re Estate of Ellis, 66 Ohio App., 121, at page 126, 32 N. E. (2d), 23, the court, quoting from 69 Corpus Juris., 1142, Section 2446, stated:
+“ ‘A taking against the will by a surviving spouse does not operate to render the estate intestate and is not allowed to break the testamentary plan further than is absolutely necessary * * * but the will is construed as if it contained no provisions for the renouncing spouse and distribution is made as if he or she had died.’ ”
+And at page 127, the court said:
+“Upon these authorities, we hold that the testator’s estate was not rendered intestate when the widow elected to renounce the provisions of the will made for her and to take under the law and the other provisions of the will remain in full force and effect and must be administered as far as possible to effect the testator’s intention * *
+See also Shearn v. Shearn, 60 Ohio App., 317, 21 N. E. (2d), 133.
+The important questions are: Does the tax clause involve a bequest or a devise of property and was such tax clause made for the benefit of the wife?
+No one makes claim that Item VIII, the tax clause, is a devise or bequest of property and this court in the case of In re Estate of Bingham, Department of Taxation v. National City Bank of Cleveland, 60 Ohio Law Abs., 202, 100 N. E. (2d), 870, held it was not.
+Item VIII of the will clearly expresses the decedent’s desire that all taxes be paid out of the residuary estate passing under Item IV. An examination of the will makes clear that clause VIII was not intended as a benefit to the wife but was intended and included only as a tax-saving device. The wife already had all of the benefit of the estate irrespective of where the tax money came.
+The Federal tax law provides for estate marital tax deduction for the value of the property passing to the surviving spouse, limited to fifty per cent of the value of the “adjusted gross estate.” See U. S. Internal Revenue Code Sections 2056 (a) and 2056 (c).
+The decedent, having in mind the size of the estate, in Item ITT of his will provided for placing in a marital deduction trust an amount of property, when added to the property passing to the widow outside the probate estate, would bring the total value of the property in this estate qualifying for a marital deduction, to one-half of the adjusted gross estate. Obviously it was the testator’s intention to keep the Federal estate taxes as low as possible. The testator intended for the estate to receive the greatest benefit from the marital deduction permissible under the Internal Revenue Code. I. R. C. Section b (4). If the widow is charged with the death taxes on her share of the estate, the marital deduction will be less and the estate will be charged with a greater Federal estate tax. This clearly was not the intent of the testator.
+The only significant purpose of the tax clause was to save on the Federal estate taxes. It was not intended as a benefit to the spouse and, therefore, is not affected by the election of the spouse to take under the law. Assignment of error No. 1 is well taken.
+Coming now to Assignment of error No. 2, the decedent made it very clear that all taxes are to be paid by the executors out of the portion of his estate passing to the trustee under Item IV of the will no matter whether his wife elected to take under the law or under the will. The Probate Court so found on page 3 of the referee’s decision in paragraph two under “Intent of Testator.” Item VIII of the will fully supports this finding. This item directs “all estate, inheritance and succession taxes of any kind whatsoever and by whomsoever imposed, which may be payable by reason of my death, with respect to any property, whether passing under the will or otherwise, together with any penalties and interest thereon, shall be paid by my executors out of my residuary estate passing under Item IV of this my Last Will and Testament and no beneficiary of any such property shall be required to reimburse my residuary estate for any taxes so paid.”
+This certainly was a clear mandate, not limited to property passing only under the will. Certainly the clause “with respect to any property passing under this will or otherwise” must have contemplated the possibility of a taking under the law. It covered taxes on property owned jointly by decedent and his wife.
+The will itself indicates that the decedent recognized the fact that his wife might take under the law and that Item VIII would be given effect in such an event.
+Item VII of his will stating “she shall be entitled to all other rights that she may have as my widow under laws of the State of Ohio as they exist at my death * * and “In the event my said wife shall elect not to take under this my Last Will and Testament, then the property disposed of herein shall pass as if my said wife predeceased me,” clearly shows that the decedent did not say that Item VIII would not then apply. He specifically refers only to “the property disposed of herein.” He made no mention of a taking under the law affecting the provisions of Item VIII.
+The provision under Item VIII is so explicit it could not lend itself to any other interpretation — “I direct that all estate, inheritance and succession taxes * * * payable by reason of my death with respect to any property, whether passing under this will or otherwise, * * * shall be paid by my executors out of my residuary estate passing under Item IV of this my Last Will and Testament and no beneficiary of any such property shall be required to reimburse my residuary estate for any taxes paid.”
+Nothing could be more clear and, therefore, it requires no further comment.
+In McDougall, Admr. v. Central National Bank of Cleveland, Trustees, 157 Ohio St., 45, at page 56, 104 N. E. (2d), 441, it is stated:
+“ * * Courts cannot speculate concerning the intention of settlors and testators as to where they intend the burden of taxes to rest. The instrument as written must govern. * * ”
+And in Central Trust Co. of Cincinnati v. Lamb, 74 Ohio App., 299, at page 306, 58 N. E. (2d), 785, the following appears :
+“To restate here what has been variously iterated and reiterated in many Ohio cases, the cardinal rule of interpretation of a will is to ascertain and give effect to the intention of the- testator. And to that end all rules of construction are to be followed only as they assist in determining that intention, and no rule, however, sanctioned by usage is to be applied to thwart that intention.”
+See also: In re Estate of Bingham, supra.
+Obviously, where the intent is clear, the intent is to be followed.
+Item VIII is not a legacy or a disposition of property. It is an administrative direction to the executors as to the source of funds for the payment of taxes and as such it is to be given effect.
+In re William G. Barnhart Estate, 102 N. H., 519, 162 A. (2d), 168, paragraphs four and six of the syllabus read as follows:
+“4. The provision in the testator’s will that ‘transfer, inheritance, legacy, succession and estate taxes that may be imposed in any jurisdiction . . . upon any part of my estate’ shall be paid out of the residuary estate was a testamentary declaration of a purpose to charge the residue with the payment of estate taxes upon any part of his estate whether transferred by probate or inter vivos, and whether passing as testate or intestate.
+“6. A widow by waiving the provisions of her husband’s will in her favor is not thereby deprived of the tax advantage resulting from a provision in the will that the estate tax shall. be paid out of the residuary estate.”
+In Commerce Union Bank v. Mrs. Peggy Albert, 201 Tenn., 631, 301 S. W. (2d), 352, the syllabus reads, in part, as follows:
+“* * * no part of any estate or inheritance taxes (including taxes on property not passing by will) for which his estate, or any beneficiary thereunder might be liable should be recovered by executors from testator’s widow or any other beneficiary under will, and directed that all of such taxes should be. paid by executors from his residuary estate, widow would hot be required to contribute to payment of federal estate, tax and state inheritance tax, even though she dissented from will.”
+In the case at bar the testator clearly made provision for’; payment of all taxes in Item VIII of his will. That provision; is just as effective and binding upon the executors whether the widow takes under the will or under the law. The second; Assignment of error is, therefore, well taken.
+As to the third Assignment of error, the Probate Court erred in determining that because the widow elected to take, under Section 2105.06, Revised Code, the amount of the Ohio inheritance tax assessed against her succession to the decedent’s estate is to be deducted from her intestate share.
+Section 5731.01 (B), Revised Code, provides:
+“ (B) ‘Succession’ means the passing of property in possession or enjoyment, present or future.”
+Section 5731.02, Revised Code, “Levy of tax; succession subject to tax,” provides:
+“A tax is hereby levied upon the succession to any property passing, in trust or otherwise, to or for the use of a person, institution, or corporation, in the following cases:
+“(A) When the succession is by will or by the intestate laws of this state from a person who was a resident of this state at the time of his death.”
+Section 5731.17, Revised Code, provides:
+“* * * Such taxes shall be, until paid, * * * and the successor and the executors or administrators of the general estate of the decedent, and the trustees of such property shall be personally liable for all such taxes. * *
+In the light of Central Trust Co. of Cincinnati v. Lamb, supra, which unquestionably set forth decedent’s right to make provision for the payment of inheritance taxes and the decedent’s provision in Item VIII of his will, which provides for the payment of all inheritance taxes payable by reason of his death, on any property, whether passing under his will or otherwise, there can be no question but that all inheritance taxes are to be paid by the executors out of the residue of the estate passing under Item IV. Mrs. Roth, the widow, is not to be required to make reimbursement for any inheritance taxes so paid. The third Assignment of error is well taken.
+The judgment of the Probate Court is reversed.
+The provisions of the will, other than the provisions in favor of the widow, are effective even though the widow elects to take under Section 2105.06, Revised Code. All taxes are to be paid out of the portion of decedent’s estate passing to the trustee under Item IV of the will. The taxes are not to be assessed against the widow’s succession.
+For the foregoing reasons, final judgment is entered for the appellant.
+Plaintiffs-appellees except.
+Journal entry to be prepared accordingly.
+Kovachy, P. J., Corrigan, J., concur.
