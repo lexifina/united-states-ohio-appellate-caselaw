@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1921-02-25"
+citations: ["15 Ohio App. 283", "32 Ohio C.A. 152"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shields and Patterson, JJ., concur."]
+parties: ["Speckman v. Speckman et al."]
+source_url: "https://static.case.law/ohio-app/15/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1844966
+cites_cases: ["1 C. C., 521", "1 O. C. C., 521", "12 O. D., 736", "27 O. S., 55", "27 Ohio St., 50", "28 Ohio St., 307"]
+---
+
+# Speckman v. Speckman
+
+## Majority (Houck, J.)
+
+Houck, J.
+This is an action for dower, in which the plaintiff claims that as the surviving widow of Henry Speckman, deceased, she is entitled to dower in valuable real estate located in Coshocton county, Ohio.
+The defense is that plaintiff barred herself of any dower in the real estate by the terms and provisions of an ante-nuptial contract, entered into between the plaintiff and Henry Speckman, in which plaintiff was ¿warded, in lieu of dower and all other rights as widow of Henry. Speckman, deceased, the sum of $1,000, certain household goods, and the. use, so long as she remained his widow, of a house and lot in the village of New Castle, Ohio.
+The plaintiff’s reply admits the signing of the ante-nuptial contract at the instance and the solicitation of the deceased spouse, and alleges that at the time of signing the contract she was betrothed to wed said Henry Speckman, reposed full confidence in him and trusted him to deal fairly and reasonably with her, and that the terms of the contract were dictated exclusively by him; that she had no knowledge of the extent or value of his property, nor the extent or value of the rights proposed to be released by the contract, but relied solely upon her prospective husband’s advice in signing same; that he did not disclose to her or inform her of the nature, extent or value of his property, or the interest which would be released by the contract, and that she was not advised or counseled by anyone else in the premises ; that at the time of the marriage, and at all times during coverture, he was the owner of an estate valued at fifty thousand dollars, and that the provision made for her did not exceed thirteen hundred dollars; and that at the time she had no property and therefore the decedent released nothing by the contract.
+Upon the issues raised by the pleadings and the evidence offered to support same, as contained in the transcript of the testimony taken in the common pleas court, together with certain facts agreed to in open court by counsel in the trial in this court, the case was submitted here for determination. The material facts are as follows:
+The parties were engaged to marry when the ante-nuptial contract was made; the prospective husband’s estate consisted of real estate valued at about twenty-five thousand dollars, and personal estate at about six thousand dollars; the prospective wife’s estate consisted merely in a dower interest in her former husband’s house and lot of the value of one hundred dollars; she was forty-six years old, and the prospective husband sixty-four; she had resided in the village of New Castle for many years, and the husband had resided within two miles of the village until the last four years, when he had lived in New Castle; the ante-nuptial contract was entered into on the day of the marriage.
+The record is silent as to whether or not plaintiff knew the extent and value of the property of Henry Speckman at the time of making the ante-nuptial contract in question. We find no evidence showing, or even tending to show, that Henry Speckman, in any way, manner or form, disclosed to plaintiff the nature and extent or value of the property owned by him at the time of or prior to the execution of the contract: now before us for-review, and during his lifetime* and prior to his death, he made no provision for his wife to share in his property in any way, save "and except. as: contained hi the ante-nuptial con-' tract.-- -■■ ■ ■ ' • ■ ■ ■ ’
+Question: Under this ante-nuptial contract, the conceded'and-proven, facts'in the case,1 and the law applicable thereto* is the plaintiff entitled to dower in -the" real -estate of which ■ her husband, Henri' Speckman, died siezed ? -
+The law is Well Settled that’ a wife can- be barred of her right of dó'Wér in the real estate of Which her husband dies seized by a fair and just ante-nuptial agreement, by which some adequate substitute is given to her-for such release of that right.
+Courts Of equity will carefully scrutinize all such contract's to see if they are fair in their terms and provisions for the Wife, and were entered into by such Wife With full and complete knowledge of all the facts and of her rights in the premises, and without the- exercise of undue pressure or influence upon her.
+It is essential that a court knoW that an inténded wife was free to act, and that no advantage was taken of her by her intended husband, in securing a contract for a marriage settlement, before holding such contract valid, if by so doing she would be barred of her dower rights.
+Lord Bacon said as early as 1641 that it was then “the common byword in the law that the law favored three things, (1) life, (2) liberty, (3) dower,” and from those early times to the present day the right of dower has always been highly esteemed in law, and upheld by our courts unless the opposite be clearly shown.
+The relation existing between persons who have entered into an agreement to marry is of a confidential character, and it was the duty of the dominant party, in the instant case the intended husband, Henry Speckman, to make a full and clear statement of all facts which related to the subject-matter of the contract, and which would fully and completely put his intended wife in the full possession of all his property rights and interests.
+Not only this, but we find and hold the law to be that such party is required to fully establish the agreement and remove from it every element of doubt. Hence, one standing in a confidential relation, who conceals or fails, to make a full disclosure of facts which are within his knowledge, knowing the other party to be ignorant of those facts, is. guilty of fraud, both in law and equity.
+Dower is an ancient and cherished right, now fully established and guaranteed by statutory law, and is clearly not only a right under, the law but as a matter of public policy one safeguarded by the courts.
+We hold that the burden of upholding this contract, which attempts to bar the plaintiff from dower in her husband’s real estate, is, under the facts in this case, upon the defendants. They must show that it is equitable, or, if not, that a full disclosure was made by Henry Speckman to his then intended wife, the plaintiff, of the amount, extent and value of his property at the time the contract was. entered into; and, further, that she has received such benefits and rights under the ante-nuptial contract as to estop her from now claiming dower.
+We have no hesitancy in saying that under the issues raised- by the pleadings, the proven and conceded facts in the case, the plain terms and provisions of the written contract between Henry Speck-man and his wife, and the rules of law herein laid down, which we find and hold to be clearly applicable and determinative of the case at bar, plaintiff is entitled to all the relief prayed for in her petition.
+The rules of law laid down in the following cases have been very helpful to us, and have materially aided in reaching the conclusion which we have in the present case: Duttenhofer v. Duttenhofer, Jr., 12 O. D., 736; Stotler v. Stotler, 19 N. P., N. S., 369; Johnson v. Johnson, 1 C. C., 521; Grogan v. Garrison, 27 Ohio St., 50, and Mintier v. Mintier, 28 Ohio St., 307.
+Judgment and decree for plaintiff, as prayed for in her petition, and case remanded to common pleas court for execution of this judgment.
+Judgment for plaintiff.
+Shields and Patterson, JJ., concur.
