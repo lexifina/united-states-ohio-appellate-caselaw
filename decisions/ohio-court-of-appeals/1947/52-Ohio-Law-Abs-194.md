@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1175"
+decided: "1947-10-02"
+citations: ["52 Ohio Law Abs. 194"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CARTER, PJ, NICHOLS, J, concur in judgment."]
+parties: ["DAVIDSON, Plaintiff-Appellee, v INDUSTRIAL COMMISSION OF OHIO, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/52/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1749269
+cites_cases: ["137 Oh St 82", "141 Oh St 139", "145 Oh St 23"]
+---
+
+# Davidson v. Industrial Commission
+
+## Majority (By PHILLIPS, J.)
+
+OPINION
+By PHILLIPS, J.
+Plaintiff while an employee of the Youngstown Pressed Steel Division of the Mullins Manufacturing Company, a corporation amenable and a contributor to the Workmen’s Compensation Fund of Ohio, eoncededly received an injury to his right leg on July 8, 1943, and received compensation for that injury until November of the same year. During April, May and June, 1945, while employed by the Pastry Shop of Warren, Ohio, he suffered, as he alleged, “a recurrence, reactivation and acceleration” of the injury to his right leg sustained on July 8, 1943, which was injured in the same area in 1930 and for which he was compensated, and claims that as a result of such “recurrence, reactivation and acceleration” of the injuries received July 8, 1943, he has suffered permanent disability since June 2, 1945.
+Subsequently the Industrial Commission of Ohio upon rehearing denied plaintiff compensation for the claimed “recurrence, reactivation and acceleration” of such injuries on the ground that “his present disability did not result from the injury suffered July 8, 1943”.
+Upon appeal duly prosecuted to the court of common pleas a jury sitting therein returned a verdict finding plaintiff entitled to participate in such fund, and it is from the judgment of that court entered upon such verdict that defendant appeals to this court on questions of law.
+Even if the trial judge did err to defendant’s prejudice in overruling its motion for a verdict directed in its favor made at the conclusion of plaintiff’s testimony, as urged by it, it cannot urge such error now for the reason that it did not stand on its exception to such ruling but proceeded with its defense.
+“When a motion of a defendant for a directed verdict is made at the conclusion of plaintiff’s evidence and overruled, the defendant has an election either to stand on his exception to the ruling or to proceed with his defense; and if he accepts the ruling, however erroneous it may be, and proceeds with his defense, introducing evidence on his own behalf, he thereby waives his right to rely on the denial of his original motion.” Halkias, Appellee, v Wilkoff Co., Appellant, 141 Oh St 139, syllabus 2.
+Upon conclusion of all the evidence counsel for defendant renewed its motion for a verdict directed in its favor made at the close of plaintiff’s case, which was overruled, but it has not been urged here that the court erred to its prejudice in overruling such renewed motion.
+Plaintiff offered no medical testimony to support the allegations of his petition nor his contention upon trial of the “recurrence, reactivation and acceleration” of the injury to his right leg sustained on July 8, 1943. Upon cross-examination of defendant’s medical witness his counsel propounded the following hypothetical question:—
+“Q. And assuming that in July of 1943, while working for the Mullins Manufacturing Company, his leg, in the region which you examined, was struck with an iron hook, and caused that area to open, and the previously inactively ulcerated molitis or other bony condition, and was aggrivated, and resulted in his suffering swelling and pain and soreness and ulceration in that region, would you think that, having that previous condition which I just called to your attention, and standing on his leg all day long as a baker, in a room that was quite hot, with a hot oven there — that that standing under those circumstances — having in mind the previous condition, might cause the area to break open again.” (sic).
+The trial judge sustained defendant’s objection to that question. Counsel for plaintiff then asked the same witness the following question:—
+“Q. And if the man stated that while on the job, that area did break open again, and became ulcerated and swollen, and the leg became weak, would you say that could reasonably follow.”
+The trial judge overruled defendant’s objection to that question and permitted the witness to answer it.
+Counsel for defendant now claim that the court erred in his ruling because “the question obviously was a continuance of the first question as indicated by the use of the word ‘and’ at the beginning of the question, and also by the use of the word ‘again’ in the question”; and was “objectionable on the same basis as the previous question” because “it. is improper to ask an'expert witness to take unproven facts into consideration in forming his opinion”.
+In our opinion the trial judge did not err to defendant’s prejudice, as its counsel urges, in permitting such question to be asked and answered.
+Now it is the claim of counsel for defendant that plaintiff’s counsel was guilty of misconduct in his argument to the jury by stating and assuming as facts matters and things which were not in evidence and by commenting on testimony which had been ruled out. The trial judge sustained defendant’s objection to a lengthy hypothetical question, which need not be stated here, and counsel for plaintiff proffered the following answer:—
+“Anything that might aggrivate this condition, such as traumatism, excessive exercise, or standing on his leg a long time, might aggrivate this condition (sic).”
+In his closing argument to the jury counsel for plaintiff quoted the proffered answer to which defense counsel objected, and tó which counsel for the defendant replied:—
+“Mr. Sieman: We have a right to bring to the jury all possible evidence, we haven’t excluded anything, we have brought out all the evidence we could, we think you were entitled to have it, and we give it to you: * *
+Counsel for plaintiff further argued:—
+“* * * when he had his leg struck by the hook, and hurt his leg, they paid him- compensation for that, even though he had a heart condition at the time, and arterio-sclerosis.”
+Counsel for defendant objected to this, the court did not rule upon it, and counsel for plaintiff added “well, high blood pressure”. Then the following colloquy transpired:—
+“Miss Polcar: In ’46 is when found— ■
+“Mr. Sieman: We will let the jury determine whether I am mis-stating the fact or not.
+“They paid compensation even though he had some other conditions at the time: * *
+It is observed that the trial judge did not rule on defendant’s objection to the argument of plaintiff’s counsel, and defendant’s counsel states by brief that “the jury was not instructed by the court to disregard the above quoted statements of plaintiff’s counsel, nor did plaintiff’s counsel reprimanded by the court, nor did plaintiff’s counsel retract his statements” which we interpret as charging the trial judge with prejudicial error in failing so to do. We find no request not to mention insistence by defense counsel for a ruling by the court on the objection to the argument of plaintiff’s counsel, nor any request for instruction to the jury to disregard such argument nor to reprimand plaintiff’s counsel; and while it is the duty of the trial judge to keep the arguments of counsel within reasonable bounds, yet in this case a duty was imposed upon defendant’s counsel to at least make a reasonable effort to protect defendant’s record.
+We have studied this assigned ground of error carefully and are mindful of our duty, and while we can not and do not condone argument of the kind of which complaint is made, and under other conditions conceivably might reverse this case on this assigned ground of error, yet in the state of the record as it is submitted to us we will not reverse the judgment of the trial court for the reasons urged.
+Apparently defendant’s contention that the trial judge “erred in overruling defendant’s motion for judgment notwithstanding the verdict of the jury” is based upon the holding of the Supreme Court in the case of Drakulich v Industrial Commission, 137 Oh St 82, 27 N. E. (2nd) 932, that the issue in the case “presented a field of scientific inquiry where expert medical testimony is required to furnish the answer” of causal connection “and that such answer could not possibly be within the knowledge of lay witnesses or members of the jury”, and “that the testimony must establish a probability, not a mere possibility, of such causal connection”.
+We believe that in the instant case, unlike that case, that “the testimony of lay witnesses does have probative value in establishing probability of such proximate causal relationship and medical testimony is not absolutely essential”, and that “it cannot be said as a matter of law that the plaintiff failed to produce evidence of probative value on the subject of proximate causal relationship between the injury received and the result claimed.” Therefore, we believe, the trial court properly submitted that issue to the jury. See Bowling v Industrial Commission, 145 Oh St 23, where it is held:—
+“The provisions of the Workmen’s Compensation Law are to be construed liberally in favor of an injured workman seeking benefits thereunder.
+“On an appeal by an injured workman from an order of the Industrial Commission disallowing his claim for compensation, the question of proximate causal relationship between the injury received and the result claimed is, ordinarily, one of fact for determination by the trier of the facts.
+“It is the duty of the trial court in a jury trial to submit to the jury the question of proximate causal relationship between the injury received and the result claimed, where the evidence is such that reasonable minds might reach different conclusions upon that question.
+“In such an appeal, where one of the issues is whether there is a proximate causal relationship between an admitted injury to plaintiff’s eye and an impairment of his vision, plaintiff is competent to testify as to the condition of his vision both before and after his injury.
+“Plaintiff’s testimony as to the condition of his vision before and after an admitted injury to his eye constitutes evidence of some probative value upon the issue of probable causal relationship. Hence in such a case it is not essential for plaintiff to produce medical testimony upon that subject to entitle him to the submission of his case to the jury.”
+Obviously we cannot reach the conclusion at which counsel for defendant asks us to arrive that the trial judge erred as urged in this assigned ground of error.
+We remember that defendant waived its rights to rely on the denial of its original motion for a verdict directed in its favor made at the close of plaintiff’s case and though renewed at the close of all the evidence did not urge as error the ruling of the trial judge on such renewal which, as heretofore suggested, in our opinion now precludes his right to urge the assigned ground of error under discussion.
+We have read the reasonably short bill of exceptions submitted to us in this case carefully and can not say that “the verdict of the jury and the judgment of the court are not supported by the weight of the evidence” as counsel urges, and it is obvious from what we have said that we do not find that “the verdict of the jury and the judgment of the court are contrary to law” nor that “the court erred in overruling defendant’s motion for a new trial”.
+The judgment of the court of common pleas is affirmed.
+CARTER, PJ, NICHOLS, J, concur in judgment.
