@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "37145"
+decided: "1977-01-13"
+citations: ["56 Ohio App. 2d 79"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kbenzlee and Stillman, JJ., concur."]
+parties: ["The State, ex rel. Curd, v. Backhaus et al."]
+source_url: "https://static.case.law/ohio-app-2d/56/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6705737
+cites_cases: ["11 Ohio St. 2d 141", "118 Ohio App. 143", "130 Ohio St. 411", "17 Cal. App. 3d 824", "298 U. S. 674", "51 Ohio St. 83", "63 Ohio St. 541", "71 Ohio St. 428", "80 F. 2d 327", "95 Cal. Rptr. 259"]
+---
+
+# State ex rel. Curd v. Backhaus
+
+## Majority (Jacksoh, 0. J.)
+
+Jacksoh, 0. J.
+This is an action in mandamus originating in this court. Belator is an owner of a unit in the Georgetown Commons condominium development. Bespon-dents are the members of the Board of Managers of the Georgetown Commons Condominium Owners’ Association. Belator seeks the issuance of a writ of mandamus requiring respondents to obtain the “full insurance” he alleges to be required by B. C. 5311.16, Sections 14(A) and 15(A) of the Declaration of Condominium Ownership, and Article IV 1(b) of the Bylaws of the Association, “including coverage on all fixtures and other condominium property which service exclusively an individual unit.”
+Pursuant to provisions of B. C. 2731.01, mandamus is:
+“ * * * a writ, issued in the name of the state to an inferior tribunal, a corporation, board, or person, commanding the performance of an act which the law specially enjoins as a duty resulting from an office, trust, or station.”
+Hence, mandamus will not lie to compel the performance of an act not specially enjoined by law as a duty re-suiting from an office, trust or station. Selby, v. Selby (1900),. 63 Ohio St. 541. In the case at bar the duty said to be enjoined as a duty resulting from ah office, trust or station is that contained in R. C. 5311.16, which states:
+■.....“Unless otherwise provided by the■ declaration or bylaws the board of managers shall insure all unit owners, their tenants, and all persons lawfully in possession or control of any part of the condominium property for such amount as it determines against liability for personal injury' or property damage arising from or relating to the common areas and facilities and shall also obtain for the benefit of all unit owners fire and extended coverage insurance on all buildings and structures of the condominium property in an amount not less than eighty per cent of the'.fair value thereof. The cost of such, insurance shall be a common expense.” (Emphasis added.)
+According to the language of this statute it does not dictate the clear mandate of the duty necessary for the issuance of such a writ, since it allows for alternate provision in the declaration and bylaws, which' provision appears, to have, in fact, been made. Indeed, the Supreme Court- of Ohio has written of that legal' duty which the extraordinary writ of mandamus may command:
+“A court can no. more, create a legal duty than can the'humblest citizen. Creating a legal duty is the function of the legislative branch of the government. The most that a court can do is to command the performance of an act which the law specially enjoins as a duty resulting from an office, trust or station when a clear right to such performance is presented.” Davis, Mayor, et al., v. State, ex rel. Pecsok (1936), 130 Ohio St. 411, 425.
+In addition, it is well established that the issuance of a writ of mandamus is authorized when there is no plain and adequate remedy in the ordinary course of the law. State, ex rel. River Grove Park, Inc., v. Kettering (1962), 118 Ohio App. 143, 146.
+It is clear that relator has available a remedy in the ordinary course of the law. Such remedies may include legal or equitable relief. State, ex rel. Pressley, v. Indus. Comm. (1967), 11 Ohio St. 2d 141, 155-156. The condominium act itself, in R. C. 5311.19, provides that actions for damages or injunctive relief may be brought by the unit owners’ association and/or one or more unit owners for any violation of deed provisions, the declaration, bylaws, or administrative rules and regulations.
+In addition to the availability of an action for damages, relator would seem to have an action for specific performance if damages were inadequate. The question as to whether the requested insurance must be provided by the board of managers may not be resolved in an action for damages or specific performance by looking only to the statute since it clearly provides that such insurance shall be obtained “ [u]nless otherwise provided by the declaration or bylaws.” The association has, in fact, made provision in its declaration and bylaws as to such insurance and, consequently, those are the documents to be interpreted. Since those documents represent agreements among the unit owners themselves and between the unit owners and the association, they are essentially contractual. White v. Cox (1971), 17 Cal. App. 3d 824, 834, 95 Cal. Rptr. 259, 265, Roth, P. J., concurring (refers to a condominium declaration as a contract). An analogy may be drawn to the charter of a corporation, which has been held to be a contract between the state and the corporation, between the corporation and its shareholders and between the classes of shareholders. Personal Industrial Bankers, Inc. v. Citizens Budget Co. of Dayton, Ohio et al. (C. A. 6, 1935), 80 F. 2d 327, certiorari denied, 298 U. S. 674, (1936).
+Traditional contract law suggests that where damages are not adequate, specific performance may be sought, both of which remedies are within the ordinary course of the. law. State, ex rel., v. Carpenter (1894), 51 Ohio St. 83. Moreover, it may be noted here that mandamus is not a proper proceeding to determine the respective rights of the parties to a contract. City of Mount Vernon v. State, ex rel. Berry (1905), 71 Ohio St. 428.
+Finding that the duty sought by relator to be performed is not specifically enjoined by law, and that a plain and adequate remedy at law is available, the application by relator for a writ of mandamus is denied.
+Writ denied.
+Kbenzlee and Stillman, JJ., concur.
+The interpretation of the “\u\nless otherwise .provided by the declaration or bylaws” language of the statute as well as the language in the Declaration of Condominium Ownership at Section 15(A) which calls- for such insurance coverage “provided all such coverage is obtainable at what the Board of Managers deems a reasonable cost. In the event such coverage is not available, the Association shall notify each Family Unit Owner and mortgagee of record,” is obviously crucial to "the issue which relator brings to this court (emphasis added). Since the relator has failed to include this language in his petition to this court and in his prior letter to respondent requesting respondents to obtain such insurance, the relator has consequently failed .to take advantage of the opportunity to present an alternative interpretation and this eourt has no choice but to give such relevant language its plain and ordinary meaning.
