@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1922"
+citations: ["32 Ohio C.A. 429"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shields and Patterson, JJ., concurring."]
+parties: ["The Liberty Mutual Insurance Company v. Lewis B. Houck."]
+source_url: "https://static.case.law/ohio-ca/32/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1614404
+cites_cases: ["18 O. S., 469", "24 O. S., 345", "30 O. S., 647", "34 O. S., 450", "39 O. S., 584", "50 O. S., 549", "75 O. S. 312", "94 U. S., 621"]
+---
+
+# Liberty Mutual Insurance v. Houck
+
+## Majority (Alleead, J.)
+
+Alleead, J.
+The original action was brought by Lewis B. Houck against the Liberty Mutual Insurance Company upon a contract of insurance against loss by fire and theft of his automobile and personal effects therein. The loss by theft of said personal effects from the automobile shortly after the’ insurance contract was made and the value thereof are undisputed. The action was brought to recover $200.00 being the amount insured for personal effects. The plaintiff recovered a judgment in the court of common pleas.
+From the undisputed evidence it appears that Judge Houck, plaintiff below, applied to a local insurance agent at Mt. Yernon for fire and' theft insurance upon his Dodge sedan, $1,000 and upon the personal effects therein $200, total $1,200, and that the agent1 assured him that he could place the insurance with the plaintiff in error and agreed to do so. The amount of the premium for said insurance was calculated and agreed upon and the following receipt given:
+June 4th, 1920 No.-
+“Received of Lewis B. Houck $18.12 Eighteen and 12-100 Dollars for one year premium on auto policy in Liberty Mutual Insurance Company of Dayton, Ohio, $1,000 on car and $200 on personal effects. Fire & Theft Insurance.
+Will J. Welsh, Agt.”
+Judge Houck authorized the agent to sign for him the application and to leave the policy, when issued, in his office at Mt. Vernon. An application for fire and theft insurance for $1,200 was forwarded by the agent to the Insurance Company. It is not clear from the evidence whether the agent in the application allotted $200 or any other amount to personal effects. The company, upon receipt of the application; issued the policy for $1,000 upon the automobile alone, no amount -being designated for loss of personal effects. Such policy was mailed to the agent at Mt. Vernon and by him deposited in Judge Houck’s office as agreed. Judge Houck had no actual notice or knowledge of the1 terms of the policy issued until after the loss complained of. Counsel for .plaintiff below rest their claim upon the contention that there was a present contract of insurance entered into by plaintiff below and the insurance agent at Mt. Vernon, and the the insurance company was bound thereby. It is well settled that an insurance contract may be entered into by the assured and a duly authorized agent of the .insurer to take effect at once, and that a valid obligation is thereby imposed upon the insurance company. Insurance Company v. Whitman, 75 O. S. 312; Insurance Company v. Kelly, 24 O. S., 345; Machine Company v. Insurance Company, 50 O. S., 549; Eames v. Home Insurance Company, 94 U. S., 621. There is an abundance of authority in this state and elsewhere that a valid insurance contract in praesenti may be made in advance of the issuance of the policy. 14 Ruling Case Law, page 850. The best definition of such, a contract is thus stated by Mr. Justice Bradley in Eames v. Insurance Company and approved in the opinion in Machine Company v. Insurance Company, to-wit:
+“It is sufficient if one party proposes to be insured, and the other party agreed to insure, and the subject, the period, the amount, and the rate of insurance is ascertained or understood, and the premium paid if demanded. It will be presumed that they contemplate such form of policy, containing such conditions and limitations as are usual in such cases, or have been used between the parties. This is the sense and reasoning of the thing, and any contrary requirement should be expressly notified to the party to be affected by it.”
+We think the undisputed evidence makes it clear that all the essentials of a contract of insurance in praesenii are found in the negotiations and agreement between Judge Houck and the agent of the insurance company. Judge Houck planned to and did leave, the morning following the making of the contract, for an extended automobile trip and the insurance was designed to become operative immediately.
+This brings us to the question of the authority of the local agent at Mt. Vernon to bind the company.
+Section 9586 G. C., provides:
+“A person who solicits insurance and procures the application therefor, shall be held to be the agent of the party, company or association, thereafter issujng a policy upon such application or a renewal thereof, anything in the application or policy to the contrary notwithstanding.”
+This is a statutory declaration of an agent’s authority and cannot be defeated by any limitation imposed by the insurance company. The local agent of the plaintiff in error at Mt. Vernon was a soliciting agent and his authority is measured by the terms 30 O. S., 647; Insurance Company v. Williams, 39 O. S., 584. The purpose of the statute under consideration was to protect parties seeeking insurance and who necessarily are required to deal with local agents and thereby place them upon equal footing with the insurance company and relieve them from secret limitations placed upon the-.agent’s authority. It .is not clear whether the local agent at Mt. Vernon specified in the application the amount of insurance designed to cover personal effects. If tbe agent did not, his failure is not chargeable against the assured. If the local agent at Mt. Vernon properly specified the amount of insurance designed to cover the personal effects then the company had no authority to modify the insurance contract already made by the agent and issue a policy for the amount designed to cover the automobile alone. Such policy could become the insurance contract only by approval and ratification of the assured. This is not claimed. See Fire Insurance Company v. Goldstein, 111, Md. 83.
+Whether the insurance company had the right, promptly and before loss, upon notice to the assured, to reject the entire application and cancel the insurance contract, we do not decide.
+The insurance company did not attempt to reject the entire application nor cancel the policy. It attempted to ratify so much of the agent’s contract as met its approval and reject the balance.
+The insurance company as against the assured was charged with the knowledge of its agent and by affirming the acts of the agent in part it must be held, under the circumstances, to affirm the same in toto. Winpenny v. French, 18 O. S., 469: Rolling Stock Company v. Railroad, 34 O. S., 450.
+In the absence of actual notice to the assured he would not be bound to take notice of conditions in the usual form of policy issued by the insurance company inconsistent with the insurance expressly contracted for by the local agent. Nor would the assured, in the absence of actual notice, be bound by the limitations in the charter of the insurance company. No such actual notice on the part of the assured is claimed and the undisputed evidence was that the assured relied upon the agreement and representation of the local agent of the insurance company.
+We agree with the trial court that all material facts in this case are undisputed, and that the case resolves itself into a question of law. We are also of opinion that the trial court was right in instructing a verdict upon the undisputed evidence in favor of the.planitiff below.
+Judgment affirmed.
+Shields and Patterson, JJ., concurring.
