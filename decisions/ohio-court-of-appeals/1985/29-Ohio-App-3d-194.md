@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+docket: "49633"
+decided: "1985-06-24"
+citations: ["29 Ohio App. 3d 194"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corrigan, C.J., and Ann McManamon, J., concur."]
+parties: ["The State of Ohio, Appellee, v. Smith, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/29/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712980
+cites_cases: ["45 Ohio App. 2d 32", "68 Ohio App. 2d 1", "74 O.O.2d 71"]
+---
+
+# State v. Smith
+
+## Majority (Patton, J.)
+
+Patton, J.
+Michelle Smith appeals from the decision of the Juvenile Court of Cuyahoga County, which found her delinquent for violating R.C. 2921.34, escape.
+Appellant originally came to the attention of the juvenile court in 1980 when she was adjudged dependent and placed in the custody of the Cuyahoga County Department of Human Services. Since then, appellant has consistently run away from various placements, institutions and group homes.
+On August 27, 1984, appellant appeared before the juvenile court on a disorderly conduct complaint. The court found appellant to be delinquent and committed her to the Youth Development Center, a restricted facility. The court stayed the order, however, and placed appellant in the Betterway Group Home, a non-secure facility, under house arrest. At that time, the court particularly and specifically informed Michelle Smith of the restrictions upon her: she was not to leave the home or go anywhere without the court’s permission. To do so would subject her to a filing on an escape charge. Appellant left the Bet-terway Group Home without permission two days later.
+On October 22, 1984, appellant was picked up for disorderly conduct and taken to the Cuyahoga County Detention Home. Two days later, a complaint charging her with a violation of R.C. 2921.34(A) was filed. Appellant appeared before the juvenile court on November 21,1984, for a hearing on the charges. Counsel moved to dismiss the complaint and moved under Juv. R. 30 that physical and mental testing be done in order to determine her amenability as a juvenile. These motions were summarily denied.
+After hearing from counsel, the guardian ad litem, the social worker and appellant, the court found the allegations proven beyond a reasonable doubt, adjudged appellant delinquent and committed her to the custody of the Ohio. Department of Youth Services for institutionalization for a minimum of six months and a maximum not to exceed appellant’s twenty-first birthday.
+From that decision, appellant brings the instant appeal. She assigns two errors:
+“I. The court erred in denying defendant’s motion to dismiss charge because the complaint failed to allege, and the prosecution failed to prove, commission of the felony of escape under Ohio Revised Code Section 2921.34.
+“II. The court erred in denying defendant a physical and mental examination required by Rule 30 of the Ohio Rules of Juvenile Procedure.”
+I
+Appellant’s first assignment of error asserts that the prosecution failed to prove commission of the felony of escape. “Escape” is defined in R.C. 2921.34. That section provides in pertinent part:
+“(A) No person, knowing he is under detention or being reckless in that regard, shall purposely break or attempt to break such detention, or purposely fail to return to detention, either following temporary leave granted for a specific purpose or limited period, or at the time required when serving a sentence in intermittent confinement,”
+Specifically, appellant argues that she was not under “detention” at the Betterway Group Home and, therefore, she could not be found delinquent under this statute. This argument is not well-taken.
+“Detention” is defined in R.C. 2921.01(E) as “arrest, or confinement in any facility for custody of persons charged with or convicted of crime or alleged or found to be delinquent or unruly, or detention for extradition or deportation. Detention does not include supervision of probation or parole, nor constraint incidental to release on bail.” The Committee Comment to this section explains that: “ ‘Detention’ includes * * * confinement in a lock-up, jail, workhouse, juvenile detention facility, Ohio Youth Commission facility, or penal or reformatory institution.* * *”
+The word “detention” as used in R.C. 2921.01(E) does not signify a place or a means of confinement, but rather it is an abstract term which signifies a status. State v. Shook (1975), 45 Ohio App. 2d 32, at 34 [74 O.O.2d 71]. It constitutes the state of being held in some form of legal custody. Id. The breaking of detention as prohibited by R.C. 2921.34(A) is the termination of the status of being in legal custody, either with or without the use of force, and when it is done purposely the offense of escape has been committed. Id. at 35. “The crime however, is not in breaking out of the facility but in willfully terminating the status of being detained therein.” Id.
+We have no doubt in the present case that appellant was in a state of detention at the Betterway Group Home. The juvenile court particularly and specifically informed appellant at the disposition of her case that she was not to leave the home or go anywhere without the court’s permission. To emphasize the nature of appellant’s status at the home, the court even warned appellant that leaving the home without permission would result in the filing of escape charges. It matters not that the Betterway Group Home was a non-secure facility since appellant’s status there was one of detention. When appellant purposely left the home without permission, she terminated her status as detained and completed the offense of escape. Appellant’s argument that because she was sent to an unstructured facility, she was not being “held” within the meaning of Shook, swpra, is refuted by the Shook decision itself.
+We reject also appellant’s argument that under the juvenile law of Ohio, a place cannot be suitable for “detention” unless it is a “restricted” facility, and since the Betterway Group Home was a non-restrictive facility, appellant could not have been in “detention.” Such an argument is circular and overlooks the import of State v. Shook, supra — the type of facility in which an individual is confined is irrelevant to a determination of whether there was an escape for purposes of R.C. 2921.34. What matters is whether the individual is being held in some form of legal custody.
+Appellant submits that her commitment to a group home was either “probation” or “protective supervision.” R.C. 2151.011(A)(15) and (16). Whatever appellant chooses to label her status at the Betterway Group Home, we find that she was under legal custody there and subject to a charge of escape when she left without permission.
+Furthermore, R.C. 2151.011(B)(3), upon which appellant relies, defines "detention” only as the word is used in R.C. Chapter 2151. For purposes of R.C. Title 29, and R.C. 2921.34 in particular, the controlling definition of “detention” is found in R.C. 2921.01(E), cited above.
+Lastly, we are mindful of the precedent our ruling in' this case may set, and we do not intend by our ruling to convert the simple act of a child running away from home into a felony. We are not dealing with a simple act of running away here, however. We are dealing with a girl who has repeatedly and proudly made a mockery of our system of justice by disobeying every disposition the juvenile court has made. The juvenile court made it quite clear that appellant would be under legal custody and subject to an éscape charge if she left the Betterway Group Home without permission.
+R.C. Chapter 2921 was enacted to deal with offenses which hamper law enforcement and the administration of justice. Committee Comment to R.C. Chapter 2921. (H.B. No. 511.) By using language such as “delinquent” and “unruly” in that chapter, words which have precise meaning in juvenile law, the legislature indicated its intent that juveniles would not be immune to prosecution under that chapter.
+Accordingly, appellant’s first assignment of error is overruled.
+II
+Appellant’s second assignment of error asserts that the court should have granted her Juv. R. 30 motion for a physical and mental examination to determine her amenability to treatment as a juvenile. Juv. R. 30 is entitled “Relinquishment of jurisdiction for purposes of criminal prosecution” and sets forth the procedure for what is commonly referred to as “bind-over.” The case at bar is quite unusual in that the appellant child is asking for her case to be transferred to the adult court. She alleges that this is her right under Juv. R. 30. We disagree.
+Juv. R. 30 provides that “[i]n any proceeding where the court may transfer a child fifteen or more years of age for prosecution as an adult, the court shall hold a preliminary hearing to determine if there is probable cause to believe that the child committed the act alleged and that such act would be a felony if committed by an adult. * * *” (Emphasis added.) We read this rule to state that a preliminary probable cause hearing is mandatory if the court believes that it might want to relinquish its jurisdiction over the child. There is no provision in the rule or in the Revised Code that the child can cause the juvenile court to surrender its jurisdiction.
+R.C. 2151.23(A)(1) grants the juvenile court “exclusive original jurisdiction * * * [concerning any child who on or about the date specified in the complaint is alleged to be * * * delinquent * * *.” (Emphasis added.) Juv. R. 44 states that the jurisdiction of the juvenile court is unaffected by the rules. Thus, whatever right a chüd has to a hearing under Juv. R. 30, that right does not extend to requiring the juvenile court to relinquish its jurisdiction. Requiring the juvenile court to grant a mental and physical exam for purposes of bind-over upon motion of the child, when the court has no intention of relinquishing its jurisdiction over the child, would be nonsensical. A child does not have the right to be tried as an adult.
+It is clear in the present case that the juvenile court did not believe appellant was a candidate for bind-over to the common pleas court. The trial court did not err in denying appellant’s Juv. R. 30 motion for mental and physical examinations.
+Furthermore, the appellant recognizes that the trial court has great practical discretion in determining whether to transfer jurisdiction to the court of common pleas. Appellant has not shown that the court in this case abused its discretion in retaining jurisdiction. Absent such a showing, this court will not reverse the decision of the juvenile court. Accord State v. Neuman (Mar. 2, 1972), Cuyahoga App. No. 30705, unreported.
+Accordingly, the decision of the juvenile court adjudging appellant delinquent and committing her to the Ohio Department of Youth Services is affirmed.
+Judgment affirmed
+Corrigan, C.J., and Ann McManamon, J., concur.
+Counsel for the parties stipulated that appellant was placed at Betterway Group Home and that she left without permission, The attorneys disagreed whether appellant’s placement at the Betterway Group Home constituted a “detention.”
+See R.C. 2151.011, which states in relevant part:
+“(A) As used in the Revised Code:
+"* * *
+“(B) As used in this chapter:
+“(3) ‘Detention’ means the temporary care of children in restricted facilities pending court adjudication or disposition.”
+Case law basically discusses juveniles who were opposing transfers of jurisdiction under Juv. R. 80.
+Juv. R. 44 provides:
+“These rules shall not be construed to extend or limit the jurisdiction of the juvenile court.”
+Only a properly transferred juvenile may be prosecuted in the criminal courts. As one court has stated: “Failure to comply with the provisions of R.C. 2151.26 * * * deprives the Court of Common Pleas of jurisdiction over a juvenile defendant.” State v. Riggins (1980), 68 Ohio App. 2d 1, 4. A prosecution in criminal court on the mistaken belief that the child was over eighteen at the time of the offense is a “nullity.” R.C. 2151.26(E); 8 Giannelli, The Public Defender (May-June 1985), at 1.
