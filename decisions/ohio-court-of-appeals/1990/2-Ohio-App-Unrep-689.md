@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. CA89-08-014"
+decided: "1990-04-09"
+citations: ["2 Ohio App. Unrep. 689"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JONES, P.J., HENDRICKSON and YOUNG, JJ., Concur."]
+parties: ["Browning v. Weber"]
+source_url: "https://static.case.law/ohio-app-unrep/2/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1610999
+cites_cases: ["10 Ohio St. 3d 77", "19 Ohio St. 3d 10", "22 Ohio St. 2d 166", "26 Ohio St. 2d 146", "35 Ohio St. 3d 10", "45 Ohio St. 3d 288", "54 Ohio St. 2d 279", "6 Ohio St. 3d 46"]
+---
+
+# Browning v. Weber
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon an appeal, transcript of the docket, journal entries and original papers from the Madison County Court of Common Pleas, transcript of proceedings, and the briefs of counsel, oral argument having been waived.
+Now, therefore, the assignments of error having been fully considered are passed upon in conformity with App. R. 12(A) as follows:
+"This is an appeal by plaintiffs-appellants, Elizabeth Browning and Heidi Browning, from a jury verdict in favor of defendant-appellee, Roland Weber, Jr., in the Madison County Court of Common Pleas."
+On August 25, 1988, Browning filed a complaint alleging that Weber was the father of her child. A jury trial was held on July 26-27, 1989. During trial, Browning presented expert testimony explaining the use of the Human Leukocyte Antigen (HLA) tests in paternity cases. She also presented the results of an HLA test that she, Weber and the child had taken showing that Weber could not be excluded as the father and that the probability of paternity was 99.83%. The jury returned a verdict for Weber. This appeal followed.
+Browning presents two assignments of error for review. In her first assignment of error, she states that the trial court erred in failing to give her proposed jury instruction. She argues that the general charge given by the trial court failed to adequately instruct the jury on the evidentiary effect of the HLA test. We find this assignment of error to be well-taken.
+A charge to the jury should be a plain, distinct and unambiguous statement of the law as applicable to the case before the jury. A charge must not only be correct but it should be adapted to the case and so explicit so as not to be misunderstood or misconstrued by the jury. An incomplete charge is grounds for reversal of a judgment where it misleads the jury. Marshall v. Gibson (1985), 19 Ohio St. 3d 10, 12. It is the court's duty to give a proposed special instruction which is pertinent to an issue and correctly states the law, unless repetitive of other instructions. Briere v. Lathrop Co. (1970), 22 Ohio St. 2d 166, 176; Walczesky v. Horvitz Co. (1971), 26 Ohio St. 2d 146, 150.
+The trial court provided the parties with a written set of jury instructions. Browning then submitted an additional proposed jury instruction based upon two Ohio Supreme Court decisions, Owens v. Bell (1983), 6 Ohio St. 3d 46, and Wright v. Oliver (1988), 35 Ohio St. 3d 10. The instruction read:
+"HLA tests in recent years have been medically and legally accepted as proof of the probability of paternity. These tests constitute relevant evidence to establish the probability of paternity. It is recognized that such genetic testing can be superior evidence to witness testimony in parentage cases."
+We first note that the third sentence of the proposed instruction is not a correct statement of law. In Wright, supra, the supreme court stated that "this court recognizes that genetic testing can be superior evidence to witness testimony in parentage actions."The court made this statement in reaching the conclusion that the doctrine of laches is available in parentage actions prior to the expiration of the statute of limitations, but only if the defendant can show material prejudice. Id. at 12. It determined that the defendant was not materially prejudiced despite the death of witnesses because of the availability of the HLA test.
+Nevertheless, the legislature has stated that "evidence relating to paternity may include *** [g]enetic test results, weighted in accordance with evidence, if available, of the statistical probability of the alleged father's paternity[.]" R.C. 3111.10(C). The legislature, stated only that genetic tests may be presented as evidence, not that they are superior in any way to any other evidence. If the legislature had intended genetic tests to be superior evidence, it would have so stated. See Hulett v. Hulett (1989), 45 Ohio St. 3d 288, 293.
+When the trial judge took issue with the third sentence of the instruction, Browning asked if the court would consider striking the last sentence and giving the instruction as amended. The trial court refused, saying that the instruction would "highlight" a piece of evidence. The court did not feel that the proposed instruction as amended was improper, but only it was adequately covered in the general charge. The court charged the jury as follows:
+"Members of the [jlury, in this case, you heard the testimony of a witness testifying as to a series of serological tests specifically selected because of their known genetic transmission, including tests for the presence or absence of common blood antigens, serum enzymes and serum proteins. The series of tests were made by qualified experts as determined by the court, and you have heard the qualified experts' testimony as to their results and as to their opinions.
+"Generally a witness may not express an opinion, however, one who follows a profession may express his opinion because of his education, knowledge and experience. Such testimony is admitted for whatever assistance it may provide to help you arrive as a just verdict."
+We do not believe that this charge adequately advises the jury of the law in regard to HLA tests. In the syllabus of Owens, supra, the supreme court stated:
+"O. Jur. 2d Bastardy * 40.10
+"1. Human Leukocyte Antigen (HLA) tests are basically genetic comparison examinations rather than blood grouping tests as described in R.C. 2317.47 and former 3111.16. These tests in recent years have been medically and legally accepted as proof of the probability of paternity.
+"2. HLA tests constitute relevant evidence to establish the probability of paternity. This evidence would have been admissible for that purpose even prior to the enactment of R.C. 3111.09 and 3111.10, which now permit the admission of HLA test results to establish the probability of paternity."
+Owens indicates that the HLA test is only of the tests set out in R.C. 3111.09 and 3111.10. It follows then that a general instruction regarding testing which does not mention HLA, nor speak to its legal or medical acceptance, does not adequately inform the jury of the test as evidence. Moreover, the jury was not told of the evidentiary value of the test, only that the expert testimony was admitted "for what assistance it may provide."
+In making this ruling, we do not propose to abdicate the jury system in favor of the HLA test. The HLA test is only evidence for the jury to consider. However, if the jury is not adequately instructed as to the value of what evidence, there is vast potential for the jury to be misled. Consequently, we find that the trial court erred in failing to give the proposed instruction as amended. Therefore, Browning's first assignment of error is sustained.
+In her second assignment of error, Browning states that the jury verdict is against the manifest weight of the evidence.
+"Judgments supported by some competent credible evidence going to all essential elements of the case will not be reversed as being against the manifest weight of the evidence." C. E. Morris Co. v. Foley Construction Co. (1978), (1978), 54 Ohio St. 2d 279; Seasons Coal Co. v. Cleveland (1984), 10 Ohio St. 3d 77. Matters as to the weight and credibility of evidence are for the jury to decide. Great deference must be given to the findings of fact made by the jury. As a reviewing court, we cannot substitute our judgment for that of the jury. Seasons Coal Co., supra, at 80.
+Under the standard set forth above, we cannot say that the jury's decision was against the manifest weight of the evidence. Browning presented testimony to prove that she had an affair with Weber in June 1987 and that he fathered her child. Weber presented evidence that he had not even met Browning June 1987 and that he had never had sexual relations with her. The issue was essentially one of credibility and the jury chose to believe Weber. There was competent credible evidence to support the jury's verdict.
+Nevertheless, the trial judge's failure to give Browning's proposed instruction caused the jury to be misled as to the evidentiary value of the HLA test. Under the circumstances, the jury's verdict is necessarily suspect. Accordingly, we sustain Browning's second assignment of error.
+The assignments of error properly before this court having been ruled upon as heretofore set forth, it is the order of this court that the judgment or final order herein appealed from be, and the same hereby is, reversed and this cause is remanded for further proceedings according to law and not inconsistent with this decision.
+Judgment reversed and cause remanded.
+JONES, P.J., HENDRICKSON and YOUNG, JJ., Concur.
