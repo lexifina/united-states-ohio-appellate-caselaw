@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1928-03-12"
+citations: ["29 Ohio App. 327"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Lloyd, JJ., concur.", "Judges of the Sixth Appellate District sitting in place of Judges Shields, Lemeet and Houck of the Fifth Appellate District."]
+parties: ["DeWitt v. Schweitzer."]
+source_url: "https://static.case.law/ohio-app/29/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1311731
+---
+
+# DeWitt v. Schweitzer
+
+## Majority (Richards, J.)
+
+Richards, J.
+The original action was commenced in the municipal court of the city of Canton by Dr. J. P. DeWitt to recover an amount claimed to be due him on an account for services as a physician. A cross-petition was filed by the defendant, Edward Schweitzer, setting up a cause of action for claimed malpractice on the part of Dr. DeWitt. The trial resulted in a verdict and judgment in favor of Schweitzer in the amount of $1,000, which judgment was affirmed in the court of common pleas.
+This case has already been before this court, and it was then held that the petition in error was not filed in the common pleas court within the time limited by statute. Since that decision some correction of the record has been made, and it now appears, and is conceded, that the only judgment of the municipal court which was journalized was rendered December 30, 1926, and the petition in error was filed within 70 days from that date. No copy of that journal entry was before this court at the former hearing. The certificate of the clerk of the municipal court that the transcript embraces, among other things, the “docket and journal entries, including the judgment or final order in said court in the above-entitled case, ’ ’ is broad enough to include the certified copy of the journal entry which is now in the record. That certificate and the certificate of the clerk of the court of common pleas are sufficient to show that the certified copy of the journal entry was a part of the record, and we must conclude that it was lost or mislaid in the Court of Appeals. The court therefore is now at liberty to consider the case on its merits.
+Edward Schweitzer was the sexton in charge of St. John’s Cemetery at Canton, and was seriously injured on August 17, 1925, by falling from a tree which he was engaged in trimming. These injuries consisted of a fractured hip bone, and, it is said, some broken ribs, and an injury to one of his shoulders. Dr. DeWitt was employed to treat him and rendered services as a physician for several days. The principal default charged against Dr. DeWitt is that he was called by Mrs. Schweitzer on the telephone several times one night and was informed that her husband was suffering intense pain and that they desired the doctor to come and administer something to relieve his pain. Under the directions of the physician morphine had been administered in liquid doses, but it is claimed that Mr. Schweitzer could not retain this in his stomach, ánd that the vomiting resulting from taking the medicine caused intense agony, and that this continued for perhaps eight or nine hours while they were waiting for Dr. DeWitt to come and give morphine by hypodermic injection, or to administer some other 'remedy in order to relieve the pain, and it is contended that this suffering, extending over that period of time, caused by the failure of the physician to administer a sedative, resulted in a serious, permanent nervous condition in Schweitzer.
+It will be noticed that, while the patient was suffering from severe physical injuries, it is claimed that the asserted malpractice of the physician resulted in further serious injuries. In the trial of a case of that character it would, of course, be vital for the trial judge in charging the jury to clearly distinguish between the injuries which Schweitzer received in falling from the tree and the injuries, if any, resulting from the claimed malpractice of his physician. The trial judge in charging the jury used the word “injuries” or “injured” as many as 15 times, and from the context it appears that on some occasions the word referred to the injuries received in falling from the tree, that on some occasions it referred to the injuries claimed to have been received by reason of malpractice, and that sometimes it apparently referred to both classes of injuries. That portion of the charge relating to this subject ends with the following instruction :
+“You will take into consideration in determining the amount of damages for his injuries, if you find he is entitled to damages, the nature and extent of his injuries, whether permanent or not, and the pain he has suffered.”
+Certainly that does not discriminate between the injuries he received in falling from the tree and the injuries, if any, which he received at the hands of his physician, and the instruction also directs the jury to consider, in awarding damages, “the pain he has suffered,” without regard to how it was caused. This instruction was manifestly erroneous and prejudicial to the physician, and this is apparent from the size of the verdict.
+Immediately after the conclusion of the charge the trial court was requested, in the presence of the jury, to correct the language by limiting the term “injuries” to such as were received at the hands of the physician, and so as t'o exclude injuries sustained by falling from the tree, but this the trial court refused to do. This incident served to intensify the erroneous and prejudicial character of the instruction.
+We have examined the other claimed errors and find none prejudicial to the plaintiff in error, but for the reasons given the judgment must be reversed and the cause remanded for a new trial.
+Judgment reversed and cause remanded.
+Williams and Lloyd, JJ., concur.
+Judges of the Sixth Appellate District sitting in place of Judges Shields, Lemeet and Houck of the Fifth Appellate District.
