@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "6064"
+decided: "1968-05-15"
+citations: ["14 Ohio App. 2d 127"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bbenneman, P. J., and Doyle, J., concur."]
+parties: ["Winfrey et al., Appellees, v. Marks et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-2d/14/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1464429
+cites_cases: ["102 Ohio App. 225", "112 Ohio App. 169", "121 Ohio St. 56", "145 N. E. 2d 15", "147 N. W. 2d 720", "214 Cal. 15", "237 Ind. 273", "3 P. 2d 545", "314 Ill. App. 389", "32 Ohio Law Abs. 640", "372 F. 2d 155", "38 Ohio App. 164", "4 A. L. R. 2d 1111", "40 Ohio Law Abs. 85", "41 N. E. 2d 548", "5 Mich. App. 607", "60 Ohio App. 302", "66 Ohio App. 332", "70 Ohio App. 34", "76 A. L. R. 1348", "80 Ohio St. 183", "95 Ohio Law Abs. 325", "96 Ohio St. 374"]
+---
+
+# Winfrey v. Marks
+
+## Majority (Hunsicker, J.)
+
+Hunsicker, J.
+An appeal on questions of law and fact has been lodged in this court from a decree granting a permanent injunction from “proceeding with the construction of the building and parking lot to be used for retail business purposes or for any other purpose in violation of the restrictive covenant contained on the allotment plot on said Lot No. 2 of said allotment.”
+Counsel for the plaintiffs (appellees here) claims that no journal entry of judgment has been entered herein. An examination of the transcript of docket and journal entries compels this court to conclude that, although the series of papers marked “Finding of Law and Fact” bear no date as to when such papers were filed with the Clerk of Courts, by the fact such findings and order are signed by the trial judge and both counsel of record, and the further fact that a motion to approve such findings and order was filed on the date the journal entry of approval thereof was accepted by the Clerk of Courts for journalization, such findings and order are, in truth, a journal entry making complete disposition of the controversy, and such journal entry is, hence, a final appealable order. The failure of the Clerk of Courts to place a date of acceptance thereon should not prejudice the defendants (appellants here).
+Louis Marks purchased, in 1965, Lot No. 2 of the Kepler’s Landing Allotment, with full knowledge that on the plat of such allotment, and in each deed given by the grantors of such lots, a restrictive covenant appears limiting the use of such lands to single family residences only. With such knowledge, Mr. Marks comes within the rule set out by this court in Lopartkovich v. Rieger, 66 Ohio App. 332. See, also: Kiley v. Hall, 96 Ohio St. 374, L. R. A. 1918B 961.
+Two questions arise herein: first, does the removal of the restriction from Lot No. 2 effect the removal of the same restriction from all other lots in the allotment; and, second, what degree of change in a neighborhood is necessary before a court of equity will decree that such restriction is no longer enforceable.
+We must point out that only a small minority of the owners of lots in Kepler’s Landing Allotment have consented to waive the restriction. Only two persons, living some eight hundred feet from Lot No. 2, have protested, by appearance as witnesses, the violation of the restriction. Most of the lots in this allotment have houses on them valued from $24,000 to $35,000. Lot No. 2 adjoins Lot No. 1, the only unrestricted lot in the allotment, and on that lot is a gasoline station. Lot No. 2 extends from South Main Street extension to Shrakes Hotel Drive. The lot is shaped much like a “boomerang.”
+It is the rule long since established in the case of Brown v. Huber, 80 Ohio St. 183, that:
+“Where such covenant or restriction is still of substantial value to the dominant lot notwithstanding the changed condition of the neighborhood in which said lot is situated, a court of equity will restrain its violation.”
+This rule has been recognized as the law of this state by this court in Myers v. Smith, 112 Ohio App. 169 at 172. See, also: Romig v. Modest, 102 Ohio App. 225; Kokenge v. Whetstone, 60 Ohio App. 302; and Berger v. Van Sweringen Co., 95 Ohio Law Abs. 325 at 332.
+This court does not believe that there has been such a substantial change of condition in this neighborhood sufficient to destroy the value of the restriction to the other lot owners. A zoning ordinance does not invalidate a restriction as to the type of building permitted on such restricted lot. Myers v. Smith, 112 Ohio App. 169; and Szilvasy v. Saviers, 70 Ohio App. 34.
+Where there is a substantial change in the character of a neighborhood to such an extent that the restriction as to residences only has lost its value, then, upon a proper showing by clear, convincing and substantial evidence, the court may declare the restriction no longer binding upon the property. Hayslett v. Shell Petroleum Corp., 38 Ohio App. 164.
+In Dixon v. Van Sweringen Co., 121 Ohio St. 56 (second paragraph of the syllabus), the court said:
+“In order that restrictive agreements in a deed may be declared void as against public policy, the same must violate some statute, or be contrary to judicial decision, or against public health, morals, safety or welfare, or in some form be injurious to the public good.”
+If there is a substantial value in the restrictive covenant which is sought to be protected, a court of equity will enforce such covenant upon the request of the owner of the dominant estate. Romig v. Modest, 102 Ohio App. 225.
+In Pecsok v. Cleveland Trust Co., 32 Ohio Law Abs. 640, the Court of Appeals for Cuyahoga County determined that a prior judgment of the Court of Common Pleas declaring a restrictive covenant not binding upon the owner was res judicata in a subsequent action to use the same land in further violation of the restrictive covenant.
+It seems to be the rule that a decree enforcing a restrietive covenant is not conclusive, in a subsequent case involving the same matter, where there has been a change of conditions in the interim. See: Ockenga v. Alken, 314 Ill. App. 389, 41 N. E. 2d 548; and Hurd v. Albert, 214 Cal. 15, 3 P. 2d 545, 76 A. L. R. 1348.
+A collation of authorities on the subject of “Eestrictions — Change in Neighborhood” may be found in 4 A. L. R. 2d 1111. The general rule, as set out therein (at p. 1116), says:
+í í * * * courts of equity, in passing upon cases of this character, grant or withhold injunctive relief depending upon the accomplishment of an equitable result in the light of all the circumstances surrounding the particular case, and grant or withhold affirmative relief depending upon whether the restrictive covenant remains of substantial benefit to the dominant estate or whether its purpose has been defeated by a radical change in the character of the neighborhood.”
+We find no radical change in the neighborhood involved in the instant case.
+If this court were to determine that a substantial or radical change has occurred in this neighborhood, making the restrictive covenant unenforceable as to Lot No. 2, there would then arise the question of its enforcement as to all other lots lying along South Main Street in close proximity to Lot No. 2. The conditions theretofore found to be sufficient to justify a declaration of unenforceability of the restriction would apply, also, to other lots in this allotment. The alleged changed conditions are not, in fact, changes of recent occurrence, since most of them existed prior to the development of Kepler’s Landing Allotment. The lots that would be immediately affected adversely are lots 3 through 6, and lots 44 and 45. (The rear of these latter numbered lots abut on the land of a plaintiff, Euth I. Winfrey [appellee here].)
+There is before this court a class action in behalf of lot owners other than those who appeared and testified. The damage to other lot owners, whose representation may have been but perfunctory, is that, through the class action, they may be bound by the conclusion that a change of conditions abrogating the restriction has taken place.
+This court, sitting by assignment in the Eighth Appellate District, in the case of Warner v. Knollwood Cemetey Co., 40 Ohio Law Abs. 85, determined that an adjudication in a former action asking that deeds be cancelled in a cemetery allotment was res judicata in a subsequent class action seeking similar relief.
+In 50 Corpus Juris Secundum 308, Judgments, Section 777, the text, with supporting authorities, says:
+‘ ‘ Subject to some exceptions, qualifications, and limitations, it is a general rule as to class suits, that is, suits in which one or more persons sue or defend for all and the question is one of a common or general right or the parties are so numerous that it is impracticable to bring them all before the court, that the judgment will be binding on all persons belonging to the class so represented; and the rule has been held to apply to persons subsequently coming into the class.”
+The doctrine of res judicata is “applicable to the conclusive determination of issues of fact * * * [and] is generally concerned with the effect of an adjudication in a wholly independent proceeding.” 32 Ohio Jurisprudence 2d 33, Judgments, Section 280.
+Members of a class may be bound by a judgment upon the doctrine of virtual representation where there exists a community of interest between those to be bound and their representatives. The interest of those who are absent must be identical with those who are before the court.
+Indiana, ex rel. Rader, v. Lake Circuit Court, 237 Ind. 273, 145 N. E. 2d 15; Theisen v. Dearborn, 5 Mich. App. 607, 147 N. W. 2d 720; Carroll v. American Federation of Musicians, 372 F. 2d 155.
+It is the judgment of this court that the prayer of the petition be granted and that a decree be entered as in the trial court.
+Decree for plaintiffs (appellees here).
+Bbenneman, P. J., and Doyle, J., concur.
