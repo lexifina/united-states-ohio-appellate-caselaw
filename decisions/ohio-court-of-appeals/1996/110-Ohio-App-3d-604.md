@@ -1,0 +1,66 @@
+---
+court: "Ohio Court of Appeals"
+docket: "E-95-058"
+decided: "1996-04-26"
+citations: ["110 Ohio App. 3d 604"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Melvin L. Resnick, P. J., Handwork and Abood, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. WIRTANEN, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/110/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1791327
+cites_cases: ["13 OBR 29", "13 OBR 439", "13 Ohio App.3d 27", "13 Ohio App.3d 358", "1995 WL 680023", "29 OBR 448", "29 Ohio App.3d 321", "35 Ohio St.3d 90", "362 N.E.2d 1216", "4 O.O.3d 237", "468 N.E.2d 328", "469 N.E.2d 909", "50 Ohio St.2d 103", "505 N.E.2d 987", "518 N.E.2d 934", "581 N.E.2d 541", "599 N.E.2d 780", "607 N.E.2d 1121", "62 Ohio St.3d 253", "631 N.E.2d 666", "75 Ohio App.3d 400", "79 Ohio App.3d 705", "91 Ohio App.3d 10"]
+---
+
+# State v. Wirtanen
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This accelerated case is before the court on appeal from a judgment of the Sandusky Municipal Court, which found appellant, Robert A. Wirtanen, guilty of operating a motor vehicle while under the influence of alcohol, a violation of R.C. 4511.19(A)(1). Appellant appeals that judgment and asserts that the following error occurred in the proceedings below:
+“The Trial Court erred when it overruled Defendanb-Appellant’s motion to dismiss which motion asserted that Defendant-Appellant’s statutory right to a speedy trial had been violated.”
+On January 22, 1994, appellant was arrested and charged with a violation of R.C. 4511.19(A)(1). Appellant expressly stated, in writing, that he did not wish to waive his right to a speedy trial. On January 24, 1994, appellant entered a plea of not guilty. On that same date, appellant’s trial counsel filed a motion requesting a pretrial conference. The pretrial was scheduled for February 25, 1994. A jury trial was scheduled for March 15,1994.
+On March 2, 1994, appellant filed a motion for a continuance; trial was then scheduled for May 17,1994. On May 13,1994, appellee, the state of Ohio, filed a motion for a continuance. Appellee asserted that the arresting officer, P. Frost, would not be available on the scheduled trial date. Appellee’s motion was granted, and trial was set for June 21, 1994. On June 3, 1994, appellant moved for another continuance. This motion was granted and the trial was set for July 26,1994.
+On July 22,1994, the prosecution again asked for a continuance. It maintained that the arresting officer was on vacation and would not be able to testify on the scheduled trial date. The trial court granted this motion and stated that appellant’s trial would be scheduled on “the next available date.”
+On October 20, 1994, appellant’s trial was scheduled for November 15, 1994. On November 8,1994, appellant filed a motion to dismiss the cause for appellee’s alleged failure to comply with the Ohio’s speedy trial statute, R.C. 2945.71. Appellee filed a memorandum in opposition to the motion. On November 14, 1994, appellant filed a motion for a continuance of the scheduled November 15, 1994 trial for the purpose of researching the law and preparing a response to appellee’s memorandum in opposition. In his motion, appellant acknowledged that the granting of his motion for a continuance would extend the time for trial under the speedy trial statute. Appellant’s motion was granted and, on January 4,1995, trial was rescheduled for January 24,1995.
+Appellant, on January 18, 1995, requested another continuance. This request was granted; trial was scheduled for March 21,1995.
+On March 15, 1995, appellant filed a “supplement” to his motion to dismiss. He contended that four hundred seventeen days had passed since his arrest and that, of this total, at least one hundred twenty-nine days were “arguably chargeable” to the state.
+On May 2, 1995, the trial court scheduled May 19, 1995 as the date for a hearing on appellant’s motion to dismiss. Although the record does not contain a motion for a continuance filed on behalf of either party, the hearing on appellant’s motion was rescheduled for July 20, 1995. The only notation appearing on the docket sheet that relates to this change is dated May 19,1995 and reads: “CASE TO BE RESET FOR HEARING PER PROSECUTO [sic ].”
+On July 27, 1995, the trial court denied appellant’s motion to dismiss and set this case for trial on “the next available date.” On August 22, 1995, trial was scheduled for September 6, 1995. On that date, appellant appeared, pled no contest and was found guilty. After sentencing, appellant filed his timely notice of appeal.
+The sole issue in this case is whether appellant was brought to trial within the time limit mandated by the relevant provision of R.C. 2945.71.
+Violation of R.C. 4511.19(A)(1) is a misdemeanor of the first degree. R.C. 4511.99(A)(1) and (2). R.C. 2945.71 provides:
+“(B) A person against whom a charge of misdemeanor, other than a minor misdemeanor, is pending in a court of record, shall be brought to trial:
+« * * *
+“(2) Within ninety days after his arrest or the service of summons, if the offense charged is a misdemeanor of the first or second degree, or other misdemeanor for which the maximum penalty is imprisonment for more than sixty days.”
+The Ohio speedy trial statute is constitutional and mandatory and must be strictly construed against the state. State v. Singer (1977), 50 Ohio St.2d 103, 109, 4 O.O.3d 237, 240, 362 N.E.2d 1216, 1220. Once the statutory limit has expired, the defendant has established a prima facie case for dismissal. State v. Howard (1992), 79 Ohio App.3d 705, 707, 607 N.E.2d 1121, 1122; State v. Geraldo (1983), 13 Ohio App.3d 27, 28, 13 OBR 29, 30-31, 468 N.E.2d 328, 330. At that point, the burden is upon the state to demonstrate that sufficient time was tolled pursuant to R.C. 2945.72 to leave fewer than ninety days chargeable to the state. State v. Broughton (1991), 62 Ohio St.3d 253, 261, 581 N.E.2d 541, 547-548. A failure of the state to comply with the mandates of the Ohio speedy trial statute requires discharge of the defendant. R.C. 2945.73; State v. Benson (1985), 29 Ohio App.3d 321, 324, 29 OBR 448, 451-452, 505 N.E.2d 987, 991.
+In the present case, the ninetieth day after appellant’s arrest was April 22, 1994. However, appellant established that he was not brought to trial until September 6, 1995, five hundred ninety-two days after his arrest. Thus, the burden was on the state to demonstrate any tolling or extension of the statutory limit of ninety days.
+R.C. 2942.72 provides that the speedy trial time limit is extended for the following relevant reasons:
+“(E) Any period of delay necessitated by reason of a plea in bar or abatement, motion, proceeding, or action made or instituted by the accused;
+« * * *
+“(H) The period of any continuance granted on the accused’s own motion, and the period of any reasonable continuance granted other than upon the accused’s own motion * *
+Appellant contends that the state failed to demonstrate that the requirements of R.C. 2945.72(E) and (H) were met as to the following time periods and that they are, therefore, chargeable to the state:
+(1) 1/24/94 to 2/25/94 — a total of thirty-two days between appellant’s request for a pretrial and the pretrial itself.
+(2) 5/13/94 to 6/3/94 — the period of twenty-one days the trial was continued on the state’s request based upon the unavailability of the arresting officer.
+(3) 7/22/94 to 11/8/94 — the period of one hundred nine days the trial was continued on the state’s request based upon the unavailability of the arresting officer.
+(4) 3/21/95 to 5/19/95 — a total of sixty days between the date set for trial and the time the trial court set the hearing on appellant’s motion to' dismiss.
+(5) 5/19/95 to 7/20/95 — sixty-two days between the time the trial court continued the hearing on appellant’s motion and the hearing itself.
+(6) 7/27/95 to 9/6/95 — a total of forty-one days between the time the trial court denied appellant’s motion to dismiss and the time appellant entered his plea of no contest.
+In adding these days, appellant argues that the state is chargeable with three hundred twenty-five days, a figure far in excess of the ninety day statutory limit.
+The scheduling of a pretrial conference or hearing does" not automatically extend the time requirements of R.C. 2945.71. State v. Hengstler (1991), 75 Ohio App.3d 400, 599 N.E.2d 780; State v. Gowe (1983), 13 Ohio App.3d 358, 359, 13 OBR 439, 441, 469 N.E.2d 909, 910-911. However, where the record demonstrates that the pretrial was granted upon the defendant’s own request and there is nothing facially unreasonable about the amount of time taken to permit the pretrial and subsequent trial, this time is tolled pursuant to R.C. 2945.72(E). Gowe, supra; State v. McLaren (June 21, 1991), Lucas App. No. L-90-201, unreported, 1991WL 110370.
+In this case, appellant requested the pretrial, it was held within a reasonable time and, at that point in the proceedings below, trial was scheduled for well within the ninety day statutory time limit. Accordingly, the thirty-two days taken for the pretrial were tolled.
+Appellant next asserts that the one hundred thirty days accumulated as the result of the unavailability of the arresting officer cannot be tolled and are chargeable to the state.
+Pursuant to R.C. 2945.72(H), the time within which an accused must be brought to trial can be extended by any reasonable continuance other than upon an accused’s own motion. However, the law requires that the continuance be “reasonable in light of its necessity or purpose” under the “peculiar facts and circumstances of a particular case.” State v. Saffell (1988), 35 Ohio St.3d 90, 91, 518 N.E.2d 934, 935. In order for a continuance to toll speedy trial time, the trial court must record the continuance, identify the party to whom the continuance is chargeable and indicate the underlying reason for the continuance. State v. Collins (1993), 91 Ohio App.3d 10, 15, 631 N.E.2d 666, 669-670.
+In the case before us, the state’s first motion for a continuance based on the unavailability of the arresting officer caused a delay of twenty-one days. Appellant then asked for a continuance. In addition, after the trial court granted the motion, the case was assigned a new trial date that fell within the statutory time limit for bringing appellant to trial. Thus, under the facts of this case, the twenty-one-day period resulting from the continuance requested by the state is not chargeable to the state.
+Nevertheless, we find, for the following reason, that the one-hundred-nine-day delay following the state’s second motion for a continuance due to the unavailability of the arresting officer does not extend the time for trial. The stated reason for the continuance was the fact that the arresting officer would be on vacation. This constitutes a basis for a reasonable continuance. Saffell, supra, 35 Ohio St.3d 90, 518 N.E.2d 934. The trial court, however, waited to set a trial date until October 1994. That trial date, November 15, 1994, was set beyond the expiration of the speedy trial limit. There is no explanation in the record as to why the trial could not have been scheduled within the statutory speedy trial limit of ninety days. Cf. id. Accordingly, under the facts and circumstances of this case, the continuance was not reasonable, and the state must be charged with a total of one hundred sixteen days.
+Moreover, at least one other delay is chargeable to the state. The continuance of the hearing On appellant’s motion to dismiss does not contain a reason for that continuance. To repeat, tolling requires a trial court to record the continuance, identify the party to whom the continuance is chargeable and indicate the underlying reason for the continuance. State v. Collins, 91 Ohio App.3d at 15, 631 N.E.2d at 669-670. Therefore, the sixty-two days between May 19,1995 and July 20,1995 are chargeable to the state.
+For these reasons, the trial court erred in denying appellant’s motion for dismissal based on violations of R.C. 2945.71(B)(2). Appellant’s sole assignment of error is found well taken.
+The judgment of the Sandusky Municipal Court is reversed. Appellant, Robert A. Wirtanen, is discharged. Costs of this appeal assessed to appellee, the state of Ohio.
+Judgment reversed.
+Melvin L. Resnick, P. J., Handwork and Abood, JJ., concur.
+. Appellant was also charged with impeding traffic, a violation of Sandusky Municipal Ordinance 73.11, and failure to wear a seatbelt, a violation of Sandusky Municipal Ordinance 74.42.
+. This includes time tolled under R.C. 2945.72.
+. This period includes two days chargeable to the state between January 22, 1994 and January 24, 1994 and five days chargeable to the state between February 25, 1994 and March 2, 1994 for a total of one hundred sixteen days (109 plus 2 plus 5).
+. See fn. 3.
+. The period between the time the trial court denied appellant's motion to dismiss (July 27, 1995) and the scheduled trial date (September 6, 1995) is also chargeable to the state. See State v. Edmunds (Nov. 17, 1995), Lucas App. No. L-95-102, unreported, 1995 WL 680023.
