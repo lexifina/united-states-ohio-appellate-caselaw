@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "112"
+decided: "1947-10-24"
+citations: ["83 Ohio App. 510"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wiseman, P. J., Miller and Hornbeck, JJ., concur."]
+parties: ["In re Estate of Carson."]
+source_url: "https://static.case.law/ohio-app/83/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393224
+cites_cases: ["146 Ohio St., 448"]
+---
+
+# In re Estate of Carson
+
+## Majority (By the Court.)
+
+By the Court.
+This is an appeal on questions of law from an order of the Probate Court of Champaign county, denying probate of the purported will of Ida Carson, deceased, for the reason that at the time of its execution she was under undue influence. The record discloses that both subscribing witnesses to the will, one of whom was the granddaughter of the testatrix, and the other Benjamin E. Seibert, the attorney who drew the will, were the only, witnesses called. They testified as to all the facts essential under the law to constitute dueness of attestation and execution of the will; and that the testatrix at the time of the execution was of full age, of sound mind and memory and under no restraint, which testimony was not altered or changed by the cross-examination. There was no conflict in the testimony that the testatrix at the time of the execution of the will was not under any restraint, that she was of sound mind and memory, or that the other elements required to be shown by Section 10504-22, G-eneral Code, existed. Such being the case a prima facie case was made as a matter of law.
+The cross-examination of those witnesses disclosed that the will was drawn and executed in the home of the appellant, a daughter of the testatrix, with whom the latter was staying; that the testatrix was 87 years of age; that she was frail of body; that Benjamin E. Seibert, attorney, who drew the will and was one of the subscribing witnesses thereto, was a cousin of the appellant’s husband; and that three days prior to the execution of the will the testatrix executed a written instrument whereby she elected to take under the statutes of descent and distribution instead of under the will of her deceased husband, and thereby increased her estate by approximately $12,000, concerning which ■election and her will, she consulted with Seibert who was called to her home in Urbana, Ohio, by the appellant who was acting for her mother, Ida Carson.
+The record discloses further that the will was drafted by Seibert in the presence of only the testatrix, in the kitchen in the home of her daughter, Alice, in Columbus, Ohio, and that he and the decedent had consulted three days prior thereto concerning her election and her will. Up to three days prior to the execution ■of the will the testatrix lived in her home in Urbana, •Ohio, but was then moved to the home of her daughter, Alice, in Columbus. On the day.of the execution of the will the daughter, Alice, called Seibert by telephone upon the request of the testatrix to come to Columbus for the purpose of drawing the will. It was from this state of facts that the trial court drew the inference of undue influence.
+It is the contention of the appellant that the judgment of the Probate Court is not sustained by sufficient evidence and is contrary to law. We think the controlling case on this subject is that of In re Will of Elvin, 146 Ohio St., 448, 66 N. E. (2d), 629, the syllabus of which provides:
+“Under Sections 10504-18 and 10504-22, General Code, the following principles govern the hearing on an application to admit a will to probate: (a) No issue is presented for a contest of the will between its proponents and opponents; (b) opponents of the will may cross-examine witnesses fully upon the dueness of attestation and execution, the mental capacity of the testator and undue influence, but are not allowed to call witnesses against the admission of the will to probate; (c) a prima facie case in favor of the validity of the will is all that is required, and when all the evidence shows as a matter of law that such a prima facie case is made out, the court must admit the will to probate, even though the evidence is conflicting.”
+In that case, the court said, on page 452:
+“After all the validity of a will can be contested only by a civil action brought pursuant to Section 12079 et seq., General Code, after the admission of such will to. probate. In such an action the parties are entitled to a trial by jury. See Section 12082, General Code. On the hearing of an application to admit a will to probate, the Probate Court does not weigh the evidence, but merely considers the evidence favorable to the will’s validity to determine as a matter of law whether a prima facie case has been made. The opponents of the will are permitted to cross-examine the witnesses to preclude, if possible, the making of such a case. Were a contest permitted on the hearing of such an application, proponents and opponents would be affected dissimilarly by the final outcome. Proponents, aggrieved by an adjudication and final determination refusing admission of the will to probate, would have no remedy by civil action and would be deprived of the benefit of a jury trial; opponents, aggrieved by the admission of the will to probate, could contest again by civil action and would have a right to a jury trial in the second contest. The statutes governing the admission of a will to probate and its contest are in pari materia and so must be construed together. Connectively considered they do not show a legislative intent to provide for two separate contests in different courts.”
+It is our conclusion that the trial court weighed the evidence, considering the inferences against the direct testimony of the two witnesses, in violation of the law as pronounced in the case of In re Will of Elvin, supra.
+It is also contended by the appellant that the court erred in the admission of evidence. The record discloses that upon cross-examination of the two witnesses certain letters written by the testatrix were identified and admitted in evidence over the objections of the appellant. These letters were intended to reflect upon the mental condition of the testatrix.
+We are of the opinion that the court erred in the admission of that evidence.
+Section 10504-18, General Code, provides:
+“The court shall cause the witnesses to the will, and such other witnesses as any person interested in having it admitted to probate desire, to come before thé court. On request of such interested person, the court shall compel the attendance of any witness by subpoena as in civil cases. Such witnesses shall be examined, and may be cross-examined, in open court, and their testimony reduced to writing and filed.”
+It will be noted that that section permits the testimony of only those witnesses whom any person interested in having the will admitted to probate may desire to call. It is true such section permits the witnesses to be cross-examined, which examination should be limited to the testimony offered in chief, and the offering of evidence to controvert the testimony of the witnesses is not admissible.
+It is, therefore, our conclusion that the proponents of the will made a prima facie case and the will should have been admitted to probate. The trial court cannot weigh the evidence if there is a conflict therein.
+The judgment is reversed and the cause is ordered remanded to the trial court with instructions to admit the will to probate.
+Judgment reversed.
+Wiseman, P. J., Miller and Hornbeck, JJ., concur.
