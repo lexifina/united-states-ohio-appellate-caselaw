@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1937-01-18"
+citations: ["24 Ohio Law Abs. 451", "55 Ohio App. 469"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["TATGENHORST, PJ, and HAMILTON, J, concur."]
+parties: ["LAURENT v CINCINNATI CLEARING HOUSE ASSN et"]
+source_url: "https://static.case.law/ohio-law-abs/24/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679553
+---
+
+# Laurent v. Cincinnati Clearing House Ass'n
+
+## Majority (By ROSS, J.)
+
+OPINION
+By ROSS, J.
+This case is here on appeal from the Court of Common Pleas of Hamilton County, Ohio, upon questions of law and fact.
+The case is presented here upon the record of proceedings in the trial court. In the statement of counsel in this court, it was stipulated that the court should consider the case as if motions made in the trial court were made in this court.
+The statement of the case by appellant here does not differ substantially from that appearing in the record of the trial court, We find on examination of the record at the outset a motion for judgment upon the opening statement of counsel for the plaintiff. We, therefore, proceed to examine the pleadings and statements of counsel in order that we may ascertain whether or not such motion should now be granted.
+It appears from the petition and the opening statements of counsel that the plaintiff is receiver of The Banco Kentucky Company, a corporation organized under the laws of the state of Delaware; that The Cincinnati Clearing House Association is an unincorporated association consisting of Cincinnati banks, including The Brighton Bank & Trust Company and The Pearl Market Bank & Trust Company; that The Banco Kentucky owned almost the entire sto«k of these two last-named Cincinnati banks, and, in addition thereto, owned a majority of the stock of The National Bank of Kentucky, The Louisville Trust Company, Central Savings Bank & Trust Company, The Peoples Liberty Bank & Trust Company, and other banking institutions located in other Kentucky cities; it also owned a large amount of stock in Caldwell & Company of Nashville, Tennessee.
+The Banco Kentucky borrowed from The Chemical Bank & Trust Company of New York some $1,600,000, and pledged as collateral, stock of the two Cincinnati banks in addition to other collateral. The National Bank of Kentucky collapsed, followed by The Louisville Trust Company. The Cincinnati Clearing House Association some time previous to this had in effect guaranteed the solvency of Cincinnati banks to depositors. The two' Cincinnati banks in question came under the effect of the guaranty.
+The Chemical Bank made demand upon the Banco Kentucky for payment of its loan. It threatened to sell the collateral if the loan was not retired by a certain date, and commenced negotiations with the associated banks of The Cincinnati Clearing House Association looking toward a sale of the stock of these banks.
+It is stated, and there is evidence to substantiate the claim, that the clearing house represented the Cincinnati banks to be in a more serious condition than the facts warranted. It is also apparent that the responsible officers of the Banco Kentucky were under heavy pressure due to the alarming situation existing in the subsidiaries of the parent institution.
+The Chemical Bank and the Banco Kentucky, it may be assumed, relied upon the representations of the clearing house as to the situation involving the two Cincinnati banks, and giving the plaintiff the full benefit of its contention, the condition of the Cincinnati banks was exaggerated. The Chemical Bank and the Banco Kentucky sold their interests in the Cincinnati banks to The Cincinnati Clearing House Association for the sum of $1,107,250. These banks were later sold by the assocation to one of its member banks, The Central Trust Company, for a sum largely in excess of this amount, which excess is the subject of the present litigation.
+It is the contention that the association has become unjustly enriched by' reason of the purchase and sale and has violated its fiduciary duty to the two member banks involved in the sale.
+It appears that among the statements made by The Clearing House Association was one to the effect that it did not desire to make any profit out of the sale. There is nothing to indicate that such was not the fact.
+It is further asserted that the two Cincinnati banks were in solvent condition, and if the clearing house had supported them, that they would have remained unimpaired. This also may be considered as true.
+It is manifest, in the first place, that the Cincinnati clearing house owed no fiduciary' duty of any kind to the Banco Kentucky, the virtual owner of the two • Cincinnati banks, or its pledgee, the Chemical Bank of New York.
+The rule requiring the disregard of corporate fiction, in order to do justice cannot be put in reverse, so that a court is constrained to disregard actual ownership to give effect to corporate fiction. In other words, the fiduciary duty was to the corporate entities, the two Cincinnati banks. The actual ownership was in the Banco Kentucky and the pledgee of the Cincinnati banks’ stock, the Chemical Bank of New York. In truth, then accepting the invitation of plaintiff and disregarding corporate fiction, the clearing house owed no duty to the corporate entities, for the reason that the real parties in interest were the two foreign banking institutions.
+This disposes of the claim of breach of trust.
+It is further maintained that under financial stress and by reason of fatigue an undue advantage was taken of the vendors of the stock of the two Cincinnati banks.
+The plain situation here presented is that the vendors of the stocks relied upon statements made by the vendee concerning the value of the stocks owned by such vendors. It is certainly a new doctrine that a vendor may hold a vendee to account for unjust enrichment, because he sells what he owns at a loss, because he relies upon misstatements of the vendee as to the value of that which he sells. All of the alleged misstatements relate to matters affecting the value of the property of the foreign banking institutions. That they sold under pressure or fatigue is beside the point. It is true the banks formerly owned by these vendors were sold at a substantial profit. The fact that when later resold they were sold by the clearinghouse association may have influenced the price realized from the sale. Again, even had they been sold by the clearing house at the price paid, how would the vendors have been benefited?
+We know of no principle of law or equity ■which permits recovery upon the statement of facts in the petition and statement of counsel for the plaintiff, and an exanvnation of the record fails to develop any facts strengthening the position developed by the petition and statement of counsel. It is apparent that in many instances, the charges of misrepresentations are not sustained. It is not shown that had the sale not been made, the vendors would have made a better bargain. The evidence indicates the contrary, and that had the sale not been effected when it was, that dire results would have ensued, rendering the two banks in question a total loss, if not a liability to stockholders and possibly causing serious loss to depositors, whom the clearing house had in effect guaranteed.
+We conclude, therefore, that we would be justified in sustaining the motion for judgment upon the pleadings and statement, but that the case having been submitted by all counsel upon the merits, that we are also justified in rendering judgment for the defendants upon the merits.
+One other matter should be noted. The plaintiff, appellant, receiver, stands in the place and stead of the Banco Kentucky, and can claim no greater equities in the premises than those accruing to that banking institution.
+It appears also that, in a proceeding instituted by the receiver against certain stockholders and directors of the Banco Kentucky, the loss alleged by reason of the sale of the Cincinnati banks was attributed to other causes than those now asserted in the instant action. Even though the position taken by the receiver may not amount to an election of remedies, which is at least questionable, the position is wholly inconsistent with a claim of loss wholly due to misrepresentations by the defendants, appellees.
+Our conclusion is that the defendants, appellees, are entitled to judgment .upon the merits of the case and a decree so providing may be presented.
+Decree for appellees.
+TATGENHORST, PJ, and HAMILTON, J, concur.
