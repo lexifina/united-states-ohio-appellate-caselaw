@@ -1,0 +1,78 @@
+---
+court: "Ohio Court of Appeals"
+docket: "18305"
+decided: "1942-02-24"
+citations: ["38 Ohio Law Abs. 281"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Judges of the 7th District, Wm. C. Carter, PJ., Elmer T. Phillips, J., John C. Nichols, J., sitting by designation in the 8th District.", "PHILLIPS, J., NICHOLS, J., concur."]
+parties: ["JORDAN, Plaintiff-Appellee v PRICE SR., et, Defendants-Appellants."]
+source_url: "https://static.case.law/ohio-law-abs/38/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1716453
+cites_cases: ["121 Oh St 159", "134 Oh St 1", "38 A. L. R. 941", "72 Oh St 18"]
+---
+
+# Jordan v. Price
+
+## Majority (By CARTER, PJ.)
+
+OPINION
+By CARTER, PJ.
+; This is an appeal on questions of law prosecuted by only two of the defendants, to-wit, John H. Price and Newman S. Price. The action below was one for declaratory judgment and relief instituted, by James S. Jordan, now deceased, his co-executors having been substituted parties plaintiff.
+James S. Jordan brought his action in the Court of Common Pleas to have a certain alleged trust agreement and certain alleged attorney fee agreements declared null and void and. of no force and effect, that the .court declare that defendants have no claim, in-. terest, lien or encumbrance in, to or against any. of the.property in. question, and that the court declare that the plaintiff is the owner, of all the property free and clear of all claims, liens and; encumbrances against same, and for such other and further legal and equitable relief to which he is entitled.
+To this petition an answer and cross-petition was by appellants filed claiming certain rights in the Jordan property by virtue of the aforementioned -trust agreement and attorney fee agreement. Jphn H. Price assigned all his right, title • and interest in these ■ claimed rights to Newman S. Price. A reply and answer to the cross-petition was filed by Jordan. The exhibits and evidence cover hundreds of pages, together with somewhat voluminous briefs.
+Issues thus joined in the lower court, the cause came on for trial. That court found in favor of the plaintiff appellee.
+We might note- in passing that not only have we considered the cases cited by counsel on either side, but have -made diligent independent search before reaching our conclusions, and have reached the conclusion that the lower court shall be affirmed.
+According to the record, John H. Price had prior to the claimed execution of the trust and attorney fee agreement, done some legal work for plaintiff Jordan, however not extensively. : In the month of January, 1928 Jordan had decided to make a trip abroad. He was possessed of considerable property, both real and personal! A very short time prior to his embarkation on this trip, Jordan executed a power of attorney to Allan C. Ryan, granting to him unlimited power to act for him. This power of attorney is in writing! and was in writing revoked shortly after his return in August, 1928. The next, instrument in writing-which is- presented for our consideration bears the claimed signature of Jordan, designated a trust, agreement. This trust agreement réads as follows:
+“This instrument, of the 16th day of January, 1928, is to witness, that I, James S. Jordan of Lakewood, Ohio, have this 'day sold, assigned, transferred, conveyed, delivered and set over unto Allan C-Ryan Sr., of Lakewood, Ohio, as Trustee, all my. property, both reaL and personal and mixed to be held, managed and controlled by said Allan C. Ryan Sr., as Trustee, upon the trusts and for the uses- .and purposes hereinafter set forth, to-wit:
+THE TRUSTEE SHALL HAVE POWER:
+1.' To sell, lease, transfer or exchange all or any part of said property and ¿11 property that may hereafter from time to time be= 'substituted therefor or added thereto, at such price and upon such, terms and conditions and in such'manner as he may deem best, including the right to lease for any terms, irrespective of the period of trust; to execute and deliver any proxies, powers of attorney or agreements that the Trustee may deem necessary or advisable in ..administering this trust; to invest and reinvest money coming into his possession in such loans, stocks, securities or real estate as he may deem proper and suitable, with power to vary or transpose investments so made into others of like or similar nature, it being my intent that the Trustee shall have unrestricted power to manage all property held by him hereunder as if the" absolute owner .thereof, subject to my approval during my lifetime.
+This trust shall also include the real estate owned by-me as 'follows:
+(1) : 37 feet front on East 17th Street, Cleveland. Ohio.- -
+(2) : 38 feet front on Bolivar Road, Cleveland, Ohio.
+(3) : 40 feet front on Donald Avenue, Lakewood, Ohio.
+(4) : All mortgages, notes, loans and personal property which I have heretofore delivered to him with power of attorney.-
+The entire net income derived from the trust estate shall be paid to me during my life. . ....
+Said Trustee shall receive no compensation for his services .other than his actual necessary expenses in administering this trust.
+After my decease, the trust estate shall be held and disposed, as follows:
+I direct that all my just debts and funeral expenses be paid out of my estate as soon as practical after my decease.
+I direct that said Trustee shall distribute to Allan C. Ryan, Sr., all the residue of my property, both, real, personal and mixed wheresoever situated and of whatsoever it may consist, ■ to be his absolutely, subject only to a certain bequest to Parmadale for a cottage in the memory of my sister of which I have this davgiven him written instruction.
+In witness whereof, I, the said James S. Jordan, have set my hand and the said Allan C. Ryan Sr., to evidence his acceptance of the trusts herein expressed, has set his hand to this instrument, in duplicate, at New York City, N. Y., the day and year first above written.
+Signed in the presence of:
+JOHN H. PRICE JAMES S. JORDAN
+W. J. MILLER ALLAN C. RYAN, SR.”
+The circumstances surrounding the claimed execution of this instrument are rather novel. It bears date of January 16, 1928, ten days subseuent to the granting of the power of attorney to Ryan. In the trust agreement the same Ryan was named trustee and sole beneficiary. Jordan testifies that he has no remembrance of signing this trust agreement, and that he did not sign it. However, the lower court, from the evidence found Jordan did execute the same. We believe that some inference may be properly drawn from the evidence in the record that if such an instrument was executed as claimed by Price that it was to be effective only during Jordan’s absence abroad. The lower court so states in its opinion. However, there is nothing in the trust agreement to that effect. Price was acting as Jordan’s attorney prior to the securing of his signature to this instrument. Not only was he Jordan’s attorney, but he was attorney for the Crucible 'Products Company of Lorain, Ohio, of which company Ryan was president, and Price was also attorney for Ryan. Price so testifies.
+The evidence discloses that Price boarded the train at One Hundred Fifth Street, Cleveland, and accompanied Jordan to New York, where it is claimed the signature was secured. Assuming this trust agreement was knowingly and intentionally signed by Jordan, the rule seems to be that if it was the intention of the parties that it was to continue only during the absence of Jordan it would be of no force and effect after his return as the purposes of the trust had been accomplished, and if that was the intention of the parties certainly Price, who secured the execution of the agreement and charged Ryan for securing same, had full knowledge that if Jordan returned alive that the trust agreement was to then terminate, a termination by reason of the accomplishment of the trust. It is significant that the acts of the parties indicate that such was the case, as the property was actually turned back into the possession of Jordan by Ryan, the trustee and beneficiary, shortly after Jordan’s return and Jordan exercised ownership and control thereof subsequent thereto, and Price acted in accordance therewith.
+This trust agreement was never recorded, Mr. Price testifying that he looked up the law to see if recording was necessary and found it not necessary to record same.
+Ryan, trustee and beneficiary, died in 1931. At that time no action was taken by Price or anyone to have a new trustee appointed to carry out the trust. No claim was ever made by those ■who administered the Ryan estate, neither is there any claim now made that Ryan’s next of kin, although parties defendants, have any rights in the Jordan property by virtue of this trust agreement.
+Jordan testified that he knew nothing about the trust agreement or attorney fee agreement until 1936 or 1937, when he attempted to collect a .note which he held against Price, at which time the trust and attorney fee agreement appeared on the scene.
+The general rule appears to be that the settlor, trustee and beneficiary of a trust may, if sui juris, mutally terminate such trust. Jordan was the settlor, Ryan the trustee, and Ryan was the sole beneficiary.
+A different situation might be presented, assuming Jordan was seeking to compel a termination' thereof and deprive Ryan, the beneficiary of his rights thereunder. Such is not the case, but a third party, not a settlor, trustee or beneficiary under the trust agreement, claiming a right therein, and from whence does he derive this claimed right? It is by virtue of the agreement known as attorney fee agreement. This agreement is as follows:
+“This agreement made and entered into this 4th day of April, 1928, by and between Allan C. Ryan Sr., party of the first part and John H. Price and John H. Price, Jr., party of the Second Part.
+Witnesseth — that:
+Whereas, certain valuable legal services have been rendered to first party by second party terminating in the execution of a Deed of Trust from James S. Jordan to Allan C. Ryan Sr., a copy of which Trust Deed is hereto attached, marked “Exhibit A” and made a part hereof, and
+WHEREAS, an itemized schedule of the personal property transferred and delivered to Allan C. Ryan by said James S. Jordan under and in accordance with the said .Trust Deed is hereto attached, marked “Exhibit .B” and made a part hereof, and
+WHEREAS, it has b^en .necessary in the employment of said Second Party by said First Party to give almost constant attention to the affairs of said Trust Estate to prevent its dissipation thru doubtful loans and questionable collateral securities .set forth in Schedule B hereinbefore referred to.
+Now, therefore, in consideration of the legal services heretofore performed by Second Party, it is hereby mutually covenanted and agreed by and between the parties hereto as follows-:
+1. That said- First Party hereby assigns and devises a one tenth (1/10) in the Trust Estate hereinbefore set forth to'Second Party, their heirs or assigns, and agrees to pay Second Party, their heirs’ or assigns upon the termination of the Trust Estate the amount of one tenth of the value of the Trust Estate to-be calculated as of the date of said termination of the Trust, and to be based upon Exhibits A and B hereinbefore referred to.
+2. ^ This agreement shall bé binding upon the heirs, legal representatives or assigns of both the first and second parties hereto.
+IN WITNESS WHEREOF the parties hereto have hereunto set their names' to duplicate copies hereof at Cleveland, Ohio, the day .and year first above mentioned.
+ALLAN'C. RYAN SR.
+WITNESS: First Party
+W. C. GRAVES JOHN H. PRICE
+M. SULLIVAN Second Party
+JOHN H. PRICE JR.
+Second Party.”
+‘ If clearly purports to be a contract or agreement between Allan :C. Ryan Sr., not as trustee but individually and John H. Price Jr. The agreement furthef provides:'
+“Whereas, certain valuable legal services have been rendered to First Party by Second Party temiriating in the execution of á •deed of trust from James S. Jordan to “Allan' C. Ryan, Sr. etc.”
+This agreement is not signed by 'Ryan 'as trustee' or on behalf of the estate of Jordan. For these services Ryan assigns and devises one-tenth of the trust estate and on the coming into ownership and possession of the trust estate Ryan was to pay this one-tenth interest to' Price. ■ At this point 'it might be well to revert back to the trust agreement. It provides therein that: — the various powers granted were'“subject to my approval during my lifetime.”
+There is nothing to indicate anywhere in the record that Jordan ever approved 'any such an arrangement as is found in the attorney lee agreement‘between Ryan and Price. :If this contract binds anyone it is not the Jordan estate, 26. R..C. L. page 1316. This attorney fee agreement bears date of April 5, 1928, same having been executed while' Jordan was abroad. It is clear that Ryan was •charging himself in* this agreement and Price was looking to Ryan on the assumption that this property would become,Ryan’s on the death of Jordan, provided Jordan died while abroad. Ryan was iholding this property as trustee for Jordan and also holding it as ^trustee for Ryan, beneficiary. In- other words,.you have in this -case Ryan the trustee and Ryan the sole beneficiary. Price accepted this agreement, looking to Ryan for his compensation, provided Ryan-came into ownership of .same. Ryan never came into enjoy•ment of this estate- as beneficiary. The; trust- was terminated by mutual agreement as' disclosed by the acts of the settlor, trustee and beneficiary and by accomplishment of the trust purpose.
+It is our view that under the attorney fee contract Ryan in no wáy bound the estate of Jordan, and therefore Price or his assignee have no .right or interest as claimed in their cross-petition.
+As to the law applicable to the effect that the accomplishment of the purpose of the trust terminates same and termination by •mutual agreement of settlor, trustee and beneficiary see 40 O. Jur, 553; Robbins et al v Smith Jr., Admr. et al, 72 Oh St 18; Scott on Trusts, Vol. 3, paragraphs 337, 338; Restatement of the Law of Trusts, page 984; 65 Corpus Juris, page 355; 38 A. L. R. 941-965.
+We might further suggest that a very serious question arises as to whether this trust instrument is what is known as a testimentary disposition of property and not a trust at all, inasmuch as Jordan, settlor, reserved control therein.
+As bearing on this question, we desire to cite as authority, Scott on Trusts, Vol. 1, paragraphs 57, 57-6; Scott on Trusts, Vol. .3, page 1951; Union Trust Company v Hawkins, 121 Oh St 159; and The Cleveland Trust Company Trustee v White et al, 134 Oh St 1. However, we need not discuss this phase of the case further, due to the conclusion reached.
+In the light of the evidence and the law applicable as we construe same, it is our conclusion; first, that the purpose of the trust was accomplished on the return of Jordan from his trip abroad; second, that the evidence and the greater weight thereof is to the effect that there were by reason of the acts of the parties, to-wit, Jordan the settlor, Ryan the trustee, and sole beneficiary, and Price the attorney, a mutual termination of the trust, and that such was the understanding and the intention of the parties; and third, that the attorney fee contract in no way binds the Jordan estate, and that the lower court was not in error in the decree rendered.
+Judgment affirmed'.
+PHILLIPS, J., NICHOLS, J., concur.
