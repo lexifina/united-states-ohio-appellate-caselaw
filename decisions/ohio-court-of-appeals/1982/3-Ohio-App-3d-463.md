@@ -1,0 +1,68 @@
+---
+court: "Ohio Court of Appeals"
+docket: "81AP-832"
+decided: "1982-04-15"
+citations: ["3 Ohio App. 3d 463"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Strausbaugh and McCormac, JJ., concur."]
+parties: ["Rayburn et al., Appellants, v. J. C. Penney Outlet Store et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/3/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6709666
+cites_cases: ["11 Ohio St. 2d 38", "116 Ohio St. 718", "13 Ohio St. 2d 45", "141 Ohio St. 584", "15 Ohio St. 2d 224", "26 O.O. 161", "40 O.O.2d 52", "42 O.O.2d 96", "44 O.O.2d 196"]
+---
+
+# Rayburn v. J. C. Penney Outlet Store
+
+## Majority (Whiteside, P.J.)
+
+Whiteside, P.J.
+Plaintiff-appellant, Russell Rayburn, appeals from a judgment of the Franklin County Court of Common Pleas and raises two assignments of error, as follows:
+“1. The trial court abused its discretion in holding that the defendants were entitled to judgment as a matter of law.
+“2. The trial court abused its discretion and invaded the province of the jury in holding there is no genuine issue as to any material fact.”
+Plaintiff Russell Rayburn and his wife Sophie Rayburn were customers at one of defendant Penney’s stores and seek to recover damages for an injury sustained by plaintiff Russell Rayburn when he slipped and fell on a puddle of water located approximately fifteen feet beyond the second of two double doors at the entrance to the store. Defendants filed a motion for summary judgment, and, predicated upon two depositions and affidavits filed in conjunction therewith by the parties, the trial court sustained the motion for summary judgment without explanation.
+At the outset, from the arguments of counsel, the distinction between the test to be applied upon a motion for a directed verdict and that to be applied upon a motion for summary judgment must be made clear. In each instance, the evidence is construed most strongly in favor of the party against whom the motion is directed, and the motion must be overruled unless from the evidence so construed reasonable minds could reach no other conclusion but that, under the applicable law, the movant is entitled to a judgment in his favor.
+The difference is that the foregoing is the entirety of the test in the case of a motion for a directed verdict, but there is one additional qualification in the case of a motion for summary judgment. The trial court also must determine upon a motion for summary judgment whether or not there is a genuine issue as to any material fact.
+In the case of a motion for a directed verdict directed against a plaintiff, he has had a full opportunity to present his evidence, and, if there be an issue upon which there is no evidence, such issue is determined against the plaintiff. Conversely, in the case of a motion for summary judgment directed against the plaintiff, it is incumbent upon the defendant to produce evidence demonstrating that he is entitled to judgment in his favor. If there be a material determinative issue as to which there is no evidence presented by the defendant, then he cannot be entitled to summary judgment since such genuine issue of a material fact exists in the case and has not been determined. The obligation of the plaintiff when confronted with a motion for summary judgment filed by the defendant is to present evidence in some form permitted by Civ. R. 56(C) controverting the evidence presented by the defendant. There is, however, no affirmative duty upon the plaintiff to present evidence upon material issues as to which defendant has presented no evidence in support of his motion for summary judgment. As indicated above, however, upon a motion for directed verdict, the plaintiff has had full opportunity to present, and presumably has presented, all of the evidence that he intends to present, and the determination is made accordingly.
+In opposition to the motion for summary judgment, plaintiff presented an affidavit of an employee of defendants who was an eyewitness to his fall. However, the employee does not describe the fall other than tb state that he observed it and “that the running mats, which were usually immediately beyond the second double door as you walk into the store itself, were not in place at the time of Mr. Rayburn’s fall. There was only bare tile floor immediately beyond the second double door.” It is uncontroverted at this point that there was no warning sign or any other device giving notice of any unusual hazard posed by the conditions at the time. Also, in the affidavit of defendants’ employee who was an eyewitness, there is no indication as to how long the water had been there, nor even that there was any water on the floor which caused plaintiff to fall.
+Defendants in support of their motion for summary judgment relied upon depositions of plaintiff Russell Rayburn and that of defendants’ maintenance supervisor, who did not observe the incident but was aware of the circumstances and condition of the premises. He stated in his deposition, describing the floor area in the vicinity, as follows:
+“* * * Mr. Rayburn described it fairly accurately. You enter the door. It’s — we have a foyer. The entrance door is automatic rubber mats before, rubber mats after, and then an eight-foot by four-foot carpeting over a rubber mat, and then another set of automatic doors with a rubber before and rubber mat after, and then another set of carpets after that ten feet long.
+* *
+“Then walking onto tile floor.”
+In his deposition, plaintiff gave a somewhat similar description of the area at the time of his fall, stating:
+“Q. If you recall, are there one or two sets of doors that you go through on that entrance to the store?
+“A. Two.
+“Q. And do they open automatically?
+“A. Yes, but that day I think they were open. I don’t remember.
+* *
+‘ ‘Q. Could you describe generally the area between the first set of doors and the second set * * *?
+“A. * * * I believe it was covered.
+“Q. Covered with a—
+“A. Rug.
+“Q. A rug? Could you estimate for me * * * the distance between the first set of doors and the second * * *?
+“A. Oh, I don’t know whether — it probably - 15 feet * * *.
+<(* * *
+“Q. You did not fall between the two doors at J. C. Penney’s?
+“A. No, sir.
+* *
+“Q. Okay, Could you describe what happened after you entered the second set of doors, what your movements were and—
+“A. Well, they had a piece of carpeting probably approximately eight feet long, I would say, and I stepped off the carpeting onto a wet floor, and my feet, trying to get my balance, and I came down on my buttock and my back.
+* *
+“Q. Did you see the water before you stepped into it?
+“A. No, sir. I didn’t expect to see anything like that inside of the building.”
+Earlier, plaintiff Russell Rayburn testified in his deposition that he and other people waited in cars to enter the store until it quit raining because “it was pretty heavy rain at the time.”
+From the foregoing, there appears to be only one issue of fact, which must be considered differently than it would be upon a motion for directed verdict because this is a motion for summary judgment. There is no evidence as to the length of time the water was on the floor prior to plaintiff Russell Rayburn’s fall. Since defendants presented no evidence pertaining to this question, plaintiff was not called upon to controvert evidence upon that issue at this time. Were it, however, a motion for directed verdict, the issue would be determined against plaintiff for failure of plaintiff to have presented evidence to prove an issue.
+Under the circumstances of this case, constructive notice does not appear to be the determinative issue. Rather, we are here concerned with one of whether or not there would be liability, even assuming constructive notice of the presence of water on the floor.
+Plaintiff relies primarily upon Johnson v. Wagner Provision Co. (1943), 141 Ohio St. 584 [26 O.O. 161], whereas, defendants rely primarily upon Kresge Co. v. Fader (1927), 116 Ohio St. 718. The first paragraph of the syllabus in each of those cases states that the owner of a store owes a duty to exercise ordinary care to prevent accidents and injuries to its customers but is not an insurer of the customer’s safety while in the store. The third paragraph of the syllabus of Johnson sets forth a three-pronged test that must be met to establish liability of a storekeeper to a customer “slipping on a greasy substance dropped on the floor by another customer.” Kresge, on the other hand, deals with water dripped on the floor of the store by customers coming in from the rain, the second paragraph of the syllabus stating, as follows:
+“The fact that during a rain-storm some water has blown into the front of a store on account of the opening of the door to admit customers, and the incoming shoppers during such rain-storm carry in moisture on their clothing and feet and umbrellas, and thereby and only thereby cause the floor inside the door and near thereto to become damp and more slippery than is the dry floor in other parts of the store, will not give rise to a cause of action against the owner or lessee of the store in favor of a later incoming patron who slips or falls on such damp floor and is injured by such fall.”
+While in Kresge the rain water in the store both was blown in from the outside and dripped by incoming customers; in this case, there is no direct evidence as to the source of the water. However, under the circumstances, in light of plaintiffs testimony that he slipped with his first step off the mat, and that there had been heavy rain just prior to his entering the store, the only inference is that this was the source of the water, although plaintiff also testified that he thought the doors may have been open, but he did transverse a considerable distance, probably thirty feet, from the outside door.
+Under the circumstances of this case, we are unable to distinguish Kresge. Nor are we permitted to deviate from Kresge since Johnson does not purport to overrule Kresge but, instead, deals with greasy substances, not rain water, on the floor. In fact, Kresge was cited with approval in the opinion in Johnson, although the second paragraph of the syllabus was not mentioned. In Sidle v. Humphrey (1968), 13 Ohio St. 2d 45 [42 O.O.2d 96], the Supreme Court expressly held in the first paragraph of the syllabus that:
+“An occupier of premises is under no duty to protect a business invitee against dangers which are known to such invitee or are so obvious and apparent to such invitee that he may reasonably be expected to discover them and protect himself against them.”
+While Sidle involved natural accumulations of ice and snow, we see no reason for a different conclusion with respect to rain water. See Debie v. Cochran Pharmacy-Berwick, Inc. (1967), 11 Ohio St. 2d 38 [40 O.O.2d 52], and Jeswald v. Hutt (1968), 15 Ohio St. 2d 224 [44 O.O.2d 196], both slip-and-fall cases involving natural accumulations of snow and ice. Debie holds that there can be no liability to an owner of a business premises to his customers as a result of a fall on naturally accumulated snow and ice, unless the owner has notice that the snow and ice “has created there a condition substantially more dangerous to his business invitees than they should have anticipated by reason of their knowledge of conditions prevailing generally in the area * * *.” Id. at 41. Here, plaintiff knew there was a heavy rain and knew that people had been walking into the store wet with rain water. When one enters a store during or immediately following a heavy rainstorm, he would normally expect to find some water on the floor of the store brought in by the customers entering the store during the rainstorm. In other words, a storekeeper does not have a duty to remove rain water from the entrance of his store where it is so obvious and apparent that the storekeeper could expect invitees to discover the presence of the rain water and protect themselves against it. Here, the store’s employees knew it was raining and was raining heavily. They had reason to anticipate that customers would track rain water into the store. However, plaintiff, as an invitee, also should expect to find rain water on the floor of a store following a heavy rainstorm. This is the predicate for the rule of Kresge, supra, which is somewhat similar to those of Debie, Sidle and Jeswald, which involved snow and ice.
+Regardless of whether this court might like to establish a different rule, we are bound by the rule of Kresge, which is consistent with later decisions of the Supreme Court in slip-and-fall cases generally. A distinction is made between substances on the floor which one would not anticipate to be there, such as the mayonnaise on the floor in Johnson, supra, and substances which one could reasonably anticipate to be on the floor, such as rain water during a rainstorm such as involved in Kresge, supra, and this case.
+Accordingly, construing the available evidence most strongly in favor of plaintiff, and applying thereto the applicable Supreme Court case law by which we are bound, reasonable minds could only conclude that defendants were not negligent with respect to the rain water on the floor upon which plaintiff Russell Rayburn slipped and fell. Neither assignment of error is well taken.
+For the foregoing reasons, both assignments of error are overruled, and the judgment- of the Franklin County Court of Common Pleas is affirmed.
+Judgment affirmed.
+Strausbaugh and McCormac, JJ., concur.
