@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "99CA181"
+decided: "2000-09-21"
+citations: ["139 Ohio App. 3d 58"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cox, P.J., and Gene Donofrio, J., concur."]
+parties: ["CORRECTIONS CORPORATION OF AMERICA, Appellee, v. YOUNGSTOWN HUMAN RELATIONS COMMISSION, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/139/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 563034
+cites_cases: ["107 F.3d 274", "109 Ohio App.3d 689", "112 Stat. 1092", "12 OBR 26", "12 Ohio St.3d 30", "176 F.3d 847", "465 N.E.2d 848", "672 N.E.2d 1087"]
+---
+
+# Corrections Corp. of America v. Youngstown Human Relations Commission
+
+## Majority (Vukovich, Judge.)
+
+Vukovich, Judge.
+Defendant-appellant, Youngstown Human Relations Commission, appeals from a judgment rendered by the Mahoning County Common Pleas Court vacating a compliance order against plaintiff-appellee, Corrections Corporation of America, and dismissing a complaint filed by Joseph Clark. For the following reasons, the judgment of the trial court is affirmed.
+STATEMENT OF THE FACTS
+Appellee operates a private prison located in Youngstown, Ohio. Joseph Clark was employed as a corrections officer with appellee. Shortly after he began to work there, he approached his superior officer, Captain Jackson, stating that he had a substance abuse problem. Clark requested help for his addiction to crack cocaine. Captain Jackson directed Clark to speak with security. Clark advised security officers that he had had a recent relapse.
+Subsequently, Clark spoke about his problem with Arlene Thompson, appellee’s personnel coordinator. She notified the warden. The warden directed her to inform appellee’s corporate office. The corporate office ordered that Clark be discharged, as illegal drug use violated appellee’s policy.
+Clark filed a grievance with appellant alleging that he was discharged because of a disability in violation of the Rehabilitation Act of 1973. A hearing was held on May 22, 1998. Appellant found that appellee unlawfully discriminated against Clark because of his disability. It ordered appellee to cease and desist from unlawful discrimination and to reinstate Clark with back pay.
+Pursuant to R.C. 2506.01, appellee appealed to the Mahoning County Common Pleas Court. The trial court adopted the magistrate’s decision, vacating appellant’s order and dismissing Clark’s complaint. It held that Clark was not protected under the Rehabilitation Act or the Americans With Disabilities Act (“ADA”) because he was a current drug user not participating in a supervised rehabilitation program. This appeal followed.
+ASSIGNMENT OF ERROR
+Appellant’s sole assignment of error on appeal alleges:
+“The trial court’s decision to vacate the compliance order of the Human Relations Commission issued on November 3, 1998, and to dismiss the complaint of Joseph Clark is not supported by a preponderance of reliable, probative and substantial evidence as a matter of law.”
+STANDARD OF REVIEW
+R.C. Chapter 2506 provides the scope within which the common pleas court may review a decision made by the Human Relations Commission. R.C. 2506.04 states:
+“The court may find that the order, adjudication, or decision is unconstitutional, illegal, arbitrary, capricious, unreasonable, or unsupported by the preponderance of substantial, reliable, and probative evidence on the whole record. Consistent with its findings, the court may affirm, reverse, vacate, or modify the order, adjudication, or decision, or remand the cause to the officer or body appealed from with instructions to enter an order, adjudication, or decision consistent with the findings or opinion of the court. The judgment of the court may be appealed by any party on questions of law as provided in the Rules of Appellate Procedure and, to the extent not in conflict with those rules, Chapter 2505 of Revised Code.”
+The trial court must give due deference to the agency’s resolution of evidentiary conflicts, and the court may not substitute its judgment for that of the agency. See Adelman Real Estate Co. v. Gabanic (1996), 109 Ohio App.3d 689, 692, 672 N.E.2d 1087, 1089.
+An appeal to this court is more limited in scope and requires us to affirm the common pleas court unless we find, as a matter of law, that the decision of the common pleas court is not supported by a preponderance of reliable, probative, and substantial evidence. See Kisil v. Sandusky (1984), 12 Ohio St.3d 30, 34, 12 OBR 26, 29-30, 465 N.E.2d 848, 851-852. A court of appeals may review the judgment of the common pleas court only on questions of law and does not have the extensive power to weigh the preponderance of substantial, reliable and probative evidence as is granted to the common pleas court. See id. at 34, 12 OBR at 30, 465 N.E.2d at 852, fn. 4. Within the ambit of a “question of law” for appellate court review is the possibility of an abuse of discretion by the common pleas court. Id. Accordingly, this court must affirm the trial court’s decision unless the decision was unsupported by a preponderance of reliable, probative, and substantial evidence, or unless the decision was unreasonable, arbitrary, or unconscionable.
+LAW AND ANALYSIS
+Both the ADA and the Rehabilitation Act prohibit covered employers from discriminating against individuals with disabilities. Section 12112, Title 42, U.S. Code; Section 794, Title 29, U.S.Code. Under both Acts, individuals engaging in current, illegal use of drugs are excluded from coverage. Section 12114(a), Title 42, U.S.Code; Section 706(8)(C)(i), Title 29, U.S.Code. Each Act, however, contains a safe-harbor provision that affords coverage to an individual who:
+“(1) has successfully completed a supervised drug rehabilitation program and is no longer engaged in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
+“(2) is participating in a supervised rehabilitation program and is no longer engaging in such use; or
+“(3) is erroneously regarded as engaging in such use, but is not engaging in such use * * *.” Section 12114(b), Title 42, U.S.Code; Section 706(8)(C)(ii), Title 29, U.S.Code.”
+Appellant claims that Clark requested drug treatment from appellee because of a relapse that occurred approximately three days prior to admitting his drug problem. Appellant insists that, at the time Clark was discharged, he was participating in Narcotics Anonymous and Alcoholics Anonymous and was meeting with a counselor and crisis group from his church. Therefore, appellant maintains that Clark was free from drug use and was participating in supervised rehabilitation programs at the time he was discharged. Therefore, appellant argues that Clark was protected by the safe-harbor provisions.
+Appellant further contends that Clark was otherwise qualified for the position from which he was discharged. Appellant notes that Clark had not been disciplined for drug use prior to being discharged. Appellant argues that Clark made a request for a reasonable accommodation and appellee failed to demonstrate how such an accommodation would pose an undue hardship. Appellant insists that Clark was discharged solely because of his disability. Appellant concludes, therefore, that appellee unlawfully discriminated against Clark.
+Appellee contends that the safe-harbor provisions do not apply to Clark because he was engaging in current drug use at the time he was terminated and no evidence established that he was participating in a supervised rehabilitation program.
+Current drug use means that the illegal use of drugs occurred recently enough to justify an employer’s reasonable belief that involvement with drugs is an on-going problem. Zenor v. El Paso Healthcare Sys., Ltd. (C.A.5, 1999), 176 F.3d 847, 856. It is-not limited to the day of use, or recent weeks or days, in terms of an employment action. It is determined on a case-by-case basis. Id. An employee illegally using drugs in the weeks and months prior to discharge is a “current” illegal user of drugs for the purposes of the ADA and Rehabilitation Act. Shafer v. Preston Mem. Hosp. Corp. (C.A.4, 1997), 107 F.3d 274, 280. Consequently, such employees are not protected by the statutes; indeed, they are current users explicitly excluded from statutory protection. Id.
+At the hearing, Clark admitted to using crack cocaine a few days before July 25, 1997. He was discharged on August 1, 1997, approximately one week later. Therefore, the trial court’s determination that Clark was a “current” user is not unsupported by a preponderance of rehable, probative, and substantial evidence, nor is it unreasonable, arbitrary, or unconscionable.
+Furthermore, the trial court’s determination that Clark was not participating in a supervised rehabilitation program at the time he was discharged is supported by the evidence. At the hearing, Clark testified that he did not enter a drug treatment program. He claimed that, subsequent to his discharge, he overcame his drug addiction by attending support group meetings and consulting a counsel- or from his church. Assuming that these meetings constituted a supervised rehabilitation program, the evidence could establish only that Clark attended them after he was discharged. Therefore, he could not have been protected under the safe-harbor provisions. It therefore follows that Clark was a “current” user excluded from the protection of the ADA and Rehabilitation Act.
+In light of the foregoing, the trial court’s decision to vacate the compliance order and dismiss Clark’s complaint is supported by a preponderance of reliable, probative, and substantive evidence. Appellant’s sole assignment of error is found to be without merit.
+For the foregoing reasons, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Cox, P.J., and Gene Donofrio, J., concur.
+. Reporter's Note: Section 706(8), Title 29, U.S.Code no longer appears in the United States Code. See 1998 U.S.Code Cong. & Adm. News, P.L. 105-220, Title IV, Section 401 et seq., 112 Stat. 1092 et seq., Rehabilitation Act Amendments of 1998.
