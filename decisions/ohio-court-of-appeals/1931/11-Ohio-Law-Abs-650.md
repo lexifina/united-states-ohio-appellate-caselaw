@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1931-10-02"
+citations: ["11 Ohio Law Abs. 650"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["ROBERTS and POLLOCK, JJ, concur."]
+parties: ["ROSS v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/11/cases/0650-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 898611
+---
+
+# Ross v. State
+
+## Majority (FARR, J.)
+
+FARR, J.
+First, that the Record does not disclose any proof to the effect that Tom Ross resided at No. 2945 Dearborn Street in the city of Youngstown. It is charged in the affidavit that such was his place of residence. Shortly prior to the proceeding in the Court of Common Pleas, an affidavit for a search warrant was filed by Lewis, a prohibition enforcement officer, in the court of Squire Martin, Boardman Township. A search warrant was issued to search the premises at 2945 Dearborn Street. This warrant was executed and it was due to this search that this action was brought in the Court of Common Pleas of this county. Lewis, as above stated, was a prohibition enforcement officer, and was called to testify in this case. Upon the day in question he says that in company with other officers he went to the house at 2945 Dearborn Street. Some of the officers went to the residence and others to the garage nearby, and through some kind of a trap door the officers entered a sort of sub-cellar or room where a still was in operation. They obtained several gallons of finished product, a quantity of malt and mash. Lewis says that he had been at the premises once before, in the night season, but he says he does not know whether it was the residence of Tom Ross. Englehardt, the assistant chief of police and head of the vice squad in the city of Youngstown, testified that 2945 Dearborn Street was the residence of Tom Ross; that on this afternoon, when the officers went to this place, he saw Mrs. Ross, the wife of Tom Ross, in the residence, together with another woman whom,he did not know. He says that it is the residence of Tom Ross. Officer James says in behalf of the State, that he knew Tom Ross when he saw him but was not particularly advised that this Was Tom Ross’ residence, but that he had so understood and that it was reported to be so in the community. Upon the trial in the court below a telephone directory of the city of Youngstown was offered in evidence, which discloses that this street and number was the residence of Ross, and the phone in the residence there was in the name of Tom Ross. Perhaps the most convincing bit of evidence in behalf of the State in this respect is the testimony of Officer Parker as to what was said when Tom was taken to the jail, and upon his examination he sas's, at page 54 of the Record:
+“Q I will ask you whether or not the docket shows that he was received in the county jail on January 11th, on a certain charge, and that he gave his address at that time?
+A Not January 11th.
+Q January 28th?
+A Yes, sir.
+Q And whether or not at that time he gave his address, as revealed by this docket, as 2945 Dearborn Street?
+A Yes, sir.”
+So Parker testified that when Ross was taken to the county jail he gave his residence as 2945 Dearborn Street. Therefore Ross’ own statement is the strongest thing against him as to residence. Ross, therefore, practically convicted himself. The above evidence is undisputed so far as this Record discloses. Ross was represented by able counsel, who urges every possible claim in behalf of Ross, who really, defeated himself. It is not the question of guilt or innocence that comes to this Court at this time. It is the question of whether or not the testimony or evidence against Ross is so sufficiently clear and convincing by the degree required by law that this court could not say that it is manifestly against the weight of the evidence, and this could not be said in the light of the positive statements of Englehardt, who identified the residence, and the wife of Tom Ross in the home, and James, who to some extent corroborates Englehardt, and finally the testimony of Parker, who says that Ross, himself, gave his residence as 2945 Dearborn Street.
+Next and last it is assigned for error that the Assistant Prosecuting Attorney was guilty of misconduct upon the trial below. Tom Ross did not testify and in his argument to the jury the Assistant Prosecuting Attorney commented upon the fact that Tom Ross did not take the witness stand, and which comment is permissible under the present constitution and laws of the state. The Assistant Prosecutor said that Tom Ross did not testify “because he knew that the State had dynamite.” There isn’t any explanation of what the Assistant Prosecutor meant. It is permissible to comment upon the fact that the accused does not take the witness stand and to make any observation that is fairly deducible from that fact, but the Assistant Prosecutor did go somewhat far afield in saying that Ross did not testify because the State had dynamite. However, that statement is not explained to the jury. Nothing further is said as to what the Prosecutor meant by the. statement. It was just that Ross knew that the State had dynamite. While this statement was stronger than should have been made, yet it is not sufficient to reverse the judgment in this case. It was- conceded in argument in behalf of the plaintiff in error that the still was found in the garage, that it was in operation at the time; that the tube through which the liquor passes in the process of distillation was still hot, that mash was found, and some several gallons of finished product. Tom Ross, the plaintiff in error, certainly was a resident of the home at this particular place, at this particular time. He does not explain just when he “moved off”, as the people in the south country say, and to all intents and purposes, so far as this Record discloses, he was still a resident of 2945 Dearborn Street.
+' No prejudicial error being disclosed by the Record, the judgment is affirmed.
+ROBERTS and POLLOCK, JJ, concur.
