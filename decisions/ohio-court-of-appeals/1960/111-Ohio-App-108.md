@@ -1,0 +1,31 @@
+---
+court: "Ohio Court of Appeals"
+docket: "8684"
+decided: "1960-02-29"
+citations: ["111 Ohio App. 108"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matthews, P. J., and O’Connell, J., concur."]
+parties: ["Neal Walters Poster Corp., Appellant, v. Davenport, Appellee."]
+source_url: "https://static.case.law/ohio-app/111/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1441699
+cites_cases: ["10 Ohio St., 439", "155 Ohio St., 391"]
+---
+
+# Neal Walters Poster Corp. v. Davenport
+
+## Majority (Long, J.)
+
+Long, J.
+This case comes to this court on appeal on questions of law from the Court of Common Pleas of Hamilton County, Ohio. The cause of action grew out of a judgment obtained by plaintiff against defendant in the state of Florida. The plaintiff had painted posters for the defendant, who had been doing business under the name of Davenport’s Merchants Free Circus. When the circus ceased to operate under the latter name, defendant “took” certain property as his share of the circus assets. Some of these assets became the subject of an attachment issued upon the filing of plaintiff’s suit herein, based, as stated, on the judgment obtained against defendant in Florida. Sometime in the summer of 1959, plaintiff learned that the circus was being operated under the name of Cristiani Bros. Circus, and that defendant was still associated with this circus, and that some of the assets subsequently attached were still being used by, and were in the possession of,‘ defendant. After the attachment by the Sheriff of Hamilton County, the defendant filed a motion to dissolve this attachment, and included therein a motion to require security for costs and an attachment bond. The grounds for the discharge of the attachment were that the affidavit, upon which the attachment was based, was untrue, in that “defendant did not have title to any of the property listed in the affidavit”; that “said property belonged to Peter Cristiani.” In other words, the sole claim for relief by way of discharge, was that defendant did not have title to the attached property.
+The law of Ohio is well settled on this point. As far back as J. Langdon & Bro. v. Conklin & Martin, 10 Ohio St., 439, our Supreme Court has held that it was not competent for a defendant, on a motion to discharge an attachment, to show the “title” to the property is not in him; further, the court held that to sustain such a motion on such ground is error. 7 Corpus Juris Secundum, 612, Attachment, Section 426, sustains this view, pointing out that the only time testimony of title is admissible is “where the attachment was resorted to in order to obtain jurisdiction, a nonresident defendant has been allowed to show his lack of interest in the property attached for the purpose of ousting the court of jurisdiction.” We do not have that situation in the case at bar. The defendant here will not be injured by seizure of property, if the property does not belong to him. The owner has the usual remedies providing for the trial of the right to the property for goods claimed by third parties. Motion to discharge the attachment is not one of them. In the case of Rice v. Wheeler Dollar Savings & Trust Co., Exr., 155 Ohio St., 391, 99 N. E. (2d), 301, the fourth paragraph of the syllabus contains this language: “A court will not ordinarily entertain favorably a motion to discharge an attachment on the claim that the attached property does not belong to the moving party, particularly where the authenticity of such claim is questionable.”
+What does the language, “particularly where the authenticity” of the claim to ownership is questionable, mean? That is exactly what we find in this ease. Even if the court had the right to consider who had title to the property, if ever authenticity of ownership were questionable, it is in the case at bar..
+Let us look at the facts set forth in the bill of exceptions. Defendant “took” the steam calliope and snake show as his share of the property upon dissolution of Davenport’s Merchants Free Circus; defendant thereafter transferred by bill of sale to Cristiani, his son-in-law, the attached property, in order to avoid execution which might result from an accident in which he was involved in Florida; and there was admittedly no consideration for this transfer except that defendant thought Christiani might pay some of his debts in the future. This transfer was clearly a fraud upon creditors. The evidence discloses further that the transfer of these assets to his son-in-law was in violation of Florida’s bulk sales law, of which statutes the courts of this state must take judicial notice. Cristiani at no time notified plaintiff or any other creditor of the terms and conditions of the alleged sale to him and, therefore, as to plaintiff, the sale could be set aside.
+On the merits, as to ownership, if the trial court had the right to so determine, the great weight of the evidence is to the effect that defendant still owned the attached property.
+Our attention is called to the fact that in the motion to discharge the attachment, defendant also asked the court for a “trial for the right of property in accordance with R. C. 2329.85.” This section applies to property taken on execution and not attached property; this section was never intended to modify the law that, on a motion to discharge an attachment, the right of ownership could be tried.
+Coming now to the action of the trial court in requiring a bond for security for costs, we hold that the court acted according to the statute. The law provides that nonresidents must post security for costs upon motion properly made. On the other hand, the defendant being a nonresident, the statute indicates that the bond for attachment was not necessary.
+For the reasons above stated, the judgment of the Court of Common Pleas of Hamilton County is hereby modified as follows : The attachment is reinstated; the action of the trial court in granting the motion for security of costs is sustained; and the bond for attachment is not required. As modified, the judgment is affirmed.
+Judgment modified and, as modified, affirmed.
+Matthews, P. J., and O’Connell, J., concur.
