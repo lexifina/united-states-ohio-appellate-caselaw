@@ -1,0 +1,59 @@
+---
+court: "Ohio Court of Appeals"
+docket: "11776"
+decided: "1972-02-28"
+citations: ["35 Ohio App. 2d 23"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hess, P. J., and Young, J., concur."]
+parties: ["Taggart, Admr., Appellant, v. Bitzenhofer et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/35/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1471564
+cites_cases: ["14 Ohio St. 2d 134", "14 Ohio St. 2d 165", "156 A. 2d 1", "169 Ohio St. 213", "19 Ohio St. 2d 42", "23 Ohio Law Abs. 594", "249 Minn. 488", "31 N. J. 188"]
+---
+
+# Taggart v. Bitzenhofer
+
+## Majority (Shannon, J.)
+
+Shannon, J.
+This cause came on to be heard upon the appeal; the transcript of the docket, journal entries and original papers from the Court of Common Pleas of Hamilton County; and the assignments of error, briefs and arguments of counsel.
+Because the appeal is from an order granting a motion to dismiss the complaint, only the well pleaded factual allegations will be recited here.
+About 1:15 a. m., December 9, 1969, one Michael Rohe entered the Bachelor’s III Cocktail Lounge, an establishment owned and operated by defendants Bitzenhofer, Behr and McKesson, the appellees herein. He immediately began to act in a boisterous and unruly manner and was visibly intoxicated. Plaintiff-appellant’s decedent, William J. Taggart, Jr., and one Lloyd Hayes were patrons then within the premises.
+The barmaid on duty, Alice Losito, served intoxicating beverages to Rohe and, thereafter, Rohe in her presence displayed a pistol and threatened to shoot and kill Taggart and Hayes. Losito continued to serve alcoholic beverages to Rohe who, approximately thirty-five minutes after uttering his threat, did kill Taggart and wound Hayes.
+Plaintiff sought to recover damages on the ground that the owners and employees of the lounge were negligent in serving alcohol to Rohe and in breaching their duty to Taggart and Hayes. Parenthetically, we note that Hayes and his wife are plaintiffs in another action similarly disposed of and separately considered upon appeal. The breach of duty to the patrons is alleged as the failure to control Rohe’s conduct and the failure to notify a law enforcement agency and obtain assistance in providing a safe place.
+The motion to dismiss was on the ground that the complaint failed to state a cause of action against the defendants, Bitzenhofer, Behr, McKesson, the corporate defendant, and Losito, upon which relief could be granted.
+The plaintiff has assigned two errors, the first being in three parts.
+The first assignment of error raises the questions: does the plaintiff have a cause of action founded on common law negligence in that (a) defendants disregarded the safety of patrons by serving alcohol to an intoxicated person; (b) defendants failed to take affirmative action to control Rohe; and (c) defendants allowed a single-employee to attend the premises, she being incompetent to protect patrons.
+The second assignment of error is that the trial court erred in its conclusion that plaintiff failed to state a cause of action sounding in negligence because the violation of R. C. 4301.22 (B), prohibiting the sale of intoxicating liquor to an intoxicated person, constitutes negligence per se.
+Apparently, the questions here, certainly against the backdrop of allegations now to be taken as true, have not been answered positively by a court to which we are subordinate. Do the glimmerings, however, appear?
+In Robinson v. Stilgenbauer (1968), 14 Ohio St. 2d 165, the court considered an action by an executrix for damages for wrongful death. There, a defendant tavern keeper allegedly proximately contributed to the death of plaintiff’s decedent in that he sold alcoholic beverages to Stilgenbauer and that subsequently the decedent was killed in a collision with a car driven by Stilgenbauer. The Court of Common Pleas granted a motion for summary judgment made by the tavern keeper. The Court of Appeals affirmed. The Supreme Court, in affirming the Court of Appeals ruling, noted that the tavern keeper had never been notified by the department of liquor control not to sell intoxicants to Stilgenbauer, that there was nothing in the record to support a reasonable inference that he had been drinking when he entered, or was drunk when he left the tavern, or that the intoxicants he consumed while there proximately caused the collision three hours later. The remark significant to us, in our effort to resolve the issues here, concludes the per curiam opinion as follows:
+£ £ * * * we do not reach the question of law * * * whether there may be * * * a cause of action against a liquor vendor for damages proximately resulting from his negligent sale of intoxicating beverages to a known habitual drunkard.”
+In the case at bar, there is nothing to warrant an inference that Rohe was a known habitual drunkard, but it is claimed that he was visibly intoxicated when he enter-tered the lounge and commenced his boisterous and unruly behavior. We believe the case before us is distinguishable from Stilgenbauer, supra, and that case does not dispose of the issues here.
+On the same day the Supreme Court decided Stilgenbauer, it decided Holdshoe v. Whinery (1968), 14 Ohio St. 2d 134. There, a patron who had paid to rent a picnic table in a resort area was injured when a car, parked by a patron on a slope up from the table, rolled down and struck her. The Supreme Court held that the trial court erred in directing a verdict for the defendant owner and occupier of the resort at the close of the plaintiff’s opening statement.
+Paragraph four of the syllabus states:
+“Such an owner and occupier of land breaches his duty to invitees who are injured by the negligent acts of third persons, where such owner and occupier fails to exercise reasonable care to discover that such negligent acts of third persons are being done or are likely to be done and fails to give a warning adequate to enable such invitees to avoid harm, or fails to act to protect such invitees against such negligent acts of third parties.”
+Some fourteen months later, the court decided Howard v. Rogers (1969), 19 Ohio St. 2d 42, citing Holdshoe. In both eases, the court emphasized that an occupier of premises for business purposes is not an insurer of the safety of his business invitees while they are on those premises and is not liable for an injury caused to an invitee by a danger which was unknown or could not, in the exercise of ordinary care, be discerned. However, the first paragraph of the syllabus of Howard echoes Holdshoe in its declaration that:
+“An occupier of premises for business purposes may be subject to liability for harm caused to a business invitee by the conduct of third persons that endangers the safety of such invitee, just as such an occupier may be subject to liability for harm caused to such invitee by any dangerous condition of those premises.”
+At pages 47 and 48 of the opinion in Howard, the court remarked:
+“In the instant case, there is no evidence from which reasonable minds could find that defendants either knew or in the exercise of ordinary care should have known of the likelihood of a fight such as occurred at this dance.”
+As we perceive it, the primary question is whether Losito, as a reasonably prudent barmaid, should have foreseen a potential danger to patrons of the lounge and have taken some means to forestall or avert it.
+The Court of Appeals for the Seventh Appellate District of Ohio, decided Cronan v. Stevenson (1936), 23 Ohio Law Abs. 594. There, a patron who had paid admission to enter a dance pavilion was injured by a glass object thrown by another patron who, while in an intoxicated condition, was engaged in a fight witnessed by the proprietors and some of their employees who did nothing to quell the disturbance. The court affirmed a judgment for the plaintiff had upon the jury’s verdict. Headnote one of the reported decision states:
+“A public dance pavilion has the duty of exercising ordinary care for the safety of patrons, proportionate to the dangers reasonably to be apprehended, and including supervision, inquiry and examination to protect patrons from wrongful acts of other patrons, where the proprietors know or have reasonable grounds of anticipating misconduct on the part of such other patrons.”
+Among cases of more recent vintage are two from sister states.
+The Supreme Court of Minnesota had before it, in Priewe v. Bartz (1957), 249 Minn. 488, 83 N. W. 2d 116, an appeal from a judgment for a plaintiff in an action for personal injuries against a tavern operator, waitress and an intoxicated person who threw a beer glass. The court held that the question of negligence was for the jury in view of evidence that the waitress had observed the conduct and condition of the inebriate, but did nothing more than suggest that the altercation be “continued outside.” Headnotes one and five of 83 N. W. 2d 116 state:
+1. “Operator of establishment engaged in sale of beer and liquor owes duty to those coming upon his premises to exercise reasonable care to see to it that patron is not injured by vicious or drunken individuals whom he permits to come upon his premises and whose conduct he might reasonably have anticipated.”
+5. “To escape liability for unpredictable conduct of in-toxieated person upon premises of beer or liquor establishment, proprietor must take affirmative action to maintain order by demanding that such person leave or by calling authorities to enforce such demand.”
+The Supreme Court of New Jersey stated in paragraph 5 of the syllabus of Rappaport v. Nichols (1959), 31 N. J. 188, 156 A. 2d 1:
+“Where a tavern keeper sells alcoholic beverages to a person who is visibly intoxicated * * * he ought to recognize and foresee the unreasonable risk of harm to others through action of the intoxicated person * * *.”
+Commonly, we think, it is known that the ingestion of alcohol leads to aberrant behavior, the nature of which is largely unpredictable.
+Losito, then, must be held to have had such knowledge. When Nohe entered the lounge “visibly intoxicated,” she should have foreseen, as a reasonably prudent barmaid, some peculiar behavior on his part, and she was under a duty to take appropriate action to ward off an unreasonable risk of harm to other patrons. The serving of additional alcohol, taken here to be a fact, is additional evidence of a failure to safeguard those upon the premises.
+We believe that plaintiff has stated a cause of action against defendants and that, presumptively, there are issues to be resolved by a jury.
+We find that branches (a) and (b) of the first assignment of error are well taken for the reasons set forth herein. Branch (c) of that assignment is found to be not well taken because the assertion is not supported by the record.
+We find the second assignment of error to be well taken. N. C. 4301.22 (B) unequivocally enjoins the sale of intoxicants to an intoxicated person in its declaration that “no sales [of alcohol] shall be made to an intoxicated person.” See State v. Morello (1959), 169 Ohio St. 213, at 215, 216.
+Since a violation of a specific requirement of a law constitutes negligence per se, it follows from what has been observed hereinbefore,, on the general subject of negligence in the premises before us, that: Losito, in selling alcohol to an intoxicated person failed to safeguard the other patrons and was negligent and because that act was specifically forbidden by law, the sale constituted negligence per se.
+The motion to dismiss should not have been granted, and the order and the judgment of the Court of Common Pleas of Hamilton County is reversed and the cause is remanded for further proceedings according to law.
+Judgment reversed.
+Hess, P. J., and Young, J., concur.
