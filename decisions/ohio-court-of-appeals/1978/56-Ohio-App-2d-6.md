@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "77AP-694"
+decided: "1978-02-14"
+citations: ["56 Ohio App. 2d 6"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside and McCobmac, JJ., concur."]
+parties: ["GMC, Inc., Appellant, v. Chrisofolli et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-2d/56/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6705291
+cites_cases: ["108 Ohio St. 61", "339 U. S. 460"]
+---
+
+# GMC, Inc. v. Chrisofolli
+
+## Majority (Reilly, J.)
+
+Reilly, J.
+This is an appeal from a judgment of the Court of Common Pleas which partially restricted the picketing activities of appellees around appellant’s premises. The trial court’s judgment involves an action filed by appellant seeking an injunction permanently enjoining the appellees from engaging in picketing, and compensatory as well as punitive damages. Initially, a temporary restraining order was granted which limited the picketing. Subsequently, a hearing on the preliminary and temporary injunction was conducted by the trial court. The trial court explained its decision as follows:
+“The Court: We have but one issue to decide here today, and that is how many picketers there should be between these two places. Mr. Buchan would not like to see the number of picketers under 30, and we feel that is a fair amount. They’re not shouting. It’s not a mob. No one is making noise any more. I don’t see where it is that great of a problem. Mainly what the Plaintiffs would like to., do is just cause enough trouble so people are discour-; aged from exercising- their rights, but we feel 30 or 35 are proper. But I think the best judgment would be to start out with five picketers at each place. I think five picketers between these places- will be adequate and I think a total of 20 people is adequate. I’m sure you can’t help it if kids are coming back and forth. But don’t organize more than 20 people, I think that is a reasonable amount. You know the coal strikes lasted for years, so you can- settle in for a long one if you want to. So we will limit a total of five picketers at each place, and that will be 20 total. I think 20 picketers is enough to get the point across.”
+The transcript shows that appellee, with members of his church, along with pastors-and members of other related organizations, picketed three adult bookstores located on Morse Road, in Blendon Township, Franklin County. Two of the bookstores were owned by appellant. The picketing parties arrived at about 6 p. m. and remained until approximately 10 p. m. There was no picketing on Sundays, although the store was open. The record does not disclose any violence or damage to property resulting from the picketing..
+The admitted objective was. to express to the. conn munity the view that pornography is destructive to individuals and ultimately society. In addition, appellees were attempting to communicate that they believed illegal materials were being offered for sale in the stores.
+This appeal has now been perfected, including, 'two assignments of error, as follows: ■ ■
+“I. The court below erred in not granting the appellant a permanent injuction enjoining the.appellees from picketing in and about the business, establishments, of the appellant.
+“II. The decision of the court below was contrary to the weight of the evidence.’-’
+The record indicates that in this case appellees have attempted to peacefully exercise their First Amendment rights to freedom of speech and freedom of assembly by being on public property in front: of : appellant’s: adult bookstores, carrying signs indicating their contention that pornography is a destructive influence upon the community. It is noteworthy that the record does not show any harassment or intimidation of the employees or customers. In LaFrance Co. v. Electrical Workers (1923), 108 Ohio St. 61, the Ohio Supreme Court affirmed the refusal to enjoin peaceful picketing which was not accompanied by abuse, intimidation, or any form of coercion. The plaintiff in that case, an electrical construction and supply company, attempted to enjoin peaceful picketing of its premises by union members because the picketing was violating its contract rights and property rights to engage in lawful business.
+There is no question that lawful businesses are entitled to reasonable protection from unjustified interference because of trespassing, harassment of customers or employees, blockage of driveways, or similar tactics. Nevertheless, this case is distinguishable from Hughes v. Superior Court of California (1950), 339 U. S. 460, cited in appellant’s brief, as that case involved a total ban upon picketing, while here, as noted above, the picketing was definitely limited by the trial court. In addition, in the Hughes case, the picketers were trying to force the store owner to do something which at the time was illegal. In this case, the picketers were allegedly not trying to force an owner to do an illegal act, but, rather, they were endeavoring to force him to act in a legal manner. It is noteworthy that the Supreme Court wrote, in Hughes, supra, at page 468, as follows:
+“The policy of a State may rely for the common good on the free play of conflicting interests and leave conduct unregulated. Contrariwise, a State may deem it wiser policy to regulate. Regulation may take the form of legisla-ron, e. g., restraint of trade statutes, or be left to the ad hoc judicial process, e. g., common law mode of dealing with restraints of trade. Either method may outlaw and end not in the public interest or merely address itself to the obvious means toward such end. The form the regulation should take, and its scope are surely matters of policy and, as such, within a State’s choice.”
+Therefore, considering the entirety of this record, there is not a showing that the appellees abused their First Amendment rights to freedom of speech and assembly by picketing on public property, and in voicing their opposition to pornography. Further, there was not a showing that whatever loss of business which may have occurred at the time resulted from any wrongful conduct, such as harassment of customers by appellees. Finally, the trial court was correct in balancing appellant’s economic interest with the First Amendment rights of appellees. Therefore, appellant’s first assignment of error is not well taken and is overruled.
+Appellant’s second assignment of error is also without merit. The trial court, after hearing all the evidence presented, determined that the conflicting interests of the parties were balanced by placing a reasonable limitation upon the number and activity of the picketers rather than totally prohibiting them from exercising their First Amendment rights by picketing. The record indicates that the area in and around appellant’s premises is comparatively extensive, apparently longer than two football fields, and the judgment of the trial court assured that the number of picketers gathered in any particular place would not be a source of harassment or intimidation. Fundamentally, the trial court balanced the factors involved in the case, weighed the issues, and came to a fair decision to all parties involved. Hence, appellant’s second assignment of error is also overruled.
+Whereupon, for the foregoing reasons, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Whiteside and McCobmac, JJ., concur.
+
+## Concurrence (Whiteside, J.,)
+
+Whiteside, J.,
+concurring. Even assuming that plaintiff is engaged in a lawful business (that is, that the sale of plaintiff’s stock in trade is not in violation of state law), defendants have a right to peacefully picket to express their beliefs that such materials are offensive and should neither he sold nor purchased. If defendants are able to persuade some potential purchasers of such material not to purchase it, plaintiff still has no right, to deny defendants their First Amendment right to express their beliefs publicly but peacefully.
+A most effective way to eliminate the sale of vulgar (but not legally obscene) publications is to persuade that portion of the general public who support such sales by their purchases to refrain from purchasing such publications. Defendants have a right to attempt to accomplish this purpose by peaceful picketing.
