@@ -1,0 +1,52 @@
+---
+court: "Ohio Court of Appeals"
+docket: "24773"
+decided: "1959-03-25"
+citations: ["109 Ohio App. 76", "81 Ohio Law Abs. 164"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hurd, P. J., Kovachy and Skeel, JJ., concur."]
+parties: ["Kane, Appellee, v. Continental Steamship Co., Appellant."]
+source_url: "https://static.case.law/ohio-app/109/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1437810
+cites_cases: ["120 F. Supp., 96", "141 Oh St 584", "141 Ohio St., 584", "168 Oh St 582", "168 Ohio St., 582", "49 N. E. 2d 925", "93 F. Supp., 115"]
+---
+
+# Kane v. Continental Steamship Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This appeal comes to this court on questions of law from a judgment entered on the verdict of a jury in favor of the plaintiff. The action is one based on the Federal Employers ’ Liability Act. The plaintiff was a wheelsman in the employ of the defendant on the Steamship Charles E. Dunlap commencing March 26, 1952, until June 10, 1952, at which time he left his employment on the ship at Cleveland, Ohio.
+The plaintiff claims to have been walking down a ladder (steep steel steps) into the chain locker room, in the early afternoon of June 9,1952, when he was caused to fall because of some soapy water on one of the steps which he testified was “worn.” The plaintiff claims to have fractured a bone in his left ankle. He was wearing high shoes. He made no report of the incident, claiming he thought he had sprained his ankle. The incident occurred when the ship was in Lake St. Clair.
+After the alleged fall, he stood his next watch in the wheelhouse and then, as the ship approached the Cleveland harbor, he prepared to leave the ship on the morning of June 10, on arrival, because his contract of employment then expired. As he left the ship, he asked the captain for a hospital ticket for dental work. He left the ship with a suitcase and sea bag. He carried the suitcase (weighing 40 lbs.) down the ladder- to the dock. The bag was lowered by rope. He carried both the suitcase and bag to the gate, ordered a taxi, went directly to the La Salle Hotel at 1518 Payne Avenue, checked in and proceeded to get drunk. He did not go to the Marine Hospital for any kind of treatment, dental or otherwise, until June 16, when he wanted some treatment for “threatened” delirium tremens because of his excessive drinking, as diagnosed by the doctor at the hospital. He did not suggest to the doctor at the hospital that he had experienced an injury to his ankle before leaving the boat on June 10.
+Early in the morning of June 18, 1952, he was picked up by the police on the sidewalk in a drunken condition, with some abrasions on his left ankle encrusted with blood. This is the ankle he claims to have injured by slipping on the step covered with soapy water on the ship. His explanation of the accident of June 18 is that he was returning to his hotel at about midnight when his ankle collapsed under him, and he could not get up. He testified he laid on the sidewalk until daybreak. His statement is as follows:
+“Q. Did you have anything to drink? A. Yes, I did.
+“Q. Were you drunk at that time? A. I had something to drink, yes.
+“Q. You were there how long, then, until when? A. Till daybreak.
+“Q. Then what happened at daybreak? A. At daybreak someone came by and I said, ‘Would you please call me an ambulance or the police. ’ And the police finally came. ’ ’
+The plaintiff was taken to Charity Hospital and then to Marine Hospital where a cast was applied on his left ankle. His explanation to the doctors was:
+“Q. Did you talk to the doctor? A. The doctor asked me what happened and I told him that I had collapsed on the street 11 or 12 hours before and I have a hospital ticket and I wanted attention right away. They started x-raying and put the cast on and also gave me medical treatment for alcoholism.
+‘ ‘ Q. Were you drunk then ? A. I had a few drinks, yes. ’ ’
+The plaintiff did not report any injury to his left ankle by slipping on a soapy step while aboard ship, while being treated for a broken ankle at the hospital on June 18. His explanation for the failure to make such a report was because “they did not ask me.” The first notice the defendant received about any claimed injury aboard ship was received from plaintiff’s lawyer about September 23, 1952.
+The plaintiff’s evidence as to the condition of the step was as follows:
+“Q. And were those grooves — you looked at the step that you fell from, is that what you said? A. That is correct, sir.
+“Q. Can you tell the jury, were those grooves there on that step? A. There were grooves on that step, but they were worn just like the rest of them.”
+Nowhere in the evidence is the extent of the “worn” condition explained. Likewise when explaining about the soapy water on the step, which is the condition which plaintiff claims as the negligence of the defendant upon which Ms action is based, the plaintiff testified:
+“Q. You said there was soapy water on the ladder? A. This is correct.
+“Q. How long had it been there? A. I do not know, sir.”
+The room where the ladder was located, as above described as the chain locker room, also contained a washing machine for the use of the seamen to clean their clothes. Soap was also furnished, contained in a drum sitting beside the washing machine, and a wire had been strung across the room to be used as a clothes line.
+The defendant claims the following errors:
+‘ ‘ 1. For want of a scintilla of evidence of negligence on the part of the defendant-appellant the trial court erred in denying its motion for judgment non obstante veredicto.
+“2. The trial court erred in denying the motion of the defendant-appellant for judgment non obstante veredicto in view of the incredible testimony upon which the plaintiff’s case is based; such testimony cannot support a verdict. ’ ’
+The first of these claims is well taken. While this court cannot weigh the evidence, in considering the question of whether the alleged negligence charged against the defendant proximately caused the plaintiff damage, in passing on a motion for judgment non obstante veredicto, it must be remembered that the only fact witness was the plaintiff. His case either stands or falls on the most favorable construction to be given to his own story.
+It is indeed unusual that the plaintiff, a seaman well versed as to his rights to medical care, should not even have mentioned his alleged slip on a soapy step to someone when the alleged slip occurred, or, to the captain as he left the ship, or, to the doctor at Marine Hospital six days later when there seeking medical help for threatened delirium tremens on June 16, or, to someone when he was taken to the hospital after lying half the night on the sidewalk in at least a partially drunken state. Be that as it may, there is no conflict in the evidence as to his statement that he could not establish how long the soapy water had been on the step and as to the fact that he did not attempt to fix the extent of the wear on the tread of the ladder.
+Even under the interpretation of the Jones Act (Title 46, Section 688, U. S. Code) by the Supreme Court of the United States, some negligence of the employer must be shown to make out a case. This Act is not one based on the theory of workmen’s compensation. The presence of soapy water on a step without a showing that it was there because of the defendant’s negligence or, if not there because of defendant’s negligence, that the defendant had knowledge thereof and did not act with due care to eliminate the danger or that it was there a sufficient length of time so that the defendant, in the exercise of due diligence could and should have discovered it, and with like diligence caused its removal in time to have avoided injury to the plaintiff, does not establish negligence of the employer. No evidence is present on this question. Plaintiff suggests in his brief that the defendant should have produced evidence refuting the plaintiff’s claim of soapy water on the step. Just how this could be possible when the plaintiff made no such claim or advised the defendant of such claim until three months thereafter is hard to imagine.
+The law is well settled that where some foreign substance is spilled or thrown, or is found on a floor or stairway, creating a dangerous condition which dangerous condition causes injury to another, it must be shown by one who suffers injury therefor, before recovery can be had, that either the owner or occupier of the premises created such dangerous condition, negligently, or, if not that, that such dangerous condition was maintained a sufficient length of time so that in the exercise of due care it should have been discovered and corrected. Johnson v. Wagner Provision Co., 141 Ohio St., 584, 49 N. E. (2d), 925. There are a number of federal cases which support this rule. In the case of Daniels v. Pacific-Atlantic S. S. Co., 120 F. Supp., 96, it is said:
+“There is no evidence that the oil on the wheelhouse floor was there for any length of time prior to the accident. Unless the defendant had actual or constructive notice of the condition so as to furnish it with an adequate opportunity to remedy the condition, then there is no cause of action for negligence under the Jones Act. Boyce v. Seas Shipping Co., 2 Cir., 1945, 152 F. (2d), 658; Anderson v. Lorentzen, 2 Cir., 160 F. (2d), 173; Lauro v. United States, 2 Cir., 162 F. (2d), 32; Guerrini v. United States, 2 Cir., 1948, 167 F. (2d), 352; Adamowski v. Gulf Oil Corp., D. C., 93 F. Supp., 115 * * * ”
+A case not directly in point but to like effect is Harris v. Pennsylvania Rd. Co., 168 Ohio St., 582, 156 N. E. (2d), 822.
+There being no evdience of negligence on the part of the defendant, the judgment is reversed and the cause remanded with instructions to grant the defendant’s motion for judgment ’ non obstante veredicto, and, in the journal entry of such judgment, to comply with the provisions of Section 2323.181 of the Revised Code, as to its ruling on defendant’s motion for new trial, by providing that the motion for new trial heretofore granted to the defendant, shall be had only should the judgment non obstante veredicto, here granted defendant, be reversed upon further review.
+Judgment reversed.
+Hurd, P. J., Kovachy and Skeel, JJ., concur.
