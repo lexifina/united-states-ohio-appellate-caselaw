@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4827"
+decided: "1955-01-31"
+citations: ["100 Ohio App. 526"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Fess and Deeds, JJ., concur."]
+parties: ["Snyder et al., Appellees, v. LaDue, Appellant."]
+source_url: "https://static.case.law/ohio-app/100/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422491
+cites_cases: ["103 Ohio St., 529", "111 Ohio St., 414", "134 N. E., 476", "14 Ohio St., 129", "145 N. E., 590", "17 Ohio St., 564", "189 N. E., 118", "19 C. C., 151", "25 Ohio St., 477", "4 Ohio St., 445", "46 Ohio App., 415", "60 N. E., 606", "64 Ohio St., 473", "77 Ohio St., 630"]
+---
+
+# Snyder v. LaDue
+
+## Majority (Conn, J.)
+
+Conn, J.
+On January 13, 1953, plaintiff, as administratrix with the will annexed of the last will and testament of Anna LaDue, deceased, filed her petition in the Probate Court of Lucas County, Ohio, praying for a judgment construing the provisions of the will of such decedent.
+The will, so far as it is material in the consideration of the issues raised, is as follows:
+First, the testatrix directs the payment of her debts and funeral expenses “out of her estate” as soon as possible after her decease.
+Second, there is a devise of a life estate to the testatrix Is daughter, Margaret LaDue Snyder, in the home of testatrix, located by street and number as 4033 Fairview Drive, Toledo, Ohio, including also provisions for the remainder of the estate in fee simple.
+In the third item of the will, the testatrix bequeaths $1,000 to her son, Victor LaDue, and in the fourth and last item of the will, the testatrix directs that “all the rest, residue and remainder of my property of whatever kind and wheresoever situate” shall “pass under the laws of intestacy of the state of Ohio. ’ ’
+On the hearing in the trial court, no testimony was taken or evidence introduced. However, the parties stipulated that the will of Anna LaDue was executed March 30, 1950; that'testatrix died September 16, 1951; that the will was admitted to probate October 11, 1951; and that the inventory and appraisal filed in the administration of the estate discloses no personal property whatsoever and the only real property shown on the inventory is the property devised in item II, located at 4033 Fairview Drive, Toledo, Ohio, which was appraised at $11,500.
+It is stipulated further that no schedule of debts has been filed; that the daughter and the son of decedent are living; and that the facts stipulated, together with the application to probate the will, the original will, the appointment of the adminisratrix and the inventory and appraisement, contain all the evidence offered on the hearing of plaintiff’s petition.
+The trial court found that the bequest in item III of the will of $1,000 to Victor LaDue was not a charge on the real estate specifically devised in item II of the will, and that the legacy abated. A judgment was entered accordingly. From this judgment, Victor LaDue filed his appeal which was heard on questions of law.
+Appellant contends that when the entire will is considered in the light of surrounding circumstances, it is clear that it was the intention of the testatrix to make the legacy of $1,000 a charge on the real property specifically devised in item II of the will. We shall give attention to this claim and consider it in the light of the authorities.
+It is uniformly recognized that the cardinal rule governing the construction of wills is that the intention of the testator must prevail, unless such intention is contrary to law or public policy.
+Under the common-law rule, real estate was not liable for the payment of the debts of the decedent. From this rule, the doctrine that a pecuniary legacy is payable out of personal property only has been uniformly recognized, unless it appears to have been the intention of the testator to make the legacy and its satisfaction a charge on the real estate, where the personal property is insufficient. In other words, legacies are not payable out of real property, unless the testator by the terms of his will clearly showed a contrary intention. The following authorities appear to support this doctrine:
+Clyde v. Simpson, 4 Ohio St., 445; Geiger v. Worth, 17 Ohio St., 564 (approved in McNaughton v. Wiggins, Admr., 77 Ohio St., 630, without opinion); 41 Ohio Jurisprudence, 885, Section 768.
+As pointed out by Judge Ranney in Clyde v. Simpson, supra, at page 458, as between the objects of a testator’s bounty, “there can be no reason for disappointing the devisee rather than the legatee, or for shifting the loss from him, upon whom the law has cast it, upon one that the law does not affect, until it is made unmistakably to appear that the testator so intended. ’ ’
+In cases where it appears that the testator, at the time he executed his will containing bequests of specific legacies, had no personal property or his personal estate was known to him to be insufficient to discharge such bequests, the general rule appears to be that the real property of the testator is chargeable and the legacies are a lien thereon, unless in a given case it is manifest from the entire will that the testator did not so intend.
+Theobald v. Fugman, 64 Ohio St., 473, 60 N. E., 606; Knepper v. Knepper, Exr., 103 Ohio St., 529, 134 N. E., 476. See, also, Kinney v. Bounds, 46 Ohio App., 415, 189 N. E., 118.
+In 4 Page on Wills, 225, Section 1446, it is pointed out that, under a fact situation similar to that involved herein, the weight of authority is that legacies are impliedly charged upon the realty. We quote therefrom:
+“Testator’s knowledge of the deficiency of personalty is, however, essential to a charge of this sort. If he believes, when he makes his will, that he has sufficient personalty to satisfy his debts and legacies, the fact that his personalty is not sufficient, when his estate is administered, does not charge legacies upon realty. It is the condition of testator’s estate at the time that he makes his will, and not at his death, that determines whether or not the legacies are charged upon the land. ’ ’
+While not applicable to the provisions of the will in the case before us, we wish to call attention to the rule recognized in a number of cases in this state and applicable where the testator, having both personal and real property, makes provision for pecuniary legacies and then bequeaths and devises the residue of his personal and real property, blended as a common fund. In such situation, the residuary real property is chargeable with and held for payment of such legacies, in the absence of any provision to the contrary. Under the same circumstances, this rule is applicable also where the personal property is insufficient to pay the legacies. Where such circumstances obtain, it is manifest that the testator intended the legacies be satisfied.
+Moore, Exr., v. Beckwith’s Exr., 14 Ohio St., 129; Townsend’s Exrs., v. Townsend, 25 Ohio St., 477, 489; Koontz v. Hubley, a Minor, 111 Ohio St., 414, 145 N. E., 590; Hunt, Admr., v. Hayes, 19 C. C., 151, 10 C. D., 388; 41 Ohio Jurisprudence, 887, Section 769.
+We observe that Section 2127.03, Revised Code (Sections 10510-3 and 10510-4, General Code), provides that the executor or administrator of an estate may obtain authority to sell real estate, when by the “provisions of a will a legacy is effectual to charge real estate,” when the personal property is insufficient to pay such legacy.
+The statute confirms the established rule that real estate may be charged with the payment of a legacy where such intention is disclosed by the terms of the will. Such result obtains, as appears from the cases cited, by reason of the express terms of the will or by implication, or the real estate may be charged where the testator had no personal estate at the time he executed his will or where he knew his personal estate was insufficient to pay the legacies.
+In the instant case, it was not shown by stipulation or otherwise what personal property testatrix owned at the time she made her will or that she had knowledge that her personal property was not sufficient to pay her debts and the legacy of $1,000.
+An inventory of her estate was made following the probate of the will, which disclosed that decedent left no personal estate. It further appears that testatrix did not die until about a year and a half after she executed her will.
+We call attention again to the will. It directs payment of debts, devises specifically certain real estate for life with a contingent remainder in fee, provides for a legacy of $1,000 and makes provision for the residue of the testatrix’s estate of whatever kind.
+Assuming it were determined that the testatrix intended that the legacy in question should be a charge on the real estate specifically devised, against whose interest would it be chargeable? Could it be an enforcible lien on the interest of the devisee for life, or would it be chargeable against the remainder fee simple interest, the ownership of which is determinable at an uncertain time in the future, upon a condition subsequent? It could hardly be inferred that the testatrix intended to make such an unrealistic provision for her daughter, and one with such doubtful consequences.
+Moreover, from the language of the will and the provisions made for the son and daughter, it is inferable that the testatrix at the time she executed her will had a personal estate and that she did not know it would not be sufficient to satisfy the debts of her estate and pay the legacy.
+There being no express provision in the will charging the legacy of $1,000 upon the real property of testatrix, and no such charge arising by implication, it is our conclusion, upon the record and established rules of construction, that the judgment of the trial court is right, and it is, therefore, affirmed.
+Judgment affirmed.
+Fess and Deeds, JJ., concur.
