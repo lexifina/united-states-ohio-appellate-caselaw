@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+docket: "68748"
+decided: "1995-06-29"
+citations: ["105 Ohio App. 3d 108"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Patricia Blackmon, P.J., and O’Donnell, J., concur."]
+parties: ["The STATE ex rel. CLEVELAND CITY SCHOOL DISTRICT BOARD OF EDUCATION v. POKORNY, Judge."]
+source_url: "https://static.case.law/ohio-app-3d/105/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1781197
+cites_cases: ["1994 WL 677431", "285 N.E.2d 22", "30 Ohio St.2d 326", "45 Ohio St.3d 232", "52 Ohio St.3d 249", "543 N.E.2d 1271", "556 N.E.2d 1184", "572 N.E.2d 1387", "572 N.E.2d 87", "59 O.O.2d 387", "59 Ohio St.3d 167", "60 Ohio St.3d 40", "617 N.E.2d 707", "84 Ohio App.3d 509"]
+---
+
+# State ex rel. Cleveland City School District Board of Education v. Pokorny
+
+## Majority (Nahra, Judge.)
+
+Nahra, Judge.
+Relator, Cleveland City School District Board of Education, has filed a complaint for a writ of prohibition to prevent the respondent, Judge Thomas J. Pokorny, from exercising judicial power in a civil action that is presently pending within the Cuyahoga County Court of Common Pleas.
+On or about May 16, 1988, Nellie Taylor was assaulted by a student while in the employ of the relator. On October 8, 1991, Taylor was awarded assault leave benefits after a grievance was sustained by the Superintendent of Schools. In the fall of 1993, the relator suspended Taylor’s assault leave benefits. Once again, Taylor instituted a grievance procedure. The grievance was denied at Step Two of the grievance procedure and no further action was taken by Taylor to reinstate the payment of assault leave benefits although three additional steps in the grievance procedure were available. On November 16, 1993, Taylor filed a complaint in the Cuyahoga County Court of Common Pleas captioned “Taylor v. Cleveland Board of Education,” Common Pleas Case No. 261211. Taylor, through her original complaint and amended complaint, is attempting to enforce the prior determination of an assault leave benefits award notwithstanding a subsequent collective bargaining agreement which established a time limitation for the receipt of assault leave benefits.
+In the civil action captioned “Taylor v. Cleveland Board of Education,” the respondent has exercised jurisdiction and will exercise further judicial power through a trial. The present complaint for a writ of prohibition seeks to prevent the respondent’s further exercise of judicial power on the basis that the court lacks subject-matter jurisdiction over the complaint. In order for a peremptory writ of prohibition to issue, the relator must establish that (1) the respondent is about to exercise judicial or quasijudicial power; (2) the exercise of that power is unauthorized by law; and (3) the failure to grant the writ will result in injury for which no other adequate legal remedy exists. State ex rel. Albright v. Delaware Cty. Court of Common Pleas (1991), 60 Ohio St.3d 40, 572 N.E.2d 1387; State ex rel. Lewis v. Warren Cty. Court of Common Pleas (1990), 52 Ohio St.3d 249, 556 N.E.2d 1184. It should also be noted that a patent and unambiguous lack of jurisdiction renders the availability of a legal remedy irrelevant. State ex rel. Coyne v. Todia (1989), 45 Ohio St.3d 232, 543 N.E.2d 1271.
+Taylor’s claim for continued payment of assault leave benefits clearly involves issues that are preempted by the Ohio Collective Bargaining Act and the grievance procedure as contained in the current collective bargaining agreement. Staton-James v. Cleveland Bd. of Edn. (Dec. 1, 1994), Cuyahoga App. No. 66422, unreported, 1994 WL 677431. In addition, issues such as an unfair labor practice or a breach of duty of fair representation fall solely within the jurisdiction of the State Employment Relations Board (“SERB”). Franklin Cty. Law Enforcement Assn. v. Fraternal Order of Police, Capital City Lodge No. 9 (1991), 59 Ohio St.3d 167, 572 N.E.2d 87. It must also be noted that any claim which is independent of R.C. Chapter 4117, such as a breach of contract or enforcement, still falls solely within the jurisdiction of SERB if the asserted claim arises from or is dependent on the collective bargaining rights created by R.C. Chapter 4117. Id., paragraph two of the syllabus. Finally, Taylor has failed to exhaust her available administrative remedies prior to the filing of a complaint within the Cuyahoga County Court of Common Pleas. Johnson v. Wilkinson (1992), 84 Ohio App.3d 509, 617 N.E.2d 707; Staton-James v. Cleveland Bd. of Edn., supra.
+In the case sub judice, the respondent is without jurisdiction to address the issues as raised in the complaint that was filed by Taylor. This lack of jurisdiction is “patent and unambiguous.” The ability of Taylor to receive assault leave benefits is related directly to the past and present collective bargaining agreements and as such must be addressed through the remedies provided by R.C. Chapter 4117. These remedies include, inter alia, arbitration, the grievance procedures as provided by the collective bargaining agreement, and a complaint filed with SERB. As a result, each of the three prerequisites necessary for the granting of a writ of prohibition is present. Initially, the respondent is about to exercise judicial power through a trial. The second prerequisite, a lack of jurisdiction, is also satisfied. The third prerequisite is satisfied since a patent and unambiguous lack of jurisdiction renders the availability of an appeal irrelevant. State ex rel. Adams v. Gusweiler (1972), 30 Ohio St.2d 326, 59 O.O.2d 387, 285 N.E.2d 22.
+Accordingly, we grant a writ prohibiting the respondent from entertaining jurisdiction and proceeding further in the action captioned “Taylor v. Cleveland Board of Education,” Common Pleas Case No. 261211.
+The writ is allowed. Respondent to pay costs.
+Judgment accordingly.
+Patricia Blackmon, P.J., and O’Donnell, J., concur.
