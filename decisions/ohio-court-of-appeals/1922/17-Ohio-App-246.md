@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1922-12-18"
+citations: ["17 Ohio App. 246"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton, P. J., and Buchwalter, J., concur."]
+parties: ["Frye v. Frye, Jr., et al."]
+source_url: "https://static.case.law/ohio-app/17/cases/0246-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1847298
+cites_cases: ["104 Ohio St., 603"]
+---
+
+# Frye v. Frye
+
+## Majority (Middleton, J.)
+
+Middleton, J.
+(of the Fourth Appellate District, sitting in place of Cushing, J.). This is a proceeding to reverse a judgment of the court of common pleas sustaining the validity of the last will and testament of one William Frye, Sr. The will was contested by the cross-petition of Charles Frye, a son, who originally was a defendant in the action, and who was disinherited by his father in the will. The testator left another son, named William, and two daughters, Bertha Stroup and Emma B’Hymer. He divided his estate in a fairly equitable way among these three remaining children. The record discloses that for several years prior to the execution of this will there was a complete estrangement between Charles Frye and his father. It appears that in three prior wills made by the testator this son was cut out of any participation in the father’s estate. It is unnecessary to review the evidence in detail on this phase of the case. It is sufficient to say that the record shows abundant reasons to justify the father in his action in disinheriting Charles.
+The petition in error in this proceeding, and the briefs filed in support thereof, complain mainly of the misconduct of opposing counsel and of the court in the trial of the case below. However, we cannot say, in view of the overwhelming weight of the evidence adduced in favor of the validity of this will, that such misconduct affected the result or was so prejudicial as to require a reversal of the judgment herein. In reaching this conclusion attention is directed to the case of Palmer v. Peak, 104 Ohio St., 603, decided January 10, 1922. We regard that case as directly in point and controlling here.
+It is further contended that the court erred in its general charge to the jury and also in refusing to give certain special instructions requested by the contestant before argument. The instructions so refused were numbered three and four. It is sufficient to say as to instruction number three that it is purely argumentative and was properly refused. Instruction number four presents a more serious question. It is as follows:
+“The mere fact that his son Charles was disinherited is a circumstance (unless properly explained) to be considered on the question of unsoundness of mind and inability to malee a valid will. ’ ’
+It is a well-understood principle of law that any unnatural act of the testator in the making of his will is a circumstance which may be considered by the jury in connection with other facts in determining the validity of the will. We are not prepared to say, however, that the mere disinheriting of a child is an act, which, standing alone, may be considered by the jury as indicating even in the slightest degree any unsoundness of mind or inability to malre a will. The true rule in this respect is well stated in the editorial notes found in 13 Ann. Cases, 1044, as follows:
+“It is a well established rule that an unnatural or unjust disposition made of a testator’s estate, though it does not affect the validity of his will, is evidence tending to throw light on his testamentary capacity.”
+This is supported by many cases cited. The editor then says:
+“Though it has been held that the disinheritance of the testator’s children is prima- facie an unnatural and unreasonable act * * * it seems from the decisions cited under the general rule that in the absence of facts indicating a want of motive for a particular disposition, it cannot be said that such disposition is unnatural or unjust. For the purpose of determining whether the disposition is in fact unnatural or unjust, the relations which existed between the testator on the one hand and the persons disinherited and the legatees on the other should be considered.”
+Many authorities are here cited. The editor further says:
+“Accordingly the decisions are to the effect that it is only when there is other evidence of mental incapacity that an unnatural and unjust disposition is a circumstance which, taken in connection with such other evidence, may tend to show testamentary incapacity.”
+The charge, therefore, should have connected the act of disinheriting Charles with other acts tending to prove unsoundness of mind or inability to make a will, and the jury should have beeu instructed that it could be considered only in connection with such other acts.
+The court in its general charge to the jury said (Record, page 789):
+“The burden of proof is, as I have charged you, upon the cross petitioner to prove by a preponderance of the evidence that undue influence was used by the defendants and thereby caused William Frye to make the will in question — I should say by the defendants named in the answer and cross petition, to-wit: William Frye, Jr., F/mma B’Hymer, Wayne B’Hymer — and thereby caused William Frye to make the will in question.”
+It is urged that by this instruction the court limited and confined the jury in their consideration of 'the charge of undue influence strictly to the allegations in the cross-petition, and that the jury must have understood from this charge that the burden was on the cross-petitioner to prove undue influence by all of the defendants named. While this instruction may be susceptible of such construction, and if it stood alone, and was the only instruction given to the jury on this phase of the case, might be said to be prejudicial, we think, when the whole charge of the court on this subject is considered, that it could not have had the effect claimed. The charge as a whole fully and properly explained to the jury wha.t constituted undue influence and what proof was necessary to support a claim of undue influence. For instance, on page 7 of the general charge, we find this instruction:
+“In order to make a valid will the testator must be a free agent, and be at liberty to carry out his own wishes and desires;' and any restraint brought to bear upon the testator, which he has not the strength of mind or will to resist, if exerted so as to coerce him against his desire and purpose into the making of a will or its provisions, is undue influence within the meaning of the law.
+“In order to avoid a will on the ground of undue influence, it must be made to appear by the evidence that it or its provisions were obtained by means of influence amounting to moral coercion destroying free agency, or by importunity which could not be resisted, so that the testator was constrained to do that which was against his actual will and which influence he was unable to withstand or too weak to resist. The exercise of undue influence need not be shown by direct proof; it may be shown from circumstances, but these circumstances must be shown by the evidence and be such as to justly lead to the inference that undue influence was employed, and the will was not the wash or intention of the testator.”
+Again, on page 6, the court said to the jury:
+“A person may be suffering to some extent from weakness or bodily infirmity, yet such circumstances would not alone render him incapable of disposing of his property by will as he saw fit, provided such weakness or infirmity has not caused him to be of unsound mind or he did not act under the undue influence of others.”
+In other portions of the charge the jury were instructed in respect to undue influence without any limitation being made as to the parties by whom such undue influence was exerted. By reason of these instructions, and from the further fact that no more than a scintilla, of evidence of undue influence, if that much, is shown by this record, we are unable to conclude that the instruction complained of worked any injury to the contestant. It was proper, as far as it went, and if the contestant desired it to be more specific a request to that effect should have been made.
+The usual complaints a,re found regarding the admission and rejection of evidence. After a careful consideration of the whole record we are constrained to hold that no evidence was excluded or admitted that prejudicially affected the rights of the contestant.
+In view of these considerations the judgment of the court of common pleas is affirmed.
+The entry of affirmance may show that this court determines and certifies that in its opinion substantial justice has been done to the plaintiff in error, as shown by the record herein.
+Judgment affirmed.
+Hamilton, P. J., and Buchwalter, J., concur.
