@@ -1,0 +1,30 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 770"
+decided: "1932-03-07"
+citations: ["11 Ohio Law Abs. 729"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MAUCK, PJ and MIDDLETON, J, concur."]
+parties: ["GREEN v STATE"]
+source_url: "https://static.case.law/ohio-law-abs/11/cases/0729-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 898764
+cites_cases: ["148 S. W. 746"]
+---
+
+# Green v. State
+
+## Majority (BLOSSER, J.)
+
+BLOSSER, J.
+It is first contended that the court erred in its charge in stating, in substance, that the only kind of intent involved in involuntary manslaughter is such as may be inferred by the jury from the mere commission of an unlawful act or acts, and the rule of law in such case is that everyone intends the natural and ordinary consequence of his own act. This character of charge is recognized by the authorities and is based upon the theory that the defendant’s acts were voluntary and intentional with reference to excessive speed and knowingly operating the truck with defective brakes. While the killing itself was unintentional yet the law permits the jury to infer in such case that one intends the natural and ordinary consequence of his voluntary act.
+The court then charged the jury with reference to defective brakes as provided by §12614 GC. The court then stated:
+“Evidence has been introduced in this cause tending to show that said truck was provided with good and sufficient brakes in accordance with law up to the time or shortly prior to said accident; that when the said truck operated by defendant approached the place of the accident that a part of the brake appliance connections of said truck, without any fault on the part of the defendant, became disengaged, by reason of which said brake ceased to function and became of no avail in stopping said truck, and that by reason of said brake connection becoming so disengaged was the proximate cause of the death of said decedent, Hayes Covert. This is defensive matter introduced on the part of the defendant, and as to this defensive matter the defendant has the burden of proof and is required to sustain it by the preponderance of the evidence, that is, the greater weight of the evidence. So you are instruct ted that if it is shown by the preponderance of the evidence that said brake on said truck did become so disengaged as claimed by the defendant at the time of or shortly prior to said accident, without fault on the part of the defendant, then and in that instance the court says to you that the defendant would not be guilty of operating said truck in violation of §12614 GC relative to sufficient brakes, and the defendant could not be found guilty of manslaughter under such circumstances on the claim on the part of the state that he was operating said truck in violation of law by operating said truck at,. said time and place without providing it with sufficient brakes to control it.”
+This -charge is erroneous for the reason that it places an improper burden on the defendant. The general rule is that in a criminal case the burden of proof never shifts to the defendant. The burden remains upon the state thruout the case to prove all of the elements of the crime charged. Carver v State (Tex.), 148 S. W. 746. Instead' of requiring the defendant to establish this fact by a preponderance of the evidence it was the duty of the jury to take this evidence into consideration with all the other evidence in the case, and if this evidence on the part of the defendant of itself or in connection with all the other evidence in the case’ created a reasonable doubt of the defendant’s guilt it was then the duty of the jury to acquit him.
+There is a class of cases in which affirmative defenses are recognized, such as insanity, duress, and self-defense, which admit the commission of an act but deny a criminal responsibility therefor. In such cases the burden is upon the accused to establish that fact by a preponderance of the evidence. This burden must be sustained by the- defendant whether the testimony so introduced by him tends to excuse or justify the alleged crime entirely or is only defensive to those elements which' establish the greater degrees of the crime. charged. However, the plea of not guilty places upon the state the burden of showing the accused guilty beyond a reasonable doubt, and the accused is not obliged to offer any evidence, but if he does offer evidence it in no way shifts the burden of proof carried by the state. 12 Ohio Jur. page 502.
+In this case the elements of the crime charged against the defendant were not admitted by him. He does not admit that he was driving the truck at an excessive speed or that it had defective brakes prior Jo the time of the accident. He claims that she brake rod became disengaged and for that reason the brakes became ineffective, and that the collision was a mere accident. The state had offered some testimony to show that the defendant had knowledge of the fact that the brakes on the truck were defective! prior to the accident. The testimony offered by the defendant that the-brake rod suddenly became disengaged tended to counteract the testimony of the state with reference to his knowledge of their defective condition prior to the accident. If the collision was accidental it would tend to prove that the defendant was not engaged in the violation of the statute against driv - ing with defective brakes, and it is not such an affirmative defense as to place on him the burden of establishing such fact.
+It is also contended on behalf of the plaintiff in error that the verdict is not supported by the evidence and is contrary to the evidence. We have read the record and are not favorably impressed with this claim.
+For the error of the court in charging the jury as pointed out the judgment is reversed and the case remanded to the Court of Common Pleas for further proceedings according to law. Judgment reversed.
+MAUCK, PJ and MIDDLETON, J, concur.
