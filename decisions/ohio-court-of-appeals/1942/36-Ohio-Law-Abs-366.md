@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "18677"
+decided: "1942-07-06"
+citations: ["36 Ohio Law Abs. 366"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LIEGHLEY, FJ., SKEEL, J., concur."]
+parties: ["UNION PROPERTIES INC. v BALDWIN BROTHERS CO."]
+source_url: "https://static.case.law/ohio-law-abs/36/cases/0366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1711140
+cites_cases: ["126 N.W. 779", "91 Kan. 91", "91 S. E. 460"]
+---
+
+# Union Properties Inc. v. Baldwin Bros.
+
+## Majority (By MORGAN, J.)
+
+OPINION
+By MORGAN, J.
+A cognovit judgment was rendered in the court of common pleas in favor of the plaintiff against the defendant in the amount of $4506.44 on two promissory notes originally given to the Union Trust Company by the defendant and later assigned by the Liquidator of the bank to the plaintiff. The judgment was vacated and the defendant in its answer subsequently filed, claimed that it was entitled to a set-off on said notes of the amounts of certain special deposits, which, if allowed, would pay the notes in full.
+At the trial of the case and at the close of all of the evidence, both parties moved for a directed verdict. The jury was discharged and the trial court entered a judgment for the defendant.
+The important facts were stipulated by the parties. Oh June 15, 1933, when The Union Trust Company went into liquidation, the defendant was indebted to the bank in the sum of $45,000.00 on the said two notes. On the same date the defendant had a general deposit in The Union Trust Company of over $26,000.00. This general deposit Was set off by the Liquidator as of June 15, 1933, leaving a principal balance owing on the said two notes in excess of $18,000.00.
+The defendant had been engaged in the'business of public contracting and had constructed pavements :and roadways for the City of Cleveland and other neighboring cities and villages. All of the defendant’s public contracts contained a provision that a certain amount of money specified in each contract should be deposited in a bank as a guarantee of full performance of the contract by the defendant. It was provided in each contract that such deposit, together with interest, should “remain in pledge as a guarantee upon the part of the contractor that the workmanship and material furnished under these specifications are in all respects first class as herein provided” and also that the deposit should be made in such manner
+“that the same shall be subject to the order of the city or village only, so that in the event of the contractor’s failure to make repairs or do other work elsewhere herein required, and until the guarantee had been released by the city, said sum may at any time be drawn upon by the city * *
+The contract also provided that at the expiration of the term of guarantee the special deposit should be returned to the contractor, less any expenses which the city might have incurred necessarily in connection with the contract.
+On February 27, 1933, when The Union Trust Company ceased doing business as a going bank, and on June 15, 1933 when it went-into liquidation, the defendant had eight such special deposits with the bank. These special deposits constituted defendant’s compliance with the above stated requirements of its various public contracts. The signature cards in the possession of the Union Trust Company contained the legend that the deposits were made by the defendant “subject to the order of” a specified city, or village. The pass book in each case had been delivered to the city or village. The defendant ^Iso had executed to the bank an assignment of its interest in the said special deposits as a security for its indebtedness to the bank.
+After the Union Trust Company went into liquidation all of the cities and villages for whose benefit the special deposits with the bank had been created, released to the defendant at different times their interest in the deposits without any deductions. The first release was by the City of Parma on August 17, 1933, of $1,000.00 in a special deposit created for its benefit. The Liquidator immediately gave the defendant credit for $1,000.00 on the balance due from the defendant on the said notes. As the other interested cities and villages executed releases, the amounts of the special deposits so released were allowed in each case by the Liquidator as set-offs on the defendant’s indebtedness
+On this basis there is still owing by the defendant on the said twe notes, the amount for which the plaintiff recovered a cognovit judgment. The defendant however. contends that it has the right to have the total of the said eight special deposits set off on its indebtedness to the bank as of February 27, 1933, when the Union Trust Company ceased to do a general banking business, or at least as of June 15, 1933, when the bank went into liquidation. Whether the defendant is right in this contention is the sole question to be decided in this case.
+In his opinion, the trial court recognized that by the agreement of all parties, the city or village for whose guarantee the special deposit had been created had the right to draw on the special deposit to make necessary repairs or to secure full compliance of defendant’s obligations under its contract, but the trial court in his opinion further stated:
+“But what would have been the position of, or rights of the bank upon .presentation of the draft or order, if it had a cross-demand existing between it and the defendant contractor at the time of presentation of the draft or order? The weight of authority seems to concede to the bank the right to compensate itself in whole or in part and refuse payment of the draft or order for want of funds. * * * If the bank had this right of set-off as a going institution, to refuse payment of a draft or order before acceptance and credit to its own claim against a depositor the balance in a deposit account, what different position would the bank have been in when it was refusing to pay anyone?”
+We concede that if the bank as a going concern had the right to refuse to honor a draft by the city on a special deposit and to apply it on the bank’s claim against the depositor, the Liquidator of the bank would have the same right. It is our opinion, however, that by the above stated provisions of the contract between them, a definite pledge of the amount of the special deposit was made by the defendant for the benefit of the named city or village; that the provision in the signature card in the bank’s possession in each case, to the effect that the deposit was made “subject to the order” of a named city or village put the bank on notice that the amount of the deposit had been so pledged for the protection of the said city or village; that the bank as a going concern, and after insolvency, the Liquidator could not nullify or refuse to recognize such a pledge made for the protection of the city or village by applying the deposit on the depositor’s indebtedness to the bank, until the municipality had released its interest in the deposit, or until it had come under a legal obligation so to do.
+The rule of law applicable to this case is well stated in a note in 30 L.R.A. (n.s.) 517, to the case of Smith v State Bank, 126 N.W. 779 (Iowa).
+“All the authorities are agreed upon the rule of law declared in the above case, that a bank which accepts a deposit of money made by a depositor for a special purpose under an agreement that it will pay the money when needed for that purpose, cannot rightfully appropriate such deposit to discharge the depositor’s indebtedness to it.”
+In addition to the cases cited in the above note in 30 L. R. A. (n. s.) 517, we add the following which are to the same effect:
+Lutz v Williams, 91 S. E. 460 (W. Va.).
+Ballard v Home National Bank of Arkansas, 91 Kan. 91.
+20th St. Bank v Gilmore, 71 Fed. 2nd. 594.
+Craig v Bank of Granby, 210 Missouri App. 334.
+1st National Bank & Trust Co. v Osage Supply Co., 97 Pac. 2nd. 3 (Okla.).
+We therefore hold that the Liquidator of the Union Trust Company was under no obligation to set off or to apply the amounts of the special deposits on the defendant’s indebtedness until the time for which the special deposits had been pledged had expired, and proper releases had been obtained. It follows that , the defendant’s claim that a set off of the special deposits should have been allowed as of February 27, 1933, or June 15, 1933, is without merit.
+The plaintiff, by brief and on argument maintained that inasmuch as the defendant in this case had no right to have the special deposits set off on its indebtedness to the bank on the date it went into liquidation, the Liquidator was under no legal obligation to allow any set-offs even after all the pledges had been released.
+Inasmuch as the Liquidator in each ease did allow a set-off as soon as the pledge of the special deposit had been released, we are not required to pass on and we express no opinion as to this claim of the plaintiff. It is obvious that if the Liquidator had refused to allow the special deposits to be set off on the defendant’s indebtedness, after all rights of third parties in the deposit had been released, a very different question would have been presented to this court.
+The judgment of the trial court is reversed and final judgment is entered for the plaintiff appellant. Exceptions may be noted.
+LIEGHLEY, FJ., SKEEL, J., concur.
