@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1931-02-06"
+citations: ["9 Ohio Law Abs. 713"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PUNK, PJ, and PARDEE, J, concur."]
+parties: ["NEISNER BROS, INC v SCHAFER"]
+source_url: "https://static.case.law/ohio-law-abs/9/cases/0713-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 895507
+cites_cases: ["116 Oh St 718"]
+---
+
+# Neisner Bros. v. Schafer
+
+## Majority (WASHBURN, J.)
+
+THE FACTS ARE STATED IN THE OPINION.
+WASHBURN, J.
+Defendant in error, Rose Schafer, sued plaintiff in error, Neisner Bros., Inc., a corporation, and recovered a judgment for injuries which she suffered when she slipped and fell in the store of said company.
+The place where she fell was an aisle in said store leading to an elevator, which aisle she, in common with other customers of the company, was invited to use, as she was using it at the time of the injury.
+She claimed that the company was negligent in oiling the floor of said aisle and allowing it to remain in a slippery and dangerous condition and in permitting tissue paper to .be upon said slippery floor without warning her of the dangerous condition of said floor.
+Said company was not an insurer against all accidents and injuries to its patrons while in its store, and was liable only in-the event it failed to exercise ordinary care to prevent accidents and injuries to its patrons (Kresge Co. v Fader, 116 Oh St 718).
+It is undoubtedly true that the use of oil on floors in places where the public is invited is customary and proper, and that in this casé the mere fact that oil was used on said floor is no evidence of negligence upon the part of said company. But it is not claimed that the company was negligent because it used oil on the floor; it is charged with using sufficient oil to make the floor slippery and its use dangerous, and in permitting, through its agents and employees, tissue paper to fall and remain on said slippery floor and inviting and' allowing Mrs. Schafer to use the same while in such slippery and dangerous condition.
+If there was oil or paper on the floor’, the company placed them there, and the company was responsible for the condition of the floor, whatever it was; the important question is, Did the company exercise ordinary care to render the premises safe for Mrs. Schafer, who was an invitee?
+That was a question of fact" for the determination of the jury, and as there was a conflict in the evidence as to some of the circumstances involved in a determination of that question, the court did not err in overruling the motion of the defendant for a directed verdict in its favor, and we are further of the opinion that the finding of the jury is not manifestly against the weight of the evidence. .
+During the trial, a saleswoman who was in the employe of the defendant company at the time of the injury, was called as a witness on behalf of Mrs. Schafer, and said witness testified as to the very oily condition of the floor and that, just before the accident, she saw another employee drop tissue paper on the floor near where the accident occurred and saw Mrs. Schafer slip and fall, and that, as Mrs. Schafer lay upon the floor she noticed that there was one piece of the paper under her and another “piece on her heel”; said witness was then permitted to testify that the employee who had dropped the. paper said to Mrs. Schafer while she was still lying upoh the floor, “Well, I am sorry thatT caused the accident; I should not have dropped the paper on the floor.”
+Objection was made to the question asking for such conversation, and after the answer a motion to strike the answer from tAe record was overruled and an .exception noted, and- it is claimed that there was error in said rulings of the court.
+While said statement was made immediately after the accident and was not made in answer to a question and was spontaneous and voluntary, we have grave doubt as to its admissibility as a part of the res gestae, especially the first part of the statement, and that is true as to the testimony of Mrs. Schafer,,, who testified concerning the same conversation; but if it was error to admit evidence of such statements, we are clearly of the opinion that it waS not prejudicial error. Except insofar as it expresses the speaker’s opinion as to her fault in the matter, the statement was but cumulative evidence as to the presence of tissue paper upon the floor, and there was no evidence disputing that fact or the fact of. the presence of paper on the heel of Mrs.' Schafer immediately after her fall, and furthermore the evidence preponderated very greatly in favor of the claim that the floor was very oily and slippery; in fact, it can almost be said that there was no evidence contradicting the positive testimony of Mrs. Shafer and one other witness, to the effect that the floor was very oily and slippery.
+It is also urged that the trial court failed properly to define the issues and charge the jury in reference thereto. This claim is based upon the fact that after reading the pleadings to the jury, the court, by way of defining the issues, said:
+“The issues in this case which are questions of fact for the jury to determine are whether or not the defendant, at the time of the accident, was guilty of any negligence which was a direct and proximate cause of the accident and the injuries sustained by the plaintiff.”
+The court ■ did charge fully upon negligence, contributory negligence, proximate cause, burden of proof, and damages, and specifically told the jury that before the plaintiff would be entitled to a verdict she would have to establish by a preponderance of the evidence that the defendant was negligent and that such negligence was the proximate cause of her injuries, and that if she failed to use ordinary care and such failure contributed to cause the injuries sustained by her, she could not recover and . in that event the verdict should be for the defendant"; and that—
+“If you find that the negligence of the defendant which was a direct or contributing cause of the plaintiff’s injuries has been established by a preponderance of the evidence and do not find that the plaintiff herself was guilty of any negligence which was a direct and contributing cause of her own injuries, then you will return a verdict in favor of the plaintiff and against the-defendant in such sum as you shall agree upon as compensation for her injuries, not in excess, however, of the amount claimed in the petition and estabiished by a preponderance of the evidence.” _
+In addition to the foregoing, the court, before argument, charged the jury, as requested by the company, on the subject of negligence, contributory negligence and damages, and that—
+“The court instructs you that the plaintiff can not recover in this case and your verdict must be for the defendant, unless the plaintiff shall have proven by the greater weight of the evidence that the defendant was guilty of negligence on one or more of the grounds charged in the petition, and that this negligence was a direct and proximate cause.of the fall and plaintiff’s resulting injuries, and further and at the same time it must not appear from all the evidence that plaintiff herself was guilty of any negligence which caused or contributed directly or proximately to the accident and the resulting injuries.”
+Considering the whole charge, both before and after argument, we hold that the issues were sufficiently defined and covered by the charge of the court in this case.
+It is also urged that the court erred in refusing to give, before argument, defendant’s special request No. 7; but we find that the court having given defendant’s special request No. 1, it was not error to refuse to give No. 7. *
+It is also claimed that a new trial should have been granted because of misconduct on the part of counsel- for Mrs. Schafer during the trial, and that claim has had our careful consideration. We do not deem it necessary to say more in reference thereto than that we hold against the plaintiff in error on that claim.
+PUNK, PJ, and PARDEE, J, concur.
