@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "46976"
+decided: "1984-03-02"
+citations: ["14 Ohio App. 3d 135"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PaRRino, P.J., and Pryatel, J., concur."]
+parties: ["Huff et al., Appellees, v. Union Fidelity Life Insurance Co.; Huff, Admx., Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/14/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708442
+cites_cases: ["116 Ind. App. 290", "126 Ind. App. 95", "130 N.E. 2d 484", "155 S.C. 323", "158 Ohio St. 45", "2 Ark. App. 69", "206 Misc. 751", "215 S.E.2d 861", "27 A.L.R. 3d 794", "27 Ohio Law Abs. 364", "271 Md. 177", "285 F.2d 558", "315 A. 2d 513", "345 So. 2d 1245", "36 N.C. App. 203", "37 Ohio Misc. 27", "38 O.O. 37", "38 Ohio App. 454", "48 O.O. 24", "63 N.E. 2d 299", "66 O.O.2d 64", "82 Ohio App. 354", "82 Ohio St. 208"]
+---
+
+# Huff v. Union Fidelity Life Insurance
+
+## Majority (MARKUS, J.)
+
+MARKUS, J.
+The decedent’s adminis-tratrix appeals from summary judgment rulings which denied the estate’s claim to his life insurance proceeds and granted them to the decedent’s son. Genuine issues of material fact preclude summary judgment dispositions, so we reverse and remand for further proceedings.
+Undisputed facts establish the history of this litigation. On October 9, 1979, Carlos Huff, Sr., died from multiple stab wounds. Earlier that year, the defendant-insurer issued a $10,000 policy on his life with his seventeen-year-old son as the named beneficiary. When the insurer failed to pay the son those insurance proceeds, the son’s mother (the decedent’s former wife) filed suit on the son’s behalf. The insurer claimed that the policy was obtained by fraud and the son was barred from recovery by his conduct in causing his father’s death.
+Subsequently, the decedent’s widow intervened, filed an answer to the son’s complaint, and asserted a cross-claim against the insurer. She claimed a right to the proceeds of the policy as adminis-tratrix of the decedent’s estate.
+The son and the administratrix filed cross-motions for summary judgment with supporting affidavits and other evidentiary materials. By agreement of the parties, the insurer deposited $7,500 with the court for payment to one of the contesting claimants and obtained its dismissal from the action. The court granted the son’s motion for summary judgment, denied the administratrix’s motion, and ruled that the son was entitled to the proceeds on deposit.
+The administratrix assigns two interrelated claimed errors:
+“I. The trial court erred in granting partial summary judgment to plaintiff Carlos Huff, Jr.
+“II. The trial court erred in overruling the motion for summary judgment of defendant Elizabeth Huff, ad-ministratrix.”
+She contends the decedent’s son is barred from recovering the insurance proceeds because he intentionally and feloniously caused the decedent’s death. The son claims (1) R.C. 2105.19(A) creates the sole relevant restriction, and (2) that statute does not apply unless the claimant was convicted of a designated homicide offense. His evidentiary materials establish that he was then a juvenile and that the juvenile court never transferred jurisdiction for his trial as an adult. The juvenile court’s adjudication was later expunged and sealed.
+R.C. 2105.19(A) provides:
+“No person who is convicted of or 'pleads guilty to a violation of or complicity in the violation of section 2903.01, 2903.02, or 2903.03 of the Revised Code [aggravated murder, murder, or voluntary manslaughter] * * * shall in any way benefit by the death. All property of the decedent, and all money, insurance proceeds, or other property- or benefits payable or distributable in respect of the decedent’s death, shall pass or be paid or distributed as if the guilty person had predeceased the decedent.” (Emphasis added.)
+R.C. 2151.358(H) states in part:
+“The judgment rendered by the [juvenile] court under this chapter shall not impose any of the civil disabilities ordinarily imposed by conviction of a crime in that the child is not a criminal by reason of such adjudication, nor shall any child be charged or convicted of a crime [in] any court except as provided by this chapter [governing the juvenile court].”
+We agree with the son’s contention that R.C. 2105.19(A) has no application to this case. He was never convicted of and never pled guilty to the designated adult homicide offenses. The statute does not purport to limit the rights of persons whose conduct resembles that of persons who might have been convicted of such an offense. At the same time, the statute does not purport to allow recovery by persons whose rights are curtailed by the common law. Cf. Hennigh v. Neff (App. 1938), 27 Ohio Law Abs. 364, 367; Travelers Ins. Co. v. Gray (1973), 37 Ohio Misc. 27, 28 [66 O.O.2d 64] (both applying the prior statutory form of R.C. 2105.19); cf. Neff v. Mass. Mut. Life Ins. Co. (1952), 158 Ohio St. 45, at 48 [48 O.O. 24].
+At common law, the beneficiary of a life insurance policy cannot recover its proceeds if he caused the insured’s death by his “intentional and felonious act.” Filmore v. Metropolitan Life Ins. Co. (1910), 82 Ohio St. 208, paragraph one of the syllabus; Neff v. Mass. Mut. Life Ins. Co., supra, at paragraph one of the syllabus; National Benefit Life Ins. Co. v. Davis (1929), 38 Ohio App. 454, 457; McClain v. All States Life Ins. Co. (1948), 82 Ohio App. 354 [38 O.O. 37]; Hennigh v. Neff, supra, at 367. The same rule applies in most jurisdictions. See Restatement of the Law, Restitution (1936), Section 189; Annotation (1969), 27 A.L.R. 3d 794; 4 Couch, Insurance (2 Ed. 1960), Sections 27.148-27.149.
+R.C. 2105.19(A) simply eliminates the need to prove that the beneficiary committed such an act when the beneficiary has been convicted of a designated homicide offense. When the disqualification statute does not apply, a person challenging the beneficiary’s claim has the burden of proving the intentional and malicious killing. Cf. Smith v. Todd (1930), 155 S.C. 323, 152 S.E. 506; Continental Bank & Trust Co. v. Maag (C.A.10, 1960), 285 F.2d 558. A minor whose age precludes convictions that statutorily bar recovery can still forfeit beneficial rights under the common-law rule. Lofton v. Lofton (1975), 36 N.C. App. 203, 215 S.E.2d 861; In re Sengillo’s Estate (1954), 206 Misc. 751, 134 N.Y.Supp. 2d 800.
+In this case, the son acknowledged in a deposition that he stabbed his father and thereby caused his father’s death. However, he describes conduct which could be considered justifiable to defend his mother. His deposition testimony says his father was strangling his mother and she was shouting for help when he intervened by stabbing his father. A justifiable killing in defense of oneself or another will not disqualify a beneficiary from recovering benefits resulting from that death. Calaway v. Southern Farm Bureau Life Ins. Co. (1981), 2 Ark. App. 69, 619 S.W. 2d 301; Stacker v. Mack (1955), 126 Ind. App. 95, 130 N.E. 2d 484; Provident Life & Acc. Ins. Co. v. Carter (La. App. 1977), 345 So. 2d 1245.
+The jury could infer the son’s intention to kill his father from the surrounding circumstances including the weapon used. Hennigh v. Neff, supra, at 366. However, the jury could also accept the son’s statement that he did not intend to kill his father. In that event, the son would recover as the beneficiary named in the policy. Cf. Beene v. Gibraltar Indus. Life Ins. Co. (1945), 116 Ind. App. 290, 63 N.E. 2d 299; Schifanelli v. Wallace (1974), 271 Md. 177, 315 A. 2d 513.
+These factual issues prevented summary judgment for either claimant to the policy proceeds deposited with the court. The administratrix’s first assignment of error has merit. Her second assigned error lacks merit. Therefore, we reverse and remand for further proceedings.
+Judgment reversed cund cause remanded.
+PaRRino, P.J., and Pryatel, J., concur.
+Sub. H.B. No. 49 proposes to amend R.C. 2105.19 by disqualifying beneficiaries who are adjudicated to be delinquent children or found not guilty by reason of insanity for comparable conduct. It also creates a probate proceeding to determine disqualification consonant with common-law principles, regardless of any prior adjudication. That bill has passed the Ohio House and awaits consideration in the Ohio Senate at this time.
