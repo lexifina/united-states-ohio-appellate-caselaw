@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "20440"
+decided: "1947-02-24"
+citations: ["48 Ohio Law Abs. 15"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HURD, PJ, concurs.", "MORGAN, J, concurs on the ground that the action is barred by the statute of limitations."]
+parties: ["GARCIA, Plaintiff-Appellee, v. ANDREWS FURNITURE & STORAGE CO., Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/48/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1739565
+---
+
+# Garcia v. Andrews Furniture & Storage Co.
+
+## Majority (By SKEEL, J.)
+
+OPINION
+By SKEEL, J.
+This cause comes to this court by appeal on questions of law. The defendant appellant seeks to reverse a final order of the Municipal Court vacating a judgment rendered by that court in favor of the plaintiff and against the defendant, which judgment was originally entered against the defendant on January 12, 1927.
+On January 12, 1927, an action was commenced by the plaintiff then a minor of 3-1/2 years of age, against the defendant, seeking damages for personal injuries claimed to have been sustained by plaintiff as a result of the defendant’s negligence in the operation of one of its trucks.
+The plaintiff’s petition was verified by Munuella Garcia as the mother and next friend of the plaintiff. The defendant waived process, entered its appearance and filed an answer on the same day the petition was filed. On the same day, January 12,1927, the following entry was made by one of the Judges of the Municipal Court:
+“To Court: Case Called. Parties in Court. Trial Had. Court finds for the plaintiff and assesses his damage at $500.-00. Motion by defendant for a new trial in this cause is heard and overruled, to which ruling the defendant excepts. Wherefore it is considered that the plaintiff recover of the defendant said sum of $500.00 and also his costs of suit. Judgment is rendered against the defendant for its costs herein.”
+The petition to vacate the foregoing judgment was filed on October 31, 1945, the plaintiff then being over 22 years of age. The allegations of the petition to vacate the judgment of January 12, 1927 are that said judgment is void and of no legal effect because of irregularity in the proceedings pursuant to which the judgment was rendered in that the plaintiff’s mother and next friend was without legal authority to waive his right to trial by jury or to permit a judgment to be rendered without the intervention of a jury, the plaintiff then being a minor, and that his said mother and next friend was “without legal authority in permitting a consent judgment to be entered and in consummating a compromise without trial by jury.”
+The defendant filed a demurrer to. the allegations of the petition to vacate on two grounds: (1) that the petition did not state sufficient facts which, if true, would be legally sufficient to justify the vacating of the judgment, and (2), the relief sought is barred by the statute of limitations.
+The court overruled the demurrer and upon hearing vacated the judgment. It is the claim of the defendant that the court erred in overruling the demurrer, that the judgment vacating the former judgment is not supported by any evidence or by the weight of the evidence and that the court erred in vacating said judgment because there was no showing that the plaintiff ever had a good cause of action against the defendant.
+The only witness called on behalf of the plaintiff was his mother who acted as next friend when the action was originally filed. In substance she testified that at the time the original judgment was entered she had only been in this country about a year, having come to the United States from Spain and at that time she spoke no English. That she did not knew either of the attorneys of record in the case and had never seen either of them until coming to court, and never discussed the case with anyone. That when she got to court they offered her $500.00 to hire a nurse to take care of the boy while she worked. That they went before the judge but because she could not understand English she could not tell what took place or who participated in the proceeding. She also testified that she was taken to the court house (City Hall)by an acquaintance (from Puerto Rico) who could talk Spanish. In one place in her testimony she said this acquaintance named “Victor” did not go into the court room but only went along to show her where to go, but in answer to questions about what happened in the court room she said that he took some part in the proceeding.
+The defendant’s witnesses were the two lawyers of record, one for the plaintiff, the other for the defendant. They both testified that their records of the case had been destroyed and that they they had no independent recollection of the case. That they were both employed by the defendant insurance company, one to bring the action and to appear on behalf of the plaintiff, and the other to file an answer and to represent the defendant for the purpose of presenting the rights of the parties to a court of competent jurisdiction, to effectively conclude the claim of the plaintiff a minor, against the defendant. The services of these lawyers were paid for by the insurance company. Inasmuch as the lawyers had no recollection of what took place at the trial, they were permitted by the court to tell what'was their custom under like circumstances to all of which the plaintiff entered his objection.
+Inasmuch as the judgment had been entered more than nineteen years before the plaintiff’s petition to vacate was filed, the authority of "the court to vacate such judgment must be found under the provisions of §11631 GC and subsequent applicable sections.
+Sec. 11631 GC in part provides:
+“The common pleas court or the court of appeals may vacate or modify its own final order, judgment or decree, after the term at 'which it was made:
+(3) For mistake, neglect or omission of. the clerk, or irregularity in obtaining a judgment or order.
+(5) For erroneous proceedings against an infant or person of unsound mind, when the condition of such defendant does not appear in the record, nor the error in the proceedings.
+sj: sjs sj: ❖ % #
+(8) For errors in a judgment shown by the infant within twelve months after arriving at full age as prescribed in §11603 GC.”
+Sec. 11603 GC referred to under Rule 8 of §11631, supra, provides:
+“It shall not be necessary to reserve in a judgment or order the right of a minor to show cause against it after attaining the age of majority; but in any case in which, but for this section, such reservation would have been proper, within one year after his majority, the minor may show cause against such order or judgment.”
+Secs. 11634 and 11635 GC provide in substance that proceedings under paragraph 3 of §11631 GC shall be by motion and under paragraphs 5 and 8 shall be by petition upon which service of summons is required. The plaintiff in seeking to vacate the judgment filed a petition, so clearly he would not have expected to claim relief upon any of the grounds sét forth in paragraph 3. In his brief, however, he seeks to support the court’s order vacating the judgment for the reason that there were irregularities in obtaining the original judgment. The “irregularities” claimed as indicated above are, (1) the next friend of plaintiff was without power to waive his right to trial by jury or to permit a judgment to be entered without the intervention of a jury; (2) that she was without authority to agree to a consent judgment to be entered.
+The record fails to disclose that the right to trial by jury was waived. The action was brought in the Municipal Court of Cleveland. A trial by jury in that court can only be had upon making a demand therefor. This is wholly different from a trial in Common Pleas Court where a trial of a law case is by jury unless the right to trial by jury, is waived. The trial was therefore regular in every respect.
+The claim of the plaintiff that plaintiff’s mother and next friend for the suit, consented to an entry of judgment, is not supported by the record and therefore cannot- be sustained. The record of judgment reads:
+“Parties in Court. Trial Had * *
+The only evidence advanced to challenge the record of the court is that of plaintiff’s mother and next friend for the suit. We have above set forth the substance of her testimony. Clearly it is wholly insufficient to challenge the verity of the record. We conclude, therefore, that the judgment of the Municipal Court in vacating the original judgment is manifestly against the weight of the evidence.
+We come now to the question of whether or not the court erred in overruling defendant’s demurrer. The demurrer was based on the defendant’s claim that the allegation of the petition to vacate clearly showed the action to be barred by limitations set forth in paragraph 8 of §11631 GC.
+Having decided that the provisions of §11631 paragraph 3, GC, have no application to the facts in this case we must conclude that the plaintiff’s right to challenge the judgment in his favor entered while he was a minor, is limited by the provisions of §11631, paragraph 8, GC. The face of the record shows clearly that the petition was filed more than one year after the plaintiff attained his majority. The court was in error, therefore, in overruling the defendant’s demurrer to plaintiff’s petition to vacate the judgment.
+For the foregoing reasons the judgment of the Municipal Court is reversed and final judgment is entered for the defendant-upon plaintiff’s petition to vacate the judgment entered in his favor on January 12, 1927.
+HURD, PJ, concurs.
+MORGAN, J, concurs on the ground that the action is barred by the statute of limitations.
