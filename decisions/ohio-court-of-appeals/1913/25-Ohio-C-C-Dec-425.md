@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1913-12-11"
+citations: ["25 Ohio C.C. Dec. 425"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Chittenden, Richards and Kinkade, JJ.", "Chittenden and Kinkade, JJ., concur."]
+parties: ["Erie Railway v. Dump, Admx., et al."]
+source_url: "https://static.case.law/ohio-cc-dec/25/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1655256
+cites_cases: ["34 O. C. C. 411", "36 L. R. A. 812", "45 N. E. Rep. 705", "55 Ohio St. 517"]
+---
+
+# Railway v. Dump
+
+## Majority (RICHARDS, J.)
+
+RICHARDS, J.
+In the court of common pleas Harriet I. Dump, as administratrix of the estate of Franklin Dump, deceased, brought an action against the Erie Railroad Company, under Sees. 10770 and 10772 G. C., to recover damages arising from the death of Franklin Dump, which she alleged was caused by the negligence of the railroad company.
+In her petition she averred that Franklin Dtunp was forty-four years old at the time of his death, was unmarried and left no widow or children, and that he left as his next of bin a father, Samuel B. Dump, a mother, Harriet I. Dump, a brother, Harry S. Dump, and a sister, Mrs. C. D. Koontz.
+Florence Ruth Dump applied to the common pleas court for leave to be made a party to the litigation, and was granted leave to come in and file a pleading, which she did, denominated an answer and cross petition.
+In this pleading she set up, through her guardian to the suit, that Franklin Dump died leaving a widow, viz., Mary Dump, and two children, to wit, Alfred McKinley Dump and herself, Florence Ruth Dump; that Mary Dump was his common-law wife, and that Alfred McKinley Dump and herself are the offspring of such common-law marriage; and averred that they had been damaged by the death of said decedent, and she asks that the action might be prosecuted for their exclusive benefit and that the plaintiff might recover damages for such purpose.
+Issue was taken on the allegations of this answer and cross-petition. The trial resulted in a verdict and judgment in favor of the plaintiff administratrix in the sum of $1,500, the jury finding, in a separate verdict, that Alfred McKinley Dump and Florence Ruth Dump are the legitimate children and only next of kin of Franklin Dump, deceased.
+An interesting question arises in this ease as to the legality of the action of the trial court in permitting Florence Ruth Dump to intervene as a party in the action and deny that the persons claimed in the petition to be the next of kin were such and aver that she and her brother and mother are the only next of kin.
+The action brought by the plaintiff is one Brought under favor of the statute, and did not exist at common law. The right of next of bin, who may be omitted as such in the petition filed by the administratrix and in the answer of the defendant, to come in and set up their claim, is not expressly provided for by statute, but to hold that the law will not allow such next of kin to intervene and set up their claim would be to turn the statute, in some cases, from a beneficent one, designed to aid in the administration of justice, into an engine of oppression.
+Cases will readily occur to the mind where persons averred in the petition filed by an administratrix to be next of kin may have suffered little, if any, pecuniary damage by reason of the ■death of the decedent, while other persons, who are in truth the next of kin, may have suffered by that death large damages.
+It is not infrequent, in cases of this character, that one or more of the next of kin have been guilty of contributory negligence, as in the case of Wolf v. Railway, 55 Ohio St. 517 [45 N. E. Rep. 705; 36 L. R. A. 812]. If the true beneficiaries are not named in the petition nor their rights asserted by the answer of the defendant charged with negligence, we hold it entirely proper that such persons may intervene, on leave of the court of common pleas first had therefor, and by appropriate proceeding set up the facts so that the rights of all the parties may be determined in one action.
+It is worthy of note that the statute in force at the time of the death of Franklin Dump allowed a different maximum .amount as damages, depending on whether the next of kin were children or others more remote in their relationship to the ■decedent.
+We call attention to Pittsburgh, C. C. & St. L. Ry. v. Pritz, 34 O. C. C. 411 [16 N. S. 10]. In that case the decedent was , the father of two living children not named in the petition. The recovery- was for the maximum amount allowed by the statute, and the court, in the course of the opinion, point out the liability of the defendant company to subsequent suits for the - same negligent acts if the recovery had been for a less sum than the maximum amount then allowed by law, as was the result in the case now under consideration.
+Other circumstances might well exist of such a character as would indicate that injustice would arise if the rights of those who were the actual next of kin were not set up.
+For instance, suppose the administrator would aver that ■the next of kin was an aged person who had never received any pecuniary advantages from the decedent, while in fact there were minor children of the decedent living who were the next of kin and who had been supported by him. In all such cases, in order that the rights of the parties may be worked out by the courts, it is necessary that the interests of the actual beneficiaries be protected at the trial.
+We hold, therefore, that the trial court committed no error in allowing Florence Ruth Dump to intervene in the action.
+The bill of exceptions contains all of the evidence offered on the trial and is very voluminous. Numerous errors are assigned why the judgment is wrong and should be reversed, one, among others, being that it is not sustained by sufficient evidence.
+It appears from the evidence that the death of Franklin Dump occurred on January 9, 1912, in this county, at a public crossing of the track of the Brie Railroad Company, in a little hamlet called Snyderville, consisting of a few dwelling houses.
+The injury occurred between 4:30 and 5 o ’clock in the afternoon of a very cold winter’s day, with a strong wind blowing from a westerly direction and more or less snow falling.
+Dump had lived at or near Snyderville nearly all his life, and was entirely familiar with all of the surroundings. He started to drive in a one-horse spring wagon on the occasion in question, along what is called the Pole Cat road, in a southerly direction, then passed westerly for some four or five hundred feet to another road known as the West road. When reaching, the so-called West road, which runs nearly north and south, he drove in a southerly direction on that road, approaching the crossing where he met his death. As he neared that crossing a passenger train on the defendant company’s line was coming from the east at a rate of speed of twenty-five or thirty miles an hour.
+There is much conflict in the evidence as to certain obstructions to his view, which are claimed to have existed, in the way of piles of railroad ties, the evidence being conflicting as to the number of piles, their location and height.
+It appears from the testimony of a girl of about thirteen years of age, named Jennie Calloway, who was called as a witness by tbe plaintiff Harriet I. Dump, that she saw the accident while she was standing on the porch of her father’s residence, which is located about one hundred and fifty feet northwesterly of the crossing where the accident occurred. She saw the train approaching and saw Dump just as the front feet of his horse reached the northerly rail of the track, and she says that he had his right hand up to his ear, his cap drawn down over his head, and that as she saw him he looked to the east and to the west.
+The horse, when hit, was going about three miles an hour and was about midway of the track.
+The only evidence in the case showing, or tending to show, that the decedent looked is the testimony of Jennie Calloway, and it shows that if he looked at the time she says he did, it was at such a time as would be ineffective to protect him from danger.
+It seems clear from the evidence that if he had looked when he was fifteen or twenty feet from the track he could readily have seen the approaching train.
+There is some evidence, it is true, of a depression in the road and some conflict as to the condition of the weather and, as already stated, the location and size of the piles of ties, but as the record stands we do not see that reasonable men could differ as to reaching the conclusion that if he had looked at the proper time he could, in the exercise of ordinary care, have seen the engine and preserved his life. Even at the highest rate of speed of the train, as given by any witness, the train must have been as near to the crossing as the pile of ties at the time when he was fifteen or twenty feet from the track.
+Some witnesses testify that from a point very near this crossing a train could be seen eastwardly on the track for a distance of a mile or more.
+Without undertaking in detail a review of the evidence, which we refrain from doing for the reason that the ease is to be remanded for a new trial, we are unanimous in the opinion that so far as the contributory negligence of the decedent is concerned the verdict is not sustained by sufficient evidence.
+The ease seems to have been very carefully and skillfully tried. While many errors are assigned, we have found none which are prejudicial except the one relating to the weight of the evidence. For this error the judgment will be reversed, and the case remanded for a new trial.
+Judgment reversed and cause remanded.
+Chittenden and Kinkade, JJ., concur.
