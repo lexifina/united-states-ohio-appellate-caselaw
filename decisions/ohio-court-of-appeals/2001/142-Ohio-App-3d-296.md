@@ -1,0 +1,64 @@
+---
+court: "Ohio Court of Appeals"
+docket: "01AP-353"
+decided: "2001-04-20"
+citations: ["142 Ohio App. 3d 296"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Peggy Bryant, P.J., concurs.", "Petree, J., dissents."]
+parties: ["The STATE ex rel. TEN RESIDENTS OF FRANKLIN COUNTY WHO ARE FEARFUL OF DISCLOSING THEIR NAMES v. BELSKIS, Judge, et al."]
+source_url: "https://static.case.law/ohio-app-3d/142/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 220239
+cites_cases: ["146 Ohio St. 467", "262 U.S. 390", "32 O.O. 542", "369 N.E.2d 1200", "52 Ohio St.2d 81", "6 O.O.3d 288", "66 N.E.2d 531"]
+---
+
+# State ex rel. Ten Residents v. Belskis
+
+## Majority (Tyack, Judge.)
+
+IN MANDAMUS
+Tyack, Judge.
+On March 22, 2001, ten residents of Franklin County, Ohio, filed this action in mandamus seeking to compel Lawrence A. Belskis, the Franklin County Probate Court Judge, to issue them marriage licenses. Judge Belskis, after consultation with Franklin County Prosecuting Attorney Ron O’Brien and/or his staff, had refused to issue marriage licenses to any Franklin County residents who did not or could not provide a Social Security account number (“SSN”) at the time they applied for the marriage licenses.
+Due to the necessity of this mandamus action being resolved quickly, this appellate court ordered an expedited schedule for briefing. On April 9, 2001, the parties filed a stipulation of facts, which indicated that the only reason for refusing the marriage licenses was the lack of an SSN.
+The ten residents filed their merit brief on April 11, 2001. Judge Belskis and Prosecutor O’Brien promptly filed a reply brief. Hispanic Ministries of Tuscarawas County, Inc. and the Catholic Conference of Ohio each filed a brief as an amicus curiae. The case is now before the court for resolution.
+R.C. 3101.01 sets forth the fundamental requirements for persons who wish to be joined in marriage. R.C. 3101.01 states:
+“Male persons of the age of eighteen years, and female persons of the age of sixteen years, not nearer of kin than second cousins, and not having a husband or wife living, may be joined in marriage. A minor must first obtain the consent of the minor’s parents, surviving parent, parent who is designated the residential parent and legal custodian of the child by a court of competent jurisdiction, guardian, or any one of the following who has been awarded permanent custody of the minor by a court exercising juvenile jurisdiction:
+“(A) An adult person;
+“(B) The department of job and family services or any child welfare organization certified by such department;
+“(C) A public children services agency.
+“A minor shall not be required to obtain the consent of a parent who resides in a foreign country, has neglected or abandoned such minor for a period of one year or longer immediately preceding the application for a marriage license, has been adjudged incompetent, is an inmate of a state mental or correctional institution, has been permanently deprived of parental rights and responsibilities for the care of the child and the right to have the child live with the parent and to be the legal custodian of the child by a court exercising juvenile jurisdiction, or has been deprived of parental rights and responsibilities for the care of the child and the right to have the child live with the parent and to be the legal custodian of the child by the appointment of a guardian of the person of the minor by the probate court or by any other court of competent jurisdiction.”
+Taken on its face, R.C. 3101.01 does not require that any citizen of Ohio or any citizen of another state who wishes to be married in Ohio have an SSN.
+Judge Belskis, however, interpreted R.C. 3101.05 to require both parties to a marriage to have a SSN. R.C. 3101.05(A) reads:
+“(A) The parties to a marriage shall make an application for a marriage license. Each of the persons seeking a marriage license shall personally appear in the probate court within the county where either resides, or, if neither is a resident of this state, where the marriage is expected to be solemnized. If neither party is a resident of this state, the marriage may be solemnized only in the county where the license is obtained. Each party shall make application and shall state upon oath, the party’s name, age, residence, place of birth, occupation, father’s name, and mother’s maiden name, if known, and the name of the person who is expected to solemnize the marriage. * * * Except as otherwise provided in this division, the application also shall include each party’s social security number.
+“A marriage license issued shall not display the social security number of either party to the marriage.”
+The current R.C. 3101.05(A) was effective February 12, 2001. From July 1,1996 to February 12, 2001, the statute included the requirement:
+“Each marriage license issued shall include the social security number of each party to the marriage, as stated on the marriage license application.”
+Given the change in the requirements regarding the content of the marriage licenses and given the limited restrictions upon who may be married in Ohio, as set forth in R.C. 3101.01, we believe that Judge Belskis is now under a clear legal duty to issue marriage licenses to the ten residents of Franklin County who initiated this mandamus action and to other persons similarly situated.
+When it enacted R.C. 3101.01, the Ohio legislature expressed a policy of encouraging couples to become married by placing only minimal impediments in the way. The male should be at least eighteen years of age. The female should be at least sixteen years of age. The parties should not be nearer in kinship than second cousins. Neither party should be married to someone else. A minor must obtain parental consent in most circumstances.
+Under the circumstances, we do not believe that the Ohio legislature intended to make the information requested in R.C. 3101.05 for the license application into legal requirements for a marriage license being issued. If the information requested in R.C. 3101.05 were all legal requirements for the issuing of a marriage license, then no Ohio citizen could marry a citizen of another country and have the marriage performed in Ohio because the foreign citizen would have no SSN. No homeless person could be married because that person had no residence. No person without an occupation could be married. No person who did not know his or her own age could be married. No one who did not know her or his father’s name could be married. No person who was unaware of the place of his or her birth could be married.
+Respondents point out that newly enacted R.C. 3101.05(A) states that the application shall include each party’s SSN and contend the use of the word “shall” makes the inclusion of SSNs in the application mandatory. However, use of the word “shall” in statutory provisions is not always indicative of a mandatory condition.
+In State ex rel. Jones v. Farrar (1946), 146 Ohio St. 467, 32 O.O. 542, 66 N.E.2d 531, paragraph two of the syllabus, the Supreme Court of Ohio held:
+“As a general rule, statutes which relate to the essence of the act to be performed or to matters of substance are mandatory, and those which do not relate to the essence and compliance with which is merely a matter of convenience rather than substance are directory.”
+Further, the Supreme Court stated:
+“Whether a statute is mandatory or directory is to be ascertained from a consideration of the entire act, its nature, its effect and the consequences which would result from construing it one way or another. In each instance, it is necessary to look to the subject matter of the statute and consider the importance of the provision which has been disregarded and the relation of that provision to the general object intended to be secured by the act.” Id. at 472, 32 O.O. at 544, 66 N.E.2d at 534.
+While Judge Belskis’s refusing marriage licenses to persons who did not or could not provide SSNs is understandable while he was compelled by statute to issue licenses which contained SSNs, the recent change in R.C. 3101.05(A) places SSNs on the same plane as residence, occupation, parental name, and other similar information. The information is desirable, but not necessary.
+As noted above, we believe that Judge Belskis is now under a clear legal duty to issue marriage licenses to the ten residents of Franklin County who initiated this mandamus action and to other persons similarly situated. We, therefore, grant a writ of mandamus compelling Judge Belskis to grant the marriage licenses in question. The writ does not extend to Prosecuting Attorney Ron O’Brien, who has no direct role in the issuing of marriage licenses.
+Writ granted.
+Peggy Bryant, P.J., concurs.
+Petree, J., dissents.
+
+## Dissent (Petree, Judge,)
+
+Petree, Judge,
+dissenting.
+First, the change in R.C. 3101.05 last February, relied upon by the majority as somehow changing the import of the marriage law, did nothing more than provide security from the release of an applicant’s social security number by no longer requiring its use on the license itself. Second, these “changes in the requirement regarding the content of the marriage licenses” relied upon by the majority to distinguish prior law do no such thing.
+When Ohio became a state, it did so within a legal framework known as the common law. There existed a natural right to marry, which could not be arbitrarily denied by the state. Under the common law, people could be validly married by declaring to each other that they were married, living as husband and wife, and holding themselves out in their community as being married.
+After the creation of Ohio statehood, the Ohio General Assembly took upon itself to pass a code defining who could be married, much like the opening sentence of present R.C. 3101.01. However, the Ohio General Assembly decided it would further make marriage a regulated activity in Ohio by providing for ceremonial marriages as an alternative to marriage at common law.
+Thus, when my bride-to-be and I decided to get married in 1956, legally we had two options for marriage. We chose the ceremonial route, even though the legalities were more onerous. In order to get our license, we had to comply with Ohio’s legal code by filling out a form and, among other things, having our blood tested to prove to the state that we were free of certain diseases. If we did not like the application requirements, we could still have been married at common law because we met the required diversity of consanguinity, were not already married, and were of the appropriate sexes and ages. However, since mandamus was and is an extraordinary writ, and the law gave us no clear legal right to obtain a marriage license, nor did it place upon the probate judge a duty to issue us such a license without the blood tests, we would have probably lost our case for a writ, just as today we would be controlled by the likes of State ex rel. Natl. City Bank v. Cleveland City School Dist. Bd. of Edn. (1977), 52 Ohio St.2d 81, 6 O.O.3d 288, 369 N.E.2d 1200.
+Since 1956, the Ohio General Assembly has heightened its interest in regulating the institution of marriage by not only adding to the requirements placed upon two persons to get a marriage license, but also by slamming the door on the common-law marriage option.
+To bring this dissent to a merciful close, I merely point out that the relators herein have failed to meet the first and second requirements for the writ they request in that, under R.C. 3101.05, they have proved no clear legal right under such section to a remedy, nor have they established that there is a clear duty imposed by R.C. Chapter 3101 upon Judge Belskis to act.
+Further, no showing has been made that Ohio’s Social Security account number requirement is an arbitrary denial of the natural right to marry. Nor is there a showing that such requirement is either facially unconstitutional or unconstitutional as applied to relators as being in violation of their right to marry protected by the Fourteenth Amendment to the United States Constitution. Meyer v. Nebraska (1923), 262 U.S. 390, 399, 43 S.Ct. 625, 626, 67 L.Ed. 1042, 1045. In this day of rampant theft-of-identity problems, the February statutory changes were prudent, but do not unduly burden applicants so as to prohibit marriage.
+It is not this court’s obligation to now provide a remedy simply because certain people are displeased by the Ohio Revised Code. Indeed, we are obligated to deny such a remedy under the present dictates of the Ohio Supreme Court. Obviously, if that court wishes to revisit its prior pronouncements as to the mandamus requirements in Ohio, that option is theirs and theirs alone.
+For these reasons, I respectfully dissent.
