@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1940-05-02"
+citations: ["65 Ohio App. 217"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Nichols, P. J., and Cartee, J., concur."]
+parties: ["Schwalenberg, Appellee, v. Schwalenberg, Appellant."]
+source_url: "https://static.case.law/ohio-app/65/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1365386
+cites_cases: ["15 Ohio Law Abs., 572"]
+---
+
+# Schwalenberg v. Schwalenberg
+
+## Majority (Phillips, J.)
+
+Phillips, J.
+Defendant appealed to this court on questions of law and fact from a final order of tbe Juvenile Court of Columbiana county sustaining plaintiff’s motion to modify its former order with respect to the custody of a ten-year-old child of the parties, who were divorced, the child having elected to live with the plaintiff under authority of Section 8033, General Code, which provides:
+“Upon hearing the testimony of either or both of such parents, corroborated by other proof, the court shall decide which one of them shall have the care, custody and control of such offspring, taking into account that which would be for their best interests, except that, if such .children be ten years of age or more, they must be allowed to choose which parent they prefer to live with, unless the parent so selected, by reason of moral depravity, habitual drunkenness or incapacity, be unfitted to take charge of such children, in which event the court shall determine their custodian. The above provisions permitting children to choose the parent with whom they desire to live, also shall apply to proceedings for modification of the former orders of the court, fixing the custody thereof, as in original actions. If upon such hearing it should be proved that both parents are improper persons to have the care, custody and control of their children, in its discretion, the court may either designate some reputable and discreet person to take charge thereof, or commit them to a county or district children’s home in which they or their parents have a legal settlement.”
+This case is not properly appealable as one on law and fact and by agreement of counsel in open court it was submitted as an appeal on questions of law. Accordingly the appeal as filed is dismissed and it appearing that a bill of exceptions has'been properly filed herein, the case will be retained and determined as an appeal on questions of law.
+It is conceded by both parties that where the custody of a child is in dispute and the parents cannot agree thereon, the welfare of the child is of the paramount consideration. The conceded fact is that the homes of either of the parties, each of whom has since remarried, is a proper environment in which to raise the minor whose possession is in dispute.
+The week before his election the boy was with the defendant and for some six weeks prior thereto was in the custody of the plaintiff, and it is claimed by the defendant that the boy was unduly influenced in his election by plaintiff who took him on fishing trips and automobile rides, to soap box derbies, and gave him gifts during that time. The evidence discloses that this entertainment occurred in the natural course of events in the household of the plaintiff and was the natural expression of affection of a father for his son and, as found by the trial court, was not done for the purpose of unduly influencing the boy.
+The foregoing, in conjunction with the fact that by agreement of counsel the boy was interviewed privately by the court before a stenographer as to his choice at a time when he was divorced from the influence of both parents and as completely in control of himself as it is “possible for a ten-year-old child to have control of himself,” and then made his choice, leads us to the conclusion that no undue influence was brought to bear upon the boy in his selection.
+The right of a minor over ten years of age to elect with which of his two divorced parents he desires to live is conferred by Section 8033, General Code, herein-before quoted, and that .right cannot be denied him unless it be shown to the satisfaction of the trial court that the parent so selected is an unfit or improper person to have custody of the minor by reason of moral depravity, habitual drunkenness or incapacity. See Slater v. Slater, 15 Ohio Law Abs., 572. The evidence in our opinion failed to disclose the existence of any of these conditions and accordingly the choice of the minor must be respected.
+The lower court said in its opinion: “The court realizes to the fullest extent the gravity of removing a ten-year-old child from its mother and placing it with its father, and would refrain, from so doing if there was any legal justification for so doing.”
+Defendant contended in oral argument and by brief that the trial court misconstrued and misinterpreted the provision of Section 8033, General Code, and by the above-quoted words indicated that in its opinion the provisions of the quoted section of the code are mandatory.
+We do not believe that the trial judge misinterpreted or misconstrued the statute which clearly makes it mandatory upon him to respect the wishes of the minor in the matter of election, except under the conditions set forth in that section of the code to which reference has been made. Whether the exceptions applied was a matter for the determination of the court upon evidence submitted, which we have reviewed and which we believe supports the finding of the lower court, and is not against the manifest weight of the evidence.
+True, if the evidence disclosed that plaintiff was an unfit person to have custody of the minor, then clearly the court would not be bound to respect the wishes of the minor in his election, and could ignore such election, and under such conditions the rights and duties of the court are clearly defined by statute.
+However the fitness of plaintiff to have custody of the minor was a question addressed to the sound discretion of the court.
+The burden of proof was upon the defendant to establish the unfitness of the plaintiff to take care of the minor by reason of moral depravity, habitual drunkenness, or incapacity. See Slater v. Slater, supra.
+In this connection it was claimed by the defendant in oral argument that she could have shown upon the hearing on the motion that the plaintiff was an unfit and improper person to have custody of their minor child by virtue of his habits earlier in life, but that the court refused to permit her to introduce evidence of his habits earlier than one year immediately preceding the hearing, and that by reason thereof the trial judge committed reversible error.
+The matter of the introduction of evidence in this respect was within the sound discretion of the trial judge. In. the absence of tbe abuse of that discretion this court will not interfere with tbe ruling of tbe trial court thereon. We have examined the record in connection with this assignment of error and find no abuse of discretion or other error in this respect on the part of the trial judge which would justify a reversal of the order of that court.
+Defendant claims, but has assigned no reason for claiming, that the trial judge erred prejudicially to her rights when he refused to dismiss plaintiff’s motion for modification of the court’s former order at the beginning and close of the hearing thereon or because plaintiff had not come into court with clean hands; or for other errors apparent upon the face of the record, and accordingly we do not pass upon them, and we find no evidence that the court refused to construe or misconstrued Sections 8033 .and 11987, General Code.
+Having found no error in the trial below in the respects urged by the defendant, the judgment of the lower court is affirmed.
+Judgment affirmed.
+Nichols, P. J., and Cartee, J., concur.
