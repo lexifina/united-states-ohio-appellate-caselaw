@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-04-24"
+citations: ["45 Ohio App. 560", "15 Ohio Law Abs. 340"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Boss and Cushing, JJ., concur."]
+parties: ["Taylor Brothers et al. v. Clingerman, Recr."]
+source_url: "https://static.case.law/ohio-app/45/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336759
+cites_cases: ["111 Oh St, 726", "146 N. E., 291", "146 NE, 291", "157 N. E., 811", "157 NE, 811", "163 N. E., 719", "163 NE, 719", "24 Ohio App., 481", "29 Ohio App., 476", "41 A. L. R., 1057", "41 A.L.R., 1057"]
+---
+
+# Taylor Bros. v. Clingerman
+
+## Majority (Hamilton, P. J.)
+
+Hamilton, P. J.
+This case arose out of a second petition filed after term to vacate a certain judgment. To this second petition the defendant in error filed a motion to dismiss. The trial court granted the motion and dismissed the petition. The original action was on an account, and the petition was filed by J. B. Clingerman, receiver for the Inter Cities Oil Company, on July 27, 1929. Taylor Brothers, plaintiffs in error here, through their attorney, filed motions to the petition which were overruled. No further pleadings were filed by the defendant, and on May 19, 1930, the receiver took a default judgment against Taylor Brothers.
+On October 4, which was after the term in which the default judgment was taken, a motion to vacate the judgment was filed. This motion was overruled.
+On March 10, 1931, a petition for vacation of the judgment was filed, and on June 15 an amended petition for vacating the judgment was filed by new counsel in the case. On June 18, the judgment was vacated by the trial court.
+Prom that judgment the receiver filed proceedings in error to this court. This court reversed the judgment entered by the trial court vacating the judgment.
+On May 12,1931, a petition was filed by the receiver to marshal liens. On January 25, 1932, the trial court marshaled liens and ordered the sale of property by the sheriff. The order of sale was for sale of the home of one of the Taylors.
+On April 18, 1932, the property was advertised for sale. At this time new counsel appeared in the case, and filed in the original case a petition to vacate the judgment, at the same time filing a motion in the common pleas court asking for a restraining order against the sheriff to stop the sale under the order of the court in the marshaling of liens.
+The trial court refused the injunction, and thereupon the new counsel for the Taylor Brothers filed a petition in error in this court, and at the same time asked for a stay of proceedings, which was granted by this court.
+In October, 1932, the petition was dismissed and the restraining order dissolved, on the ground, as stated in the decree, “that no fraud extrinsic to and collateral to the matter actually tried in the original hearing was alleged or proved and no valid defense to the original action was alleged or proved.”
+On April 15, 1932, the new counsel in the case filed a second petition to vacate, alleging grounds under the statute for vacating judgment after term.
+A motion to dismiss the second petition was filed by counsel for the receiver, which motion was granted, as heretofore stated, and the petition was dismissed. Prom this judgment error is prosecuted to this court, and this is the matter for consideration.
+The defendant in error claims the question has been adjudicated, as this court on the first petition to vacate found no error in the trial court, and reversed the common pleas court, and that the matter is therefore res judicata of the second petition.
+It will be noted that in reversing the trial court the entry found that the petition alleged no fraud extrinsic to and collateral to the matter actually tried in the original hearing. This was, in effect, that the petition failed to state a cause of action, and is akin to sustaining a demurrer to the petition.
+The second amended petition states facts constituting a ground for the vacation of a judgment under the statutes, and makes allegations which would charge fraud extrinsic to and collateral to the matter actually tried in the original hearing. It is based on the fourth ground set forth in Section 11631, General Code, which is: “For fraud practiced by the successful party in obtaining a judgment or order.”
+The fourth ground of the petition to vacate states: “That the plaintiff herein well knew and had in his possession evidence showing that items in the account set out in his petition in a total in excess of one thousand dollars were items that were sold to persons other than these petitioners.” Other parts of the petition allege that Taylor Brothers did not owe or were not liable for any of the items set forth in the account upon which the plaintiff’s claim for judgment was based, and that the plaintiff well knew that the statement set forth in his petition, alleging that there was due and owing from defendants, the sum of $504.20, with interest, was an untrue statement; that the Taylor Brothers were not directly or indirectly liable for the sums, that the account was false and untrue, and in the account the Taylor Brothers had been given credits to which they were not entitled.
+In the case of Ulman, Einstein & Co. v. Effinger, 11 C. C. (N. S.), 383, 20 C. D., 791, it is stated: “A judgment procured against a party on an account which she never owed, nor became either directly or indirectly liable for its payment, constitutes a fraud on the court rendering such judgment, which should be set aside in a proper proceeding brought for that purpose.”
+The defendant in error relies largely on the case of Gohman v. City of St. Bernard, 111. Ohio St., 726, 146 N. E., 291, 41 A. L. R., 1057. In that case the Supreme Court considered a second petition to vacate the judgment. This goes to the proposition as to whether or not the decision of this court on the first petition is the law of the case to be followed in these considerations.
+In the Gohman case, the Chief Justice in the course of the opinion uses this language at page 730: “It should be stated at the outset of this decision that we do not approve it as a rule of binding force, but as a salutary rule of practice, which should be applied in all cases where it may be employed as a shield against endless litigation, and to compel obedience of trial courts to the mandates of reviewing courts, and not as a sword which may be employed as an instrument of oppression and injustice.” Further, in the opinion, page 731, the Chief Justice states: “We are therefore only considering and contending for a rule to be applied in civil cases, and, in any case, to be applied as a rule of practice, with the injunction that the court should refuse to apply it in any exceptional case where it may he made the instrument of oppression or injustice.”
+Applying this pronouncement to the question before the court, this court is of the opinion that this is an exceptional case, where, to apply the rule of the “law of the case,” would work oppression and injustice.
+The record discloses that the Taylor Brothers have not had their day in court in the proper manner. Why counsel did not answer in the original case, after being employed, representing Taylor Brothers, and filing motions therein, the court cannot understand. Default judgment was taken without actual notice to Taylor Brothers. They sought to correct the situation by employing new counsel. The new counsel in his petition to vacate the judgment failed to state a cause of action, whereupon Taylor Brothers employed new counsel, who now presents the cáse properly to the court for consideration.
+We are of the opinion that justice would be best served by the trial court considering the second petition on its merits, and if it should be shown by Taylor Brothers that the items making up the account were sold to other persons, and not to Taylor Brothers, and that they did not receive the property for which they are charged, the trial court would be justified in sustaining the petition to vacate the judgment and entering the case for trial on the merits, according to law. Certainly the receiver would suffer no injustice in submitting the case on the merits in the trial court.
+This conclusion is in line with Buckeye State Building & Loan Co. v. Ryan, 24 Ohio App., 481, 157 N. E., 811; Ryan v. Buckeye State Building & Loan Co., 29 Ohio App., 476, 163 N. E., 719, and Kentucky Joint Stock Land Bank of Lexington v. Russ, a case on the dockets of the Court of Appeals of Clermont county, Ohio.
+The judgment of the common pleas court in dismissing the petition will be set aside, and the petition reinstated, with instructions to the trial court to consider the petition on the merits.
+Judgment accordingly.
+Boss and Cushing, JJ., concur.
