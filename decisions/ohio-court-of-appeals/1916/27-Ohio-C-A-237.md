@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1916-10"
+citations: ["27 Ohio C.A. 237", "35 Ohio C.C. Dec. 344"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shields, J., and Houck, J., concur."]
+parties: ["Edward T. Koch et al v. Lindsay H. Bounds et al."]
+source_url: "https://static.case.law/ohio-ca/27/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1606254
+cites_cases: ["1 Ohio St., 107"]
+---
+
+# Koch v. Bounds
+
+## Majority (Powell, J.)
+
+Powell, J.
+This is a suit in partition, and the lands to be partitioned are described specifically in tbe answer and cross-petition of tbe defendant, Lindsay H. Bounds. The single question presented' for adjudication is whether or not the one undivided fifth part of said lands that belonged to Robert Bounds, deceased, came to the possession and ownership of the said Robert Bounds by descent or by purchase.
+It is claimed on the part of the plaintiffs in error that Robert Bounds’ original title to the undivided fifth part of said lands was a title by purchase, while it is claimed by defendants in error that said undivided fifth owned by Robert Bounds was a title by descent from William Bounds, his father.
+William Bounds became the owner of the certificate of entry of said lards in about 1820, the"said certificate having been issued in 1836. William Bounds assigned the certificate of entry to one Edwards as security for a debt owing by him to the said Edwards. Afterward the certificate was assigned by Edwards and came into the hands of one Samuel Stover. At the time of the assignment by Bounds to Edwards, a contract was entered into between them, by which Bounds reserved to himself the right to redeem said lands within a time named and upon condition that the debt due to Edwards should be paid.
+Stover, when ho became the owner of said certificate, paid the balance of the purchase price due upon the same, and also paid the claim for which said certificate had been assigned. He then procured a patent to issue from the general government to him for said lands. After obtaining the patent in 1824 or 1825, he brought an action of ejectment and recovered possession of said lands from Bounds.
+Bounds remained in the neighborhood for about a year after Stover had recovered possession and then disappeared, and, so far as the record discloses, was never afterward heard from.
+Stover continued in possession of the -lands covered by said patent until his own death in 1835. Shortly afterward the heirs at law of William Bounds began suit against the heirs at law of Samuel Stover to redeem said lands. Afterward, by judgment of the Supreme Court of the state of Ohio, a decree was entered, authorizing such redemption and ordering conveyance of said lands by the heirs of Samuel Stover, deceased, to the heirs of William Bounds, deceased, of whom the said Robert Bounds was one. Bounds v. Stover, 1 Ohio St., 107.
+Robert Bounds, some time after said decree was entered, went to the state of California and remained there until about the year 1856, when he returned and bought the interests in said lands of his brothers and sisters, so that there is no question that his title to four-fifths of the land sought to be partitioned is a title by purchase; the other one-fifth is claimed to have come to him by descent from his father, William Bounds.
+• Some years afterward Robert Bounds married and on his death without issue surviving him, his widow, Margaret Bounds, became the owner in fee by virtue of the statutes of descent .then in force, of four-fifths of said lands, with a life estate in the other fifth that had originally belonged to her said husband, if it was an estate by inheritance; and if it was an estate by purchase, she was also the owner of said one-fifth, and this is the question presented to us for solution.
+It arises in this way: Margaret Bounds, after the death of Robert Bounds, was remarried to William II. Koch, who survived her. She left a will devising all her interest in said lands to her said husband, who was the original plaintiff in this action, and who died during the pendency of the same. The action was revived in the name of his legal representatives, and they are the plaintiffs in error in this court. The defendants in error are the heirs at law of Ribert Bounds, so that the contention here is between the respective heirs at law of the two husbands of Margaret Bounds, deceased.
+The original action between the heirs of William Bounds and the heirs of Samuel Stover is reported in 1 Ohio St., page 107. It is there held that the assignment of the certificate to Edwards with a contract reserving the right to redeem said lands on the‘payment of the amount due to Edwards, constituted a mortgage on the part of Bounds to Edwards, and the court there say that “once a mortgage, always1 a mortgage.” The court also held that the' interest or title of William Bounds in said lands was a superior title to that of Samuel Stover, although Stover had obtained the patent for the same from the United' States Government; and the court entered a decree authorizing the heirs of Bounds to redeem said lands from the heirs of Stover.
+It is also there held that because Stover took the assignment of said certificate of entry with full knowledge of the rights of Bounds in said lands under his contract with Edwards, he took such title as he could obtain with a right of redemption remaining in Bounds, that could be exercised any time within the bar of the statute of limitations; or, in other words, the certificate of entry carried with it to Bounds a title to said lands, though not a complete title; and the court recognizes that such title would descend according to law by entering a decree in favor of the heirs of Bounds against the heirs of Stover. Such title, then, as William Bounds possessed, was a title that could be redeemed by his heirs at law by virtue of the statute of descent and distribution.
+It was further held that Stover did not obtain a clear and indefeasible title through Edwards by the assignment of said certificate and the procuring of said patent for said lands.
+The court held, in the case cited, that the certificate of entry, while it carried incomplete title to the owner of the same, gave the party to whom it belonged the right to enter and hold the land covered by such certificate; it also gave him the right to obtain a complete legal title to the exclusion of all other persons, by the payment of the balance of the purchase price; and that the same was a title to the lands, although not a perfect one.
+It follows that the heirs of Bounds obtained title by descent from William Bounds, with a right to make their title complete by the performance of the conditions of such certificate of entry and the payment of any obligations for which said certificate had been assigned, and that when their title became perfected, it became a perfect title by descent and not by purchase.
+The court has arrived at the conclusion that Robert Bounds' inherited one-fifth of the lands described in the answer and'cross-petition from his father, William Bounds, deceased, and that his title to said one-fifth is an ancestral title, and not one by purchase. This having been the holding of the court below, it follows that the judgment of that court must be affirmed.
+Judgment "affirmed.
+Shields, J., and Houck, J., concur.
