@@ -1,0 +1,56 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3492"
+decided: "1944-11-16"
+citations: ["43 Ohio Law Abs. 385"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MONTGOMERY, J., of the Fifth Appellate District sitting by designation in place of Barnes, P. J.", "HORNBECK, and MONTGOMERY, JJ., concur."]
+parties: ["STATE, ex rel. TOLLINGER, Relator, v. GILL, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/43/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1728108
+cites_cases: ["118 Oh St 48", "120 Oh St 110", "122 Oh St 82", "13 O. D. 101", "18 C. C. 158", "53 Oh St 361", "7 Oh St 158", "82 Oh St 121"]
+---
+
+# State ex rel. Tollinger v. Gill
+
+## Majority (By GEIGER, J.)
+
+OPINION
+By GEIGER, J.
+The relator in his petition alleges in substance that he is a resident of Dayton and has been in business in said city operating a press shop; that in December, 1939, he began dry cleaning of wearing apparel at said premises, employing the use of a non-inflammable liquid as a cleaning fluid; that immediately upon entering into said business he made application as provided by §843-20a GC, for a permit from the defendant and later renewed said application.
+It is alleged that the defendant arbitrarily ignores relator’s application and arbitrarily refuses to issue to relator the permit provided for; that he has conducted his business in strict compliance with all the laws of the city of Dayton and the State of Ohio controlling the operation of a dry cleaning business employing a non-inflammable cleaning fluid and that the arbitrary action of the defendant in such refusal is a violation of the relator’s right to do business and receive such permit.
+Relator prays that a writ of mandamus issue directing that the defendant, Gill, as Fire Marshal, acknowledge and accept the application and remittance, and that he be compelled to issue such permit as provided by law.
+To this petition the defendant-respondent answers and as a second defense asserts that at all times since the relator began his dry cleaning business and at the present time, he has used and is using in said dry cleaning business an inflammable cleaning fluid known as Triplex Solvent No. 2; that the premises in which said business is conducted do not meet the requirements of §843-26 GC for the building in which dry cleaning with inflammable liquid is conducted and that relator is conducting said dry cleaning business contrary to law and that the defendant is justified in refusing to grant his application.
+The plaintiff-relator replies and admits that he was using a mineral cleaning fluid known as Triplex Solvent No. 2; denies that he was employing the use of an inflammable fluid and, also, that the premises in which said business was conducted failed to meet the requirements of the General Code as alleged.
+By way or further reply relator states that one L. M. Barnett, residing at Celina, Mercer County, Ohio, was similarly engaged in the business and operation of a dry cleaning establishment identical with that of the relator; that said Barnett employed the use of Triplex Solvent No. 2 as described in the answer, in the cleaning of clothing and that on the 16th day of December, 1940, said defendant, Gill as Fire Marshal, refused to grant a permit to the said L. M. Barnett for the reason that he was employing the use of Triplex Solvent No. 2 in his said business under the claim of the Fire Marshal that said solvent was inflammable; that said Barnett thereupon appealed to the final order of said defendant to the Probate Court of Mercer County and that said action was heard and determined on its merits; that said action was defended by the defendant herein and thereupon proceeded to trial to determine, among other things, that Triplex Solvent No. 2 was an inflammable fluid as defined by §843-19 GC; that upon the evidence adduced and as a result of scientific experiments presented in open court the Court rendered final judgment on behalf of the said L. M. Barnett and judicially determined that Triplex Solvent No. 2 was not an inflammable liquid within the definition and meaning of §843-19; that the Probate Court of Mercer County was a court of competent jurisdiction and that its judgment was final and that the defendant is now barred and estopped from claiming or asserting that Triplex Solvent No. 2 is an inflammable liquid as described in the section.
+It is also alleged-that one J. C. Davis, a resident of Wooster, Wayne County, was similarly located and engaged in the same business and that Davis employed the use of the same solvent; that in 1940 defendant refused to grant a permit to the said Davis to operate his establishment for the use of a non-inflammable, giving as a reason that he was employing Triplex Solvent No. 2 and the same was an inflammable as defined by the statute and that thereupon the order of the Fire Marshal was explained to the Probate Court and after trial, the Court found that the said solvent was not an inflammable liquid.
+It is further asserted that the judgment of the Probate Court of Wayne County was reversed on technical grounds hut that the determination as to the inflammability of the solvent was not disturbed by the reviewing court and that the Probate Court of Wayne County was a court of competent jurisdiction and that its judgment was final and defendant is barred and estopped from claiming that Triplex Solvent No. 2 is inflammable.
+Other allegations are denied and relator repeats the prayer of the petition.
+Stipulations are to the effect that the case now proceeds before this Court on the sole question as to whether the decisions in the two counties mentioned constitute res judicata as to the non-inflammability of the solvent sought to be used by the plaintiff herein.
+The defendant first attacks the decision of the Probate Court of Mercer County claiming that under_the authority of Grant v Ramsey, 7 Oh St 158, it must appear that the Court deciding the case must be one of competent jurisdiction and the counsel then argues at length that under the statutes establishing the Probate Court and providing for- appeal does not establish the right of the Probate Court of Mercer County to pass upon the appeal made from the decision of the Fire Marshal.
+We will not labor the question as to whether the Probate Court of Mercer County had the right on appeal to it to make a final order in reference to the non-inflammability of the fluid in question, as we think the case may be more-properly decided under principles that do not involve a question of jurisdiction of the Probate Court of Mercer County.
+It is asserted by counsel for respondent that the case decided in Mercer County was not an action against Ray R. Gill, either as an individual or as a public servant, but was a review of his findings acting in a quasi-judicial capacity and that there was no identity of parties contemplated by law and the counsel cites May Coal Company v Robinette, Admr., 120 Oh St 110, and the case of Rappold v Ohio, 16 Oh Ap, 229, which last was a criminal case and not particularly applicable to the case at bar. Counsel for respondent also assert that it'is determined by the case of The Cullen & Vaughn Company v The Bender Company, 122 Oh St 82, that the judgment cannot be considered as res judicata unless the parties were adversaries in the original action. Counsel concludes that the judgment of the Probate Court in Mercer County on the appeal of L. M. Barnett from a judgment of the Fire Marshal is not res judicata on any of the questions involved in the instant case for the reason that there is no identity of parties in the Mercer County case and that the parties here were not adversary parties in the Mercer County case.
+It is well to review the cases cited in 7 Ohio Digest under Chapter IX, page 346, et seq. We shall not cite or examine these cases in detail but only state what seems to us to affect the case at bar.
+“Res judicata operates as a plea in bar to prevent further litigation over matters that have been determined by ■ a court of competent jurisdiction, over the same subject-matter and between the same parties. * *
+State, ex rel. Alter v Lewis, 13 O. D. 101.
+“A fact in issue in a'court of competent jurisdiction which is fully determined is res judicata in collateral suits between the same parties.”
+Mack v Eckerline, 3 O. L. R. 535.
+“* * * A matter is not res judicata unless four conditions concur, namely, (1) identity of subject-matter; (2) identity of cause of action; (3) identity of persons and parties; (4) identity in the quality of the persons for or against whom the claim is made.”
+See cases cited in support of this doctrine on page 347, 7 Ohio Digest.
+“The judgment of a court of concurrent jurisdiction, directly upon the point, is, as a plea in bar or as evidence, conclusive between the same parties, on the same matter directly in question in another court.”
+Miehle Printing Press, etc., Co., v Andrews-Jones Printing Co., 18 C. C. 158.
+Feazel v Feazel, 26 C. D. 328.
+“Within the meaning of the doctrine of res judicata the term ‘parties’ includes all who are directly interested in the subject-matter, and who had a right to make defense, control the proceedings, examine and cross-examine, and appeal from the judgment.”
+Heald v Cleveland, 19 N. P. (N. S.) 305.
+“In applying the doctrine of res judicata, the rule that there must be an identity of the parties does not mean that they must have appeared upon the record as plaintiff and defendant, but that such should have been the real attitude upon the questions which were tried and determined.”
+“The principle which underlies the doctrine of stare decisis is that if a matter has been decided, such principle has become a finality even as to parties who are strangers to the original proceeding and who are not bound by the judgment under the doctrine of res judicata.”
+7 Ohio Digest, 378.
+There is a difference'between the doctrine of res judicata and stare decisis, but as to stare decisis it is settled that an inferior court cannot establish facts which control the decision of a superior court.
+What are the questions in the case at bar? The plaintiff brings his action to require Gill, as Fire Marshal, to issue the permit to relator. While Gill was a party defendant in a like action in Mercer County and it was there determined that the solution was not inflammable, yet otherwise that case does not meet any of the requirements relating to res judicata. As to stare decisis, we are of the opinion that the case at bar may not be determined as to inflammability or non-inflammability of the solution by a reference to the judgment of the Probate Court of Mercer County. It will be necessary in the case at bar for the plaintiff to demonstrate in a trial that his allegations as to non-inflammability are correct.
+See Strangward v The Amercian Brass Bedstead Co., 82 Oh St 121; Quinn, Aud., et al., v The State, ex rel. Leroy, 118 Oh St 48; Hixon v Ogg, 53 Oh St 361;
+Also, State, ex rel. Herbert v Brotherhood of Railroad Trainmen, 41 Abs p. 176, for further discussion of the doctrine of res judicata.
+Judgment accordingly.
+HORNBECK, and MONTGOMERY, JJ., concur.
