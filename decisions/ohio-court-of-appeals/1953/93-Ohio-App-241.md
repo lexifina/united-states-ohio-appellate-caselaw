@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "22698"
+decided: "1953-03-02"
+citations: ["93 Ohio App. 241"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hurd, P. J., and Kovachy, J., concur."]
+parties: ["National Cash Register Co., Appellee, v. Malitz, d. b. a. Cedar Loan Co., Appellant."]
+source_url: "https://static.case.law/ohio-app/93/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1409922
+cites_cases: ["19 Ohio St., 419", "2 Am. Rep., 408", "200 N. E., 527", "51 Ohio App., 241"]
+---
+
+# National Cash Register Co. v. Malitz
+
+## Majority (Skeel, J.)
+
+Skeel, J.
+This appeal comes to this court on questions of law from a judgment entered in the Municipal Court of Cleveland for the plaintiff. The original action was for the replevin of an adding machine. The defendant does not here contest the right of the plaintiff, as owner, to possession of the adding machine for the reason that no specific claim of right to possession is set up in the answer. The controversy here presented concerns the cross-petition filed by the defendant seeking damages for alleged acts of negligence on the part of the plaintiff in failing to report the theft of the adding machine for 21 months after it was stolen.
+The cross-petition alleges that the defendant is a licensed pawnbroker in the city of Cleveland; that there is in Cleveland an agreement between the pawnbrokers and the police department that the police department will keep an up-to-date list of all property reported lost or stolen; that the pawnbrokers, before receiving in pawn any doubtful article of merchandise, will first check with the police department to see whether such property is on such list; and that such practice is designed to apprehend criminals, to recover lost and stolen property, and to prevent loss to the pawnbrokers.
+It is alleged that plaintiff was familiar with this practice but negligently failed to report the theft of the adding machine; that when it was brought to the defendant’s place of business by one giving his name as Frank Payne, who sought to pawn it, the defendant checked with the police department and, finding that the adding machine had not been reported stolen, loaned $38 to Payne, receiving the machine as security for the loan. When Payne defaulted on the loan contract, the defendant conducted a private sale of the adding machine, claiming to act under the provisions of Section 6341-1, General Code, and purchased it himself for $38. Thereafter he resold it for $100 and when this action was commenced he was compelled.to return the purchase price. It is alleged that the plaintiff, having knowledge of the commercial practice between the police and the pawnbrokers, owed the duty to report the theft of the adding machine and, having negligently failed to do so, is now liable for defendant’s loss of $100, that is, for the $38 loaned to Prank Payne, together with $10.44 interest, and $51.56 profit.
+Plaintiff demurred to the cross-petition.
+The court, upon hearing, sustained the demurrer and the defendant not desiring to plead further, judgment was entered for the plaintiff on its claim for possession of the adding machine, and for the plaintiff on defendant’s cross-petition. The defendant claims the following errors:
+1. In sustaining plaintiff’s demurrer to defendant’s answer and cross-petition.
+2. In rendering final judgment in favor of the plaintiff.
+The counterclaim of the defendant is (as is set forth in his brief) based on the doctrine of equitable estoppel. That is, that by the failure of plaintiff to report the adding machine stolen to the police, the plaintiff is estopped from making a claim of ownership thereto. If this be true, then defendant’s action could not be one for damages. Such a claim would be a defense to plaintiff’s right of possession of the adding machine, and if the plaintiff had taken possession upon giving bond as required by Section 12056, General Code, then upon judgment for the defendant and the refusal of the plaintiff to return the machine to the defendant, the defendant would be entitled to damages based on the value of the machine, but in no event to exceed his possessory interest- It should be noted that to come to this result, the claim of estoppel would be a defense as provided by statute and a counterclaim would be wholly unnecessary. The facts pleaded and the relief prayed for, therefore, do not invoke the doctrine of equitable estoppel.
+The counterclaim also attempts to make out a case for damages on the ground of negligence. We, therefore, are faced with the inquiry as to whether or not the facts alleged in the cross-petition state a cause of action in negligence. Does the owner of property who is informed of the manner in which pawnbrokers do business owe a duty to make public reports of stolen property by notifying the police so that those who deal with the thief or those who acquire possession from or through the wrongful acts of the thief will have notice of the owner’s rights in the property? We know of no such rule of law.
+The gasoline credit card and charga plate cases referred to by the defendant give no support to his cause. Certainly one who is given possession of a token for purposes of identification, which token is, to the knowledge of the possessor, the sole means by which he is to be identified by the issuer in extending credit to the holder, owes an absolute duty to notify the issuer when such token has been lost or stolen. But that is far different from the facts in this case where no act of the plaintiff on which the defendant had the right to rely induced him to loan money on the security of plaintiff’s stolen adding machine.
+In the case of Second National Bank of Toledo v. Walbridge, 19 Ohio St., 419, 2 Am. Rep., 408, the court held, as shown by the syllabus:
+“1. A warehouse receipt is not, in a technical sense, like a bill of exchange, a negotiable instrument;' it merely stands in the place of the property it represents; and a delivery of the receipt has the same effect in transferring the title to the property as the delivery of the property.
+“2. A warehouseman, on application of the owner, by mistake issued to the latter, at different dates, two warehouse receipts for the same property, the last of which the owner assigned for value to the plaintiff, to whom the defendant, the warehouseman, on demand delivered the property. Afterwards, the assignee of the first receipt recovered the property in replevin from the plaintiff. The plaintiff instituted the present suit to recover from the defendant the value of the property. Held:
+‘ ‘ There being no privity of contract between the defendant as maker and the plaintiff as assignee of the receipt, the defendant, in the absence of all fraud, is not estopped from showing as against the plaintiff the mistake in the giving of the last receipt, as a defense to the action.”
+At page 426, the court said:
+“In the present case, it is to be observed, that we have, in this state, no statute affecting the rights of the parties; and, in the absence of such statute, we are of opinion that the defendant is not estopped from showing, as against the plaintiff, the mistake in the issuing of the receipt as a defense to the action.”
+While the rule of this case has been changed by the Uniform Warehousemen’s Act, we know of no statute which comes to the aid of the defendant in the case now before us. We must conclude, therefore, that the defendant’s cross-petition does not state a cause of action.
+There is still another reason why, from the face of the record, the defendant is not in a position to press his counterclaim in this case. Section 6341-1, General Code, provides the manner in which a pawnbroker may proceed to sell the property pawned, upon default. Its provisions require a fair sale to the highest bidder. It must be evident that a sale of the property here involved by the defendant to himself for $38, the exact amount of the loan without interest, and the resale of the property shortly thereafter for $100, and his present claim for damages alleging $100 to be the reasonable value of the adding machine, show that a fair sale was not conducted. Phillips v. Ideal Securities, Inc., 51 Ohio App., 241, 200 N. E., 527.
+For the foregoing reasons, the judgment of the Municipal Court is affirmed.
+Judgment affirmed.
+Hurd, P. J., and Kovachy, J., concur.
