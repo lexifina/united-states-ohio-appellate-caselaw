@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-01-09"
+citations: ["44 Ohio App. 523"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton and Cushing, JJ., concur."]
+parties: ["Baylor v. Killinger."]
+source_url: "https://static.case.law/ohio-app/44/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1331105
+cites_cases: ["118 Ohio St., 434", "124 Ohio St., 12", "161 N. E., 282", "176 N. E., 660"]
+---
+
+# Baylor v. Killinger
+
+## Majority (Ross, P. J.)
+
+Ross, P. J.
+This is a proceeding in error from the court of common pleas, wherein judgment was rendered in favor of the plaintiff, May Killinger, upon the overruling of a demurrer to the petition; the defendant, Helen Baylor, not desiring to plead further.
+For a first cause of action the petition alleged that the defendant, plaintiff in error in this court, brought suit against the plaintiff, defendant in error here, “for a money judgment as damages for personal injuries,” and that on April 19, 1922, without notice to the plaintiff, a jury was impaneled and sworn and returned a verdict against the plaintiff in that action for $3,500.
+On November 29, 1924, the court of common pleas, by entry, dismissed the cause without prejudice and without record.
+On April 19, 1927, the court of common pleas set aside this entry of dismissal, nunc pro tunc, as of December 1, 1924, and upon the same day made an order of judgment on the verdict rendered April 19, 1922, and made its entry of judgment nunc pro tunc April 26, 1922.
+It is further alleged that the order setting aside the entry of dismissal and the order of judgment on the verdict were made without notice to the plaintiff, and that no motion or petition was filed asking for the relief granted in making the order of vacation of the dismissal and judgment on the verdict.
+A second cause of action alleges that the defendant has instituted an action to marshal liens, based upon a levy of execution made upon certain real estate of plaintiff, in execution of the order of judgment complained of in the first cause of action.
+The petition prays that the orders of the court of common pleas, vacating the entry of dismissal and the entry of judgment upon the verdict, be set aside and held for naught, and that the defendant may be restrained from prosecuting the suit to marshal liens.
+The defendant demurred to the petition upon the ground that the action was barred by the statute of limitations, and that the petition stated no cause of action. This demurrer the trial court overruled, and, the defendant not desiring to plead further, judgment was entered accordingly, granting the relief prayed for in the petition.
+Section 11640, General Code, provides as follows: “Proceedings to vacate or modify a judgment or order for the causes mentioned in divisions four, five and seven, of section 11631, must be commenced within two years after the judgment was rendered, or order made. Proceedings for the causes mentioned in divisions three and six of such section, must be commenced within three years, and in division nine, within two years after the defendant has notice of the judgment. Under division ten of such section, the proceedings may be commenced after the guilty party is convicted, if the conviction be within two years from the rendition of the judgment.”
+This instant case to vacate the judgment must be based upon subdivision 3, Section 11631, General Code: “For mistake, neglect or omission of the clerk,” etc.
+Section 11640, General Code, whs formerly Section 5363, Revised Statutes (83 Ohio Laws, 74), which read in part, and was punctuated, as follows: “Proceedings for the causes mentioned in sub-divisions three and six of the same section shall be commenced within three years, and in sub-division nine within two years, after the defendant has notice of the judgment # # # 99
+It will be noticed that in Section 11640, General Code, the comma is now omitted after the words “and in division nine, within two years” and before the words “after the defendant has notice of the judgment.” Revised Statute, Section 5363, as then worded and punctuated, was construed in a nisi prius decision as providing that the limitation applying to subdivision 3 did not commence to run until “after notice of the judgment.” While such a construction might have been justified by the former punctuation of the section, it cannot now be justified on this ground, especially when reference to subdivision 9 shows that this section is one which would naturally be placed in a different class from any of the other subdivisions. A mere reading of it is sufficient to make this obvious.
+Subdivision 9, Section 11631, General Code, is as follows: “For taking judgments upon warrants of attorney for more than was due the plaintiff, when the defendant was not summoned or otherwise legally notified of the time and place of taking such judgment. ’ ’
+Again, an examination of the subdivisions of the section shows no reason for requiring notice in the case of subdivision 3, if not required for say “fraud practiced by a successful party” (subdivision 4), or “erroneous proceedings against an infant” (subdivision 5), or “unavoidable casualty or misfortune, preventing the party from prosecuting or defending” (subdivision 7) where the limitation of two years is applied from the time the judgment is rendered, regardless of when notice thereof was acquired. The distinction between subdivision 3 and subdivision 9 is too marked to question that the Legislature intended to apply notice of judgment only to subdivision 9, or that it was wholly justified in so doing.
+This action, therefore, falling within the limitation of three years, and the judgment of which complaint is made having been entered April 19, 1927, and this suit having been instituted November 19, 1931, it is barred by the provisions of Section 11640, General Code, and the demurrer should have been sustained on that ground.
+As to the second ground of the demurrer: In the first place, the nunc pro tunc feature of the entries involved was wholly valueless for any purpose under the facts alleged, and void. The function of a nunc pro tunc entry is not, by a fiction, to antedate the actual performance of an act which never occurred, but is to make the record conform to that which was actually done, at the time it was done. Helle v. Public Utilities Commission, 118 Ohio St., 434, 161 N. E., 282. We, therefore, have the situation that a verdict was rendered against the plaintiff on April 19, 1922, and the case was dismissed by the court without prejudice or record November 29, 1924.
+The entry of dismissal was a nullity. Section 11599, General Code, is as follows: “When a trial by jury has been had, judgment must be entered by the clerk in conformity to the verdict, unless the verdict is special, or the court orders the case to be reserved for future argument or consideration immediately after the time for the filing of a motion for a new trial if it has not been filed. When a motion for a new trial is filed, then such judgment shall be entered only when the court has sustained such verdict by overruling the motion. Upon such overruling it shall immediately be entered.”
+The clerk must enter the judgment, unless one of the exceptions mentioned in the statute intervenes. None of these contingencies mentioned as exceptions occurred, and the clerk, therefore, failed to do what the statute made mandatory upon him until November 29, 1924, when final judgment was entered. Boedker v. Warren E. Richards Co., 124 Ohio St., 12, 176 N. E., 660. It became a valid judgment as of the date of its entry, the nunc pro tunc feature being a nullity.
+That the intervening entry of dismissal was a nullity is also obvious, the court having no authority to enter same, just as in Boedker v. Warren E. Richards Co., supra, the entry of judgment by the court before the three-day period had elapsed was a nullity. The entry vacating the entry of dismissal was void, as this could only be done upon motion or petition.
+It is stated by defendant in error that the act of the court in vacating the entry of dismissal was “a nullity since it was made without jurisdiction.” Considering both the entry of dismissal and the entry vacating the dismissal as nullities, as they should be, the judgment was properly entered; the nunc pro tunc features being wholly disregarded.
+Both the entry of dismissal and the entry vacating the same being eliminated, there remains the judgment on the verdict entered in accordance with the specific provisions of Section 11599, General Code.
+The allegations of the petition therefore state no cause of action, even if notice was not given plaintiff, and no motion or petition was filed as a predicate for the judgment on the verdict. On this ground also the demurrer should have been sustained.
+The judgment is reversed and judgment is entered here for plaintiff in error, sustaining the demurrer, and dismissing the petition.
+Judgment reversed.
+Hamilton and Cushing, JJ., concur.
