@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "5686"
+decided: "1957-11-18"
+citations: ["105 Ohio App. 433"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bryant and Miller, JJ., concur."]
+parties: ["McGhee, Appellant, v. McGhee, Appellee."]
+source_url: "https://static.case.law/ohio-app/105/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1430822
+cites_cases: ["118 Ohio St., 536", "136 A., 228", "161 N. E., 918", "187 Pa., 612", "288 Pa., 1", "37 Pa., 225", "41 A., 291", "49 Ohio Law Abs., 488"]
+---
+
+# McGhee v. McGhee
+
+## Majority (Petree, P. J.)
+
+Petree, P. J.
+This is an appeal on questions of law from the Common Pleas Court of Franklin County, Division of Domestic Relations.
+Plaintiff, appellant herein and hereinafter referred to as appellant, claims in her first assignment of errors that the court referral officer, John E. Compson, to whom the case was referred by order of the Common Pleas Court, was without jurisdiction or authority to hear the motion of the defendant, appellee herein and hereinafter referred to as appellee, to terminate alimony in a case in which alimony had been set at $25 per week at the time a divorce was granted to appellant.
+The questions here presented involve the interpretation of two statutes. Section 2315.27 of the Revised Code provides as follows:
+“When the parties do not consent to the reference mentioned in Section 2315.26 of the Revised Code, the court, or a judge thereof in vacation, upon the application of a party, or on its own motion, may direct a reference in any case in which the parties are not entitled by the Constitution to a trial by jury.”
+In the absence of any clear legislative intent to the contrary, any civil action in which the parties are not entitled to a trial by jury under our Ohio Constitution can be referred by the court under this statute. However, in considering this matter, we must look to Section 3105.10, Revised Code, which contains the following language in the first paragraph thereof:
+“The Court of Common Pleas shall hear any of "the causes for divorce charged in the petition and may, upon proof to the satisfaction of the court, pronounce the marriage contract dissolved and both of the parties released from their obligations.”
+In the interpretation of an analogous section, the Supreme Court used the following language in the syllabus of State, ex rel. Kleinman, v. Cleveland, 118 Ohio St., 536, 161 N. E., 918:
+“ Under Section 11986, General Code, in the hearing of a divorce case, the court must hear and determine the cause, and cannot refer the issues of fact and law to a referee for findings and decision. ’ ’
+By its own provisions in Section 3105.10, Revised Code, the Legislature has required the Court of Common Pleas to hear causes for divorce and the court may, upon proof to the satisfaction of the court, pronounce the marriage contract dissolved and both of the parties released from their obligations.
+In the opinion in State, ex rel. Kleinman, v. Cleveland, supra, the language of Pennsylvania courts was quoted, beginning at the last paragraph of page 541:
+“In Nacrelli v. Nacrelli, 288 Pa., 1, 136 A., 228, and in Middleton v. Middleton, 187 Pa., 612, 41 A., 291, where the referee’s examination of the witnesses in divorce cases was allowed by specific statute, the court held that the master had no authority to find facts and suggest a decree; and in the latter case the court made the following pertinent statement, at pages 615 and 616 (41 A., 291):
+“ ‘Whether the marital contract shall be severed is the gravest of questions, not alone to the parties, but to the state, for the social structure rests upon it. It never was intended that judicial function should in any material degree be relinquished by conducting the proceedings before a master in his office, or that weighty judicial responsibility should be evaded by shifting it over to a member of the bar. * * * The ability, learning and conscience of the court must be called into exercise before there can be a dissolution of this contract. While the witnesses may be examined, and their testimony reduced to writing by the examiner, the court must, before decree, be satisfied by its own knowledge of the testimony that the averments of the libel have been proved by full and competent evidence. It is not sufficient that they have been proved to the satisfaction of the examiner by witnesses that the court neither saw nor heard. * * * As is said in Richards v. Richards, supra, [37 Pa., 225], “Never ought divorces to be easily obtained, for marriage is the most sacred of human relations, and should never be dissolved without clear proof of imperious reasons.” ’ ”
+The power of the court to refer cases under Section 2315.27, Revised Code, is general where the parties are not entitled to trial by jury. In State, ex rel. Kleinman, v. Cleveland, supra (118 Ohio St., 536), the Supreme Court decided that the court alone must hear and determine a divorce case and cannot refer the issues of fact and law to a referee in such a case.
+It is our opinion that the Common Pleas Court may refer motions to terminate or modify former orders for the monthly payments of alimony and support of children and that such referee may hear and make recommendations and reports to the court for its approval or disapproval in accordance with statutes on the subject. This decision is in line with Hebden v. Hebden, post, 461, decided by this court on June 4, 1957.
+The appellant contends that the Court of Common Pleas erred in sustaining appellee’s motion for modification of that branch of “its decree of divorce awarding alimony to the appellant. In a hearing in case No. 65779 in an alimony suit prior to the suit for divorce, the court had originally set the alimony at $25 per week. In the divorce action, the entry marked “Decree of Divorce,” after dissolving the marriage contract and releasing both parties from the obligations of the same, contained the following language in paragraph five thereof:
+“The court further finds that heretofore that Ellen McGhee had filed a case against Edgar McGhee, it being No. 65779, in this Court of Domestic Relations and that the matter of alimony and custody of the minor child of the parties hereto was fully adjudicated and by reason thereof this matter is passed at this time and the entry in case No. 65779 shall be made a part of this decree of divorce as if fully rewritten herein and that all payments for permanent alimony and child support and the custody, care and control of Robert McGhee, said minor child of the parties hereto, shall be a part of this decree of divorce as if fully rewritten herein.”
+From the reading of this entry, it is apparent that the order made by the court at the time of the divorce was not intended as a division of property nor as alimony in gross but, on the contrary, was one for monthly payments and was subject to modification when the circumstances are shown to be just and right to warrant such modification.
+This view is sustained in Martin v. Martin, 49 Ohio Law Abs., 488, 76 N. E. (2d), 99, decided by the Court of Appeals for Franklin County in a case where the trial court had failed to attach in its entry the words “until further order of court” to its order of alimony. At the second sentence of the first paragraph, page 490, the court said:
+“An express reservation is not required to invest the court with continuing jurisdiction. A purpose to retain continuing jurisdiction may be implied. Where the court does not award alimony in a gross amount but makes an award of alimony in monthly installments the court retains continuing jurisdiction, * * #
+In a case of this kind, where there has not been a property settlement but the court has merely made a determination as to what is reasonable under the circumstances for alimony or support of minor children, it is good public policy for the court to retain the right to terminate or modify the amount paid under the former order. If this were not true, suffering and hardship might result to one or the other of the parties. The changing purchasing value of the dollar under conditions of inflation of deflation might work a hardship if the amount could not be changed. The changed conditions of employment or changed financial conditions of either party ought to be subject to review by the court having continuing jurisdiction in such matters. In many cases this may work to the advantage of the recipient, who may need to move for an increase in the amount of payments. For these reasons we find the second assignment of error not well taken.
+We have noted a third and fourth assignment of error; and from a reading of the record and consideration of the arguments of counsel, we find the same not well taken and further find that the order of the court is not against the manifest weight of the evidence.
+The judgment of the Common Pleas Court .is, therefore, affirmed.
+Judgment affirmed.
+Bryant and Miller, JJ., concur.
