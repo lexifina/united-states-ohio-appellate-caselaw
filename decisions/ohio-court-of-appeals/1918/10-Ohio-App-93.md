@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1918-10-01"
+citations: ["10 Ohio App. 93"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Metcalfe and Farr, JJ., concur."]
+parties: ["In re Estate of Alger. Alger v. Alger, Exr."]
+source_url: "https://static.case.law/ohio-app/10/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 624575
+cites_cases: ["1 Ohio St., 286", "149 Pa. St., 363", "16 S. W. Rep., 1045", "161 Ind., 68", "19 Colo., 515", "2 Wend., 483", "24 Atl. Rep., 287", "3 Ohio St., 424", "34 Neb., 597", "36 Pac. Rep., 604", "52 N. W. Rep., 376", "52 Pa. St., 210", "67 N. E. Rep., 684", "90 Tenn., 512"]
+---
+
+# Alger v. Alger
+
+## Majority (Pollock, J.)
+
+Pollock, J.
+Donald E. Alger was appointed by the probate court of Portage county, executor of . the will of Mary S. Alger, deceased. After he had filed his inventory and appraisement, W. B. Alger, an heir of the estate and interested in the distribution of its assets, filed exceptions to the inventory and appraisement of the executor. The exceptions charged, in substance, that the executor had failed to inventory and appraise a certain indebtedness of his -own to the estate. The exceptor asked that the court require an inventory and appraisement of that indebtedness. After the exceptions were heard in probate court, an appeal was taken to the court of common pleas, and it was again heard upon the testimony, resulting in a judgment against the exceptor.
+This action in error is prosecuted to reverse that- judgment on two grounds: first, for error in permitting the executor to testify in his own behalf; and, second, because the judgment of the court below is against the weight of the evidence.
+We will take these claimed errors in their order: The • executor was first called by the exceptor and examined as if under cross-examination. He testified on that examination that Mrs. Alger was his mother, and that for many years prior to her death she was living with him; that during that time she had a small tract of real estate which he rented and collected the rent. He says that frequently he retained- the rent money, and that she gave him other money; that each time he would give his note therefor, and that, after the first time he gave her his note, when he retained any of the rent money or received other money from her it would be added to the amount of the note and a new note given for the total amount. This was continued until about two years prior to her death, when she held his note for about seven hundred dollars. That was as far as the -examination on the part of the exceptor went. After the introduction of some other testimony, the exceptor rested.
+During the time the executor was offering his testimony he offered himself as a witness, and, over the objectio'n of the exceptor, was permitted to testify that ’about two years prior to the time of his mdthbr’s death he had a conversation with her in which hé' cláififed that, bn account of his father in his •lifetirtie hdving collected money' which was due witness, this note should be surrendered to him. He testified that his mother agreed to this arrangement and gave him the note, intending to surrender it and release him from the payment of the amount due thereon, and the note was destroyed.
+'It is now urged that the court below committed error in permitting the executor to testify in his own behalf.
+In this hearing the executor’s interest was adverse to that of his estate, and for that reason he was an adverse party under the statute.
+Section 11495, General Code, reads as follows, so far as the question now before us is concerned:
+“A party shall not' testify when the adverse party is the guardian or trustee of either a deaf and dumb or an insane person, or of a child of a deceased person, or is an executor or administrator, or claims or defends as heir, grantee, assignee, devisee, or legatee .of a deceased person.”
+But Section 11497, General Code, provides:
+“At the instance of the adverse party, a party may be examined as if under cross-examination, either orally, or by deposition, like any other witness. * * * The party calling for such examination shall not thereby be concluded but may rebut it by counter testimony.”
+This section gave the exceptor the right to call the executor and examine him as a witness. The executor was the only' witness that testified to this indebtedness or to his release from paying it, so that his testimony was material to both. parties in the action.
+The supreme court of this state had a somewhat similar question before it in the case of Legg v. Drake, 1 Ohio St., 286, and in the third paragraph of the syllabus the court held:
+“Where a party to an action is called upon and introduced ás a witness on the trial, by the adverse party, under the act of March, 1850, to improve the law of evidence, the objection to his competency is waived, and he becomes competent as a witness on the trial for all purposes.”
+This act of March 23, 1850 (48 O. L., 33), was, so far as we are able to determine, the first innovation in Ohio'on the common-law rule that a party in interest in an action could not testify, and in this case the court holds that while the party was an incompetent witness in his own behalf, yet, by the opposite party calling him, the incompetency was waived and it was competent to examine him on any issue in the case.
+Again, the supreme court said, in Chateau v. Thompson et al., 3 Ohio St., 424:
+“A waiver of objection to the competency of a witness so as to allow his deposition to be taken in a cause, is a waiver during the whole progress of the cause, and the objection can not be insisted on where the witness is called to give a second deposition in the same cause.”
+These cases recognize the principle that a party can not give credit to the 'opposite party by calling him as a witness, and then afterwards object to his full examination in the case.
+When we look to the decisions of the various courts outside of this state, under similar statutes, they seem to be universally in favor of the proposition that where a witness is incompetent on his own behalf, but may be called by the adverse party, and the adverse party calls such a witness and examines him, he then becomes competent for all issues as a witness in the case.
+Thus in Seip v. Storch, 52 Pa. St., 210:
+“1. If a party puts an incompetent witness on the stand, he makes him competent in the cause for either party.
+“2. Under the Act of March 27th, 1865, allowing a party to call his adversary as a witness, the party if thus called is made a witness for all purposes on his own side.”
+Sutherland, J., in the opinion in the case of Fulton Bank v. Stafford, 2 Wend., 483, 485, said:
+“If he is a competent witness to the jury for any purpose, he is so for all purposes; and the party who originally called him and availed himself of his testimony, can not subsequently object to him on the ground of interest any more than he can impeach his general character. He is estopped from denying his competency as well as his credibility.”
+The state of Colorado has a statute preventing a party from testifying where the adverse party is deceased, unless called by the opposite party. In the case of Warren v. Adams, 19 Colo., 515, 36 Pac. Rep., 604, the- supreme court of Colorado held that if the plaintiff was examined by the defendant on the question of his insanity, which he alleged as the cause of his delay in bringing suit, the plaintiff might be cross-examined on his own behalf as to the transaction with defendant’s ancestor, which is the controlling question in this case.
+To the same effect are the following cases: American Savings Bank v. Harrington’s Estate, 34 Neb., 597, 52 N. W. Rep., 376; Boyd v. Conshohocken Worsted Mills, 149 Pa. St., 363, 24 Atl. Rep., 287; Thomas v. Irvin, 90 Tenn., 512, 16 S. W. Rep., 1045, and Young v. Montgomery, 161 Ind., 68, 67 N. E. Rep., 684.
+In the latter case, the supreme court of Indiana, in construing the statute of that state, said:
+“Where a party to a suit against a devisee exercises his right, under § 510, Burns 1901, and calls and examines the defendant as a witness, such party thereby renders the defendant a competent witness for all purposes.”
+The language of the statute before the court in the other jurisdictions referred to is somewhat different from that of our section. The statute under consideration in these cases authorized the calling of the adverse party and his examination like other witnesses, while Section 11497, General Code, provides that, at the instance of the adverse party, a party may be examined as if under cross-examination ; that is, the party in asking the questions in his examination need not confine his questions as he is required to do ordinarily on idirect examination, but may ask such as are permitted on cross-examination. ■ But it will be noticed that, in substance, this statute is not any different from the statutes in other states referred to in the several cases cited. It only gives a different latitude as t'o the manner of the examination, but in no- wise curtails the subject-matter of the examination. The executor in the present case could not testify to transactions which occurred between him and his testate unless permitted to do so by the action of the exceptor; which evidence was competent if the exceptor chose to waive the objection to his testifying because of the decease of the other party to the transaction, or to make it competent 'by calling upon him to testify. It would be manifestly unfair to permit the exceptor, trusting, to the integrity of the executor, to call him and require him to testify to facts concerning the transaction with the deceased which were favorable to the exceptor, and then prevent him from testifying to the entire transaction. A party should not have a right to use the opposite party as a witness so far as his testimony might be favorable to him, and then prevent the witness testifying to matters that would be unfavorable.
+We think there was no error in permitting the executor to testify in his own behalf.
+Now, as to the judgment being against the weight of the evidence. We do not intend to discuss the testimony. The executor testified to his indebtedness to his mother, and to the surrender of the note representing that indebtedness for the reason stated by him. This is practically all of ■the testimony in this case as to his indebtedness to the estate or to the release of that indebtedness.
+It would be manifestly unfair for the court to give credit to the testimony of this witness when he testified against his own interest, and then say that when he testified in favor of himself his testimony was not worthy of credit.
+•There are no facts in the record- tending to •impeach his testimony when he says the note was given to him under circumstances stated.
+The judgment of the court below is affirmed.
+Judgment affirmed.
+Metcalfe and Farr, JJ., concur.
