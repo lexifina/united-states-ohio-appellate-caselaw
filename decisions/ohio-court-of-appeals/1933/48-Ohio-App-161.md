@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-11-02"
+citations: ["48 Ohio App. 161"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["TIornbeck, P. J., and Barnes, J., concur."]
+parties: ["Union Bus Station, Inc., v. Etosh."]
+source_url: "https://static.case.law/ohio-app/48/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343019
+cites_cases: ["118 Ohio St., 167", "160 N. E., 683"]
+---
+
+# Union Bus Station, Inc. v. Etosh
+
+## Majority (Kunkle, J.)
+
+Kunkle, J.
+This action was originally brought in the Municipal Court where present defendant in error, Alex Etosh, secured a judgment against the Union Bus Station, Inc., in the sum of $503.75.
+From such judgment an appeal was taken by the Union Bus Station, Inc., to the Court of Common Pleas. Etosh, being the plaintiff in the Municipal Court, alleged in his petition, that the defendant was a corporation organized under the laws of Ohio with its principal place of business at 49 E. Town street, Columbus, Ohio, doing a business, among other things, of checking articles and baggage for safe keeping.
+Etosh further alleged that on December 1, 1930, he delivered to defendant one salesman’s suit and sample case which contained goods, wares and merchandise. The various articles claimed to have been in such suitcase are described in detail, and the reasonable value of such goods is alleged to have been $750. Plaintiff further claimed that said goods were to be safely kept by the defendant for the consideration of ten cents, then paid and accepted by defendant, whereupon defendant then received said goods for the purpose above stated.
+Union Bus Station, Inc., now plaintiff in error, did not safely keep said goods, but so negligently, carelessly and without reasonable care stored the same that by its negligence said goods were lost, and upon a request made for said goods on the 2nd day of December, 1930, the plaintiff in error refused to deliver the same.
+Defendant in error Etosh, plaintiff below, alleged that the reasonable, fair and market value of the property so lost was $750, and he therefore prayed for judgment in that amount.
+A demurrer filed to the petition was subsequently overruled by the trial court. An answer was thereupon filed by plaintiff in error, in which it denied that it received the articles of the kind and description and of the value mentioned and described in the petition, or that the goods, wares and merchandise mentioned and described in the petition were of the value set forth therein. Plaintiff in error further declared that if the defendant in error did deliver to plaintiff in error the goods, wares and merchandise mentioned and described they were delivered to plaintiff in error without knowledge of the nature and value of said goods, and were delivered to plaintiff in error only as custodian, for the consideration of ten cents, under an agreement that in the event of the loss of said goods the plaintiff in error would not he responsible for any value in excess of $25.
+Further answering’, plaintiff in error denied each and every allegation in the petition and asked to be dismissed with its costs.
+To this answer a reply was filed, in which the plaintiff Etosh denied that the goods were delivered under an agreement that the defendant would be responsible only for the sum of $25; and further denied each and every allegation in the answer not consistent with the claim of plaintiff, as alleged in his petition.
+An issue was thus joined by the pleadings, and the case was submitted to a jury with the result that the jury returned an unanimous verdict in favor of plaintiff, present defendant in error, in the sum of $700.
+Motion for new trial having been filed and overruled, and judgment entered upon the verdict, error is prosecuted to this court.
+The plaintiff in error in its petition in error alleges various grounds of error, and counsel for plaintiff in error in oral argument and in their briefs principally stress the following grounds of error:
+1. The verdict was against the manifest weight of the evidence.
+2. There was prejudicial error in the admission of exhibits and in permitting the plaintiff below to amend the petition during the course of the trial.
+3. That the court erred in his charge to the jury.
+4. That the court erred in not sustaining the defendant’s motion for a judgment in its favor, and also in its failure to accept the offer of plaintiff in error to confess judgment for $25 and costs in favor of defendant in error.
+The record in this case is not extensive, and the testimony in the main consists of that of one witness, namely, the defendant in error.
+In brief, the defendant in error claims that he left two suit cases at the bus station of plaintiff in error about 11:00 o’clock at night and returned the next morning with the two check stubs and asked for his baggage, for which such stubs had been received; that he received but one suit case, which contained his toilet articles and some underclothing. He claims the merchandise described in detail in the petition was contained in the other suit case; that he bought this merchandise in New York and expected to resell the same. Defendant in error Etosh is a foreigner, being a Syrian by birth, and claims that he can not read English, although he has been doing business for a number of years in this country.
+The question urged by counsel for plaintiff in error, with much force, and which has given us some trouble, relates to the claim that the verdict is against the manifest weight of the evidence. The record contains a detailed statement from defendant in error in reference to the purchase of these goods in New York, and in reference to the manner in which he handled the same after such purchase. He was subjected to a very rigid cross-examination by counsel for plaintiff in error. In fact the substantial part of the record in this case consists of such cross-examination. We concede that the testimony of defendant in error upon such cross-examination is in certain respects quite unsatisfactory; the jury, however, as above stated, by an unanimous verdict, found in his favor. If this court had seen the witness upon the stand, and had heard him testify, we might also have been impressed with the fact that he was trying to tell the truth in reference to the purchase of these goods, and also in reference to his having left the same in a suit case with plaintiff in error upon the night in question, and of their loss by the plaintiff in error through no fault of the defendant in error. The jury seems to have been so impressed.. From a careful study of the testimony, although the same, as above suggested, is somewhat unsatisfactory to us, we would not feel justified in disturbing tbe verdict upon that ground.
+Among other things the trial court charged the jury, as follows:
+“The jury are the sole judges of the facts; you are also- the sole judges of the credibility of the witnesses. You may believe all that a witness has said, or part only that a witness has said, or nothing that a witness has said.”
+This was a correct statement to the jury as to their province in believing or disbelieving all or any portion of the testimony of the witness. The determination of the credibility of a witness is peculiarly within the province of the jury. Our Supreme Court in Painesville Utopia Theatre Co. v. Lautermilch, 118 Ohio St., 167, 160 N. E., 683, announced the following rule in the syllabus:
+“Whenever, from conflicting evidence of the same witness or of different witnesses, it becomes necessary to weigh such conflicting evidence to determine wherein the probable truth lies, or from a combination of circumstances determine an ultimate fact upon the determination of which different minds might reasonably arrive at different conclusions, it is the province of the jury to perform that function. It is reversible error for the court to invade that province of the jury.”
+Applying the well established rule in Ohio upon the question with which we have had the most difficulty, we are of opinion that a reviewing court, under the state of this record, would not be justified in reversing the judgment upon the ground that the same is against the manifest weight of the evidence.
+We find no prejudicial error in the admission of exhibits.
+We also think the leave to amend granted defendant in error, under the state of the record, came within the discretion of the trial court and was not prejudicial to plaintiff in error. Plaintiff in error made no request for a continuance of the case to meet such additional evidence.
+We have examined with care the many authorities cited by counsel in their exhaustive briefs upon the liability of a bailee, and particularly upon the right of the bailee to limit its liability.
+There is no suggestion in this record that the attention of the defendant in error was called to the printing upon this check to the effect that the liability of the bailee would be limited to $25. There is no suggestion in the record that this question was discussed between the agent of plaintiff in error and the defendant in error. The defendant in error claims he cannot read English, and knew nothing about such attempted limitation of liability until his attention was subsequently called thereto by the plaintiff in error, after the loss of the goods in question.
+Without attempting to review the authorities in detail, we think it sufficient to say that this question was presented to this court some years ago in the case of Union Depot Co. v. Ulrich, 22 N. P. (N. 8.), 141, 29 O. D. (N. P.), 564. That case came into this court upon review from the judgment of the Court of Common Pleas of Franklin county.
+The late Judge C. M. Rogers presided in the trial of that case in the Common Pleas Court and handed down an exhaustive opinion in which he reviewed in considerable detail many of the leading authorities.
+The syllabus of that case reads as follows:
+“Where a package is left with a bailee of packages for hire, a stipulation printed on the check given to the owner for use in claiming the package, limiting the liability of the bailee to $25 in case the package is lost, is not binding on a bailor whose attention was not directed to the limitation, and does not bar recovery of the value of a package' which was lost.”
+This court affirmed such decision of Judge Rogers.
+Our further consideration of the authorities leads us to the conclusion that the syllabus in the above case contains a correct statement of law, and that under the record in this case the trial court would not have been justified in ordering a verdict in favor of plaintiff in error or in limiting the liability of plaintiff in error to $25. We have considered all the errors urged by counsel for plaintiff in error, and upon such consideration find no error in the record which we consider prejudicial to plaintiff in error. The judgment of the lower court will therefore be affirmed.
+Judgment affirmed.
+TIornbeck, P. J., and Barnes, J., concur.
