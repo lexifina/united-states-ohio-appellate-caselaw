@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Nos 657 & 660"
+decided: "1933-10-20"
+citations: ["15 Ohio Law Abs. 397"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WASHBURN, PJ, and STEVENS, J, concur in judgment."]
+parties: ["CONWAY v GOODEN BROTHERS, etc, et GOODEN BROTHERS v BUCKEYE UNION CASUALTY CO"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1652147
+cites_cases: ["17 Ohio 362", "18 Oh St 24", "24 Oh St 402", "26 Oh St 141", "39 Oh St 218", "62 Oh St 41"]
+---
+
+# Conway v. Gooden Bros.
+
+## Majority (By FUNK, J.)
+
+OPINION
+By FUNK, J.
+Plaintiff, in his argument and brief, fails to recognize the well-established rule that the admissions arising from a demurrer are in no sense to be regarded as evidence, as the demurrer merely denies the legal sufficiency of the facts pleaded, and the facts are admitted solely for the purpose of testing their sufficiency in law; and he fails also to recognize another well-established rule that, when the demurrer has been ruled upon, the ruling is only a judicial determination of the legal sufficiency of the facts pleaded, and that the implied admissions have then served their purpose. Plaintiff also overlooks the fact that, when the court sustained the demurrer to the cross-petition of Gooden Bros, and dismissed it, the cross-petition was no longer before the court and could not be considered by the court on plaintiff’s motion for judgment on the pleadings.
+The cross-petition having been dismissed, that left the case at issue on the petition, the answer of the casualty company denying it owed Gooden Bros, anything, the answer and cross-petition of the Conrad Rubber Co. claiming a prior lien upon any sum owing Gooden Bros, from the casualty company, and the answer and reply of Gooden Bros., admitting all the allegations of the petition to be true and merely denying the allegations of the amended answer and cross-petition of said rubber company and the answer of said casualty company, except such as were admissions of the allegations in the petition.
+Under this state of the pleadings, it is apparent that the motion for judgment on the pleadings was properly overruled, not only as to plaintiff but also,as to Gooden Bros., who had also filed a similar motion. As the record discloses that said motion for judgment on the pleadings was merely overruled and that no final judgment was entered and that the case below stood at issue on pleadings as above set forth, and that no hearing upon the issues as thus made up was ever had, we hold that the motion to dismiss the appeal is well taken and lhat the appeal should be dismissed.
+An entry may be prepared accordingly in case No. 657.
+We come now»to consider case No. 660, which is before this court on- the petition in error of Gooden Bros, against the Buckeye Union Casualty Co., claiming that the court erred in sustaining the demurrer of the casualty company to a cross-petition of Gooden Bros., and also claiming error in the overruling of the separate motions of Gooden Bros, and plaintiff for judgment on the pleadings.
+Plaintiff Conway is not a party to this proceeding in error, and he not having commenced any other error proceeding, the question of the overruling of his motion for judgment on the pleadings is not before us on error proceedings. The only parties to this proceeding are Gooden Bros, and the casualty company. Having indicated, in case No. 657, that Gooden Bros.’ motion for judgment on the pleadings was properly overruled, we find no error in this case in that particular.
+That leaves the only question in this case, Did the court err in sustaining the casualty company’s demurrer to the cross-petition of Gooden Bros.? In other words, may a judgment debtor prosecute his right to recover the amount claimed due him from his alleged debtor in a creditor’s bill action, when sáid alleged debtor denies in his answer in such case that he owes said judgment debtor anything?
+The contention of counsel for the casualty company on the demurrer is stated in their brief as follows:
+“It was our position in the court below— and this position was sustained by the court in its ruling on the demurrer — that the court could not, in this proceeding, determine the issues as to the claim of Gooden Brothers against the casualty company. We contend that such issues must be determined in a separate action, and such action would properly be brought, in a case such as this where there are several claimants, by a receiver appointed in the present action. Such receiver would represent all the claimants, and, if successful, would then bring the fund to court for disposition among the several claimants.”
+The court below based its ruling entirely upon the theory that a proceeding under §11760, GC, is a proceeding in aid of execution, very similar to proceedings under §§11768 to 11772 et seq, GC, or to proceedings in attachment, etc., and that consequently the question of the amount, if any, due to Gooden Bros, fr.om the casualty company, would have to be litigated in a separate suit.
+It has been held by this court that a proceeding under §11760, GC, is a civil action under the Code in the nature of a creditor’s bill, and is entirely different from a, proceeding in aid of execution under §11768, GC, which is purely statutory and intended as a summary proceeding after judgment, unknown to the law prior thereto and not intended to take the place of a civil action in the nature of a creditor’s bill. (24 Oh Ap 192, American Ins. Union v Read.) (5 Abs 297). It is also entirely different from proceedings in attachment or garnishee proceedings, in which the garnishee sustains only the relation of witness and is not a party to the action. (39 Oh St 218, Secor v Witter; 4 C.C. (N.S.) 585, Milligan v Bank).
+It is well established that one claiming an interest in the property or funds in the possession of the judgment debtor’s debtor may be made a party defendant and the priority of rights determined in an action in the nature of a creditor’s bill.
+18 Oh St 24, Dunbar v Harrison.
+62 Oh St 41, 1st Nat’l Bank of Cadiz v Beebe.
+24 Oh St 402, Edwards v Edwards.
+In the Edwards case it was held that the answer of the judgment debtor’s debtor that he owed the judgment debtor nothing, must be taken as true unless controverted by reply. Of course, if controverted by reply, it then became a question of fact, to be proved as in any other case.
+The casualty company, by its answer alleging that said bank and trust company and said rubber company claim prior liens on such amount, if any, that it owes Good-en Bros., and asking that they be made parties and their rights determined, concedes the power of the court to determine priorities of liens in a creditor’s bill case and thus recognizes it to be an action, rather than a proceeding in aid of execution.
+It being clear that a proceeding under §11760, GC, is an action, as distinguished from a proceeding under the statute in aid of execution, the following sections of the General Code would seem to have some bearing on the question at issue.
+Under §11255, GC, any person who has an interest in the controversy or is a necessary party, may be made a defendant. There is no claim that any of the parties to this action are not proper or necessary parties.
+Under §11262, GC, the court may determine any controversy between the parties before it when it can be done without prejudice to the rights of others or by saving their rights.
+Sec 13583, GC, provides that a “judgment may be given for or against any party” to the action “and for or against one or more of several defendants” and “the court may determine the final rights of the parties on either side as between themselves and grant to the defendant any affirmative relief to which he is entitled.”
+While counsel cite no case exactly in point where the question of the liability of the alleged debtor of the judgment debtor to him was determined in a creditor’s bill action, we do find cases recognizing the right of the court to do so under proper pleading.
+17 Ohio 362, Seymour v Browning, second paragraph of the syllabus.
+Edwards v Edwards, supra.
+In the case of Smith v Bank, 26 Oh St 141, our Supreme Court held that, where a separate action might have been maintained against a party, a separate judgment under §371 (now §11583 GC) is proper.
+It being apparent, from1 the face of the petition and the answer of the casualty company, that Gooden Bros.’ claim arises out of a contract set forth in the petition, and that it is connected with the subject of the action, which is the indebtedness, if any, of the casualty company to Gooden Bros, on their policy of insurance issued to them by the casualty company and on which plaintiff bases his right to an action in the nature of a creditor’s bill.
+And it being further apparent, from the pleadings, that both Gooden Bros, and the casualty company are necessary parties to the action and are properly before the court, and it being necessary to determine whether or not the casualty company was indebted to Gooden Bros, before plaintiff viould be entitled to the relief asked, and the cross-petition of Gooden Bros, being simply an amplification of the allegations of the petition concerning the liability of the casualty company to Gooden Bros., and all the parties interested in the amount, if any, due Gooden Bros, from the casualty company being before the court, we see no reason why the issues'between Gooden Bros, and the casualty company cannot be tried and determined in this action, preliminary to determining the priority of liens on any amount due Gooden Bros., including plantiff’s claim under his petition.
+We also see no reason why the court cannot control the distribution of the amount, if any, found due Gooden Bros, from the casualty company, as completely in this action without a receiver, as it could in a separate action with a receiver, and thus avoid a multiplicity of suits and the expense of a receiver, as there would be nothing to do other than order to whom the casualty company should pay any amount it may owe Gooden Bros, or order it paid into court and distributed under the court’s order.
+We are therefore clearly of the opinion that the court erred in sustaining the demurrer of the casualty company to the cross-petition of Gooden Bros.
+The judgment in case No. 660 is therefore reversed and the cause remanded for further proceedings according to law.
+WASHBURN, PJ, and STEVENS, J, concur in judgment.
