@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+docket: "92-OT-018"
+decided: "1993-01-29"
+citations: ["86 Ohio App. 3d 106"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ajbood and Melvin L. Resnick, JJ., concur."]
+parties: ["The STATE of Ohio, Appellee, v. GOTTFRIED, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/86/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1692062
+cites_cases: ["11 OBR 250", "11 Ohio St.3d 59", "13 OBR 142", "13 Ohio Misc.2d 6", "1984 WL 7788", "1992 WL 318982", "392 U.S. 1", "440 U.S. 648", "463 N.E.2d 1237", "468 N.E.2d 396"]
+---
+
+# State v. Gottfried
+
+## Majority (Sherck, Judge.)
+
+Sherck, Judge.
+This is an appeal from a judgment of conviction and subsequent imposition of sentence by the Port Clinton Municipal Court on a charge of operating a motor vehicle while under the influence of alcohol. Because the trial court properly found the arresting officer’s initial stop of appellant was based upon a reasonable articulable suspicion of wrongdoing and that appellant’s consent to a chemical test for blood alcohol was voluntary, we affirm.
+On the evening of May 9, 1991, a Danbury Township police officer arrested appellant, Robert P. Gottfried, at the entrance of a private recreational-vehicle park for operating a motor vehicle while under the influence of alcohol. The police officer had observed appellant riding an all-terrain vehicle on the berm of nearby railroad tracks. Following his arrest, appellant was informed of the consequences of failing to submit to a chemical breath test for the purpose of determining any alcohol concentration in his breath pursuant to R.C. 4511.191. A chemical breath test was performed, upon which appellant registered an alcohol concentration of .217 grams per two hundred ten liters of breath, more than twice the statutorily proscribed limit.
+Appellant was charged with operating a motor vehicle while under the influence of alcohol in violation of R.C. 4511.19(A)(1) and with operating a motor vehicle while having a breath-alcohol concentration of .10 grams or more per two hundred ten liters of breath in violation of R.C. 4511.19(A)(3). On arraignment, appellant entered a plea of not guilty and later moved to suppress the results of his chemical breath test on two grounds. First, appellant asserted that his initial stop had been made without the arresting officer having probable cause. Second, appellant argued that since Ohio’s implied-consent law applies only to offenses committed on public or quasi-public property, it was not applicable to appellant, who was arrested on what was supposedly private property. Therefore, informing appellant of the consequences of failing to take the chemical breath test was coercive so as to render his consent as being involuntarily given. Following a hearing, the trial court denied appellant’s motion. Appellant then withdrew his not guilty plea, entered a plea of no contest, was found guilty of the offense charged and sentenced thereon. Appellant appeals his conviction and sentence, setting forth the following assignments of error:
+“The Court erred in finding that the officer had probable cause to stop the Defendant.
+“The Court erred in finding that Defendant was operating a motor vehicle on a highway or private property used for the purpose of vehicular traffic.”
+I
+At the suppression hearing, the arresting officer testified that his attention was first drawn to appellant’s vehicle because it only had one headlight. The officer proceeded to testify that after he determined the vehicle was properly equipped he continued his observation and eventually stopped the vehicle because he believed appellant was trespassing on railroad property.
+Vehicular investigatory stops are not offensive to the Fourth Amendment when a police officer has a reasonable articulable suspicion that a vehicle or its occupant is subject to seizure for violation of law. Delaware v. Prouse (1979), 440 U.S. 648, 663, 99 S.Ct. 1391, 1401, 59 L.Ed.2d 660; State v. Terry (1968), 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889; State v. Chatton (1984), 11 Ohio St.3d 59, 11 OBR 250, 463 N.E.2d 1237; Maumee v. Garbers (Nov. 6, 1992), Lucas App.No. L-91-193, 1992 WL 318982, unreported.
+In the instant case, it was not necessary for the arresting officer to have had probable cause to arrest appellant for trespassing. It is sufficient justification that the officer reasonably suspected that appellant might be on railroad property without permission. Once the investigatory stop was initiated, the record reflects that the demeanor and odor of appellant provided the arresting officer with probable cause for more intrusive investigatory procedures. Accordingly, appellant’s first assignment of error is not well taken.
+II
+In his second assignment of error, appellant argues that, if in fact he was trespassing, he was trespassing on private property. Appellant maintains that Ohio’s implied-consent law is inapplicable to private property. Advising a suspect of the consequences of refusing a test, therefore, would be improper. A breath test coerced by the improper threat of an implied consent driver’s license suspension is inadmissible. State v. Szalai (1983), 13 Ohio Misc.2d 6, 13 OBR 142, 468 N.E.2d 396; State v. Chard (Feb. 24, 1984), Lucas App.No. L-83-308, 1984 WL 7788, unreported.
+Appellant questions how the same property can be private for purposes of justifying a stop for trespassing and not private so as to make the Ohio implied-consent law effective. This paradox is more apparent than real. At the outset it should be noted that both Szalai and Chard were decided at a time when the implied consent statute applied only to public highways. The legislature later amended the statute to make it applicable to “a highway or any public or private property used by the public for * * * vehicular travel or parking.” R.C. 4511.191(A). There is no statutory requirement that such vehicular traffic be lawful. This language could be interpreted to support application of the implied consent statute to virtually any property, public or private, upon which members of the public travel or park.
+In this instance, there was testimony presented at the suppression hearing which showed that the railroad property upon which appellant was driving was used by the public to gain access to the RV park where appellant was finally stopped. In fact, portions of that railroad property served as part of the only means of ingress and egress for the RV camp. For purposes of the implied-consent statute, we believe it to be irrelevant whether this travel was lawful or unlawful, so long as the public was, in fact, traveling over the property. Accordingly, appellant’s second assignment of error is not well taken.
+Upon consideration whereof, the court finds that the defendant was not prejudiced or prevented from having a fair trial, and judgment of the Port Clinton Municipal Court is affirmed. It is ordered that appellant pay the court costs of this appeal.
+Judgment affirmed.
+Ajbood and Melvin L. Resnick, JJ., concur.
+. Appellee's statement of the facts asserts that the arresting officer noted the ATV appellant was riding make an abrupt turn away from the officer when appellant could have identified the officer as a policeman. Such apparent flight might, by itself, provide a reasonable articulable suspicion of wrongdoing sufficient to justify a stop. However, the quality of the transcription of the officer’s testimony is so poor that we are unable to verify from the record that such testimony occurred.
