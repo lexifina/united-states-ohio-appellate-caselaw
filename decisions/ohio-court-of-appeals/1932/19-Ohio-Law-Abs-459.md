@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1932-10-24"
+citations: ["19 Ohio Law Abs. 459"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MAUCK, PJ, and MIDDLETON, J, concur."]
+parties: ["INDUSTRIAL COMM v CAMPBELL"]
+source_url: "https://static.case.law/ohio-law-abs/19/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1663605
+cites_cases: ["125 Oh St 465", "31 O.C.A. 390", "34 Oh St 638"]
+---
+
+# Industrial Comm v. Campbell
+
+## Majority (By BLOSSER, J.)
+
+OPINION
+By BLOSSER, J.
+The evidence discloses that Campbell and another man by the name of Richards, who worked with him, were hired the year before and that as the mine owners needed moz-e than two men they were given the privilege of getting Heir and Kleinhaus, who wez-e working in the mine at the time Campbell received his alleged injury. Mc-Kinnis & Patterson paid the men by the ton for the coal mined and each man was paid separately. They also had charge of the sale of the coal and the collecting therefor, and carried insui’ance and paid the premiums into the state insurance fund for the four men who were mining coal. The question of the i*elation of master and servant was submitted to the jury by the trial court, which found in favor of the claimant. We see no error of the court in this respect. We think the facts in this case come within the principle laid down in the case of City of Tiffin v McCormack et, 34 Oh St 638, and that the l'elation was one of master and servant and not independent contractor. One of the tests usually applied in deciding whether the relation is that of master and servant or that of an independent contractor is that if it is that of independent contractor it presupposes the existence of a binding contract between the parties, for the breach of which a cause of action arises. Snodgrass, Admrx. v Cleveland Cooperative Coal Company, 31 Oh Ap 470. The evidence suppoz'ts the finding of the jury on this question.
+It is urged that the court below admitted evidence which was hearsay. At the time of his attack Campbell had been working in a room of the mine up against an old abandoned mine and had broken through into the old mine, and water was coming from the old mine into Campbell’s room, and at that time Richards was assisting Campbell with the work. Richards saw Campbell acting queer and as he went to him Campbell dropped on his knees and said that he was dizzy and that'“the damp got me.” The other workmen came up and when Campbell was still on his knees he repeated “the damp got me and my legs are weak.” Campbell was then taken outside, placed in an automobile and taken home. After being taken from the mine he vomited, was practically helpless, became unconscious and died the next day. Soon after being taken from the i*oom of the mine where he was first stricken and before reaching his home he repeated that “the damps have gotten me.” The plaintiff in error urges that these declarations of Campbell were not admissible, and especially so under the authority of the recent decision of the Supreme Court in the case of Weaver v Industrial Commission, reported in the Ohio Bar of August 27, 1932, (125 Oh St 465). In that case the statements in question were made the next day after the injury and the court held that they were not admissible as they constituted no part of the res gestae because they lacked the element of spontaneity and cited 22 C. J. 451 in suppozd! of the proposition. That authority on page 452 says
+“The modern tendency seems to be to treat spontaneity as a substitute for contemporaneous, so that the act or declaration is not required to be exactly coincident in point of time with the main fact, but may even be separated from it by a considerable length of time, provided it is so immediate and closely connected with the main fact as to be practically inseparable therefz-om and serviceable to a clear understanding thereof, the element of time being of importance merely as bearing on the question of spontaneity.”
+Under the evidence in this case, however, the statements do not lack the element of spontaneity. At the time they were made by Campbell immediately after he was stzúcken he was clearly under the influence of the stroke as indicated by his helplessness, dizziness and failing consciousness, all izidicating that he was very sick.
+The reason for the admission of this kind of evidence is given izz the case of Taylor v Industrial Commission, 31 O.C.A. 390, where the court quoting 3 Wigmore on Evidence, §1747, says:
+“This general principle is based on the experience that, under certain external circumstances of physical shock, a stress of neiwous excitement may be pi’oduced which stills the reflective faculties and removes their control, so that the utterance which' then occurs is a spontaneous and sincere l’esponse to the actual sensations and perceptions already produced by the external shock. Since this utterance is made under the immediate and uncontrolled dominations of the senses, and during the brief period when considerations of self-interest could not have been brought fully to bear by reasoned reflection, the utterances may be taken as particularly trustworthy (oi% 'at least, as lacking the usual grounds of untrustworthiness), and thus as expressing the real tenor of the speaker’s belief as to the facts just observed by him, and may therefoz’e be received as testimony to those facts.”
+We think the statements of Campbell complained of were a part of the res gestae and admissible.
+It is further urged that there is no evidence that Campbell was overcome by black damp. Besides Campbell’s statements as to “the damps” and the medical statements as to the cause of his illness two miners said that after Campbell was taken home they noticed the odor of black damp on him. There was also evidence that he was working next to an old abandoned mine and had broken through, permitting water to run into the room carrying with it black damp. There was also evidence that black damp was later found in the mine. The medical testimony supported the contention of the plaintiff that black damp would be a contributing cause of death. This evidence was sufficient to support the verdict of the jury as to the cause of death.
+The plaintiff in error complains of the ruling of the trial court in one or two other respects but we do not think they are of sufficient importance to warrant a reversal of the judgment.
+After a review of the entire record we find no prejudicial error and the judgment is affirmed.
+Judgment affirmed.
+MAUCK, PJ, and MIDDLETON, J, concur.
