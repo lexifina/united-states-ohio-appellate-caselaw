@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "1728"
+decided: "1943-03-22"
+citations: ["46 Ohio Law Abs. 163"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, P. J., and GEIGER, J., concur."]
+parties: ["SNELL, Plaintiff-Appellee, v. BOWSER, et, Defendants-Appellants."]
+source_url: "https://static.case.law/ohio-law-abs/46/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1735286
+---
+
+# Snell v. Bowser
+
+## Majority (By HORNBECK, J.)
+
+OPINION
+By HORNBECK, J.
+This is an appeal on questions of law from a judgment for the plaintiff against the defendants in the sum of $446.88 with costs.
+The action of the plaintiff was for a balance claimed due on a promissory note, secured by a real estate mortgage, dated Jan. 10, 1938, in the sum of $1,625.00, due one year after date, interest at 6% per annum, payable semi-annually, principal and interest payable at the office of Daniel Nevins, 810 U. B. Building, Dayton, Ohio, and signed by the defendants.
+The petition set up the note and mortgage and payments thereon which were credited, leaving a balance of $423.12 as of date July 10, 1941, for which, with interest, plaintiff prays judgment..
+Defendants in their second amended answer and cross-petition as finally amended when the cause came on for trial, admitted that “on January TO, 1938, they gave to the plaintiff their promissory note and mortgage as stated in plaintiff’s petition, but only received part of the consideration, namely, $753.00, and the plaintiff retained the balance of the consideration — namely, $872.00.”
+They further state “that they have fully paid the plaintiff, by Dan Nevins, the sum of $801.88 and interest on the full amount of the note, namely, $1625.00, at 6% per annum from Jan. 10, 1938, and deny that there is any sum due and owing the plaintiff from these defendants.” By way of cross-petition the defendants assert that the plaintiff by Dan Nevins agreed to loan them the sum of $1625.00 and gave to plaintiff their promissory note as set forth in petition.
+These defendants further state and aver that they received only $753.00 of said sum of $1625.00, the balance of $872.00 being retained by the plaintiff by Dan Nevins and the plaintiff charged these defendants interest on the entire amount of $1625.00 at 6% per annum from Jan. 10, 1938, until Jan. 10, 1941, being $176.95 more than is due plaintiff.
+Wherefore, these defendants pray judgment in the sum of $176.95 with interest.
+Plaintiff by way of reply denys that the defendants received only $753.00 and retained the balance of the consideration for the note, namely, $872.00. He admits that the defendants have paid the sum of $801.88 and the further sum of $400.00 on the principal of said loan together with interest to July 10, 1940, and alleges that there is due plaintiff from defendants the sum of $423.12 with interest at 6% from July 10, 1940 as averred in plaintiff’s petition.
+The answer to the amended cross-petition is a general denial of new matter therein set forth.
+Upon issues drawn a jury was impaneled and sworn. Plaintiff by Mr. Eugene G. Kennedy, his attorney, introduced the note with endorsements thereon, as payments.
+Plaintiff called defendants, Jess Bowser and Lulu V. Swihart for cross-examination who admitted the execution of the note and the receiving of all of the amount with the exception of $400.00 concerning which Mr. Kennedy had testified and $423.12 as to which Mr. Bowser admitted having received a check for that sum which he and the other defendants endorsed and immediately turned back to Dan Nevins. As to this check Mr. Bowser specifically testified that after the defendants endorsed the check, he handed it to Mr. Wysong, attorney for defendants, who, in their presence, turned it over to Mr. Nevins. This was of date June 30, 1938. As to the $400.00 Mr. Kennedy, in his opening statement to the jury, said that it had been held by Mr. Nevins with the consent of defendants to protect payment of a judgment which might eventuate in an action against the defendants. Sometime later, in January, 1940, Mr. Nevins turned this $400.00 back to Mr. Snell when it was credited on the note. However, when Mr. Kennedy took the stand, he did not testify at all with respect to the $400.00 arrangement. So that there was an admission in his opening' statement that the $400.00 was not paid to the defendants unless payment to Nevins was payment to them. Mr. Nevins did .not testify. Through Mr. Bowser, a letter was introduced which he had written to Mr. Nevins in which he states he is sending a check for $12.38 for the interest on the $400.00, and further, “You had promised me six months ago that you wouldn’t charge interest on the $400.00 that you were holding' back.” On the question of the holding back of the $400.00 and why it was retained, he said he couldn’t state positively and that he was never notified that he was given credit for the $400.00. This question was put—
+“Q. There was another action' pending at that time, at the time the loan was made between Orville' Swihart against you and Mrs. Swihart and your .wife, wasn’t there?
+A. That was the reason it was held back.”
+Lulu V. Swihart added nothing to the testimony of Mr. Bowser.
+At the conclusion of plaintiff’s case on his motion the jury was instructed to return a verdict for him in the fuil amount prayed. It is to this action of the trial judge that the errors are assigned. It is not necessary to consider them separately as the sole question is whether or not the trial judge properly instructed the jury.
+It will be noted from what we have heretofore stated of the testimony that upon the factual situation developed, there was an issue if the defendants had the $423.12 longer than the time that it took to hand the endorsed check from their attorney to Dan Nevins and further as the note was payable at the office of Daniel Nevins did he receive it as agent for- the plaintiff. Upon the evidence, without respect to the pleadings, at the conclusion of the plaintiff’s case, there was an issue as-to the payment of the $423.12. However, an examination of the answer and the cross-petition is conclusive that the defendants did not plead payment of this sum. On the other hand, they aver that they did not receive this amount as -consideration.
+It may be technical, but the defendants cannot be heard to say that they did not receive $423.12 when one of them and their own counsel had possession of the check representative of that amount, if their counsel immediately turned the check back to Nevins and he was the agent of plaintiff, it was a payment on the note. This check was dated June 30, 1938, more than five months after the giving of the note and was no.t such a contemporaneous transaction with the giving of the note as to present a question if the consideration as to the. amount of the check failed.
+Upon the cross-petition it is admitted that the $400.00 was not turned over to the defendants. It was a factual question whether or not Nevins in taking- possession of the $400.00 was holding it as agent for the plaintiff or if he took it as agent for the defendants. The arrangement as to the payment of interest on the $400.00 is not disclosed except that the note did make a prima facie case of obligation of the defendants to the plaintiff in the full amount including the $400.00 with interest. The defendants who testified, being called on cross-examination only, had no opportunity to present their evidence respecting any arrangement as to the $400.00 but their pleading that they were improperly charged interest on this sum would permit testimony that they were not to pay interest on this amount. They were denied this right and any right to produce testimony tending to support their cross-petition. To this extent, at least, the directed verdict was erroneous and prejudicial to defendants.
+The only reason that we are permitted to sustain the directed verdict for the plaintiff as to the $423.12 is the failure of the defendants to properly plead their defense of payment. They clearly had such a defense even upon the plaintiff’s own testimony. We regret that the failure of the pleader prevented the defendants having their day before the jury as to the payment of substantial .amount on the note.
+Judgment affirmed in part and reversed in part and cause remanded.
+BARNES, P. J., and GEIGER, J., concur.
