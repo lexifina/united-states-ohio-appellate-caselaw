@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "92-L-090"
+decided: "1993-03-29"
+citations: ["85 Ohio App. 3d 490"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ford, P.J., and Christley, J., concur."]
+parties: ["CITY OF MENTOR, Appellee, v. NOZIK et al., Appellants; Celebrezze, Atty. Gen., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/85/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1689108
+cites_cases: ["1 OBR 185", "1 Ohio St.3d 151", "18 O.O.3d 446", "1990 WL 187796", "24 OBR 388", "24 Ohio App.3d 211", "416 N.E.2d 610", "438 N.E.2d 120", "494 N.E.2d 1160", "54 Ohio App.3d 166", "561 N.E.2d 1001", "601 N.E.2d 131", "601 N.E.2d 166", "64 Ohio St.2d 250", "76 Ohio App.3d 105", "76 Ohio App.3d 159"]
+---
+
+# City of Mentor v. Nozik
+
+## Majority (Nader, Judge.)
+
+Nader, Judge.
+This appeal is from a decision of the Lake County Court of Common Pleas, finding appellants, Albert Nozik and Mentor Lagoons Marina, to be in contempt and imposing a fine of $4,000, denying the motion to enhance prejudgment penalties, and assessing post-judgment penalties in the amount of $71,980. The trial court also granted Civ.R. 11 sanctions in the sum of $2,250, and ordered appellants to reimburse the Mentor Health District in the amount of $3,861.66.
+The underlying action from which these sanctions arose was previously before this court in Mentor v. Nozik (Nov. 30, 1990), Lake App. No. 89-L-14-080, unreported, 1990 WL 187796. The action was brought to enjoin appellants from depositing solid waste behind the bulkheads supporting the docks at the marina. Appellants were basically using anything that would not decompose as fill. The specifics of the underlying action may be found in our previous opinion.
+Appellants have appealed the imposition of the above penalties and sanctions, setting forth the following assignments of error:
+“1. The trial court committed prejudicial error and a gross abuse of discretion in imposing sanctions for violation of Civ.R. 11, the finding being clearly against the manifest weight of the evidence.
+“2. The trial court committed prejudicial error in finding the defendants guilty of charges of contempt beyond a reasonable doubt and in exercising a gross abuse of discretion.
+“3. The trial court erred in finding, penalizing and punishing the defendants for performing clean-up work that was not included within or required by the court order.”
+In appellants’ first assignment of error, they contend that the trial court erred in imposing attorney fees as a Civ.R. 11 sanction. The imposition of attorney fees as a Civ.R. 11 sanction, while not expressly authorized by the rule, has been upheld in a number of appellate decisions. See, e.g., Stevens v. Kiraly (1985), 24 Ohio App.3d 211, 24 OBR 388, 494 N.E.2d 1160; Newman v. Al Castrucci Ford Sales, Inc. (1988), 54 Ohio App.3d 166, 561 N.E.2d 1001; Gordon Food Serv., Inc. v. Hot Dog John’s, Inc. (1991), 76 Ohio App.3d 105, 601 N.E.2d 131; and Sweeney v. Hunter (1991), 76 Ohio App.3d 159, 601 N.E.2d 166.
+At the hearing on the motion for Civ.R. 11 sanctions, emphasis was placed upon the lack of supporting authority for appellants’ position. Appellants contend that, in areas such as environmental law, case law is sparse, and that new arguments unsupported by case law, even if found to be incorrect, should not by themselves subject an attorney to sanctions. We agree; however, there was sufficient basis for the court to impose Civ.R. 11 sanctions in this matter.
+Appellants argue that no evidence was presented that counsel willfully violated Civ.R. 11. Appellants filed answers to interrogatories stating the only items placed behind the bulkheads were dirt and driftwood; however, in Mentor’s motion for the imposition of Civ.R. 11 sanctions, excerpts from Nozik’s trial testimony demonstrate that he knew that these statements were incorrect. At the hearing on the motion for Civ.R. 11 sanctions, appellant Nozik did not refute this knowledge, but, instead, continued to argue that these deposits, such as refrigerators and hot water tanks, do not constitute solid waste. Knowing that more than dirt and driftwood were deposited behind the bulkheads, appellant Nozik violated Civ.R. 11 when he signed contradictory answers to the interrogatories. This, together with other factors enumerated in the trial court’s judgment entry on this issue, more than amply supports its conclusion. Accordingly, appellants’ first assignment of error is without merit.
+In their second assignment of error, appellants maintain that the trial court erred in finding them in contempt upon evidence which failed to establish appellants’ guilt beyond a reasonable doubt. Contempt citations to punish completed acts of disobedience constitute criminal contempt, and the accused must be proven guilty beyond a reasonable doubt. Brown v. Executive 200, Inc. (1980), 64 Ohio St.2d 250, 18 O.O.3d 446, 416 N.E.2d 610.
+The temporary and preliminary restraining order of May 13, 1987, mandated that:
+“[Appellants], together with their successors in office and their agents, officers, servants, employees, associates and members and each of them are hereby restrained from any further dumping, disposing, or placing of or permitting others to dump, dispose, or place solid or other waste materials or products or matter on the premises * *
+The trial court found appellants in contempt of the above order, stating:
+“Evidence at the hearing verified that the area on or about no less than eight docks exhibited conduct which violates the May 13, 1987 restraining order. Bundled newspapers dated post-May 13, 1987 were found at Docks 11 and 35; new fill was deposited over existing solid waste at Docks 29 and 32; Docks 39, 44, and 60 were supported by newly deposited solid waste; and new platforms were installed over pre-existing solid waste at Docks 45 and 54.”
+At the hearing, there was direct testimony establishing those charges relating to the bundles of newspaper. The post-trial briefing, in support of the charges of contempt, directs the court’s attention to the videotape prepared in August 1987, played at the original trial, and discussed during the contempt proceedings. The post-trial briefing also refers to the affidavit of John Brice, counsel for Mentor, attached to the charges in contempt filed by the Lake County General Health District on August 29, 1988. These averments were not objected to by appellants’ post-trial briefing and remain unrefuted. In fact, appellants’ post-trial briefing argued that the construction of three, four or five platforms did not violate the restraining order. Based upon the foregoing, appellants’ guilt was established beyond a reasonable doubt and the second assignment of error is without merit.
+In their third assignment of error, appellants contest the trial court’s imposition of civil penalties. Appellants assert that the cleanup work was completed by the time of the hearing and, therefore, no additional penalties should have been imposed. This assertion is in direct conflict with evidence presented at the hearing that fifteen percent of the ordered cleanup remains to be done.
+Appellants also maintain that their cleanup efforts were hampered by the court’s designee requiring more than the ordered cleanup to be done. The trial court accounted for such delay by reducing the per diem penalty from $100 to $10 for the period from May 24, 1991 to November 18, 1991.
+Appellants also present arguments relying upon the four factors of the civil penalty policy of the USEPA, which were utilized in State ex rel. Brown v. Dayton Malleable, Inc. (1982), 1 Ohio St.3d 151, 1 OBR 185, 438 N.E.2d 120. It should be noted, however, that in Dayton Malleable the parties had agreed to the application of the USEPA guidelines. Here, the trial court set forth those factors as follows:
+“(1) the economic benefit gained by noncompliance; (2) the degree of recalcitrance, defiance or indifference of the violator to the law, (3) the harm or threat to the environment; and (4) the extraordinary costs incurred in enforcement.”
+Neither R.C. 3734.13, which authorizes a civil penalty up to $10,000 per day, nor R.C. 6111.99, with a limit of $25,000, requires the trial court to commence such an endeavor. Further, the evidence presented supports the trial court’s findings with regard to the above factors. Facing the possibility of much harsher penalties, appellants should not be heard to complain about the minimal amounts imposed. As such, appellants’ third assignment of error is without merit.
+Based on the foregoing, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Ford, P.J., and Christley, J., concur.
