@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "93APE12-1735"
+decided: "1994-05-31"
+citations: ["104 Ohio App. 3d 197"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside, P.J., and Reilly, J., concur.", "Archer E. Reilly, J., retired, of the Tenth Appellate District, sitting by-assignment."]
+parties: ["WILLIAMS et al. Appellants, v. GRANGE MUTUAL CASUALTY COMPANY et al. Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/104/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1778596
+cites_cases: ["174 Ohio St. 148", "187 N.E.2d 45", "21 O.O.2d 420", "36 Ohio St.3d 46", "44 Ohio St.3d 11", "521 N.E.2d 789", "540 N.E.2d 716", "620 N.E.2d 809", "631 N.E.2d 157", "640 N.E.2d 583", "67 Ohio St.3d 500", "69 Ohio St.3d 1203", "69 Ohio St.3d 1204", "94 Ohio App.3d 216"]
+---
+
+# Williams v. Grange Mutual Casualty Co.
+
+## Majority (Peggy Bryant, Judge.)
+
+Peggy Bryant, Judge.
+Plaintiffs-appellants, Michael J. Williams, Jr., Michael J. Williams, Sr., and Theresa L. Williams (“plaintiffs”), appeal from a judgment of the Franklin County Court of Common Pleas granting the summary judgment motion of defendant-appellee, Grange Mutual Casualty Company (“Grange”), on behalf of itself and its insureds, defendants-appellees, Larry K. and Patricia I. Baeumel.
+On May 1, 1992, plaintiffs filed a declaratory judgment action against defendants, asserting that Patricia Baeumel negligently drove her motor vehicle, colliding with a motor vehicle driven by plaintiff, Michael J. Williams, Jr., and causing severe injury to him. While plaintiffs apparently filed a separate action against the Baeumels, in the present action they sought (1) a determination of which among the policies Grange issued to the Baeumels provides coverage for the collision at issue, (2) a determination of the limits of Grange’s liability under the policy or policies applicable to these facts, and (3) damages for Grange’s bad-faith handling of plaintiffs’ claim and its failure to make payment on that claim.
+Grange ultimately filed motions for summary judgment asserting that under the anti-stacking language of the policies at issue, only one policy Grange issued to the Baeumels provides coverage concerning the collision at issue; that, under the language of the policy, the maximum limit of liability to plaintiffs is $100,000; and that Grange did not exercise bad faith in handling plaintiffs’ claim. Following full briefing, the trial court granted Grange’s motion for summary judgment. While plaintiffs filed a motion for reconsideration of the trial court’s decision, the trial court found plaintiffs’ arguments unpersuasive and refused to modify its original decision, instead granting judgment to defendants in accordance with its earlier decision.
+Plaintiffs appeal, assigning the following errors:
+“I. The trial court erred as a matter of law in overruling plaintiffs’ motion for summary judgment, thereby concluding that the parents of a minor do not have a derivative action for the medical expenses incurred by their minor child that is subject to separate ‘per person’ liability policy limits.
+“II. The trial court as a matter of law erred when it overruled plaintiffs’ motion for summary judgment, thereby concluding that the parents of a minor do not have a derivative action for their individual loss of consortium claim subject to separate ‘per person’ liability policy limits.
+“III. The trial court erred as a matter of law when it overruled plaintiffs’ motion for summary judgment due to the fact that the trial court’s decision was erroneously decided, its rationale being misplaced under Ohio law, and against the manifest weight of the evidence.”
+Plaintiffs’ three assignments of error are interrelated. They do not challenge the trial court’s determination with respect to the anti-stacking provisions of the various policies Grange issued to the Baeumels, nor do they challenge the trial court’s determination that plaintiffs failed to demonstrate that Grange acted in bad faith as defined in Slater v. Motorists Mut. Ins. Co. (1962), 174 Ohio St. 148, 21 O.O.2d 420, 187 N.E.2d 45. Rather, plaintiffs’ three assignments of error raise the sole issue of whether the trial court properly determined the limits of liability under the single policy of insurance applicable to the collision subject of plaintiffs’ action against Patricia Baeumel.
+The pertinent facts were stipulated between the parties. Specifically, on or about January 29, 1990, defendant Patricia Baeumel negligently operated a motor vehicle and collided with a motor vehicle driven by Michael J. Williams, Jr., a minor, who sustained injuries as a result of the collision. Michael was not contributorily negligent, for purposes of this declaratory judgment action.
+At the time of the accident, Patricia Baeumel was driving a 1986 Cadillac Sedan Deville owned by her husband, Larry Baeumel; she operated the vehicle with permission of the owner. At or about the time of the accident, five insurance policies were in full force and effect between Grange and the Baeumels. Finally, the parties stipulated that Michael suffered damages in excess of $300,000 as a direct and proximate result of Patricia Baeumel’s negligence, for purposes of this declaratory judgment action.
+Pursuant to the Grange policy at issue, Grange’s liability is limited as follows:
+“A. The limit of liability shown in the Declarations for ‘each person’ for Bodily Injury Liability is our maximum limit of liability for all damages, including damages for care, loss of services or death arising out of bodily injury sustained by any one person in any one auto accident. Subject to this limit for ‘each person’, the limit of liability shown in the Declarations for ‘each accident’ for Bodily Injury Liability is our maximum limit of liability for all damages for bodily injury resulting from any one accident. The limit of liability shown in the Declarations for ‘each accident’ for Property Damage Liability is our maximum limit of liability for all property damage resulting from any one auto accident. This is the most we will pay regardless of the number of:
+“1. Insureds;
+“2. Claims made;
+“3.. Vehicles or premiums shown in the Declarations; or
+“4. Vehicles involved in the auto accident.” (Emphasis sic.)
+In Tomlinson v. Skolnik (1989), 44 Ohio St.3d 11, 540 N.E.2d 716, the Supreme Court addressed similar language, stating:
+“An insurance policy provision that limits recovery for all causes of action arising out of or because of bodily injury to one person to a single limit of liability is a valid restriction of automobile liability insurance coverage.” Id. at paragraph one of the syllabus.
+Despite the syllabus language of Tomlinson, plaintiffs, relying on a number of insurance cases culminating in the Ohio Supreme Court’s recent decision in Savoie v. Grange Mut. Ins. Co. (1993), 67 Ohio St.3d 500, 620 N.E.2d 809, contend that Michael J. Williams, Sr. and Theresa L. Williams have separate claims arising out of the injury of their son. However, unlike the present case, which involves a single bodily injury and no resulting death, those cases, including Savoie, involve wrongful death in combination with uninsured or underinsured provisions.
+Despite the distinguishing factors of the present case, plaintiffs suggest that Savoie undermines the continued validity of Tomlinson. We disagree. Savoie does not mention or attempt to modify Tomlinson, much less overrule it. Rather, Savoie discusses Dues v. Hodge (1988), 36 Ohio St.3d 46, 521 N.E.2d 789, on which Tomlinson relied. While Savoie criticizes the first paragraph of the syllabus of Dues v. Hodge, it simply limited the second paragraph of the syllabus of that case, that being the part on which Tomlinson relied, to “apply only to cases involving a single bodily injury which has not resulted in wrongful death.” Savoie, supra, at 509, 620 N.E.2d at 816. Because the second paragraph of the syllabus of Dues v. Hodge remains viable under the stated limitations which are present here, Tomlinson, which relied on it, similarly is viable under the circumstances of this case.
+Given that the language of the policy at issue is virtually identical to that of Tomlinson, coupled with the fact that the present case involves a single bodily injury not resulting in death, the first paragraph of the syllabus of Tomlinson is dispositive of plaintiffs’ three assignments of error. The trial court did not err in finding that the language of Grange’s policy limits liability coverage to $100,000 for plaintiffs’ claims against Patricia Baeumel.
+As a result, we overrule plaintiffs’ three assignments of error and affirm the judgment of the trial court.
+Judgment affirmed.
+Whiteside, P.J., and Reilly, J., concur.
+Archer E. Reilly, J., retired, of the Tenth Appellate District, sitting by-assignment.
+. At least one decision subsequent to Savoie has questioned a different portion of the syllabus of Tomlinson. See Erie Ins. Group v. Wolff (1994), 94 Ohio App.3d 216, 640 N.E.2d 583. Similarly, while the Supreme Court in part has clarified the opinion in Savoie, the clarification does not extend to the issue addressed in the first paragraph of the syllabus of Tomlinson. See Newman v. United Ohio Ins. Co. (1994), 69 Ohio St.3d 1204, 631 N.E.2d 157; Hillman v. Hastings Mut. Ins. Co. (1994), 69 Ohio St.3d 1203, 631 N.E.2d 157.
