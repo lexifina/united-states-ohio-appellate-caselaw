@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1700"
+decided: "1941-12-18"
+citations: ["35 Ohio Law Abs. 445"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GEIGER, PJ. & HORNBECK, J„ concur."]
+parties: ["MOSHER et v MUTUAL HOME & SAVINGS ASSOCIATION"]
+source_url: "https://static.case.law/ohio-law-abs/35/cases/0445-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1708187
+---
+
+# Mosher v. Mutual Home & Savings Ass'n
+
+## Majority (By BARNES, J.)
+
+OPINION
+By BARNES, J.
+The above entitled cause is now being determined as an error proceeding by reason of plaintiffs’ appeal on questions of law from the judgment of the Court of Common Pleas of Montgomery County, Ohio.
+In the trial court the case was determined on defendant’s general demurrer to plaintiffs’ amended petition.
+The demurrer being sustained and plaintiffs not desiring to plead further, their petition was dismissed. . A like demurrer had been sustained to plaintiffs’ original petition. The amended petition was identical in substance except there was added a purported third cause of action.
+Plaintiffs’ amended petition, omitting the formal parts, reads as follows:
+“Plaintiffs say that the defendant is a corporation duly organized by and under the Building and Loan Association laws of the State of Ohio and as such, is doing business in the City of Dayton, Ohio; that on the 12th day of September, 1938, in the Common Pleas Court of Montgomery County, a judgment was rendered against the plaintiffs and others by the defendants in the case of The Mutual Home and Savings Association against Ira E. Mosher and Gladys G. Mosher, being case numbered 86332 on the Docket of said Court in the sum of Two Hundred and One Dollars and Fourteen Cents ($201.14) and foreclosure of mortgage on the following described real estate:
+‘Situate in the City of Dayton, in the County of Montgomery and State of Ohio and being lot numbered Twenty-two Thousand Four Hundred and Three (22403) of the revised and consecutive numbers of lots on the Plat of the said City of Dayton, Ohio.’
+That plaintiffs had no knowledge that judgment would be taken against them until after the rendition of said judgment or that any claim would be asserted against them; that plaintiffs have a valid defense against the note and mortgage sued upon by the defendant herein.
+FIRST CAUSE OF DEFENSE: For their first cause of defense plaintiffs say that they conveyed the premises described in plaintiff’s petition to S. A. Goss on the 24th day of May, 1921, and that by the terms of said conveyance, the defendant S. A. Goss assumed and agreed to pay the note set out in said petition; that defendant consented to said agreement and substitution and accepted S. A. Goss in lieu of these plaintiffs.
+SECOND CAUSE OF DEFENSE: For their second cause of defense against defendants, plaintiffs say that they adopt all the averments of the foregoing cause of defense and make the same as a part of their second cause of defense the same as though rewritten herein and further avers that no demand has been made upon plaintiffs for the payment of said note; that they have made no payments on said note since the transfer of said real estate to said S. A. Goss and that by reason thereof, the claim of defendants against these plaintiffs is barred by the statute of limitations under §11221 GC as follows:
+‘Action upon a specialty or an agreement, contract or promise in writnig shall be brought within fifteen years after the cause thereof accrued.’
+THIRD CAUSE OF DEFENSE: For their third cause of defense plaintiffs adopt all the averments and allegations of the foregoing defenses as if rewritten herein and further avers that the time of the filing of the suit herein against these plaintiffs by the Mutual Home & Savings Association, they employed as attorney, an officer of this Court, to look after their interest in said case and said attorney accepted said employment and advised these plaintiffs that he would take the proper steps to insure their protection in said, cause, when in fact, said attorney did not take care of said defendants claims and defense as herein alleged and that judgment was taken against them without their knowledge or information, notwithstanding the fact that they had a valid defense in said action; that they received no notice of said judgment or proceedings until" they received notice from the Mutual Home & Savings Association in proceedings in aid of execution.
+WHEREFORE, plaintiffs pray that said judgment be vacated and that they be permitted to make this their defense thereto and for such other and further relief to which they may be. entitled.”
+The sole and only question for our determination is whether or not plaintiffs’ petition states a cause of action.
+In searching the petition for grounds for vacating the judgment after term, we find nothing of substance.
+The allegation to the effect that plaintiffs had no knowledge that judgment would be taken against them until after the rendition of said judgment or that any claim would be asserted against them, is not sufficient as a predicate to set aside a- judgment after term. The fact that plaintiffs had been sued and judgment against them prayed for, negatives the averment that they had no knowledge that judgment would be taken or that any claim would be asserted against them. The mere fact that through ignoranee or non-attention they failed to understand the scope of the action, would not avail them, even though in fact they did not know that a judgment would be taken or any claim asserted against them.
+The further fact, that plaintiffs had a valid defense against the note and mortgage sued upon would not be a ground for vacation of judgment. The complete answer to this averment is that if they had a defense the rule of law prescribes that such defense should have been set out by answer.
+From the brief of counsel for plaintiffs-appellants we are led to the conclusion that there is a failure to distinguish between the rules of law applicable to motions to vacate judgment during term and the requisite requirements to set aside after term.
+It is a well recognized legal principle that during term courts have absolute control over their orders and judgments, and the only requirement under the law is the exercise of a legal discretion. Reviewing courts are very liberal, however, in sustaining the action of trial courts during term.
+The procedure for vacating judgments during term is not controlled by statute, but is an inherent.power within the court.
+Vacations after term are controlled by an entirely different principle. The proceedings are statutory and the Legislature has set out under §11631 GC specific grounds for setting aside judgments. Canal Winchester Bank v Ex-line, 28 Abs 327. The courts have held that these grounds are not exclusive, but they do not hold that other grounds are all inclusive. It has been held that the statutory grounds are cumulative of other grounds recognized in law and in equity. One of the grounds most frequently asserted is where judgment is obtained through fraud. This ground was one recognized under the common law and needs no statutory support.
+Our court very recently determined in a Franklin County case, unreported, (Maryland Casualty Co. v John F. Rees Co.) that the right to bring proceedings to. set aside a judgment after term included not only statutory grounds but in addition such grounds as were recognized by law and equity under the common law.
+The sanctity of judgments must be recognized and the mere fact that the defendant has a valid defense, standing along, will never be considered as a ground for setting aside a judgment. The law says that if you have a defense you should have it set out at the proper time and your failure to do so will be considered a waiver.
+Of course, where there is a legal ground for setting a judgment aside, then there must also be presented through proper form a legal existing defense
+The two go together. Neither is sufficient standing alone.
+What is set out in the petition under the heading of first and second causes of defense, no doubt is intended as a compliance with the legal requirement that a defendant in addition to presenting grounds for setting aside the judgment, must also set out his defenses. It is very doubtful if either the first or second causes of defense sets out a defense. The mere fact that plaintiffs sold their premises upon which the Loan Association held a mortgage, and that the purchaser - of the premises assumed and agreed to pay the mortgage debt, and that thereafter the Loan Company accepted payments and recognized the new owner as the principal obligor, would not relieve the plaintiffs from liability as the original makers of the note and mortgage. The allegation that defendant consented to said agreement and substitution and accepted S. A. Goss in lieu of these plaintiffs might make this a good defense.
+The allegations in the second defense that the Loan Company made no demands on the plaintiffs for payment, or that plaintiffs made no payments since the transfer to S. A. Goss, would not alone state sufficient facts upon which to raise the issue of the Statute of Limitations. There is no allegation that Goss did not pay and thereby keep the note alive. If the note was kept alive through payments by Goss, the plaintiffs could not raise the question of the Statute of Limitations because they had not made any payments within the fifteen year period. Furthermore, there is no-allegation as to when the note was due. Of course, the Statute of Limitations would not run under any circumstances until the note became due.
+What is set forth in the third cause of defense could not be so considered. While set out as a claimed defense, we assume that in reality plaintiffs have inserted this allegation as a ground for setting aside the judgment. In substance this designated third cause of defense alleges that plaintiffs’ attorney, whom they employed to defend them in the original action, neglected and failed to properly represent them by setting out their existing defenses.
+Under the law plaintiffs’ attorney was their agent and any negligence on his part would be imputed to them and in no sense could be attributable to the Loan Company. This principle is set out in Ohio Jurisprudence, Vol. 4 (Attorneys at Law) §39, p. 444.
+“It Is the general rule that an attorney acting within the scope of his authority represents his client, and his acts of omission are to be regarded as the acts of the person he represents, and therefore his neglect is equivalent to the neglect of the client himself.”
+This same principle will be found in 2 Ruling Case Law, page 965.
+It is our conclusion that the trial court was correct in sustaining demurrer to plaintiffs’ amended petition.
+Costs in this court will be adjudged against the appellants.
+Cause remanded for collection of costs and further proceedings according to law.
+GEIGER, PJ. & HORNBECK, J„ concur.
