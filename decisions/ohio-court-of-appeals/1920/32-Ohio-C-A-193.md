@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1920-01-05"
+citations: ["32 Ohio C.A. 193", "12 Ohio App. 341"]
+reporter: "ohio-ca"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hamilton and Cushing, JJ., concur."]
+parties: ["The State, ex rel Fortini, v. Hoffman, Judge."]
+source_url: "https://static.case.law/ohio-ca/32/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1614405
+cites_cases: ["100 Ohio St., 33", "132 Ind., 567", "19 Ohio St., 184", "196 Fed. Rep., 123", "37 L. R. A., 783", "37 Ohio St., 197", "92 Ohio St., 415", "93 Ohio St., 443", "95 Ohio St., 162", "95 Ohio St., 300", "97 Ohio St., 62"]
+---
+
+# State ex rel. Fortini v. Hoffman
+
+## Majority (Shohl, P. J.)
+
+Shohl, P. J.
+This is an action in mandamus brought to determine the right of appeal to this court by a child found by the juvenile to be a “dependent.”
+The petition recites that the defendant is a judge of the court of common pleas, division of domestic relations, in and for Hamilton county, Ohio; that an affidavit was filed in said court in August, 1919, against Rosena-Fortini, charging among other things that said Rosena Fortini was a dependent child, and on October 31, 1919, the defendant, after a hearing of the case, found her to be a “dependent” and committed her to the Santa Maria Institute; that thereupon her counsel gave notice of appeal and asked the court to fix the amount of the appeal bond to be given; and that defendant refused and still refuses to fix the amount of the appeal bond, denying the right of the relator to appeal from the order aforesaid. Relator prays for a writ of madamus commading defendant to fix the sum of the appeal bond.
+To this petition the defendant demurs on the ground that this court has no jurisdiction of the subject of the action and that the petition does not state facts sufficient to constitute a cause of action.
+Is the order of the juvenile court appealable? The absence of statutory provision for au appeal in the juvenile court act is of no moment. The jurisdiction of this court is fixed and determined by the constitution as amended in 1912. and can neither be enlarged nor curtailed by the general assembly. Cincinnati Polyclinic v. Balch, 92 Ohio St., 415; Wagner v. Armstrong, 93 Ohio St., 443; Robinson v. Wagner, 95 Ohio St., 300, 304, and United Distillers Co. v. Zeisler, 97 Ohio St., 62.
+Section 6, Article IAr of the Constitution as amended, provides:
+“The Court of Appeals shall have * # * appellate jurisdiction in the trial of chancery cases, and to review, affirm, modify, or reverse the judgments of the court of common pleas, superior court, and other courts of record within the district as may be provided by law.”
+AYhat constitutes a chancery case has been discussed in a series of decisions. The Supreme Court, while admonishing against an attempt to find an all-embracing definition, has laid down certain rules for the guidance of courts and litigants. In Wagner v. Armstrong, 93 Ohio St., 443, 456, the court stated, what eases were surely included, as follows:
+“A chancery ease is one in which, -according .to the usages and practices in courts of chancery prior to and at the time of the adaption of the code of civil procedure, remedies were awarded in accordance with the principles of equity and not in accordance with the rules of law ”
+AYhat, then, is the nature of a proceeding under the juvenile act? Is it a proceeding that was exercised by chancery courts prior to the code of civil procedure (March 11, 1853, 51 Ohio Laws, 1), or is it something different?
+There are some early laws relating to juvenile criminals, dating back to 1863 in Massachusetts and 1877 in New York. Children’s courts were introduced as early as 1890 in South Australia by ministerial order and were subsequently legalized under an act of 1895. The modern movement with reference, to juvenile courts began with the introduction in the Illinois legislature of a bill creating such a court for the state of Illinois and the establishment of the court in Chicago in July, 1899. See Flexner & Baldwin, Juvenile Courts and Probation, and 1 Wharton Criminal Law (11 ed.), Section 366.
+The fundamental principle of the juvenile acts is conservation of the child, and to accomplish this it has been deemed expedient to do away with the characteristic features of an ordinary trial. If the proceedings are criminal, the constitutions of the several states require a jury trial, and it is in the effort to show that the proceedings are not criminal that we find constant reiteration of the claim that the proceedings are in the nature of a case in chancery. (See article by Judge Julian W. Mack entitled The Juvenile Court, 23 Harvard Law Review, 104, and 37 L. R. A., 783, 787). It is often stated that the custody of children is a proper subject of chancery jurisdiction. (22 Cyc., 519, 520, and eases cited; Varsey v. Varsey, 25 C. C. (N. S.), 229, and Bispam on Equity, Section 542). This is the foundation of the argument of the relator.
+The jurisdiction of chancery over minors appears historically to be a portion of the king’s executive power as parens patriae. In England it is probable, that, like jurisdiction over persons of unsound mind, jurisdiction over minors did not belong to the court of chancery by virtue of its inherent and general functions. This branch of regal authority was originally delegated to the chancellor as the personal representative of the crown. (Wellesley v. Wellesley, 2 Bligh N. S., 124, 130, 131). At any rate, in the United States, according to our system of government, the power of parens patriae belongs exclusively to the legislature of each state and is not possessed by the courts. 3 Pomeroy, Equity Jurisprudence (4 eel.), Section 1304, note 1, and Section 1311; Van Walters v. Board of Children’s Guardians, of Marion County, 132 Ind., 567, 569.
+In this state part of this power is lodged by the statutes with the judge of the juvenile court.
+There are instances of delegation of the power of parens patriae referred to in the reported decisions.' In the case of Prescott v. State, 19 Ohio St., 184, a minor had been committed to the state reform farm. The court held that the commitment wqs neither a criminal prosecution nor a proceeding according to common law, saying:
+“The proceeding is purely statutory; and the commitment, in cases like the present, is not designed as a punishm >nt for crime, but to place minors of the description, and for the causes specified in the statute, under the guardianship of the public authorities named, for proper care and discipline, until they are reformed, or arrive at the age of majority.”
+In Cincinnati House of Refuge v. Ryan, 37 Ohio St., 197, a petition in habeas corpus was filed to secure the liberty of certain children committed to the house of refuge, to which they had been committed by a justice of the peace of Hamilton counts' •without notice to the father. In the course of the opinion the court say at page 202:
+“The paramount object is the good of such infants as are destitute of parental care. It is the exercise of that parental guardianship which the stale has assumed. The proceeding is, in its nature, special.”
+Elsewhere in the same opinion the court obsérve: ‘ ‘ The proceeding is purely statutory.”
+In Matter of Frank Januszewski, 196 Fed. Rep., 123, Judge Sater, after reviewing the act at length, states at page 127: “ It is of the same nature as statutes which authorize compulsory education of children,” and in conclusion says:
+“The statute is neither criminal nor penal in its nature, but an administrative police regulation.”
+A proceeding to declare a child “dependent” under the juvenile act is of a character unknown to the law prior to and at the time of the adoption of the code of civil procedure. It is not, therefore, within the class of cases included in the rule laid down by the Supreme Court in the case of Wagner v. Armstrong.
+In Marleau v. Marleau, 95 Ohio St., 162, it was determined that a proceeding for alimony does not invoke the equity powers of the court. It is controlled by statute authorizing the court to exercise only such power as is expressly granted. The ease was, therefore, not appealable.
+In West v. West, 100 Ohio St., 33, there ivas a controversy between the divorced parents of certain minor children about their custody and support. The .judgment- ivas held to be not appealable because the proceedings were merely statutory and not by virtue of the chancery powers of the trial court. Although an adjudication that a child is “dependent” in some of its aspects is akin to chancery, the powers thereby exercised by the juvenile court are likewise statutory. They are special and part of the exercise of the parental guardianship of the state. They do not include control over the property of the minor.
+The determination by the juvenile court that Rosena Fortini was a “dependent” is not in a chancery case and therefore is not appealable. The action of tha-t court in refusing to fix an appeal bond wras proper.
+The demurrer to the petition wall be sustained, and writ of mandamus denied.
+Hamilton and Cushing, JJ., concur.
