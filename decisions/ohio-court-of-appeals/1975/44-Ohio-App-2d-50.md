@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "34395"
+decided: "1975-04-10"
+citations: ["44 Ohio App. 2d 50"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jackson. P. J., and Manos, J., concur."]
+parties: ["Anderson v. McMillan."]
+source_url: "https://static.case.law/ohio-app-2d/44/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1475142
+cites_cases: ["166 Ohio St. 340", "18 Ohio St. 2d 132", "30 Ohio St. 2d 323", "32 Ohio St. 2d 132", "34 Ohio App. 2d 85", "389 U. S. 128", "4 Ohio St. 2d 4", "408 U. S. 471", "411 U. S. 778", "418 U. S. 539", "5 Ohio App. 2d 239"]
+---
+
+# Anderson v. McMillan
+
+## Majority (Pajrrino, J.)
+
+Pajrrino, J.
+Petitioner, a parolee who was committed to a mental institution for diagnosis and treatment by the Adult Parole Authority pursuant to the provisions of R. C. 2967.22, brings this petition for a writ of habeas corpus seeking his release therefrom claiming a denial of due process and equal protection of the laws as guaranteed by the Fourteenth Amendment of the Constitution of the United States.
+In September, 1968, petitioner was indicted for the crimes of murder in the first degree and murder in the first degree in the perpetration of robbery, both in violation of R. C. 2901.01. Shortly thereafter, upon waiver of prosecution by indictment, petitioner was also charged by information with the crime of armed robbery in violation of R. C. 2901.13. On December 13, 1968, he plead guilty to manslaughter in the first degree, a lesser included offense, under the first count of the indictment, and to armed robbery. The second count of the indictment was nolled. He was sentenced to the Ohio State Reformatory and the two sentences were ordered to run consecutively.
+While serving his sentences, petitioner received medical treatment for mental disorders. At one point, he was transferred as an emergency patient from the Reformatory to Lima State Hospital where he remained from May 17,1972, to March 29, 1974. After this hospitalization, petitioner was returned to the Reformatory.
+On November 13, 1974, petitioner was paroled to the custody of his mother. On December 18,1974, it was brought to the attention of the Adult Parole Authority that petitioner was mentally ill. Thereupon, an order for his commitment to the Fairhill Mental Health Center was issued by the Adult Parole Authority pursuant to R. C. 2967.22. In its pertinent portions. R. C. 2967.22 provides as follows:
+“Whenever it is brought to the attention of the adult parole authority that a parolee appears to be suffering from a mental illness and may be in need of treatment, the chief of the authority may notify the director of mental health and mental retardation who may then designate an appropriate state institution or facility within the department of mental health and mental retardation to furnish a diagnosis of such parolee’s condition and to make a recommendation as to the course of treatment, if any, which should be pursued. For the purpose of having such diagnosis made, a parolee may be confined upon the order of the superintendent of parole supervision for a period not to exceed fifteen days.
+“In the event such parolee is found to be mentally ill the director of rehabilitation and correction shall transfer the case to the director of mental health and mental retardation for inclusion on the rolls of an appropriate institution or facility within the department of mental health and mental retardation for the purpose of treatment.”
+On or about December 27, 1974, the authorities at Fair-hill Mental Health Center recommended to the Adult Parole Authority that petitioner be transferred from the rolls of the Adult Parole Authority to those of the Department of Mental Health and Mental Retardation. On or about January 2, 1975, authorization was received transferring petitioner to the rolls of the Department of Mental Health and Retardation and ordering petitioner’s transfer to Hawthornden State Hospital.
+Petitioner thereafter filed a petition for a writ of habeas corpus. Petitioner contends that-, although he was on parole, his involuntary commitment to a mental institution without notice or hearing resulted in a deprivation of his liberty in violation of his constitutional rights as guaranteed by the Fourteenth Amendment of the Constitution of the United States. Morrissey v. Brewer (1972), 408 U. S. 471.
+The respondent claims, however, that under Ohio law the writ of habeas corpus is unavailable where a person “is in the custody of an officer under process issued by a court or magistrate, or by virtue of the judgment or order of a court of record, and that the court or magistrate had jurisdiction to issue the process, render the judgment,- or make the order * * R. C. 2725.05. See also State, ex rel. Ross, v. Court (1972), 30 Ohio St. 2d 323; Freeman v. Maxwell (1965), 4 Ohio St. 2d 4; DiNiro v. Kellon (1969), 18 Ohio St. 2d 132. Respondent further contends that habeas corpus has never been used in Ohio as a remedy to review a person’s custody once that custody was made pursuant to a valid order of commitment. Barrett v. Crist (1966), 5 Ohio App. 2d 239; Sykes v. Kreiger (1972), 32 Ohio St. 2d 132; In re Varner (1957), 166 Ohio St. 340.
+We find that petitioner’s contention has merit. Courts have accorded basic constitutional rights to convicted defendants at various stages of criminal proceedings. For example, absent a knowing and intelligent waiver, a defendant is entitled to be represented by retained or assigned counsel at a probation revocation hearing. Mempa v. Rhay (1967), 389 U. S. 128. Where prison authorities seek to impose disciplinary sanctions against a prisoner which will result in punitive segregation or a loss of good time for parole purposes, such prisoners are entitled to an appropriate hearing which is fair and void of arbitrary action, Wolf v. McDonnell (1974), 418 U. S. 539; In re Lamb (1973), 34 Ohio App. 2d 85. Further, it has been declared that individuals charged with parole violations are entitled to notice of the charges against them and a hearing by a neutral and detached body, Morrissey v. Brewer (1972), 408 U. S. 471, and in some cases also have the right to be represented by retained or assigned counsel at such parole revocation hearing, Gagnon v. Scarpelli (1973), 411 U. S. 778.
+This court holds that the involuntary commitment of a parolee to a mental institution pursuant to R. C. 2967.22 without a hearing does not comport with the fundamental standards of due process under the Fourteenth Amendment of the Constitution of the United States and that such commitment is unlawful. A writ of habeas corpus is an appropriate remedy available to a parolee so committed.
+It is important to state, however, that a commitment proceeding involving a parolee under R. C. 2967.22 is not a prosecution and does not entitle a parolee to the full panoply of rights granted to a defendant at or prior to trial. However, due process commands that the commitment of a parolee under this section be subject to certain basic principles of fundamental fairness among which are the following:
+1. That the parolee be granted a hearing thereon not more than fifteen days after a decision to commit has been made and that a representative of the adult parole authority be present at such hearing.
+2. Written notice of the date, time and place of the hearing be given to the parolee, his attorney and any other representative designated by the parolee.
+3. All the evidence upon which the proposed commitment is based be disclosed at said hearing.
+4. That the parolee, his attorney, or other representative designated by the parolee, be permitted to examine said evidence and be given the opportuntity to be heard and present evidence.
+5. While such hearing need not be formal in nature, it must be conducted by a neutral and detached person who need not be an attorney or judicial officer.
+6. That the findings made at such hearing be made available to the parolee, his attorney or other representative designated by the parolee.
+Since provisions for the hearing here outlined do not now exist, respondent is given sixty (60) days within which to make arrangements to provide for such hearing. If respondent fails to comply with this order within the said sixty (60) days, petitioner’s writ for habeas corpus will be granted and he will be ordered released from custody of the respondent and the Department of Mental Health and Retardation as of that date.
+It is so ordered.
+Judgment accordingly.
+Jackson. P. J., and Manos, J., concur.
