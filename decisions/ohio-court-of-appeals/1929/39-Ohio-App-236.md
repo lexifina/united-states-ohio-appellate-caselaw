@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-03-11"
+citations: ["39 Ohio App. 236"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vickery and Richards, JJ., concur.", "Judges Williams and Richards, of the Sixth Appellate District, sitting in place of Judges Levine and Sullivan, of the Eighth Appellate District."]
+parties: ["Powell et al. v. Jaffe et al."]
+source_url: "https://static.case.law/ohio-app/39/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1325436
+cites_cases: ["113 N. E., 664", "94 Ohio St., 93"]
+---
+
+# Powell v. Jaffe
+
+## Majority (Williams, J.)
+
+Williams, J.
+On the morning of December 1, 1926, there was a fire in a building known as Lafayette Apartments, located at 8820 Carnegie avenue, Cleveland, Ohio. This building contained nineteen suites or apartments, and was owned and controlled by tbe defendants Ray Jaffe and Libby Glaser. Tbe plaintiffs, David H. Powell and Mary O. Powell, occupied a suite as tenants on the third floor. The apartment house contained a shaft leading from the basement upward, which was constructed originally as a dumb waiter, but had not been used as such for some time. The fire came upward in the dumb waiter shaft and entered the apartment of the plaintiffs, causing damage to their household goods and personal property. Plaintiffs began suit in the court of common pleas against the defendants, to recover for -such damage. Upon trial of the case, the court below directed a verdict in favor of the defendants, and this proceeding in error is brought to reverse the judgment entered thereon.
+There is evidence in the record tending to show the following state of facts: A few months before the fire, the fire warden of the city notified the defendant Jaffe to close up the shaft and not use it as a paper chute. The defendant Jaffe complied by putting locks on every one of the doors. After-wards, the janitor of the building was told by the defendant Jaffe to use the dumb waiter as a paper chute, but to keep it clean. It also appears that before the time in question the janitor told the defendant Jaffe that he had had a couple of fires, and had put them out, and that the defendant Jaffe told him to be careful. The fire complained of occurred about 8 o’clock in the morning, but it does not appear from direct evidence whether it started in the bottom of the shaft or in the basement proper. The lead pipes which attach the piping to the meter were melted off, and there was an explosion in the basement. Much less damage was done by fire to the first story than to the others, and the explosion was not of sufficient force to substantially damage the walls of the basement or the floor of the story immediately above. It appears one of the tenants of the building testified that on the night before the fire she and her sisters detected an odor of smoke as of burning paper in their apartment in the building.
+The plaintiff pleaded and offered in evidence Section 1483 of the Municipal Code of Cleveland, as follows:
+“Dumb waiters in a building shall be deemed freight elevators, and shall be enclosed accordingly, except that they need not extend to the roof, provided that they are fully fire proof at the bottom and at the uppermost story served in non-fireproof buildings, where dumb waiters are enclosed in shafts, the walls of such shafts shall be plaster and metal lathe. Provisions of Section 1460 and 1463 shall not apply to this section.”
+This section was in force before the' construction of the apartment building in question. Evidence was offered to show that the dumb waiter was not made fireproof in any way, and was of wood construction. This section was enacted for the public safety, and a violation of it would be negligence per se. Schell v. DuBois, Admr., 94 Ohio St., 93, 113 N. E., 664, L. R. A., 1917A, 710. The inference arises that if the dumb waiter had been fully fireproof at the bottom, and the walls of the shaft made of plaster and metal lathe, the fire starting in the basement would not have been communicated to the shaft, and a fire originating in the- shaft would have expended itself by consuming the paper therein.
+We think there is also evidence tending to show that the owners in permitting the accumulation of waste paper in the shaft were guilty of negligence, and that such negligence was a proximate cause of plaintiffs’ damage. The accumulation of large quantities of inflammable waste material in the basement of a building is not necessarily actionable negligence, but if such accumulation constitutes a fire hazard, and the surrounding circumstances are such that it may reasonably be anticipated that the inflammable material will catch fire, the owners of the building who are in control thereof, by permitting inflammable waste material to so accumulate, would be guilty of negligence, and liable for damage directly caused to the property of tenants in the building by such negligence.
+It is claimed, however, that the plaintiffs are guilty of contributory negligence as a matter of law. The evidence shows that the basement and shaft were wholly under the control of the defendants, that the defendants had caused locks to be put on all doors entering into the dumb waiter, and, while plaintiffs did complain of paper in the shaft repeatedly, it does not appear that they knew at the time of the fire that the shaft contained waste paper that had not been cleaned out by the janitor. We cannot say that the plaintiffs were guilty of contributory negligence as a matter of law.
+For the reasons given, the court erred in directing a verdict in favor of the defendants, to the prejudice of plaintiffs in error.
+The claim is also made that the court erred in the exclusion of evidence. It appears from the record that the plaintiffs offered to prove that there were a number of fires in the paper in the bottom of the chute, and that those fires had been called to the attention of the owners. Conversations with the owners or either of them regarding fires which took place in the paper at the bottom of the chute shortly before the time in question would be competent evidence. The court should have permitted the plaintiffs to offer such evidence, and the exclusion of it was prejudicial error.
+For the reasons given, the judgment of the court below is reversed, and the cause is remanded for new trial.
+Judgment reversed and cause remanded.
+Vickery and Richards, JJ., concur.
+Judges Williams and Richards, of the Sixth Appellate District, sitting in place of Judges Levine and Sullivan, of the Eighth Appellate District.
