@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "93CA005680"
+decided: "1994-03-02"
+citations: ["93 Ohio App. 3d 363"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillin and Baird, JJ., concur."]
+parties: ["NORD COMMUNITY MENTAL HEALTH CENTER et al., Appellees, v. COUNTY OF LORAIN, Ohio et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/93/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1754449
+cites_cases: ["16 O.O.3d 73", "1990 WL 103572", "403 N.E.2d 200", "467 U.S. 837", "608 N.E.2d 786", "62 Ohio St.2d 87", "79 Ohio App.3d 838"]
+---
+
+# Nord Community Mental Health Center v. County of Lorain
+
+## Majority (Reece, Presiding Judge.)
+
+Reece, Presiding Judge.
+Defendants-appellants, Lorain County, the county commissioners and administrator (“the county”), appeal the trial court’s decision dismissing this action for lack of subject-matter jurisdiction. We affirm.
+The plaintiffs-appellees in this case were a number of non-profit corporations that participated in a health plan the county ran. This plan covered the health care expenses of the employees of the county, the non-profit corporations, and other political entities in Lorain County. These expenses were paid from a fund financed by the employers in the plan. Eventually, it was learned that the plan was insufficiently ■ funded and the county asked the participants for additional contributions to liquidate the deficit. The non-profit corporations filed suit seeking declaratory judgment finding they were not obligated to make additional payments to the county. The non-profit corporations based their complaint on the claim that the county was an insurer and therefore they were not required to pay additional premiums. The county asserted that the health plan was a pooling arrangement between the county and the other employers and therefore all employers were required to make up the deficiency by contributing their pro rata share. The trial court tried the issue of liability to a jury that found the nonprofit corporations were liable for their pro rata share of the deficit.
+The non-profit corporations moved to dismiss the claims, as the health plan was an employee benefit welfare plan within the meaning of the Employee Retirement Income Security Act (“ERISA”), Section 1001 et seq., Title 29, U.S.Code, and ERISA preempted the trial court’s jurisdiction. The trial court overruled the motion to dismiss on May 26, 1993. In a separate matter, the Federal District Court for the Northern District of Ohio found that this health plan was subject to ERISA and that questions regarding the plan were within the exclusive jurisdiction of the federal court. Legal Aid Soc. of Lorain Cty., Inc. v. Lorain Cty. Health Plan (May 28, 1993), No. 91CV1438, unreported, order denying county’s motion to dismiss for lack of subject-matter jurisdiction. The non-profit corporations moved the trial court to reconsider its decision finding it had subject-matter jurisdiction; on August 2, 1993, the trial court found that it lacked subject-matter jurisdiction and dismissed the actions. The county appeals this order, raising as its sole assignment of error the propriety of the trial court’s dismissal of these claims.
+Initially, the county asserts that the non-profit corporations were precluded from asserting that the trial court lacked jurisdiction. However, it is axiomatic that subject-matter jurisdiction cannot be waived, cannot be conferred upon a court by agreement of the parties, and may be the basis for sua sponte dismissal. Logan v. Vice (1992), 79 Ohio App.3d 838, 842, 608 N.E.2d 786, 788-789; In re Claim of King (1980), 62 Ohio St.2d 87, 89, 16 O.O.3d 73, 74, 403 N.E.2d 200, 201-202. In this case, the trial court would have been required to dismiss the action for lack of subject-matter jurisdiction whenever it determined such jurisdiction was lacking.
+The remaining question is whether the trial court correctly determined that ERISA covered this plan. If ERISA applied to this plan, then the federal court would have exclusive jurisdiction to hear this case. Section 1132(e), Title 29, U.S.Code. ERISA’s coverage section provides:
+“(a) * * * this title shall apply to any employee benefit plan if it is established or maintained—
+“(1) by any employer engaged in commerce or in any industry or activity affecting commerce; or
+“(2) by any employee organization or organizations representing employees engaged in commerce or in any industry or activity affecting commerce; or
+“(3) by both.
+“(b) The provisions of this title shall not apply to any employee benefit plan if—
+“(1) such plan is a governmental plan * * Section 1003, Title 29, U.S.Code.
+The county asserts that this is a governmental plan and accordingly not subject to ERISA. Section 1002(32), Title 29, U.S.Code defines a “governmental plan” as “a plan established or maintained for its employees * * * by the government of any State or political subdivision thereof, or by any agency or instrumentality [of a state or its political subdivision].”
+The county asserts that the health plan was a governmental plan because it “established and maintained the plan for its employees.” The non-profit corporations assert that the health plan cannot be a governmental plan because it included non-governmental employers and employees.
+Two federal authorities have considered whether this health plan is governed by ERISA, the United States Department of Labor and the District Court for the Northern District of Ohio. The Department of Labor is the agency given principal responsibility to administer ERISA. See Sections 1002(2)(B), 1002(13), 1134, 1135, Title 29, U.S.Code. The Department of Labor stated in a report of records examination that:
+“[T]he Lorain County Health Plan (LCHP) was initially established to provide benefits to the employees of Lorain County, Ohio and thus was a governmental plan not covered by Title I of ERISA. At some point prior to 1989, certain not-for-profit corporations (NFPs) were allowed to join the LCHP, thus transforming the LCHP into a [Multiple Employer Welfare Arrangement Section 1002(40)(A), Title 29, U.S.Code] and establishing covered plans by the NFPs.”
+Further, the Lorain County Commissioners received a letter from the Cincinnati Office of the Department of Labor stating that this plan was subject to ERISA.
+The Federal Court of the Northern District of Ohio considered these opinions when deciding whether to dismiss a claim under this plan for lack of federal jurisdiction. Legal Aid Soc. of Lorain Cty., supra, at 3. It decided that the plan was governed by ERISA, and within its exclusive jurisdiction, based on Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc. (1984), 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694. In Chevron, the court stated that if a statute which an administrative agency is intended to administer is silent or ambiguous with respect to an issue in question, the question for a reviewing court is whether an agency’s interpretation, if any, is based on a permissible construction of the statute. Id., 467 U.S. at 843, 104 S.Ct. at 2782, 81 L.Ed.2d at 703. This rule follows the court’s longstanding recognition that considerable weight should be accorded an executive department’s construction of a statutory scheme it is entrusted to administer. Id., 467 U.S. at 844, 104 S.Ct. at 2782-2783, 81 L.Ed.2d at 704. Thus, the court in Legal Aid Soc. of Lorain Cty. determined that the Department of Labor’s opinion that the health plan was controlled by ERISA was reasonable. We agree. At least one other court has found that the inclusion of non-governmental employees and employers is a factor that leads to a finding that a health plan including a governmental entity is subject to ERISA. Brooks v. Chicago Hous. Auth. (July 5, 1990), N.D.Illinois No. 89C9304, unreported, 1990 WL 103572. The county cites no authority which provides that an employee benefit plan can include non-governmental employers or employees and be defined a “governmental plan” in ERISA. Accordingly, the county’s assignment of error is overruled.
+The trial court’s judgment is affirmed.
+Judgment affirmed.
+Quillin and Baird, JJ., concur.
