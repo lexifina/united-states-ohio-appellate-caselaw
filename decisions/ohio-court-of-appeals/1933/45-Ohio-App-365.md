@@ -1,0 +1,28 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1933-02-14"
+citations: ["45 Ohio App. 365", "15 Ohio Law Abs. 177"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Blosser, P. J., and Middleton, J., concur."]
+parties: ["In re Whisner, Member of Board of Education."]
+source_url: "https://static.case.law/ohio-app/45/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336777
+---
+
+# In re Whisner
+
+## Majority (Mauck, J.)
+
+Mauck, J.
+Acting under favor of the provisions of Section 10-1, General Code, a written complaint was filed in the court of common pleas of Brown county, signed by the requisite number of electors of the Russelville-Jeffersonville school district, praying for the removal of Walter Whisner, a member of the hoard of education of that district. The court found the fourth specification of alleged wrongdoing true, and entered an order of removal. This is a proceeding in error to reverse that order.
+' The fourth specification reads as follows: “4. That the said Walter Whisner maliciously and wilfully conspired with Edgar Layton and Wilford L. Faul, who were also members of said board of education, to defeat the best interests of said school by failing and refusing to assist the other members of said board of education to elect a teacher for the first and second grades of said school and the third and fourth grades of said school, but to compel the acceptance by said board of education, as teachers for said respective grades, the sister of the said Edgar Layton and the sister of the said Wilford L. Faul, although numerous applications had been filed by (with) said board by persons duly qualified to teach said grades, and the said Walter Whisner wilfully and flagrantly refused and wilfully neglected to perform his official duty in the election of teacher by said board, but left teachers for said grades unelected and unemployed until the county board of education of said county was compelled to, and did, elect teachers for said grades.”
+The sufficiency of this specification and its application to the conduct charged to the respondent is to be determined by Section 10-1, General Code. The language in that section upon which the complainants justify removal in the instant case is that providing for the removal of an officer “who * * * refuses or wilfully neglects to enforce the law, or to perform any official duty now or hereafter imposed upon him by law.”
+The particular claim is that Whisner refused to perform the duty of electing school teachers. The facts were that Whisner and two other members of the board, Layton and Faul, constituted one faction as against the other two members, Paeltz and Reisinger. The majority faction favored the selection of a sister of Layton as one teacher and a sister of Faul as another. Paeltz and Reisinger were opposed to both. These applicants, therefore, because their respective brothers were not qualified to vote for them, could only get the vote of Whisner aiid the other qualified member of the majority faction. There thus resulted a two to two tie, and no teacher was selected for either of these places. The county board was asked to intervene earlier, under Section 7610-1, General Code, but deferred action until school opened in September, when the county board selected teachers.
+This action on the part of the respondent may be described as a firm adherence to the righteous purpose of securing the best teacher, or it may be described as a stubborn effort to promote the fortunes of a faction. It does not appear, however, in either interpretation, to be such a violation of law as is covered by Section 10-1, General Code. That section is not designed to cure all the mistakes the electors make in the selection of public officials. So far as this case is concerned it only warrants a removal for the failure to perform an official duty imposed by law.
+It is argued that there rested on Whisner the duty of selecting teachers. He could not have had that duty unless he had that power. He did not have the power. The power and the duty of selecting teachers rest upon the board of education as a whole. The power and duty of the individual members of the board are to vote according to their best judgment, and it cannot be said that Whisner did not do this. It may have been an error in judgment for him to have continued to stick to his candidates until school opened; but if he believed them to be the best possible selections, he was entitled to the view that when the county board took its inevitable action his candidates would be selected by the county board, and his pertinacity would thus triumph; but'he in no way can be said to have failed to perform a duty imposed by law. To illustrate: Where a duty is imposed by law, mandamus lies to compel an officer to perform that duty. Suppose that a writ of mandamus had issued against Whisner. It could not have been a writ compelling him to elect or help elect a teacher. It could only have been a writ commanding him to vote acording to his best judgment, and when he answered that he had so performed the court would have exhausted its power.
+Our conclusion is that there was no evidence warranting a removal on any ground. The trial court on the undisputed evidence should have dismissed the complaint. Proceeding to render the judgment that the trial court should have entered, the order of that court is reversed, and the complaint is dismissed.
+Order reversed and complaint dismissed.
+Blosser, P. J., and Middleton, J., concur.
