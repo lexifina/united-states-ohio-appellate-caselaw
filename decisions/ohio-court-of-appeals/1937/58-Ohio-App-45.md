@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1937-10-08"
+citations: ["58 Ohio App. 45"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ross, P. J., and Matthews, J., concur."]
+parties: ["The State, ex rel. Longman et al., v. Welsh et al."]
+source_url: "https://static.case.law/ohio-app/58/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1355599
+cites_cases: ["131 Ohio St., 506"]
+---
+
+# State ex rel. Longman v. Welsh
+
+## Majority (Hamilton, J.)
+
+Hamilton, J.
+This is an original action in mandamus, by which the relators seek to compel the respondents to transfer for school purposes certain territory from the Butler county school district to the Warren county school district.
+It appears in the petition, by the exhibits thereto attached, that the basis for the transfer sought is a petition with the following heading, which appears to have been filed with the Board of Education of Butler county, Ohio:
+“To the Board of Education of Butler county, Ohio.
+“We, the undersigned, being in excess of seventy-five per cent of the qualified resident electors residing in the territory designed and defined by the attached maps, being a part of Butler county school district, Butler county, Ohio, contiguous to Warren county school district, do hereby petition and request that the territory so designated be transferred from the Butler county school district to the Warren county school district, for school purposes.”
+With this petition, filed with the board of education, a certain map, marked Exhibit B and attached to the petition in this cause, was filed, which contains the names of property holders and the lines of their property. On the bottom of the map is marked “Madison Twp. Butler county.” The top of the map is marked “County line,” but does not show what adjacent county is contiguous to this line marked “County line.” On this petition of the property holders filed with the board of education, and the map attached, the board of education refused to make the transfer. Whereupon, the relators instituted this action.
+To this petition the respondents filed an answer, in which they deny generally and specifically each and every allegation contained in the petition and not admitted to be true in the answer.
+The several defenses are that the territory proposed to be transferred is not contiguous to Warren county school district; that the transfer of this territory would seriously injure and impair the operation and efficiency of the Madison township rural school district and the school system of Butler county, Ohio; that the transfer of the territory would be expensive and cause great duplication in the operation; that the transfer of the territory would contribute to and cause dissatisfaction among the pupils and persons living in the territory and result in breaking down the morale and best interests of the Madison township rural school district; and that the question of the issuing of bonds and constructing a new school building at Poastown, Ohio, was submitted to the. qualified electors of the Madison township rural school district on the 18th day of August, 1986, and was carried by a vote of the majority of the people, a part of whom were voters who signed the petition for the transfer, and it is urged that they should be estopped from further action in the transfer.
+Further answering, the respondents say that at the time of the circulation of the petition for the transfer of the territory, the petition had no map attached, and contained no description of the territory sought to be transferred, and that the signers of the petition did not know the description of the territory.
+In the answer the respondents further challenge the constitutionality of Section 4696, General Code, as being contrary to Article I, Section 1 of the Constitution of Ohio, and contrary to the 5th Amendment to the Constitution of the United States.
+To this answer the relators filed a general demurrer.
+Since the general demurrer searches the record, we will examine the petition of the relators.
+The transfer is sought by the relators under authority of Section 4696, General Code, which provides among other things:
+“A county board of education may, upon a petition of a majority of the electors residing in the territory to be transferred, transfer a part or all of a school district of the county school district to an exempted village, city or county school district, the territory of which is contiguous thereto. Upon petition of seventy-five per cent of the electors in the territory proposed to be transferred the county board of education shall make such transfer. * * *”
+It is admitted that seventy-five per cent of the electors indicated on the map filed with the board of education, signed the petition.
+It will be noted that Section 4696, General Code, does not require the filing of a map or description of any particular kind. It must be read in connection with Section 4692, General Code, which is a part of the school code, which provides:
+“Such transfer shall not take effect until a map is filed with the auditor of the county in which the transferred territory is situated, showing the boundaries of the territory transferred.”
+Whether the particular 'description of the property sought to be transferred, and an actual map showing the boundaries of the territory sought to- be transferred and the district to which transfer is to be made should be attached to the petition before signing, quaere ? But, certainly, such accurate description and an accurate map must be filed with the board of education before it could make the legal transfer of the property sought, otherwise it could not complete the transfer. Such map must also be filed with the county auditor. That raises the question as to whether the map is such a one as would require consideration by the board. We have stated all that the map shows.
+Would the board of education be expected to transfer the property to the designated county line without naming even the county to which it is' sought to be attached?
+If we consider the petition filed with the board of education, all it provides for is the transfer of the territory defined by the attached maps, which territory is a part of the Butler county rural school district, and asks that it be transferred to the Warren county rural school district. Section 4696, General Code, does not provide for such a transfer. It provides that part or all of a school district of the county school district may be transferred to an exempted village, city or county school district. There is nothing in the petition which shows that it suggests the territory is to be attached to any such exempted village, city, or county school district, except the one phrase county school district, which is without designating any county, and without designating such county on the map and description of the territory. True, the petition refers to the Warren county rural school- district. That is indefinite, in that the Warren county school district is composed of many school districts, and there is nothing to show to which district in Warren county the relators ask the property to be attached.
+The petition recites, that the board of education has ignored the petition for transfer set forth in Exhibit A, and that the Madison township rural school district, the Butler county school district, the Carlisle rural school district, and the Warren county school district have failed to consider the transfer of this territory in submitting their plan of organization to the Director of Education, as set forth in the petition and map.
+The petition further recites that the relators' duly presented to and filed with the Butler county rural school district a certain petition asking that the territory so defined in the map attached to the petition, marked Exhibit A, be transferred from Madison township, Butler county, to Carlisle rural school district of Warren county, for school purposes.
+If the property in question is a part of a rural school district in Butler county, and relators seek to have it attached to another rural school district, in Warren county, then the petition does not show any right to the relief prayed for.
+In the case of State, ex rel. Hall, v. Miami County Board of Education, 131 Ohio St., 506, 3 N. E. (2d), 421, the relators alleged that they filed with the respondents a petition, signed by more than seventy-five per cent of the resident electors of the territory, requesting the transfer of a porti.on of the Union township rural school district, Miami county, to the Monroe township rural school district, Darke county, and that the transfer was refused. The court in refusing the writ of mandamus, said:
+“On consideration whereof, it is ordered and adjudged that the writ of mandamus be, and the same hereby is, denied on the ground that there exists no such school district as that named in the petition for transfer and that Section 4696, General Code, does not authorize the transfer of territory from one rural school district in one county to another rural school district in another county.”
+Our conclusion, therefore, is that the petition for transfer and the map filed with the board of education do not sufficiently present to the board of education facts upon which it could act under the law. The relators have not brought themselves within the law, and are, therefore, not entitled to the relief prayed for.
+The demurrer will be sustained as to the petition, and the petition dismissed, at the costs of the relators.
+Petition dismissed.
+Ross, P. J., and Matthews, J., concur.
