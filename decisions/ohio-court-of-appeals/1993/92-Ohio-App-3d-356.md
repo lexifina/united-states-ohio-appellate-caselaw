@@ -1,0 +1,88 @@
+---
+court: "Ohio Court of Appeals"
+docket: "92AP-1613"
+decided: "1993-05-04"
+citations: ["92 Ohio App. 3d 356"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Petree and Reilly, JJ., concur.", "Archer E. Reilly, J., retired, of the Tenth Appellate District, assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution."]
+parties: ["HANDLER, Appellant, v. MERRILL LYNCH LIFE AGENCY, INC., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/92/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1706820
+cites_cases: ["15 OBR 22", "15 Ohio App.3d 1", "19 OBR 261", "19 OBR 85", "19 Ohio App.3d 19", "19 Ohio St.3d 100", "1991 WL 64907", "375 N.E.2d 46", "454 N.E.2d 1343", "46 Ohio St.3d 134", "472 N.E.2d 765", "482 N.E.2d 969", "483 N.E.2d 150", "54 Ohio St.2d 64", "545 N.E.2d 1244", "570 N.E.2d 1095", "59 Ohio St.3d 108", "7 OBR 272", "7 Ohio App.3d 211", "8 O.O.3d 73"]
+---
+
+# Handler v. Merrill Lynch Life Agency, Inc.
+
+## Majority (Bowman, Judge.)
+
+Bowman, Judge.
+On September 19, 1991, appellant, Judith Handler, filed a complaint against appellee, Merrill Lynch Life Agency, Inc. (“Merrill Lynch”), alleging breach of employment contract, promissory estoppel, and intentional infliction of emotional distress, all arising out of Merrill Lynch’s termination of her employment. According to Handler, Merrill Lynch had represented to her that her job was secure so long as she performed her duties appropriately, that the employment handbook set forth Merrill Lynch’s disciplinary procedures, and that Merrill Lynch had not complied with the requirements of the employee handbook in terminating her employment.
+Specifically, Handler asserted that Merrill Lynch had orally represented to her that her job would be secure if she performed her services in a competent manner and worked overtime without being paid. Handler claimed that, despite these oral assurances, Merrill Lynch terminated her employment, apparently based upon a conflict Handler had with a supervisor.
+In a September 1992 decision, the trial court granted summary judgment to Merrill Lynch on the basis that the handbook contained a disclaimer, and that Handler had failed to rebut the disclaimer with evidence that oral representations made to Handler had altered the terms of the at-will employment relationship. The cotut additionally determined that Handler had failed to submit any evidence that Handler relied to her detriment on anything Merrill Lynch may have told her regarding her employment, thus rejecting her claim of promissory estoppel. Finally, regarding Handler’s claim of intentional infliction of emotional distress, the court determined that Handler had failed to present any evidence that Merrill Lynch’s conduct was extreme or outrageous and, therefore, that she could not prevail upon this claim.
+Handler now appeals, asserting as her sole assignment of error that:
+“The trial court erred in granting the motion for summary judgment.”
+Summary judgment is a procedural device used to avoid a trial when there are no remaining issues of fact to be tried. Summary judgment must be awarded with caution and is reserved for cases where the trial court, construing the facts in a light most favorable to the nonmovant, determines there are no genuine issues of material fact and that the movant is entitled to judgment as a matter of law. Harless v. Willis Day Warehousing Co. (1978), 54 Ohio St.2d 64, 8 O.O.3d 73, 375 N.E.2d 46. Merrill Lynch’s motion for summary judgment forced Handler to produce evidence on any issue for which she would bear the burden of production at trial. See Wing v. Anchor Media, Ltd. of Texas (1991), 59 Ohio St.3d 108, 111, 570 N.E.2d 1095, 1099.
+Handler argues that her deposition established the elements of her claims against Merrill Lynch, thus defeating the company’s motion for summary judgment. In her deposition, Handler testified that, in August 1985, Donald Sibbing hired her on behalf of Merrill Lynch as an insurance administrator for its Columbus office. She stated that, during the interview, Sibbing represented to her that, so long as her work was satisfactory and she worked overtime without seeking compensation for it, her job would be secure. However, when questioned more specifically about what Sibbing told her, Handler stated that:
+“A. Well, I remember distinctly that we discussed the benefits of working for Merrill Lynch.
+“Q. What were those?
+“A. Stability.
+“Q. What do you mean by stability? What was said?
+“A. This was a company that you were safe with that you could stay with until you retired, and they provided such good benefits which, unfortunately, I hadn’t had before. So I was really looking to help myself with future retirement. * * *
+“Q. * * * [D]id Mr. Sibbing tell you this?
+“A. He told me what they offered, yes.
+“Q. What did he tell you?
+“A. He told me about the different investment programs, the health insurance. He told me about the bonuses I could receive as an administrator if we did enough production. He told me about being able to grow into the position.”
+Handler said that Sibbing was her supervisor until his employment was terminated in December 1988, and Tom Lover became her supervisor. Then, in July 1989, Robert Bedritis became her supervisor, Lover having apparently been promoted.
+In May 1989, Handler was put on three months’ probation, but alleges that she was not told why. Handler said that no one in the company would discuss the reason for her probation until October 1989, when she saw her former boss, Lover, at a meeting in Baltimore. Lover indicated that her probation had been due to an attitude problem, and that her conduct had been unacceptable, but Handler testified that Lover did not tell her anything more specific than this.
+Handler said that, when she returned to Columbus after the October 1989 meeting, she was again placed on probation, this time by Bedritis. Handler testified that Bedritis explained the probation as being due to her disloyalty to him because she revealed information about the Columbus office to Lover during the Baltimore trip. She said she was asked to sign a letter of probation, but that she refused on the basis that it contained false information.
+Handler stated that, in December 1989, she and Bedritis were getting along better and that she had requested, and obtained, his agreement to remove her informally from probation. Handler testified that Bedritis even gave her a Christmas gift, but that when she reported for work on December 26, 1989, Bedritis simply told her to pack her things and get out. Handler claimed she had no indication prior to her termination that Bedritis was unhappy with her work, nor did Bedritis discuss with her the reason for her termination, which she claims was against the company policy as set forth in Merrill Lynch’s employee handbook.
+After being fired, Handler said she was too depressed to look for work. She indicated that, although she did obtain a position four months after her termination of employment, she was only able to work another four months before having to quit. She stated that she was unemployed from August 1990 to March 1991, had little motivation to seek employment due to her depression, and could not recall whether she had contacted a “headhunter” firm for assistance. She said she was mentally ill and could not go out of the house, and that she was experiencing “flashbacks” of the day she was fired. Additionally, Handler said she was seeing a psychiatrist who prescribed Prozac, an antidepressant, for her. However, Handler concedes she is not pursuing this claim on appeal.
+Handler indicated that she did not have copies of any documents regarding employment given her by Merrill Lynch, nor did she have a copy of the employee handbook. Handler described her job interview in which she said Merrill Lynch had represented to her that if she worked for the company she would have job stability. Regarding Handler’s understanding of the terms of her oral contract of employment, the following exchange occurred during the deposition:
+“I would like for you to describe the terms of that oral contract of employment.
+“A. There was a job opening. The duties were orally given to me.
+“Q. This is for the position you held?
+“A. Yes.
+“Q. Okay. Orally given to you by Mr. Sibbing?
+“A. Mr. Sibbing. If you do this work, you will then receive—
+“Q. Is that what he told you?
+“A. No.
+“Q. What did he tell you?
+“A When you interview for a job and you are offered a position and you accept the position — they were also in the employment forms. There was a whole employment package where you agree to numerous things regarding Merrill Lynch.
+“Q. Those are the ones you don’t remember exactly what they were?
+“A No. But when you are employed by a company, you are employed to do a job. And as long as you do that job, you are compensated and you have that position.
+“Q. But Mr. Sibbing didn’t tell you that?
+“A. No.
+“Q. Any other basis for your oral contract for employment?
+“A. None that I can remember right now.
+“Q. Is there anything that would refresh your memory as to what was your basis for your oral contract of employment?
+“A Possibly my employment file where I had copies of everything I signed.
+“Q. I mean you are talking here about an oral contract of employment. I am not talking about specific documents. I am talking about any other representation other than what you have already told me to constitute this contract of employment.
+“A No.”
+Regarding her claim of lost earnings, Handler pointed to her lost wages, and the fact that she had to cash in her IRA and lost her health insurance. She also indicated that she lost her retirement funds, and the benefit of Merrill Lynch’s retirement plan, her 401K, and the company’s contribution to her retirement plan. However, Handler gave no specific dollar amounts for these claimed losses.
+In reference to her claim that she relied upon representations by the company that her employment would be secure if she worked overtime without compensation, Handler stated as follows:
+“Q. How did you rely on those representation^]?
+“A If I am an employee and I get something in writing and meetings and I am told this is going to happen and it is represented to me by people that I trust and respect, I take it they are going to happen.
+“Q. So you are relying on you [sic] believe [sic] they were going to happen?
+“A. No. I was led to believe it was going to happen. I was very proud to work for Merrill Lynch. And through the meetings and all the communication from my superiors from the offices of Life Agency, we were bombarded with communication.”
+According to Handler, Sibbing initially requested that she work overtime without compensation but that, upon the arrival of the new supervisors, this requirement was not enforced. She claimed that there were memoranda from the home office requiring the working of overtime, but she did not have those memoranda. Handler indicated that Lover had told her not to worry, that her job was secure, but she admitted that his statement was in response to her .inquiry after Sibbing had been fired.
+In Mers v. Dispatch Printing Co. (1985), 19 Ohio St.3d 100, 19 OBR 261, 483 N.E.2d 150, the court set forth two exceptions to the long-standing employment-at-will doctrine: implied contract and promissory estoppel. With regard to implied contract, Mers stated, 19 Ohio St.3d at 104, 19 OBR at 264, 483 N.E.2d at 154:
+“[T]he facts and circumstances surrounding an oral employment-at-will agreement, including the character of the employment, custom, the course of dealing between the parties, company policy, or any other fact which may illuminate the question, can be considered by the trier of fact in order to determine the agreement’s explicit and implicit terms concerning discharge. * * *”
+The majority of Ohio cases dealing with the employment-at-will doctrine have held that an employment handbook or oral promises or assurances can create an implied contract not to discharge except for just cause. See Helle v. Landmark, Inc. (1984), 15 Ohio App.3d 1, 15 OBR 22, 472 N.E.2d 765; Jones v. E. Ctr. for Community Mental Health, Inc. (1984), 19 Ohio App.3d 19, 19 OBR 85, 482 N.E.2d 969; and Hedrick v. Ctr. for Comprehensive Alcoholism Treatment (1982), 7 Ohio App.3d 211, 7 OBR 272, 454 N.E.2d 1343. “[0]ral assurances which conflict with an employment manual’s disclaimers or induce an employee to disregard their significance will negate the effect of disclaimers which are intended to absolve the employer from liability.” Miller v. BancOhio Natl. Bank (Apr. 23, 1991), Franklin App. No. 90AP-380, unreported, 1991 WL 64907.
+Nevertheless, in order to overcome an employee handbook’s disclaimer and prove the existence of an implied contract, the plaintiff must be able to point to sufficient evidence regarding action by the employer that would reasonably lead an employee to believe that her employment is secure so long as she fulfills the current work standards. See Kelly v. Georgia-Pacific Corp. (1989), 46 Ohio St.3d 134, 139, 545 N.E.2d 1244, 1249-1250.
+The parties agree that the applicable employee handbook, titled “A Handbook for Supervisors and Managers,” contains the following disclaimer:
+“Merrill Lynch will continue to reward demonstrated good performance, as explained in this manual. However, the policies and procedures in this manual are not intended to create, and do not create, an employment contract for any employee. The Firm is free to terminate an employee at any time for any reason, just as an employee may resign at any time for any reason.”
+Absent fraud in the inducement, such a disclaimer precludes an employment contract other than at will based upon the terms of the employee handbook. Wing, 59 Ohio St.3d at 110, 570 N.E.2d at 1098-1099.
+The evidence presented by Handler in her deposition did not support her claim that Merrill Lynch committed fraud in the inducement by making oral assurances or promises of future employment to her which would have reasonably led her to believe her employment was secure, thereby altering the terms of the at-will employment contract. Other than apparently telling Handler at a job interview that Merrill Lynch was a company that provided security and stability for its employees, no representations were made to her which could reasonably be construed as promising future employment. Therefore, Handler failed to establish that she had an implied contract with Merrill Lynch which altered her status as an at-will employee.
+In addition, although Handler testified that she did not understand why she was placed on probation, the fact remains that, on two separate occasions and by two separate supervisors, she was placed upon probation. Attached to appellees’ motion for summary judgment are two letters to appellant dated May 16, 1989 and October 27, 1989, both expressing dissatisfaction with her work, particularly with regard to her failure to get to work on time. She therefore had an indication that Merrill Lynch was dissatisfied with her work prior to the termination of her employment. Even if anything Merrill Lynch initially did or said could reasonably have been understood to guarantee Handler future employment, the fact that she was disciplined negates her claim that she continued to believe her job was secure until her termination.
+Mers also articulated the elements of a claim for promissory estoppel, stating, at paragraph three of the syllabus, that:
+“The doctrine of promissory estoppel is applicable and binding to oral at-will employment agreements. The test in such cases is whether the employer should have reasonably expected its representation to be relied upon by its employee and, if so, whether the expected action or forbearance actually resulted and was detrimental to the employee.”
+In addition, “a promise of future benefits or opportunities without a specific promise of continued employment does not support a promissory estoppel exception to the well-established doctrine of employment at will.” Wing, 59 Ohio St.3d at 110-111, 570 N.E.2d at 1099.
+The facts in the case at bar do not support Handler’s claim of promissory estoppel, since, based upon the evidence presented by Handler, Merrill Lynch apparently made Handler no specific promise of continued employment. Moreover, Merrill Lynch reasonably cannot be construed to have expected any possible representations regarding Handler’s future employment to have been relied upon by Handler as altering her at-will status.
+Finally, even if Merrill Lynch made representations which were reasonably relied upon, Handler failed to sufficiently allege that detriment to her resulted. Handler indicated only that, following her termination, she was depressed and was unable to bring herself to seek other employment. Her mental state and failure to find other employment cannot be construed as an action or forbearance which was reasonably to be expected by Merrill Lynch.
+Based upon these considerations, we conclude that the trial court correctly determined that there were no genuine issues of material fact, and that Merrill Lynch was entitled to judgment as a matter of law. Handler’s assignment of error is overruled and the judgment of the trial court is affirmed.
+Judgment affirmed.
+Petree and Reilly, JJ., concur.
+Archer E. Reilly, J., retired, of the Tenth Appellate District, assigned to active duty under authority of Section 6(C), Article IV, Ohio Constitution.
