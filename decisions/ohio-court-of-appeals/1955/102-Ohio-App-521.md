@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+docket: "23421"
+decided: "1955-12-14"
+citations: ["102 Ohio App. 521"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kovachy, P. J., and Hurd, J., concur."]
+parties: ["Board of Education of Cleveland City School District, Appellee, v. Hecht et al., Appellants."]
+source_url: "https://static.case.law/ohio-app/102/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1425848
+cites_cases: ["100 Ohio St., 317", "125 N. E., 876", "165 Ohio St., 200", "31 N. E., 350", "49 Ohio St., 326", "90 Ohio App., 471"]
+---
+
+# Board of Education of Cleveland City School District v. Hecht
+
+## Majority (Skeel, J.)
+
+Skeel, J.
+This appeal on questions of law comes to this court from a judgment of the Common Pleas Court entered on the verdict of a jury in an appropriation case. The defendant claims errors in the introduction and rejection of evidence, in the charge of the court and in the refusal to give a requested charge before argument; error in the general charge; misjoinder of parties; and that the judgment is against the weight of the evidence.
+The defendant is the owner of nine acres of land facing the west side of Bast 162nd Street, somewhat north of Miles Avenue. The school board is appropriating the northerly two and one-half acres having a frontage of 175 feet on East 162nd Street and extending back 661 feet. This property, in conjunction with other adjacent property, totaling about 47 acres, was appropriated for war housing in 1943 by the United States government on a year-to-year lease. The War Housing Authority erected multiple dwellings for 84 families on this tract with the necessary sewers, water, gas, paving and landscaping. The defendant’s property here appropriated is the northerly 175 feet of the tract facing on East 162nd Street of the property leased by the government by its appropriation proceedings. The lease provided, as shown by the journal of the federal court:
+“* # * that there be vested in the United States of America the exclusive use of the land described in Schedule ‘A’ annexed for a period of one year with the right to renew from year to year for the duration of the war emergency, as determined by the President and three years thereafter, together with the right of the government to remove all improvements placed thereon by it at the termination of such use * *
+The journal is dated November 29, 1943. The defendant became the purchaser of the nine-acre parcel at forfeited land sale on August 1, 1945. This case was tried beginning June 4, and the verdict was returned on June 10, 1954. The rights of the federal government under its lease with power (if such provision is necessary) to remove all the installations placed on the property will not terminate until July 1, 1956.
+In an appropriation case the value of the property being-taken is to be determined as of the time of trial.
+In re Appropriation of Easement for Highway Purposes, 90 Ohio App., 471, 107 N. E. (2d), 387; Railroad Co. v. Perkins, 49 Ohio St., 326, 31 N. E., 350; Miami Conservancy District v. Bowers, 100 Ohio St., 317, 125 N. E., 876.
+At the time of trial the right of the federal government to remove the improvements was an absolute right whether the property involved was classified as real or personal property. In any event, the facts as to the installation of the improvements, the purpose for which they were to be used and the manner of their installation are not in dispute. The question to be decided about the character of the improvement under the circumstances is one of law and not of fact, so that the defendant’s request for charge before argument, which told the jury that they were to determine whether such improvements were in fact “real estate fixtures” and, therefore, part of the land, was properly refused. The fact that the court included in its general charge almost the entire substance of the special request to charge before argument does not change the legal question.
+There is conflicting evidence in the record as to whether the sewer, gas and water lines installed by the federal government for its own purposes would add any value to the land after the housing project had been removed, which the property owner defendant says “is the basic challenge between the parties in this case.” One fact in considering this question cannot be lost sight of, and that is on the date of trial the question whether the federal government would remove all the improvements was wholly within its power. The federal government as lessee was a proper party under the circumstances, and, even if damages were to include the value of the improvements, such value Avould not be fixed or determined by the extent to which such improvements increased the value of the freehold because the physical property belonged to the government with absolute right of removal and, until the question of removal had been determined, the physical value of such improvement was an asset of the United States. What might take place later, either by the abandonment or removal of the improvements, could not be considered as giving added value to owner defendants ’ property rights. All rights in the improvements were in the government and without the control of the landowner defendant. If any value should have been found for the improvements in the land at the time of the judgment, the court would have had to apportion it to the lessee, its then owner under the lease. Upon a reading of the record, under the surrounding circumstances, we cannot say that the verdict is not sustained by sufficient evidence.
+The defendant landowner claims that there is a defect of parties defendant because the United States government is not properly before the court. The record shows that before trial both the Housing Authority and the United States, through counsel and the United States District Attorney, obtained leave of court to become parties defendant, waived issuance of summons and entered their respective appearances. Whether the rights of the United States or the Housing Authority were protected by the manner in which they entered the case is no concern of this property-owner defendant. Such defendant cannot claim error on this ground.
+We find no error in the admission of the federal court journal entry fixing the government’s rights to the use of the property for war housing purposes. Such evidence was the best evidence of the separate rights of the landowner and the United States government under its lease.
+The claim of error with regard to the question on cross-examination as to the source of the landowner-defendant’s ownership of the property as coming from a forfeited land sale should not have been permitted, but such act on the part of the court was not of sufficient moment to prejudice such landowner-defendant’s rights, the price not being mentioned.
+We find, upon the whole record, substantial justice has been done, and for that reason the judgment is affirmed.
+Judgment affirmed.
+Kovachy, P. J., and Hurd, J., concur.
