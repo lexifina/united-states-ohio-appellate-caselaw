@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "OT-86-64"
+decided: "1987-09-04"
+citations: ["39 Ohio App. 3d 119"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Handwork, P.J., Connors and Glasser, JJ., concur."]
+parties: ["Chester Scaffolding, Inc., Appellant, v. Hanley, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/39/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6707009
+cites_cases: ["26 OBR 122", "26 Ohio St. 3d 142", "309 N.E. 2d 924", "37 Ohio St. 2d 150", "375 N.E. 2d 46", "497 N.E. 2d 969", "54 Ohio St. 2d 64", "66 O.O. 2d 311", "8 O.O. 3d 73"]
+---
+
+# Chester Scaffolding, Inc. v. Hanley
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause is before the court on appeal from a judgment of the Ottawa County Court of Common Pleas wherein that court rendered summary judgment in favor of Dolores Hanley, appellee. The facts of the case are as follows:
+Appellee’s deceased spouse, Donald Hanley, was employed by appellant, Chester Scaffolding, Inc., to work on repairs and renovation of the Perry Memorial at Put-In-Bay. On December 11, 1980,. decedent and two other workers were taken to the work site by boat. At approximately 11:00 a.m., decedent and his two fellow workers went to lunch. Decedent had consumed some alcoholic beverages prior to lunch. During lunch decedent consumed five to six beers. Decedent and his co-workers returned to the job and resumed work at approximately 12:30 p.m. The decedent and one co-worker ascended the scaffolding to a height exceeding two hundred feet. Decedent’s co-workers soon thereafter heard the sound of metal scraping metal and looked to see decedent fall to his death.
+The court below framed the sole issue as “* * * whether the death of decedent is compensable under the Ohio Workers’ Compensation Act when the decedent’s death resulted from a fall that occurred on a job site while decedent was intoxicated.” Appellant and appellee submitted motions for judgment on the briefs and ap-pellee’s response to appellant’s motion for judgment on the briefs. The court below treated the motions as motions for summary judgment and ruled in favor of .appellee. Appellant filed a timely notice of appeal and asserts the following sole assignment of error:
+“The court erred in finding that no genuine issue as to any material fact existed to prove decedent’s drunken state substantially contributed to his death.”
+Appellant’s assignment of error essentially contests the validity of the summary judgment. Summary judgment is controlled by Civ. R. 56(C), which states in pertinent part:
+“* * * Summary judgment shall be rendered forthwith if the pleading, depositions, answers to interrogatories, written admissions, affidavits, transcripts of evidence in the pending case, and written stipulations of fact, if any, timely filed in the action, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. No evidence or stipulation may be considered except as stated in this rule. A summary judgment shall not be rendered unless it appears from such evidence or stipulation and only therefrom, that reasonable minds can come to but one conclusion and that conclusion is adverse to the party against whom the motion for summary judgment is made, such party being entitled to have the evidence or stipulation construed most strongly in his favor. * * *”
+Summary judgment is proper only when it meets the prerequisites set forth in Harless v. Willis Day Warehousing Co. (1978), 54 Ohio St. 2d 64, 66, 8 O.O. 3d 73, 74, 375 N.E. 2d 46, 47, which states:
+“The appositeness of rendering a summary judgment hinges upon the tripartite demonstration: (1) that there is no genuine issue as to any material fact; (2) that the moving party is entitled to judgment as a matter of law; and (3) that reasonable minds can come to but one conclusion, and that conclusion is adverse to the party against whom the motion for summary judgment is made, who is entitled to have the evidence construed most strongly in his favor.”
+The party opposing the motion is entitled to have all admissible evidence construed most favorably in his behalf. Williams v. First United Church of Christ (1974), 37 Ohio St. 2d 150, 66 O.O. 2d 311, 309 N.E. 2d 924. Thus, if the party opposing a motion for summary judgment can show, through affidavits, depositions, or otherwise, being construed most strongly in his favor, that he has presented a genuine issue as to a material fact about which reasonable minds could differ, that party is entitled to have the motion for summary judgment denied.
+The version of Ohio’s Workers’ Compensation Act in effect at the time of decedent’s death, and therefore authoritative in the disposition of this case, “* * * does not make intoxication the basis of a separate defense to recovery of an award.” Phelps v. Positive Action Tool Co. (1986), 26 Ohio St. 3d 142, 143-144, 26 OBR 122, 123, 497 N.E. 2d 969, 970. Consequently, “[i]n order for compensation to be denied on the basis that an employee was intoxicated, ‘the employee must be so intoxicated, as shown by the evidence, that the court can say, as a matter of law, that the injury arose out of his drunken condition and not out of his employment.’ ” (Citations omitted.) Id. at 144, 26 OBR at 123, 497 N.E. 2d at 971.
+Applying the standard of Phelps, the only material fact upon which an issue can be raised in the case sub judice concerns the intoxication of decedent. Appellant must be able to adduce evidence sufficient to establish that decedent was “* * * incapacitate[d] * * * from following his occupation.” Id. at 144, 26 OBR at 124, 497 N.E. 2d at 971.
+Appellant proffers the blood-alcohol content of the decedent as proof sufficient to meet its substantial burden of proof. This evidence fails to sufficiently establish that decedent was incapacitated from following his occupation. Indeed, the evidence that decedent ascended two hundred feet of scaffolding in accordance with his employment vitiates any presumption of abandonment inferred from a measurement of decedent’s blood-alcohol content. Therefore, we find that there is no genuine issue as to any material fact. Moreover, since there is no issue as to the sole material fact of intoxication, we find that appellee is entitled to judgment as a matter of law because “[ijntoxication which does not incapacitate the employee from following his occupation is not sufficient to defeat the recovery of compensation * * *.” Id. In construing all admissible evidence most favorably in behalf of appellant we must hold that reasonable minds can come to but one conclusion, and that conclusion is adverse to appellant. Based on the foregoing, we find appellant’s sole assignment of error not well-taken.
+On consideration whereof, the court finds substantial justice has been done the party complaining, and the judgment of the Ottawa County Court of Common Pleas is affirmed. This cause is remanded to said court for execution of judgment and it is further ordered that appellant pay the court costs of this appeal.
+Judgment accordingly.
+Handwork, P.J., Connors and Glasser, JJ., concur.
