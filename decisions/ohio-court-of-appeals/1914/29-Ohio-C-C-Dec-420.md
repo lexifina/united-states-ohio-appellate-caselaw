@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1914-03"
+citations: ["29 Ohio C.C. Dec. 420"]
+reporter: "ohio-cc-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swing, Jones and Jones, JJ.", "Swing and Jones (E. H.), JJ., concur."]
+parties: ["Walter M. Yeatman et al. v. State ex rel. Stieringer."]
+source_url: "https://static.case.law/ohio-cc-dec/29/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1661697
+---
+
+# Yeatman v. Stieringer
+
+## Majority (JONES (O. B.), J.)
+
+JONES (O. B.), J.
+The question to be determined in this case is-whether the election held September 3, 1912, at which certáin proposed amendments to the constitution of Ohio were submitted to a vote of the people of the state, was a general election, or a special election within the terms used in See. 4944 G. C. which fixed the amount of compensation to be allowed to the judges and clerks of election.
+An act to provide for the election and assembling of the convention to amend the constitution, found in Sec. 4, 102 0. L. 298, conferred upon the constitutional convention authority to fix and prescribe the time, form and manner of submitting the proposed amendments, and in Sec. 5 provided how the election should be held and the returns made and canvassed.
+Under the authority conferred by this act the constitutional convention, by resolution, fixed the third day of September, 1912, as the date of the election, and provided in its schedule in that resolution under the head of “Method of Submission” that the separate proposed amendments should be submitted “at a special election to be held” on that date. This resolution further provided “said special election shall be held pursuant to all provisions of law applicable thereto, including special registration” and provided for the carrying on of said election, and prescribed a form for an official ballot headed as follows: “Official Ballot. Special Election Tuesday, September 3, 1912. Amendments to the Constitution.”
+The constitution as it stood prior to this election provided in Art. 17, See. 1, for the election of state and county officers on the first Tuesday after the first Monday in November in the even numbered years, and for election of all other elective officers on the same day in the odd numbered years; and in the latter part of Sec. 2 of this article in providing for the filling of vacancies “by. election at the first general election for the office which is vacant” it evidently refers to the November election provided for in this article as “a general election.”
+In the provisions found in Art. 16 of the constitution as it existed prior to this election, Sec. 1 provided for the submission of the proposed amendments “at the next election for senators and representatives.” Section 2 of the same article provided for the submission of the question as to whether it is necessary to call a constitutional convention “at the next election for members of the general assembly”; and Sec. 3 provided for the submission of the question as to whether a constitutional convention shall be held “at the general election” to be held in the year 1871 and in each twentieth year thereafter.
+Article 2, Sec. 2, fixes the date for the election of senators and representatives, and Art. 3, Sec. 1, fixes the date for the election of executive officers. The constitution of 1851 originally fixes this date as the second Tuesday in October, and after-wards, October 18, 1885, it was changed by amendment to the first Tuesday after the first Monday in November.
+Title 14 of the General Code is devoted to public elections, Chap. 2 therein providing for the time and notice of elections. Section 4826 therein provides for “all general elections” for the governor and other state and county officers, fixing it on the day provided by the constitution — the first Tuesday after the first Monday in November in the even numbered years.
+Sections 4831, 4835, 4836 and 4838 fix the time of elections of township and municipal officers and members of the board of education, all being as fixed by the constitutional provision the first Tuesday after the first Monday in November in the odd numbered years.
+In Sec. 4832 the “regular election” for township officers is referred to.
+Section 4829 provides for a “special election” to fill a vacancy in the office of congressman or member of the general assembly. Such election may be held and conducted as in case of a “regular election.”
+Section 4840 distinguishes between the submission of a question at a “special” election or at a “regular” election. And Sec. 4870 uses the phrase “at any general or special election.”
+Section 4941 makes full provision for special elections in registration cities.
+The term “November election” is repeatedly used in the statutes. It is referred to in Secs. 4845 and 4846 with reference to the fixing of election precincts, and in Secs. 4893, 4915, 4917, 4919, 4920, 4921 and 4925 with reference to registration.
+In Chap. 6, relating to primary elections, Sec. 4948 specifies that words and phrases in that chapter shall be construed as follows:
+“The words ‘November election,’ the election held on the first Tuesday after the first Monday in November in any year.
+“The words ‘general election,’ the November election in the years when state and county officers are to be elected.”
+Sections 4949, 4967 and 4980, relating to primary elections, use the term “general election”; and Sec. 4980 provides that “Affiliation shall be determined by a vote of the electors making application to vote, at the last general election held in even numbered years.”
+It therefore appears that the provisions of the constitution and the General Code recognize “regular” elections and “primary” elections, and “general” elections and “special” elections. The term ‘ regular election ’ ’ seems to be used in the same way and to mean the same thing as the term “general election.”
+The legislature lias, in See. 4948, construed the term “general election,” limiting it to the November election in even numbered years, while the language used in Sec. 4980 would seem to indicate there might be a general election held in odd numbered years.
+A careful consideration of all the constitutional provisions and statutes cited above compels the court to the opinion that the terms “general election” was intended to apply only to the elections held on the first Tuesday' after the first Monday of November both in the even and in the odd numbered years, and that all other elections would be special elections except the “primary elections,” which are another class and otherwise provided for. A general election is one held throughout the state at regularly recurring intervals for the purpose of electing public officers and possibly at the same time voting upon such public questions as might be then legally submitted, while a special election is one held at some other time to vote upon public questions or to elect officers to fill vacancies.
+It has been argued that the term “general” would necessarily be applied to every election that was state-wide and held at every polling place at the same time, but it can be readily seen that an election might be held on one question, such as the issue of state bonds for some public purpose or any other public question that might require a vote of the entire people of (he state. Such question, while general with respect to the state-wide interest, would not necessarily require such an election to be classed as a “general election.” The election of September 3, 1912, like any election held to amend or modify the provisions of the constitution, was of the utmost importance to all the eitzens of the state and involved matters of the greatest general interest to its voters. This particular election was denominated as a special election by the constitutional convent!)n that provided for it, and it certainly was special in that it was fixed for a day when no other question would engage the attention of the voters and each proposed amendment submitted might receive the special and undivided consideration of every voter.
+"We must therefore hold that this election was, in the meaning of the statute, a special election, and while the labor required of the judges and clerks in receiving and canvassing the votes may have been even more arduous than that of a general election, the question of payment for the full value of the services rendered is one that is not addressed to the court, and the court can only determine what has been provided by statute for such service.
+The judgment below is reversed.
+Swing and Jones (E. H.), JJ., concur.
