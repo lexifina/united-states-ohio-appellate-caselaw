@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-10-29"
+citations: ["33 Ohio App. 102"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Funk, P. J., and Pardee, J., concur."]
+parties: ["Muccino v. The Baltimore & Ohio Rd. Co."]
+source_url: "https://static.case.law/ohio-app/33/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1317097
+cites_cases: ["101 Ohio St., 1", "127 N. E., 411", "156 N. E., 614", "24 Ohio App., 183", "31 Colo., 102", "71 P., 1113"]
+---
+
+# Muccino v. Baltimore & Ohio Rd. Co.
+
+## Majority (Washburn, J.)
+
+Washburn, J.
+The Baltimore & Ohio Railroad Company brought an action in the common pleas court to appropriate certain land owned by Costanzo Muccino, the same being a city lot, with the buildings and improvements thereon, and being all the property owned by Muccino in that vicinity.
+Muccino filed a petition in error in this court claiming that there were several errors in the trial in the common pleas court, but really relying upon but two of such claimed errors: First, error in charge of the court on the subject of burden of proof; and, second, error in refusing to permit evidence of the claimed sale price of a certain other property in that vicinity, and the charge of the court on that subject.
+As to said first claimed error, the record discloses that the court charged as follows:
+“In this case, there is but a single question for you to determine, in order to arrive at a verdict, and that is, the fair and reasonable market value of the property in question, namely, the property of Costanzo Muccino, as it has been described in the evidence and the plaintiff’s petition, and concerning which you have listened to evidence.
+“In this case, the burden is on the property-owner, Costanzo Muccino, to show, by a preponderance of the evidence, what he claims as being the fair and reasonable market value of his property in question, before you may find the value claimed by him established in this case. ’ ’
+And later, after discussion had in the absence of the jury, the court recalled the jury, and charged as follows:
+“I said to you at the outset of these instructions that the burden was on the property-owner to show, by a preponderance of the evidence, what he claims as being the fair and reasonable market value of his property in question, before you may find the value claimed by him to be established in this case.
+• “It is suggested that that statement might be misleading as an instruction in this case, and therefore you will disregard it and not consider it. There are no pleadings filed in this case by the property-owner, in which he makes the claim. The claim is only made upon evidence, as to what he says it is worth. So that you will disregard the instruction that I gave you, to which I have just called your attention;
+“You will take into account, however, the remainder of the instructions given you, and weigh the evidence — that submitted by the property-owner and that submitted by the railroad company —and come to your conclusion, as I have before directed you.”
+It is apparent that the court, after mature consideration of the subject, reached the conclusion that the jury was called upon to act merely as an appraising or assessing board, basing its finding upon all the evidence submitted, and that there was no burden of proof resting upon either party; and we think that conclusion is justified by the holding in Martin v. City of Columbus, 101 Ohio St., 1, 127 N. E., 411.
+As to the other claimed error — that relating to the rejection of evidence of the sale price of other real estate in that vicinity — the record discloses that Muccino claimed the right to and did offer evidence in chief to prove that the “Botzum” property, which is near, and in many particulars similar, to Muccino’s property, sold for $50,000. shortly before said trial. Such evidence was given before the jury several times, but the court instructed the jury to disregard the same. Such evidence was also elicited by Muccino in cross-examination of the company’s witnesses, and a like ruling was made by the court.
+When the whole record is considered, including all that Muccino was allowed or offered to prove concerning it, the Botzum property transaction amounted simply to this: A man of doubtful financiar responsibility signed a written contract with the owner of the Botzum property, in which he agreed to purchase, and the owner agreed to sell, said property for $50,000, the purchaser paying $1,000 cash, and agreeing to pay the balance at the rate of $400 per month, and the purchaser thereupon took possession of said property and installed an illicit still therein, and made said $400 payments for several months, and until the use being made of said property was discovered by the police, when those operating the still were arrested and said purchaser left the city and could not thereafter be found.
+Was evidence of the selling price of said property admissible, either on direct or cross examination?
+As to whether evidence of sales of similarly situated property in the vicinity is admissible on direct examination there is a conflict in the authorities; one line of decisions, called the “Massachusetts doctrine,” favors the admissibility of such evidence, and the other, known as the “New York doctrine,” rejects such evidence. Loloff v. Sterling, 31 Colo., 102, 71 P., 1113.
+From our investigation we have not found that the Supreme Court of Ohio has indicated which of said rules should be followed in this state and it is not necessary for this court to decide that question in determining this case; but we are of the opinion that the better practice is to exclude such evidence on direct examination. Each party has an opportunity on cross-examination to develop all competent evidence as to other sales for the purpose of determining the weight to be given to the opinions of the witnesses as to value, and usually the ends of justice will be best promoted by confining the parties to such a course.
+As to whether such evidence is admissible on cross-examination, we have in a recently reported case, Naftzger v. State, 24 Ohio App., 183, 156 N. E., 614, stated the rule to be as follows:
+“1. In appropriation proceedings, evidence of actual sales of other lands and prices for which they were sold is competent, if they are similar in their situation, relative position, and other circumstances relating to value, and such sales are fair and open in the market.”
+But whether the evidence of the sale price of other property is offered on direct or cross-examination, in accordance with one or the other of the two rules hereinbefore referred to, the rule is well established that to be competent the evidence must relate to actual, bona fide sales of property which is similar in situation, relative position, and other circumstances relating to value; and the determination of the questions whether or not the evidence shows an actual sale sufficiently near in respect of time, and whether the situation and conditions surrounding the property which is the subject of the claimed sale are sufficiently similar to the property being appropriated to make the evidence of such sale price competent, must rest largely in the discretion of the trial judge. 2 Lewis on Eminent Domain (3d Ed.), Section 662. And, in the absence of a finding of an abuse of discretion in ruling on such matters, no error exists.
+Of course, until the trial judge has ruled that such sale price is competent, it is not proper for the attorney to include the same in his questions to the witness.
+The record discloses that the Botzum property and the property sought to be appropriated are very dissimilar as to buildings and improvements — a very important circumstance as to relative values; and there is evidence indicating that the transaction in reference to the Botzum property was not an actual, bona fide sale, and we do not find any abuse of discretion on the part of the trial judge in ruling out evidence of the sale price of the Botzum property, but, on the contrary, we think the record justifies the ruling.
+Our attention has been directed to the statement in the second paragraph of the syllabus, which was approved by the court, in the case of Cleveland Terminal & Valley Ry. Co. v. Gorsuch, 18 C. D., 468, which is as follows:
+“2. It is error, in appropriation proceedings, to exclude testimony as to the general selling price of land in the neighborhood, for a brief period prior to such proceedings. ’ ’
+Our attention is called also to the language in the opinion relative to the same matter.
+From an examination of the books, we think that the rule as above stated is not a correct one, and is not supported by the authorities. As has been said, there are two well-known rules upon this question, both recognized by text-writers and courts — one “allowing proof of the sales of similar property to that in question, made at or about the time of the taking,” to be given on direct examination, and the other not permitting it to be done on direct examination, but permitting it to be done on cross-examination; but neither of these rules permits a witness, upon direct examination, to state what “the general selling price of land in the neighborhood” is.
+An entirely different statement of said rule appears in the syllabus in the report of the foregoing case in 8 C. C. (N. S.), 297.
+Finding no prejudicial error, the judgment is affirmed.
+Judgment affirmed.
+Funk, P. J., and Pardee, J., concur.
+A like entry may be made in case No. 1704, Dunn, Jr., et al. v. Baltimore & Ohio Rd. Co. et al., and case No. 1705, Falasco v. Baltimore & Ohio Rd. Co. et al., which were tried at the same time and largely upon the same record.
