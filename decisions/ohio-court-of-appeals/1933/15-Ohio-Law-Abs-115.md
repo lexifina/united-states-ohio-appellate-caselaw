@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1369"
+decided: "1933-06"
+citations: ["15 Ohio Law Abs. 115"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SHERICK and MONTGOMERY, JJ, concur."]
+parties: ["MARTIN v BIRCHER"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651953
+cites_cases: ["16 Ohio, 408"]
+---
+
+# Martin v. Bircher
+
+## Majority (By LEMERT, J.)
+
+OPINION
+By LEMERT, J.
+The principal question raised in this case is that justices of the peace have no jurisdiction in forcible entry and detainer cases under contract of sale of real estate containing a forfeiture clause.
+Sec 1579-668 GC, creating the Municipal Court of the City of Canton, Sub-section I: “In all actions and proceedings of which justices of the peace, or such courts as may succeed justice of the peace courts, have or may be given jurisdiction.” Under this section of the statute the Municipal Court is granted the same jurisdiction as is granted to justices of the peace.
+The legal question therefore presented is, whether justices of the peace have jurisdiction of the subject matter under land contracts containing a forfeiture clause and involves the construction of the following statutes: ”
+Sec 10224 GC: “Justices of the Peace within and co-extensive with their respective counties shall have jurisdiction and authority (§5) to try the action oí; forcible entry and detention or the detention only of real property.”
+Sec 10232 GC: “Justices shall not have cognizance in any action (Sub-sec. 5) on contracts for real estate.” (Sub-Sec. 6) “In actions in which the title to real estate is sought to be recovered or may be drawn in question except in cases provided for in the next preceding section.”
+Sec 10447 GC: “in the manner hereinafter directed, any justice, within his proper county, may inquire as well against those who make unlawful and forcible entry into lands and tenements, and detain them as against those who have a lawful and peaceable entry into lands and tenements unlawfully and by force hold them. If upon such inquiry it be found that an unlawful and forcible entry has been made, and that the lands or tenements are held by force, or that after a lawful entry they are held unlawfully, then such justice shall cause the party complaining to have restitution thereof.”
+Sec 10449 GC. “Proceedings under this chapter may be had against tenants holding over their terms; in sales of real estate, orders, or other judicial process, when the judgment debtor was in possession at the time of the rendition of the judgment or decree, by virtue of which such sale was made; in sales by executors, administrators, guardians and on partition, when any of the parties to the petition were in possession at the commencement of the suit, after such sales so made on execution or otherwise, have been examined by the proper court and adjudged legal. Also when the defendant is an occupier of lands or tenements, without color of title and to which the coxnplainant has the right of possessioxi, or any other case of their unlawful detention.”
+See 10447 GC grants justices of the peace jurisdiction where the entry was unlawful arxd fox’cible and against those who have a lawful and peaceable entry into lands and tenements and unlawfully and by force hold them.
+The complaint in the instant case filed in the Municipal Court charges that “the said Fred H. Bircher did and has ever since the 8th day of December, 1932, and does still unlawfully and forcibly detain from the plaintiff possession of the following described premises.” This is the allegation and evidence that bring the case at bar uixder the second part of §10447 GC, where the entry was lawful and peaceable but withholding the possession of the same from the plaintiff unlawfully, thexx “such justice shall cause the party complaining to have restitution thereof.” So that the remedy of forcible entry and detainer extends to all cases of entry or maintenance of possession by act of force, and the person claiming such remedy is not limited in the foi'ce or the effect thereof. Where the complaint states, and the evidence proves, that the “defendant doth unlawfully and forcibly and with a strong hand detain,” etc., that is sufficient to give the justice of peace jurisdiction.
+8th Ohio, Yeager v Wilber; 16 Ohio, 408.
+The Supreme Court of Ohio has repeatedly held that the jurisdiction of a justice of the peace was not confined solely to the specific items set forth in §10449 GC, and held that under §10447 GC the justice of the peace had jux’isdiction. Ixi other words, the Supreme Court held that §10447 GC was a general statute axxd in effect included all of the specific causes set forth in §10449 GC and other causes not enumerated in §10449 GC.
+In the case of Trustees of Burton Township v Tuttle, 30 Oh St, page 62, this was an action to recover damages for unlawfully obstructing a public highway, brought before a justice of the peace, the statute granting jurisdiction to justices of the peace in actions of this kind, and in that case the defendant contended that the justice had xxo jurisdiction, for the reason that it involved the question of title to real estate, but, like in the forcible entry and detainer cases, the Legislature having granted jurisdiction to justices of the peace, the section of the statute involvixig the title to real estate had to give way to the special statutes giving jurisdiction.
+The Court of Appeals, in the case of Felger v Thompson, 27 Oh Ap, 310 (6 Abs 403) held the Municipal Court of the City of Columbus had jurisdiction in an action to enforce a forfeiture clause in a contract for the sale of real estate and its judgment thereon is not absolutely void.
+Counsel for the defendant, in oral argument, claimed that the Act creating the Municipal Court of Columbus was different from the Act creating the Municipal Court of the City of Canton. In the case just cited the court there refers to the Act creating the Municipal Court of Columbus as follows: “The Municipal Court shall have and exercise original jurisdiction within the limits of the City of Columbus as follows:
+In all actions and proceedings of winch justices of peace have or may be given jurisdiction,” and refers to actions in forcible entry and detention of real property.
+In the 12th Ohio Law Abstract, 459, the State ex Kennelly v Miller, Ohio Appeals, Franklin County, decided May 16, 1932: “The Municipal Court of the City of Columbus has jurisdiction in a forcible entry and detainer action to render judgment for restitution of property to the vendor under a land contract where there is an express provision for forfeiture contained in the contract.”
+“A justice of peace has no jurisdiction in a forcible detainer action by a vendor against the defaulting purchaser under a contract not providing for vendor’s repossession upon purchaser’s default.”
+The Court of Appeals in Kennelly v Miller, just cited, held that a justice of the Peace under a land contract had jurisdiction where the contract provided for a forfeiture, and the court also expressly held that if the land contract contains no forfeiture clause, that a justice of the peace has no jurisdiction.
+We are of the opinion that in all forcible entry and detainer cases the title to real estate is involved to the extent that the plaintiff must prove that at the time of the filing of the complaint that he was entitled to the possession of the premises described in the complaint, and to do that invokes the question of title to real estate, but by reason of the express statutes conferring jurisdiction upon justices of the peace to try cases of forcible entry and detainer, that those statutes modify §10232, GC, and that justices ol the peace have jurisdiction in forcible entry and detainer cases, notwithstanding the fact that they involve the question of title to real estate.
+In the case at bar the plaintiff, Mrs. Martin, notified the defendant in writing that the contract was forfeited by reason of the defendant defaulting in his payments, and when the Landlord’s Complaint was filed in the Municipal Court of Canton the contract had already been forfeited and the plaintiff below was entitled to possession by reason thereof.
+We are of the opinion that the Supreme Court of Ohio many years ago decided the question involved in this case, and that the same has become a fixed property right, and it becomes the duty of inferior courts to follow the decision of the Supreme Court of Ohio.
+Therefore, after a careful consideration of the instant case, we are of the opinion that the Common Pleas Court committed error in the reversal of the Municipal Court, and, so finding, the judgment of the Common Pleas Court is hereby reversed and the judgment and finding of the Municipal Court is sustained, and said cause is remanded to the Municipal Court for further proceedings according to law. Exceptions may be noted.
+SHERICK and MONTGOMERY, JJ, concur.
