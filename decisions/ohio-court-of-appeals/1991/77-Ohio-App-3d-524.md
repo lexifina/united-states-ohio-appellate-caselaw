@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "91-P-2299"
+decided: "1991-10-02"
+citations: ["77 Ohio App. 3d 524"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Joseph E. Mahoney and Nader, JJ., concur."]
+parties: ["CLARK, Appellant, v. ESKRIDGE, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/77/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1662613
+cites_cases: ["100 S.Ct. 1285", "32 Ohio St.3d 191", "327 N.E.2d 753", "39 L.Ed.2d 471", "415 U.S. 917", "42 Ohio St.2d 242", "444 U.S. 277", "445 U.S. 920", "484 F.2d 602", "49 Ohio App.3d 150", "513 N.E.2d 288", "551 N.E.2d 625", "587 F.Supp. 1390", "63 L.Ed.2d 606", "71 O.O.2d 223", "731 F.2d 1489", "781 F.2d 155", "849 F.2d 172", "856 F.2d 1539", "870 F.2d 992", "94 S.Ct. 1413"]
+---
+
+# Clark v. Eskridge
+
+## Majority (Ford, Presiding Judge.)
+
+Ford, Presiding Judge.
+This case emanates from the trial court’s dismissal of appellant Autry L. Clark’s pro se complaint, which alleged that appellee, James Eskridge, violated appellant’s constitutional and civil rights as set forth in Section 1983, Title 42, U.S.Code.
+Appellee filed a motion to dismiss for failure to state a claim upon which relief could be granted, alleging that he was a probation officer and was entitled to absolute immunity for the cause of action set forth in appellant’s complaint.
+The record, which is before this court, reveals that appellee submitted a presentence investigation report that was ordered by the trial court in a criminal case. The report allegedly contained false information regarding appellant’s history, character, and the nature and circumstances of the offense.
+The trial court dismissed appellant’s complaint on the basis that Section 1983 was not the proper remedy, as appellee had absolute immunity.
+Appellant appeals, raising the following assignments of error:
+“1. The trial court erred and abused its discretion in granting the appel-lee’s motion to dismiss appellant’s complaint for failure to state a claim [for] which relief can be granted pursuant to [the] Rules of Civil Procedure, Civ.R. 12(B)(6).
+“2. The trial court erred and abused its discretion and committed prejudicial error when it granted the appellee absolute immunity.”
+Inasmuch as appellant’s two assignments are so intertwined as to their proper disposition, they will be considered jointly.
+It has been held that in reviewing a dismissal under Civ.R. 12(B)(6) for failure to state a claim upon which relief can be granted, the material allegations of the complaint are taken as admitted. Wilson v. Patton (1988), 49 Ohio App.3d 150, 153, 551 N.E.2d 625, 627.
+Moreover, in order for a court to dismiss a complaint pursuant to Civ.R. 12(B)(6), it must appear beyond doubt from the complaint that a plaintiff can prove no set of facts which would entitle him to recovery. O’Brien v. Univ. Community Tenants Union, Inc. (1975), 42 Ohio St.2d 242, 71 O.O.2d 223, 327 N.E.2d 753, syllabus.
+In the instant case, appellant’s complaint avers that appellee, a probation officer, was guilty of misconduct in the investigation and preparation of the presentence report. In particular, appellant maintains that appellee, while performing his duties as a probation officer, investigated and prepared a presentence report, which was ordered by the trial court and which contained false information regarding appellant’s character, history, and the nature of the offense.
+Appellee asserts that probation officers, such as himself, have absolute immunity when performing duties within the scope of their employment.
+It must be noted that “ * * * [w]hen a complaint alleges facts that constitute an absolute defense to the claim asserted, that complaint ‘is vulnerable to a motion to dismiss for failure to state a claim upon which relief can be granted.' * * * ” Lepucki v. Van Wormer (N.D.Ind.1984), 587 F.Supp. 1390, 1393.
+Therefore, the primary question which must be ascertained is whether appellee is, in fact, entitled to absolute immunity as a probation officer.
+“ * * * Immunity, for purposes of a federal claim [such as Section 1983], is clearly a question of federal law. Hampton v. Chicago (C.A.7, 1973), 484 F.2d 602, 607, certiorari denied (1974), 415 U.S. 917 [94 S.Ct. 1413, 39 L.Ed.2d 471]; accord Martinez v. California (1980), 444 U.S. 277, 283-284 [100 S.Ct. 553, 558, 62 L.Ed.2d 481, 488], and at fn. 8, rehearing denied (1980), 445 U.S. 920 [100 S.Ct. 1285, 63 L.Ed.2d 606]." Cooperman v. Univ. Surgical Assoc., Inc. (1987), 32 Ohio St.3d 191, 198, 513 N.E.2d 288, 296.
+Accordingly, a perusal of the federal court cases on this matter is warranted.
+In deciding the scope of judicial immunity applicable to the various activities carried out within the judicial process, the United States Fifth Circuit Court of Appeals has stated that the scope of immunity should be broad. More specifically, the court held that:
+“The ‘cluster’ of absolute immunities that protect participants in judicial and other adjudicatory proceedings exist to help guarantee an independent, disinterested decision-making process. These absolute immunities prevent the harassment and intimidation that could otherwise result if disgruntled litigants — particularly criminal defendants and inmates, both of whom have their liberty at stake — could vent their anger by suing either the person who presented the decision maker with adverse information or the person or persons who rendered an adverse decision. * * * When determining the scope of judicial immunity, the requirements of judicial acts and jurisdiction are to be broadly construed to effectuate these policies. * * * ” Johnson v. Kegans (C.A.5, 1989), 870 F.2d 992, 996-997.
+Moreover, several circuits have extended quasi-judicial immunity specifically to state and local probation officers alleged to have violated a person’s constitutional rights by either improperly preparing presentence reports or preparing such reports which contained false information. Freeze v. Griffith (C.A.5, 1988), 849 F.2d 172; Demoran v. Witt (C.A.9, 1986), 781 F.2d 155; Hughes v. Chesser (C.A.11, 1984), 731 F.2d 1489; Turner v. Barry (C.A.D.C. 1988), 856 F.2d 1539: As noted in Barry, supra, “ * * * [tjhese decisions are in accord with other courts of appeals that have similarly concluded that federal probation officers are absolutely immune from liability when preparing and submitting presentence reports. * * * ” (Emphasis sic.) Id. at 1540.
+In Demoran, supra, at 157, the court stated that the presentence report was an integral part of the judicial function of sentencing. In so noting, the court expounded by stating that:
+■“ * * * The duty of these probation officers is to engage in impartial fact-gathering for the sentencing judge. The officer is required by law to ‘investigate and report to the court * * * upon the circumstances of the crime and the prior history and record of the person, which may be considered either in aggravation or mitigation of the punishment.’ * * * The prospect of damage liability under section 1983 would seriously erode the officer’s ability to carry out his independent fact-finding function and thereby impair the sentencing judge’s ability to carry out his judicial duties. * * * ” (Emphasis sic.)
+The court in Demoran concluded by holding “specifically that probation officers preparing presentencing reports for state court judges are entitled to absolute judicial immunity from personal damage actions brought under section 1983.” Id. at 158.
+This court must be persuaded by the foregoing decisions. To hold otherwise would impede judicial functions in the area of sentencing. Accordingly, we agree with prevailing federal case law that state and local probation officers enjoy absolute judicial immunity as a result of performing their duties in preparing and submitting presentence reports as that activity relates to claims of civil rights violations under Section 1983.
+Therefore, the dismissal pursuant to Civ.R. 12(B)(6) was proper since a complaint which alleges facts that constitute an absolute defense to the claim asserted provides a clear basis on which to predicate a motion to dismiss for failure to state a claim upon which relief can be granted. Lepucki, supra, at 1393.
+Appellant also argues that the trial court failed to consider the allegations of his complaint, affidavit, and admissions, which were on file, before dismissing the complaint. In passing on a Civ.R. 12(B)(6) motion, “only statements contained in the pleadings can be considered and matters outside the pleadings are only to be considered if the court converts a Civ.R. 12(B)(6) motion into a Civ.R. 56 motion for summary judgment.” Patton, supra, 49 Ohio App.3d 150, 551 N.E.2d 625, at paragraph five of the syllabus. The trial court did not convert the motion in the case at bar. Therefore, focusing on appellant’s complaint alone, one can easily discern that appellant admits that the alleged falsifications were made by appellee while performing duties within the scope of appellee’s employment as a probation officer. “Absolute immunity fails to attach to judicial officers only when they act * * * outside the scope of their jurisdiction. * * * ” (Emphasis added.) Demoran, supra, at 158. Moreover, even allegations of malice or bad faith in the execution of the officer’s duties are insufficient to sustain the complaint when the officer possesses absolute judicial immunity. Id.
+Accordingly, since we have concluded that a state probation officer who prepares a presentence report is entitled to absolute judicial immunity, and since appellant avers that appellee was at all times performing duties within the scope of his employment, any actions taken by appellee pursuant to his statutory duty to provide a presentence report are covered under the doctrine of absolute judicial immunity. Thus, both assignments are without merit.
+For the foregoing reasons, the judgment of the trial court is affirmed.
+Judgment affirmed.
+Joseph E. Mahoney and Nader, JJ., concur.
