@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1917-05-07"
+citations: ["9 Ohio App. 177"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["-Grant and 'Carpenter, JJ., concur."]
+parties: ["The Goff-Kirby Coal Co. v. Skufca, etc."]
+source_url: "https://static.case.law/ohio-app/9/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1841150
+cites_cases: ["115 Tenn., 688", "162 Mass., 319", "67 Ohio St., 91", "88 Ohio St., 18"]
+---
+
+# Goff-Kirby Coal Co. v. Skufca
+
+## Majority (Lieghley, J.)
+
+Lieghley, J.
+The parties in this court stand in reverse order to what they did in the lower court, ■and will.be mentioned herein as they were below.
+It is claimed by the plaintiff that on the 9th day of March, 1914, Joseph Skufca, a boy of the age of nine years, left a parochial school at about 3.30 o’clock in the afternoon, and that he and four or five other boys were invited bythe driver of a large coal wagon, then and there owned by the defendant company, and in charge of its driver, one Andrew O’bster, to climb upon the wagon and take a ride; that Joseph and the other boys did so, and rode on said wagon in a northerly direction on Chardon road until they reached the intersection of Chardon road and St. Clair avenue, and when the driver was about to turn west on St. Clair avenue-Joseph requested the driver to allow him to alight from said wagon, which request the driver ignored and refused; that thereupon Joseph attempted to alight from the wagon and was thrown and fell and caught and run over by the rear right-hand wheel thereof, and injured; that after Joseph fell in alighting from the wagon it is claimed that one or more of the boys with him 'called the attention of the driver to the perilous position of the boy, which he heeded not, but drove on; that' the driver, of course, knew of the presence of the boys on the wagon; that he was acquainted with the boys, for the reason that they lived in the same neighborhood with him; that at the place on the street where the injuries were sustained there was a slight down grade in the direction in which the wagon was going; that other boys on the wagon requested the driver to stop, which request the driver did not heed; that this conduct on the part of the driver was of a character so reckless as to constitute wilful negligence; and that the undisputed proof is that the driver was not authorized by his employer to invite and haul Joseph and the other boys.
+Under this summary of the claims and facts, it is alleged by plaintiff that the defendant is liable.
+A petition was filed in the common pleas court to recover damages for the injuries which the boy, Joseph Skufca, received on said date, which resulted in a verdict and judgment in favor of the plaintiff, from which error is prosecuted to this court.
+It is our conclusion that there can be no recovery for the injuries which the boy sustained, unless it be shown that the acts of the driver 'were within the scope of his employment' and in furtherance of his master’s business. The driver was in charge of a coal wagon loaded with coal for delivery at some point beyond the place of injury. It is conceded that he was not authorized by his employer to invite and haul this boy or others. Nothing has been urged tó show that anything done by the driver on this day in respect to this boy was or could be in furtherance of the business of the defendant.
+“In determining whether, a particular act was done in the course or within the scope of the agent’s employment, two things are always to be primarily considered:
+“First — Was the agent engaged.at the time in serving his principal?
+“Second — Even though so engaged, was the act complained of within the scope of the agent’s employment?” Lima Ry. Co. v. Little, 67 Ohio St., 91, 98, and The White Oak Coal Co. v. Rivoux, Admx., 88 Ohio St., 18, 33.
+A master is not liable for the act of his servant unless it was done for the purpose and as a means of doing what the servant was employed to do. “An act done by the servant while engaged in his master’s work, but not done as a means or for the purpose of performing that work, is not to be deemed the act of the master.’ Bowler v. O’Connell, 162 Mass., 319, 320.
+In the Massachusetts case a son of the defendant was directed and instructed to lead a colt from the stable to water, and while in the performance of that duty the son invited the plaintiff, a boy of five or si:^ years, to take a ride upon the colt. The boy accepted the invitation and approached the colt for the purpose of mounting, and was -kicked and severely hurt. Suit was brought against the owners of the colt and the -employers of the son. The court applied the principle last above quoted, and held that 'the son in inviting -the boy to ride the colt was acting beyond the scope of his employment, and that the defendant was not' liable. Also see Foster-Herbert Cut Stone Co. v. Pugh, 115 Tenn., 688.
+In order that the plaintiff may be entitled to recover it must 'be found that the defendant owed the plaintiff at the time some duty. It was practically conceded in the argument, in the instant ease, that up to the time the plaintiff made a request to be permitted to alight from the wagon no duty was owing by the defendant to the boy.- It was claimed, however, that when the boy made a request to alight the driver owed the boy the duty to exercise ordinary care to permit him to do so, being charged with knowledge of 'his age and his position on the wagon and the possibility of his being injured in the event he jumped. It was further urged that at this point of time the situation was the same as if the boy had run in front of the wagon across the street.
+In this view we are unable to agree with counsel, for the reason that this would permit the boy to elect to jump and 'thereby imperil his life or limb, rather than remain in a place of comparative safety, and by his election to do so impose a duty on defendant. The law of the, road imposes certain duties upon both the driver of a vehicle and a pedestrian in the street. Both must exercise ordinary care in the light of all the circumstances then and there existing, based upon the age, etc.,' of the parties, to avoid injury to themselves and others. No such relative duties and obligations existed between this boy riding on the wagon and the driver, in any respect binding upon the defendant.
+It is claimed that the acts of the driver constituted wilful negligence. It must be conceded that whatever the driver did in respect to this 'boy was not done within the scope of his employment nor in furtherance of his master’s -business, and therefore -can not be imputed to his employer. If the acts of the driver constituted wilful negligence, it was 'his own negligence, in the same manner as if he had alighted from his wagon and committed an -assault upon a pedestrian on the sidewalk.
+We are unanimously of the opinion that the verdict and judgment are -contrary to law and should be reversed and remanded for further proceedings.
+Judgment reversed, and cause remanded.
+-Grant and 'Carpenter, JJ., concur.
