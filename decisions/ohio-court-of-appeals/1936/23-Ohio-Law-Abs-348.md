@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Nos 2674 & 2688"
+decided: "1936-10-24"
+citations: ["23 Ohio Law Abs. 348"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK and BODEY, JJ, concur."]
+parties: ["PULLENS v PRUDENTIAL INS CO"]
+source_url: "https://static.case.law/ohio-law-abs/23/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8753640
+cites_cases: ["115 Oh St 589"]
+---
+
+# Pullens v. Prudential Ins
+
+## Majority (By BARNES, PJ.)
+
+OPINION
+By BARNES, PJ.
+The above entitled cause is now being determined on plaintiff’s appeal on a question of law from the judgment of the Court of Common Pleas of Franklin County, Ohio.
+The plaintiff is a minor prosecuting the action by his father as next friend. The action is one for personal injury in which the plaintiff sought damages in the sum of $25,000.00. The plaintiff minor at the time of the accident and his resultant injuries was five years of age. The said accident occurred on or about the 24th day of April, 1935, at about 3:30 o’clock in the afternoon of said day.
+One Robert E. Lutz was in the employ of the defendant as agent, having a territory within the city of Columbus, characterized as a debit wherein he collected weekly and monthly premiums. On the day in question he was performing his duties and at the time was driving his own car.
+Immediately preceding the time of the accident he had entered Cleveland Avenue off of 22nd Street, thence to 18th Avenue, where he made a left hand turn and had proceeded down 18th Avenue a distance of about 125 feet, when the left front fender of his car came in contact with the minor plaintiff, inflicting injuries, the most serious of which was a broken leg.
+Eighteenth Avenue in the city of Columbus is a hard surfaced public highway, 25 feet in width, with curbs and sidewalks on either side. The only eye witnesses to the accident were the driver of the car, Mr;-Lutz, the injured boy, and possibly another boy who was with him. The only witness called in the trial of the case was the driver of the car, Lutz, and his evidence was presented through deposition. Neither the injured boy nor his companion were called. The petition sets forth the following claimed acts of negligence:
+.“That the defendant was driving the said automobile at a careless, reckless and imprudent speed, to-wit, fifty (50) miles per hour, while in the lawful use of crossing said road dr highway;
+“That the defendant drove the said automobile on the said public road or highway at a speed of fifty (50) miles per hour.
+“That the defendant failed and neglected to sound any horn, or signal of its approach; that the defendant failed to keep the said automobile under control;
+“That the defendant failed and neglected to stop the progress, abate the speed or divert the course of its automobile, that the defendant drove said automobile at a greater speed than permitted it to bring its automobile to a stop within an assured clear distance ahead;
+“That the speed at which the defendant operated said automobile was greater than was reasonable and proper having due regard to the traffic, surface and width of the said highway, and of the other conditions then and there existing;
+“That the defendant failed and neglected to keep a lookout in front of its automobile; and failed and neglected to drive tai the right of the center line of 18th Avenue.”-
+Defendant’s answer consisted of a general denial.
+At the close of plaintiff’s testimony the defendant interposed a motion for a directed verdict which was overruled and exceptions noted; at the close of all the testimony the motion for directed verdict was renewed and then and there sustained by the trial court on the ground that there was a failure of testimony showing that the automobile was being operated by the company.
+Touching this phase of the case the evidence is substantially as follows, all of which testimony was objected to by defendant and wherever overruled, exceptions were noted.
+The driver of the car, Robert E. Lutz, had been working for the company for a few weeks prior to the date of the accident. His duty, as heretofore stated, was collecting premiums from policyholders. Under one class of policies the collections were made weekly and under others, monthly. The accident occurred within the bounds of his debit. The uncontradicted evidence disclosed that the contract of employment between Lutz and the defendant company was in writing. No effort was made to offer the written contract in evidence nor was any attempt made to have it presented or any showing made that it could not have been produced if called for.
+Counsel for plaintiff over the objection of the defendant presented the oral testimony of the agent; Lutz, touching the preliminary negotiations between himself and a superintendent and an assistant superintendent of the company, each located in Columbus. According to their testimony they did not have the authority to hire or discharge but only to recommend. The written contract subsequently entered into was executed by the home office in New Jersey. According to the testimony of Lutz (presented subject to objection) he was told by the superintendent, Mr. Harry M. Wetting, Jr., when he first sought the employment, that it would be necessary to have a car. He also testified over objections of defendant that when he first entered the employment, the assistant superintendent, Glenn Heath, went with him over the territory for a period of one week to show him the location of the policyholders and the technique of transacting the business. During this week, according to Lutz, Heath drove his own car. Thereafter for a period of three days Lutz drove his own car, but ■Heath going with him. Thereafter he always went alone and was alone on the day of the accident.
+It was the theory of the trial court that since the evidence disclosed that the contract of employment was in writing that the preliminary negotiations could not be considered as a part of the contract. This determination was on the well recognized principle of law that when contracts are reduced to writing all preliminary negotiations are merged therein. It is further shown through the uncontradicted testimony that the agent Lutz was receiving for his services the sum of fifteen dollars a week. He did not receive any allowance for expenses in the operation of his car, nor is any claim made that the company controlled or directed its movement other than the single statement accredited to the superintendent as heretofore referred to wherein it was said that it would be necessary for Lutz to have a car.
+Under this state of the record it is extremely doubtful that liability is shown even if the preliminary conversations preceding the written contract could be said to be properly admissible in evidence.
+It is not sufficient where the employee is using his own car to merely show that at the time he was engaged in the performance of his duties as an employee. The case of Sehickling v The Post Publishing Company, 115 Oh St 589, is in point and very clearly sets forth the requisite to constitute liability, This court in the case of Anderson v Peyton and The Citizen Publishing Company, Franklin County, No. 2567, decided December 5, 1935, had under consideration the kindred question and therein sustained the lower court in directing verdict. There are some distinguishing features between the instant case and the cited cases that might leave the question in doubt, if it could be determined that the trial court acted erroneously in finally rejecting the preliminary negotiations preceding the entering into the written contract.
+Whether or not the defendant would be liable is primarily controlled by the nature of the contract of employment. The record discloses that there was a written contract, but we know nothing as to its contents. If may or may not have dealt with the subject of use of an automobile. If specific provision was made in such written contract for the use of the agent’s own automobile in the prosecution of his work, then it would be a simple matter of construction. If nothing was contained in the contract relative thereto then there might arise under certain situations a question as to whether or not the use of the automobile was a necessary incident. We must at all times understand that the burden of proof is upon the plaintiff to prove his right to recover. Nothing can be left to conjecture or guess.
+Counsel for defendant also make the claim that the order of the trial court in directing the verdict was proper for two additional reasons:
+(1) That there was no allegation that the defendant was a corporation, nor was there any proof thereof.
+(2) That no negligence was shown.
+On the first question we would hold against the contention of counsel for defendant.
+On the second question we agree that there was no evidence presented of negligence on the part of the driver of the car, that could be said to be a proximate cause of the accident.
+Again, on this question, we have no testimony except as contained in the deposition of Mr. Lutz, the driver of the car. According to his statement just at the time he was turning from Cleveland Avenue into 18th Avenue he saw the boy and a companion playing on a vacant lot to his left. He did not see him thereafter until he heard the thud on his fender. He stopped his car immediately and the boy was lying between his front and rear wheel on the left hand side. He was driving approximately fifteen miles an hour. He does not reinember whether he gave any signal, but there was no situation that demanded the giving of any signal. There were at least two cars parked on opposite sides of the street and at a distance of about 120 feet from the east line of Cleveland Avenue. The street being only 25 feet in width, necessarily in practical operation of his car he would have to drive in part to the left of the center line. There is no evidence as to how the boy got out into the street. At the point of contact it was at least 125 feet from the regular crossing and it follows that the boy should not have been in the street at that place.
+The assured clear distance provision- of the statute can not apply.
+We are constrained to the view that the trial court was correct in directing the verdict and thereafter entering judgment against plaintiff.
+The judgment of the trial court will be affirmed and costs assessed 'against plaintiff.
+Exceptions will be allowed.
+HORNBECK and BODEY, JJ, concur.
