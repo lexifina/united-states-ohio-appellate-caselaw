@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4059"
+decided: "1947-09-29"
+citations: ["49 Ohio Law Abs. 589"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WISEMAN, PJ,. and MILLER, J, concur."]
+parties: ["WHITE, Plaintiff-Appellee, v BUCHWALTER, Defendant-Appellant."]
+source_url: "https://static.case.law/ohio-law-abs/49/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741452
+cites_cases: ["34 Oh St 621"]
+---
+
+# White v. Buchwalter
+
+## Majority (By HORNBECK, J.)
+
+OPINION
+By HORNBECK, J.
+The appeal is on questions of law from a judgment for $10,000.00 in favor of plaintiff in an alienation of'affections suit, which cause was submitted to a jury.
+Five errors are assigned:
+(1) In the giving of special charges as requested by plaintiff before argument.
+(2) Errors in the general charge.
+(3) The verdict is contrary to, against the manifest weight of the evidence and unsupported by any or sufficient (evidence.
+(4) Overruling defendant’s motions for directed verdict made at the close of the plaintiff’s evidence and at the conclusion of all. the evidence.
+(5) Damages awarded are excessive and induced by passion and prejudice.
+Before discussing the assignments of error upon the factual developments and at length, we find assignments Nos. 3, 4 and 5 are not well made.
+No. 2, “Errors in the general charge,” except as considered in the discussion of the special charges, is not found. Upon the 3rd assignment, námely, that “the verdict of the'jury was not supported by evidence, was contrary to and against the manifest weight thereof,” it is sufficient to say that giving to the testimony on behalf of the plaintiff its most favorable intendment, it not only affords support for every material element of plaintiff’s case but is sufficient to support the verdict against the error set out in this numbered assignment. For the same reasons, assignment No. 4 must be denied.
+There is no support for assignment No. 5, unless it be for the sole reason that the verdict and judgment is so large as to indicate passion and prejudice in its return. We cannot so hold. The .case was tried without acrimony on the part of i counsel and there was no unseemly conduct upon the part of any witness, nor was there testimony such as to provoke passion or prejudice upon the part of the jury. The record is singularly free from any action of court, counsel or witnesses which would, have a tendency to arouse undue feeling of the jury against either of the parties.
+We then come to the one determinative question in this-case, namely, whether the special charges, or any of them, given before argument at the request of plaintiff and carried into the general charge, were sound propositions of law under the facts appearing, and if not, was the defendant prejudiced thereby.
+The three special charges given upon request of the plaintiff before argument were:
+(1) If you find by a preponderance or greater weight of the evidence that defendant’s acts and conduct taken in conjunction with the acts and conduct of the plaintiff or the acts and conduct of Mr. White or both, contributed to alienate the affections of Mr. White from plaintiff, then your verdict must be for plaintiff in some amount.
+(2) If you find from the evidence that defendant’s acts and conduct even contributed to cause alienation of affections-of Mr. White, I charge you that it is no defense that Mr. White-himself encouraged defendant in her such acts and conduct..
+(3) There is no evidence that the plaintiff, Mrs. White, was ever ah unfaithful wife. You will, therefore, disregard entirely 'the allegation in the defendant’s answer charging that Mrs. White was an unfaithful wife.
+It is urged by appellant that Special Charges Nos. 1 and 2 were prejudicial in that they did not include a characterization that the acts and conduct of the defendant must be found to be wilful or malicious or intentional.
+The charges as given were not prejudicial because the trial Judge in the general charge specifically instructed the jury that “she (plaintiff) must show a wrongful and wilful act or acts on the part of the defendant * * * .” It is essential to establish the cause of action for alienation of affections that an intentional and a malicious alienation be proven, the malice to sustain compensatory damages being malice in law and not actual malice.
+The -special charges would be strengthened if they included these essentials of proof. Special instruction No. 1 is taken from the 6th headnote of Booth v Crouse, 45 Abs 44, but it should be observed that this pronouncement was made responding to an attack on the charge for entirely .different reasons than here urged.
+The Court does not prepare the’ headnotes in cases reported in the Abstract and they do not carry the authority of- a syllabus. Every opinion must be analyzed in the light of the questions immediately before the Court for determination. In view of the general charge in connection with‘the special charges Nos. 1 and 2, we are not prepared to say that the defendant was prejudiced.
+Among other averments of the petition plaintiff said that she had always conducted herself toward her husband as a faithful wife; that the parties had lived together happily since their marriage some fourteen years prior to the institution of the action and but for the wilful and malicious acts of the defendant would have continued so to live. The answer of the defendant generally denies these averments and specially .alleges that she was not in any way responsible for the separation of the parties; denies that they were living happily, or even living together, .on the date allegéd in the petition, or for sometime prior thereto, avers that the separation of plaintiff and her husband was caused by mistreatment of the said Joel. E. White by the plaintiff and says there was no longer any love and affection between the plaintiff and the said Joel E. White existing at the time the alleged alienation of affections complained of occurred. In the reply, plaintiff states that she did not mistreat Joel E. White so as to cause him to leave her; reaffirms that she was a faithful wife and denies that there was no love and affection between plaintiff and her' husband when the defendant alienated his affections.
+There is substantial testimony to support the plaintiff’s averments and the denials and' allegations of the answer. Stressing the case made by the defendant for the purpose of better appreciation of the effect of special charge No. 3 upon the deliberations and verdict of the jury, it appears that the defendant met Dr. White in 1942, professionally. There is no proof that they were in each other’s company socially until 1944. The date fixed in the petition of the inception of the alienation of affections is on or about May 14, 1945. The number of times that the defendant and Dr. White were together, as appearing from the proof, on or about the date alleged and thereafter, were few, although the times, the places and the conditions under which the meetings were had were such as to support an inference that they were highly improper. However, it appeared from defendant’s testimony, as to part of which she was corroborated by at least two different witnesses, that for several years prior to the last separation, Dr. White and the plaintiff had serious marital differences, as a result of which, in September, ’43, March 25, ’44, April 15, ’44, Sept. .16, ’44, and November 6, ’44, he left his home and at times .went to hotels in Columbus to live for short periods; that he left plaintiff finally on March 24, 1945, by reason of her wrongful conduct toward him; that plaintiff cursed and abused the said Joel E. White in the home and at his office and on several instances assaulted him.
+Without elucidating the testimony further, it is safe to say that the crux of this case was whether or not Dr. White ' had any affection for his wife when he left her in March, 1945,- or subsequent thereto on or about May, 1945. And this factual issue depended almost entirely upon the truth or the untruth of his testimony as to the marital discord, the causes therefor, and the effect thereof.
+“By the marriage contract the parties thereto. acquire a personal as well as a legal right to each other’s conjugal society.” Westlake v Westlake, 34 Oh St 621.
+Each is entitled to the other’s society, companionship, affection, fellowship, and assistance. If any of these obligations is neglected or violated, then, to that-extent, there is unfaithfulness on the part of the one so offending.
+In this case, manifestly if the testimony on behalf of the defendant, or any substantial part thereof, is true, then the plaintiff was not faithful to her husband and she did not support her claim to that effect. On the contrary, the de-, fendant established plaintiff’s unfaithfulness, if her witnesses are believed.
+When the special and general charges stated to the jury that there was no evidence that the plaintiff was ever an unfaithful wife and that the jury should disregard entirely, the allegations in the defendant’s answer charging that Mrs. White was an unfaithful wife, there was taken from the defendant all probability of the truth of her claim that there was no affection between husb.and and wife which she could alienate. If the wife was not unfaithful, then there was left only proof that at the time of the occurrences alleged, the plaintiff and Dr. White were, husband and wife and a presumption attended that there was affection existing between them.
+The inadvertence in charging that there was *no proof that the plaintiff was an unfaithful wife can be reconciled only upon the theory that to be unfaithful the wife must have violated the obligation that the husband should have the exclusive rights to sexual intercourse with her, but there is no definition in the law nor in any dictionary which restricts the word “faithful”'to such meaning.
+Special charge No. 3, to the giving of which exceptions was duly noted, and its reiteration in the general charge, was manifestly prejudicial to the cause of the defendant as it developed in the trial, and requires a reversal of the judgment. •
+WISEMAN, PJ,. and MILLER, J, concur.
