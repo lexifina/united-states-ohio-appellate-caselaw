@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. C-880473"
+decided: "1990-04-04"
+citations: ["2 Ohio App. Unrep. 13"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KLUSMEIER, P.J., HILDEBRANDT and GORMAN, JJ."]
+parties: ["In re Sweeney"]
+source_url: "https://static.case.law/ohio-app-unrep/2/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1610998
+cites_cases: ["3 Ohio App. 3d 210", "369 N.E.2d 1047", "444 N.E.2d 431", "52 Ohio St. 2d 89"]
+---
+
+# In re Sweeney
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This cause came on to be heard upon the appeal, the transcript of the docket, journal entries and original papers from the Court of Common Pleas of Hamilton County, Ohio, Juvenile Division, the transcript of the proceedings, the briefs and arguments of counsel.
+This appeal concerns Shannon Sweeney, a minor who was borne out of wedlock, in April 1985, by appellant/cross-appellee Erin Sweeney. At the time of Shannon's birth, Erin suffered from substance abuse and dependency, and was unable to provide adequate care for Shannon. Erin's mother, appellee/cross-appellant Helen Strickland, has therefore cared for Shannon continuously since Shannon's birth. Erin did live in Cincinnati with Strickland immediately following Shannon's birth, but she went to Chicago in September 1985 to go into treatment for her substance dependency.
+In October 1985, Strickland filed a petition in the juvenile court for permanent custody of Shannon. On December 4, 1985, an "Agreed Entry" granted Strickland temporary custody. In December 1986, Erin moved for a change of custody. In July 1987, Strickland filed a motion for child support. In August 1987, Neal Meehan, Shannon's natural father, who had by that time married Erin and acknowledged paternity, was joined as a party to the action by stipulation. In March 1988, the juvenile court granted the natural parents' custody motion and ordered the parents to pay to Strickland $11,156.97 in retroactive child support for the twenty-month period from June 1986, when Neal Meehan's voluntary payments to Strickland for Shannon's care ceased, to the date of the March 10, 1988, entry.
+The parents have appealed the retroactive child-support order under Case No. C-880473 and Strickland has appealed the trial court's grant of custody to the parents under Case No. C-880503. The appeals have been consolidated.In their appeal, the parents attack the juvenile court's award of child support to Strickland by arguing in the alternative that the juvenile court lacked jurisdiction to render a retroactive support order, or that the award was an abuse of discretion in view of the evidence that Strickland "unjustifiably denied [the parents] visitation and unequivocally stated that she (Strickland) did not want support." This assignment is not well taken.
+R.C. 2151.23 sets forth the jurisdiction of the juvenile court. Under R.C. 2151.23(B)(4) the juvenile court has original jurisdiction to hear and determine an application for the support of any child not a ward of another court in Ohio. R.C. 2151.01 states in pertinent part that:
+"The sections in Chapter 2151 * * * shall be liberally interpreted and construed so as to provide for the care, protection and mental and physical development of children subject to Chapter 2151 * * * [and] to provide judicial procedures * * * in which the parties are assured of a fair hearing, and their constitutional and other legal rights are recognized and enforced." [Emphasis added.]
+While we acknowledge that no section in R.C. Chapter 2151 expressly authorizes the specific result achieved by the juvenile court, we find, through liberal application of R.C. 2151.23(B)(4) that the court's jurisdiction remained undisturbed at the time it issued the retroactive child-support order. Moreover, contrary to the parents' assertion, we conclude that the juvenile court did not abuse its discretion in awarding the child support to Strickland. The assignment of error advanced in Case No. C-880473 is accordingly overruled.
+Strickland's assignment of error in Case No. C-880503 contends that the lower court erred in granting the parents' custody motion.
+In In re Perales (1977), 52 Ohio St. 2d 89, 369 N.E.2d 1047, syllabus, the Ohio Supreme Court set forth the test for determining custody between a parent and a nonparent as follows:
+"In an R.C. 2151.23(A)(2) child custody proceeding between a parent and a nonparent * * * [custody] may not [be awarded] to the non-parent without first making a finding of parental insuitability that is, without first determining that a preponderance of the evidence shows * * * that the parent has been totally incapable of supporting or caring for the child, or that an award of custody to the parent would be detrimental to the child."
+This test combines the "suitability of the parentfe)" and the "best interest of the child" tests, In Re Zeedyk (Nov. 30, 1988), Defiance App. No. 4-87-5, unreported, and in effect provides thatsuitableparentshave a paramount right to custody of their children so long as custody is not detrimental to the child. See Thrasher v. Thrasher (1981), 3 Ohio App. 3d 210, 211, 444 N.E.2d 431, 433.
+Strickland maintains that the change of custody was not in Shannon's best interest and that the evidence before the juvenile court established that Erin was an unsuitable parent. These arguments are meritless.
+Several experts in the fields of chemical dependency and child development testified at the proceedings below. Our review of the record reveals that the court was presented with conflicting evidence from these witnesses. For instance, while Dr. Cynthia Dember, a clinical psychologist, concluded from the battery of psychological tests she performed on Erin that Erin's negative personality traits would have a detrimental impact upon Erin's mothering abilities, clinical psychologist Dr. Myron Fridman found nothing abnormal about Erin's personality profile and indicated that he found "nothing to make [him] fear that perhaps Erin wouldn't be a good mother."
+Moreover, the testimony elicited from the child-development experts was primarily focused upon the "timing/timeliness" of the custody change rather than upon whether the change of custody should occur at all.
+Strickland was described by the experts as Shannon's "psychological parent." Developmental psychologist Dr. Earladene D. Badger indicated that an adjustmentperiod with consequential repercussions would occur if a child of Shannon's age, two years and four months, was removed from its psychological parent, but she also stated that whether any long-term "trauma" would result "depended] upon the resiliency of the child." According to the record, Badger had neither met with nor evaluated Shannon or any of the other parties involved in the custody proceeding.
+Dr. Brian McConville, a child psychiatrist, testified that he had evaluated Shannon on six occasions, and his opinion was that the change of custody should ideally occur when Shannon reached age four, when she would be in a better position cognitively to form an attachment to her natural parents. However, when asked about the advantages and disadvantages in delaying Shannon's integration into her natural parents' family, Dr. McConville remarked, "I do not see it as a black and white matter."
+Based upon the state of this record, we cannot say, as a matter of law, that the trial court erred. There is substantial, competent and credible evidence supportingthe juvenile court's decision to grant the parents' custody motion. Therefore, it is not within the province of this court to overturn the lower court's decision as being against the manifest weight of the evidence or an abuse of discretion. See Paxton v. Ramsey (Sept. 2, 1988), Lucas App. No. C.A. L-87-365, unreported. Strickland's assignment of error in Case No. C-880503 is accordingly overruled.
+Judgment affirmed.
+KLUSMEIER, P.J., HILDEBRANDT and GORMAN, JJ.
