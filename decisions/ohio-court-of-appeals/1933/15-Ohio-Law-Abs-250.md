@@ -1,0 +1,33 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2304"
+decided: "1933-10-11"
+citations: ["15 Ohio Law Abs. 250"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["KUNKLE and BARNES, -JJ, concur."]
+parties: ["SMITH v SIMS"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1651873
+---
+
+# Smith v. Sims
+
+## Majority (By HORNBECK, PJ.)
+
+OPINION
+By HORNBECK, PJ.
+It developed in the trial that the complainant had charged another, one Boley Mansfield, with the offense for which Smith was on trial; that the complainant had reported her case to Mrs. Belle J. Carter, Probation Officer of the Court of Domestic Relations and that after at least two interviews an affidavit was prepared charging Mr. Mansfield with being the father of complainant’s child. Thereafter, the cause progressed and was assigned for trial.
+On the day of the trial complainant refused to prosecute and thereupon changed her statement, and, after further interviews at considerable length with Mrs. Carter, the affidavit in the instant case was prepared and the defendant was brought to trial. The complainant freely admitted that she had lied in her first affidavit and claimed she had charged Mansfield with the offense at the instigation and suggestion of Smith, who, according to her story, promised to provide her money to go to school and means to take good care of the child. These facts present an unusual situation. Counsel for plaintiff in error urge that, inasmuch as it is apparent that the complainant lied, it is improbable that a jury could safely base a verdict of guilty upon her statement.
+Smith took the stand and denied having sexual intercourse at any time with the complainant. He explained that he had visited her home on Sundays only to call upon a M!iss Jackson who, it is admitted, lived with the Sims. Miss Jackson, who was subpoenaed as Grace Smith, gave no testimony of any considerable value to the defendant. Her statements in the record respecting her status as a married or single woman are conflicting and so confused that in the most charitable view of her testimony she was in a state of great uncertainty.
+There was no testimony, then, to support defendant’s denial save his own. It does appear that he was an industrious individual working long hours and in what would seem to be somewhat responsible positions. If the record consisted only of his testimony and that of the complainant, we would say, in view of her action respecting Mansfield, that it would be unsafe to support the verdict. But the jury and this court are not put to the necessity of determining the question on the uncorroborated statement of the complainant. Of course, in the very nature of things, the proof as to the acts of intercourse must come from the complainant or the defendant. But there is testimony of at least three witnesses respecting the conduct and admissions of the defendant which, if true, provides some corroboration of the complainant’s claim that the defendant was the father of her child.
+As we have heretofore stated, it was complainant’s claim that Smith had induced her to charge Mansfield with the paternity of her child; that she had admitted that he was the father and consented to assume liability for the maintenance of the child. It is not denied that after complainant’s mother learned that her daughter was charging Smith with being the father of her child she sent for Smith and he came to the Sims home. Mrs. Sims says that he then admitted the charge against him but .that he was desirous of keeping the case out of court; that he expressed a willingness to meet any obligation that was necessary to take care of the child if the necessity of being hailed to court could be avoided. He denies any such admission. However, in addition to the testimony of Mrs. Sims, two other witnesses, Beatrice Dixon and Dawson Pair, support her statements. Miss Dixon said that in September, after the child was born, she was at the home of the Sims’ and that Mr. Smith came in and that the complainant and Smith engaged in conversation. She states that Smith said: “This baby is getting more like its dad every day;” that Miss Sims said to him, in substance: “You said you were going to take care of the baby;” that she needed a number of articles for it. Whereupon he said: “It takes time.”
+Dawson Pair testified that she heard the conversation between Mrs. Sims and defendant wherein the defendant was attempting to bring the matter of the complaint against him to some agreement. At this time it is testified that he said that he would do the right thing and would pay some money if he could keep the matter out of court.
+Mrs. Sims is very definite in what it is claimed the defendant said to the effect that he would come down on his payday and would give a certain amount each time to support the baby if the prosecution would be abandoned.
+This testimony, of course, may be accepted as a purpose on the part of complainant and her mother to hold the defendant up for money. But it likewise has probative effect to corroborate the claim of the complainant because it is not probable that the defendant, if he had never had intercourse with the complainant, would agree to accept a responsibility which would only attend if he was the parent. His conduct was such as could only be reconciled upon the theory that he conceded that he was the father of the child.
+The jury is the trier of the facts. It is its duty to determine where the truth is to be found. In this case it was a different obligation. This court should not and will not disturb a-finding of the jury on disputed questions of fact unless that determination is so manifestly against the weight of the evidence as to shock the conscience of this court. Although, if we had been determining the fact we might have hesitated to enter judgment against the defendant, we are satisfied that the jury was well within its province in resolving the facts in accord with the claim of the complainant. .
+The complainant was, at the outset of her trial and at all times, in a position of disadvantage. She had, by her own conduct and, statements, discredited herself. Able counsel-for the defendant had the advantage of these facts and no doubt presented them in an effective manner to the jury. Notwithstanding the handicap under which the complainant labored, the jury chose to believe her statements.
+Upon the whole record we cannot say that its members were not justified in so doing. The judgment will, therefore, be affirmed.
+KUNKLE and BARNES, -JJ, concur.
