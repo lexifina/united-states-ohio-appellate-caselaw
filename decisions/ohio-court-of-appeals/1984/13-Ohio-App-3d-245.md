@@ -1,0 +1,47 @@
+---
+court: "Ohio Court of Appeals"
+docket: "83AP-441"
+decided: "1984-01-31"
+citations: ["13 Ohio App. 3d 245"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reilly and Norris, JJ., concur."]
+parties: ["BancOhio National Bank, Appellee, v. Freeland, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/13/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708243
+cites_cases: ["1 Ohio App. 3d 152", "12 O.O.3d 279", "54 Ohio App. 2d 71", "58 Ohio St. 2d 282", "8 O.O.3d 97"]
+---
+
+# BancOhio National Bank v. Freeland
+
+## Majority (Strausbaugh, J.)
+
+Strausbaugh, J.
+The defendant, Martin E. Freeland, brings this appeal from a judgment of the Franklin County Municipal Court finding in favor of the plaintiff, BancOhio National Bank, in the amount of $2,108.72 with interest. In consideration of its precedential value and the unique issues involved, this appeal is assigned sua sponte to the regular calendar pursuant to App. R. 11.1 and Local R. 4.
+The plaintiff filed suit against the defendant on October 21, 1982 claiming that the defendant had defaulted on a promissory note that he had executed and delivered to the plaintiff on August 25, 1976. In response to the plaintiffs complaint, the defendant asserted as his defense that the plaintiffs suit was barred by the four-year statute of limitations found in R.C. 1302.98 (UCC 2-725) and that the plaintiff had not fully complied with the notice requirements of R.C. 1302.80 (UCC 2-706) in regard to the resale of the defendant’s repossessed van and, thus, is barred from any recovery of a deficiency judgment.
+The case was submitted to the court below for decision on an agreed statement of the facts filed on March 7, 1983. The stipulated facts generally provide that in August 1976 the defendant executed and delivered a promissory note to the plaintiff. The note was secured by a 1975 Dodge van. When the defendant defaulted on the note, the plaintiff repossessed the van and sold it at a private sale on November 8, 1977. The plaintiff sent a timely and proper notice of the sale to the defendant, at the defendant’s proper address, by certified mail with a return receipt requested. The defendant, however, denies that he ever received a notice of the sale. In addition, the plaintiff was unable at trial to produce a return receipt either signed or unsigned. It was also noted that the notice was never sent back to the plaintiff by the postal authorities marked either refused, unclaimed, or unable to deliver, and thus, it was the plaintiffs position that the defendant did receive the notice, although it cannot produce a return receipt.
+It was further stipulated that the “[p]laintiff acted timely, properly and totally within the confines of the law in every respect pertaining to the note at issue, the sale of the note collateral, and in general with each and every requirement with regard to the allegations of its Complaint * * *."
+In its decision rendered on April 21, 1983, the trial court concluded that the plaintiff did comply with the notice requirements imposed by law for the sale of repossessed collateral; that the plaintiffs suit is governed by the fifteen-year statute of limitations found in R.C. 2305.06; and that it is not barred by the four-year statute of limitations imposed by R.C. 1302.98 (UCC 2-725). From this decision, the defendant brings this appeal and raises the following two assignments of error:
+“1. The trial Court erred in determining that Plaintiff had complied with the provisions of ORC 1302.80 and further erred in determining that Plaintiff was entitled to a judgment against Defendant for the deficiency balance due after the resale of collateral.
+“2. The trial Court erred in determining that the 15 year statute of limitations period proscribed [sic] by ORC 2305.06 was applicable to this matter rather than the 4 year statute of limitations period specified by ORC 1302.98. The Court further erred in not finding that the cause of action of the Plaintiff was barred by the 4 year statute of limitations.”
+R.C. 1302.80 (UCC 2-706) states in part:
+“(C) Where the resale is at private sale the seller must give the buyer reasonable notification of his intention to resell.”
+The defendant contends that, under R.C. 1302.80, the plaintiff is required to give the defendant reasonable notice of the time and place of the resale of his repossessed collateral. The mere fact that the plaintiff attempted to notify the defendant is insufficient and it is the defendant’s position that actual receipt of the notice is required.
+Under R.C. 1302.80, a seller is required to give notice to the buyer of his intentions to resell merchandise that has been repossessed. However, in the case at bar, the plaintiff is not a “seller” who has repossessed goods it had previously sold. Instead, the plaintiff is a lender who has repossessed certain merchandise given as collateral for a loan. As a lender and secured party, the plaintiff here is governed by R.C. 1309.47 (UCC 9-504) and not by R.C. 1302.80 in its resale of repossessed collateral. First National Bank v. Turner (1981), 1 Ohio App. 3d 152. R.C. 1309.47(C) states in part:
+“* * * Unless collateral is perishable or threatens to decline speedily in value or is of a type customarily sold on a recognized market, reasonable notification of the time and place of any public sale or reasonable notification of the time after which any private sale or other intended disposition is to be made shall be sent by the secured party to the debtor if he has not signed after default a statement renouncing or modifying his right to notification of sale. * * *” (Emphasis added.)
+The definition for “send” as found in R.C. 1301.01(LL) (UCC 1-201[38]) states:
+“ ‘Send’ in connection with any writing or notice means to deposit in the mail or deliver for transmission by any other usual means of communication with postage or cost of transmission provided for and properly addressed and in the case of an instrument to an address specified thereon or otherwise agreed, or if there be none to any address reasonable under the circumstances. * * *”
+R.C. 1301.01(Z) (UCC 1-201[26]) states:
+“A person ‘notifies’ or ‘gives’ a notice or notification to another by taking such steps as may be reasonably required to inform the other in ordinary course whether or not such other actually comes to know of it. * * *” (Emphasis added.)
+A secured creditor can, therefore, satisfy the notice requirements set forth in R.C. 1309.47 merely by sending notice to the debtor. Actual receipt of the notice is not required and need not be proven. All that is required of the creditor under R.C. 1309.47 is that he take reasonable steps to notify the debtor of his intentions to resell certain repossessed collateral. Umbaugh Pole Bldg. Co. v. Scott (1979), 58 Ohio St. 2d 282 [12 O.O.3d 279], Therefore, it is necessary only to determine if the plaintiff took reasonable steps to notify the debtor of the sale of the van and not if the defendant actually received the notice.
+In the case at bar, since both parties stipulated to the fact that a timely and proper notice was sent to the defendant’s proper address by certified mail, the trial court did not err in concluding that the plaintiff had taken reasonable steps to notify the defendant of the intended sale. The fact that the plaintiff cannot prove that the defendant actually received the notice is not the determining factor. Therefore, the defendant’s first assignment of error is overruled.
+In his second assignment of error, the defendant contends that the trial court erred in concluding that the plaintiff’s action is controlled by the fifteen-year statute of limitations found in R.C. 2305.06 and not the four-year statute of limitations imposed by R.C. 1302.98. R.C. 1302.02 (UCC 2-102) states:
+“Unless the context otherwise requires, sections 1302.01 to 1302.98, inclusive, of the Revised Code, apply to transactions in goods; they do not apply to any transaction which although in the form of an unconditional contract to sell or present sale is intended to operate only as a security transaction * * (Emphasis added.)
+In the instant case, the plaintiff’s suit does not arise from a “transaction in goods” between the parties but, instead, is based upon a note executed and delivered by the defendant to the plaintiff and secured by a 1975 Dodge van which the defendant sought to purchase with the borrowed money. The plaintiff was not the seller of the van nor was there any evidence presented that it was closely connected with the original vendor. Thus, an action brought by the plaintiff to recover a balance due on the note is not governed by Article 2 of the UCC and R.C. 1302.98. May Co. v. Trusnik (1977), 54 Ohio App. 2d 71 [8 O.O.3d 97].
+R.C. 2305.06 states:
+“Except as provided in section 1302.98 of the Revised Code, an action upon a specialty or an agreement, contract, or promise in writing shall be brought within fifteen years after the cause thereof accrued.”
+Therefore, the trial court did not err in determining that the plaintiff’s suit was controlled by the fifteen-year statute of limitations found in R.C. 2305.06 and was timely filed. Accordingly, the defendant’s second assignment of error is overruled, and the trial court’s judgment is affirmed.
+Judgment affirmed.
+Reilly and Norris, JJ., concur.
