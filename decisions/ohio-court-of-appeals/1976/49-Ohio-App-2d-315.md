@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "24-CA-75"
+decided: "1976-03-08"
+citations: ["49 Ohio App. 2d 315"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Rutherford, P. J., and Putman, J., concur."]
+parties: ["Johnson et al., Appellees, v. Boggs et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-2d/49/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1478197
+cites_cases: ["78 Ohio Law Abs. 566"]
+---
+
+# Johnson v. Boggs
+
+## Majority (Dowd, J.)
+
+Dowd, J.
+This is an appeal from the judgment of the Fairfield County Court of Common Pleas permanently enjoining the annexation of 269.47 acres in part of Violet Township to the village of Pickerington, as previously allowed by the Board of Commissioners of Fairfield County.
+The territory, as annexed, includes 97 owners and the annexation petition contained signatures of only 41 of those owners. The Court of Common Pleas, acting on that stipulation of fact, found that the petition, as amended, did not contain the signatures of a majority of the owners of the real estate in the territory sought to be annexed and granted the injunction enjoining the annexation.
+The primary issue presented by this appeal arises from the deletion of the lands of Mango Estates (126.16 acres) from the territory described in the original annexation petition filed with the Board of County Commissioners. The deletion was initiated by a motion to amend the annexation petition by the agent for the petitioners. The Board granted the amendment and in the resoluion approving the annexation petition, as amended, made the following finding, presumably as requested and in compliance with R. C. 709.033:
+“4. The persons whose names are subscribed to the petition are the owners of real estate in the territory described in the petition, and as of the date the petition was filed the number of valid signatures on the petition, constitutes a majority of the owners of the real estate in the territory proposed to be annexed. That none of the signatures to the petition were withdrawn pursuant to the requirements of Section 709.03.” (Emphasis added.)
+■.The defendants, the appellants herein, contend that absent a withdrawal of signatures from the original petition pursuant to the requirements of R. C. 709.03 and R. C. 709.32 all valid signatures of property owners within the area embraced by the original petition count on the issue of whether the requisite majority signed the petition, notwithstanding the subsequent amendment deleting territory in which some of the signing petitioners resided.
+R. C. 709.033 requires certain findings by a board of county commissioners as a condition precedent to the allowance of an annexation:
+“R. C. 709.033 Order for annexation.
+“After the hearing on a petition to annex, the board of eounty commissioners shaíl enter an order upon its journal allowing the annexation if it finds that:
+(A) The petition contains all matter required in section 709.02 of the Revised Code.
+(B) Notice has been published as required by section 709.031 of the Revised Code.
+(C) The persons whose names are subscribed to the petition are owners of real estate located in the territory in the petition, and as of the time the petition was filed with the board of county commissioners the number of valid signatures on the petition constituted a majority of the owners of real estate im the territory proposed to he annexed.
+(D) The territory included in the annexation petition is not unreasonably large; the map or plat is accurate; and the general good of the territory sought to he annexed will he served if the annexation petition is granted.
+The board of county commissioners shall grant or deny the petition for annexation within ninety days after the hearing set pursuant to section 709.031 of the Revised Code.
+“If the board of county commissioners grants the petition for annexation it shall enter on its journal all the orders of the board relating to the annexation and deliver a certified transcript of all orders of the board, signed by a majority of the members of the board, the petition, map and all other papers on file relating to the annexation pro-, ceedings to the auditor or clerk of the municipal corporation to which annexation is proposed.” (Emphasis added.)
+Critical to the defendants’ position is the contention that the “territory proposed to be annexed” phrase in R. C. 709.033(C) refers to the time when the petition is filed. As the defendants’ argument continues, R. C. 709.033(C) requires no reconsideration of the “majority” issue after it is established that a majority of the owners of the real estate signed the original petition, notwithstanding a subsequent deletion of territory by amendment.
+Counsel for the defendants conceded in oral arguments before this court and pursuant to his interpretation of R. C. 709.033(C) that hypothetically it would be possible for territory to be annexed to a municipality where no owners of real estate in the territory annexed signed the petition for annexation, assuming that an amendment of the original petition deleted all territory owned by the signers of the original petition and assuming further that the original signers constituted a majority of the owners of the real estate in the territory described in the original petition, prior to its subsequent deleting amendment.
+We reject the defendants’ interpretation of R. C. 709.-033. Our analysis follows.
+Historically, many annexation controversies turned on whether a majority of the adult resident freeholders in the territory proposed to be annexed signed the annexation petition. Critical to that determination was the question of whether those who wished to withdraw their signatures from the petition were lawfully allowed to do so. If not, their signatures counted toward the majority required to provide jurisdiction to the Board of County Commissioners to approve the annexation even if the signers subsequently indicated a contrary position. If allowed to withdraw their signatures lawfully, and they did so, then, the signatures could not be counted to constitute the requisite majority.
+Until recently, the time for the valid withdrawal of a signature expired once a board of county commissioners
+took official action with respect to the annexation petition. In 1967, the General Assembly adopted legislation designed to bring order into the process of withdrawing signatures from annexation petitions. As amended, R. C. 709.03 provides for the withdrawal of a signature during a twenty day period after the clerk of the township receives notice that the annexation petition has been filed with the board of county commissioners. Additionally, R. O. 709.032 provides “withdrawal” relief after the expiration of the R. C. 709.03 twenty day period where a majority of the board of county commissioners finds, after testimony of a signing owner, that his signature was obtained by fraud, duress, misrepresentation, or undue influence. In such an event, the signature is determined to be “void” and removed from the petition “as of the time the petition was filed.”
+It is evident that “withdrawn and void” signatures are not to be considered in determining whether the majority of the owners have signed the annexation petition. It is equally evident that, historically, the cornerstone of annexation has been the written expression of assent to the annexation by a majority of either the adult resident freeholders or the owners to be affected by the annexation. To count the signatures of owners of real estate deleted from the annexation runs as contrary to the * ‘ assent of the majority concept” as would the counting of the “withdrawn” or “void” signatures.
+But in any event, we find that defendants’ contention that the “territory to be annexed” phrase in R. C. 709.033 refers to the time when the original petition is filed not to be well taken. Rather, we find that the “territory to be annexed” phrase refers to “after the hearing on the petition to annex” has been completed and the “territory proposed to be annexed” is finally determined. In short, if a deleting amendment is to be granted, it must be accomplished before the commissioners’ “finding” process mandated by R. C. 709.033 begins. Obviously, the finding required by R. C. 709.033(D) could not be undertaken by the county commissioners until they know the exact boundaries of the territory which is to be considered for annexation in the context of “the general good of the territory.”
+Thus, we find that the “territory proposed to be annexed” phrase of R. C. 709.033(D) is to be considered as and is limited to the territory remaining after a deleting amendment. Once that territory is determined, then the board of county commissioners is required to find, as a condition precedent to the allowance of the annexation, that the petition before the board has been signed by a majority of “the owners of real estate” in the territory then before the board for consideration.
+Turning to the case at hand, it is elementary where, as stipulated,, only 41 of 97 owners sign the petition, a majority is lacking. Accordingly, for the foregoing reasons and analysis, the first and second assignments of error are overruled.
+The third assignment of error contends that the plaintiffs did not prove by clear and convincing evidence that their legal rights and interests would be adversly affected by the proposed annexation. Having decided, as did the trial court, that the Board of County Commissioners lacked jurisdiction to allow the annexation of the territory following the amending deletions, we find that the rights of the plaintiff property owners in the proposed annexed territory were adversely affected and we overrule the third assignment of error.
+Having overruled all assignments of error, the judgment of the Court of Common Pleas of Fairfield County is affirmed.
+Judgment affirmed.
+Rutherford, P. J., and Putman, J., concur.
+Prior to its recent amendment (133 Ohio Laws, Book III, page 2254, H. 491, eff. Nov. 21, 1969) R. C. 709.02 provided, in part:
+“The inhabitants residing on territory adjacent to a municipal corporation may, at their option, cause such territory to be annexed thereto * * *. Application for such annexation shall be by petition, addressed to the board of county commissioners of the county in which the territory is located, signed by a majority of the adult freeholders residing in such territory.”
+As amended, R. C. 709.02 substitutes “owners of real estate” for “adult freeholders residing in such territory.”
+See 1931 Ohio Atty. Gen. Op. 3836; Hicks v. Cain (1957), 78 Ohio Law Abs. 566.
+See R. C. 709.03 as amended and R. C. 709.032 as enacted (132 Ohio Laws, Part I, page 362-364, Amended Substitute Senate Bill No. 220, effective December 1, 1967).
