@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 15224"
+decided: "1935-12-09"
+citations: ["20 Ohio Law Abs. 599"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MIDDLETON, PJ, BLOSSER and McCURDY, JJ, (4th Dist) sitting by designation.", "BLOSSER, PJ, and MIDDLETON, J, concur."]
+parties: ["LOWE et v BOYLE"]
+source_url: "https://static.case.law/ohio-law-abs/20/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1665980
+---
+
+# Lowe v. Boyle
+
+## Majority (By McCURDY, J.)
+
+OPINION
+By McCURDY, J.
+It is apparent that the plaintiff's action is based upon the 'doctrine of equitable estoppel. The application of this doctrine is urged on the authority of Herastan v Sparks et, 31 OLR 292, which holds:
+“Injunction lies against collection of taxes from a purchaser of real estate who before making the purchase consulted the public records and inquired of the County Treasurer as to .whether there were any taxes charged against the property and found the taxes marked “paid” (by mistake) and was to-’d by the treasurer that -they had all been paid.”
+together- with numerous cases in line with this decision and further urged the c’aim that public policy requires that the loss sustained by the plaintiffs be caused to fail upon the public and not to be borne by plaintiffs. A consideration of this proposition requires an examination of the statutes of Ohio that might be applicable.
+Sec 5670 G:C provides that “the lien of the State for taxes continues until the same are paid.”
+Sec 2744 GC provides that:
+“A County Treasurer may receive checks but such receipt shall in no m-r.nnev be regarded as payment. No sum shall be considered paid until the money therefor has been received by the treasurer or a depositary. No responsibility shall attach in any manner directly or indirectly to a treasurer, his sureties or the county by reacon of the receipt of a check and collection of taxes shall be entirely at the risk of the person turning them into the treasury.”
+Sec 2650 GC provides that:
+“When a check is paid at the office of the County Treasurer ■ or at any tax receiving office, the County Treasurer shall give to the person paying it a receipt, * * *. No receipt given by the County Treasurer for payment made otherwise than in lawful money or in the notes specified in §2646 GC, shall be valid unless and until the lawful moneys represented by such payment are received in the County Treasury or a county depositary.”
+Sec 2594 GC provides:
+‘The Auditor shall set down the amount of taxes charged against each owner in two separate columns, one-half thereof, exclusive of road taxes, in each column and add all road taxes to the first half with a sufficient blank space at the right of each column to write the word “paid” and when payment of either half of such taxes is made the treasurer shall write in the blank space opposite such tax, the word “paid.”
+An examination of the Remstan case supra, and all cases of similar import, clearly shows that they have no application to the case at bar, for the reason that in all of these cases a prospective purchaser or a prospective mortgagee relied upon the public records, that is the tax duplicate, and thereby placed themselves in a position to suffer because of the incorrect information set forth in these records.
+In the present case we do not deal with that situation. Here we find that the owner of the premises properly charged with the tax and to whom alone the treasurer was required to look for payment, is claiming a damage or loss because of the incorrect information contained on the tax duplicate. Through the lease in question, Lowe, trustee, the owner, had transferred to his lessee the burden of making the tax payments. This obligation existed only as between the lessor and the lessee and the tax collecting authority was in no manner involved. Lowe did not specify the manner of payment by the lessee, although it was within his power to have required that payment be made through himself.
+In our opinion, Lowe, trustee, is in no' better position to rely upon the incorrect stamping of the tax duplicate and the invalid receipt, than the person who paid the taxes for him. It is patent that since a mistake was made, the improvement company is without the right to avail itself of that mistake. Likewise, the owner of the premises on which the taxes and assessments were charged, cannot complain as against the County Treasurer, because of the failure of his lessee to perform its obligations under the lease.
+In this stiuation it seems to us that public policy requires that the owner of the premises be limited in his redress to whatever action he might have against his lessee and even though the mistake in the public records might lead him to believe that the lessee had fully performed all of his obligations, yet, because of their relationship, the owner of the premises is required to ascertain this fact in the same manner as he would ascertain other facts of performance. He certainly cannot be relieved of his obligations to pay taxes and assessments properly charged against him because of a mistake made in a public record in relation to the acts of anyone made possible and growing out of a contract of lease of his own making.
+The doctrine of the Herzstan case, supra, is not applicable for the further reason that Lowe, trustee, must be regarded to have relied on a tax receipt. While it is true, that he had the advantage of the knowledge of the mistaken condition of the tax duplicate, yet, through his attorney, he insisted on a tax receipt which would have been properly due him as an evidence of the payment of the taxes and assessments in event the duplicate had been correctly marked.
+We have set forth above the contents of §§2744 and 2650 GC governing such receipts. The Legislature of this State has seen fit, through this legislation, to limit the reliance which can be placed on them by any person. While Lowe, trustee, might have relied on the duplicate alone, yet this he did not do, and because of the securing of the receipt, it naturally follows that he must have placed his reliance thereon, which we must conclude is restricted by the General Code sections referred to.
+We feel it necessary to direct attention to another matter that is ma.de apparent by the evidence. At all times during the period concerning which this d;fficulty arose, the interest of Lowe, trustee, was primarily in the payment of the rentals by the improvement company. At the time of the examination of the duplicate he did not request it. This examination was incidental to the institution of foreclosure proceedings. Had his interest been directed to the question of the payment of taxes, it naturally follows that he would have required information in this regard from the lessee at the time the lessee defaulted in the payment of rentals or subsequent thereto, and prior to the institution of the foreclosure proceedings. He could have secured from this lessee a tax receipt similar to the cue whiqh was sent to him, and his reliance thereon, in the event he would not have seen fit to inquire further, would necessarily have been subject to the statutory limitations referred to above.
+Taxes and assessments paid by check are subject to the provisions of §§3744 and 2650 GC. The stamping of the tax duplicate “paid” under such circumstances can have no greater effect than the issuance of the receipt which the Legislature has seen fit to specify invalid “until the lawful moneys represented by such payment are received into the county treasury.” The public in general must be presumed to know this limitation, and these sections of the law must necessarily be taken into consideration with §2594 GC, providing for the writing of the word "paid” by the treasurer on the tax duplicate.
+We are forced to the conclusion that when taxes and assessments paid by check, where the lawful moneys represented thereby are not received into the county treasury, and in reliance thereon either a receipt is given or the duplicate stamped “paid” or both, the doctrine of equitable estoppel cannot arise under any circumstances.
+For the various reasons recited, and from all angles of possible consideration, it is our conclusion that the doctrine of equitable estoppel does not apply in the instant case and public policy requires that the loss, if any, rests upon the plain jifs in this case and certainly not upon the public.
+Accordingly, the petition of the plaintiffs is hereby dismissed.
+BLOSSER, PJ, and MIDDLETON, J, concur.
