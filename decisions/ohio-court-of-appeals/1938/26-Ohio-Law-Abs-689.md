@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2721"
+decided: "1938-02-16"
+citations: ["26 Ohio Law Abs. 689"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARNES, PJ. and GEIGER, J, concur."]
+parties: ["STATE ex GRZELAK v INDUSTRIAL COMMISSION"]
+source_url: "https://static.case.law/ohio-law-abs/26/cases/0689-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1685324
+cites_cases: ["294 S.W., 497"]
+---
+
+# State ex rel. Grzelak v. Industrial Commission
+
+## Majority (By HORNBECK, J.:)
+
+OPINION
+By HORNBECK, J.:
+This is an action in mandamus praying for a writ requiring the Commission to award relator eompensatior for total dependency. The 'cause was submitted on an agreed statement of facts, which in so far as requisite to an appreciation of the qustions presented are:
+■ On or about January 25, 1932, Marcella Grzelalt was injured while in the course of her employment with the Electric Auto-Li te Company of Toledo and died as a result if her injuries on March 13, 1932. Her employer was a self-insurer and the injury from which she suffered and died was compensable under the Workmen’s Compensation Act.
+The relator, Frank Grzelak, was the husband of Marcella Grzelak, living with her at the time of her injuries and continuousiy until her death. Relator was not working at the time of his wife’s injuries and death and had last been employed early in December, 1931, when he was laid off because of lack of work; that he did not again work until two weeks after his wife’s burial when he again entered the employment of his former employer; that when he went to work he was suffering from a stomach condition which had been diagnosed as symptomatic of stomach ulcers; that at the time of his wife’s death he had a savings account in a bank in Toledo, which was closed and from which the money could not be withdrawn; that he owed a $350.00 furniture bill upon which they paid $5.00 per week; that the average current expenses were $80.00 per month; that claimant averaged better than $90.00 per month earnings; that' from March, 1931 until December 1931 relator earned $1078.88 from March 1930, until December, 1930, $1195.15; that at the time of relator’s marriage his wife was working and continued to work until injured; that she earned approximately $12.00 per week during the latter part oí 1931 but that during the time just prior to her injuries she had been able to earn only from $7.00 to $10.00 per week. Decedent when injured was 22 years of age and relator 27 and he has since remarried.
+The Commission determined that the relator was partially dependent upon the decedent for support and fixed the decedent’s average wage at $11.90 per week. The dependency period was fixed at 77 weeks and the employer ordered to pay relator $7.93 per week, in the total amount of $610.61. Thereafter, by proper application for modification, the claim of relator to total dependency was presented to the Commission and by it denied. It is the claim of relator that the determination of the Commission should have been that he was totally dependent upon his wife at the time of the injury which resulted in her death and that all the proof shows that the only income which the Grzelak family bad at the time of said injury was the wages earned by Marcella Grzelak; that Frank Grzelak was sick, disabled and unable, at the time of said injury, to secure employment.
+The question presented requires a determination of a part of §1465-82, GC., as follows, being the last paragraph of 4 (B):
+“In all other cases, the question of dependency in whole or in part, shall be determined in accordance with the facts in each particular case existing at the time of the injury resulting in the death of such employee, * *
+It is the claim of relator that the words emphasized, namely “at the time of the injury”, should be construed as the same words were construed by the court m State, ex rel. Kildow v Industrial Commission, 128 Oh St., syllabus 6:
+“The words ‘at the time of the injury’ as used in that section (1465-84, GC.) mean that the Industrial Commission, in arriving at a basis for compensation, shall consider the shortest possible time immediately prior to the injury as will enable it to intelligently determine an ‘average weekly wage, * "■ " at the time of the injury’.”
+Sec 1465-84 defines the basis upon which to compute benefits to be paid under awards by virtue of §1465-82, GC., and provides:
+“The average weekly wage of the injured person at the time o; the injury shall be taken as the basis upon which to compute the benefits.”
+The Commission went back six months for the purpose of fixing the average weekly wage of decedent. The Supreme Court held, as heretofore set out in the syllabus, that four working weeks prior to the injury was as far before the date of the injury as the Commission was permitted to go The section has since been amended, permitting the Commission to consider a period of one year prior to the injury in fixing the average weekly wage of the injured person but no such. amendment has been made to §1463-82 GC. Therefore, it is urged that the same construction should be given the language of §1465-82, GC which we have quoted, as was given §1465-84 GC before the amendment.
+It is our opinion that the discretionary limits of the commission, by reason of the language of §1465-82, GC is different and somewhat broader than permitted under §1465-84 GC before amendment. There the determination was limited to the average weekly wage at the time of the injury. In 1465-82 the question of total or partial dependency is to be determined in accordance with all of the facts in the case existing at the time of the injury. “All of the facts” is broader than “the full weekly wage for the shortest possible time immediately prior to the injury”, which is the limitation in the Kildow case. This might permit the consideration of facts beyond four weeks prior to decedent’s injury. Here it appears that the relator had some money in a bank; that his employment though regular was seasonal; that the only time when he relied solely upon his wife’s income was from some time in December, 1931, to January 25, 1932. This period of time is not definite because it does not appear in the statement of facts when, if at all the money which he had earned up to December, 1931, was exhausted.
+In Fordson Coal Co. v Burke, et al., Court of Appeals of Kentucky, May 10, 1927, 294 S.W., 497, the court was construing certain sections of the Workmen’s Compensation Act of Kentucky. The question was whether or not certain claimants for benefits by reason of dependency upon a deceased person were totally dependent or partially dependent. The court at page 498 said:
+“The relation of ‘the i! * * dependency’ is to ‘be determined in accordance with the facts of each case existing at the time of the accident’. But in estimating the extent o', partial dependency the proportion of earnings Shat the employee had contributed to the dependent for one year preceding the injury is to be considered, and it further appears that the facts and circumstances may be such that partial dependents are entitled to the maximum amount authorized to be awarded total dependents, or $4,000. (1) Construing these provisions together, it is manifest that the Legislature intended for the relation of dependency existing at the time of the accident to be determined in the light of prior events and not to be controlled by an unusual temporary situation occasioned by fortuitous circumstances.”
+Upon the statement of facts we would not feel justified .in holding that the Commission had violated its broad discretionary powers under the meaning and import of §1465-82, GC.
+The writ will be denied.
+BARNES, PJ. and GEIGER, J, concur.
