@@ -1,0 +1,60 @@
+---
+court: "Ohio Court of Appeals"
+docket: "13847"
+decided: "1989-04-05"
+citations: ["61 Ohio App. 3d 386"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mahoney, J., concurs.", "Quillin, J., dissents."]
+parties: ["SMITH, Appellee, v. NEIDERT et al., Appellants."]
+source_url: "https://static.case.law/ohio-app-3d/61/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1445209
+cites_cases: ["11 OBR 215", "11 Ohio App.3d 135", "146 Ohio St. 297", "22 OBR 118", "22 Ohio Misc.2d 5", "287 So.2d 712", "30 OBR 286", "30 Ohio Misc.2d 22", "32 O.O. 345", "463 N.E.2d 636", "488 N.E.2d 1261", "506 N.E.2d 1234", "65 N.E.2d 708"]
+---
+
+# Smith v. Neidert
+
+## Majority (Reece, Judge.)
+
+Reece, Judge.
+Defendant-appellant, Gary J. Neidert and plaintiff-appellee, Robert G. Smith, stipulated to the following facts:
+“1. On September 29, 1987, in Summit County, Ohio, Common Pleas Court Case No. CV 84 8 2576, judgment was rendered against Gary J. Neidert (‘Neidert’) and in favor of Robert G. Smith (‘Smith’) in the sum of $9,274.71 plus interest from the date of judgment at the rate of ten percent (10%) per annum. Said judgment was docketed and entered in Journal No. 1205, Page 790 of this Court’s records and shall hereafter he referred to as ‘Judgment A.’
+“2. The amount remaining unpaid on Judgment A as of April 13, 1988 was $9,536.02.
+“3. On February 18, 1988 this Court entered an Order for Sale of Goods and Chattels directing the Summit County Sheriff to sell the goods and chattels of Neidert at public auction on execution of Judgment A. Said order was docketed and entered in Journal No. 1226, Page 489.
+“4. Pursuant to said order, the Sheriff duly advertised a sale of Neidert’s goods and chattels, said sale to be held on Neidert’s premises on April 18, 1988. The advertisement stated that the goods and chattels had an aggregated appraised value of $18,435 and that they must be sold for not less than 2/3’s of their appraised value.
+“5. On February 17, 1988, in Summit County, Ohio, Common Pleas Court Case No. CV 81 5 1243, judgment was rendered against Neidert and Smith and in favor of Akron First Seventh Day Adventist Church, (the ‘Church’), in the amount of $24,072.03 plus interest at the rate of $5.94 per day from November 10, 1987 through the date of judgment, plus interest at the legal rate thereafter. Such judgment shall hereafter be referred to as Judgment B. As of April 13, 1988, no amounts had been paid on Judgment B.
+“6. On April 5, 1988 this Court, in Case No. CV 81 5 1243, acting upon the affidavit of the Church’s attorney, Michael A. Malyuk, that Neidert was holding money that belonged to Smith as a result of Judgment A, directed Neidert to deliver such money to the Court pending resolution of the issue of whether such money was subject to a garnishment order in favor of the Church against Smith.
+“7. On April 13, 1988 Neidert filed an Answer of Garnishee in Case No. CV 81 5 1243, stating that he had $9,536.02 of Smith’s money in his possession which he described as ‘funds due on judgment to Robert Smith, Case No. CV 84-8-2576.’ On the same day, Neidert delivered a $9,536.02 cashier’s check to the Summit County Clerk of Courts.
+“8. On April 15, 1988, Neidert, through his attorney, J. Curtis Alberti, made an oral motion to this Court that Smith’s judgment against Neidert (Judgment A) be deemed satisfied by virtue of Neidert’s delivery of the $9,536.02 cashier’s check, and that the April 18, 1988 Sheriff’s sale be cancelled.
+“9. The Court refused to grant Neidert’s motion but did enter an Order on April 15, 1988 which stayed all execution proceedings presently pending against Neidert, including the Sheriff’s sale, pending further order of the Court. Said Order further enjoined Neidert from disposing of any of his property which was subject to the Sheriffs sale pending further order of the Court.
+“10. Prior to Neidert’s delivering the $9,536.02 cashier’s check to the Clerk of Courts, Neidert secured the agreement of the Church that it would fully release him, Neidert, from his individual liability upon Judgment B if and when said money, less any applicable court costs, was paid over to the Church along with certain other funds to be paid directly from Neidert to the Church, which total amount, including the $9,536.02, would be $10,000.”
+The trial court held that the Ohio garnishment statute, R.C. 2716.01(B), does not permit garnishment of a separate debt owed by one judgment co-debtor to another and that the judgment in the instant case had therefore not been satisfied. Neidert appeals.
+Assignment of Error I
+“The court had no jurisdiction to determine the validity of the subject garnishment proceeding.”
+Neidert contends that the trial court did not have jurisdiction to rule on the validity of the garnishment because the church was not afforded an opportunity to be heard on the issue. Neidert used the garnishment by the church on Smith’s judgment as a defense and attempted to satisfy both judgments against him with one payment.
+Jurisdiction of the court continues until satisfaction of the judgment, the final action in a case. 47 American Jurisprudence 2d (1969) 80, Judgments, Section 979.
+Accordingly, Neidert’s first assignment of error is overruled.
+Assignment of Error III
+“The court erred in ruling that the Ohio Garnishment Statute, Ohio Revised Code Section 2716.01(B), precludes garnishment of a judgment co-debtor on a separate debt owed by one co-debtor to the other.”
+Neidert asserts that R.C. 2716.01(B) does not preclude garnishment from a judgment co-debtor. R.C. 2716.01(B) provides:
+“A person who obtains a judgment against another person may garnish the property, other than personal earnings, of the person against whom judgment was obtained, if the property is in the possession of a person other than the person against whom judgment was obtained, only through a proceeding in garnishment and only in accordance with this chapter.” (Emphasis added.)
+The trial court concluded that the language of the statute meant that the garnishee “ * * * would always be a non-party, an innocent stake holder, or a mere custodian of the sought-after property.” Neidert is a co-judgment debtor and not a neutral stake holder.
+Garnishment is a procedure whereby a creditor can obtain property of his debtor which is in the possession of a third party. Peoples Bank & Savings Co. v. Katz (1946), 146 Ohio St. 297, 301, 32 O.O. 345, 347, 65 N.E.2d 708, 710; Bank One of Columbus v. Lake States Cartage, Inc. (1985), 30 Ohio Misc.2d 22, 23, 30 OBR 286, 506 N.E.2d 1234, 1235. A co-defendant jointly liable for a judgment cannot properly be named as a garnishee, as the co-defendant is not a third party. See Scogin v. Scogin’s Inc. (Fla.App.1974) 287 So.2d 712. Therefore, garnishment is not a proper means of satisfying the judgment in this case since Neidert is not a third party.
+Neidert’s third assignment of error is overruled.
+Assignments of Error
+II. “By consenting to disbursement of the garnishment proceeds by the court, plaintiff is estopped from objecting to the validity of the garnishment.”
+IV. “The court erred in finding that the judgment owed by defendant to plaintiff was not satisfied.”
+Neidert asserts that the trial court erred in determining that the judgment Neidert owed Smith was not satisfied. Smith never received any money from Neidert. Therefore, the trial court was correct in determining that Smith’s judgment against Neidert was not satisfied.
+Additionally, Neidert contends that Smith is estopped from objecting to the validity of the garnishment because Smith failed to object to the garnishment and consented to the release of the garnishment funds to the church. Smith consented to the disbursement to the church if the funds were considered to be Neidert’s and not Smith’s.
+Equitable estoppel exists when a representation of fact is made to a party, who has a right to rely, and does rely, on such representation. Under these circumstances, the party making the representation cannot deny it, if such denial would result in injury or damage to the relying party. McIntosh v. Micheli Restaurant, Inc. (1984), 22 Ohio Misc.2d 5, 6, 22 OBR 118, 119, 488 N.E.2d 1261, 1263; see, also, First Federal S. & L. Assn. v. Perry’s Landing, Inc. (1983), 11 Ohio App.3d 135, 144-146, 11 OBR 215, 224-228, 463 N.E.2d 636, 646-649.
+The facts of this case show that Smith did not make any statement upon which Neidert relied. Accordingly, Neidert’s second and fourth assignments of error are overruled.
+Assignment of Error V
+“If the subject garnishment proceeding was invalid the court erred in not directing that the judgment creditor return the garnishment proceeds to the defendant garnishee.”
+Neidert contends that if the garnishment proceeding was improper, the court should return to Neidert the proceeds which the court paid to the church. The stipulated facts indicate that Neidert secured an agreement with the church that it would fully release Neidert from his individual liability if and when the money was paid over to the church.
+In any appeal, error will not be presumed but must appear affirmatively on the record. The burden is on the appellant to show that error occurred. App.R. 9 and 10. This court, having no indication in this record of any error finds Neidert’s fifth assignment of error not well-taken. This record does not contain any entry reflecting the court’s payment of the money to the church.
+For the foregoing reasons, the judgment of the trial court finding that R.C. 2716.01(B) does not permit garnishment of a separate debt owed by one co-debtor to another, and that the judgment in the instant case was not satisfied, is affirmed.
+Judgment affirmed.
+Mahoney, J., concurs.
+Quillin, J., dissents.
