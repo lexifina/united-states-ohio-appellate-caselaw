@@ -1,0 +1,66 @@
+---
+court: "Ohio Court of Appeals"
+docket: "526"
+decided: "1956-04-23"
+citations: ["75 Ohio Law Abs. 52"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(FESS, J, of the Sixth District, sitting by designation in the Second District.)", "MILLER, PJ, HORNBECK and FESS, JJ, concur. '"]
+parties: ["McGRATH, Sr. et, Plaintiffs-Appellants, v. KNEISLEY, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/75/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1788727
+cites_cases: ["102 Oh St 248", "13 Ohio 430", "164 Oh St 275", "18 O. C. C. N. S. 183", "32 Oh St 49", "42 Oh St 410", "50 Pacific 380", "80 Oh St 733", "84 Oh St 104", "84 So. 764"]
+---
+
+# McGrath v. Kneisley
+
+## Majority (By THE COURT:)
+
+OPINION
+By THE COURT:
+This is an appeal from a judgment of the Common Pleas Court finding in favor of the defendant with certain modifications immaterial to our question, and refusing to grant a restraining order as prayed in plaintiff’s petition.
+There is no dispute between the parties on material facts in this case. Plaintiffs and defendant were owners of adjoining lots in Meadow Lanes Estates, a sub-division, addition to Clark County, Ohio, the conveyance to which lots were subject, according to general plan, to uniform restrictions. The covenant and restriction involved in this case provides:
+“No building shall be located on any residential building lot nearer than 40 feet to the front lot line nor nearer than 10 feet to any side lot line.”
+Plaintiffs charged that the defendant was erecting a residential building in violation of the restriction, in that the building at the northerly end thereof was but 2.42 feet from the east sideline of Lot No. 71 owned by plaintiffs-appellants and a like distance from the west sideline of Lot No. 70, owned by defendant-appellee. That the southerly portion of said building was being erected by defendant-appellee at a distance of 3.45 feet from the east sideline of said Lot No. 71. Plaintiffs allege that during the first part of April 1955, they discovered that the building was being erected in violation of the restriction and that immediately they notified the defendant of his violation and requested compliance with the restriction. That on or about the 9th day of April and later on the 21st day of April 1955, they again notified the defendant in writing of his violation of the restriction and requested compliance therewith. They charge that contrary to the notices defendant is proceeding in violation of the covenant and restrictions to the irreparable injury of the property of plaintiff and other owners of lots in the division.
+The answer of the defendant is short and after admitting the restrictions that the respective owners of the lots are the parties to the suit, says:
+“Defendant further answering states that he erred in placing the house in the position that it now is and that his attention was not called to the said fact until after the foundation, plumbing, electrical work, plastering and practically the entire house was completed except finishing hardware on the inside, installation of cabinets in the kitchen, the siding on the exterior of the house, rough grading of the lot and putting in the driveway.”
+“Defendant further alleges that plaintiffs have a remedy at law for damages.”
+Plaintiffs in reply deny that they have any adequate remedy at law and say that they admit the foundation was in and that part of the building was done before plaintiffs discovered the violation of building restrictions as set forth by the petition and deny, * * * that all the work as claimed by defendant in his answer was done before notice of violation was given to him. Plaintiffs further state that the lots owned by them in the sub-division described in the petition were vacant; that they did not live in the sub-division and that when they first saw the building being erected and discovered the violation of building restrictions, they immediately notified the defendant of his violation.
+The case was submitted on the pleadings and affidavits of the parties which do not materially differ from the facts averred and admitted by the pleadings.
+It will be noted that the defendant does not deny the averment of the petition, that plaintiff did not discover the erection of the building on defendants lot until April 1955, or, that at the time stated in the petition plaintiffs orally and in writing notified defendant of the violation of the restriction. Nor is there any averment of laches against the plaintiff.
+The trial judge in a written opinion found the facts as to notices as stated and admitted in the pleadings and assumes “that the facts as sworn to by the plaintiffs herein with respect to progress made in the construction of said house are correct.” “Those facts indicate that at least the house was under roof, and that the heating system was in the slab floor construction and imbedded in the concrete flooring at the time plaintiff notified defendant of his violation.” “That at least the rough plumbing was inside the unplastered walls, the heating ducts and pipes were in the slab floor and the lead-in wires and some rough electrical work was completed.”
+Then follows the subject matter upon which the trial judge relied for his order denying any relief to the plaintiffs as to the violation of the restriction. He continues:
+“Prom the observation of this Court, it would be a great expense to the defendant herein if the Court would require the enforcement of this restrictive covenant. The plaintiff himself admits a delay but simply excuses his delay by reason of his absence from his lot.”
+“There is no showing in this case that the defendant deliberately and wilfully violated restrictive covenants in his deed.”
+We may observe there is no averment of wilful violation of the covenant but it is obvious that the defendant was put on notice both by the general plan and by the notice of the restriction in the deed by which he took title to the lot on which the building was erected. The court cites several cases all of which are directed to the defense of laches and say:
+“If there had been some indication in this case that the defendant herein wilfully violated the restrictive covenant or fraudulently kept the plaintiffs in ignorance of defendant’s violation, the laches of plaintiff herein would not be a defensive matter available to the defendant.”
+“The Court in this case is of the opinion that it would be inequitable and would impose an unnecessary loss and hardship upon the Defendant in the instant case to enforce the restrictive covenant inasmuch as the Defendant did not wilfully violate the covenant, and the Plaintiff, himself, slept on his right by being absent from his lot until after Defendant’s work had progressed to such an extent that enforcement of the covenant under the circumstances of this case would work a great loss and hardship upon the Defendant.”
+From what we have heretofore set out it is manifest that but for the finding of the trial judge that the plaintiffs were chargeable with laches, the order would not have been made.
+Laches, unless the facts appearing clearly require a plaintiff to explain delay in failing to assert a right is an affirmative defense which must be set up by way of answer. There is no such defense pleaded, and therefore, was not an issue in the case. Lockwood et al, v. Wildman et al, 13 Ohio 430.
+Prior to the holding of the Supreme Court in Andrews, Jr. etc. v. Board of Liquor Control, 164 Oh St 275, it was the practice of reviewing courts to assume the validity of an order under review and that, if there was any substantial reason to support it, even for a reason different than that asserted by the trial court, the order should be affirmed. However, the Andrews ease holds that a reviewing court may examine an opinion of the trial court to determine if the reasons assigned for the judgment are sound. So, in this case, we examine the law to determine if the defense of laches was in this case it was supported by the evidence.
+It is clear that the defendant must be charged with notice of the restriction which he admits he violated. The lack of willfulness on his part, which the trial judge found, must be based not upon lack of knowledge of the restriction but upon the evidence that by mistake he placed the residence too close to the sideline of his lot. This would not relieve him of his contractual obligation to abide the terms of the restrictive covenant.
+“Reasonable restrictions, which are a part of a scheme or plan of restrictions published and adhered to by the owner of a tract, of which purchasers of lots therein, by reason of publication of a scheme or plan, have constructive notice, are enforceable notwithstanding an offer of the original owner to sell an entire line of lots on the defendant’s side of the street without the restrictions.”
+West Hill Land Co. v. Ritchie, 18 O. C. C. N. S. 183 aff'd., 80 Oh St 733.
+“Actual notice is that which consists in express information of a fact and constructive notice is that which is implied in law.”
+Prouty v. Devin, 50 Pacific 380.
+The reported cases in Ohio treating of the subject of laches disclose to what extent the element of time weighs in determining the validity of such a defense.
+In the early case of Clark v. Potter, 32 Oh St 49, 21 years had elapsed between the time when plaintiffs’ cause of action arose and the time they asserted it.
+In Bridenbaugh v. King, 42 Oh St 410, the period of time involved was 43 years during which, without excuse, plaintiff failed to press his claim.
+In Harris et al, v. The Wallace Mfg. Co., 84 Oh St 104, the court refused to grant specific performance to the Wallace Company which for four years, with knowledge of Harris’ failure to observe his contract and with knowledge that he had expended considerable sums of money to perfect the device, the subject of the suit, failed to assert their rights. In Russell, Admr. v. The Fourth National Bank, 102 Oh St 248, the plaintiff-administrator, his decedent and heirs had failed from 1866 to 1895 to assert the claim upon which the action was predicated. It was in this connection that the court pronounced the fourth syllabus, which, in part, is:
+“Equity demands that rights should be asserted before lapse of time has made a judicial inquiry difficult and uncertain by reason of the death of parties, the loss of papers and books, the death of witnesses, and the intervention of equities; * *
+The foregoing case cited by the trial judge in his opinion affords no support whatever for a finding of laches in the instant case.
+In Copen v. Flecher (C. C.), 3 O. F. D. laches is defined, as “such neglect or omission to assert a right as, taken in connection with lapse of time and other circumstances, causes prejudice to the adverse party, and therefore operates as a bar in a court of equity.”
+These cases and others support the general statement in 16 O. Jur. 266:
+“As has been intimated, however, several elements may enter into the determination of laches.”
+“Lapse of time is the essential one, in the sense that where there has been no delay, there is no laches;”
+30 C. J. S. 548 is cited as the basis for the holding that plaintiffs slept on their rights in failing to act sooner than they did.
+It reads:
+“Voluntary absence or non-residence, if it presents no legal obstacle to a suit, is ordinarily insufficient to excuse delay.”
+Supporting the text Brody v. Maril (Ala.) 84 So. 764, 767 is cited. This case was an action to compel an accounting, initiated 12 years after dissolution of the partnership and more than 6 years after the last transaction of the partnership, and, in the view of the court, the only excuse for the delay in bringing the suit was absence of the plaintiff from the state. There was no question but that the plaintiff at all times should have been cognizant of his rights and was under the obligation to assert them promptly. The court held against the plaintiff’s right to an accounting.
+Here, we are unable to conclude that the plaintiff, George N. Mc-Grath, Sr., who did not live on the lot which he owned adjacent to defendant’s lot was under any legal obligation to visit his lot to determine if defendant was erecting a building in violation of the setback restrictions in his deed. Instead of being charged with laches, it is apparent upon the record that said plaintiff was diligent, as soon as he had knowledge of the violation of the restriction, in asserting his rights and in attempting to maintain them. Of course, had he been under any obligation to discover the erecting of the building when first begun in December, his failure to act until April would present another and different question. It was in the improper assumption that he was so obligated that the court erred.
+The order upon the basis upon which the trial judge granted his action is against the manifest weight of the evidence.
+We are passing only on the error assigned in the case, viz., the finding of laches on the part of the plaintiffs.
+The judgment will be reversed and cause remanded for a new trial.
+MILLER, PJ, HORNBECK and FESS, JJ, concur. '
