@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2038"
+decided: "1932-12-13"
+citations: ["13 Ohio Law Abs. 499"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PARDEE, PJ, and WASHBURN, J, concur in judgment."]
+parties: ["VAN CANTFORT v COLMAR REALTY CO"]
+source_url: "https://static.case.law/ohio-law-abs/13/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1645081
+---
+
+# Van Cantfort v. Colmar Realty Co.
+
+## Majority (FUNK, J.)
+
+FUNK, J.
+While the language in the petition indicates that plaintiff sought to recover for an amount due on the contract, counsel for plaintiff have argued the case in this court as one for damages for the breach thereof —it being contended that the allegations of the petition are sufficient to support an action for the breach thereof.
+It is fundamental that a party may breach his contract at any time and that if he does so wrongfully, an action may be maintained for damages for the breach, but not for the amount due under the contract; and we have thus considered the action as one for a breach of the contract.
+The correspondence between plaintiff and defendant 'which made up said claimed contract, began with plaintiff’s letter to defendant dated Jan. 18, 1928 (plaintiff’s exhibit 4), in which he solicited the privilege of acting as a broker for defendant, and stated that he had “two or three very responsible firms in mind” who might be interested in space in defendant’s proposed building, and ended with plaintiff’s letter of Feb. 1, 1928 (plaintiff’s exhibit 12), in which plaintiff accepted defendant’s proposition as to commissions as stated in defendant’s letter of Jan. 26, 1928 (plaintiff’s exhibit 11). We find nothing in any of the letters between the parties whereby plaintiff agreed not to interest the Penney Co. in any other location or that plaintiff was limited to dealing only with the Penney Co., but we do find that in his correspondence with defendant he mentioned other possible tenants and other desirable locations in Sandusky, but said that he preferred to deal with defendant, and commended the Penney Co. as a very desirable tenant.
+Also, while plaintiff’s letters to defendant were to the effect that he would get them the best deal possible because he realized that the more rental he obtained the more his commission would be, his letters to the Penney Co. concerning a proposed lease were to the effect that he was trying to get the rentals down to such figure as would be satisfactory to them, and the letters mostly contained some argument as to why the rentals proposed were high or reasonable, according to whether the letter was to defendant or to the Penney Co. We therefore find no evidence to show that plaintiff was obligated in any way to defendant, as claimed by counsel for plaintiff.
+While there is nothing in the correspondence definitely fixing a time within which defendant’s said proposition to plaintiff was open, it is well settled that it would be a reasonable time and that defendant’s proposition, as contained in its letter of Jan. 26 (plaintiff’s exhibit 11), would not remain open indefinitely. The frequency and tenor of all the letters between the parties tend to show that the reasonable time limit was a very short one, rather than a long or indefinite one, as nearly all the letters between the parties requested an answer “at the earliest possible date” or “without delay,” or requested that something be done “immediately” or “within the near future.” The letter of defendant to plaintiff dated Feb. 2 (plaintiff’s exhibit 14), in answer to plaintiff’s letter to defendant dated Feb. 1, 1928 (plaintiff’s exhibit 12), in which he accepted defendant’s proposition of Jan. 26, 1928, contains the following language:
+“Not having heard from you for several days we assumed that you had lost interest in the matter of representing us in our dealings with the J. C. Penney -Company, and therefore wrote them direct.”
+Said letter further said in substance that if the Penney Co. replied to defendant direct, defendant would send the letter on to plaintiff.
+The shortness of the time limit is also emphasized by the letter of the Penney Co. to plaintiff dated March 13, 1928 (plaintiff’s exhibit 22), in which it was said:
+“You may be sure of our full co-operation. It would seem, however, that by this time, you should be able to line up something very definite on the old postoffice site. We shall hope to hear from you very shortly.”
+Also, the fact that defendant wrote a letter to plaintiff only 22 days after it made the proposition and cancelled the same, and that the new proposition made in the letter of March 14 (plaintiff’s exhibit 23) definitely fixed the time limit at only 12 days and then extended it only 15 days, is seme indication tending to show that the proposition made in defendant’s letter of Jan. 26 was to be open for only a short time and not indefinitely.
+Under all the facts and circumstances surrounding this transaction, we do not think it can be said that plaintiff did not have a reasonable time within which to consummate a deal for a lease with the Penney Co.
+Furthermore, after carefully considering all the evidence, including the correspondence, which is undisputed, we are clearly of the opinion that when plaintiff accepted defendant’s new proposition for a fixed time and at a different amount of commission, as stated in its letter of March 14, 1928 (plaintiff’s exhibit 23), and went to work under it and got the time extended from March 26 to April 10, he thereby recognized and agreed to the cancellation of the original proposition, as set forth in defendant’s letter of Feb. 17, .1928, and accepted the new proposition as a substitute for it.
+However, even if it could be said that the proposition of defendant as contained in its letter of Jan. 26 could not be can-celled without plaintiff’s consent and that he did not consent to a cancellation of it and accept the new proposition of March 14 in lieu thereof, it will be observed that after he received the letter from the Penney Co. dated April 27, 1928 (defendant’s exhibit A), he left it with defendant and never had any further negotiations with either defendant or the Penney Co. about a location in Sandusky. We think the only inference that can be drawn from this conduct is that he then absolutely abandoned the matter of securing the Penney Co. as a tenant for defendant.
+Moreover, it will be further observed that there is nothing in the record to show that defendant thereafter solicited the Penney Co. for a lease, but that on the contrary the Penney Co., by persons other than the one who directed the correspondence with plaintiff, initiated the new negotiations by first writing the defendant for information about leasing space in its proposed building, in July and again in September, before the lease was executed in October, 1928.
+From our reading of the record, we are clearly of the opinion that there is no evidence to support plaintiff’s claim that there is anything due him for a breach of the original proposition, it being admitted that no tenant was obtained under defendant’s proposition of March 14, which was extended to April 10, 1928, and that the court was therefore fully warranted in directing a verdict for defendant.
+Judgment affirmed.
+PARDEE, PJ, and WASHBURN, J, concur in judgment.
