@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+docket: "00AP-1467 and 00AP-1468"
+decided: "2001-09-04"
+citations: ["145 Ohio App. 3d 616"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Peggy Bryant, P.J., and Tyack, J., concur."]
+parties: ["HERTZFELD, Appellant, v. MEDICAL COLLEGE OF OHIO AT TOLEDO, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/145/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 384680
+cites_cases: ["17 OBR 147", "17 Ohio App.3d 86", "18 O.O.3d 345", "1982 WL 3955", "1996 WL 435028", "21 O.O.3d 238", "23 O.O.3d 485", "413 N.E.2d 816", "423 N.E.2d 1105", "433 N.E.2d 223", "477 N.E.2d 681", "64 Ohio St.2d 102", "67 Ohio St.2d 378", "674 N.E.2d 375", "69 Ohio. St.2d 577", "77 Ohio St.3d 1524"]
+---
+
+# Hertzfeld v. Medical College
+
+## Majority (Lazarus, Judge.)
+
+Lazarus, Judge.
+Appellant, Gloria J. Hertzfeld, appeals from the December 1, 2000 judgment and entry of the Franklin County Court of Common Pleas dismissing appellant’s appeals for lack of subject matter jurisdiction. For the reasons that follow, we reverse and remand for a determination on the merits.
+Appellant has been employed by appellee, Medical College of Ohio at Toledo, since 1971. On two separate occasions, appellant appealed to the State Personnel Board of Review (“SPBR”), alleging that she had been reduced in her position. After numerous appeals and remands, appellant appealed the cases to the Franklin County Court of Common Pleas. In case No. 99CVF11-9843, appellant appealed a decision of the SPBR that found that she had been reduced in position. Appellant, however, claimed on appeal that she had been reduced from the position of Administrative Assistant 2, not Administrative Secretary 2, as found by the SPBR. In case No. 99CVF11-9844, appellant appealed a separate decision of the SPBR that she did not suffer a reduction in position.
+The trial court consolidated the cases. Though neither party raised the issue, the trial court sua sponte dismissed both appeals on the basis that it lacked subject matter jurisdiction pursuant to R.C. 124.34. The trial court reasoned that R.C. 124.34 confers no jurisdiction on the Franklin County Court of Common Pleas to hear appeals of non-disciplinary reductions in position.
+On appeal, this court has also consolidated the two appeals. Appellant assigns as error the following:
+“The Franklin County Court of Common Pleas committed reversible error when it dismissed appellant’s appeal for lack of subject matter jurisdiction.”
+Appellant argues that R.C. 119.12 permits an appeal to the Franklin County Court of Common Pleas from a decision of the SPBR involving a non-disciplinary reduction in position and that R.C. 124.34 applies only in cases of removal or reduction of pay for disciplinary purposes. Since appellant’s case does not involve a disciplinary reduction in position or pay, she argues that R.C. 119.12 governs her appeal, and the Franklin County Court of Common Pleas is the appropriate forum in which to bring her appeal.
+The state does not argue to the contrary. Instead, the state urges that we affirm the orders of the SPBR on the merits.
+The trial court based its decision on Harris v. Lewis (1982), 69 Ohio. St.2d 577, 23 O.O.3d 485, 433 N.E.2d 223, and Weisenberger v. Aud. of State (Jan. 28, 1982), Franklin App. No. 81AP-607, unreported, 1982 WL 3955. We find, however, that the holding in Harris is distinguishable from the instant case and that recent decisions of the Supreme Court of Ohio and this court have called into question the reasoning of this court in Weisenberger.
+First, Harris involved a non-disciplinary involuntary reduction in pay that resulted from the Montgomery County Board of County Commissioners’ adopting a series of resolutions standardizing county employees’ work hours and unpaid lunch hours. The syllabus in Harris provides:
+“Involuntary reductions in pay must comply with R.C. 124.34. This statute provides that only reductions in pay for disciplinary reasons can be appealed, if at all, to the Court of Common Pleas in the county of the employee’s residence. (Davis v. Bd. of Review, 64 Ohio St.2d 102, 18 O.O.3d 345, 413 N.E.2d 816, followed.)”
+While there is language in Harris to the effect that non-disciplinary reduction orders do not warrant any judicial review, we read the syllabus in Harris as confined to the proposition that R.C. 124.34 provides authority for appeal to the common pleas court in the employee’s county of residence only in cases of reductions in pay for disciplinary reasons. Accord Garfield Hts. Bd. of Edn. v. Gillihan (1984), 17 Ohio App.3d 86, 89, 17 OBR 147, 477 N.E.2d 681 (R.C. 124.34’s authority for appeal to the common pleas court is confined to cases of removal or reduction in pay for disciplinary reasons). In this case, it is uncontroverted that appellant’s alleged reduction in position did not involve any loss of pay or any disciplinary action. Thus, Harris is inapplicable to the instant case.
+Weisenberger, supra, is more directly on point. That case involved a nondisciplinary reduction in position. This court held that the state employee did not have the remedy of appeal to the Franklin County Court of Common Pleas because such right of appeal was not specified in R.C. 124.34 and that R.C. 119.12 did not independently confer a right of appeal. That decision was based on the finding that, as R.C. 124.34 was a more specific statute enacted later in time, it controlled over R.C. 119.12.
+That reasoning, however, was specifically rejected in Brunnett v. Ohio Dept. of Transp. (Aug. 1, 1996), Franklin App. No. 96APE02-133, unreported, 1996 WL 435028, appeal not allowed Brunnett v. Ohio Dept. of Transp. (1997), 77 Ohio St.3d 1524, 674 N.E.2d 375. In Brunnett, state employees appealed the SPBR’s affirmation of their disciplinary suspensions to the Franklin County Court of Common Pleas, arguing that R.C. 119.12 conferred subject matter jurisdiction over the appeals. The trial court dismissed the appeals for lack of subject matter jurisdiction.
+On appeal, this court overruled prior decisions of this court dismissing such appeals for lack of subject matter jurisdiction stating:
+“In the earlier decisions, while this court properly recognized that R.C. 124.34 was a more specific statute, we failed to analyze whether there was an irreconcilable conflict between that statute and R.C. 119.12. Upon closer examination of the provisions of both statutes, we find no such conflict * * *.”
+Thus, this court allowed the appeal, stating that “we find the language in R.C. 119.12, allowing an appeal by any party adversely affected by an order of an agency, to be similarly broad so as to encompass the appeal appellants sought to pursue in common pleas court pursuant to R.C. 119.12.” Brunnett, supra.
+This court further noted that, for twenty years, the Ohio Supreme Court has recognized the right of state employees to appeal layoff decisions, although R.C. 124.34 does not specifically provide for such an appeal. Brunnett, supra. We also noted that in Pitts v. Dept. of Transp. (1981), 67 Ohio St.2d 378, 21 O.O.3d 238, 423 N.E.2d 1105, the court recognized the right of an employee to appeal, pursuant to R.C. 119.12, from a decision by the SPBR relating to job abolishments, even though such appeals were not specifically provided for in R.C. 124.34.
+After a review of the relevant case law, we find the reasoning of the more recent Brunnett opinion to be more persuasive than that of Weisenberger. Accordingly, we agree with appellant that the availability of the appeal mechanism contained in R.C. 124.34 applies to cases of removal or reduction of pay. for disciplinary purposes, but is not applicable to a non-disciplinary reduction of position such as we have here and, as such, does not preclude an appeal pursuant to R.C. 119.12.
+Based on the foregoing, appellant’s single assignment of error is sustained. Because the trial court never ruled on the merits of the case and, instead, dismissed for lack of subject matter jurisdiction, this cause is remanded to the trial court so that, pursuant to R.C. 119.12, it may review the record and determine whether the decision of the SPBR is supported by reliable, probative, and substantial evidence and in accordance with law.
+Judgment reversed and cause remanded.
+Peggy Bryant, P.J., and Tyack, J., concur.
