@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. 898CA004679"
+decided: "1990-05-30"
+citations: ["3 Ohio App. Unrep. 266"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CACIOPPO, J., and MAHONEY, J., concur."]
+parties: ["Orbek v. Orbek"]
+source_url: "https://static.case.law/ohio-app-unrep/3/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1612729
+cites_cases: ["25 Ohio App. 2d 98"]
+---
+
+# Orbek v. Orbek
+
+## Majority (QUILLIN, P.J.)
+
+QUILLIN, P.J.
+Defendant-appellant, Joseph Orbek, challenges the trial court's journalization of the parties' purported agreement which differed from the agreement read into the record at the final divorce hearing. We reverse.
+On August 3, 1989, at the final hearing on Elizabeth Orbek's complaint for divorce, the parties read into the record a settlement agreement. After Joseph's counsel withdrew, counsel for Elizabeth prepared a judgment entry which the trial court, without Joseph's approval, signed and filed on September 20,1989. Joseph, pro se, filed a motion to vacate and a motion for new trial. The trial court dismissed both motions for failure to prosecute
+Joseph raises one assignment of error.
+ASSIGNMENT OF ERROR
+"That the appellee and appellant are bound to the matters agreed upon in the In-Court Agreement, entered into August 3, 1989. Any deviation from the Agreement cause the decree to be entered in error and must be stricken."
+The transcript of proceedings for the hearing on August 3, 1989, reflects that the parties stated on the record that they had reached an agreement. This agreement was read into the record and transcribed by the court reporter. The parties stated for the record that they agreed to the basic terms of the agreement.
+Although the parties agreed to all provisions that were read into the record, it could be expected that the divorce decree would implement these provisions. However, Joseph contends that when Elizabeth prepared the judgment entry she made significant alterations which were prejudicial to Joseph.
+An in-court agreement of the parties concerning the division of property, adopted by the court as its judgment is enforceable by the court and may be incorporated into the judgment entry even in the absence of an agreement in writing. Holland v. Holland (1970), 25 Ohio App. 2d 98, 101.
+In this instance^ some of the terms of the decree were agreed to and memorialized on the record while other terms were not recorded and are now disputed.
+Joseph directs us for four discrepancies between the terms of the in-court agreement read into the record and the terms of the judgment entry of divorce Three of the discrepancies related to the sale of real property owned by the parties: The first discrepancy involves property located at Garfield Road. In describing the real estate on Garfield Road, the in-court agreement states:
+"The Garfield Road property * * * would be sold and the equity would be split between the parties. Mr. Orbek's equity would be held in escrow pending the final resolution of the property being on Pleasant Street. Should the Pleasant Street property situation work itself out, then his equity would be released.
+"If necessary, to cover any deficiencies on the mortgage for Pleasant Street, that deficiency would be covered out of the Garfield Road property equity.
+11* * * I*
+The judgment entry of divorce grants to Elizabeth the immediate authority to sell the Garfield Road property upon such conditions and price as she, is her sole discretion, deems appropriate It also grants her the authority to expend funds for stated purposes as she deems necessary for which she is to be reimbursed from sale proceeds. The judgment entry also states that the proceeds of sale, less any reimbursement to Elizabeth, shall be divided equally provided however:
+"* * *[T]hat in the event that the property at 73-75 N. Pleasant Street, Oberlin, Ohio, has not been cleared of further obligation of Plaintiff, or sale closed, Defendant's half shall be paid to Attorney Corinne K. Dawson and held in escrow, and be distributed by Attorney Dawson as follows:
+"1. as requested by the Receiver appointed herein under paragraph 1 A, and under authority included in Exhibit B.
+"2. To satisfy the fee of the receiver for discharge of his responsibility under paragraph 1A.
+"3. for any discrepancy between sale proceeds and rental income and funds needed to clear title to buyer of property under paragraph 1 A.
+"d. Balance to Defendant."
+Joseph contends that his change is prejudicial because if Elizabeth is permitted to exercise complete discretion over the sale of the property, he will lose approximately twenty-five thousand dollars because he claims she wants to sell the property for twenty-five thousand dollars while he says he has received an offer of approximately fifty thousand dollars. Elizabeth contends that Joseph has never presented her with any evidence of this offer for her consideration. She also contends that there are now twenty-one thousand dollars worth of federal tax liens on the property since the August 3, 1989 hearing, which makes the sale "academic" We disagree. While the proceeds which Joseph is entitled to will be reduced in either case, there is certainly a difference between a fifty thousand dollar selling price subject to a twenty-one thousand dollar lien and a twenty-five thousand dollar selling price subject to the same tax lien.
+Elizabeth admits that the agreement provides no mechanism for the sale of the property. However, she contends that the parties intended that the property would be immediately disposed of, with the proceeds being divided equally. The distribution of Joseph’s equity would be withheld until the mortgage on the North Pleasant Street property was resolved. Elizabeth does agree that the parties did not intend for her attorney to be the escrow agent for Joseph's portion of the Garfield Road proceedsbecause Joseph'soriginal attorney was the intended escrow agent. However once Joseph's first attorney withdrew, she claims no one else was willing to be the agent.
+Joseph also disputes the appointment of a receiver for the sale of the Pleasant Street property if the mortgage on the property was not removed by November 5, 1989. Elizabeth contends that the appointment of a receiver for the sale of the property was discussed and agreed to in negotiations and is consistent with the in-court agreement because if, after ninety days, Joseph failed to resolve the question of liability on the mortgage, the property would immediately be sold. However, there is no mention in the record of the appointment of a receiver, that the escrow agent would distribute Joseph's share of the Garfield Road sale proceeds to the receiver, or that the receiver's fee would come from Joseph's share.
+Another discrepancy about which Joseph complains is the addition of the term "lawn equipment" in the judgment entry in the items that Elizabeth is entitled to from the Morgan Street residence Joseph contends that the addition of the term "lawn equipment" is significant because Elizabeth relied on this phrase to file a theft charge against him when he removed a wood chipper/shredder from the Morgan Street property. Elizabeth does not address the issue of why the term "lawn equipment" was not in the in-court agreement, but was included in the judgment entry of divorce. However, she contends that she agreed to sign over the title to a 1965 Mustang to Joseph in exchange for an acknowledgment of her ownership of the wood chipper. Elizabeth also contends that the wood chipper was not included in the in-court agreement because the agreement concerning the 1965 Mustang and the wood chipper had been conclud ed. The in-court agreement specifically mentions the 1965 Mustang however, the wood chipper is not mentioned.
+Elizabeth contends thatthe judgment entry, which she prepared, merely effectuates the terms of their agreement. However, we find it signifi cant that when Joseph offered to have the in-court agreement incorporated verbatim into the divorce decree, Elizabeth refused to limit the terms to those read into the record on August 3, 1989.
+Therefore, we must hold that the trial court erred in determining that the parties had agreed to all the terms contained in the judgment entry. The court did not merely journalize what had been read into the record and agreed to during the hearing, but instead included additional, unrecorded provisions which are now in dispute. Therefore the trial court erred in including terms in the judgment which were not agreed to by the partiea See Emerine v. Emerine (Oct. 25, 1989), Lorain App. No. 89CA004571, unreported.
+Judgment reversed and cause remanded.
+CACIOPPO, J., and MAHONEY, J., concur.
+Mahoney, J., retired Judge of the Ninth District Court of Appeals, sitting by assignment pursuant to Article IV, Section 6(C), Constitution.
