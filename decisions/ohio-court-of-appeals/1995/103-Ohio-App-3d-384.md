@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-940361"
+decided: "1995-05-03"
+citations: ["103 Ohio App. 3d 384"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gorman, P.J., and Painter, J., concur."]
+parties: ["WARMAN, Appellant, v. KENNER PRODUCTS, INC. et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/103/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1776550
+cites_cases: ["10 O.O.3d 503", "27 Ohio St.2d 40", "271 N.E.2d 769", "28 OBR 406", "28 Ohio St.3d 341", "35 Ohio St.3d 108", "377 N.E.2d 493", "384 N.E.2d 693", "503 N.E.2d 1032", "519 N.E.2d 358", "54 Ohio St.2d 369", "56 O.O.2d 22", "56 Ohio St.2d 386", "584 N.E.2d 1175", "594 N.E.2d 609", "602 N.E.2d 1141", "63 Ohio St.3d 22", "64 Ohio St.3d 236", "65 Ohio St.3d 234", "655 N.E.2d 187", "74 Ohio St.3d 1408", "8 O.O.3d 387"]
+---
+
+# Warman v. Kenner Products, Inc.
+
+## Majority (Hildebrandt, Judge.)
+
+Hildebrandt, Judge.
+Appellant, Sue Warman, appeals from the judgment of the Hamilton County Court of Common Pleas dismissing her appeal from the termination of medical care ordered by the Industrial Commission of Ohio (“commission”) in response to the motion of Warman’s employer, appellee Kenner Products, Inc. (“Kenner”). In a single assignment of error, she raises the following claim:
+“The trial court erred in granting the motion to dismiss for lack of subject matter jurisdiction by finding that the Industrial Commission’s order only dealt with the extent of disability and did not deny appellant the right to continue to participate under the Ohio Workers’ Compensation Act.”
+We find the assignment to be persuasive.
+FACTS
+On June 11, 1979, Warman, while in Kenner’s employ, was injured in an industrial accident. She suffered injury to her lower back. Her claim for medical benefits for her lumbar spine injury was granted. On September 30, 1991, Warman was the victim of a nonindustrial accident. On January 24, 1992, Kenner filed a motion with the commission seeking to terminate Warman’s medical care benefits due to the intervening automobile accident. The matter was referred to a hearing officer who found from a doctor’s report that Warman sustained the following injuries as a result of the intervening accident: herniated cervical disc C5-6; mild at C6-7 with pinched nerve on left side; soft tissue injury including muscles, tendons, ligaments on the right shoulder and neck area. The hearing officer recommended that Kenner’s motion to terminate be denied because the report did not mention any injury to Warman’s lower back. The hearing officer’s recommendation was affirmed by the board of review in February 1993, and Kenner sought further review.
+In August 1993, the commission, through its staff hearing officers, granted Kenner’s motion to terminate on the basis that Warman was involved in an automobile accident on September 30, 1991, during which she sustained injuries to her neck and lower back. The staff hearing officers further found that the intervening accident aggravated her pre-existing low-back condition that was the subject of her compensable 1979 claim, and that the costs of medical treatment rendered to her after her automobile accident were causally related to that accident and should not be paid under the existing claim.
+Warman appealed the commission’s decision to the court below. Kenner moved to dismiss the appeal for the reason that the commission’s order went to the extent of disability rather than to the right to participate or continue to participate in the fund. On April 18, 1994, the court granted Kenner’s motion to dismiss.
+DISCUSSION
+The appeal to the court of common pleas was brought pursuant to former R.C. 4123.519, which is now codified in R.C. 4123.512. In Afrates v. Lorain (1992), 63 Ohio St.3d 22, 584 N.E.2d 1175, the court held in paragraph one of the syllabus:
+“A (final) decision of the Industrial Commission involving a claimant’s right to participate or to continue to participate in the State Insurance Fund must, if review is sought, be appealed pursuant to the terms of former R.C. 4123.519. The only decisions reviewable pursuant to R.C. 4123.519 are those decisions involving a claimant’s right to participate or to continue to participate in the fund. (Reeves v. Flowers [1971], 27 Ohio St.2d 40, 56 O.O.2d 22, 271 N.E.2d 769, Smith v. Krouse [1978], 54 Ohio St.2d 369, 8 O.O.3d 387, 377 N.E.2d 493, and Zavatsky v. Stringer [1978], 56 Ohio St.2d 386, 10 O.O.3d 503, 384 N.E.2d 693, followed. State, ex rel. O.M. Scott & Sons Co., v. Indus. Comm. [1986], 28 Ohio St.3d 341, 28 OBR 406, 503 N.E.2d 1032, and Seabloom Roofing & Sheet Metal Co. v. Mayfield [1988], 35 Ohio St.3d 108, 519 N.E.2d 358, and their progeny are overruled to the extent that they are inconsistent with this opinion.)”
+In Felty v. AT & T Technologies, Inc. (1992), 65 Ohio St.3d 234, 602 N.E.2d 1141, the court held in the syllabus:
+“1. Only decisions reaching an employee’s right to participate in the workers’ compensation system because of a specific injury or occupational disease are appealable under R.C. 4123.519.
+“2. Once the right of participation for a specific condition is determined by the Industrial Commission, no subsequent rulings, except a ruling that terminates the right to participate, are appealable pursuant to R.C. 4123.519. (Afrates v. Lorain [1992], 63 Ohio St.3d 22, 584 N.E.2d 1175, followed.)”
+In State ex rel. Evans v. Indus. Comm. (1992), 64 Ohio St.3d 236, 594 N.E.2d 609, paragraph one of the syllabus, the court stated:
+“An Industrial Commission decision does not determine an employee’s right to participate in the State Insurance Fund unless the decision finalizes the allowance or disallowance of the employee’s claim. (Afrates v. Lorain [1992], 63 Ohio St.3d 22, 27, 584 N.E.2d 1175, 1179, Mowed.)”
+In Evans, the relator suffered an industrial injury on October 7, 1986, and he filed a claim with the commission. A district hearing officer heard the claim on May 31, 1987, and awarded relator temporary total disability compensation from October 8, 1986 through December 30, 1986, for lumbosacral strain. However, the hearing officer denied medical benefits after December 30, 1986, for the reason that relator suffered an intervening injury on January 1, 1987, when he slipped and fell on ice. The hearing officer further found that the intervening injury substantially aggravated the pre-existing lumbosacral strain, basing such finding on the fact that relator did not seek medical treatment from October 30, 1986 through January 8, 1987.
+The board of review and the commission denied relator’s appeal. He then filed a complaint in mandamus in the Franklin County Court of Appeals, contending that the commission abused its discretion, and seeking further temporary total disability compensation and medical benefits. That court reasoned that a writ of mandamus was the appropriate remedy because relator could not appeal the commission’s ruling under R.C. 4123.519, and it accordingly granted the writ.
+In reversing the court of appeals, the Supreme Court of Ohio observed in Evans that:
+“In this case, the commission did more than simply refuse to grant additional benefits for a specified time period. The hearing officer denied both temporary total disability benefits after December 30, 1986 and ‘medical bills incurred after 1-8-87.’ We understand this order to permanently foreclose Evans from receiving any further benefits under the claim he filed for the original accident that occurred at work on October 7, 1986. This flat prohibition of any future benefits determines the claimant’s right to participate in the State Insurance Fund and is subject to appeal pursuant to R.C. 4123.519. Because Evans could have appealed this decision, he had an adequate remedy at law, and thus he is not entitled to a writ of mandamus. The judgment of the court of appeals is reversed and the complaint in mandamus is dismissed.” Id. at 240-241, 594 N.E.2d at 612-613.
+In the case sub judice, the commission’s staff hearing officers concluded that Warman’s intervening injury aggravated her pre-existing low-back condition. As a result, the medical treatment rendered to her after the date of the automobile accident (September 30, 1991) was causally related to that intervening accident and was not to be recognized in her original claim. Therefore, Warman’s right to participate in the commission fund terminated. Based on the above authority, we hold that this ruling was appealable under R.C. 4132.519, now R.C. 4123.512. Thus, the lower court erred by dismissing the appeal.
+Accordingly, the judgment of the court of common pleas is reversed and this cause is remanded for further proceedings consistent with this decision and law.
+Judgment reversed and cause remanded.
+Gorman, P.J., and Painter, J., concur.
+. We have sua sponte removed this cause from this court’s accelerated calendar and placed it on the regular calendar.
+. The record of the proceedings before the commission is not contained within the record from the court below. However, the factual fundament of this cause can be gleaned from the commission documents that were attached in support of Kenner’s motion to dismiss.
