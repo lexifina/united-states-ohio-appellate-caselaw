@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA85-04-014"
+decided: "1985-12-09"
+citations: ["27 Ohio App. 3d 282"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Koehler, P.J., Jones and Hen-drickson, JJ., concur."]
+parties: ["Madison Seed Co., Inc., Appellant, v. Tax Commissioner of Ohio, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/27/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6712752
+cites_cases: ["12 O.O.3d 203", "167 Ohio St. 363", "21 O.O.3d 261", "34 Ohio St. 2d 206", "5 O.O.2d 3", "50 Ohio App. 131", "58 Ohio St. 2d 210", "63 O.O.2d 314", "67 Ohio St. 2d 417"]
+---
+
+# Madison Seed Co. v. Tax Commissioner
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appellant, Madison Seed Co., Inc., is in the business of marketing seeds to farmers. It obtains raw grains and soybeans from growers under contract, and then prepares them so that they are ready for planting when sold. Appellee, the Tax Commissioner of the state of Ohio, ordered appellant to pay $15,124.53 in sales and use taxes, including a penalty, pursuant to an audit of appellant’s purchases from January 1, 1977 through June 30, 1979. The assessment order was based upon the determination that appellant is not engaged in “manufacturing or processing” within the meaning of R.C. 5739.01(R) (formerly R.C. 5739.01[S]), and therefore is not entitled to an exemption.
+On June 10, 1982, appellant filed a notice of appeal with the Ohio Board of Tax Appeals (the “board”). A hearing was held on January 26, 1983, and on March 8, 1985, the board issued a decision and order in which it modified the assessment, and allowed an exemption solely for appellant’s seed treater and parts for it.
+From this decision, appellant timely filed a notice of appeal with this court, naming the following as his sole assignment of error:
+“The Board of Tax Appeals erred in determining that the Appellant’s entire operation is not exempt from Ohio sales and use taxation.”
+Appellant first argues under this assignment of error that appellant’s entire operation comes within the statutory definition of “manufacturing or processing” and therefore appellant’s entire operation is exempt. R.C. 5739.01 (R) states:
+“ ‘Manufacturing’ or ‘processing’ means the transformation or conversion of material or things into a different state or form from that in which they originally existed and, for the purpose of the exceptions contained in division (E)(2) of this section, includes the adjuncts used during and in, and necessary to carry on and continue, production to complete a product at the same location after such transforming or converting has commenced.” (Emphasis added.)
+When appellant receives raw soybeans they are usable for seed and other various purposes such as feed, food and fiber. The raw soybeans may contain a higher content of moisture than desired, as well as contaminants and defective seeds, and as a result they have a lower level of germination than desired. In order to improve the germination level of the raw soybeans, appellant uses a series of processes to remove the moisture, contaminants and defective seeds.
+First the seeds are placed in grain bins which have false floors to allow drying of the seeds in order to reduce their moisture content. Since the soybeans are fragüe, and must be handled gently, a special bean ladder is used to lower the beans into the bins.
+After the soybeans are dried, they are run over screens which separate contaminants such as sticks and oversized or undersized seeds which are likely to be less germinable. Then another process, the spiral, is used which separates seeds which are not well-rounded, and which are therefore likely to be diseased. Next, a gravity table is used to remove seeds which are lighter than normal due to cracks on their hulls.
+After passing over the gravity table, the remaining seeds are treated with a fungicide and colored so as to identify them as having been treated. The coloring step is necessary because by law, after these soybeans have been treated, they may only be used for seed purposes.
+The board determined that appellant is engaged in “manufacturing or processing” according to the statutory definition of these terms. However, the board found that the only item used by appellant directly in manufacturing for sale under R.C. 5739.01(E)(2), and which therefore is entitled to an exemption, is the seed treater and parts for it. The board made this determination based upon the finding that the application of the fungicide and the coloring process were the only procedures which converted the bean into a “different state or form” as required by statute in order to be entitled to an exemption.
+Both appellee and the board rely on the case of Gressel v. Kosydar (1973), 34 Ohio St. 2d 206 [63 O.O.2d 314], In that case, Gressel acquired eggs from poultry farm producers, which it then cleaned, candled, graded, oiled and packaged for sale. At various stages of the operation, unmarketable eggs were removed. Although the Supreme Court of Ohio found that the value of the eggs was enhanced by this process, the court did not find any change or conversion in the eggs so that the process could fall within the statutory definition of “manufacturing or processing.” In Gressel, the court stated:
+“An operation by which the value of materials or things is enhanced, without an accompanying change in the state or form of such 'property, does not constitute ‘processing,’ as that term is used in R.C. 5739.01(E)(2).” (Emphasis added.) Gressel v. Kosydar, supra, at paragraph two of the syllabus.
+Unlike the situation in Gressel, in the case subjudice, the board found that appellant was engaged in manufacturing or processing since a change in the state or form of the raw soybeans occurred when they were treated and colored. Since appellant is engaged in manufacturing or processing, any combined processes necessary to complete the manufacture of the final marketable product are considered to be manufacturing processes. Tax Comm. of Ohio v. J. Chas. McCullough Seed Co. (1935), 50 Ohio App. 131 [3 O.O.470]. Further, any property used or consumed directly in the manufacturing process of the marketable product is entitled to an exemption. Youngstown Bldg. Material & Fuel Co. v. Bowers (1958), 167 Ohio St. 363 [5 O.O.2d 3],
+The marketable product produced by appellant is a treated, disease-resistant seed, with a five to fifteen percent improved germinability over the raw soybeans initially received from its growers. Therefore, each process used by appellant in order to improve the ger-minability of the raw soybeans is not preliminary to manufacturing or processing, but rather is directly involved in the final marketable product’s manufacture, and must be exempt. As such, we hold the board was unreasonable in not finding that appellant’s entire operation is exempt from the Ohio sales and use tax. 3535 Salem Corp. v. Lindley (1979), 58 Ohio St. 2d 210 [12 O.O.3d 203].
+We further note that the record does not show that any of appellant’s screening processes are used for disposal of scrap or waste materials such as to disallow exemption as per Ohio Adm. Code 5703-9-21. Rather, the record shows the equipment is used to separate contaminants and defective soybeans from those soybeans likely to have better germinability, and not for disposal purposes. Therefore, we find this machinery to be used during the manufacturing process for sorting purposes, and not after such process for disposal purposes, as was found to be the case with magnetic separators used to withdraw debris from crushed limestone and coal in a clinker plant in the case of Southwestern Portland Cement Co. v. Lindley (1981), 67 Ohio St. 2d 417 [21 O.O.3d 261],
+Due to our finding on appellant’s first argument under its assignment of error, we feel no need to discuss appellant’s other contention that appellant’s operation constitutes “refining” and is therefore exempt.
+Accordingly, appellant’s first assignment of error is well-taken.
+Judgment reversed and cause remanded.
+Koehler, P.J., Jones and Hen-drickson, JJ., concur.
