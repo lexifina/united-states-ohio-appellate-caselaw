@@ -2,7 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "5242"
 decided: "1924-09-29"
-citations: ["3 Ohio Law Abs. 259", "2 Ohio Law Abs. 774"]
+citations: ["3 Ohio Law Abs. 259"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
