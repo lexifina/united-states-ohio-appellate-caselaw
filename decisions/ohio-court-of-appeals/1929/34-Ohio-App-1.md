@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1929-12-13"
+citations: ["34 Ohio App. 1"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sherick, J., concurs.", "Houck, J., not participating."]
+parties: ["Brucks v. Weinig."]
+source_url: "https://static.case.law/ohio-app/34/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1318913
+cites_cases: ["10 Ohio St., 527", "26 Ohio Law Rep., 422", "33 Ohio St., 547", "78 Am. Dec., 280"]
+---
+
+# Brucks v. Weinig
+
+## Majority (Lemert, J.)
+
+Lemert, J.
+This is an action in injunction. Plaintiff, Louis Bracks, in his petition alleged that he is the owner of lot No. 131 in the city of Dover, Ohio, and that the defendant, Albert Weinig, is owner of lot No. 132, lying immediately east of and adjacent to plaintiff’s lot; that plaintiff’s lot is forty-nine and one-half feet wide and one hundred and ninety-eight feet in length, and that there is a brick building located on each of the said lots covering the full width and extending northward from the street a distance of eighty feet.
+Plaintiff in the court below alleged that the defendant threatens to cut from the front of the building to the plaintiff’s lot about four inches, and that the same will impair plaintiff’s building and cause plaintiff great and irreparable injury, for which he alleges he has no adequate remedy at law. He further alleges that plaintiff’s said building and the east wall thereof have remained where they now are for a period of 36 years, openly, notoriously, and continuously.
+The defendant in the court below filed an answer admitting that plaintiff is the owner of lot No. 131, having the width and depth claimed by plaintiff in his petition, and that defendant is owner of lot No. 132 lying immediately adjacent to plaintiff’s lot; admitting that there is a brick building the full width thereof and extending northward from the street a distance of eighty feet and that there is located on defendant’s lot a brick building covering the full width thereof and extending northward about same distance as plaintiff’s building; and admitting that the defendant has removed a part of the front end of his building and is about to construct a new front thereon.
+Defendant further admits that plaintiff’s building has remained where it now is for a period of about 36 years.
+It is not our purpose or intention in this opinion to quote at length evidence submitted in the court below, but suffice it to say that careful examination of the record submitted in the court below discloses beyond question that 36 years ago the plaintiff and one Henry W. Enck then owned lot No. 131 jointly, and constructed a brick building on this lot, for business purposes, about fifty feet wide, the front, on each corner, ornamented by pilasters of certain design sixteen inches wide, which projected four inches over the main building, and which were tied into the walls of the building. Certain other ornaments of like design and construction were attached to the building on the front thereof so as to make the front harmonious as a whole in its appearance. The building, including the pilasters and front, has been and still is maintained as it was when constructed.
+We fail to find any evidence in the record concerning any contract or arrangement between any lot owners when the wall between them was built, especially in reference to its being a party wall. Neither is there any evidence of a contract between them designating it as a party wall when the defendant’s building was tied into the wall. Neither is there sufficient evidence to warrant a finding that the adjoining owner ever contributed toward the cost of the walls constructed.
+As to the question in this case, whether or not the wall in question is a party wall, we believe that a party wall in a legal sense of the term can be created only by virtue of a contract between the adjoining owners, or by force of statute. It may be acquired by prescription, but, since a right so acquired prescribes an agreement or grant thereof, even in such case the right may be said to have been created by contract. Whatever may be the law outside of Ohio, it is well settled in this state, in Hieatt v. Morris, 10 Ohio St., 527, 78 Am. Dec., 280, that “the rights and liabilities of the parties” to a party wall agreement “must depend upon the provisions of the contract between them and the principles of law applicable to those provisions.”
+If the wall in question in this case is a party wall, it must come within the meaning of the following proposition pertaining to party walls and the nature of the ownership thereof: A wall which belongs entirely to one of adjoining owners, which is subject to an easement or right in the other to have it maintained as a dividing wall between two tenements.
+There is very little in the record to indicate any agreement between any of the parties hereto or their predecessors in title except a reference to the agreement, understanding, or consent of Mr. Enck, to use his own words from the record, that “he did not object to the defendant’s building being tied into the wall,” and from the fact that, when defendant’s building was constructed, it was tied into the wall by joists, without disturbing the frontage in which manner it has been maintained for 30 years. And from the rule expressed, as heretofore quoted, in 10 Ohio State, the contract governs in so far as it can be ascertained. This being true the defendant herein has no legal right to do more than the contract called for as evidenced by his use of the wall through all the years.
+There is evidence in the record before us to show that by cutting the pilaster it will damage the plaintiff in two ways, by marring the appearance of the building and by diminishing its strength. We do not believe that the defendant in this case has the right to tear away the wall in question, considering that this wall has been erected where it now stands for a period of 36 years. Miller v. Brown, 33 Ohio St., 547; Cino Theatre Co. v. B/G Sandwich Shops, Inc., (C. C. A.), 24 F.(2d), 31, 26 Ohio Law Rep., 422.
+An examination of the record before us shows that, if the defendant should be permitted to cut off a part of the pilaster, as he proposes to do, it will weaken the strength of the same, and of the wall, and, applying the law in this case, as set forth in citations hereinbefore referred to, without quoting them in full or greater length herein, we must hold that, if the defendant were permitted so to do, the same would be an unwarranted invasion of plaintiff’s property rights.
+There can be no question in this case but that injunction is the proper remedy, and it is our finding that the injunction heretofore granted be made perpetual ; so the same judgment will be entered in this court as was entered in the court below.
+Injunction allowed.
+Sherick, J., concurs.
+Houck, J., not participating.
