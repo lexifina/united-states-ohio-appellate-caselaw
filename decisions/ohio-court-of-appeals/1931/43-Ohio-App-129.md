@@ -1,7 +1,7 @@
 ---
 court: "Ohio Court of Appeals"
 decided: "1931-08-11"
-citations: ["43 Ohio App. 129", "40 Ohio App. 69"]
+citations: ["43 Ohio App. 129"]
 reporter: "ohio-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
