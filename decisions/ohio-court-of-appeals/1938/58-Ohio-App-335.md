@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1938-05-09"
+citations: ["58 Ohio App. 335"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lloyd and Overmyee, JJ., concur."]
+parties: ["Imes, Appellant, v. City of Fremont, Appellee."]
+source_url: "https://static.case.law/ohio-app/58/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1355592
+cites_cases: ["112 S. E., 423", "120 Ohio St., 500", "121 N. E., 901", "124 A., 273", "125 Ohio St., 100", "14 A. L. R., 1473", "159 N. E., 136", "166 N. E., 583", "180 N. E., 643", "183 N. C., 630", "209 P., 253", "212 N. W., 952", "235 N. W., 221", "237 Mich., 633", "253 Mich., 465", "26 Ohio App., 109", "279 Pa., 549", "28 O. C. A., 25", "29 O. D., 445", "32 A. L. R., 981", "32 A. L. R., 988", "41 Ohio St., 149", "52 A. L. R., 185", "52 A. L. R., 187", "58 Cal. App., 666", "60 A. L. R., 101", "98 Ohio St., 465"]
+---
+
+# Imes v. City of Fremont
+
+## Majority (Carpenter, J.)
+
+Carpenter, J.
+This' was an action for damages resulting from personal injuries claimed to have been caused to the appellant, Edith Imes, by the negligence of the appellee, the city of Fremont. A general demurrer to the amended petition was sustained, and, the plaintiff not wishing to plead further, final judgment for the defendant was entered -and plaintiff appealed on questions of law.
+The essential facts alleged in the amended petition are as follows:
+The city of Fremont owns and operates a garbage disposal system in which it uses trucks manned by its agents, to collect garbage and other waste materials throughout the city. It makes a charge per month for that service to the business places in the city, and from this it may be inferred that no charge is made to residences, and it was conceded in oral argument that no charge is made for such service.
+In the forenoon of June 6, 1936, some of the agents of the city were engaged in removing garbage from some business places, including that of “Abowd Fruit Market,” for which it made a charge. While there, they opened a trap door in the storeroom floor over a stairway to the basement through which they were removing garbage. While they were doing this, they left the opening unguarded, although a guard chain was there to protect it, had they used it. Plaintiff, who was nearly blind, entered the store to buy lemons, stepped into the opening, fell and broke her leg.
+The sole question now before the court is whether the city of Fremont, at that time and place, was engaged in a public and governmental, or a private and proprietary, function.
+Recent decisions in all jurisdictions have shown a marked tendency to regard all municipal measures looking to better health and sanitation in the community as public and governmental functions. The Ohio cases indicate this trend when the subject of garbage collection and disposal has been involved. In Russo v. City of Cleveland, 29 O. D., 445, 28 O. C. A., 25, it was decided that it is not a function of sovereignty. This was' affirmed by the Supreme Court on authority of City of Toledo v. Cone, 41 Ohio St., 149, in City of Cleveland v. Russo, 98 Ohio St., 465, 121 N. E., 901. In City of Toledo v. Cone, the city operated a cemetery and this was said to be a private purpose. Later the Court of Appeals of the same district that decided the Russo case, in Gorman v. City of Cleveland, 26 Ohio App., 109, 159 N. E., 136, held that rubbish collection service was a governmental function and impliedly overruled its decision in the Russo case, and a motion to certify this record was overruled by the Supreme Court June 15, 1927.
+State, ex rel. Moock, v. City of Cincinnati, 120 Ohio St., 500, 166 N. E., 583, paragraph one of the syllabus, reads:
+“The adoption of regulations pertaining to health and sanitation, including the process of collection and disposal of garbage, is within the proper exercise of the police powers of the state and of its municipalities.”
+Thus the stated-wide interest in this activity of municipal government is recognized, and the inference follows that such service is a public and governmental one. Hutchinson v. City of Lakewood, 125 Ohio St., 100, 180 N. E., 643, holds' that the construction of a sewer by a municipality is a governmental function, and, at page 103, Judge Allen, speaking for the entire court, says, “The preservation of the health, safety and welfare of the dwellers in urban centers of population constitutes a part of the police power,” and she enumerates “the care and disposition of garbage” with other health measures' as one of the exercises of that power. From all this authority it appears that if the Supreme Court did intend by its memorandum in City of Cleveland v. Russo, supra, to hold the garbage service to be a proprietary function, it has impliedly overruled such pronouncement, and it can be safely assumed that a municipality is performing a public service in collection and disposal of garbage. This is in line with cases in most jurisdictions. Scibilia v. Philadelphia, 279 Pa., 549, 124 A., 273; 32 A. L. R., 981, and cases therein cited. The general proposition is considered in the following notes: 14 A. L. R., 1473, 32 A. L. R., 988; 52 A. L. R., 187, and 60 A. L. R., 101.
+The case at bar has’ an unusual element in it by reason of the allegation that the defendant made a monthly charge for the service to public business places, of which the “Abowd Fruit Market” was one. Does this fact change the character of the service in the instant case? The collection of the fee for the service so rendered does not change the purpose for which the work was undertaken — it was still a health and sanitation measure, and the fact that business places such as fruit markets, where there were larger and more burdensome quantities of garbage and waste to be handled and hauled away, were charged a fee to reimburse the city in whole or in part for its expense in performing this service, which was equally in the interest of the health of all dwellers, not only in the city but also of the state, could not change the city’s acts at the time in question into a proprietary capacity. James v. City of Charlotte, 183 N. C., 630, 112 S. E., 423; Manning v. City of Pasadena, 58 Cal. App., 666, 209 P., 253. Contra: Foss v. City of Lansing, 237 Mich., 633, 212 N. W., 952, 52 A. L. R., 185.
+In a later case, Johnson v. Board of County Road Commissioners, 253 Mich., 465, 471, 235 N. W., 221, that court said, if the income is incidental to the main purpose and only aimed to cover the cost of the undertaking, it did not change the governmental character of it.
+The trial court correctly applied the Ohio law in sustaining the demurrer to the amended petition and entering judgment for the city, and its judgment is affirmed.
+Judgment affirmed.
+Lloyd and Overmyee, JJ., concur.
