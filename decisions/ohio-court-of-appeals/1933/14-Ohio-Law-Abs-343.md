@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1350"
+decided: "1933-02-16"
+citations: ["14 Ohio Law Abs. 343"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["SHERIOK, PJ, and MONTGOMERY, J, concur. .."]
+parties: ["NORTH CANTON BANK v COCKLIN et"]
+source_url: "https://static.case.law/ohio-law-abs/14/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1648625
+---
+
+# North Canton Bank v. Cocklin
+
+## Majority (LEMERT, J.)
+
+LEMERT, J.
+For a proper decision of this question, it is well to note that conversion has been defined as any distinct act of dominion wrongfully exerted over the property of an individual in denial of his rights or inconsistent therewith. Did the Cocklins, therefore, as innocent purchasers, exercise any act of dominion over the automobile in question which, in contemplation of law, was wrongful and in denial of the true owner’s rights to said property?
+The record before us specifically discloses that there was no passage of title, no change of possession, nor any consideration paid for the bill of sale mentioned. We are, therefore, of the opinion that the law governing in this case, so far as a demand for the surrender of the property and a refusal to turn it over by the purchaser, that the same are necessary.
+In the case of The City Loan & Savings Company v Dickison, 19 O.N.P. (N.S.) 215, a situation of fact analogous to the case at bar is presented. However, in that case, before instituting suit, the plaintiff demanded of Dickison that he either surrender the horse so that it might be subjected to the terms of the chattel mortgage or pay the plaintiff the sum of $175.00, which was the balance due on said mortgage, which request was refused.
+In the case of Holub v The Kirk Company, 23 O.C.C. (N.S.) 588, the defendant in error, upon being apprised of what had taken place, demanded of the plaintiff in error that he either surrender the davenport so that it might be subjected to the terms of the chattel mortgage or pay to the defendant in error the balance due thereon; that plaintiff in error did not know the location of the property and could not comply with the demand to surrender the same and that he neglected or refused to pay the balance of the purchase price.
+Where the purchaser of mortgaged property, who merely buys, pays for and takes possession of such property, does no act which is inimical to the rights of the mortgagee and is not necessarily a wrong-doer, such a purchase does not in itself constitute a conversion and, therefore, the mortgagee cannot bring an action for conversion of the goods against such purchaser without a demand upon the purchaser and a refusal by him to deliver, and it has been held that a purchaser of mortgaged property cannot be held liable for a conversion of it without a definite demand by the mortgagee or a definite refusal to surrender it.
+The plaintiff in error, in order to bring the acts of defendants in error within the rule of law as we believe it to be, endeavors to establish a resale of the property by Wade Cocklin, but the evidence in the case before us is to the effect that the property was not sold, but that a bill of sale was given by Wade Cocklin to his wife; that the possession of the automobile did not change; that no money or consideration was given for said bill of sale; that Fannie M. Cocklin does not now, or has ever used or driven the automobile, and that the ear was used and driven exclusively by Wade Cocklin and has never been out of his possession.
+It haS been held in Ohio and elsewhere that the , owner of a chattel or one having a special property in it, coupled with the right to possession, may follow it into whomsoever’s hands it may come and make him liable to trover, if he shall have abused it, used it as his own, or done any act inconsistent with the rights of the owner. We believe this to be a correct pronouncement of the law and we might further add that the cases uniformly hold, and particularly the Ohio cases, that the mere purchase of the chattel property, and the same having not been resold or demand and refusal made therefor, does not in itself constitute a conversion. In other words, that if the property has been resold or if a demand is made so that it can be subjected to the satisfaction of the mortgage, and such demand is refused, then, and only then, has there been a conversion, because up until that time .nothing has been done by the holder of the chattel property which is inconsistent with the true owner’s dominion over it, for under the terms of his mortgage, he can retake it any time before or after default.
+There is nothing in the record before us in the acts of conduct of the defendants in error which would indicate any effort on their part to exert a dominion over the property inconsistent with the mortgagee's right to it; that the entire transaction has been conducted by them in good faith, that they were innocent of any interest of the plaintiff in error in the car.
+The evidence shows that the sale was effected as of March 14, 1930, and yet no effort was made by the plaintiff in error to retake or subject the property in question to the satisfaction of its note and mortgage, and all this in view of the fact that said note and mortgage were in default prior to the sale to the defendants in error.
+We further note that from November, 1931, at which time plaintiff in error first learned of the possession in the defendants in error, and at which time the defendants in error learned of the interest of the mortgagee, no demand for the possession of the ear has ever been made on the defendants in error, nor any steps taken to secure such possession by law, although such right is expressly given by the terms of the mortgage. In other words, possession could have been obtained at any time from March 14th, 1930, until the instituting of the suit, and the property could have been subjected to sale and application of the proceeds could have been made in satisfying the mortgage. This the plaintiff in error did not see fit to do.
+From the whole of the record in this case, we find that the defendants in error have committed no act which the law recognizes as a conversion. It therefore follows that the finding and judgment of the court below will be and the same is hereby affirmed. Exceptions may be, noted.
+SHERIOK, PJ, and MONTGOMERY, J, concur. ..
