@@ -1,0 +1,54 @@
+---
+court: "Ohio Court of Appeals"
+docket: "Case No. 89AP-653"
+decided: "1990-05-15"
+citations: ["3 Ohio App. Unrep. 293"]
+reporter: "ohio-app-unrep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WHITESIDE and CACIOPPO, JJ., concur.", "CACIOPPO, J., of the Ninth Appellate District, sitting by assignment in the Tenth Appellate District."]
+parties: ["Jackson County Environmental Committee v. Shank, Director of Environment"]
+source_url: "https://static.case.law/ohio-app-unrep/3/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1612749
+cites_cases: ["5 Ohio St. 2d 185"]
+---
+
+# Jackson County Environmental Committee v. Shank
+
+## Majority (STRAUSBAUGH, J.)
+
+STRAUSBAUGH, J.
+This is an appeal by appellants from a decision of the Environmental Board of Review ("board") dismissing appellants' appeal. The motion to dismiss appellants' appeal was granted on the basis that the board lacked jurisdiction to entertain appellant's appeal.
+Uncodified Section 6(C) of H.B. No. 592, which was effective June 24,1988, required each owner or operator of a solid waste facility operating in Ohio to submit to the director of the Ohio Environmental Protection Agency ("EPA"):
+"(1) a certified statement as to the date in the month of March 1988 on which the facility received its highest daily amount of waste during that month;
+"(2) a statement as to the total tons of solid waste received by the facility for disposal on that date; and
+"(3) certified copies of all daily waste receipt logs for that data
+Section 6(C) also provided that during the period of one year after the effective date of H.B. No. 592, no owner or operator of a solid waste facility could dispose of any solid waste in excess of the maximum daily amount specified for the month of March 1988. If an owner or operator of a facility failed to submit the March 1988 waste receipt information to the director, the director could establish a maximum waste receipt limit for that facility. The limit which would established by the director in such a case was to be in effect for a period of one year after the effective date of H.B. No. 592, or until the county in which a facility was located established or formed a solid waste management district.
+In the present case, appellee, Wellston Sanitary Landfill ("Wellston"), failed to certify to appellee, director Richard L. Shank ("director"), a maximum daily waste receipt for March 1988. On August 23, 1988, the director established a maximum daily waste receipt limit of three hundred sixty-five tons per day for Wellston. Subsequently, pursuant to Ohio Adm. Code 3745-37-14, the director establishedfour hundred thirty-eight tons per day as the authorized maximum daily waste receipt limit for Wellston. This limit was calculated by utilizing the mandated one hundred twenty percent of the maximum daily waste limit in effect at Wellston and established by the findings issued by the director on December 23, 1988.
+Appellants, The Jackson County Environmental Committee and Agnes I. Martin, sought to appeal the December 23,1988 findings issued by appellee, Richard L. Shank, director of the EPA, to the board. In response to a motion filed by Wellston, the board dismissed appellants' appeal for lack of jurisdiction.
+On appeal, appellants proceed pro se and have set forth one assignment of error for this court's review:
+"Appellant's [sic] rights under the Constitutions of the State of Ohio and the United States were violated when her case was dismissed from the Environmental Board of Review. Specifically denied her were those rights under Article I, Section 16 of the Constitution of the State of Ohio and Amendment XIV, Section 1 of the Constitution of the United States."
+Appellants contend that they were denied both due process and equal protection when their appeal was dismissed without a hearing on the merita Appellants argue that they have standing in the present case since the director has made decisions which adversely affect the landfill policy in appellants' community. Appellants insist that it is discriminatory for the state legislature to permit landfill owners to assist in the determination as to what their maximum daily waste allowance will be while denying citizens of that community a similar right. In this case, when Wellston failed to provide the director with the required information instead of continuing the 1987 maximum daily allowance for receivable waste, appellees rewarded Wellston for its noncompliance by increasing its allotment more than tenfold. Appellants contend that the legislature did not intend that landfill owners have superior rights to those of Ohio citizens
+Initially, we note that appellees claim that appellants have filed a notice of appeal with the Court of Appeals for Jackson County. However, the appropriate jurisdiction for such an appeal explicitly rests with this court. R.C. 3745.06 provides in pertinent part:
+"Any party adversely affected by an order of the environmental board of review may appeal to the court of appeals of Franklin county, or, if the appeal arises from an alleged violation of a law or regulation, to the court of appeals of the district in which the violation was alleged to have occurred. * * *"
+In the present case* as appellants are seeking an appeal of the final order issued by the board not arising from an alleged violation of a law or regulation, this matter is properly before this court.
+Ordinarily, appeals to the board arise under R.C. 3745.04 or 3745.07. R.C. 3745.04 provides in relevant part:
+"As used in this section, 'action' or 'act' includes the adoption, modification, or repeal of a rule or standard, the issuance* modification, or revocation of any lawful order other than an emergency order, and the issuance* denial, modification, or revocation of a license* permit, lease, variance* or certificate or the approval or disapproval of plans and specifications pursuant to law or rules adopted thereunder.
+"Any person who was a party to a proceeding before the director may participate in an appeal to the environmental board of review for an order vacating or modifying the action of the director of environmental protection or local board of health, or ordering the director or board of health to perform an act. The environmental board of review has exclusive original jurisdiction over any matter which may, under this section, be brought before it."
+R.C. 3745.07 provides in pertinent part:
+"If the director issues, denies, modifies, revokes, or renews a permit, license, or variance without issuing a proposed action, an officer of an agency of the state or of a political subdivision, acting in a representative capacity, or any person who would be aggrieved or adversely affected thereby, may appeal to the environmental board of review within thirty days of the issuance* denial, modification, revocation, or renewal."
+Accordingly, an appeal may be pursued before the board when there exists an "action" or "act" taken by the director of environmental protection and the appellant before the board was either a party to the proceeding before the director or, if the director's action was done without issuing a proposed action, any person who would be aggrieved or adversely affected by the director's action. R.C. 3745.04 and 3745.07.
+In the present case* we need only address the issue as to whether or not the maximum waste receipts established by appellees constitute and "action" or "act" from which appellants could properly seek appeal to the board. The board concluded, and appellees contend before this court, that uncodified Section 6(C) of H.B. No. 592 requires the dismissal of appellants' appeal. Appellees have directed this court's attention to a specific portion of uncodified Section 6(C) of H.B. No. 592, which provides in part:
+"* * * The maximum daily waste load established by the Director for a facility whose owner or operator has not submitted the information shall not be subject to judicial review or constitute an action of the Director as that term is defined in section 3745.04 of the Revised Code. * *
+Appellees insist that the language included in uncodified Section 6(C) specifically precludes appellants' appeal to the board since appellees' establishment of a maximum daily waste load, and thereby subsequent modification, does not constitute an action of appellees from which an appeal may be sought to the board.
+However, we believe that when uncodified Section 6(C) is read in its entirety, the purpose of the legislature in adopting the quoted portion of uncodified Section 6(C) was only to preclude an appeal by an owner or operator of a solid waste facility who fails to comply with the filing requirements embodied in uncodified Section 6(C). While the board concluded otherwise* we believe that the intent of the General Assembly was not to preclude others adversely affected from challenging the reasonableness of the waste receipt limitations set by the directorfor a noncomplying owner or operator of a solid waste facility.
+We note that statutory appeal procedures are remedial in nature and are therefore to be "* * * liberally construed in order to promote their object and assist the parties on obtaining justice * * *" R.C. 1.11. In paragraph one of the syllabus in Van Meter v. Segal-Schadel Co. (1966), 5 Ohio St. 2d 185, the Supreme Court of Ohio held:
+"Statutes providing for appeals and for proceedings with respect to appeals and for limitations on the right of appeal are remedial in nature and should be given a liberal interpretation in favor of a right of appeal. * * *"
+We believe our decision allowing appellants to seek appeal before the board is in accord with the foregoing principia
+As we have concluded that appellees' decision setting a maximum daily waste load for a noncomplying waste load facility constitutes an action of the director for the purposes of a third party who may be adversely affected, appellants' assignment of error is well-taken and is sustained. Accordingly, the board's decision dismissing appellants' appeal is hereby reversed and the cause is remanded for further proceedings consistent with this opinion.
+Order reversed and remanded.
+WHITESIDE and CACIOPPO, JJ., concur.
+CACIOPPO, J., of the Ninth Appellate District, sitting by assignment in the Tenth Appellate District.
+Our opinion does not address the issue of appellants' standing before the board. However, we note that the board in its decision to dismiss appellants' appeal, issued May 3, 1989, stated:
+''It would appear that in the absence of any other factors, the present appeal would be a valid one in that it was based upon an action of the Director as defined in Section 3745.04 and one in which the present Appellants wouldhave apparent standing to pursue the appeal. * * *''
