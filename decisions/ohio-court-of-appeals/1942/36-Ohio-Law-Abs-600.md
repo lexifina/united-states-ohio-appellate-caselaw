@@ -1,0 +1,66 @@
+---
+court: "Ohio Court of Appeals"
+docket: "3414"
+decided: "1942-04-08"
+citations: ["36 Ohio Law Abs. 600"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["GEIGER, PJ., & BARNES, J., concur.", "GEIGER, PJ., BARNES & HORN-BECK, JJ., concur."]
+parties: ["CLEVELAND HOSPITAL SERVICE ASSOCIATION v EBRIGHT"]
+source_url: "https://static.case.law/ohio-law-abs/36/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1711058
+cites_cases: ["104 Oh St 27", "134 Oh St 163", "138 Oh St 376", "139 Oh St 417", "178 Pa. 636", "192 U. S. 73", "27 Atl. 797", "73 Oh St 90"]
+---
+
+# Cleveland Hospital Service Ass'n v. Ebright
+
+## Majority (By HORNBECK, J.)
+
+OPINION
+By HORNBECK, J.
+This is an appeal on questions of law and fact from a decree of the Common Pleas Court enjoining the defendant from collecting a franchise tax from the plaintiff as provided in §5414-9 GC. The cause was heard in the trial court and is presented here upon a stipulation of facts and testimony of certain witnesses.
+Upon the record there is no issue of fact and the questions for determination are legal. It appears that the plaintiff, a Plospital Service Association, is a nonprofit corporation organized and operating under §669 GC et seq., and licensed by the Superintendent of Insurance and has paid the fees provided by §669-3 GC. The plaintiff, by agreement with eighteen charitable hospitals in and about the city of Cleveland, agrees to act as agent for these hospitals in the sale to the public of a contract which entitles the individual subscriber thereto to hospitalization, if required, in any of the contracting hospitals or any Ohio nonprofit hospital for a period not to exceed twenty-one days. The contracts issued by the plaintiff conform to the provisions of the Code, §669-4. The contract provides for payment by the plaintiff to the hospitals of a designated amount for semiprivate bed, for bed in a ward, or, if private room be taken by the subscriber, a stipulated amount to be paid upon the rental for the private room. The subscriber is admitted to the hospital only upon recommendation of his attending physician. No money is paid directly to the subscriber. The contracts are not sold upon a commission basis and the employees of the plaintiff are all upon a salary basis. Any surplus remaining after payment of hispital bills and expenses is held as reserve for the benefit of subscribers.
+The record presents the following questions, both of which were decided by the Common Pleas Court in favor of the plaintiff:
+(1) Is the plaintiff in the business of insurance as contemplated by §665 GC, et seq.?
+(2) Does §669-13 GC exempt the plaintiff from all taxation including the franchise tax?
+Upon the first proposition plaintiff cites State v Laylin, 73 Oh St 90, State, ex rel. Duffey v Western Auto Supply Co., 134 Oh St 163, State, ex rel. Herbert v The Standard Oil Company, 138 Oh St 376, Jordon v Health Association, 107 Fed. (2d) 239, Commonwealth v Provident Bicycle Association, 178 Pa. 636, State v Taylor, 27 Atl. 797, Cowan v New York Caledonian Club, 46. App. Div. 288.
+The defendant cites and comments upon State ex rel. Duffy v Western Auto Supply Company, 134 Oh St 163, Ohio Farmers Insurance Company v Cochran, 104 Oh St 27.
+Defendant claims that by the terms of §5414-8 GC, the plaintiff must .be classified as an insurance company. This section provides:
+“The term ‘insurance company’ as used in this chapter includes every corporation, association and society engaged in the business of insurance of any character whatsoever, or engaged in the business of entering into contracts substantially amounting to insurance of any character, or of indemnify-, ing or guaranteeing against loss or damage or acting as surety on bonds or undertakings.
+The term ‘domestic insurance company’ includes every insurance company organized and existing under the laws of this state, and every unincorporated association and society formed for the purpose of engaging in said business in this state, * * *.”
+The second paragraph of the syllabus in State ex rel. Duffey v Western Auto Supply Company, supra, states:
+“Insurance as related to property and liability, is a contract by which one party promises, upon a consideration, to compensate or reimburse the other if he shall suffer loss from a specified cause, or to guarantee or indemnify or secure him against loss from that cause.”
+The defends,nt insists that, measured by this definition, the plaintiff Service Association is writing a contract of insurance. The plaintiff urges that the contract assures the subscriber service and not indemnity; that it is essential to a true insurance con- , tract that it provides for payment' of money to the insured in an amount, defined in the contract, designed to indemnify him' for a loss he has suffered. No case in Ohio is cited which has passed upon the- question whether a contract, such as is issued to the subscriber by the plaintiff, is an insurance contract. Outside of Ohio several of the cases cited by the plaintiff support its contention, notably Jordon v Health Association, supra, although it has several features which distinguish it from the instant case.
+In our judgment, the test that a contract may not be one substantially amounting to insurance unless it provides for the payment of money upon the happening of a contingency is too limited. Nor will the fact that the payment is made to the hospital and not to the subscriber change the character of the contract. The advantage to the subscriber, if he invokes the benefits of his contract, requires payment in money which is definitely measured by the extent of service rendered to the subscriber by the hospital to which he elects to go. It is payable upon a contingency, namely, that it is certified by his attending physician that the subscriber requires hospitalization. The minimum payment is not fixed but the maximum payment that may be exacted from the plaintiff is set forth in the contract. The contract, in probability, is not to indemnify the subscriber because the hospital which he selects does not extend credit to him and, therefore, there is no primary liability on his part which would be essential to make the Service Association an indemnifier. The amount which is paid by the subscriber is a charge based upon an acturial determination of the probable risk -incurred in issuing the contract. Although that which is provided the subscriber upon the happening of a contingency is, so far as he is concerned, service, yet it is measured by a money consideration payable to the hospital because of the rendering of 'that service to the subscriber on behalf of the plaintiff association. The language of §5414-8 providing, that “a company issuing' contracts substantially amounting to insurance of any character is an insurance company”, is so broad as to require us to hold that the plaintiff is an insurance company. The contract in this case in so many particulars amounts substantially to insurance to the subscriber as to require that it be construed to be an insurance contract.
+The second question:
+Is the plaintiff liable for the franchise tax under §669-13 GC, which provides,
+“Every corporation subject to the provision of this Act is hereby declared to be a charitable and benevolent institution, and its funds and property shall be exempt from taxation. (Emphasis ours)
+Sec. 669 GC, authorizing the organization of corporations such as the plaintiff to operate under nonprofit hospital service plan exempts such corporations from all other provisions of the insurance laws of the state except those expressly applicable under the terms of the Hospital Service Association Act.
+The plaintiff corporation by the provisions of §669-13 GC is declared to be a charitable and benevolent institution. Obviously its purposes and the conduct of its business brings it clearly not only within the letter of the act but within the spirit. It is in every sense of the term a charitable and benevolent institution. But it is urged that a franchise tax is not levied upon the funds or the property of a corporation but is a tax upon the right of carrying on the nonprofit hospital service plan; that the exemption accorded the plaintiff from all other provisions of the insurance laws of the state does not preclude its liability for franchise tax, which right is grounded in the taxation laws and not in the insurance laws of the' state.
+Charitable- hospitals are exempted from all forms of taxation. The plaintiff acts as agent for these hospitals. The purpose of the contract is twofold. First, to make possible necessary hospitalization for a large part of the public at a low cost, and, second, to assure in the aggregate the payment of a larger sum for these services than would otherwise be received' and thus to enable the hospitals to render a better and more extended general service. The act authorizing the organization of the service associations exacts the payment from each of them of substantial fees as provided in §669-3 GC, namely, $250.00 upon the filing of its application for certificate of authority . or license and an annual fee equal to 1/10 of one cent for each contract issued - by such corporation and then outstanding. The $250.00 payment, in itself, is a form of franchise tax and is a prerequisite to the issuance of a certificate which authorizes the service association to carry on its business.
+It is generally held that a franchise tax is not a tax upon property but the language exempting Service Associations includes not only property but its funds.
+We believe that in view of all of the germane acts, namely, the insurance laws, the taxation statutes and the act relating to Hospital Service Associations, it was the intention of §669-13 GC to exempt said associations from any liability for taxes of any kind or character or the payment of anjr sum for the privilege of operating other than provided in §669 GC, et seq. In this connection the observations found in Citizens Bank v Parker, 192 U. S. 73, have application. The Court was considering a statute which provided:
+“The capital of said bank shall be exempt from any tax laid by the state.”
+and subsequently a license tax was passed which provided:
+“That for each business of carrying on a bank * *, the license shall be based on the * * capital and surplus * * of said bank.”
+In holding that the bank was not liable for the license tax the Court said at page 83:
+“If the language is broad enough to preclude a tax upon that which may become a part of the capital of the bank, it is broad enough to preclude a tax which may become a burden upon the capital. Whatever diminishes the income of a bank diminishes its capital * *
+The Legislature as a basis for the granting of certain rights and privileges accorded to nonprofit Hospital Service Associations, classified them as benevolent and charitable institutions and set up a comprehensive act under which they were authorized to conduct their business and provided a fee which it deemed adequate in view of the fact that it further provided expressly that the funds and propert3)- of such corporations shall be exempt from taxation. This exemption was intended to be all inclusive.
+The injunction will be allowed as prayed.
+GEIGER, PJ., & BARNES, J., concur.
+
+## Rehearing (BY THE COURT:)
+
+APPLICATION FOR REHEARING
+No. 3414. Decided April 30th, 1942.
+BY THE COURT:
+Submitted on application for rehearing, which will be overruled.
+It is asserted that the Court placed too much emphasis upon the legislative declaration that plaintiff-appellee is a charitable and benevolent institution and by reason thereof exempt from the franchise tax which defendant-appellant claims it is obligated to pay.
+We are cited to In re Estate of Taylor, 139 Oh St 417. The section there under consideration is not in terms iike unto §669-13 GC. The legislative expression in §669-13 is not only to declare the plaintiffappellee to be a charitable and benevolent institution, but because it is a corporation subject to the provisions of the act its funds and properties shall be exempt from taxation.
+Sec. 5334 GC exempts the succession to any property passing to or for the use of an institution for purposes only of public charity and is not the section which we have under consideration.
+If it is an issue in this case whether or not the plaintiff corporation is a corporation devoted to the purposes only of public charity the effect of our opinion is in support of that conclusion as appears in the last paragraph on page 5 and extending to the end of the second paragraph on page 6.
+The whole matter is epitomized beginning at the bottom of page 6 as follows:
+“We believe that in view of all of the germane acts, namely, the insurance laws, the taxation statutes and the act relating to hos- • pital service associations, it was the intention of §869-13 GC to exempt said associations from anj' liability for taxes of any kind or character or the payment of any sum for the privilege of operating other than provided in §669 GC, et seq.”
+GEIGER, PJ., BARNES & HORN-BECK, JJ., concur.
