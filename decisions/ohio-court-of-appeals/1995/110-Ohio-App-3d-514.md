@@ -1,0 +1,46 @@
+---
+court: "Ohio Court of Appeals"
+docket: "67823"
+decided: "1995-06-29"
+citations: ["110 Ohio App. 3d 514"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dyke and Nahra, JJ., concur."]
+parties: ["NEW HAMPSHIRE INSURANCE GROUP, Appellant, v. FROST et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/110/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1791314
+cites_cases: ["15 OBR 246", "15 Ohio St.3d 90", "23 F.3d 970", "31 OBR 180", "31 Ohio St.3d 65", "36 Ohio St.3d 100", "39 F.3d 1324", "472 N.E.2d 1046", "49 Ohio St.3d 173", "509 N.E.2d 74", "522 N.E.2d 489", "551 N.E.2d 962", "570 N.E.2d 1108", "59 Ohio St.3d 115", "610 N.E.2d 481", "611 N.E.2d 480", "640 N.E.2d 886", "81 Ohio App.3d 93", "82 Ohio App.3d 129", "94 Ohio App.3d 327"]
+---
+
+# New Hampshire Insurance Group v. Frost
+
+## Majority (Spellacy, Presiding Judge.)
+
+Spellacy, Presiding Judge.
+New Hampshire Insurance Group (“New Hampshire”) appeals from a declaratory judgment requiring it to provide coverage to Industrial Steeple Jack Co. (“ISJ”) and Jack Frost for liability arising under an employer intentional tort. New Hampshire raises the following assignment of error:
+“The trial court erred in finding that insurance coverage exists under the New Hampshire insurance policy for Frank Stump’s employer intentional tort recovery on the basis that the injuries to Frank Stump were neither expected nor intended by the insured.”
+I
+New Hampshire insured ISJ and Frost under a general liability policy covering damages ISJ and Frost were legally obligated to pay because of an “occurrence.” The policy defines an “occurrence” as:
+“an accident, including continuous or repeated exposure to conditions, which results in bodily injury or property damage neither expected nor intended from the standpoint of the insured.”
+After Frank Stump obtained a judgment against ISJ in an employer intentional tort action, New Hampshire brought this action requesting a declaration that there was no coverage under the policy. The trial court found that coverage existed.
+II
+New Hampshire contends the trial court erred when it found the policy covered liability arising from an employer intentional tort.
+Wedge Products, Inc. v. Hartford Equity Sales Co. (1987), 31 Ohio St.3d 65, 31 OBR 180, 509 N.E.2d 74, syllabus, involving identical policy language, held that “An intentional tort allegedly committed by an employer against its employee is not covered by an insurance policy which provides protection for bodily injuries ‘neither expected nor intended’ by the employer.”
+Wedge based its holding on two grounds. First, Wedge found an employer incapable of committing an intentional tort without expecting the injury to occur because to commit an intentional tort an employer must, at a minimum, commit acts with the belief that an employee was substantially certain to be injured. Id. at 67, 31 OBR at 181-182, 509 N.E.2d at 75-76. Second, Wedge found that public policy prohibits insuring against intentional torts. Id. at 67, 31 OBR at 181-182, 509 N.E.2d at 75-76.
+ISJ, Frost, and Stump argue Wedge is inapplicable because liability for an employer intentional tort may arise when the employer “should have known” that injury was substantially certain to occur. ISJ, Frost, and Stump misstate the employer intentional tort standard.
+Both Jones v. VIP Development Co. (1984), 15 Ohio St.3d 90, 15 OBR 246, 472 N.E.2d 1046, the case applied in Wedge, and Fyffe v. Jeno’s, Inc. (1991), 59 Ohio St.3d 115, 570 N.E.2d 1108, the Ohio Supreme Court’s most recent decision concerning the employer intentional tort standard and the case applied in Stump’s action against ISJ, require that the employer have, at a minimum, actual knowledge that injury to the employee is substantially certain. Jones, 15 Ohio St.3d 90, 15 OBR 246, 472 N.E.2d 1046, paragraph one of the syllabus, held that “[a]n intentional tort is an act committed with the intent to injure another, or committed with the belief such injury is substantially certain to occur.” Fyffe, 59 Ohio St.3d 115, 570 N.E.2d 1108, paragraph one of the syllabus, held that:
+“Within the purview of Section 8(A) of the Restatement of the Law 2d, Torts, and Section 8 of Prosser & Keeton on Torts (5 Ed.1984), in order to establish ‘intent’ for the purpose of proving the existence of an intentional tort committed by an employer against his employee, the following must be demonstrated: (1) knowledge by the employer of the existence of a dangerous process, procedure, instrumentality or condition within its business operation; (2) knowledge by the employer that if the employee is subjected by his employment to such dangerous process, procedure, instrumentality or condition, then harm to the employee will be a substantial certainty; and (3) that the employer, under such circumstances, and with such knowledge, did act to require the employee to continue to perform the dangerous task. (Van Fossen v. Babcock & Wilcox Co. [1988], 36 Ohio St.3d 100, 522 N.E.2d 489, paragraph five of the syllabus, modified as set forth above and explained.)” (Emphasis added.)
+Fyffe, at paragraph two of the syllabus, further held that:
+“To establish an intentional tort of an employer, proof beyond that required to prove negligence and beyond that to prove recklessness must be established. Where the employer acts despite his knowledge of some risk, his conduct may be negligence. As the probability increases that particular consequences may follow, then the employer’s conduct may be characterized as recklessness. As the probability that the consequences will follow further increases, and the employer knows that injuries to employees are certain or substantially certain to result from the process, procedure or condition and he still proceeds, he is treated by the law as if he had in fact desired to produce the result. However, the mere knowledge and appreciation of a risk — something short of substantial certainty— is not intent. (Van Fossen v. Babcock & Wilcox Co. [1988], 36 Ohio St.3d 100, 522 N.E.2d 489, paragraph six of the syllabus, modified as set forth above and explained.)”
+Thus, while desire to cause consequences is imputed, actual knowledge that consequences are substantially certain is required. See Howard v. Columbus Prod. Co. (1992), 82 Ohio App.3d 129, 134-135, 611 N.E.2d 480, 483-484. (Finding the existence of an employer intentional tort is determined by a subjective test focusing on the employer’s knowledge.).
+In addition, the definition for “intent” found in the Restatement of the Law 2d, Torts (1965), Section 8A, is used for determining both liability for an employer intentional tort, Fyffe, 59 Ohio St.3d 115, 570 N.E.2d 1108, paragraph one of the syllabus, and whether an insured “expected or intended” injuries. W. Reserve Mut. Cas. Co. v. Eberhart (1991), 81 Ohio App.3d 93, 95, 610 N.E.2d 481, 482-483. Consequently, where an employer is the insured, a finding of intent for purposes of an employer intentional tort necessarily means that the insured “expected or intended” the injuries.
+ISJ, Frost, and Stump also argue that Harasyn v. Normandy Metals, Inc. (1990), 49 Ohio St.3d 173, 551 N.E.2d 962, removed the prohibition against insurance for intentional torts where injury is substantially certain but not actually desired. Royal Paper Stock Co. v. Meridian Ins. Co. (1994), 94 Ohio App.3d 327, 333, 640 N.E.2d 886, 890, however, held that:
+“We are mindful of the Ohio Supreme Court decision in Harasyn v. Normandy Metals, Inc. (1990), 49 Ohio St.3d 173, 551 N.E.2d 962, wherein insurance coverage of employers’ tortious acts performed with knowledge that injury was substantially certain to occur was held to be acceptable and not contrary to public policy. Harasyn, however, was premised on the legislative enactment of R.C. 4121.80, which created a statewide fund to pay claims arising out of employer intentional torts. The Supreme Court noted that this enactment was an expression by the public’s elected officials that such insurance is not against public policy. R.C. 4121.80, however, was repealed in 1992; therefore, insurance coverage of employer intentional torts is truly contrary to public policy.”
+Finally, Stump places great reliance on Lumbermens Mut. Cas. Co. v. S-W Industries, Inc. (C.A.6, 1994), 39 F.3d 1324 (originally reported at 23 F.3d 970). In Lumbermens the federal court, applying Ohio law, found coverage when faced with an identical situation. Lumbermens, however, found that under both Jones and Fyffe liability may arise where an employer merely should have been aware of the substantial certainty of injury. Id. at 1331. Lumbermens further found that Harasyn made insurance against intentional torts possible. Id. at 1332. As noted above, we disagree with these conclusions.
+We hold that, where an employer is the insured, an intentional tort committed by the employer against an employee results in injuries “expected or intended from the standpoint of the insured.”
+Accordingly, New Hampshire’s assignment of error is well taken.
+The judgment of the trial court is reversed and judgment is entered for New Hampshire.
+Judgment accordingly.
+Dyke and Nahra, JJ., concur.
