@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4293"
+decided: "1948-03-15"
+citations: ["83 Ohio App. 90"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Carpenter and Fess, JJ., concur."]
+parties: ["Bellows, Appellee, v. Bowlus, Appellant."]
+source_url: "https://static.case.law/ohio-app/83/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393197
+cites_cases: ["102 Ohio St., 120", "11 Ohio App., 388", "12 Ohio St., 169", "120 N. E., 216", "130 N. E., 502", "140 Ohio St., 450", "143 A. L. R., 1174", "173 N. E., 243", "173 N. E., 255", "175 N. E., 230", "24 Ohio St., 625", "25 Ohio St., 340", "3 Ohio St., 445", "36 Ohio App., 310", "36 Ohio App., 481", "37 Ohio App., 544", "61 Ohio App., 253", "82 Ohio St., 302", "92 N. E., 492", "98 Ohio St., 55"]
+---
+
+# Bellows v. Bowlus
+
+## Majority (Conn, J.)
+
+Conn, J.
+This is an appeal by defendant on questions of law from a judgment of the Court of Common Pleas in an action on a promissory note, with warrant of attorney attached, authorizing any attorney at law to enter appearance of defendant, waive the issuance of service of process and confess judgment.
+The note was executed on August 3,1922, in the principal sum of $2,250 due in one year after date, with interest at 6fo per annum. The action was begun on July 10, 1947, and judgment was entered on the same day. On July 31 following, the defendant filed his petition in the same action, alleging that judgment was entered for more than was due; “that the statute of limitation had run on said note on 3rd day of August, 1937”; that at the time the judgment was taken there was a valid defense to the action; and that defendant is entitled to have the judgment vacated and set aside. Summons on defendant’s petition was-issued to plaintiff.
+To that petition, plaintiff filed an answer containing a general denial and affirmative defenses. The defendant filed a general demurrer to the answer of plaintiff, which demurrer was overruled. Thereafter,, defendant filed a reply denying the affirmative allegations in plaintiff’s answer.
+The case went to trial on the petition of defendant,, the answer of plaintiff and the reply. At its conclusion, the trial court dismissed the petition of defendant to vacate and set aside the judgment, and entered a judgment in favor of plaintiff for costs.
+Errors assigned by defendant are substantially as ■follows: That the court erred in rendering judgment for plaintiff on the cognovit note when it appeared on 'the face of the instrument that the action thereon was 'barred by the statute of limitations; in overruling defendant’s demurrer to the answer of plaintiff to defendant’s petition; in its separate findings of fact and law; and in dismissing defendant’s petition.
+An interesting question of procedure is presented by the record. The application to vacate was made during the term the judgment was rendered, but the procedure adopted by defendant for that purpose is found in Sections 11631 to 11637, inclusive, General •Code, providing for the vacation and modification of .judgments after term.
+It is well settled, however, that the provisions of the ■Code relating to the vacation of judgments after term ■do not abrogate or abridge the power of a court of .■general jurisdiction in the exercise of control over its .judgments entered within the term. In other words, a court of general jurisdiction is not limited to the •grounds enumerated in Section 11631, General Code, in the exercise of its control over judgments entered during term. 23 Ohio Jurisprudence, 1152, Section 1022; Huntington & McIntyre v. Finch & Co., 3 Ohio St., 445; First National Bank of Dunkirk v. Smith, 102 Ohio St., 120, 130 N. E., 502; Moherman v. Nickels, 140 Ohio St., 450, 45 N. E. (2d), 405, 143 A. L. R., 1174; Canal Winchester Bank v. Exline, 61 Ohio App., 253, 22 N. E. (2d), 528.
+The procedure to open, vacate or modify a judgment ■during term is less formal and may be made by mo-lion or upon the court’s own motion in the exercise of ‘its inherent power. Kornick v. Hahn, Admx., 11 Ohio App., 388; Rabb, Admr., v. Board of Commrs., 36 Ohio App., 481, 173 N. E., 255.
+The fact that the defendant followed the procedure for vacating judgments after term, by filing a duly verified petition setting forth the judgment and grounds for its vacation and upon which summons was issued and served on plaintiff, invited no procedural departure. The parties being constructively in court during the entire term, the filing of a petition and the issuance of summons were each unnecessary and irregular, even though the grounds relied on for vacating the judgment were identical with one or more of those specified in Section 11631, General Code. Furthermore, the issues raised by the petition were in all respects like the issues that would have been raised if defendant had filed a motion and thus brought to the attention of the court his grounds for the vacation of the judgment.
+It may be further noted that a proceeding under Section 11631 et seq., General Code, is a special proceeding in the original action after judgment and not in and of itself an independent civil action. 23 Ohio Jurisprudence, 1154, Section 1023; Taylor v. Fitch, 12 Ohio St., 169.
+Notwithstanding this well settled procedure, the plaintiff filed an answer to defendant’s petition for the vacation of the judgment and the trial court heard the case on the merits and without a jury, as if the issues had been raised on the original petition and an answer thereto.
+The answer of plaintiff, so-called, raised no issues of fact or law. This answer and the pleadings it inspired might well have been stricken from the files. In other words, under the settled practice in this state, when proceeding either by petition or by motion to va■cate a judgment during term, the trial court, upon preliminary hearing, should determine whether the alleged grounds to vacate or modify exist and also if thev are sufficient in law to constitute a valid defense. When defendant has made a prima facie showing that he has a defense, he should thereupon tender his answer setting up such defense or obtain leave to file same. Frazier v. Williams, 24 Ohio St., 625; Watson v. Paine, 25 Ohio St., 340; Lee v. Benedict, 82 Ohio St., 302, 92 N. E., 492; Bulkley v. Greene, 98 Ohio St., 55, 120 N. E., 216; Minetti v. Einhorn, 36 Ohio App., 310, 173 N. E., 243; Canton Implement Co. v. Rauh, 37 Ohio App., 544, 175 N. E., 230.
+It appears upon the face of the petition of plaintiff that this action was not “brought within fifteen years after the cause thereof accrued” (Section 11221, General Code). The petition also discloses that no payments were made on the note. The defendant testified on the preliminary hearing that he resided in Idaho, Ohio; that he had never made a payment or acknowledged in writing any obligation on the note; and that he claims the defense of the statute of limitations. (Section 11223, General Code.)
+The defendant having made a prima facie showing that he had a valid defense to plaintiff’s action, the judgment should have been suspended and the defendant given leave to file an answer. On the issues thus raised, the parties were entitled to a jury trial. The premature disposition of the issues of fact upon which the defense to the note was predicated was erroneous and prejudicial to the defendant.
+It appears that the foregoing considerations in effect dispose of all the assignments of error.
+Finding that the procedure in the trial court and the judgment entered there were erroneous and prejudicial to the rights of the defendant, the judgment is reversed and the cause remanded for a new trial.
+Judgment reversed.
+Carpenter and Fess, JJ., concur.
