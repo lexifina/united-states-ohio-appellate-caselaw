@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA94-08-008"
+decided: "1995-05-22"
+citations: ["102 Ohio App. 3d 797"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Walsh, P.J., and Koehler, J., concur."]
+parties: ["YOUNG, Admr., Appellant, v. VILLAGE OF SARDINIA et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/102/cases/0797-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1774446
+cites_cases: ["37 Ohio St.3d 144", "45 Ohio St.3d 179", "524 N.E.2d 881", "543 N.E.2d 1242", "566 N.E.2d 154", "57 Ohio St.3d 91", "587 N.E.2d 819", "63 Ohio St.3d 318", "631 N.E.2d 1076", "91 Ohio App.3d 88"]
+---
+
+# Young v. Village of Sardinia
+
+## Majority (Powell, Judge.)
+
+Powell, Judge.
+On May 15, 1991, Elwood Patrick parked his dump truck on the edge of the roadway in front of his residence at 148 Maple Avenue in Sardinia, Ohio. Patrick entered the home and checked the messages on his telephone answering machine. Patrick then returned to the dump truck and climbed into the driver’s seat. Patrick started the engine and looked in the truck’s side-view mirror. Patrick saw a Nissan pick-up truck approaching from the rear.
+As Patrick was waiting for the pick-up truck to pass, he looked forward and saw eight-year-old Travis Young chase a ball in front of the dump truck and out into the street. Patrick blew his horn, but was unable to warn the child of the danger. The pick-up truck struck Travis, killing him instantly.
+On May 4, 1993, plaintiff-appellant, Ladonna Young, Administrator of the Estate of Travis Young, filed her complaint in this wrongful death action in the Brown County Court of Common Pleas against the driver of the pick-up truck, Robert Vandawalker, Elwood Patrick, his wife, Susette Patrick, and defendantappellee, the village of Sardinia. The complaint alleged that Travis’s death was caused by appellee’s failure to enforce Village of Sardinia Codified Ordinance 72.02(A), which prohibits parking on public streets. Appellant also filed an. amended complaint which alleged that Patrick regularly parked the dump truck on the edge of the roadway in front of his home and that the dump truck was a nuisance which appellee failed to remove.
+On March 28, 1994, appellee moved for summary judgment pursuant to Civ.R. 56(C), arguing that it was immune from liability under R.C. Chapter 2744. The trial court granted appellee’s motion for summary judgment in an order dated July 6, 1994. Appellant now appeals, setting forth the following assignment of error:
+“The trial court erred in granting defendant-appellee village of Sardinia’s motion for summary judgment.”
+Civ.R. 56(C) specifically provides that summary judgment is appropriate where: (1) no genuine issue of material fact remains to be litigated; (2) the moving party is entitled to judgment as a matter of law; and (3) reasonable minds construing the evidence in the light most favorable to the nonmoving party could reach but one conclusion which is adverse to the nonmoving party. Bostic v. Connor (1988), 37 Ohio St.3d 144, 146, 524 N.E.2d 881, 883-884.
+The sole issue presented by this appeal is whether appellee is immune from liability under R.C. Chapter 2744. R.C. 2744.02(A) provides that as a general rule a political subdivision is not liable in tort for injuries to persons or property that occur in connection with the performance of a governmental or proprietary function. Redd v. Springfield Twp. School Dist. (1993), 91 Ohio App.3d 88, 91, 631 N.E.2d 1076, 1078. This general rule of nonliability is subject to certain exceptions enumerated in R.C. 2744.02(B), which provides in part:
+“(3) Except as otherwise provided in section 3746.24 of the Revised Code, political subdivisions are liable for injury, death, or loss to persons or property caused by their failure to keep public roads, highways, streets, avenues, alleys, sidewalks, bridges, aqueducts, viaducts, or public grounds within the political subdivisions open, in repair, and free from nuisance * * *.”
+Appellant contends that the dump truck parked on the edge of the roadway was a nuisance because it obstructed Vandawalker’s vision and ultimately caused the accident. An object which obstructs a driver’s visibility on a public roadway may be considered a nuisance for purposes of R.C. 2744.02(B)(3) only where it is permanently in place and renders the usual and ordinary course of travel on the roadway unsafe. Manufacturer’s Natl. Bank of Detroit v. Erie Cty. Road Comm. (1992), 63 Ohio St.3d 318, 323, 587 N.E.2d 819, 823-824. The political subdivision must also have actual or constructive notice of the nuisance before liability may be imposed. Vogel v. Wells (1991), 57 Ohio St.3d 91, 97, 566 N.E.2d 154, 159-160.
+Appellant argues that the dump truck which obstructed Vandawalker’s vision on the day of the accident was a permanent condition because Patrick parked it in the same spot three or four times per week. We disagree. In Williamson v. Pavlovich (1989), 45 Ohio St.3d 179, 543 N.E.2d 1242, the Ohio Supreme Court considered whether a series of automobiles parked illegally along a public street may be considered a nuisance. The plaintiff in Williamson was injured while crossing the street as a result of increased traffic congestion caused by a row of illegally parked automobiles that were blocking one lane of travel. Id. at 180, 543 N.E.2d at 1244. The automobiles that caused the increased traffic congestion were parked illegally for brief periods of time, five days per week while picking up and dropping off school children. Id. at 179, 543 N.E.2d at 1243.
+The plaintiff brought suit against the municipality where the injury occurred alleging that the illegally parked automobiles were a nuisance. Id. at 180, 543 N.E.2d at 1244. The trial court granted the municipality’s motion for a directed verdict because it found that the illegally parked automobiles could not be considered a nuisance. Id.
+On appeal, the Ohio Supreme Court held that automobiles which are temporarily parked along the side of a roadway in violation of a statute do not constitute a nuisance giving rise to municipal liability. Id. at 182, 543 N.E.2d at 1245-1246. The court reasoned that the automobiles were only present in the “no parking” zone for brief periods of time and as such did not “possess an element of permanency, which would have created a duty upon the municipality to remove them.” Id. We find this precedent controlling.
+The record indicates that Patrick parked the dump truck along the edge of the roadway in front of his residence three or four times per week for brief periods of time. As in Williamson, there is simply no way that reasonable minds construing these facts in the light most favorable to appellant could conclude that the dump truck was a permanent obstruction such that it could be considered a nuisance for purposes of R.C. 2744.02(B)(3). Accordingly, the trial court properly granted appellee’s motion for summary judgment. Appellant’s sole assignment of error is overruled. The judgment of the trial court is hereby affirmed.
+Judgment affirmed.
+Walsh, P.J., and Koehler, J., concur.
+. R.C. 2744.01(C)(2)(e) defines a governmental function as ‘‘[t]he regulation of the use of, and the maintenance and repair of, roads, highways, streets, avenues, alleys, sidewalks, bridges, aqueducts, viaducts, and public grounds.”
