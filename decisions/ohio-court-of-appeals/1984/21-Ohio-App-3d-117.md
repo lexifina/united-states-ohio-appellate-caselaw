@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "83AP-1148"
+decided: "1984-12-31"
+citations: ["21 Ohio App. 3d 117"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Whiteside and Norris, JJ., concur."]
+parties: ["The State, ex rel. Blinn et al., v. Ohio Department of Administrative Services."]
+source_url: "https://static.case.law/ohio-app-3d/21/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6711627
+cites_cases: ["54 Ohio St. 2d 41", "6 Ohio St. 3d 28", "8 O.O.3d 36"]
+---
+
+# State ex rel. Blinn v. Ohio Department of Administrative Services
+
+## Majority (Reilly, J.)
+
+Reilly, J.
+Relators, in this original action in mandamus, seek a writ directing the Department of Administrative Services to provide them with jobs in the classified service of the state currently held by provisional employees.
+Relators were employed by the Bureau of Employment Services in the classified civil service. Effective September 30 and October 31, 1983, they were laid off due to the abolishment of their positions for economic reasons. None of relators was eligible to displace employees with fewer retention points or in lower classifications and, thus, relators were placed on appropriate layoff lists for purposes of reinstatement or reemployment pursuant to R.C. 124.327.
+Relators assert, in their petition, that they have become aware of provisional employees who are holding positions in the same classification as relators, although in agencies other than relators’ former employer. Relators claim that eligible lists exist for these positions now held by provisional employees, and that relators’ positions on such eligible lists entitle them to fill such positions. They allege that respondent will not certify them into said positions, despite a legal duty to do so, and that they have no plain and adequate remedy at law to compel the performance of respondent’s duty.
+It is well-settled that a court shall not issue a writ of mandamus absent a demonstration by the relator “* * * (1) that he has a clear legal right to the relief prayed for, (2) that respondents are under a clear legal duty to perform the acts, and (3) that relator has no plain and adequate remedy in the ordinary course of the law. * * *” State, ex rel. Harris, v. Rhodes (1978), 54 Ohio St. 2d 41, 42 [8 O.O.3d 36]; State, ex rel. Berger, v. McMonagle (1983), 6 Ohio St. 3d 28, 29. In the present case, relators have not shown that they have a clear right to the relief sought, or that they are without a plain and adequate remedy at law, and, hence, the writ prayed for is denied.
+When a layoff order is made, employees who are subject to the layoff are accorded displacement rights pursuant to R.C. 124.324. Such displacement, or “bumping” rights, allow an employee to bump another employee within the same appointing authority who has the fewest retention points in a lower classification. R.C. 124.324(B). The notable feature of this bumping right is that, within a classification or series, an employee with a greater number of retention points is entitled to a position presently filled by an employee with fewer retention points. This bumping right is, however, limited to the laid-off employee’s appointing authority, and cannot be exercised elsewhere in the layoff district.
+The rights being asserted by rela-tors are analogous to the bumping rights of R.C. 124.324, since they seek to fill positions presently held by provisional employees. Nonetheless, as noted above, the right to bump only applies within the laid-off employee’s appointing authority, and relators seek to fill positions in agencies other than the Bureau of Employment Services. Thus, mandamus will not lie to compel respondent to allow relators to bump into the positions sought, since relators have no clear legal right to displace employees of different appointing authorities and since relators had a plain and adequate remedy by way of administrative appeal from the layoff. R.C. 124.328.
+An employee who is either laid off or who bumps into a position in a lower classification is also placed on a layoff list, which provides certain rights of reinstatement and reemployment. R.C. 124.327 provides an employee on a layoff list the right, under certain conditions, to a position in his former agency or in any other agency in the layoff district, as follows:
+“(B) An employee who is laid off retains reinstatement rights in the agency from which he was laid off. Reinstatement rights continue for one year ffom the date of layoff. During this one-year period, in any layoff jurisdiction in which an appointing authority has an employee on a layoff list, the appointing authority shall not hire or promote anyone into that classification until all laid-off persons on a layoff list for that classification are reinstated or decline the position when it is offered.
+“(C) Each laid-off or displaced employee, in addition to reinstatement rights within the employee’s appointing authority, shall have the right to reemployment with other agencies within the layoff jurisdiction but only in the same classification from which the employee was initially laid off or displaced. Layoff lists for each appointing authority must be exhausted before jurisdictional reemployment layoff lists are used.”
+While R.C. 124.327 provides a laid-off employee certain priority when hir-ings or promotions are to be made to fill a position in the employee’s classification, it does not provide the laid-off employee the right to bump an employee presently in that classification, without regard to permanent or provisional status or to the number of retention points of each employee.
+Relators’ petition states that they were placed on such layoff lists, and seems to assert the right to reemployment as a result of such status. Relators, however, make no assertion, and there is no evidence, that positions are now unoccupied or were ever unoccupied within the appropriate classifications following their layoff. Hence, relators have shown no clear legal right to relief pursuant to R.C. 124.327.
+Finally, relators’ petition makes some reference to eligible lists for the positions sought, and seems to assert that their positions on the layoff list are the equivalent of positions on eligible lists, entitling them to replace provisional employees within the appropriate classification. If the reference to eligible lists asserts rights pursuant to R.C. 124.27, allowing replacement of a provisional employee by one from the eligible list, there has been no proof by relators that they were placed on an eligible list pursuant to R.C. 124.26, based upon their score on a civil service examination. Thus, relators have shown no clear legal right to relief under R.C. 124.27.
+Considering the rights relating to appointment and the rights following layoff provided by R.C. Chapter 124, relators have shown no clear legal right to the positions sought. They have not shown an entitlement by way of an R.C. 124.27 original appointment, R.C. 124.324 displacement, or R.C. 124.327 reemployment. Therefore, the writ of mandamus is denied.
+Writ denied.
+Whiteside and Norris, JJ., concur.
