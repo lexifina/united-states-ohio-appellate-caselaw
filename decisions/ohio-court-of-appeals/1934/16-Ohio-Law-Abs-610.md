@@ -2,6 +2,7 @@
 court: "Ohio Court of Appeals"
 docket: "No 13351"
 decided: "1934-02-28"
+decided_as_given: "1934-02-29"
 citations: ["16 Ohio Law Abs. 610"]
 reporter: "ohio-law-abs"
 precedential_status: "published"
