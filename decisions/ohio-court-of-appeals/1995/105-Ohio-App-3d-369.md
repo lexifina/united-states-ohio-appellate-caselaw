@@ -1,0 +1,36 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-940589"
+decided: "1995-07-19"
+citations: ["105 Ohio App. 3d 369"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gorman, P.J., Painter and Shannon, JJ., concur.", "Raymond E. Shannon, J., retired, of the First Appellate District, sitting by assignment."]
+parties: ["CRALL-SHAFFER, Appellant, v. SHAFFER, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/105/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1781235
+---
+
+# Crall-Shaffer v. Shaffer
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff-appellant Jane Crall-Shaffer (“the mother”) and defendant-appellee Gregory Shaffer (“the father”) are United States citizens with family in Cincinnati, Ohio. The parties were married in 1982, and a son, Brook Shaffer (“the child”), was born to them in 1985. In 1988, the family moved to Paris, France, where the father was and still is employed as an attorney with a French law firm. In 1992, the mother and the father separated, and the child’s primary residence was established with the father; however, the mother continued her relationship with the child. In April 1994, the father filed a complaint for divorce in France. A hearing date was set for June 28, 1994, and the mother was served with notice of the action and hearing date according to French law.
+On June 26, 1994, the mother picked up the child from the father’s residence for an “overnight” at her apartment, promising to bring the child to school the next morning. She instead boarded an airplane with the child for Cincinnati, Ohio, arriving in Cincinnati with the child sometime on June 27, 1994. On June 27, 1994, the mother’s attorney filed a complaint for legal separation in the Hamilton County Court of Common Pleas, Domestic Relations Division (“the trial court”).
+When the father was informed that the child had not attended school and had not arrived home, the father investigated and finally discovered the child’s whereabouts in Cincinnati. Through his attorney in Cincinnati, the father filed a motion to dismiss the action for legal separation on July 5,1994. On July 25, the father also filed a petition for return of the child, or a “Hague petition,” pursuant to the International Child Abduction Remedies Act (“ICARA”), Section 11601 et seq., Title 42, U.S. Code. ICARA is a codification of the Hague Convention on the Civil Aspects of International Child Abduction, to which both the United States and France are signatory countries.
+A conference was held with the court on the father’s motion to dismiss and other procedural matters on July 8 and July 12, 1994, and counsel for both parties participated. The court entered an order on July 14, 1994, which prohibited the mother from removing the child from Hamilton County, and which required her to appear and produce the child in court at a hearing set for August 1, 1994. The father’s motion to dismiss was taken under advisement. On July 29, 1994, the mother submitted an entry to dismiss her complaint for legal separation. The trial court signed and journalized the entry to dismiss, then vacated the entry later the same day.
+The mother and the child failed to appear at the hearing. The court proceeded to conduct a hearing on the merits of the Hague petition despite counsel for plaintiffs refusal to participate. The court found the mother in contempt of court and issued a bench warrant for her arrest on August 4, 1994. The court entered an order on August 5, 1994, in which it granted the father’s motion to dismiss, granted the father’s Hague petition, and ordered the return of the child to France. Attorney fees were also awarded to the father. The mother timely appealed the August 5,1994 order.
+The mother raises three assignments of error in her appeal: (1) the trial court erred to her prejudice when it vacated her voluntary dismissal; (2) the trial court erred to her prejudice when it dismissed her complaint with prejudice; and (3) the trial court erred to her prejudice when it granted the father’s petition for return of the child.
+In her first and second assignments of error, the mother asserts that she has an absolute right to a dismissal of her complaint for legal separation under Civ.R. 41(A)(1)(a), and that such a dismissal is without prejudice. Because we decline to construe the Hague petition as a counterclaim which could not remain pending for independent adjudication by the court, we hold that it was error for the trial court to vacate the mother’s voluntary dismissal.
+Because we hold that the trial court erred in vacating the mother’s entry of dismissal, it follows that the trial court erred in dismissing the mother’s complaint with prejudice. The first and second assignments of error are, therefore, well taken. We hold that the judgment dismissing the mother’s complaint should be modified to reflect a dismissal of her complaint -without prejudice.
+In her third assignment of error, the mother argues that the trial court had no subject matter jurisdiction over the Hague petition. After reviewing all relevant case law on Hague petitions and the statute which implements the Hague Convention on the Civil Aspects of Child Abduction, we hold that the Hamilton County Court of Common Pleas, Domestic Relations Division, as a court of the state of Ohio, had original and concurrent jurisdiction over the Hague petition pursuant to Section 11603(a), Title 42, U.S.Code. The merits of the petition were correctly before the trial court, and the mother had notice of the hearing and an opportunity to be heard. The fact that the mother chose not to participate in the hearing does not make the hearing and subsequent order in favor of the father invalid. The mother’s objection to the trial court’s assertion of jurisdiction over the Hague petition was overruled but preserved for appeal; the proper course of action was to participate in the proceedings and appeal the issue of subject matter jurisdiction.
+We hold that the trial court did not abuse its discretion in finding that (1) the child’s habitual residence is France; (2) the child was wrongfully retained by the mother in Cincinnati, Ohio; (3) the child should be returned to France, where a custody order of a French court is in effect; and (4) attorney fees and costs are to be awarded to the father. The mother’s third assignment of error is overruled.
+Therefore, the judgment of the trial court with respect to the dismissal of the mother’s complaint for separation is modified as a dismissal without prejudice, and the remaining portions of the judgment are affirmed.
+Judgment accordingly.
+Gorman, P.J., Painter and Shannon, JJ., concur.
+Raymond E. Shannon, J., retired, of the First Appellate District, sitting by assignment.
+. The hearing was held in Paris on June 28, 1994, and the mother failed to appear. On July 1, 1994 the French court awarded joint custody, with the child's primary residence to remain with the father.
+. The mother and the child had not been located at the time of this appeal, and the father had not seen the child since June 26, 1994.
