@@ -1,0 +1,35 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1928-04-23"
+citations: ["30 Ohio App. 225"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Vickery and Levine, JJ., concur."]
+parties: ["McHugh v. Marshall."]
+source_url: "https://static.case.law/ohio-app/30/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1312677
+cites_cases: ["159 N. E., 142", "26 Ohio App., 258"]
+---
+
+# McHugh v. Marshall
+
+## Majority (Sullivan, P. J.)
+
+Sullivan, P. J.
+This cause is here on error from the court of common pleas, and the parties now stand in the same order in which they did in the court below, and will be referred to herein as plaintiff and defendant.
+The plaintiff sues for a division of commission for the sale of real estate, and the defense is set np, because the agreement was oral, that under Section 8621 of the General Code of Ohio there can be no recovery for the reason that this section, which is known as the statute of frauds, in substance says that no action shall be brought to charge the defendant upon an agreement, promise, or contract to pay any commission for or upon the sale of an interest in real estate unless the agreement upon which such action is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith.
+The court below, on counsel waiving a jury and submitting the case to the court, found for the defendant upon the pleadings and opening statement of the plaintiff’s counsel, and overruled a motion for new trial, and for these rulings the case is sought to be reversed.
+On April 14, 1926, a demurrer by defendant to the petition was overruled and leave granted to defendant to plead by May 29, 1926. Thereupon defendant filed an answer in the form of a general denial, and when the case came to trial orally interposed a demurrer, and, after hearing the argument, the demurrer was sustained, so that this final ruling is here for consideration.
+It is claimed as a basis for the demurrer that the contract upon which suit was commenced is within the statute of frauds, and must be in writing, because it relates to a commission for the sale of real estate, and, under the statute, as amended, it is urged that, the contract, being oral, is demurrable, and that to maintain suit thereon the basis for the same must be a written contract.
+In order to determine the question it is necessary to examine the petition. We find upon analysis thereof that the vital averment is that on the 7th day of February, 1926, Margaret McHugh entered into an oral agreement with defendant, Marshall, whereby she was to furnish the defendant with prospective buyers for real estate, which the defendant was selling, and that as the consideration thereof defendant agreed to pay the plaintiff one-half of whatever commission was received from the sale of property purchased by prospective buyers furnished by plaintiff. It was then averred that in pursuance to the agreement she furnished a prospective buyer, who, on the 16th day of February, 1926, purchased the dwelling house from the owner thereof for the sum of $14,500. It was then averred that as a commission for this sale, defendant Marshall received the sum of $362.50; and one-half of this is claimed by plaintiff by virtue of the contract which she sets forth as above in her petition.
+As a result of the analysis of the allegations of the petition wo find that the contract sued upon was furnishing the defendant with prospective buyers of real estate, as a consideration for which she was to have one-half of the commission the defendant received. Thus it is clear that plaintiff is not suing for a commission on an oral contract in the face of the statute of frauds, as amended, but is suing for the value of her services in furnishing a prospect for the purchase of real estate. The commission for the sale of the real estate was paid to the agent or broker, and thus the transaction relating to the commission itself involved only the broker; Marshall, and the owner of the real estate, who was in no manner a party to the 'relationship which existed between plaintiff and defendant in regard to furnishing prospective buyers, and in no way obligated for the payment of any portion of the commission to plaintiff; and, as before noted, the plaintiff does not rest her rights upon any such claim, but sues because she furnished a buyer according to her contract with Marshall, who finally negotiated and consummated the deal between the owner and the purchaser.
+It is plain from this aspect of the case, which is based upon the specific allegations of the petition that Section 8621 of the General Code, relating to the necessity of written contracts for the payment of commissions on the sale of real estate, does not apply, because the petition in theory and fact is not built upon such a basis. The sum of $362.50 ceased to be a commission for the sale of the real estate at the consummation of the contract and upon the payment thereof, but thereafter lost its character as a commission and became the private funds of Marshall, and whatever was due Margaret McHugh was not by way of commission, but because of the fulfillment of her contract with Marshall, as stated in her petition, to be paid a sum of money equal to one-half of the amount received by Marshall as commission; and this contract created no lien upon the commission and the one-half that might be due plaintiff could be paid from any other source than the sum received as commission. In other words, the plaintiff sues upon a contract that is without the statute of frauds, and under it, if she could prove her claim, undoubtedly would have the right to recover for services performed under the contract orally made, an agreement which it was not necessary to incorporate in a written instrument, because it did not in and of itself, under the allegations of the petition, relate to any interest in real estate, but was simply a contract for the payment of a definite amount of money for the performance of certain services.
+Hence it is our judgment that error was committed in sustaining the demurrer and overruling the motion for a new trial.
+In a similar case to the one at bar, known as Furth v. Farkasch, decided by this court May 23, 1927, and reported in 26 Ohio App., 258, 159 N. E., 142, the court held in line with our judgment in this ease. From the opinion in that case, written by Vickery, J., we give the following excerpt:
+“A contract between two individuals, * * * whereby either or both would sell real estate and divide * * * between them, was not within the statute of frauds.”
+We do not think that the claim of partnership relation in the case just cited makes any substantial distinction between it and the case at bar.
+Thus holding, the judgment of the lower court is hereby reversed, and'the cause remanded.
+Judgment reversed and cause remanded.
+Vickery and Levine, JJ., concur.
