@@ -1,0 +1,42 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1952-12-23"
+citations: ["66 Ohio Law Abs. 312"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McCLINTOCK, PJ, PUTNAM, J, concur."]
+parties: ["STRIETELMEIER et v. ANGELO et."]
+source_url: "https://static.case.law/ohio-law-abs/66/cases/0312-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1772409
+cites_cases: ["100 Oh St 547", "112 N. E. 1081", "127 N. E. 924", "41 Oh St, 81", "92 Oh St 522"]
+---
+
+# Strietelmeier v. Angelo
+
+## Majority (By MONTGOMERY, J.)
+
+OPINION
+By MONTGOMERY, J.
+At the outset the writer of this opinion desires to make an observation. During his twenty-two years upon this Bench, he has passed upon many cases whose problems were more intricate and difficult than those in the instant case, and in which the solutions were more difficult. He cannot recall, however, another case in which the process of arriving at a solution was more laborious. In reading this record the reader is confronted with page upon page of irrelevant and immaterial matter. At times the reading was exacting and even exasperating.
+By agreement of the parties, the cause had been submitted to a referee. The bill of exceptions showing the evidence taken before him consisted of 723 pages and more than 30 exhibits. He filed a report with the Court of Common Pleas 82 pages in length. And the court, in rendering judgment, filed a rather long and comprehensive opinion. In this Court there have been submitted briefs aggregating 208 pages.
+Whether what follows will have any other merit, it will at least have the merit of relative brevity. We propose to state our conclusions without any detailed argument. Generally speaking the application of the law is not difficult. The facts of course are known to the parties and to their counsel, and a recital of them would be of no interest to anybody else.
+This cause has been pending since April 3, 1944. The final judgment in the Court of Common Pleas was rendered on November 7, 1951 and the motions for new trial overruled November 21, 1951. The cause was finally submitted upon the third amended petition the answer of Harris Coal Corporation thereto, the second amended answer and cross petition of the defendant, Angelo, and various answers and replies.
+Briefly, the situation is this: In the summer of 1942 Felix Angelo entered into two contracts. One was with the Harris Coal Corporation to sell all coal loaded on railroad cars and produced by Angelo; the second was with the plaintiffs, whereby they agreed to mine coal at a fixed rate for all merchantable coal mined and loaded under the agreement. .
+The final claim made against Harris Coal Corporation was that it had become primarily obligated to the plaintiffs. During the hearing of this cause counsel were asked by the writer of this opinion whether or not the only real issue in the case was the claimed primary obligation of Harris Coal Corporation to the plaintiffs. That question was answered in the affirmative. Added to this is the claim under the cross petition of Angelo, and certain legal propositions incidental to the respective claims.
+The referee in his finding recommended judgment for the plaintiff against Angelo and judgment on the cross petition for Angelo against plaintiffs in excess of their judgment and found no cause of action against Harris Coal Corporation. The Common Pleas Court overruled this finding and held Harris Coal Corporation primarily liable, made no finding against Angelo, and dismissed his cross petition.
+From that order appeal was made to this Court by each of the defendants. The appeals recite that they are on law and fact, but the judgment was one for money only. The appeals as perfected were, with propriety, disregarded by counsel and the cause was submitted as appeals upon questions of law.
+Harris Coal Corporation filed an assignment of errors. We cannot find that this was done by Angelo, but his claims are set forth in his brief sufficient to acquaint us with what they may be.
+Answering the main question heretofore set forth, we categorically, and without hesitation, hold with the Court of Common Pleas that the obligation was primarily that of Harris Coal Corporation to the plaintiffs and that the judgment against this corporation was correct. That seems to us evident from the credible and direct evidence of the plaintiffs, the admissions of Angelo, the admitted verbal agreement between the three parties as to the handling of the funds, and the conduct of the Harris Coal Corporation as a result thereof, in making all collections and distributions including the direct distribution to the plaintiffs prior to the time of this controversy.
+There are eleven assignments of error by the Harris Coal Corporation, all of which have been considered, but most of them are disposed of in the disposition of the general question as to whether or not the judgment below was right, or was manifestly against the weight of the evidence, and this we have already answered.
+It is contended in one assignment of error that there is a fatal variance in the pleadings, in that the action started originally as one at law, was shifted to one in equity, and wound up finally as an action at law. We find no fatal variance. The essential claims of the parties were not changed. They were in no sense prejudiced by this apparent change. Justice was done.
+It is urged that the trial court had no authority to reverse the referee on the ground of the weight of the evidence, because the report of the referee is similar to a finding of the jury, and it could not be determined from a reading of the record that the judgment of the referee was against the weight of the evidence. Reliance is placed upon certain reports in the Court of Appeals, and its predecessor, which might tend to sustain this contention. These cases to which we make reference are: Cincinnati & Eastern Railway Company v. Ritty, 21 Ohio Cir. Ct., N. S., 568; Kuerze v. Western German Bank, 12 Oh Ap 412 at page 419; Caple v. Crane, 13 Oh Ap 317.
+Two of these cases went to the Supreme Court and were affirmed. One without opinion in Cincinnati & E. R. Co. v. Ritty, 92 Oh St 522, 112 N. E. 1081, and the other by per curiam in Kuerze v. Western German Bank, 100 Oh St 547, 127 N. E. 924. There is nothing in them to guide us and in any event the facts are altogether different from the facts in the instant case, and the proposition with which we are now concerned was incidental in those cases.
+We think the correct rule is laid down in Hogg v. Beerman, 41 Oh St, 81, which we cannot find has ever been reversed, and the fourth branch of the syllabus in this case is:
+“Where the record properly presents the entire evidence in the case, and, giving full faith and credit to all of the evidence for the defense, the plaintiff is entitled to a decree, the court may grant it, notwithstanding a referee before whom the case was heard reported that the petition should be dismissed.”
+A referee is in fact an agent of the court which appointed him, the appointment being authorized by statute and certain powers given him. Certainly his acts are subject to review and revision by the appointing court.
+It is contended further that the trial court should not have assessed all of the costs of the reference against Harris Coal Corporation. We cannot agree with this proposition. Holding that it was primarily responsible for the whole situation, it should be taxed with all the costs.
+There remains one other question, and that is the disposition of an item of $560. That represents coal not loaded upon the railroad train, but “custom coal” or coal loaded upon trucks. With this the Harris Coal Corporation had no connection insofar as we can determine. The plaintiffs did obtain the money direct and they owed it to Angelo. The trial court held that this item had been liquidated by a credit which Angelo received from the Harris Coal Corporation. Whether or not this is true seems to us altogether beside the point. We find that in that respect and that only, the trial court committed error.
+It follows that the judgment of the trial court in that respect was wrong, and this Court, coming to render the judgment which the trial court should have rendered, it is ordered that the judgment be given for Angelo against the plaintiffs for $560, and the judgment as so modified is affirmed.
+McCLINTOCK, PJ, PUTNAM, J, concur.
