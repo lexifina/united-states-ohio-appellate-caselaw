@@ -1,0 +1,32 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 1534"
+decided: "1929-03-13"
+citations: ["7 Ohio Law Abs. 552"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pardee, J, and Washburn, J, concur."]
+parties: ["SCHWARTZ v BRICE et"]
+source_url: "https://static.case.law/ohio-law-abs/7/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1632019
+---
+
+# Schwartz v. Brice
+
+## Majority (FUNK, P. J.)
+
+FUNK, P. J.
+Three principal questions were argued by counsel on both sides, on the theory that a determination of them is decisive of the rights of the several parties in this case. They are as follows: first, Did plaintiff comply with his part of the agreement so as to entitle him to a decree for specific performance? second, Was the St. Ger-main Realty Co. such agent of the plaintiff as to make the information it gave Dituro about the plaintiff not carrying out his contract with Mrs. Brice, binding upon the plaintiff? and third, if the Realty Co. was not such agent, did Dituro have such information concerning plaintiff’s rights or interest in the property under said land contract as would make him a purchaser with notice and not an innocent purchaser?
+We will take up the first the question, Did plaintiff comply with his part of the contract so as to entitle him to a decree of specific performance?
+Counsel, of course, know that the power or duty of a court to decree specific performance of a contract does not depend upon any fixed rule but depends upon the peculiar facts in each case and rests largely in the sound discretion of the court, guided and regulated, so far as may be, by precedent and established practice; and that while á party may be entitled to a decree of specific performance if the contract for the conveyance is in all respects fair and free from ambiguity, yet even then the court will refuse a decree for specific performance if such performance would be harsh and oppressive upon any of the parties affected thereby.
+While the questions argued by counsel may not require that these rules be especially or strictly applied in a determination of this case, yet they do reflect some bearing on the question of whether or not plaintiff has proven his right to specific performance by. a preponderance of the evidence, as he cannot rely entirely upon the failure of the defendant Brice to do some particular thing before she would be free to cancel the contract or refuse to carry it out, but he must also show that he has complied with all things on his part to be done before he is entitled to specific performance.
+As each party claims that he was urging the other party to close the deal and that the delay was caused by the other party, and as these respective claims are supported by .about the same number of witnesses on each side, it is important to especially consider, in connection with what the witnesses said, all the surrounding facts and circumstances.
+It will thus be noted that the uncontroverted evidence shows that Mrs. Brice executed the deed to plaintiff for her property and the notes and mortgage to him, for the pew amount agreed upon, on the property she was to get from him, on June 24, 1927, and left them with her agent for delivery to plaintiff when he carried out his part of the contract, and that she arranged with her agent, the. St. Germain Realty Co., to pay the amount of cash she needed to close the deal at anytime plaintiff paid the amount of cash necessary for him to close the deal; that this situation continued for more than three weeks, and that plaintiff did not pay the $205.15 necessary for him to pay to close the deal.
+The uncontroverted evidence further shows that the first note of $1300 on the first mortgage on the Brice property, which was the mortgage for $6300 which plaintiff had agreed to assume, was long past due and that the holder thereof was demanding the payment of said $1300 and threatening to start foreclosure proceedings if it was not paid without further delay, and which was one of the reasons why Mrs. Brice was anxious to dispose of her property as soon as possible. Hence; while the statement furnished by the Realty Co. showed that it was necessary for plaintiff to furnish only $205.15 to close the deal so far as the parties and the Realty Co. were concerned, it was also necessary for plaintiff to pay said $1300 within a very limited time to prevent said first mortgage from being foreclosed upon the Brice property and to also pay the June, 1927, taxes then due thereon, amounting to $91.48. The evidence also shows that plaintiff was endeavoring to dispose of the Brice property before he completed the deal.
+Under these facts and circumstances, would it be an unreasonable inference to draw that the necessity of raising the $1300 to prevent foreclosure, and the $91.48 to p,ay the June,- 1927, taxes, in addition to the $205.15, had some bearing, on why plaintiff might have wanted to délay closing the deal until he could find a buyer for the Brice property who would take car-e of the $1300 payment and the taxes, without his having to advance the money for it?
+We think not; and after considering all the evidence offered, and the briefs and arguments of counsel, we have arrived at the conclusion that plaintiff has not only not sustained the burden of proving his right to specific performance by a preponderance of the evidence, but that the weight of the evidence rather seems to preponderate in favor of defendants.
+Finding that plaintiff has not complied with his part of the agrément in such manner as would entitle him to a decree of specific performance, it is not necessary for us to determine the other two questions argued by counsel in this case. However, for the information of counsel, it may be said that we are all inclined to the opinion that Dituro did have such information as would put him on notice that plaintiff had some right in the property, but that a majority of the court are of the opinion that the St. Germain Realty Co. was such agent of the plaintiff ,as would bind him by the information given Dituro by the Realty Co. concerning the failure of plaintiff to carry out his part of the agreement, and which information’ would thereby make Dituro ,an innocent purchaser.
+The petition of plaintiff will therefore be dismissed, and an entry may be prepared accordingly.
+Pardee, J, and Washburn, J, concur.
