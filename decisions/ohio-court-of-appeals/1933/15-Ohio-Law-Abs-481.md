@@ -1,0 +1,28 @@
+---
+court: "Ohio Court of Appeals"
+docket: "No 2784"
+decided: "1933-11-13"
+citations: ["15 Ohio Law Abs. 481"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["RICHARDS and WILLIAMS, JJ, concur."]
+parties: ["METZGER v YELLOW TAXICAB CO et"]
+source_url: "https://static.case.law/ohio-law-abs/15/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1652089
+---
+
+# Metzger v. Yellow Taxicab Co.
+
+## Majority (By LLOYD, J.)
+
+OPINION
+By LLOYD, J.
+The plaintiff in error contends that the judgment of the Court of Common Pleas should be reversed because it is manifestly against the weight of the evidence and because of error in the general charge of the trial judge. It is first complained that the trial judge erred in saying to the jury:
+“Now, it was also the duty of the plaintiff to have exercised ordinary care for her own safety. It was her duty to have used her faculties of sight and hearing to discover any danger to which she might be exposed and to have used ordinary care to protect herself therefrom.”
+The foregoing is the only instruction given to the jury as to the care to be exercised and the duty devolving upon Mrs. Metzger as a passenger in the Leith automobile. Assuredly it was her duty to exercise ordinary care, but ordinary care for a passenger and ordinary care for a driver of an- automobile are quite different as to the acts or omissions which must determine whether either or both are guilty of negligence and the duty of Mrs. Metzger to use “her faculties of sight and hearing to discover any danger to which she might be exposed” was relative, not absolute. In the instant case there is no evidence in the record that Mrs. Metzger was guilty of any negligence which caused or contributed to cause the collision or her injuries, and in our judgment the trial judge might well have so instructed the jury. The record discloses clearly tha,t Mrs. Metzger had not been watching Leith or paying attention to how he was driving his automobile, there being nothing to attract her attention thereto until the instant of the occurring collision, when it was too late for her to have said or done anything by way of protest or otherwise. It was prejudicial error, therefore, for the court to impose upon her the affirmative and absolute duty which the instruction created.
+The error in the general charge of the court, of which complaint is made, is that the trial judge submitted to the jury the question of whether Fulton Street at the time of the occurrence in question was a main thoroughfare. Fulton Street was not a main thoroughfare within the statutory designation provided in §§6310-30 and 6310-32 GC, but was a much-travelled highway and the Leith automobile on Floyd Street, in relation to the taxicab, was approaching Fulton Street from the right. Mr. Leith testified that he understood that Fulton Street was a main thoroughfare and Collier, the driver of the taxicab, testified that “Fulton Street was the bus-travelled thoroughfare” and that it was the custom and practice for traffic on the intersecting streets to yield the right of way to traffic on Fulton Street. The traffic code of the state, of which the above cited sections are a part, was enacted to regulate traffic on the highways of the state and on municipal streets, and to provide uniformity of duties thereby imposed upon vehicular traffic thereon, as well as to qualify in certain respects the use thereof by pedestrians. The legislative conclusion as to what should be regarded as a main thoroughfare by those using the highways might very radically differ from those which some person or group ■ of persons might think should or should not be so designated. It would seem paradoxical to say that the traffic laws of the state would apply equally to highways assumed to be main thoroughfares because muchtravelled, and those specifically designated as such by statute, but that violations of the traffic code in the use of main thoroughfares would be criminally punishable only when the main thoroughfare in question was made so by statute. Certainly this is not the legislative purpose and intent in the enactment of the traffic code. The trial judge therefore erred to the prejudice of plaintiff in error in. submitting to the jury the question as to whether or not Fulton Street was a main thoroughfare and instructing the jury as to the respective duties of Leith and Collier, if the jury found that Fulton Street was in fact a main thoroughfare. Ignorance of the law, it is said, excuses no one, and surely a taxicab driver in a municipality should know which streets therein are and which are not main thoroughfares, and it will be noted that the taxicab driver in the instant case did not testify that Fulton Street was or was not a main thoroughfare. All that he said was that Fulton Street was the bus-traveled highway and that by custom and practice was treated as a main thoroughfare. Leith and Collier having testified without objection as to their belief and understanding that Fulton Street was a main thoroughfare, the facts ip this regard might be considered by the jury as bearing upon the question whether Leith and Collier exercised ordinary care under all of the facts and circumstances in evidence.
+We do not find the judgment manifestly against the weight of the evidence, but for the reasons above indicated it is reversed and the cause is remanded to the Court of Common Pleas for further proceeding's according to law.
+Reversed and remanded.
+RICHARDS and WILLIAMS, JJ, concur.
