@@ -1,0 +1,38 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1936-12-31"
+citations: ["56 Ohio App. 448"]
+reporter: "ohio-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ross and Hamilton, JJ., concur."]
+parties: ["The Fate-Root-Heath Co., Appellant, v. The Ceramic Machinery Co., Appellee."]
+source_url: "https://static.case.law/ohio-app/56/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 621714
+cites_cases: ["72 Mass., 149", "77 Ohio St., 497", "83 N. E., 900"]
+---
+
+# Fate-Root-Heath Co. v. Ceramic Machinery Co.
+
+## Majority (Tatgenhorst, P. J.)
+
+Tatgenhorst, P. J.
+This case is presented on appeal on questions of law from the Court of Common Pleas of Butler county.
+One Ainlay verbally agreed to enter the employ of The Ceramic Machinery Company, appellee, as a locomotive sales manager. The verbal agreement resulted in a written contract, of which the following is a copy:
+“In accordance with conversation today, we have decided to employ you as locomotive sales manager beginning the first of November.
+“The compensation will be $350 per month with one percent commission on all sales. This agreement is for one year to be renewed for a longer period by mutual agreement.”
+Ainlay remained in the employ of the appellee after the expiration of the one year. Appellant, the Fate-Root-Heath Company, contends the contract was renewed by mutual agreement and upon the same terms as the first year. Ainlay voluntarily left his employment during the second year. Prior to leaving his employment, he procured an order for three locomotives to be manufactured by appellee in accordance with certain specifications, and to be delivered by the appellee to the railway company, and paid for by the latter when and if accepted and found satisfactory. One of these locomotives was manufactured, accepted, and paid for prior to Ainlay’s abandoning his employment. Upon the first locomotive being paid for, Ainlay was paid his commission of one percent by the appellee. The two remaining locomotives were in an incomplete state of manufacture when Ainlay quit his employment. They were not completed, delivered, accepted and paid for until some months after Ainlay left his employment. Ainlay assigned his interest in the written contract to appellant, who brings this action to recover a commission of one percent of the sale prices of the two locomotives.
+Appellee contends there was no sale during the time Ainlay was in its employ for which he has not received commission; that no title passed until the locomotives were completed, delivered, accepted, and paid for by the railway company, and that, therefore, Ainlay’s assignee is not entitled to the commission.
+The trial court directed a verdict for appellee. Ainlay in his testimony gave his version of what was meant by the written contract he had entered into. The bill of exceptions on this point reads as follows:
+“Q. You were paid some commissions on former sales during your employment? A. Yes, sir, on. all sales made while I was with the company.
+“Q. Those were always paid after the locomotives were delivered and paid for? A. Correct.
+“Q. That was the agreement, was it? A. Yes, sir.”
+Section 8456, General Code, defines sale as follows:
+“ ‘Sale’ includes a bargain and sale as well as a sale and delivery.”
+The Supreme Court in the case of Clark, Treas., v. Gault et al., Exrs., 77 Ohio St., 497, 83 N. E., 900, at page 513, states:
+“Authors on the subject of sales substantially agree that a sale is a contract founded on a money consideration, by which the absolute or general property in the subject of sale is transferred from the seller to the buyer, and that the essentials of a sale are: (1) a mutual agreement; (2) competent parties; (3) a money consideration; (4) a transfer of the absolute or general property from the seller to the buyer. If any of these ingredients.be wanting there is no sale.”
+This court is of the opinion that the contract for commission was executory merely; that the parties agreed that a commission was to be paid on and after the locomotives were delivered, accepted and paid for, providing Ainlay was still in the employ of the appellee. No right of property vested in the purchaser until the locomotives were complete, ■ delivered, and paid for. Blasdell v. Souther, 72 Mass., 149. All that Ainlay was successful in doing was to secure contracts for sale, and he has been paid his commission on those executed. Those remaining unexecuted will not serve him as a basis for a claim for commission upon sales; the commission is on completed contracts.
+For the reasons given, the judgment of the Court of Common Pleas of Butler county is affirmed.
+Judgment affirmed.
+Ross and Hamilton, JJ., concur.
