@@ -1,0 +1,28 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4599"
+decided: "1951-10-04"
+citations: ["65 Ohio Law Abs. 222"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HORNBECK, PJ, WISEMAN, J, concur."]
+parties: ["BLACKWELL, Plaintiff-Appellant, v. COLUMBUS AND SOUTHERN OHIO ELECTRIC COMPANY, a Corp. et, Defendants-Appellees."]
+source_url: "https://static.case.law/ohio-law-abs/65/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1770257
+cites_cases: ["100 Oh St 73", "152 Oh St 458"]
+---
+
+# Blackwell v. Columbus & Southern Ohio Electric Co.
+
+## Majority (By MILLER, J.)
+
+OPINION
+By MILLER, J.
+This is an appeal on questions of law from the order and judgment of the Court of Common Pleas sustaining the motion of the defendant-appellee, Edward J. Lupton, to quash the service of summons upon him. The record reveals that on May 6, 1950, the plaintiff-appellant filed his petition in the Court of Common Pleas seeking to recover damages for personal injuries arising out of a collision between a trolley bus and an automobile operated by the defendant-appellee, Lupton, in the State of Ohio. The caption of plaintiff’s petition shows the address of the defendant-appellee to be 6 Surrey Lane, Euclid Beach Park, Cleveland, Ohio. A praecipe was filed for the issuance of summons and the sheriff returned the writ unsatisfied with the following notation: “Received this writ May 8th, 1950, at 10:48 o’clock A. M., the within named Edward J. Lupton — not found in my county. (Defendant lives in Florida.)”
+Then a second praecipe was filed requesting the clerk to issue an alias summons to the sheriff of Franklin County upon “the defendant, Edward J. Lupton, now a nonresident of the State of Ohio, and whose last known address was 6 Surrey Lane, Euclid Beach Park, Cleveland, Ohio.” To this writ the sheriff made his return showing that he had served the defendant by leaving a true and certified copy of the writ, etc., upon Charles F. Sweeney, Secretary of State, in accordance with §6308-1 et seq. GC, and also that he served the defendant through registered mail by sending the process to his last known address at Cleveland, Ohio. Attached to the return of the summons was a registered mail return receipt card showing that the process had been received at the defendant’s address at West Palm Beach, Florida. Upon this record the defendant filed a motion for an order quashing the service of summons and setting aside the return thereof for the reason that the petition did not affirmatively allege that Lupton was or had become a nonresident of the State of Ohio. This motion was sustained, and which is the alleged error complained of.
+Although the question is not raised in the assignments of error or briefs we think the order appealed from is a final order since it has the consequence of ending the case by holding that the defendant is not amenable at all to the jurisdiction of the court and its processes under the facts pleaded. Urschel v. Hannin, 25 Oh Ap 368; Uthoff v. DuBrie, 63 Oh Ap 285; Gorey v. Black, 100 Oh St 73.
+At the outset it may be noted we recognize that since the statute is jurisdictional and in derogation of the common law, it must be strictly construed. Parr v. Gregg, 70 Oh Ap 235; Donnelly v. Carpenter, 55 Oh Ap 463. While §6308-1 et seq GC, sets up the means by which service of summons may be had upon a nonresident operator of a motor vehicle or upon a resident who shall subsequently become a nonresident or shall conceal his whereabouts, we find nothing in the statute nor in any court decisions which requires an affirmative allegation in the body of the petition that the defendant has removed himself from the state or is concealing his whereabouts. The fact that the defendant has removed himself from the State cannot in any way alter the cause of action which the plaintiff has against him. The only thing that it alters is the manner in which the defendant shall be legally notified that suit had been brought against him. The record reveals that the service was had in compliance with the requirements of the statute. The trial court based its decision on the case of Mercer Casualty Co. v. Perlman, 62 Oh Ap 133. An examination of this case, we think, discloses that it is neither analogous nor applicable to the case at bar. The cause of action in that case was based upon an assignment of a claim which arose out of an automobile collision and service of summons upon the nonresident defendant was attempted under §6308-1 et seq. GC. In that case the court properly held that a cause of action on an assignment could not be the basis of service under §6308-1 et seq, GC, because those Code sections are limited to actions arising out of accidents or collisions involving a motor vehicle. Since the petition showed on its face that the cause of action was not covered by the statute the court properly ruled on the motion to quash by sustaining the same. In the case at bar the cause of action is squarely within the statute and whether or not the defendant has removed himself from the state does not in any manner alter the cause of action against him. The plaintiffappellee calls our attention to the case of Couts v. Rose, 152 Oh St 458, where the facts seem to be parallel, but a different question was involved. However, the Supreme Court seems to recognize that service had been secured on the defendant under the Code Sections involved herein.
+The judgment will be reversed and the cause ordered remanded for further procedure according to law.
+HORNBECK, PJ, WISEMAN, J, concur.
