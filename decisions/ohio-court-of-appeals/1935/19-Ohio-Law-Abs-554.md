@@ -1,0 +1,45 @@
+---
+court: "Ohio Court of Appeals"
+decided: "1935-08-16"
+citations: ["19 Ohio Law Abs. 554"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATHENY v WHITE et"]
+source_url: "https://static.case.law/ohio-law-abs/19/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1663783
+---
+
+# Matheny v. White
+
+## Majority (By ACTON, J.)
+
+OPINION
+By ACTON, J.
+The plaintiff and defendants recite numerous reasons in support of their respective claims and this court deems it necessary to pass upon several of these issues and in the following order.
+First: It is set forth as a defense herein that the prosecuting attorney had no opportunity to bring this suit and for that reason the plaintiff. Ralph Matheny, as a taxpayer had no right to bring this action. Written demand was made by plaintiff as a taxpayer on the prosecuting attorney to bring this action. The prosecuting attorney failed and neglected to bring this proceeding and having rendered a written opinion to the board of county commissioners of Fairfield County, approving the legality of these contracts it is quite evident that the prosecutor had no thought of filing a petition to restrain the board of county commissioners in this matter. The length of time given the prosecutor to bring this suit was brief but a prosecuting attorney, or any other public officer, should be at least as vigilant in the performance of a public service when it becomes his duty to act, as a practicing attorney usually exhibits in his private practice.
+The evidence reveals that the prosecuting attorney for several weeks prior to the written demand, made upon him by this taxpayer, was familiar with all details of this transaction, that he had been requested several times verbally to stop this action of the commissioners 'by suit and that he finally gave his opinion to the board of county commissioners holding these contracts to be legal.
+Written demand was made on Saturday, June 1, 1935, and the injunction proceedings were filed by this taxpayer on Monday, June 3, 1935.
+It appears that haste was necessary on the part of the taxpayer as Monday, June 3, 1935, was the day the commissioners met to pay bills and any action after that date might not be effective.
+Under this state of facts the court finds there was a compliance with §2923, GC, and that this taxpayer had the right to bring this action when this petition was filed June 3. 1935.
+Second: The answer of the board of county commissioners was filed by one member of that board without the authority of the board, of county commissioners, no action having been taken by the board authorizing the commissioner signing such answer to sign the same on behalf of said board. The record of the proceedings of the board of county commissioners is silent on this subject.
+One member of the board of county commissioners without action of such board clothing him with authority to plead on behalf of such board, has no authority to sign such pleading. If under such circumstances a single member of the board of county commissioners could answer in cowt on behalf of such board, he could also confess judgment against the board in an action brought against such board, and certainly no one will contend that such right is given to any one member of the board of county commissioners.
+Third: §5625-33 GC provides that contracts of this character should have attached thereto a certificate of the county oudF- or relative to the necessary funds bemg available. The general certificate filed by the county auditor is insufficient for the statute requires that a separate 'certificate shall be attached to each contract. There was a substantial compliance with this statute in the contract with the Southern Oh’o Equipment Company but no certificate was given for the contract with the Galion Iron Works and Manufacturing Company until July 25, 1935, which was the day this cause was tried in this court and fifty-two days after the temporary restraining order had been granted in this proceeding. The filing of this certificate at the time of awarding the contract being mandatory it follows that .the contract with the Galion Iron Works and Manufacturing Company is void.
+Fourth: On February 7, 1935, bids for these road graders were opened and on February 18, 1935, two members of the board of county commissioners attempted to award contracts to the defendant companies for two motor road maintainers for the sum. of six thousand, two hundred fifty dollars ($6250.00)-.
+Sec 2414 GC provides that:
+“No proposition involving an expenditure of one thousand dollars or more shall bs agreed to by the board unless twenty days have elapsed since the introduction of the proposition unless by unanimous consent of all members present of the board, which consent shall be taken bv yeas and nays and entered on the record.”
+On May 31, 1935, the prosecuting attorney rendered a written opinion to the county commissioners in which he advised them that these contracts were legal and that the “introduction of the proposition” occurred on Jan. 25, 1935, when a motion was made and adopted to advertise for bids for road maintainers. It becomes necessary for this court to interpret this statute and determine its true meaning.
+When a court is required to interpret a statute the wording, terms and apparent meaning is given consideration and the purpose of the statute, that is the intention Or object of the legislature in enacting such statute shall also be given careful thought.
+If a given statute is clearly subject to two or more interpretations dependent upon different meaning of words used in such statute, it is the duty of the court, if the purpose and intention of the legislation is apparent, to give such interpretation as will carry out and give force and effect to such law*along the line and terms intended. The court is justified in assuming that the legislature of the state of Ohio would not and did not in this instance enact a law that was intended to mean nothing, accomplish nothing, and by the very terms of such law be inoperative.
+This court holds that the interpretation given §2414, GC, by the prosecuting attorney in his written opinion to the board of county commissioners is erroneous and that such interpretation would completely destroy this statute and this section would have no operative effect or legal value and would in fact be repealed by such interpretation.
+This court holds that no proposition was introduced to tfcie board of county commissioners in this matter until February 7, 1.935, and that two members of such board had no authority to award these contracts on February 18, 1935, and the court further holds that both contracts are, for this reason void.
+-This statute was enacted by the legislature to protect taxpayers from negligence and extravagance of county commissioners and contracts executed in conflict with the provisions of this statute are void and impose no liability on the county. Those who sell machinery and equipment to the county are charged with knowledge of all laws limiting the power of the county commissioners to contract.
+The purpose of this statute is apparent and public policy demands that all restrictive measures governing the expenditure of the public funds should be strictly observed and when such protective laws are ignored the courts will, on suit of the taxpayer, enforce 'their observance.
+On February 18, 1935, two members of the board of county commissioners attempted to contract for the expenditure of six thousand twro hundred fifty dollars ($6250.00) of the county funds by signing a contract which is clearly declared ilhgsl by §3414 GC. In this case and another recently heard in this court in which the proceedings of the board of county commissioners were held irregular and illegal it was developed that the clerk of the board of county commissioners has assumed the roll of legal adviser to this board. The clerk of the board of county commissioners is not a lawyer and his advice on legal matters is unsafe and expensive to the taxpayers when followed. The attention of the members of the board of county commissioners is therefore called to the fact that the prosecuting attorney is their legal adviser and that his aid and advice should be sought before and not after contracts of importance are executed.
+For the reasons herein given this court finds and orders:
+First: The motions to dismiss the petition filed by the prosecuting attorney are overruled.
+Second: The answer of the board of county commissioners filed herein is stricken from the files.
+■Third: The motion of the defendant, The Southern Ohio Equipment Company, for judgment on the pleadings is overruled.
+Fourth: The motion of the defendant, The Galion Iron Works and Manufacturing Company to vacate the restraining order herein is overruled.
+Fifth-: .Judgment is given plaintiff as prayed for in his petition and the temporary restraining order heretofore granted is made permanent.
