@@ -1,0 +1,65 @@
+---
+court: "Ohio Court of Appeals"
+docket: "31673"
+decided: "1972-08-03"
+citations: ["31 Ohio App. 2d 63"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Silbert, P. J., and Jackson, J., concur."]
+parties: ["In re Haun."]
+source_url: "https://static.case.law/ohio-app-2d/31/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1469957
+---
+
+# In re Haun
+
+## Majority (Day, J.)
+
+Day, J.
+This case comes here on appeal from a decision of the Probate Division of the Court of Common Pleas, Cuyahoga County, Ohio, granting the petition of Mr. and Mrs. Charles Haun for adoption of the three-year old child, Julia M. Haun. The Children’s Services, which had permanent custody of the child, opposed the petition. We affirm.
+For convenience in reference hereafter, the Children’s Services, a “certified organization” within the meaning of the adoption statutes, will be called the “appellant” and the petitioners the “appellees.” The appellant assigns five errors. These are:
+I. The court erred in not granting the defendant, Children’s Services’ motion to dismiss because Children’s Services had not consented to the adoption.
+II. The court erred in not conducting separate interviews of the petitioners as required by Section 3107.09 Revised Code.
+III. The court erred in rendering judgment without the filing of the report of the next friend as required by Section 3107.05, Revised Code.
+IV. The court erred in reaching its decision on the merits of the petition by relying on hearsay evidence.
+V. The court erred as the decision was against the manifest weight of the evidence as to the best interests of the child.
+After a review of the record, including the reading of the transcript of the proceedings included in the record, we conclude that all the assignments lack merit but only No. I warrants extended discussion. Assignments II through V can be disposed on fairly obvious grounds.
+Assignment No. II fails because it is not exemplified in the record.
+The report of the next friend referred to in Assignment No. ill is not an exhibit, the record is silent on the subject of the report, and the appellant made no issue of it until the appeal. In the single record reference the certified copy of the docket and journal entries indicates only that a named person was appointed as next friend. These factors erase the claimed error.
+Assignment No. IV may involve hearsay but if it does, one part of it is contained in reports desired by one or the other of the parties and stipulated into evidence (Tr. 19, et seq.) and the other part was admitted without objection (Tr. 57-58; 9.76-78). Under such circumstances the error, if any, does not warrant reversal.
+Assignment No. V challenges the weight of the evidence. It is hornbook law that conflicts in evidence are to be resolved by the trier of the facts. However, any conflict in the evidence respecting the interests of the child was not extensive. Apart from the issue of age, most of the evidence from both parties was favorable to the appellees. In any event, we cannot say that the resolution of the conflict adopted by the trier of the facts does not have that reasonable quality necessary to support its conclusions.
+II
+Assignment of Error No. I raises a more serious question because of the unqualified statutory language indicating that an agency with permanent custody must consent to adoption before a petition for adoption can be granted. The trial court held that the refusal of consent, apparently without more, raised the question of the best interest of the child for adjudication. We find it unnecessary to go so far to support the trial court’s decision. It is enough, in our view, to simply subject the withholding of agency consent to judicial scrutiny to determine whether the agency is acting unreasonably, arbitrarily, or capriciously. Our inquiry on that score starts with the Ohio Revised Code.
+The relevant statutes provide in pertinent part:
+Ohio Revised Code, Section 3107.06(D)
+“No final decree or interlocutory order of adoption shall be entered by the Probate Court unless there is filed with the court written consents to the adoption, verified or acknowledged by the following:
+“D. By any division, county department or board, or certified organization, having the permanent custody of the child. * * *”
+Ohio Revised Code, Section 3107.09
+“If after hearing the court is satisfied that Sections 3107.01 to 3107.14 inclusive, of the Revised Code have been complied with, that the petitioner is suitably qualified to care for and rear the child, and the best interests of the child would be promoted by the adoption, it shall enter an interlocutory order of adoption * * * .
+“The court may after hearing dispense with the interlocutory order and enter a final decree of adoption if one of the following conditions exists:
+“(B) The child has been placed in the home of the petitioner by the division of social administration, county welfare department, county child welfare board, or certified organization, has lived in the home of the petitioner continuously for the six months next preceding the date of the hearing, has been visited by a representative of the division, department, board, or organization at reasonable intervals during such period, and the division, department, board, or organization recommends the adoption; * *
+The force of R. C. 3107.06(D) as the appellant argues it poses the issue whether agency consent is mandatory and jurisdictional and prohibits judicial action granting adoption without regard to R. C. 3107.09 even where the withholding of agency consent is unreasonable, arbitrary or capricious. This is a matter of first impression in Ohio.
+ni
+If we were to agree with the appellant’s argument that the agency right is absolute, then the agency consent becomes superior to all other considerations, even those which in the contemplation of R. C. 3107.09, are clearly of the gravest importance to the whole adoption program. That section’s concern with the adoptive parents being “suitably qualified to care for and rear the child * * *” and that “ * * * the best interests of the child would be promoted by the adoption * * *” obviously epitomizes the most fundamental factors in the adoption policy decreed for Ohio.
+Following the logic of appellant’s argument, the lack of consent under R. C. 3107.06(D) would require a denial of adoption no matter how “suitable” the adoptive parents, and regardless of the fact that the “best interests of the child would be promoted by the adoption.”
+We regard R. C. 3107.06(D) and 3107.09 as in pari materia in the limited sense that we are required to give the statutory provisions any reasonable interpretation which will support and effect the purposes of both. Pursuing that obligation we conclude that the requirement of agency consent was not intended by the legislature to give an unnatural parent an arbitrary, unreasonable or capricious power to defeat judicial review and, coincidentally, impede, in a specific case as in this instance, the objectives of securing qualified adoptive parents and promoting the best interests of a child available for adoption. Moreover, we find that refusal of consent even when it is not arbitrary, unreasonable or capricious does not deprive the Probate Division, Common Pleas Court, of jurisdiction. To the degree that it is reasonable, it does add an element for consideration in the Probate Court’s determination of the qualifications of the adoptive parents and the best interests of the child.
+We turn to the question whether, on the record, the court below could reasonably determine that the appellant’s refusal of consent was arbitrary, unreasonable or capricious or whether that refusal had a reasonable nexus with the issue of the adoptive parents’ qualifications and the best interests of the child. The answer to this question requires an inquiry into the appellant’s reasons for refusing consent.
+IV
+The child, Julia M. Haun, was born in December 1968, was placed with the appellees on December 19, 1968, and has been with them ever since. She had early symptoms of a neurological disease but these had disappeared by May of 1971, and there is no dispute the child is now normal, or better, and adoptable from a medical standpoint. In her time with the appellees as foster parents the once frail and seriously ill child has made a remarkable recovery, achieving an unforeseen plateau of health. No one suggests that the appellees were solely responsible for her development but the fact of their contribution is implicitly affirmed in the record in each of many tributes to their character and effectiveness as foster parents. Moreover, the reputation of the appellees as foster parents does not depend upon their results with Julia M. Haun alone. They have been successful foster parents to thirty-four children, natural parents to three children now grown, and adopted parents to one child sixteen years old. The Haun’s excellence shines through the testimony and is marred only by the appellant’s reservations concerning their ages.
+Mr. Haun is sixty-eight years old and Mrs. Haun is fifty-five. From these indisputable facts the appellant argues with more mathematical accuracy than persuasiveness that (1) Mr. Haun will be seventy-eight when the child enters her teen years, (2) the Hauns’ ages exceed that normally attained by parents of a child this age, (3) that as the child’s adopted parents they will have the ages and images of grandparents, and (4) that these conditions could lead to dangers avoidable in younger adoptive parents.
+From a full review of the record it is apparent that the appellant’s main, indeed the only, basis for the refusal of consent rests upon the ages of the appellees. The principal vices in this lie with a lessened life expectancy and the grandparent image. The first enlarges the chance that the child may have to adapt to a loss of one or both parents while still young and the second tends to create an identity crisis because the child’s peers will be relating to parents and she, in effect, to grandparents.
+On the other hand it is the trial court’s finding, amply supported in the record that the appellant’s standards for adoptive parents are met by the appellees. The appellant concedes as much (Tr. 71-72). Those standards are (1) maturity, (2) stability, (3) financial ability to carry responsibility, and (4) love of the child.
+The trial court also found, with support in the record, that unrebutted medical opinion from the appellant’s own consultants indicated that the presently healthy child could regress to the impaired physical condition characteristic of her health at the time the appellees accepted her in their foster home. Although not explicit in the trial the court’s Findings of Fact, the inference is clear that a change in her home environment might well trigger the regression.
+To sum up — from a review of the transcript of proceedings in the record and the Findings of Fact and Conclusions of Law by the trial court, it becomes clear that virtually every particle of evidence bearing on the quality of the appellees as prospective adoptive parents indicates excellence. Their singular defect is age but the emphasis on this factor seems confined to the professional social workers who understandably are concerned with it.
+Obviously, a “structured” agency system taking into account many factors before giving consent to adoption as urged by the professionals is of great importance (cf. Tr. 127), but few standards in human affairs can be procrustean in application. In the light of the total evidence, and the singular emphasis on age as the key factor in denying consent, the denial in this case seems an example of a loss of the spirit of the whole adoption system while holding to the letter of part of it. The fault, the unreasonableness, the arbitrariness and the caprice, lie precisely with this extraordinary emphasis on a single negative factor in the face of remarkably unanimous opinion that by all other standards the appellees are outstandingly qualified to be adoptive parents.
+We hold that the denial of consent by the appellant did not deprive the trial court of jurisdiction. We hold further that the denial of the consent under the circumstances in this case was unreasonable, arbitrary and capricious and that the record supports the trial court’s Findings of Fact and Conclusions of Law and its disposition of the case.
+Judgment affirmed.
+Silbert, P. J., and Jackson, J., concur.
+The Probate Court, hereafter called the trial court, had exolusive jurisdiction. That court’s decision was accompanied by findings of fact and conclusions of law. From here on these will be cited in this opinion as “Findings” or “Conclusions” with the relevant paragraph number.
+Conclusion 3.
+Appellant’s Brief at p. 14 recited “68” — an obvious oversight.
+See Findings 10.
+See Findings 11.
+Cf. Findings 12, 13, and 14; Conclusions 4 and 5.
