@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "26494"
+decided: "1963-11-07"
+citations: ["92 Ohio Law Abs. 572", "1 Ohio App. 2d 312"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Skeel, C. J., Artl, and Corrigan, J«J., concur."]
+parties: ["Glagola et, Plaintiffs-Appellants, v. Tarr, d. b. a. Skyway Cement Company, Defendant-Appellee."]
+source_url: "https://static.case.law/ohio-law-abs/92/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1815480
+---
+
+# Glagola v. Tarr
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal on questions of law from a judgment of the Municipal Court of Parma, Ohio, entered on the 18th day of April, 1963, wherein the court granted defendant’s motion for judgment on the pleadings and on the opening statement of counsel for plaintiffs, upon the sole ground that the action was not commenced within the time limited by law.
+The plaintiffs’ petition, which was filed on February 10, 1961, after describing the status and capacity of the defendant, alleged that on or about May, 1956, plaintiffs engaged defendant Tarr to install a driveway on the premises at 4402 West Ridgewood Drive in Parma, Ohio, for the owners, Jane and Eleanor Skrzypek, for which defendant was fully paid; that the aforesaid owners sued plaintiffs in Parma Municipal Court and recovered a judgment against plaintiffs because of improper workmanship and the use of faulty materials which caused the driveway to be defective. Upon trial, a judgment against these plaintiffs was rendered in Case No. 2556 of the Parma Municipal Court on the 20th day of January, 1958, in the sum of $913.90, together with costs and interest, and plaintiffs were required to and did pay such judgment. The plaintiffs, therefore, alleged in that case that they were damaged in the sum of $913.90, with interest at sis per cent from January 20, 1958, and for which they prayed judgment.
+The answers of defendants, in legal effect, amount to a denial of any contract with plaintiffs in May, 1956; deny the driveway was defective due to his, or its, improper workmanship, deny that because of defective work on his, or its part, plaintiffs were required to pay the owners, Jane and Eleanor Skrzypek, the sum of $913.90, or any amount; deny that plaintiffs suffered damage in the sum of $913.90, or in any amount; and deny each and every, all and singular, the allegations of plaintiffs’ petition not specifically admitted to be true.
+By way of affirmative defense, the defendants state that they and plaintiffs entered into an oral agreement on or about October 4, 1954, to install said driveway and that they fulfilled their part of the agreement.
+Each defendant as a further defense pleads that the action is barred by the statute of limitations.
+The record in this case, in addition to the original papers filed in the trial court, consists of a narrative bill of exceptions signed by the trial judge, which in effect constitutes the findings made by the court in the proceedings below.
+The action came on to be heard upon plaintiffs’ petition and separate answers of each of the defendants, and the opening statements of counsel.
+From the record as part of his opening statement, we find “that the defendant through counsel admitted the allegations of the petition and that this plaintiff did suffer a judgment as set forth therein and that the only issue in the instant case was whether or not the instant action was barred by the statute of limitations.”
+The defendants moved for judgment on that ground.
+The record continues, “The court found that this plaintiff did suffer a judgment as the result of this defendant’s improper workmanship in case number 2556 on the docket, all in the sum of $913.90, together with interest from and after January 20, 1958, but that the original work was done in October, 1954, and that accordingly this action being on an oral contract was barred six years from that date, to wit: October, 1960; * *
+Based upon the foregoing, as appears in the record, the court concluded “that the cause of action herein did not arise as of January 20, 1958, and that the instant action was not a suit on that judgment. ’ ’
+Accordingly, the motion of the defendants was granted and the petition was dismissed at the plaintiff’s costs.
+It should be pointed out that although the bill of exceptions makes reference to an earlier case (No. 2556) on the docket of the trial court, no part of the record in that case is included in the record before us. Furthermore, counsel for appellee in his brief, called “Argument of Defendant-Appellee,” and in his argument before this court, makes reference to several factual situations which might have had some bearing upon the lower court’s determination. In searching the record, we find that these factual situations are not included in this record. Our consideration of the problem must therefore be limited to the record filed.
+The question before us, simply states, is: “Did the trial court err in holding that the cause of action was barred by the statute of limitations and in dismissing same upon defendant’s motion?”
+As above noted, the court found that the work was done and completed in October, 1954, and being performed on an oral contract, any action based on the contract was barred six years from that date, to wit: October, 1960. Under certain circumstances, this would be true. If the within action were one by the subcontractor defendant seeking payment from the plaintiff for the work done, and there existed no agreement between the parties providing for deferred payments to the defendant, the cause of action would accrue when the work was completed and such action would be barred within six years from that date. If the latter situation was involved, the date of the accrual of the cause of action would depend upon the date of breach of the agreement to meet the credit obligation.
+In the case at bar, the obligation of the subcontractor was to furnish the material and to construct the driveway in a workmanlike manner. It is a matter of common knowledge that a driveway when constructed might appear to be sound and might with the passage of time develop defects due to improper or deficient construction.
+It is evident that at some time subsequent to October 4, 1954, it became apparent that the driveway constructed by the defendant was defective. The date of the discovery of the defective condition of the driveway is not manifest from the record herein. Whether the premises in question were owned by the plaintiffs or by the Skrzypeks at the time the job was completed is not clear from the record. What the record discloses is that sometime prior to January 20, 1958, the Skrzypeks brought a suit against the plaintiffs, claiming the driveway to be defective. The date of the filing of that suit (No. 2556) is not made to appear.
+In view of the many things that can cause a defective driveway, can it be said that the driveway was defective because of improper workmanship or improper mixture of materials encompassed within the term “improper workmanship” merely because a claimant makes such a claim? Where such a claim is made, the plaintiff is required to prove the same; the defendant in such suit has the right to defend against such a claim. Until there is a judicial determination of that issue in favor of the claimant, in the absence of an admission by the defendant, it would seem that the original contractor could hardly press a claim against the subcontractor for defective work.
+In the ease before us, there was such a determination of the issue on January 20, 1958, when the court found in favor of the plaintiffs in ease No. 2556, and entered judgment as the result of the defendant’s improper workmanship.
+It is, therefore, our conclusion, and we hold, that the cause of action of the plaintiffs against the defendant accrued on January 20, 1958, and until such time as the defective condition of the driveway due to faulty construction is discovered, any suit by the plaintiffs against the defendant would have been premature. The action herein having been filed on February 10, 1961, was timely brought.
+We, therefore, hold that the court erred to the prejudice of the plaintiffs in holding that the action was barred by the statute of limitations and in dismissing plaintiffs ’ petition.
+The judgment of the Municipal Court of Parma is reversed and the cause remanded for further proceedings according to law.
+Skeel, C. J., Artl, and Corrigan, J«J., concur.
