@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "9784"
+decided: "1966-01-10"
+citations: ["6 Ohio App. 2d 36"]
+reporter: "ohio-app-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hnu&apÉNT, P.J., Bong and Hqvbb, JJ., conionn.", "HildebRANt, P. J., and Long,, J., concur."]
+parties: ["Buckeye Union Casualty Co., Appellee, v. Nichols, d.b.a. Reading Motors Co., Appellant."]
+source_url: "https://static.case.law/ohio-app-2d/6/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6714126
+cites_cases: ["176 Ohio St. 1"]
+---
+
+# Buckeye Union Casualty Co. v. Nichols
+
+## Majority (Per Curiam. Hovee, J.)
+
+Per Curiam.
+An examination of the record discloses no error prejudicial to the rights of appellant. The judgment Of' the Municipal Court of Cincinnati is, therefore, affirmed.
+Judgment affirmed.
+Hnu&apÉNT, P.J., Bong and Hqvbb, JJ., conionn.
+(Decided February 21, 1968.)
+ON Motion for reconsideration.
+Hovee, J.
+This matter was previously considered by this court as an appeal on questions of law from a judgment of the Municipal Court in a replevin action, wherein that court found the right of possession to be in the plaintiff below, appellee here, to a certain Chevrolet automobile which had been stolen from plaintiff’s insured. The appellant here, defendant below, was the holder of an Ohio certificate of title evidencing apparent ownership of the automobile by serial number and description. Defendant’s automobile, however, carried an altered serial number which corresponded to the serial number appearing on his certificate of title. The true serial number of the automobile was the number carried by the Ohio certificate of title held by the plaintiff.
+The court below, this court affirming without opinion, awarded possession to the plaintiff as the holder of an Ohio certificate of title covering the actual rather than the altered serial number.
+By way of a motion for rehearing and consideration, defendant suggests that this judgment is directly contrary to a judgment of this court entered May 10, 1965, in case No. 9693, State Farm Mutual Ins. Co. v. Hennessey. This, too, was a replevin action in which both claimants held Ohio certificates of title to the same car; one chain of title originating in the true and lawful owner, and the other chain originating in a thief. The judgment in the case referred to resulted in the awarding of possession of the car to the bona fide purchaser for value even though his title originated in a thief. Thus the alleged contradiction.
+As the court understands it, the law of Ohio relative to conflicting claims to an automobile as between two persons, each of whom holds an apparently valid title, is determined and settled by Commercial Credit Corp. v. Pottmeyer, 176 Ohio St. 1, decided March 18, 1964. In this case, the Supreme Court reviewed many conflicting prior decisions and expressed the broad general viewpoint that in the Ohio Certificate of Title Act it is not reasonable to assume that the Ohio Greneral Assembly intended “to impose that loss on the one who is an Ohio bona fide purchaser with an Ohio certificate of title, especially where the General Assembly had specifically stated (Section 4505.04, Revised Code) that ‘no conrt * * * shall recognize the right, title, claim or interest of any person in or to any motor vehicle # * unless evidenced * * * by a certificate of title or a manufacturer’s or importer’s certificate issued in accordance with’ the Ohio Certificate of Title Act.”
+Applying this principle the court, in the Pottmeyer case, recognized the Ohio title originating in a fraudulent transaction as against the claim of the true owner of the vehicle as evidenced by a West Virginia title.
+It is the opinion of this court that the Pottmeyer case above has thus become the yardstick against which similar conflicting ownerships must be measured. We see no distinction between possession based upon fraud as in Pottmeyer and one based upon theft as here.
+Applying the Pottmeyer rule accordingly, both to the instant case and to the unreported State Farm Mutual case above, the factual distinction in the two eases falls within the Pottmeyer rule and, although they reach apparently different conclusions, they are both correct applications of that rule.
+In the Hennessey case, the car which was stolen in Chattanooga, carried a valid Tennessee title. Subsequently, and consecutively, it was titled in Arkansas, Georgia, and through four Ohio title transfers to the ultimate possessor, Hennessey.
+This car which had been originally stolen and titled in Tennessee was, after discovery in Ohio, the subject of an Ohio certificate based upon the original Tennessee title. In that case, as in the instant case, the serial number had been altered at the time of theft. As we see it under the controlling Pottmeyer doctrine, the person who first obtains an apparently valid Ohio title will be entitled to retain possession of the automobile in this state even as against the real owner.
+In the State Farm Mutual case the title of Hennessey, who was awarded possession of the car even though his title was derived from a thief, was the first apparently valid Ohio certificate of title issued.
+Like reasoning, and again deriving from the Pottmeyer, case when applied to the facts of the instant case, indicates the plaintiff was the holder of the first valid Ohio title on the car. The predecessor in title of the plaintiff, to whom possession was awarded in the instant case, acquired his Ohio title June 1,1964. This title covered automobile No. 9038 (last four digits of serial number). This automobile was stolen, apparently on order, the night of June 15,1964. The record clearly shows that the thief acquired a certificate of title that same day to a similar automobile bearing serial No. 7032 (last four digits of serial number). The next day this title to automobile No. 9038, the serial number of which had been altered overnight to indicate automobile No. 7032, was assigned in blank to Storch. Storch did not procure a title in his name but sold the automobile through an auction to one Fuller who, thereupon, on June 22, 1964, acquired his- title to the automobile with the altered serial number. Fuller then, in the normal course of business, sold the automobile to the present appellant who received his certificate of title on July 1,1964. Some four months later, the car door serial plate No. 7032 was found to be fictitious for this particular ear (having been added to it, presumably by the thief), the true and correct number being 9038.
+It is thus apparent that in the State Farm Mutual case the application of the Pottmeyer rule required that the car, as indeed in the Pottmeyer case itself, be awarded to the successor in title of the wrongdoer because the ultimate bona fide purchaser, by statute, received the protection of the Ohio title. In the State Farm Mutual case, the predecessor- in title of the thief acquired the first bona fide Ohio title and was accordingly awarded the automobile. In the instant case, the true owner acquired and never lost the first valid Ohio title to this particular automobile.
+While the two cases herein considered reach opposite conclusions, the Pottmeyer doctrine nevertheless requires this result. This situation is very clearly and adequately set out in the brief amicus curiae filed in this case by the National Automobile Theft Bureau.
+It may be noted as to the Hennessey case, where the car was originally titled in another state and brought into Ohio, Section 4505.06, Revised Code, as effective November 9, 1965, could very well have the effect of preventing the issuance of any Ohio title to the ear with its altered serial number. The obvious purpose of the statute, as amended, in conjunction with new Section 4505.061, Revised Code, is to prevent the issuance of an Ohio title on a motor vehicle brought into the state with an altered serial number, or with other basic defects. Had this statute been in effect at the time the State Farm Mutual Ins. Co. v. Hennessey case arose, Hennessey’s predecessor, whose title was derived from the thief, would not have been able to get an Ohio title, and the theft could have been discovered at the time of application. Furthermore, in such case, the assignee of the Tennessee victim could not have gotten an Ohio title because he had no motor vehicle to exhibit for inspection. The new statutes, however, are not of assistance in the instant case where both titles originate in Ohio.
+The motion to reconsider is, therefore, denied, and the order of this court heretofore made affirming the judgment below and awarding possession of the car to the holder of the first issued Ohio title is adhered to.
+Former judgment adhered to.
+HildebRANt, P. J., and Long,, J., concur.
