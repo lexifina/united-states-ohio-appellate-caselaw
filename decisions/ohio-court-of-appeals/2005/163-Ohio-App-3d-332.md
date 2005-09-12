@@ -1,0 +1,40 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2-05-09"
+decided: "2005-09-12"
+citations: ["163 Ohio App. 3d 332"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cupp, P.J., concurs.", "Rogers, J., concurs in judgment only."]
+parties: ["The STATE of Ohio, Appellee, v. REIHER, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/163/cases/0332-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2488506
+cites_cases: ["2003 WL 22038712", "2003-Ohio-4165", "2003-Ohio-4599", "2005-Ohio-4747", "793 N.E.2d 473", "99 Ohio St.3d 463"]
+---
+
+# State v. Reiher
+
+## Majority (Thomas F. Bryant, Judge.)
+
+Thomas F. Bryant, Judge.
+{¶ 1} The defendant-appellant, Chad D. Reiher, appeals from the judgment of the Auglaize County Court of Common Pleas, which sentenced him to serve a one-year prison term consecutive to a six-year prison term he was already serving.
+{¶ 2} On January 29, 2004, the Auglaize County Grand Jury indicted Reiher on the following charges: breaking and entering, a violation of R.C. 2911.13(A), a felony of the fifth degree; theft, a violation of R.C. 2913.02(A)(1), a misdemeanor of the first degree; and safecracking, a violation of R.C. 2911.31(A), a felony of the fourth degree. The indictment stemmed from an incident at the New Knoxville School on December 10-11, 2002. The school was broken into through a gymnasium door, and a safe containing approximately $300 and a change jar containing between $3 and $4 were removed from the athletic director’s office, a change jar containing approximately $15 was removed from the teachers’ lounge, and two video cameras and two pairs of Nike shoes were removed from the boys’ locker room. Reiher was charged after DNA testing disclosed a high probability that he had been involved in the crime.
+{¶ 3} Between the incident at the school and Reiher’s indictment, the Montgomery County Court of Common Pleas convicted him of feloniously assaulting a probation officer and sentenced him to five years in prison. Reiher was also sentenced to one year in prison for a community-control sanctions violation in Auglaize County, which was to be served consecutively to the Montgomery County sentence. Therefore, by the time Reiher was indicted in the instant matter, he was already serving time on his aggregate six-year sentence.
+{¶ 4} On February 2, 2005, Reiher appeared before the trial court for a combined change-of-plea and sentencing hearing. The trial court accepted the plea bargain and found Reiher guilty of safecracking. The trial court then sentenced Reiher to one year in prison to be served consecutively to the six-year sentence he was already serving. Reiher appeals the trial court’s sentence and asserts the following assignment of error:
+The trial court’s ordering that the sentence of Defendant-Appellant be served consecutively to his existing prison sentences was unsupported by the record and was contrary to law.
+{¶ 5} Essentially, Reiher argues that the trial court failed to make. the necessary findings and state its reasons therefor on the record during the sentencing hearing. To sustain Reiher’s argument, we must find that the trial court is required to comply with R.C. 2929.14(E)(4) when it imposes a sentence consecutive to a sentence already being served.
+{¶ 6} R.C. 2929.41(A) provides, “[e]xcept as provided in * * * division (E) of section 2929.14 * * * of the Revised Code, a * * * sentence of imprisonment shall be served concurrently with any other sentence of imprisonment imposed by a court of this state, another state, or the United States.” Simply stated, a trial court must impose concurrent sentences unless it complies with R.C. 2929.14(E), which provides:
+(4) If multiple prison terms are imposed on an offender for convictions of multiple offenses, the court may require the offender to serve the prison terms consecutively if the court finds that the consecutive service is necessary to protect the public from future crime or to punish the offender and that consecutive sentences are not disproportionate to the seriousness of the offender’s conduct and to the danger the offender poses to the public, and if the court also finds any of the following:
+(a) The offender committed one or more of the multiple offenses while the offender was awaiting trial or sentencing, was under a sanction imposed pursuant to section 2929.16, 2929.17, or 2929.18 of the Revised Code, or was under post-release control for a prior offense.
+(b) At least two of the multiple offenses were committed as part of one or more courses of conduct, and the harm caused by two or more of the multiple offenses so committed was so great or unusual that no single prison term for any of the offenses committed as part of any of the courses of conduct adequately reflects the seriousness of the offender’s conduct.
+(c) The offender’s history of criminal conduct demonstrates that consecutive sentences are necessary to protect the public from future crime by the offender.
+{¶ 7} The requirements of R.C. 2929.14(E)(4) are threefold. First, the trial court must find that a consecutive sentence is necessary to protect the public from future harm or to punish the offender. Second, the trial court must find that a consecutive sentence is not disproportionate to the seriousness of the conduct and the danger posed to the public. Third, the trial court must find at least one of the three findings in R.C. 2929.14(E)(4)(a) through (c). The trial court is required to make these findings and state its reasons therefor on the record at the sentencing hearing. State v. Comer, 99 Ohio St.3d 463, 2003-Ohio-4165, 793 N.E.2d 473, at ¶ 20-21.
+{¶ 8} The Revised Code does not define “multiple offense” as used in R.C. 2929.14(E)(4), nor does it establish a time frame within which the multiple offenses must occur. The term “multiple offenses” is ambiguous since it can be construed as only those crimes charged and prosecuted at the same time or as crimes charged at different times and prosecuted separately. Therefore, the words used in the statute must be given their common meaning. “Multiple offense” commonly means “[a]n offense that violates more than one law but that may require different proof so that an acquittal or conviction under one statute does not exempt the defendant from prosecution under another.” Black’s Law Dictionary (8th Ed.2004) 1111-1112. With no clear statutory definition of what constitutes multiple offenses, we find that “multiple offenses,” as used in R.C. 2929.14(E)(4), includes prior offenses for which the offender is serving a sentence at the time of sentencing on a new offense. The trial court must make the findings required under R.C. 2929.14(E)(4) and give its reasons therefor on the record when imposing a sentence consecutive to a sentence the defendant is already serving. See, also, State v. Wilson, 11th Dist. No. 2002-L-023, 2003-Ohio-4599, 2003 WL 22038712.
+{¶ 9} In this case, the trial court held a sentencing hearing where the court stated, “[t]he Court sentences the Defendant to twelve (12) months with the Department of Rehabilitation and Corrections and orders the time be served consecutive to all previous time imposed in any other court and consecutive to any time in any other case in this court.” (Emphasis deleted.) This statement was the trial court’s first and only statement concerning consecutive sentences. Clearly, the trial court did not comply with R.C. 2929.14(E)(4). Reiher’s assignment of error is sustained.
+{¶ 10} We also note that the state of Ohio waived its right to file an appellee’s brief. The state of Ohio apparently does not oppose the reversal of Reiher’s sentence for resentencing according to law. See App.R. 18(C).
+{¶ 11} The sentence imposed by the trial court is reversed, and this cause is remanded for further proceedings.
+Judgment reversed and cause remanded.
+Cupp, P.J., concurs.
+Rogers, J., concurs in judgment only.
