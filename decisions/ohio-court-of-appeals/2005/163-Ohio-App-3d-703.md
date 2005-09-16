@@ -1,0 +1,61 @@
+---
+court: "Ohio Court of Appeals"
+docket: "C-040824"
+decided: "2005-09-16"
+citations: ["163 Ohio App. 3d 703"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Doan, P.J., and Hildebrandt, J., concur."]
+parties: ["MILLER, Appellant, v. WALTON, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/163/cases/0703-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2487353
+cites_cases: ["10 Ohio St.2d 175", "101 Ohio St.3d 372", "175 Ohio St. 377", "194 N.E.2d 845", "1993 WL 405491", "1999 WL 253120", "2 OBR 661", "2 Ohio St.3d 112", "2001 WL 1142010", "2001 WL 1474706", "2001 WL 498380", "2001-Ohio-4256", "2002 WL 1049126", "2002-Ohio-2665", "2002-Ohio-3993", "2003 WL 1908222", "2003 WL 21689577", "2003 WL 22725003", "2003 WL 22989692", "2003-Ohio-2019", "2003-Ohio-3883", "2003-Ohio-6181", "2003-Ohio-6954", "2004 WL 103016", "2004 WL 1043795", "2004 WL 1717672", "2004-Ohio-1583", "2004-Ohio-2277", "2004-Ohio-279", "2004-Ohio-3998", "2005 WL 1940353", "2005-Ohio-4212", "2005-Ohio-4855", "210 N.E.2d 885", "226 N.E.2d 104", "25 O.O.2d 278", "33 O.O.2d 2", "38 Ohio St.3d 116", "39 O.O.2d 189", "4 Ohio St.2d 4", "443 N.E.2d 169", "526 N.E.2d 816", "635 N.E.2d 26", "668 N.E.2d 489", "69 Ohio St.3d 591", "748 N.E.2d 72", "76 Ohio St.3d 496", "773 N.E.2d 522", "805 N.E.2d 1085", "92 Ohio St.3d 69", "96 Ohio St.3d 235"]
+---
+
+# Miller v. Walton
+
+## Majority (Mark P. Painter, Judge.)
+
+Mark P. Painter, Judge.
+{¶ 1} Petitioner-appellant, James E. Miller, presents on appeal a single assignment of error, in which he contends that the Hamilton County Common Pleas Court erred when it dismissed his petition for a writ of habeas corpus and his petition for postconviction relief. We affirm the common pleas court’s judgment.
+{¶ 2} In August 2003, the Hamilton County Municipal Court, following a trial to the court, found Miller guilty of assault and sentenced him to community control. Miller took no direct appeal from his conviction.
+{¶ 3} He instead filed with the municipal court a postconviction petition seeking relief from his conviction under R.C. 2953.21 on the ground that he had been denied the effective assistance of counsel when his trial counsel failed to demand a jury trial. The municipal court denied the petition upon its determination that it had no jurisdiction to entertain it. The court dismissed the petition on the authority of State v. Cowan, in which the Ohio Supreme Court held that “[a] municipal court is without jurisdiction to review a petition for postconviction relief filed pursuant to R.C. 2953.21.” Miller, again, did not appeal.
+{¶ 4} Instead, he presented the same ground for relief to the common pleas court in the form of a postconviction petition and a petition under R.C. 2725.04 seeking a writ of habeas corpus. The common pleas court dismissed both petitions, and Miller appealed.
+I. Postconviction Petition.
+{¶ 5} The common pleas court dismissed Miller’s postconviction petition upon its determination that Miller should have raised his claim in a direct appeal from his conviction. “Under the doctrine of res judicata, a final judgment of conviction bars a convicted defendant who was represented by counsel from raising and litigating in any proceeding^] except an appeal from that judgment, any defense or any claimed lack of due process that was raised or could have been raised by the defendant at the trial [that] resulted in that judgment of conviction[ ] or on an appeal from that judgment.” Thus, a common pleas court may apply the doctrine of res judicata to dismiss a postconviction claim if the claim presents a matter that can fairly be determined without resort to evidence outside the record.
+{¶ 6} But the doctrine of res judicata did not operate to bar Miller’s claim. Miller offered in support of his petition his own affidavit, in which he averred that he had, on three separate occasions, asked his trial counsel to demand a jury trial. His counsel’s failure to accede to these requests provided the fundament for Miller’s postconviction challenge to his counsel’s competence. Miller thus offered outside evidence in support of his postconviction challenge to trial counsel’s performance, and the claim depended for its resolution upon that evidence — he could not have presented it on direct appeal. Accordingly, we conclude that Miller’s postconviction claim was not subject to dismissal under the doctrine of res judicata.
+{¶ 7} Our conclusion does not, however, compel us to reverse, because the court properly denied Miller’s petition, albeit for the wrong reason.
+{¶ 8} Even though the postconviction statutes permit a petition to be filed by “[a]ny person who has been convicted of a criminal offense,” the Ohio Supreme Court has read the language of those statutes to imply that the General Assembly did not intend to confer jurisdiction to entertain a postconviction petition upon a municipal court. Evidently, the court found the term “any” to be ambiguous.
+{¶ 9} The statutes require that a postconviction petitioner file his petition with the court that sentenced him. Thus, a postconviction petitioner may seek relief only from a judgment of conviction entered by a common pleas court. It’s a classic Catch-22 situation: if an aspiring petitioner is sentenced in municipal court, he has no right to postconviction relief. So one may be deprived of constitutional rights with impunity in municipal court and have no remedy? The Ohio Supreme Court evidently did not apprehend this absurdity.
+{¶ 10} Miller, in his postconviction petition, sought relief from his municipal-court conviction. Because the Ohio Supreme Court has held that the postconviction statutes provide relief only from a common-pleas-court conviction, the court below properly dismissed his petition.
+II. Habeas Corpus.
+{¶ 11} Turning to Miller’s challenge to the dismissal of his petition for a writ of habeas corpus, we note that R.C. 2725.01 et seq. permits a person who has been “unlawfully restrained of his liberty” to apply for a writ of habeas corpus “to inquire into the cause of such imprisonment, restraint, or deprivation.” Miller sought a writ of habeas corpus on the ground that he had been restrained of his liberty in violation of his constitutionally secured rights to a jury trial and to the effective assistance of counsel.
+{¶ 12} A writ of habeas corpus is an equitable remedy and thus will not lie when the petitioner has an adequate legal remedy. The common pleas court essentially found that Miller had an adequate legal remedy when it dismissed his habeas corpus petition upon its determination that he should have raised his claim in a direct appeal from his conviction. But Miller could not have raised on direct appeal the challenge to counsel’s competence advanced in his habeas corpus petition, because the challenge depended for its resolution on evidence outside the record. Thus, the availability of a direct appeal did not provide Miller with an adequate legal remedy.
+{¶ 13} The availability of the postconviction remedies afforded by R.C. 2953.21 et seq. also provides a basis for denying a writ of habeas corpus. But the postconviction statutes afford relief only from a common-pleas-court conviction, while Miller sought relief from his municipal-court conviction. Thus, the postconviction statutes could not be said to have provided Miller with an adequate legal remedy. We, therefore, conclude that Miller’s habeas corpus petition was not subject to dismissal on the ground that he had an adequate legal remedy.
+{¶ 14} Again, this conclusion does not compel us to reverse the judgment. Again, the court was right accidentally. In Harrod v. Harris, we denied a writ of habeas corpus to a petitioner who was under postrelease control, citing the “long[-]held” rule that the habeas corpus statutes provide a remedy “only when the petitioner is presently in confinement.” We defined “confinement” as “the actual physical custody of the state,” and we rejected the petitioner’s argument that postrelease control was “tantamount to confinement due to its attendant restraints on his liberty.”
+{¶ 15} The municipal court sentenced Miller to community control. Thus, Miller was not in the actual physical custody of the state. We, therefore, hold that the common pleas court properly dismissed Miller’s habeas corpus petition, because the habeas corpus statutes afforded him no remedy.
+III. No Remedy?
+{¶ 16} Obviously, there must be a remedy, else anyone denied the right to a jury trial in municipal court would simply be out of luck. That situation cannot be permitted to occur.
+{¶ 17} We note that Crim.R. 57(B) provides that “[i]f no procedure is specifically prescribed by rule, [a] court may proceed in any lawful manner not inconsistent with these rules of criminal procedure, and shall look to the rules of civil procedure and to the applicable law if no rule of criminal procedure exists.” The criminal rules thus contemplate resort to the civil rules for procedures not anticipated by the criminal rules. And Civ.R. 60(B)(5) permits relief from a judgment for “any * * * reason justifying [such] relief.” It follows that Civ.R. 60(B) may afford a criminal defendant relief from a judgment of conviction.
+{¶ 18} But Miller unambiguously invoked R.C. 2953.21 in seeking postconviction relief and R.C. 2725.0 in seeking a writ of habeas corpus. Therefore, neither his postconviction petition nor his habeas corpus petition could have been recast and reviewed as a Civ.R. 60(B) motion for relief from judgment.
+TV. Conclusion.
+{¶ 19} Upon our determination that the common pleas court properly dismissed Miller’s postconviction and habeas corpus petitions, we overrule his assignment of error. Accordingly, we affirm the trial court’s judgment.
+Judgment affirmed.
+Doan, P.J., and Hildebrandt, J., concur.
+. 101 Ohio St.3d 372, 2004-Ohio-1583, 805 N.E.2d 1085, syllabus.
+. State v. Perry (1967), 10 Ohio St.2d 175, 39 O.O.2d 189, 226 N.E.2d 104, paragraph nine of the syllabus.
+. See State v. Cole (1982), 2 Ohio St.3d 112, 114, 2 OBR 661, 443 N.E.2d 169; State v. Peny, 10 Ohio St.2d 175, 39 O.O.2d 189, 226 N.E.2d 104, paragraph nine of the syllabus.
+. See State v. Peagler (1996), 76 Ohio St.3d 496, 668 N.E.2d 489, paragraph one of the syllabus; State v. Blankenship (1988), 38 Ohio St.3d 116, 119, 526 N.E.2d 816.
+. R.C. 2953.21(A)(1)(a).
+. See State v. Cowan, 101 Ohio St.3d 372, 2004-Ohio-1583, 805 N.E.2d 1085.
+. R.C. 2725.01.
+. See State ex rel. Pirman v. Money (1994), 69 Ohio St.3d 591, 593-594, 635 N.E.2d 26.
+. See Freeman v. Maxwell (1965), 4 Ohio St.2d 4, 33 O.O.2d 2, 210 N.E.2d 885.
+. See State v. Peagler, 76 Ohio St.3d 496, 668 N.E.2d 489, paragraph one of the syllabus; State v. Blankenship, 38 Ohio St.3d 116, 119, 526 N.E.2d 816.
+. Harrod v. Harris (May 11, 2001), 1st Dist. No. C-000791, 2001 WL 498380.
+. Id. (citing Tomkalski v. Maxwell [1963], 175 Ohio St. 377, 378, 25 O.O.2d 278, 194 N.E.2d 845); see, also, Larsen v. State (2001), 92 Ohio St.3d 69, 748 N.E.2d 72.
+. Id.; see, also, State v. Keller, 12th Dist. No. 2003-10-259, 2004-Ohio-3998, 2004 WL 1717672; White v. Wolfe, 7th Dist. No. 305, 2003-Ohio-3883, 2003 WL 21689577; Strzala v. Gansheimer, 11th Dist. No. 2001-A-0090, 2002-Ohio-2665, 2002 WL 1049126; Ross v. Kinkela (Nov. 15, 2001), 8th Dist. No. 79411, 2001-Ohio-4256, 2001 WL 1474706; Davis v. Butterworth (Apr. 15, 1999), 3d Dist. No. 9-98-62, 1999 WL 253120.
+. State v. Lehrfeld, 1st Dist. No. C-030390, 2004-Ohio-2277, 2004 WL 1043795, at ¶ 7; accord State v. Harrison, 11th Dist. No. 2004-P-0068, 2005-Ohio-4212, 2005 WL 1940353; State v. Plassman, 6th Dist. No. F-03-017, 2004-Ohio-279, 2004 WL 103016; State v. Scruggs, 10th Dist. No. 02AP-621, 2003-Ohio-2019, 2003 WL 1908222; State v. Riggs (Oct. 4, 1993), 4th Dist. Nos. 503 and 506, 1993 WL 405491. Contra State v. Bluford, 8th Dist. No. 83112, 2003-Ohio-6181, 2003 WL 22725003; State v. Szerlip, 5th Dist. No. 02CA45, 2003-Ohio-6954, 2003 WL 22989692; State v. Palmer (Sept. 28, 2001), 2d Dist. No. 18778, 2001 WL 1142010.
+. See State v. Lehrfeld, supra, at ¶ 6, citing State v. Bush, 96 Ohio St.3d 235, 2002-Ohio-3993, 773 N.E.2d 522, ¶ 10.
