@@ -1,0 +1,51 @@
+---
+court: "Ohio Court of Appeals"
+docket: "05CA44"
+decided: "2005-11-29"
+citations: ["164 Ohio App. 3d 491"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Boggins, P.J., and Edwards, J., concur."]
+parties: ["EMMER, Appellant, v. NORTH CENTRAL STATE COLLEGE et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/164/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1048399
+cites_cases: ["2005-Ohio-6339", "450 N.E.2d 1140", "5 OBR 481", "5 Ohio St.3d 217", "53 Ohio St.3d 161", "559 N.E.2d 1301", "704 N.E.2d 1212", "784 N.E.2d 1172", "84 Ohio St.3d 411", "98 Ohio St.3d 330"]
+---
+
+# Emmer v. North Central State College
+
+## Majority (Hoffman, Judge.)
+
+Hoffman, Judge.
+{¶ 1} Appellant, Kathy M. Emmer, appeals the April 29, 2005 judgment of the Richland County Court of Common Pleas ordering the parties to perform.their settlement agreement, with appellant’s complaint to be dismissed upon performance of the settlement with prejudice to future action against appellee Northwest Central State College.
+STATEMENT OF THE FACTS AND CASÉ
+{¶2} This matter arises from an administrative appeal by the state-funded employer, Northwest Central State College, from the Ohio Industrial Commission’s allowance of appellant’s workers’ compensation claim. Appellant’s claim is based upon an industrial injury that occurred on October 6, 2000. The Bureau of Workers’ Compensation recognized appellant’s claim for the conditions of “sprain of neck,” “aggravation of preexisting C6-7, C7-T1 intervertebral disc displacement,” “aggravation of preexisting cervical spinal stenosis C6-7, C7-T1,” and “bilateral C8-T1, radiculitis.” Appellee filed its appeal with the Industrial Commission on August 30, 2001. The Industrial Commission denied the appeal, and appellee subsequently appealed the Industrial Commission’s decision to the trial court. As a result, appellant filed her complaint in the trial court on November 12, 2001.
+{¶ 3} On September 13, 2002, appellant voluntarily dismissed the case without prejudice pursuant to Civ.R. 41(A)(1)(a). On August 26, 2003, appellant timely refiled her complaint. The trial court scheduled the case for mediation on June 1, 2004, and for a jury trial on July 27, 2004.
+{¶ 4} On or about May 27, 2004, the parties agreed to a lump-sum payment in settlement of all the claims against appellee. The settlement agreement was prepared by the Attorney General and mailed to the respective attorneys. The trial court was notified that the case was settled on June 1, 2004, and the court cancelled the jury trial with the understanding that the judgment entry of dismissal would be submitted after approval by all counsel.
+{¶ 5} On June 24, 2004, appellant decided that she no longer wished to settle the case. On July 27, 2004, appellant’s counsel sought to withdraw as counsel of record. On August 3, 2004, appellee filed a motion to dismiss for failure to prosecute. On August 5, 2004, appellant’s counsel filed a motion to withdraw his motion to withdraw as counsel.
+{¶ 6} On March 23, 2005, the magistrate issued a magistrate’s decision ordering that the parties’ settlement agreement be consummated and that the complaint of the plaintiff should then be dismissed with prejudice to any future action.
+{¶ 7} On April 6, 2005, appellant filed her objections to the magistrate’s decision. Appellee replied to the objections on April 14, 2005.
+{¶ 8} On April 29, 2005, the trial court, via judgment entry, overruled appellant’s objections, ordering that the lump-sum settlement of all claims be fully performed, and that upon payment of the settlement, the complaint should be dismissed with prejudice to future action.
+{¶ 9} Appellant now appeals the April 29, 2005 judgment entry, assigning as error:
+{¶ 10} “I. The lower court abused its discretion in dismissing this case with prejudice.
+{¶ 11} “II. The lower court erred in ordering performance of an oral settlement of the parties to this litigation and ordering costs assessed against plaintiff.”
+{¶ 12} Both of appellant’s assignments of error raise common and interrelated' issues; therefore, we will address the assignments together.
+{¶ 13} Our standard in reviewing the court’s decision in this regard is the abuse-of-discretion standard. The Supreme Court has frequently defined the term “abuse of discretion” as implying that the court’s attitude is unreasonable, arbitrary, or unconscionable. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 5 OBR 481, 450 N.E.2d 1140. When applying the abuse-of-discretion standard, this court may not substitute its judgment for that of the trial court. Berk v. Matthews (1990), 53 Ohio St.3d 161, 559 N.E.2d 1301.
+{¶ 14} Appellant notes that appellee inappropriately styled the motion to the trial court as a motion to dismiss for failure to prosecute, rather than as a motion to enforce the settlement agreement. Appellant argues that appellee never sought the intervention of the trial court to enforce the settlement at issue; therefore, the trial court abused its discretion in ordering the parties’ settlement agreement enforced.
+{¶ 15} Upon review, we find that appellees did in fact raise the issue of enforcing the settlement agreement in their April 14, 2004 reply to appellant’s objections to the magistrate’s decision on the motion to dismiss. Accordingly, the title of the motion was immaterial. Appellant was properly on notice of the trial court’s possibly ordering enforcement of the settlement agreement and/or dismissal, and appellant had an opportunity to respond thereto.
+{¶ 16} Appellant cites the Ohio Supreme Court decision in Kaiser v. Ameritemps, Inc. (1999), 84 Ohio St.3d 411, 704 N.E.2d 1212, holding that a workers’ compensation claimant is entitled to voluntarily dismiss an employer’s appeal of the claim to the court of common pleas under Civ.R. 41(A); therefore, appellant had a right to dismiss and refile, and the trial court abused its discretion in dismissing appellant’s complaint.
+{¶ 17} Upon review, we find that appellant’s reliance on Kaiser is misplaced. Appellant properly voluntarily dismissed the case pursuant to Civ.R. 41(A) and timely refiled the case within the statutory guidelines. Appellee moved the trial court to dismiss over nine months after the refiling. Thus, appellant’s right to voluntarily dismiss the case is not at issue. Rather, the issue on appeal is whether the trial court properly ordered the parties to consummate their settlement agreement, after which appellant’s complaint should be dismissed, due to appellant’s “changing her mind” with regard to the settlement agreement.
+{¶ 18} Appellant maintains that the terms of the settlement agreement were not sufficiently set forth and were not before the trial court; therefore, the trial court abused its discretion in ordering the parties’ agreement to be enforced. However, the terms of the settlement agreement were never disputed before the trial court or identified on appeal to this court, and appellant does not cite any reference in the record to support her argument that a dispute as to the settlement term exists.
+{¶ 19} Appellant further asserts that the trial court erred in its reliance upon Jones v. Action Coupling & Equip. (2003), 98 Ohio St.3d 330, 784 N.E.2d 1172. Appellant argues that R.C. 4123.65(C) allows her a 30-day “cooling off’ period to change her mind regarding the settlement agreement.
+{¶ 20} In Jones, the claimant sought workers’ compensation benefits for a back injury. The Industrial Commission allowed the claim and awarded temporary total disability benefits. The state-fund employer appealed to the court of common pleas. A dismissal entry was filed with the court on March 16, 2001, stating, “This case is settled and dismissed with prejudice by agreement of the parties.” The entry was signed by the attorneys for Jones, Action Coupling, and the administrator. A written settlement agreement was prepared and circulated to the parties. Jones and his attorney signed the agreement on April 5, 2001. However, Action Coupling did not sign the agreement. Instead, on April 19, 2001, through new counsel, Action Coupling filed a motion for relief from judgment, seeking to vacate the March 16 dismissal entry. Action Coupling argued that it was withdrawing its consent to settle pursuant to R.C. 4123.65(C).
+{¶ 21} The certified question on appeal was “[wjhether R.C. 4123.65 is applicable to state fund claims in which settlement is reached during litigation brought pursuant to R.C. 4123.512.”
+{¶ 22} The court held:
+{¶ 23} “R.C. 4123.65 does not apply to state-fund workers’ compensation claims on appeal to a common pleas court under R.C. 4123.512.
+{¶ 24} “ * * *
+{¶ 25} “Here, the parties entered into a settlement during court litigation initiated under R.C. 4123.512. Under these circumstances, we find that R.C. 4123.65 does not apply to this action.”
+{¶ 26} Appellant argues that Jones is distinguishable because in this case, there was no written dismissal entry or written settlement agreement submitted to the trial court. We disagree. In the case sub judice, the parties admittedly agreed to a settlement agreement that was then reduced to writing and which appellant refused to sign. The trial court vacated its trial date based upon the parties’ representations that the matter was settled. We find Jones applicable to the case sub judice. Therefore, upon review, we find that appellant was not entitled to the 30-day time period pursuant to R.C. 4123.65, because it is undisputed that the case sub judice arises out of a state-fund workers’ compensation claim on appeal to the common pleas court pursuant to R.C. 4123.512. Appellant’s simply changing her mind with regard to the settlement agreement is insufficient.
+{¶ 27} Accordingly, based upon the above, we find that the trial court did not abuse its discretion in ordering enforcement of the parties’ settlement agreement and subsequently dismissing the complaint with prejudice to any future action. The April 29, 2005 judgment entry of the Richland County Court of Common Pleas is affirmed.
+Judgment affirmed.
+Boggins, P.J., and Edwards, J., concur.
