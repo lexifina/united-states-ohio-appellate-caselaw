@@ -1,0 +1,43 @@
+---
+court: "Ohio Court of Appeals"
+docket: "05CA33"
+decided: "2006-07-13"
+citations: ["167 Ohio App. 3d 704"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Harsha, P.J., concurs.", "McFarland, J., dissents."]
+parties: ["ATKINSON, Appellee, v. ATKINSON, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/167/cases/0704-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3749389
+cites_cases: ["2004 WL 1533894", "2004-Ohio-3626", "2005 WL 1056263", "2005-Ohio-2228", "2006-Ohio-3676", "280 N.E.2d 922", "29 Ohio St.2d 184", "44 Ohio St.3d 17", "44 Ohio St.3d 86", "540 N.E.2d 266", "541 N.E.2d 64", "58 O.O.2d 399", "617 N.E.2d 1136", "67 Ohio St.3d 352"]
+---
+
+# Atkinson v. Atkinson
+
+## Majority (Kline, Judge.)
+
+Kline, Judge.
+{¶ 1} Amber Atkinson appeals the judgment of the Washington County Court of Common Pleas granting her and Basil P. Atkinson Jr. a divorce from each other and awarding custody of the parties’ two minor children to the father. The mother contends that the trial court abused its discretion in awarding custody of the children to the father because he had a previous conviction for child abuse and had not been actively involved in raising the children. Because the entry the mother appeals does not comply with Civ.R. 75(F), we find that it is not a final appealable order, and thus, we do not address her assignment of error. Accordingly, we dismiss this appeal.
+I
+{¶ 2} The parties married on September 30,1998, and three children were born as issue of the marriage, namely Casil Troy, Caleb Elijah, and Isabelle Alona. In November 2002, the father filed a complaint requesting a divorce from the mother, an allocation of parental rights and responsibilities, and a fair and equitable division of property. The mother filed an answer and counterclaim seeking a divorce from the father, a temporary and permanent allocation of parental rights and responsibilities, temporary and permanent child support, and an equitable division of marital assets and liabilities.
+{¶ 3} The court issued ex parte temporary orders designating the mother as the residential parent and legal custodian of the minor children, granting the mother exclusive occupancy of the marital residence, and requiring the father to pay various marital debts. The court set the issue of temporary child support for hearing. On January 31, 2003, the court ordered the father to pay child support of $597.47 per month.
+{¶ 4} The trial court conducted a final divorce hearing on March 16, 2004. On April 20, 2005, the trial court issued a judgment entry granting the parties a divorce from each other and equitably dividing the assets and liabilities of the parties. Additionally, the entry designated the father as the residential parent and legal custodian of the minor children and awarded the mother standard visitation. The court specified that in January 2006, the mother was to commence seeking work and comply with an order to seek work. Further, the court terminated the prior child-support order naming the father as obligor.
+{¶ 5} The mother appeals, raising the following assignment of error: “The trial court erred when it designated the father as the residential parent.”
+II
+{¶ 6} As a preliminary matter, we must first determine whether the order the mother appeals is a final appealable order. If an order is not final and appealable, then we have no jurisdiction to review the matter and must dismiss it. See Gen. Acc. Ins. Co. v. Ins. Co. of N. Am. (1989), 44 Ohio St.3d 17, 20, 540 N.E.2d 266. In the event that the parties to the appeal do not raise this jurisdictional issue, we must raise it sua sponte. See Chef Italiano Corp. v. Kent State Univ. (1989), 44 Ohio St.3d 86, 541 N.E.2d 64, syllabus; Whitaker-Merrell v. Carl M. Geupel Const. Co. (1972), 29 Ohio St.2d 184, 186, 58 O.O.2d 399, 280 N.E.2d 922.
+{¶ 7} Section 3(B)(2), Article IV of the Ohio Constitution provides that courts of appeal have “such jurisdiction as may be provided by law to review and affirm, modify, or reverse judgments or final orders of the courts of record inferior to the court of appeals within the district.” A final order or judgment is one that affects a substantial right and, in effect, determines the action, or, as is the case here, an order that affects a substantial right made in a special proceeding. R.C. 2505.02(B)(1) and (2). See, also, Liming v. Liming, Athens App. No. 05CA3, 2005-Ohio-2228, 2005 WL 1056263, at ¶ 6, citing Wisintainer v. Elcen Power Strut Co. (1993), 67 Ohio St.3d 352, 354, 617 N.E.2d 1136. However, when an action includes multiple claims or parties, Civ.R. 54(B) may permit a trial court to enter final judgment as to one or more, but fewer than all, of the claims “only upon an express determination that there is no just reason for delay.”
+{¶ 8} Moreover, in the context of divorce, dissolution of marriage, annulment, and legal separation, Civ.R. 75(F) provides that “the court shall not enter final judgment * * * unless one of the following applies:
+“(1) The judgment also divides the property of the parties, determines the appropriateness of an order of spousal support, and, where applicable, either allocates parental rights and responsibilities, including payment of child support, between the parties or orders shared parenting of minor children;
+“(2) Issues of property division, spousal support, and allocation of parental rights and responsibilities or shared parenting have been finally determined in orders, previously entered by the court, that are incorporated into the judgment;
+“(3) The court includes in the judgment by the express determination required by Civ.R. 54(B) and a final determination that either of the following applies:
+“(a) The court lacks jurisdiction to determine such issues;
+“(b) In a legal separation action, the division of the property of the parties would be inappropriate at that time.”
+{¶ 9} Thus, in the context of a divorce proceeding, Civ.R. 75(F)(1) prohibits a trial court from entering a final judgment unless the judgment divides the parties’ property, determines the appropriateness of an order of spousal support, and allocates parental rights and responsibilities, including the payment of child support. Furthermore, in the context of a divorce proceeding, Civ.R. 75(F)(3)(a) provides that Civ.R. 54(B) only applies where the court expressly determines that there is no just reason for delay and the court finally determines that it lacks jurisdiction to determine those issues.
+{¶ 10} Here, the trial court’s entry expressly terminates the prior child-support order, designating the father as the obligor, based upon the court’s award of custody to him. R.C. 3119.06 provides: “Except as otherwise provided in this section, in any action in which a court issues or modifies a child support order or in any other proceeding in which a court determines the amount of child support to be paid pursuant to a child support order, the court shall issue a minimum child support order requiring the obligor to pay a minimum of fifty dollars a month. The court, in its discretion and in appropriate circumstances, may issue a minimum child support order requiring the obligor to pay less than fifty dollars a month or not requiring the obligor to pay an amount for support. The circumstances under which a court may issue such an order include the nonresidential parent’s medically verified or documented physical or mental disability or institutionalization in a facility for persons with a mental illness or any other circumstances considered appropriate by the court.” Here, however, the trial court’s entry fails to establish an order requiring the mother to pay a child-support obligation pursuant to the child-support guidelines contained in R.C. 3119.022, or to establish a minimum child-support order pursuant to R.C. 3119.06, or to order that the mother not be required to pay an amount for child support.
+{¶ 11} Therefore, we conclude that the trial court’s judgment entry did not fully determine the divorce proceeding as required by R.C. 2505.02 and Civ.R. 75(F) and is not a final appealable order. Liming, 2005-Ohio-2228, 2005 WL 1056263 at ¶ 11, citing Garvin v. Garvin, Jackson App. No. 02CA23, 2004-Ohio-3626, 2004 WL 1533894, at ¶ 13. Accordingly, we dismiss this appeal for lack of jurisdiction.
+Appeal dismissed.
+Harsha, P.J., concurs.
+McFarland, J., dissents.
+. Caleb passed away in July 2003. Another child, Betty Joan Price, was bom during the marriage, but genetic testing determined that she is not the biological child of the father.
