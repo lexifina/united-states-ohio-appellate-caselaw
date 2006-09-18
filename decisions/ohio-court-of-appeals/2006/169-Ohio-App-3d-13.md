@@ -1,0 +1,65 @@
+---
+court: "Ohio Court of Appeals"
+docket: "14-06-10"
+decided: "2006-09-18"
+citations: ["169 Ohio App. 3d 13"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Shaw and Cupp, JJ., concur."]
+parties: ["CAPITAL ONE BANK, Appellant, v. WOTEN, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/169/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4053133
+cites_cases: ["113 Ohio App.3d 828", "2005 WL 3307269", "2005-Ohio-6465", "2006-Ohio-4848", "26 OBR 412", "26 Ohio App.3d 192", "3 OBR 286", "3 Ohio App.3d 254", "345 N.E.2d 458", "444 N.E.2d 1068", "450 N.E.2d 1140", "46 Ohio App.2d 97", "489 F.2d 1031", "499 N.E.2d 21", "5 OBR 481", "5 Ohio St.3d 217", "682 N.E.2d 676", "75 O.O.2d 81"]
+---
+
+# Capital One Bank v. Woten
+
+## Majority (Rogers, Judge.)
+
+Rogers, Judge.
+{¶ 1} Although this case was originally placed on our accelerated calendar, we have elected, pursuant to Loc.R. 12(5), to issue a full opinion in lieu of a judgment entry.
+{¶ 2} Plaintiff-appellant, Capital One Bank, appeals a judgment of the Union County Court of Common Pleas, dismissing its case for failure to present proof of its claim. On appeal, Capital One asserts that the trial court erred when it determined that the evidentiary hearing constituted commencement of trial, that the trial court abused its discretion in denying Capital One an opportunity to file notice of voluntary dismissal without prejudice pursuant to Civ.R. 41(A)(1), and that the trial court abused its discretion in denying Capital One’s oral motion to voluntarily dismiss without prejudice pursuant to Civ.R. 41(A)(2). Upon our finding that the evidentiary hearing did not constitute the commencement of trial for purposes of Civ.R. 41(A)(1), that Capital One could not make an oral motion to dismiss under Civ.R. 41(A)(1), and that the trial court abused its discretion in denying Capital One’s oral motion to dismiss under Civ.R. 41(A)(2), the judgment of the trial court is affirmed in part and reversed in part, and the cause is remanded for further proceedings consistent with this opinion.
+{¶ 3} In December 2005, Capital One initiated a suit against Steven Woten to recover monies owed on an allegedly defaulted credit card account. Woten responded, alleging that he had satisfied the debt. In February 2006, the trial court sent notice of an “evidentiary hearing,” scheduling the hearing for February 24, 2006. Specifically, the notice, labeled “Hearing Notice,” simply provides, “This case is set for evidentiary hearing on February 24, 2006, at 3:00 P.M.” and lists the courthouse address. The notice provides nothing about trial, nor does it indicate that the hearing would be treated as such.
+{¶ 4} At the opening of the hearing, Capital One indicated that it was not prepared to present its case with witnesses, believing that the hearing would only involve discussion of documentation to be presented as evidence at trial and did not constitute trial itself. Capital One orally moved for a voluntary dismissal without prejudice. The trial court determined that the hearing was equivalent to trial. Accordingly, the trial court denied Capital One’s request and ordered that Capital One proceed with the presentation of its case. Capital One subsequently made another oral motion to voluntarily dismiss without prejudice pursuant to Civ.R. 41(A), which the trial court again denied. Since Capital One failed to present evidence, the trial judge ordered the case dismissed.
+{¶ 5} Capital One appeals this judgment, presenting the following assignments of error for our review.
+Assignment of Error No. I
+The trial court erred as a matter of law when it determined that the trial commenced for purposes of Civ.R. 41(A)(1) and abused its discretion when it denied plaintiff its right to file a notice of voluntary dismissal without prejudice prior to trial pursuant to that rule.
+Assignment of Error No. II
+In the alternative, the trial court abused its discretion when it denied plaintiffs oral motion to dismiss its case without prejudice pursuant to Civ.R. 41(A)(2) prior to the commencement of trial.
+Assignment of Error No. I
+{¶ 6} In its first assignment of error, Capital One contends that the trial court erred in denying it the opportunity to file notice of voluntary dismissal without prejudice under Civ.R. 41(A)(1). Specifically, Capital One asserts that it had an absolute right to dismiss its case because trial had not yet commenced and that it should have been given an opportunity to file notice of dismissal based on its oral motion. We disagree.
+{¶ 7} Civ.R. 41(A)(1) governs when a plaintiff may voluntarily dismiss its complaint:
+(1) By plaintiff; by stipulation. * * * [A] plaintiff, without order of court, may dismiss all claims asserted by that plaintiff against a defendant by doing either of the following:
+(a) filing a notice of dismissal at any time before the commencement of trial unless a counterclaim which cannot remain pending for independent adjudication by the court has been served by that defendant;
+(b) filing a stipulation of dismissal signed by all parties who have appeared in the action.
+Unless otherwise stated in the notice of dismissal or stipulation, the dismissal is without prejudice, except that a notice of dismissal operates as an adjudication upon the merits of any claim that the plaintiff has once dismissed in any court.
+{¶ 8} Dismissal under Civ.R. 41(A)(1) gives a party an absolute right to dismiss its claim any time before commencement of the trial. Douthitt v. Garrison (1981), 3 Ohio App.3d 254, 255, 3 OBR 286, 444 N.E.2d 1068. Traditionally, Ohio’s policy has been “one of encouraging voluntary terminations, even though that policy might be subject to inconvenience or even abuse.” Frazee v. Ellis Bros., Inc. (1996), 113 Ohio App.3d 828, 831, 682 N.E.2d 676, citing Std. Oil Co. v. Grice (1975), 46 Ohio App.2d 97, 75 O.O.2d 81, 345 N.E.2d 458. Trial commences in a civil trial when '“the jury is empaneled and sworn, or, in a bench trial, at opening statements.” Frazee, 113 Ohio App.3d at 831, 682 N.E.2d 676.
+{¶ 9} In this case, an evidentiary hearing, not a trial, was scheduled. The heading and contents of the notice indicate this fact. Even if the hearing could be construed to constitute trial,, the record reveals that no opening statements were made by either party. Thus, we find that the trial court’s evidentiary hearing did not commence the trial for purposes of Civ.R. 41(A)(1).
+{¶ 10} However, a plaintiffs absolute right to voluntarily dismiss under Civ.R. 41(A)(1) requires filing of a written notice of dismissal. An oral motion will not suffice. See Douthitt, 3 Ohio App.3d at 256, 3 OBR 286, 444 N.E.2d 1068 (“filing of papers required by the rules means ‘filing them with the clerk of court.’ Oral requests cannot be so filed”); Lilly v. Lilly (1985), 26 Ohio App.3d 192, 193, 26 OBR 412, 499 N.E.2d 21. In this case, Capital One did not file written notice of voluntary dismissal, but instead orally moved to voluntarily dismiss.
+{¶ 11} Additionally, Capital One asserts that it should have been given the opportunity to file a notice of dismissal. However, the record indicates that Capital One did not request leave to file such notice during the hearing. See Great Seneca Financial Corp. v. Emler, 5th Dist. No. 05CA000030, 2005-Ohio-6465, 2005 WL 3307269 (sustaining appellant’s assignment of error based on Civ.R. 41(A)(1) because trial had not commenced and appellant orally requested opportunity to file notice). Absent a request by Capital One for leave to file notice, we cannot find that the trial court abused its discretion by denying Capital One’s oral motion to voluntarily dismiss under Civ.R. 41(A)(1).
+{¶ 12} Accordingly, Capital One’s first assignment of error is overruled.
+Assignment of Error No. II
+{¶ 13} In its second assignment of error, Capital One contends that the trial court abused its discretion in denying its oral motion to voluntarily dismiss pursuant to Civ.R. 41(A)(2). Specifically, Capital One asserts that Woten would not have been prejudiced by a grant of the motion.
+{¶ 14} The grant of a motion to voluntarily dismiss based on Civ.R. 41(A)(2) is within the sound discretion of the trial court. Douthitt, 3 Ohio App.3d at 256, 3 OBR 286, 444 N.E.2d 1068. Thus, such a decision will not be disturbed on appeal absent an abuse of that discretion. Id. An abuse of discretion will be found only where the decision is unreasonable, arbitrary, or unconscionable. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 219, 5 OBR 481, 450 N.E.2d 1140.
+{¶ 15} Civ.R. 41(A)(2) provides:
+(2) By order of court. Except as provided in division (A)(1) of this rule, a claim shall not be dismissed at the plaintiffs instance except upon order of the court and upon such terms and conditions as the court deems proper. If a counterclaim has been pleaded by a defendant prior to the service upon that defendant of the plaintiffs motion to dismiss, a claim shall not be dismissed against the defendant’s objection unless the counterclaim can remain pending for independent adjudication by the court. Unless otherwise specified in the order, a dismissal under division (A)(2) of this rule is without prejudice.
+{¶ 16} Unlike Civ.R. 41(A)(1), (A)(2) does not mandate that the motion be in writing. In Douthitt, the Ninth District Court of Appeals adopted the federal courts’ construction of Fed.R.Civ.P. 41(a)(2), which emphasizes the traditional rule that voluntary dismissals should be allowed unless the defendant will be prejudiced “ ‘other than [by] the mere prospect of a second lawsuit.’ ” (Emphasis sic.) 3 Ohio App.3d at 256, 3 OBR 286, 444 N.E.2d 1068, quoting Holiday Queen Land Corp. v. Baker (C.A.5, 1974), 489 F.2d 1031, 1032. Given that Civ.R. 41(A)(2) mirrors Fed.R.Civ.P. 41(a)(2), we follow the Ninth District Court of Appeals and adopt the federal courts’ interpretation of the rule.
+{¶ 17} Nothing in the record indicates that Woten would have been prejudiced, beyond the prospect of a second lawsuit, had the trial court granted Capital One’s oral motion to dismiss under Civ.R. 41(A)(2). After Capital One’s second oral motion to voluntarily dismiss, the following exchange occurred:
+Capital One: Would your honor accept a — an oral motion or an oral notice of dismissal without prejudice?
+The Court: Will you accept that, sir?
+Woten: I — being a person with just a ninth grade education, I don’t understand what he just said to be honest with you.
+The Court: Well, what he wants me to do is he’s asking that it be dismissed against you, costs to Plaintiff, and — but without prejudice to them filing again on you.
+Woten: I still don’t understand. I apologize. I just don’t understand what you mean. You mean that he was requested to be here like I was today, to provide evidence that I owe this debt, and he’s not prepared to do that. And what he wants to do is to let me say okay. You take another day off from work and come in here so that we can do it again. And I would just rather you tell him that he’s not prepared and that it’s over with.
+Capital One: Your Honor, if I may be heard?
+The Court: Sure.
+Capital One: I think it’s an abuse of discretion not to — to grant. Under Civil Rule 41A, if this is a trial, then I would have an opportunity to dismiss the matter prior to being called for trial and that’s — without notice and that’s what I am asking, attempting to do here.
+The Court: Well, first of all, I did in fact give you notice. That’s the first thing. And secondly—
+Capital One: I wasn’t disputing that.
+The Court: Okay. Secondly, we’re in trial. And — and I asked the man if he would agree to being sued again and basic — I didn’t put it quite that way to him, but — but I asked him. He said no. He wants it — if you’re going to do it, do it right now. And I — I—so I’m going to give you the opportunity to do it. You can do it or you’re not. And if you don’t, if you don’t present any evidence, I’m going to rule in his favor.
+This exchange suggests no additional prejudice to Woten outside of being subjected to a second lawsuit by Capital One. Moreover, the trial court made no further inquiry regarding any other prejudice or hardship that Woten might have incurred if the motion were granted. Therefore, we find that the trial court abused its discretion by unreasonably and arbitrarily denying Capital One’s oral motion to voluntarily dismiss under Civ.R. 41(A)(2).
+{¶ 18} Accordingly, Capital One’s second assignment of error is sustained.
+{¶ 19} Having found no error prejudicial to appellant in the trial court’s ruling under Civ.R. 41(A)(1) with respect to appellant’s first assignment of error, but having found error prejudicial to appellant under Civ.R. 41(A)(2) with respect to appellant’s second assignment of error, we affirm in part and reverse in part and remand the matter for further proceedings consistent with this opinion.
+Judgment affirmed in part and reversed in part, and cause remanded.
+Shaw and Cupp, JJ., concur.
