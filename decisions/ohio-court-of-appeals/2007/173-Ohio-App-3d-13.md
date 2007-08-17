@@ -1,0 +1,44 @@
+---
+court: "Ohio Court of Appeals"
+docket: "21712"
+decided: "2007-08-17"
+citations: ["173 Ohio App. 3d 13"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Fain and Donovan, JJ., concur."]
+parties: ["IHENACHO, Appellant, v. COVERALL OF SOUTHERN OHIO, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/173/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3230887
+cites_cases: ["122 Ohio App.3d 378", "131 Ohio App.3d 681", "2007-Ohio-4206", "55 Ohio St.3d 94", "563 N.E.2d 713", "647 N.E.2d 788", "649 N.E.2d 30", "671 N.E.2d 241", "701 N.E.2d 1023", "72 Ohio St.3d 94", "723 N.E.2d 596", "77 Ohio St.3d 102", "98 Ohio App.3d 579"]
+---
+
+# Ihenacho v. Coverall of Southern Ohio
+
+## Majority (Grady, Judge.)
+
+Grady, Judge.
+{¶ 1} This is an appeal from a summary judgment granted to defendant, Coverall of Southern Ohio (“Coverall”), on plaintiff Charles Ihenacho’s claim for relief.
+{¶ 2} Ihenacho performs janitorial services as a franchisee of Coverall. In that relationship, Ihenacho participates in Coverall’s “Franchise Owner Job Related Accident Policy” (“FOJ policy”), which provides a form of coverage for work-related injuries. Ihenacho paid monthly premiums for that coverage.
+{¶ 3} Ihenacho was injured in an automobile accident on Saturday, November 1, 2003. Contending that he was then traveling to perform janitorial services for a customer, Ihenacho sought coverage under the FOJ policy for his medical expenses and other losses. Coverall denied coverage after concluding that Ihenacho had not, in fact, been traveling to perform work when he was injured.
+{¶ 4} Ihenacho commenced the action underlying this appeal in the court of common pleas against Coverall, seeking coverage under the FOJ policy. Exhibits pertaining to the accident and his purchase of coverage were attached to Ihenacho’s complaint.
+{¶ 5} Coverall filed a Civ.R. 12(B)(6) motion to dismiss the action Ihenacho filed. Coverall’s memorandum contends that per their franchise agreement, Ihenacho was obligated to obtain workers’ compensation and automobile liability insurance coverage, including coverage for personal injuries and property loss, and did not. Coverall further argued:
+{¶ 6} “Additionally, Coverall’s records indicate that the only account Plaintiff would have serviced on a Saturday was the Wright Patterson Credit Union. However, the route from Plaintiffs home to the Wright Patterson Credit Union differs substantially from the location of the accident. A map of the area in question with a comparison of the route versus the location of the accident is attached hereto as Exhibit 3. It is obvious that the accident did not occur during the course of Plaintiffs Coverall business. Consequently, there are no policies of insurance in force that would cover him.”
+{¶ 7} Coverall’s motion and memorandum were supplemented by exhibits. They include purported copies of its franchise agreement with Ihenacho, the FOJ policy covering him, and a map indicating where the accident occurred and Ihenacho’s likely route of travel to the place of business of the customer concerned, which do not converge. None of the exhibits are supported by an affidavit.
+{¶ 8} Ihenacho filed a memorandum contra Coverall’s motion. He attached additional exhibits to his memorandum. None are supported by an affidavit.
+{¶ 9} Coverall filed a response to Ihenacho’s memorandum contra, supported by more exhibits. Again, none are supported by an affidavit.
+{¶ 10} On June 27, 2006, the trial court granted Coverall’s motion. The court cited and relied on the provision of Civ.R. 12(B)(6) providing that “[w]hen a motion to dismiss for failure to state a claim upon which relief can be granted presents matters outside the pleading and such matters are not excluded by the court, the motion shall be treated as a motion for summary judgment and disposed of as provided in Civ.R. 56.” On that basis, the court converted Coverall’s motion to one for summary judgment and granted the motion.
+{¶ 11} In its analysis, the court found that there was no genuine issue of material fact that Ihenacho was involved in an automobile accident and that he has a right to coverage under the FOJ policy. However, the court further found that because Ihenacho failed to obtain automobile liability insurance covering his losses in an automobile accident and because the “evidence presented by [Ihenacho] indicates that he serviced the [customer to whose facility he was traveling] on Fridays rather than Saturdays,” the day of the accident, Ihenacho is not entitled to coverage for his injuries and losses under the FOJ policy.
+{¶ 12} Ihenacho filed a timely notice of appeal and appears pro se. His brief on appeal does not identify a particular assignment of error, as App.R. 16(A)(3) requires. Instead, Ihenacho merely repeats the contentions of his claim that he is entitled to coverage for his injuries and losses under the FOJ policy, a claim the trial court found lacks merit.
+{¶ 13} We necessarily take Ihenacho’s argument to contend that the trial court erred when it granted Coverall’s motion. Because the court granted the motion pursuant to Civ.R. 56, we conduct a de novo review of the relief that Coverall requested in its motion. Grafton v. Ohio Edison Co. (1996), 77 Ohio St.3d 102, 671 N.E.2d 241. “De novo review means that this court uses the same standard the trial court should have used, and we examine the evidence to determine whether as a matter of law no genuine issues exist for trial.” Brewer v. Cleveland City Schools Bd. of Edn. (1997), 122 Ohio App.3d 378, 383, 701 N.E.2d 1023.
+{¶ 14} Coverall’s motion was filed pursuant to Civ.R. 12(B)(6). A motion filed pursuant to that rule tests the legal sufficiency of the claims for relief in the pleadings. Powell v. Vorys, Sater, Seymour & Pease (1998), 131 Ohio App.3d 681, 723 N.E.2d 596. In resolving a Civ.R. 12(B)(6) motion, the court is confined to the statements set forth in the pleading under attack. Jackson v. Ohio Bur. of Workers’ Comp. (1994), 98 Ohio App.3d 579, 649 N.E.2d 30. In this instance, that is the form of complaint that Ihenacho filed. Civ. R. 8(A).
+(¶ 15} Civ.R. 12(B)(6) provides:
+{¶ 16} “When a motion to dismiss for failure to state a claim upon which relief can be granted presents matters outside the pleading and such matters are not excluded by the court, the motion shall be treated as a motion for summary judgment and disposed of as provided in Rule 56. Provided, however, that the court shall consider only such matters outside the pleadings as are specifically enumerated in Rule 56. All parties shall be given reasonable opportunity to present all materials made pertinent to such a motion by Rule 56.”
+{¶ 17} The “reasonable opportunity” provision of Civ.R. 12(B)(6) requires the court to notify the parties when the court converts the motion to a Civ.R. 56(C) motion for summary judgment prior to ruling on the motion. Failure to give the required notice is reversible error. State ex rel. Boggs v. Springfield Local School Dist. Bd. of Edn. (1995), 72 Ohio St.3d 94, 647 N.E.2d 788; State ex rel. Baran v. Fuerst (1990), 55 Ohio St.3d 94, 563 N.E.2d 713.
+(¶ 18} The trial court erred when, on June 27, 2006, finding that Coverall’s motion presented matters outside the pleadings, the court converted Coverall’s Civ.R. 12(B)(6) motion to dismiss to a Civ.R. 56(C) motion for summary judgment and, without notice to the parties of the conversion, granted Coverall’s motion pursuant to Civ.R. 56. The effect of the court’s error implicates the following provision of Civ.R. 56(C):
+{¶ 19} “Summary judgment shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, written admissions, affidavits, transcripts of evidence, and written stipulations of fact, if any, timely filed in the action, show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. No evidence or stipulation may be considered except as stated in this rule.”
+{¶ 20} The only evidentiary materials before the court were the exhibits attached to Ihenacho’s complaint, Coverall’s motion, and Ihenacho’s memorandum contra. None were supported or opposed by affidavits made on personal knowledge, as Civ. R. 56(E) requires. Therefore, per Civ.R. 56(C), the court could not consider the evidence before it. State ex rel. Boggs, 72 Ohio St.3d 94, 647 N.E.2d 788. Not having evidence required by Civ.R. 56(C) on which it could act, the trial court erred when it granted Coverall’s motion for summary judgment.
+{¶ 21} The assignment of error is sustained. The judgment from which the appeal was taken is reversed, and the cause is remanded for further proceedings on Ihenacho’s claim for relief.
+Judgment accordingly.
+Fain and Donovan, JJ., concur.
