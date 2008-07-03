@@ -1,0 +1,49 @@
+---
+court: "Ohio Court of Appeals"
+docket: "22195"
+decided: "2008-07-03"
+citations: ["177 Ohio App. 3d 166"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Wolff, P.J., and Grady, J., concur."]
+parties: ["BJ BUILDING COMPANY, L.L.C., Appellant, v. LBJ LINDEN COMPANY, L.L.C., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/177/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3876969
+cites_cases: ["13 O.O.3d 41", "1991 WL 54150", "2005 WL 3501890", "2005-Ohio-6825", "2007 WL 4615948", "2007 WL 912229", "2007-Ohio-1427", "2007-Ohio-7155", "2008-Ohio-3373", "25 OBR 89", "25 Ohio St.3d 67", "391 N.E.2d 743", "494 N.E.2d 1387", "53 Ohio St.3d 60", "558 N.E.2d 1178", "59 Ohio App.2d 1"]
+---
+
+# BJ Building Co. v. LBJ Linden Co.
+
+## Majority (Fain, Judge.)
+
+Fain, Judge.
+{¶ 1} BJ Building Company, L.L.C., appeals from a judgment of the Montgomery County Court of Common Pleas, which vacated a certificate of judgment against LBJ Linden Company, L.L.C., despite denying LBJ’s motion for relief from judgment. For the reasons that follow, the judgment of the trial court will be reversed, and this cause will be remanded for further proceedings.
+I
+{¶ 2} In 2002, James Zeller and William Smith, the owners of BJ and LBJ, agreed to sell their interests in LBJ to Larry Smith (“Smith”). In exchange, they received a cognovit note from Smith, Thanh Le, and LBJ (collectively, “LBJ”) in the amount of $48,000, payable to BJ. Additionally, LBJ signed a lease wherein it agreed to pay BJ $5,000 per month in rent. In less than a year, LBJ defaulted on the note and lease.
+{¶ 3} In 2003, BJ sued LBJ for default on the cognovit note, forcible entry and detainer, breach of contract (the lease), and restitution for insurance and other payments that BJ had made on behalf of LBJ. BJ sought $36,533.20 on the note, $35,000 in unpaid rent, and $3,795 for insurance premiums. On October 30, 2003, the trial court rendered judgment in favor of BJ on the cognovit note in the amount of $36,533.33. The other claims remained pending. Later that year, the parties entered into a settlement agreement whereby LBJ agreed to transfer all of its assets to BJ and to vacate the premises in exchange for the cancellation of the lease agreement and the cognovit note. Soon thereafter, BJ sold the transferred assets and the real estate to a third party for $40,000. Although the trial court had scheduled a hearing on the pending claims, the parties did not appear at the hearing, and no judgment entry was filed with respect to the remaining claims.
+{¶ 4} In 2004, BJ filed another complaint against LBJ to enforce the settlement agreement.
+{¶ 5} On December 2, 2004, LBJ filed a motion for relief from the 2003 judgment on the cognovit note on the basis that it had been satisfied. On March 22, 2005, the trial court denied LBJ’s motion for relief from judgment on the grounds that it was untimely and that LBJ had failed to show any meritorious defenses. The trial court rejected LBJ’s argument that the 2003 judgment on the cognovit note was not a final, appealable order because it did not include the language “no just reason for delay.” LBJ appealed. While LBJ’s appeal was pending, it filed a second motion for relief from judgment in the trial court, which also asked the court to find that the judgment had been satisfied.
+{¶ 6} In April 2005, BJ’s remaining claims in both cases were dismissed.
+{¶ 7} In December 2005, we affirmed the trial court’s denial of LBJ’s motion to vacate the 2003 judgment on the cognovit note but on different grounds than those cited by the trial court. BJ Bldg. Co., L.L.C. v. LBJ Linden Co., L.L.C., Montgomery App. No. 21005, 2005-Ohio-6825, 2005 WL 3501890. We concluded that the judgment on the cognovit note had not become a final, appealable order until April 2005, when BJ’s other claims were dismissed. Id. Thus, we rejected the trial court’s reasoning but found that the court’s order denying the motion to vacate was proper because the cognovit judgment was an interlocutory order when the motion for relief from judgment was filed.
+{¶ 8} In May 2007, the trial court denied LBJ’s second motion for relief from judgment, in which LBJ argued that the judgment had been satisfied by the transfer of LBJ’s assets to BJ. The court concluded that LBJ’s arguments were barred by the doctrine of res judicata because they could have been raised in its first motion. Nonetheless, the trial court vacated the certificate of judgment on the cognovit note because LBJ had transferred assets to BJ under the parties’ 2003 settlement agreement. The court apparently concluded that BJ had been required to apply the $40,000 in proceeds from the sale of returned assets to the cognovit note rather than to the unpaid rent, and that the judgment therefore had been satisfied. Furthermore, it ordered BJ to pay LBJ for the perceived overpayment on the note, i.e., the difference between the $40,000 collected by BJ on the sale of LBJ’s assets and the $36,533.20 awarded on the note.
+II
+{¶ 9} BJ’s first assignment of error is as follows:
+{¶ 10} “The argument that the defendants were entitled to credit for the surrendered assets of LBJ could have been raised in their 2004 motion for relief from judgment and, therefore, is res judicata.”
+{¶ 11} BJ contends that the doctrine of res judicata precluded LBJ from succeeding on its second motion for relief from judgment because the trial court had previously considered, and rejected, its arguments.
+{¶ 12} The doctrine of res judicata requires a party to present every ground for relief in the first action or be forever barred from asserting it. Natl. Amusements, Inc. v. Springdale (1990), 53 Ohio St.3d 60, 62, 558 N.E.2d 1178. “It has long been the law of Ohio that an existing final judgment or decree between the parties to litigation is conclusive as to all claims which were or might have been litigated in a first lawsuit.” (Emphasis sic.) Id., citing Rogers v. Whitehall (1986), 25 Ohio St.3d 67, 69, 25 OBR 89, 494 N.E.2d 1387.
+{¶ 13} The trial court erred in applying the doctrine of res judicata to the circumstances of this case. In the previous appeal, we concluded that the judgment on the cognovit note had not been final when LBJ filed its first motion to vacate because other claims were still pending. Thus, we affirmed the order of the trial court denying the motion for relief from the “judgment.” Under these circumstances, there was no “existing final judgment or decree between the parties” upon which to base a finding of res judicata, even if the arguments presented in LBJ’s first and second motions to vacate were similar. Because the trial court based its ruling on its finding of res judicata, it has not fully-considered the merits of LBJ’s claim that pursuant to the parties’ settlement agreement and its subsequent transfer of assets to BJ, the cognovit judgment was satisfied and LBJ was entitled to relief from that judgment.
+{¶ 14} In its complaint, BJ sought $35,000 in unpaid rent in addition to the $36,533.20 sought on the cognovit note. We will remand this matter for the trial court to determine whether the parties’ settlement agreement required BJ to apply the value of the transferred assets to the cognovit note and, if not, how that value should have been applied. In doing so, the court will determine whether LBJ was entitled to relief from the cognovit judgment.
+{¶ 15} The first assignment of error is sustained.
+Ill
+{¶ 16} The second assignment of error states:
+{¶ 17} “The trial court erred in ordering BJ to pay money to the defendants. The only way a defendant can obtain an award of money against a plaintiff is by filing a counterclaim and prevailing upon it, none of which happened here.”
+{¶ 18} BJ claims that LBJ was not entitled to a monetary judgment because it had not filed a counterclaim. BJ asserts that the trial court’s award of money to LBJ violated its due process rights because BJ did not have an opportunity to assert setoffs or counterclaims, to plead affirmative defenses, or to require LBJ to prove its claim that B J had been overpaid.
+{¶ 19} As noted in our discussion of the first assignment of error, in Part II, above, the total damages sought in BJ’s complaint exceeded $75,000. LBJ transferred assets under the settlement agreement that were subsequently sold to a third party for $40,000. The trial court credited LBJ for this entire amount and entered an award to LBJ for the difference between the $36,533.20 owed on the note and the $40,000 sale price.
+{¶ 20} Even assuming, for the sake of argument, that LBJ was entitled to offset the value of the assets transferred under the settlement agreement against the cognovit judgment, it was not entitled to be awarded a money judgment against BJ in any amount in the absence of a counterclaim against BJ. See Cleveland Constr. Interiors, Inc. v. Ruhlin Co. (April 5, 1991), Lake App. No. 90-L-14-060, 1991 WL 54150, citing Cauffiel Machinery Co. v. Eastern Steel & Metal Co. (1978), 59 Ohio App.2d 1, 6, 13 O.O.3d 41, 391 N.E.2d 743 (holding that a defense of recoupment aims to reduce the amount demanded and can be had only to an extent sufficient to satisfy the plaintiffs claim). See also Schafer v. RMS Realty, Montgomery App. No. 21869, 2007-Ohio-7155, 2007 WL 4615948, ¶ 17; Spano Bros. Constr. Co., Inc. v. Adolph Johnson & Son Co., Inc., Summit App. No. 23405, 2007-Ohio-1427, 2007 WL 912229, ¶ 26. As such, the trial court erred in ordering BJ to pay LBJ $3,466.80.
+{¶ 21} The second assignment of error is sustained.
+IV
+{¶ 22} The judgment of the trial court is reversed, and this cause is remanded for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Wolff, P.J., and Grady, J., concur.
