@@ -1,0 +1,39 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA2008-05-055"
+decided: "2009-03-02"
+citations: ["181 Ohio App. 3d 307"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Powell, P.J., and Ringland, J., concur."]
+parties: ["MERCER et al., Appellants, v. 3M PRECISION OPTICS, INC., Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/181/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3853016
+cites_cases: ["101 Ohio St.3d 86", "2004-Ohio-24", "2006 WL 2876370", "2006 WL 3833971", "2006-Ohio-5308", "2006-Ohio-7041", "2009-Ohio-930", "537 U.S. 149", "801 N.E.2d 452"]
+---
+
+# Mercer v. 3M Precision Optics, Inc.
+
+## Majority (Hendrickson, Judge.)
+
+Hendrickson, Judge.
+{¶ 1} Plaintiffs-appellants, Tom Mercer et al., appeal a decision of the Clermont County Court of Common Pleas ruling in favor of defendant-appellee, 3M Precision Optics, Inc., in a breach-of-contract action. For the reasons outlined below, we affirm the decision of the trial court.
+{¶ 2} On August 14, 2003, appellants Tom Mercer, d.b.a. Mercer Technical Services and Mercer Supply Company (collectively, “Mercer”), executed a three-year supply contract with appellee, 3M Precision Optics, Inc. (“3MPO”). Under the contract, Mercer agreed to produce and supply to 3MPO a particular screw and washer assembly used by 3MPO in its manufacture of lenses for projection televisions. The following provision of the contract is at issue in this appeal:
+{¶ 3} “4.2 Competitive Prices. If Seller sells to any other customer (except a Seller affiliate) a product substantially equivalent to a Product under similar delivery and quantity terms but at a lower price, Seller will, within five business days thereafter, notify 3MPO and 3MPO will pay that lower price on all Produce deliveries made while that lower price is in effect. If 3MPO notifies Seller that 3MPO has been offered a product substantially equivalent to a Product under similar delivery and quantity terms, but at a lower price (the ‘Substitute Product’), and Seller does not match the Substitute Product’s lower price within ten business days, then 3MPO may, in its sole discretion, purchase the Substitute Product and deduct them from the undelivered Products under the current Forecast.” (Emphasis added.)
+{¶ 4} During the time period at issue, in addition to purchasing a quantity of assemblies from Mercer in excess of its projected need or “forecast,” 3MPO purchased a number of assemblies at a lower price from competing seller Blue Chip Engineered Products. The business relationship between the parties deteriorated, and 3MPO eventually discontinued its purchases from Mercer. Mercer subsequently instituted this action against 3MPO.
+{¶ 5} Mercer’s complaint, filed on February 12, 2007, alleged claims for breach of contract, promissory estoppel, misrepresentation, and specific performance. 3MPO moved for summary judgment. The trial court granted summary judgment to 3MPO on Mercer’s claims for misrepresentation, promissory estoppel, and consequential damages. The matter proceeded to a bench trial on Mercer’s claims for breach of contract and specific performance. On April 25, 2008, the trial court rendered its decision in favor of 3MPO. This appeal followed.
+{¶ 6} Assignment of error No. 1 is as follows:
+{¶ 7} “The trial court erred to the prejudice of plaintifi/appellant in finding that defendant/appellee did not breach the contract.”
+{¶ 8} Mercer argues that the trial court erred in ruling that 3MPO did not breach the contract. According to Mercer, application of the maxim expressio unius est exclusio alterius warrants the conclusion that 3MPO was required to notify Mercer of a lower price offered by a competitor.
+{¶ 9} The construction of a written contract is a matter of law that we review de novo. Saunders v. Mortensen, 101 Ohio St.3d 86, 2004-Ohio-24, 801 N.E.2d 452, ¶ 9. The intent of the parties is paramount in guiding judicial construction of contracts and is presumed to lie within the language used in the written instrument. Id. When a contract is clear and unambiguous, a court need not interpret the language and must enforce the agreement by attributing the plain and ordinary meaning to the language as written. Fultz & Thatcher v. Burrows Group, Warren App. No. CA2005-11-126, 2006-Ohio-7041, 2006 WL 3833971, ¶ 17.
+{¶ 10} As the trial court aptly observed, the language in section 4.2 of the contract is clear and unambiguous. Thus, the intent of the parties is presumed to lie in the plain and ordinary meaning of the language used in the provision. Again, the portion of section 4.2 at issue stated:
+{¶ 11} “If 3MPO notifies Seller that 3MPO has been offered a product substantially equivalent to a Product under similar delivery and quantity terms, but at a lower price (the ‘Substitute Product’), and Seller does not match the Substitute Product’s lower price within ten business days, then 3MPO may, in its sole discretion, purchase the Substitute Product and deduct them from the undelivered Products under the current Forecast.”
+{¶ 12} This provision is worded permissively. “If’ 3MPO notified Mercer that it was offered a comparable product at a lower price and Mercer did not match the price in ten days, then 3MPO could purchase the product from the competitor and deduct the quantity purchased from the undelivered quantity under the current Mercer forecast. The plain language of section 4.2 did not require 3MPO to notify Mercer when 3MPO was offered a lower price. Rather, the provision gave 3MPO the option of notifying Mercer to permit Mercer to match the price. If 3MPO notified Mercer of the lower price and Mercer declined to match it, then 3MPO could purchase the competing product and deduct the quantity purchased from its Mercer forecast. Because the language is clear and unambiguous, it is not necessary to invoke any maxims of interpretation to deduce the intent of the parties.
+{¶ 13} Moreover, we fail to see how the principle of expressio unius est exclusio alterius has any application to the contractual provision at issue. This Latin maxim means that the expression of one or more persons or things implies the exclusion of those not expressed. Bank One, N.A. v. PIC Photo Finish, Inc., Darke App. No. 1665, 2006-Ohio-5308, 2006 WL 2876370, ¶ 23. Typically, expres sio unius est exclusio alterius is applied when there is a listing of items in an associated group or series, which “justif[ies] the inference that items not mentioned were excluded by deliberate choice, not inadvertence.” Barnhart v. Peabody Coal Co. (2003), 537 U.S. 149, 168, 123 S.Ct. 748, 154 L.Ed.2d 653. Even if the language in section 4.2 of the contract was ambiguous and open to interpretation, section 4.2 is not worded in such a fashion that would justify the invocation of this maxim. See id.
+{¶ 14} We also note that Mercer failed to prove that it sustained damages as a result of 3MPO’s actions. In accordance with the terms of the contract, 3MPO submitted forecasts to Mercer detailing the total amount of assemblies that it anticipated purchasing from Mercer in the upcoming months. The trial court conducted an extensive review of the muddled circumstances surrounding these forecasts. After performing calculations, the trial court noted that 3MPO’s purchases exceeded its binding monthly forecasts by approximately one million assemblies. We agree with the trial court that this result belies Mercer’s claim that it sustained damages as a result of excess inventory.
+{¶ 15} We conclude that the trial court properly ruled in favor of 3MPO on Mercer’s breach-of-contract claim. Mercer’s sole assignment of error is overruled.
+{¶ 16} The judgment is affirmed.
+Judgment affirmed.
+Powell, P.J., and Ringland, J., concur.
