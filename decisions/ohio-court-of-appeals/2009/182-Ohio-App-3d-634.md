@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+docket: "08CA6"
+decided: "2009-04-23"
+citations: ["182 Ohio App. 3d 634"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kline, P. J., concurs in judgment only with opinion.", "Harsha, J., concurs."]
+parties: ["MILTON BANKING COMPANY, Appellant, v. DULANEY et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/182/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3856880
+cites_cases: ["108 Ohio St.3d 540", "15 O.O.3d 283", "20 OBR 407", "20 Ohio St.3d 77", "2000 WL 864977", "2006 WL 2060551", "2006-Ohio-1713", "2006-Ohio-3812", "2008 WL 2955586", "2008 WL 351656", "2008-Ohio-3919", "2008-Ohio-526", "2009-Ohio-1939", "400 N.E.2d 1352", "486 N.E.2d 99", "590 N.E.2d 809", "61 Ohio St.2d 277", "617 N.E.2d 701", "621 N.E.2d 1360", "69 Ohio App.3d 324", "84 Ohio App.3d 499", "844 N.E.2d 1199", "87 Ohio App.3d 207"]
+---
+
+# Milton Banking Co. v. Dulaney
+
+## Majority (Abele, Judge.)
+
+Abele, Judge.
+{¶ 1} This is an appeal from a Jackson County Common Pleas Court judgment that granted relief from a previous default judgment against Chase Home Finance, L.L.C., successor by merger to Chase Manhattan Mortgage Corporation (“Chase”), in a lien foreclosure action brought by Milton Banking Company (“MBC”), plaintiff below and appellant herein, against Brian W. Dulaney and Shauna N. Dulaney, defendants below.
+{¶ 2} Appellant assigns the following errors for review:
+FIRST ASSIGNMENT OF ERROR:
+The trial court committed reversible error in granting Chase Home Finance LLC’s motion for relief from judgment.
+SECOND ASSIGNMENT OF ERROR:
+The trial court committed reversible error in denying the appellants’ Civil Rule 12(B) motion.
+THIRD ASSIGNMENT OF ERROR:
+The trial court committed reversible error in ordering a marginal note to be made upon Vol. 12, pg 1313 of the Jackson County record of mortgage and the recorder index to show the effect of the trial court’s entry.
+FOURTH ASSIGNMENT OF ERROR:
+The trial court committed reversible error in finding it had no jurisdiction to issue the June 8, 2007, default judgment against Chase Manhattan Mortgage Corporation and that the judgment of June 8, 2007 is void ab initio and vacated.
+{¶ 3} On July 29, 2003, Brian W. Dulaney executed a $210,000 note to Chase’s predecessor-in-interest. He and his wife, Shauna N. Dulaney, also conveyed a mortgage on their 776 Rock Run Road property to secure their payment of that note.
+{¶ 4} On March 6, 2006, MBC obtained a $407,706.05 judgment against the Dulaneys and levied a lien against their property. MBC commenced the instant action on October 20, 2006, and sought to marshal all liens on the Dulaney property and foreclose on its interest (case No. 06CIV272). The Dulaneys filed for a Chapter 7 liquidation in the United States Bankruptcy Court on February 22, 2006, thereby staying the action. During that stay, MBC moved for a default judgment on Chase’s mortgage interest, because Chase had not answered MBC’s complaint. The trial court granted a default judgment against Chase on June 8, 2007, and ordered that Chase’s interest be cancelled of record. MBC dismissed the remainder of case No. 06CIV272 on July 31, 2007.
+{¶ 5} In the meantime, the Dulaney property was abandoned from the bankruptcy estate, and Chase commenced an action on January 23, 2008, to foreclose on its mortgage (case No. 08CIV034). MBC and First National Bank of Wellston were joined as defendants. Both MBC and First National Bank filed Civ.R. 12(B)(6) motions to dismiss the foreclosure and argued that Chase no longer had a mortgage interest in the premises due to the default judgment in case No. 06CIV272.
+{¶ 6} Chase filed a Civ.R. 60(B) motion for relief from judgment in that case on February 21, 2008, and argued that the default judgment was void because it had been taken in violation of the automatic bankruptcy stay. After the two cases were consolidated, the trial court agreed with Chase that the default judgment was void ab initio because it was entered in violation of the bankruptcy stay. The Civ.R. 12(B)(6) motions to dismiss were therefore denied. This appeal followed.
+I
+{¶ 7} Before we review the assignments of error on their merits, we must first address a threshold jurisdictional problem. Ohio courts of appeals have appellate jurisdiction over final orders. Section 3(B)(2), Article IV, Ohio Constitution. A final order is one that, among other things, vacates a judgment. See R.C. 2505.02(B)(3). Accordingly, a Civ.R. 60(B) entry that grants relief from judgment is a final order, Arrow Machine Co. v. Rapid Rigging, Inc., Lake App. No. 2007-L-114, 2008-Ohio-526, 2008 WL 351656, ¶ 11; State Farm Mut. Ins. Co. v. Young, Summit App. No. 22944, 2006-Ohio-3812, 2006 WL 2060551, ¶ 11, and we would have jurisdiction over this matter if only case No. 06CIV272 was being appealed. What complicates things here, however, is the consolidation of case No. 06CIY272 with case No. 08CIV034. The operative effect of that consolidation is to join different lienholders (MBC and Chase), who obtained their interests at different times and under different circumstances. In short, we now have multiple parties and multiple claims that trigger the operation of Civ.R. 54(B) into a determination of whether the judgment is a final order. See In re Berman (1990), 69 Ohio App.3d 324, 328, 590 N.E.2d 809; Gallucci v. Freshour (Jun. 22, 2000), Hocking App. No. 99CA22, 2000 WL 864977. This rule allows a trial court to enter final judgment as to one or more, but fewer than all, claims in a multiclaim action only upon an express determination that there is “no just reason for delay.” If a judgment does not meet the requirements of R.C. 2505.02 and, where applicable, Civ.R. 54(B), a reviewing court does not have jurisdiction, and the appeal must be dismissed. Prod. Credit Assn. v. Hedges (1993), 87 Ohio App.3d 207, 210, 621 N.E.2d 1360, at fn. 2; Kouns v. Pemberton (1992), 84 Ohio App.3d 499, 501, 617 N.E.2d 701.
+{¶ 8} Again, there is no question in the case sub judice that the entry that grants relief from judgment meets the R.C. 2505.02 requirements. The issue here, however, is whether the Civ.R. 54(B) requirements have been satisfied. We conclude that they have not. The trial court’s June 26, 2008 entry contains no express finding that there is “no just reason for delay.” Thus, there is no final, appealable order here and the appeal must be dismissed for lack of jurisdiction.
+Appeal dismissed.
+Kline, P. J., concurs in judgment only with opinion.
+Harsha, J., concurs.
+. The Dulaneys are not part of this appeal, although they have filed a statement positing that their financial interests align them with Milton and the First National Bank of Wellston.
+. The nature of the interest claimed by the First National Bank of Wellston is not entirely clear from the record. Chase does not expressly discuss that interest in its amended complaint, and the bank did not answer the complaint to set out its own interest. Consequently, we direct most of our analysis for the remainder of the opinion to the interests of Milton and Chase, which are apparent from the record.
+. Oddly enough, although the consolidation order was filed on April 7, 2008, the June 26, 2008 entry that granted relief from judgment expressly stated that "[t]hese two cases have not been consolidated.” No explanation is given for this discrepancy.
+. Even if there was a finding of "no just reason for delay/' appellants argue in their second assignment of error that the trial court erred by not sustaining their Civ.R. 12(B)(6) motions to dismiss. We parenthetically note that those types of rulings are almost never appealable. See generally State Auto. Mut. Ins. Co. v. Titanium Metals, 108 Ohio St.3d 540, 2006-Ohio-1713, 844 N.E.2d 1199, at ¶ 8.
+
+## Concurrence (Kline, Presiding Judge,)
+
+Kline, Presiding Judge,
+concurring.
+{¶ 9} I agree with the majority that we are not presented with a final, appealable order in this case. I write separately, however, as I respectfully disagree that these cases were effectively consolidated in the trial court. The majority opinion refers to an April 7, 2008 order that consolidates both cases. However, this order appears in neither case’s docket, and in any event, the appealed order, which contains two separate case numbers, begins with the trial court declaring that “[tjhese two cases have not been consolidated.” To the extent that an order in April consolidated the cases, this order entered subsequently in June revokes that determination.
+{¶ 10} Therefore, in my view, this court is presented with two different orders involving two separate cases in the trial court. That is, one order denying relief under Civ.R. 12(B)(6), and one order granting relief under Civ.R. 60(B).
+{¶ 11} As the majority notes, the denial of relief under Civ.R. 12(B)(6) is not a final, appealable order. State Auto. Mut. Ins. Co. v. Titanium Metals Corp., 108 Ohio St.3d 540, 2006-Ohio-1713, 844 N.E.2d 1199, ¶ 8. Therefore, this court is without jurisdiction to consider the denial of a motion to dismiss under Civ.R. 12(B)(6).
+{¶ 12} The remaining order granted relief under Civ.R. 60(B). Ordinarily, when a trial court grants relief under Civ.R. 60(B), the relief constitutes a final, appealable order. R.C. 2505.02(B)(3). However, where the order vacates a judgment, which itself is not a final judgment, the order is not a final, appealable order. Jarrett v. Dayton Osteopathic Hosp., Inc. (1985), 20 Ohio St.3d 77, 20 OBR 407, 486 N.E.2d 99, syllabus. Accord, Fifth Third Bank v. Rose, Gallia App. Nos. 07CA8 and 07CA9, 2008-Ohio-3919, 2008 WL 2955586, ¶ 12 (“Civ. R.60(B) is not the proper procedural device a party should employ when seeking relief from a non-final order”).
+{¶ 13} The default judgment entered earlier in the Civ.R. 60(B) case only resolved MBC’s claims vis-a-vis Chase. There remained other parties and other claims in the case. Under Civ.R. 54(B), a court can issue an order that adjudicates “fewer than all the claims or rights and liabilities of fewer than all the parties” but this order “shall not terminate the action as to any of the claims or parties * * * before the entry of judgment adjudicating all the claims and the rights and liabilities of all the parties.” In order for this order to be a final, appealable order, there must be a subsequent entry of judgment adjudicating all the claims and the rights and liabilities of all the parties. Here, after the entry of default judgment, MBC filed a notice of dismissal, which under Civ.R. 41(A)(1)(a) operated to dismiss the “matter” without prejudice. Civ.R. 41(A)(1) (“Unless otherwise stated in the notice of dismissal or stipulation, the dismissal is without prejudice”). A voluntary dismissal under Civ.R. 41(A)(1)(a) is not an adjudication on the merits. Hensley v. Henry (1980), 61 Ohio St.2d 277, 15 O.O.3d 283, 400 N.E.2d 1352, syllabus. And, therefore, under Civ.R. 54(B), this voluntary dismissal does not act as the “entry of judgment” necessary to make the previous entry of default judgment a final, appealable order.
+{¶ 14} Therefore, the default judgment entered never ripened into a final, appealable order because MBC voluntarily dismissed the matter without prejudice. And any order reconsidering that default judgment could not itself be a final, appealable order.
+{¶ 15} Consequently, this court is without jurisdiction in this matter, as neither order appealed is a final, appealable order.
+{¶ 16} Accordingly, I concur in judgment only.
