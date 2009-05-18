@@ -1,0 +1,41 @@
+---
+court: "Ohio Court of Appeals"
+docket: "08CA16 and 08CA25"
+decided: "2009-05-18"
+citations: ["182 Ohio App. 3d 691"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Abele, J., concurs.", "Harsha, J., concurs in judgment only."]
+parties: ["SINCLAIR, Appellant, v. SINCLAIR, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/182/cases/0691-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3857154
+cites_cases: ["121 Ohio St.3d 202", "150 Ohio App.3d 287", "180 Ohio App.3d 260", "2002 WL 185182", "2002-Ohio-6455", "2006 WL 3000427", "2007 WL 1041427", "2007-Ohio-1647", "2008 WL 2582641", "2008-Ohio-3258", "2008-Ohio-6718", "2009-Ohio-3106", "2009-Ohio-593", "450 N.E.2d 1140", "454 N.E.2d 1330", "5 OBR 481", "5 Ohio St.3d 217", "53 Ohio St.3d 161", "559 N.E.2d 1301", "7 OBR 201", "7 Ohio App.3d 157", "780 N.E.2d 1032", "903 N.E.2d 284", "905 N.E.2d 217"]
+---
+
+# Sinclair v. Sinclair
+
+## Majority (McFarland, Judge.)
+
+McFarland, Judge.
+{¶ 1} Petitioner-appellant, Tracy Sinclair, appeals the decision of the Athens County Common Pleas Court. Appellant contends that it was error for the trial court to issue a one-year civil protection order against respondent-appellee, Charles Sinclair, instead of a five-year protection order, as she requested. Because we find the trial court improperly limited the duration of the civil protection order (“CPO”) because a divorce proceeding automatically alleviates the need for a CPO, we find error. Additionally, we find the trial court impermissibly relied upon evidence outside the record in making its decision, and we reverse the decision and remand the matter for proceedings consistent with this opinion.
+I. Facts
+{¶ 2} In January 2008, appellant and her husband, appellee, had an argument at a convenience store. The argument escalated into a physical altercation, and appellant called 911. As a result of her call, police arrived at the scene and arrested appellee. Five days later, appellant filed a petition for a civil protection order under R.C. 3113.31 and the trial court immediately granted an ex parte CPO.
+{¶ 3} Approximately two weeks later, the magistrate of the Athens County Common Pleas Court held a full hearing on the issue. Both parties were represented by counsel at the hearing. During the hearing, appellant testified that appellee had recently committed various acts of domestic violence, including causing her physical injury, intimidating her with a handgun and threats, and having nonconsensual sex with her. Appellee testified only concerning the use and possession of the couple’s automobiles. After the hearing, the magistrate issued a decision recommending a six-month CPO. The magistrate’s fourth finding of fact states: “As Petitioner has vacated the marital residence, and the parties intend to terminate their marriage, there will be little future contact and no need to continue a civil protection order beyond the time of the divorce proceedings.”
+{¶ 4} Partly based upon her belief that the six-month CPO was inadequate, appellant filed an objection to the magistrate’s decision. Appellant asked that the trial court issue a full five-year CPO, as permitted by statute, instead of the six-month CPO recommended by the magistrate. After considering appellant’s objections, the trial court declined to issue a five-year CPO, but lengthened the duration of the recommended CPO from six months to one year. The trial court’s entry states:
+{¶ 5} “The Court in general agrees with the Magistrate’s finding there is no need to continue a civil protection order beyond a divorce proceeding, because to do so is to assume the failure of the divorce proceeding. But an examination of the divorce file does not reveal that Plaintiff sought a temporary order that would supplant the civil protection order, and, therefore, the Court * * * will issue the civil protection order for one year rather than six months, to allow more time for the divorce proceeding to end and the parties to make appropriate plans.”
+{¶ 6} Subsequent to the trial court’s judgment entry and filing of the one-year civil protection order, appellant timely filed the current appeal.
+II. Assignment of Error
+I. The trial court erred in issuing a one-year civil protection order instead of a full five year order when the respondent committed serious acts of domestic violence.
+III. Standard of Review
+{¶ 7} When the scope of a civil protection order is the basis for appeal, the reviewing court’s standard of review is abuse of discretion. Walters v. Walters, 150 Ohio App.3d 287, 2002-Ohio-6455, 780 N.E.2d 1032, at ¶ 10; Williamson v. Williamson, 180 Ohio App.3d 260, 2008-Ohio-6718, 905 N.E.2d 217, ¶ 37. Abuse of discretion is more than an error of judgment. Rather, it indicates that a ruling was unreasonable, arbitrary, or unconscionable. Blakemore v. Blakemore (1983), 5 Ohio St.3d 217, 219, 5 OBR 481, 450 N.E.2d 1140. Furthermore, when applying the abuse-of-discretion standard, we may not substitute our judgment for that of the trial court. Berk v. Matthews (1990), 53 Ohio St.3d 161, 169, 559 N.E.2d 1301.
+IV. Legal Analysis
+{¶ 8} Appellant argues that under the particular circumstances of her case, it was error for the trial court to issue a one-year instead of a five-year civil protection order. According to appellant, the trial court abused its discretion by mistakenly concluding that a divorce decree stops the threat of domestic violence. Because the trial court decision improperly limited the duration of the CPO based on a policy that divorce proceedings automatically alleviate the need for a CPO, we find error. R.C. 3113.31(G) states that the CPO remedy is “in addition to, and not in lieu of, any other available civil or criminal remedies.”
+{¶ 9} Further, “consideration of evidence outside the record is inappropriate and can constitute reversible error.” In re Estate of Visnich, 11th Dist. No. 2005-T-0128, 2006 WL 3000427, at ¶ 15, citing Boling v. Valecko (Feb. 6, 2002), 9th Dist. No. 20464, 2002 WL 185182. “[I]t is an abuse of discretion for a court to conduct its own investigation and consider its own observations as evidence in deciding a case.” State v. Stanley, 11th Dist. No. 2007-P-0104, 2008-Ohio-3258, 2008 WL 2582641, at ¶ 28. “It is axiomatic that the trier of fact must only consider evidence in the record.” In re K.B., 12th Dist. No. CA2006-03-077, 2007-Ohio-1647, 2007 WL 1041427, at ¶ 24.
+{¶ 10} We do note that Evid.R. 201 permits the taking of judicial notice; however, “a court may not take judicial notice of prior proceedings in the court, but may only take judicial notice of prior proceedings in the immediate case.” State v. Brewer, 121 Ohio St.3d 202, 2009-Ohio-593, 903 N.E.2d 284, ¶ 22, at fn. 3, quoting Diversified Mtge. Investors, Inc. v. Athens Cty. Bd. of Revision (1982), 7 Ohio App.3d 157, 159, 7 OBR 201, 454 N.E.2d 1330.
+{¶ 11} In the case sub judice, the trial court, in its judgment entry, specifically states that it relied, at least in part, on the parties’ divorce case in making its determination: “[A]n examination of the divorce file does not reveal that Plaintiff sought a temporary order that would supplant the civil protection order, and, therefore, the Court * * * will issue the civil protection order for one year rather than six months, to allow more time for the divorce proceeding to end and the parties to make appropriate plans.” Further, the trial court could take judicial notice only from the prior proceedings of the CPO case and not the divorce case.
+{¶ 12} Here, no part of the divorce case was entered into the record in appellant’s separate, civil protection case against appellee. Because that evidence was not presented at the hearing, appellant did not have an opportunity to question, examine, or clarify it. Accordingly, the trial court abused its discretion in limiting the duration of the CPO based on a pending divorce and relying upon such evidence in making its decision. Therefore, we reverse the decision of the trial court and remand the matter for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Abele, J., concurs.
+Harsha, J., concurs in judgment only.
