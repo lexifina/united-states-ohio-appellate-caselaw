@@ -1,0 +1,48 @@
+---
+court: "Ohio Court of Appeals"
+docket: "23060"
+decided: "2009-06-05"
+citations: ["182 Ohio App. 3d 495"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Donovan, P.J., and Wolff, J., concur.", "William H. Wolff Jr., J., retired, of the Second District Court of Appeals, sitting by assignment."]
+parties: ["BOOMERSHINE et al., Appellants, v. LIFETIME CAPITAL, INC., et al., Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/182/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3855707
+cites_cases: ["107 Ohio App.3d 432", "124 Ohio App.3d 153", "2001 WL 1782784", "2005 WL 22944", "2005-Ohio-20", "2008 WL 5050417", "2008-Ohio-6170", "2009-Ohio-2736", "669 N.E.2d 17", "691 N.E.2d 288", "705 N.E.2d 734", "81 Ohio St.3d 342"]
+---
+
+# Boomershine v. Lifetime Capital, Inc.
+
+## Majority (Brogan, Judge.)
+
+Brogan, Judge.
+{¶ 1} Appellants, Larry and Joyce Boomershine, appeal the trial court’s decision to award appellee American Viatical Services (“AVS”) costs under Rule 54(D) of $1,845.93 for photocopying expenses and expenses to obtain transcripts of a deposition cited in its successful motion for summary judgment. The court awarded these costs 16 months after AVS filed a bill of costs with the clerk of courts and after providing a copy of it to the Boomershines’ counsel.
+I
+{¶ 2} The Boomershines filed a declaratory-judgment action in the Montgomery County Court of Common Pleas against, among others, AVS. AVS filed a motion for summary judgment, and it attached the transcripts of five depositions, each of which was cited as evidence. The trial court granted the motion and ordered the Boomershines to pay AVS’s costs. On May 25, 2007, AVS filed with the court, and served on the Boomershines, a list of expenses in a document titled “Bill of Costs” and addressed “TO THE CLERK:”
+Photocopies/Bates Labeling: $ 84.77
+Deposition Transcripts used in supporting the Motion for Summary Judgment:
+Larry and Joyce Boomershine: $1,192.50
+G.E. Fadal: $ 199.20
+Janet Wagner: $ 118.30
+Timothy Martin: $ 251.16
+The transcript expenses totaled $1,761.16. AVS, therefore, sought to recover a total of $1,845.93. Not until October 3, 2008, did the trial court award AVS these expenses as costs, saying, “AVS, as the prevailing party in this action, has submitted an itemized bill of costs to be taxed against Plaintiffs. The Court finds this itemized bill of costs to be well-taken.” The Boomershines appealed.
+II
+{¶ 3} They now assign two errors for our review:
+{¶ 4} “The trial court erred to the prejudice of the appellants when it awarded deposition and copying expenses as costs absent a motion for such costs.”
+{¶ 5} “The trial court erred to the prejudice of appellants by awarding deposition and copying expenses as costs when there is no statutory basis for such an award.”
+{¶ 6} The Boomershines make three primary arguments, each of which raises a question of law. First, a party that seeks to recover costs under Rule 54(D) must file a motion requesting them. Second, a trial court may not treat a bill of costs as a motion. Finally, they argue that neither photocopying expenses nor expenses incurred to obtain nonvideotaped-deposition transcripts may be awarded as costs. AVS concedes that the costs award erroneously includes photocopying expenses, so it agrees that it is not entitled to $84.77.
+{¶ 7} Civ.R. 54(D) provides that “except when express provision therefor is made either in a statute or in these rules, costs shall be allowed to the prevailing party unless the court otherwise directs.” The comments to Civ.R. 54(D) provide in part that the clerk aids in computing costs from his records. Then, if deposition costs are recoverable as costs pursuant to R.C. 2301.21, the clerk need only receive a billing from the prevailing party to compute costs. We agree with the appellee that the civil rules do not specifically require that a motion be filed to recover costs. The bill of costs submitted by appellee should have alerted counsel for appellants that appellee was seeking to recover these costs. The better practice, however, would have been for appellees to request the trial court to tax the costs of the deposition transcript and the photocopying by motion. It is also arguable that the civil rules require that the party seeking to recover costs after final judgment do so by motion. Civ.R. 7(B)(1) provides that an application for an order shall be by motion, which, unless made during a hearing or trial, shall be made in writing.
+{¶ 8} We believe the trial court could award the costs awarded in the absence of a formal motion. The first assignment of error is overruled.
+{¶ 9} The question raised by the second assignment of error is whether expenses incurred to obtain a transcript of a nonvideotaped deposition may be awarded as costs under Civ.R. 54(D). The appellee argues that the Boomer-shines have waived this argument by not responding to their “Bill of Costs.” Because it is at least arguable that the appellee was required to seek the recovery of their costs by motion, we will not consider the Boomershines’ second assignment of error waived for appellate review. The Boomershines claim that Williamson v. Ameritech Corp. (1998), 81 Ohio St.3d 342, 691 N.E.2d 288, says that there is no statutory authority for an award of deposition expenses. Indeed, it does, for according to the syllabus, “R.C. 2319.27 does not provide a statutory basis for taxing the services of a court reporter at a deposition as costs under Civ.R. 54(D).” Here, though, the question is whether R.C. 2303.21 provides a statutory basis to recover expenses incurred to obtain a transcript of a deposition. Thus, Williamson is inapposite. See Brodess v. Bagent, Franklin App. No. 04AP-623, 2005-Ohio-20, 2005 WL 22944, at ¶ 14 (“The court in Williamson does not address any other statutes other than R.C. 2319.27, and the syllabus does not specifically or implicitly prohibit expenses for producing the transcript of a deposition from being awarded as costs based upon other statutory authority”).
+{¶ 10} R.C. 2303.21 provides authority to award transcript costs. It says, “When it is necessary in an appeal, or other civil action to procure a transcript of a judgment or proceeding, or exemplification of a record, as evidence in such action or for any other purpose, the expense of procuring such transcript or exemplification shall be taxed in the bill of costs and recovered as in other cases.” We would conclude that the court’s transcript-expenses award finds authorization in this statute.
+{¶ 11} First, Montgomery County Local Rule 2.09(IV) requires that a deposition transcript be filed when needed “for consideration of a motion in the proceeding.” Thus, the expenses AVS incurred to obtain transcripts were “necessary.” See Jackson v. Sunforest OB-GYN Assoc. Inc., Lucas App. No. L-08-1133, 2008-Ohio-6170, 2008 WL 5050417, at ¶ 8 (stating that because a local rule required it, “the cost of the deposition [transcript] can be awarded as ‘costs’ under Civ.R. 54(D) because it was ‘necessary’ to the trial”).
+{¶ 12} Second, in Raab v. Wenrich (Feb. 22, 2001), Montgomery App. No. 19066, 2001 WL 1782784, we found that under R.C. 2303.21, a deposition is a proceeding. See Brodess, 2005-Ohio-20, 2005 WL 22944, at ¶ 13 (citing Raab for this proposition). The Boomershines concede that Raab provides some authority for awarding transcript expenses, but they argue that this is true only of videotaped depositions. We disagree. Raab implicitly said that a deposition is a proceeding. See Jackson at ¶ 8 (citing Raab and finding that expenses for a nonvideotaped-deposition transcript were costs under R.C. 2303.21).
+{¶ 13} Finally, the Boomershines claim that expenses may be recovered only when a deposition is used at trial. But the cases they cite, which distinguish between a deposition used at trial and one not used at trial, are inapposite here, because in each of those cases, there was a trial, unlike the situation here. Our sister court, in Haller v. Borror (1995), 107 Ohio App.3d 432, 669 N.E.2d 17, held that costs may be taxed under Rule 54(D) in actions decided on summary judgment. The court reasoned, “[E]vidence for the purposes of summary judgment includes all those items properly submitted to the court. Civ.R. 56(C) uses the word ‘evidence,’ and it is the nature of summary judgment that the items listed in Civ.R. 56(C) — which include ‘depositions’ and ‘transcripts of evidence’— are analogous to evidence admitted at a trial.” Id. at 439, 669 N.E.2d 17. We agree. Also, the Fourth District Court of Appeals held that a trial court can, in its discretion, tax deposition expenses as court costs. The court held that the citation of a deposition in support of a motion for summary judgment constituted “use,” and the trial court did not abuse its discretion in finding the employer’s requested deposition costs in an employment-discrimination action reasonable pursuant to R.C. 2319.27 and Civ.R. 54(D). Keaton v. Pike Community Hosp. (1997), 124 Ohio App.3d 153, 705 N.E.2d 734. We would find no error in this award by the trial court.
+Ill
+{¶ 14} The trial court awarded AVS costs in the amount of $1,845.93. AVS laudably concedes that it is not entitled to photocopying expenses, so we reduce the award by $84.77 to $1,761.16. The trial court’s judgment is affirmed as modified.
+Judgment accordingly.
+Donovan, P.J., and Wolff, J., concur.
+William H. Wolff Jr., J., retired, of the Second District Court of Appeals, sitting by assignment.
