@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2008 CA 27"
+decided: "2009-08-21"
+citations: ["188 Ohio App. 3d 390"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Grady and Froelich, JJ., concur."]
+parties: ["In re W.A.S."]
+source_url: "https://static.case.law/ohio-app-3d/188/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6949075
+cites_cases: ["2008 WL 3165928", "2008-Ohio-4006", "2009 WL 1914616", "2009-Ohio-3303", "2009-Ohio-4331"]
+---
+
+# In re W.A.S.
+
+## Majority (Donovan, Presiding Judge.)
+
+Donovan, Presiding Judge.
+{¶ 1} Plaintiff-appellant, the state of Ohio, appeals a decision of the Champaign County Juvenile Court that held that the Ohio Attorney General’s notice to W.A.S. reclassifying him as a Tier III sex offender was a nullity, and he was, therefore, not required to comply with the notice. The juvenile court’s judgment and order were filed on September 8, 2008. The state filed its notice of appeal with this court on October 6, 2008.
+I
+{¶ 2} The incident that forms the basis for the instant appeal occurred on January 28, 2008, in Champaign County, Illinois, when W.A.S. sexually abused his stepmother’s niece, H.S., who was nine years old at the time of the offense. Delinquency proceedings were commenced against W.A.S., who admitted to criminal sex abuse on March 20, 2008.
+{¶ 3} An Illinois court subsequently sentenced W.A.S. to probation for 18 months, which required him to register as a sex offender for ten years. W.A.S. was further ordered to have no contact with H.S. and was sent to reside with his paternal grandparents in Champaign County, Ohio.
+{¶ 4} Upon arriving in Ohio, W.A.S. registered as a sex offender with the Champaign County Sheriff, who sent W.A.S.’s registration materials to the office of the attorney general. After receiving the materials, the attorney general sent W.A.S. a notice informing him that he had been reclassified as a Tier III juvenile sex offender, which required him to register with the local sheriffs office every 90 days for life.
+{¶ 5} On June 24, 2008, W.A.S. filed a petition "with the Champaign County Juvenile Court in which he objected to his reclassification as a Tier III sex offender. The juvenile court ultimately held that the attorney general did not have the authority to reclassify W.A.S. and found the notice to be a nullity that did not require W.A.S.’s compliance. The court additionally held that the manner in which W.A.S. chose to challenge the attorney general’s notice of reclassification, by petition rather than with a declaratory judgment action, was proper.
+{¶ 6} It is from this judgment that the state now appeals.
+II
+{¶ 7} The state’s first assignment of error is as follows:
+{¶ 8} “The juvenile court erred when it found that [W.A.S.] could contest the attorney general’s actions via a petition to contest re-classification.”
+{¶ 9} In its first assignment, the state contends that the juvenile court erred when it found that W.A.S. could challenge his reclassification by filing a petition against the attorney general. The state argues that the only means of contesting the reclassification would have been for W.A.S. to file a request for declaratory judgment.
+{¶ 10} In support of its argument, the state cites our recent decision in State v. Weist, Champaign App. No. 2007-CA-16, 2008-Ohio-4006, 2008 WL 3165928, in which we held that the defendant could contest an order from the Department of Rehabilitation and Correction (“DRC”) to register as a sexually oriented offender by filing a declaratory judgment action against the DRC.
+{¶ 11} We agree with the state that declaratory judgment was a valid means by which W.A.S. could have contested the attorney general’s reclassification. W.A.S. concedes this point as well. Declaratory judgment, however, was not the only means available to W.A.S. to challenge the attorney general’s authority under Ohio’s Sexual Offender Registration and Notification Law (S.B. 10) (“SORN”). R.C. 2950.032(E) states:
+{¶ 12} “To request the hearing, an offender or delinquent child who is provided a notice under division (A)(2) of this section shall file a petition with the appropriate court not later than the date that is sixty days after the offender or delinquent child is provided the notice under that division, and an offender or delinquent child who is provided a notice under division (B) of this section shall file a petition with the appropriate court not later than the date that is sixty days after the offender or delinquent child is provided the notice under that division.” (Emphasis added.)
+{¶ 13} It should also be noted that the very notice sent to W.A.S. by the attorney general contains the following provision regarding the right to contest reclassification:
+{¶ 14} “Under Ohio Revised Code § 2950.032(E), you have the right to challenge the new classification and registration requirements. You have sixty (60) days after receipt of this letter to file a petition in the Court of Common Pleas in the county where you reside in Ohio, or if you reside outside the state, the county in which you work or attend school.” (Emphasis added.)
+{¶ 15} It is clear from R.C. 2950.032(E), as well as the attorney general’s own interpretation of that section of the statute, that it was appropriate for W.A.S. to file a petition with the court of common pleas, juvenile division, in order to contest his reclassification as a Tier III sex offender. The state cites no authority, and we can find none, to support its assertion that an individual is limited to a declaratory-judgment action in order to contest a reclassification of sex-offender status or otherwise challenge the authority of the attorney general to act under S.B. 10. Thus, the juvenile court did not err when it found that W.A.S. could challenge his reclassification by filing a petition.
+{¶ 16} The state’s first assignment of error is overruled.
+Ill
+{¶ 17} The state’s second and final assignment of error is as follows:
+{¶ 18} “The juvenile court erred when it found that the attorney general did not have the authority to inform [WAS.] of his registration obligations under the SORN.”
+{¶ 19} In its final assignment, the state argues that the juvenile court erred when it held that R.C. 2950.031 and 2950.032 of S.B. 10 did not grant the attorney general the authority to reclassify W.A.S. as a Tier III sex offender.
+{¶ 20} W.A.S. did not dispute that he pleaded guilty and was subsequently convicted of a criminal sex offense involving a child under the age of 13. W.A.S. also acknowledged that he was required by the terms of his probation to register as a sex offender for ten years. Most importantly, W.A.S. was aware that upon relocating to Champaign County, Ohio, he would be required to register as a sex offender with the county sheriff in Ohio. WAS.’s only contention was that the SORN did not provide the attorney general with the authority to reclassify him as a Tier III sexual offender subject to lifetime reporting requirements.
+{¶ 21} Initially, we note that the express language of R.C. 2950.031 and 2950.032 allow the attorney general to determine the tier classification of both adult and juvenile sexual offenders. The statute, however, is subject to certain limitations that clearly restrict the attorney general’s authority to reclassify offenders. R.C. 2950.031 and 2950.032 both begin as follows:
+{¶ 22} “(A)(1) At any time on or after July 1, 2007, and not later than December 1, 2007, the attorney general shall * * (Emphasis added.)
+{¶ 23} Both sections go on to discuss the specific classifications that will be implemented after January 1, 2008. No language in either statute, however, specifically provides the attorney general with the authority to reclassify juvenile offenders after December 1, 2007. WAS.’s offense occurred on January 24, 2008, and he was adjudicated delinquent by an Illinois court on March 20, 2008. The underlying offense and the conviction occurred outside of the time limits mentioned in either section of the statute. As a result, the attorney general was acting without statutory authority when he attempted to reclassify W.A.S. as a Tier III sex offender.
+{¶ 24} The state, however, argues that R.C. 2950.13(A)(1) vests the attorney general with the authority to inform out-of-state sexual offenders, such as W.A.S., of their updated registration obligations as defined by S.B. 10. The state relies upon R.C. 2950.13(A)(1), which requires the attorney general to establish and maintain a state registry of sex offenders and child-victim offenders that is housed at the bureau of criminal identification and investigation. The registry contains all information submitted regarding adult and juvenile sex offenders, as well as those individuals who committed child-victim offenses. The statute specifically applies to out-of-state juvenile offender registrants, such as W.A.S., who registered as a sex offender when he relocated to Champaign County, Ohio.
+{¶ 25} R.C. 2950.13(A)(1)(c) states that part of the information to be maintained in the registry is a statement as to whether the offender is a Tier I sex offender/child victim offender, Tier II sex offender/child victim offender, or a Tier III sex offender/child victim offender. The state contends that since S.B. 10 is applicable to out-of-state juvenile offenders who relocate to Ohio, some state entity must inform them of their tier designation. The state contends that since the attorney general is tasked with establishing and maintaining the offender registry by R.C. 2950.13(A)(1), his office should be the state entity to determine the appropriate tier designation based on the level of the offense committed by the out-of-state juvenile offender.
+{¶ 26} Simply put, there is no support for the state’s position to be found in S.B. 10 or in the case law cited by the state. R.C. 2950.13 tasks the attorney general’s office with establishing and maintaining a registry of adult and juvenile sex offenders. There is no language in that section of the statute that expressly or impliedly provides the attorney general with the authority to reclassify an out-of-state juvenile offender in regards to the tier system created by S.B. 10. Thus, the juvenile court did not err when it held that S.B. 10 did not grant the attorney general the authority to reclassify W.A.S. as a Tier III sexual offender.
+IV
+{¶ 27} All of the state’s assignments of error having been overruled, the judgment of the Champaign County Juvenile Court is affirmed.
+Judgment affirmed.
+Grady and Froelich, JJ., concur.
+. We recently held in In re C.A., Montgomery App. No. 23022, 2009-Ohio-3303, 2009 WL 1914616, that the determination of the tier classifications implicitly includes a discretionary determination by the juvenile court as to the tier classification for a juvenile sex offender and does not attach by operation of law based solely on the offense.
