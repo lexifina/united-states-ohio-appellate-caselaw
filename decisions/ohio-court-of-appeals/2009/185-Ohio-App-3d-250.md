@@ -1,0 +1,55 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2009 CA 00013"
+decided: "2009-12-10"
+citations: ["185 Ohio App. 3d 250"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gwin, J., concurs.", "Farmer, P.J., concurs in judgment only."]
+parties: ["ABAN, Appellant, v. SCHAEFFER, Appellee."]
+source_url: "https://static.case.law/ohio-app-3d/185/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3863849
+cites_cases: ["2003 WL 22681324", "2003-Ohio-6063", "2005 WL 681305", "2005-Ohio-1388", "2007 WL 1721347", "2007 WL 914863", "2007-Ohio-1435", "2007-Ohio-2972", "2009-Ohio-6621", "602 N.E.2d 735", "76 Ohio App.3d 578"]
+---
+
+# Aban v. Schaeffer
+
+## Majority (Hoffman, Judge.)
+
+Hoffman, Judge.
+{¶ 1} Plaintiff-appellant, Ricardo Aban, appeals the February 11, 2009 journal entry entered by the Fairfield County Municipal Court, overruling his objections to the magistrate’s findings of fact and conclusions of law, and approving the magistrate’s report. Defendant-appellee is Stephen Schaeffer.
+STATEMENT OF THE CASE AND FACTS
+{¶ 2} On September 10, 2008, appellant filed a complaint in the Fairfield County Municipal Court, Small Claims Division, alleging that appellee owed him $2,611 relative to rental property located at 3174 Bellerive Drive, Pickerington, Ohio. On October 15, 2008, appellee filed a counterclaim against appellant, alleging that appellant owed him $2,226.54, which amount included a fee for early termination of the lease, unpaid rent, attorney fees, and postage relative to the aforementioned rental property. The matter came on for hearing before the magistrate on November 12, 2008. Both parties appeared pro se.
+{¶ 3} Based upon the evidence presented, the magistrate found as follows. On or about May 20, 2007, the parties entered into a lease agreement whereby appellant would lease from appellee the Bellerive Drive property for a period of one year, commencing on June 1, 2007, and terminating on May 31, 2008. The monthly rent was $1,420. Appellant paid appellee a security deposit in the amount of $2,360, which included the prepayment of the last month’s rent.
+{¶ 4} On or about September 17, 2007, appellant notified appellee in writing that he intended to vacate the Bellerive Drive property on December 31, 2007, as he was moving to Pittsburg, Pennsylvania, for a new employment opportunity. Appellant recognized that vacating the residence prior to May 31, 2008, would constitute a breach of the lease agreement; therefore, on October 26, 2007, he sent appellee a written proposal of settlement. Appellee accepted appellant’s written proposal. The total settlement amount was $3,800. The magistrate found that as of the date of the hearing, appellant owed appellee $1,440. The magistrate found that the claims raised in appellant’s complaint relating to the security deposit, advanced rental payments, and such were addressed in the written proposal upon which appellant and appellee had come to an agreement. The magistrate concluded that appellant’s complaint should be dismissed based upon the settlement proposal agreed to by the parties.
+{¶ 5} With regard to appellee’s counterclaim, the magistrate found that appellee was entitled to $1,440, which the magistrate found to be the balance due on the written proposal, plus $274.54 as unpaid rent, representing five days’ rent until appellant vacated the property; $500 in attorney fees; and $12 in postage, for a total of $2,226.54. The magistrate filed his decision on January 15, 2009.
+{¶ 6} On January 29, 2009, appellant filed preliminary objections to the magistrate’s decision. Therein, appellant requested permission to file supplemental objections upon the completion of the transcript of the hearing. By journal entry filed February 11, 2009, the trial court overruled appellant’s objections to the magistrate’s findings of fact and conclusions of law. The trial court found, “The Magistrate hears the evidence and decides the credibility of the witnesses. The Court does not substitute its view for the determination of the Magistrate on the credibility of the witnesses.” The trial court approved the report of the magistrate.
+{¶ 7} It is from this judgment entry that appellant appeals, raising the following assignments of error:
+{¶ 8} “I. The trial court erred when it ruled that it was not proper for the trial court to substitute its view for the determination of the magistrate on credibility of witnesses.
+{¶ 9} “II. The trial court erred when it ruled that the magistrate had made no errors of law in the case when the magistrate had awarded attorneys fees to appellee without any legal authority to do so.
+{¶ 10} “HI. The trial court erred when it failed to grant an extension of time for the appellant to supplement his preliminary objections with supplemental objections possible only when the court reporter had transcribed the hearing.
+{¶ 11} “IV. The trial court erred when it ruled that the magistrate had made no errors of law in the case when the magistrate failed to enumerate the evidence with exhibit numbers so that it was clear what was being offered, what was referred to, and when it was admitted.
+{¶ 12} “V. The trial court erred when it ruled that the magistrate had made no errors of law in the case when the magistrate had clearly accepted evidence from and had meaningful conversations with the appellee after the case was over and the appellant had left the courtroom.
+{¶ 13} “VI. The trial court erred when it ruled that the magistrate had made no errors of law in the case when the magistrate found that there was an enforceable settlement agreement between the parties.
+{¶ 14} “VII. The trial court erred when it ruled that the magistrate had made no errors of law in the case when the magistrate failed to award the appellant his security deposit back.
+{¶ 15} “VIII. The trial court erred when it ruled that the magistrate had made no errors of law case when the magistrate found that appellee had been damaged in the amount of $1,714.54 in unpaid rent when the transcript established that there was no unpaid rent.”
+Assignment of Error No. Ill
+{¶ 16} Because we find appellant’s third assignment of error to be dispositive of this matter, we shall address that assignment of error first. Appellant asserts that the trial court erred in failing to grant an extension of time in which to supplement his preliminary objections once he had secured the transcript of the hearing.
+{¶ 17} Civ.R. 53(D)(3)(b) addresses objections to magistrate’s decisions and provides:
+{¶ 18} “(i) Time for filing. A party may file written objections to a magistrate’s decision within fourteen days of the filing of the decision, whether or not the court has adopted the decision during that fourteen-day period as permitted by Civ.R. 53(D)(4)(e)(i). If any party timely files objections, any other party may also file objections not later than ten days after the first objections are filed. If a party makes a timely request for findings of fact and conclusions of law, the time for filing objections begins to run when the magistrate files a decision that includes findings of fact and conclusions of law.
+{¶ 19} “(ii) Specificity of objection. An objection to a magistrate’s decision shall be specific and state with particularity all grounds for objection.
+{¶ 20} “(Hi) Objection to magistrate’s factual finding; transcript or affidavit. An objection to a factual finding, whether or not specifically designated as a finding of fact under Civ.R. 53(D)(3)(a)(ii), shall be supported by a transcript of all the evidence submitted to the magistrate relevant to that finding or an affidavit of that evidence if a transcript is not available. With leave of court, alternative technology or manner of reviewing the relevant evidence may be considered. The objecting party shall file the transcript or affidavit with the court within thirty days after filing objections unless the court extends the time in writing for preparation of the transcript or other good cause. If a party files timely objections prior to the date on which a transcript is prepared, the party may seek leave of court to supplement the objections.”
+{¶ 21} Pursuant to Civ.R. 53, the trial court must afford an objecting party a reasonable time in which to secure the transcript. In re Miller, 5th Dist. No. 2006-CA-0059, 2007-Ohio-1435, 2007 WL 914863, ¶ 15, citing Helmke v. Helmke, Ottawa App. No. OT-04-029, 2005-Ohio-1388, 2005 WL 681305, ¶ 17-18. We find that appellant filed preliminary objections to the magistrate’s findings of facts and conclusions of law within the prescribed 14-day period. Therein, appellant notified the trial court of his compliance with Civ.R. 53(D)(3)(b)(iii) and requested permission to supplement his objections once he secured the transcript. The trial court did not afford appellant 30 days after filing his timely objections to obtain the transcript. We find that failure to be reversible error.
+{¶ 22} Accordingly, we sustain appellant’s third assignment of error.
+Assignment of Error No. I
+{¶ 23} Although not necessary to our disposition of this appeal, we choose to address the merits of appellant’s first assignment of error. Appellant argues that the trial court erred in finding it was not proper for a trial court to substitute its view for the determination of a magistrate on the issue of the credibility of witnesses. We agree.
+{¶ 24} Pursuant to Civ.R. 53(D)(4)(d), a trial court is required to “undertake an independent review” to determine whether the magistrate “properly determined the factual issues and appropriately applied the law.” Civ.R. 53 obligates a trial court to make its own determinations, without deference to the magistrate, through a de novo review. Crosby v. McWilliam, Montgomery App. No. 19856, 2003-Ohio-6063, 2003 WL 22681324, ¶ 34-35; Leibold v. Middens, Montgomery App. No. 21487, 2007-Ohio-2972, 2007 WL 1721347, ¶ 15 (“In accordance with Civ.R. 53, the trial court must conduct an independent review of the facts and conclusions contained in the magistrate’s report and enter its own judgment”). Contrary to the trial court’s belief, it need not defer to a magistrate’s determinations regarding witness credibility. Coronet Ins. Co. v. Richards (1991), 76 Ohio App.3d 578, 585, 602 N.E.2d 735. Because the trial court failed to undertake an independent review of the record, we sustain appellant’s first assignment of error.
+Assignment of Error Nos. II, IV, V, VI, VII, and VIII
+{¶ 25} In light of our disposition of appellant’s first and third assignments of error, we find appellant’s remaining assignments of error to be premature.
+{¶ 26} For the foregoing reasons, the judgment of the Fairfield County Municipal Court is reversed, and the matter is remanded to the trial court for further proceedings in accord with law and consistent with this opinion.
+Judgment reversed and cause remanded.
+Gwin, J., concurs.
+Farmer, P.J., concurs in judgment only.
+. Appellee has not filed a brief in this matter.
