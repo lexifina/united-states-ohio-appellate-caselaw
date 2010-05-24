@@ -1,0 +1,67 @@
+---
+court: "Ohio Court of Appeals"
+docket: "4-09-33"
+decided: "2010-05-24"
+citations: ["188 Ohio App. 3d 318"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Willamowski, P.J., and Rogers, J., concur."]
+parties: ["In re G.M."]
+source_url: "https://static.case.law/ohio-app-3d/188/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6948823
+cites_cases: ["119 Ohio St.3d 466", "181 Ohio App.3d 132", "2008-Ohio-4791", "2009-Ohio-543", "2010-Ohio-2295", "895 N.E.2d 166", "908 N.E.2d 462"]
+---
+
+# In re G.M.
+
+## Majority (Shaw, Judge.)
+
+Shaw, Judge.
+{¶ 1} Appellant G.M. appeals the October 2, 2009 judgment entry of the Defiance County Court of Common Pleas, Juvenile Division, classifying him as a tier III juvenile sex-offender registrant, subject to community notification.
+{¶ 2} This matter arises from the September 20, 2005 adjudication of G.M. as a delinquent child for four counts of rape, in violation of R.C. 2907.02(A)(1)(b), each a felony in the first degree if committed by an adult. The juvenile court committed G.M. to the Ohio Department of Youth Services (“DYS”) for three years on each offense, for a total of 12 years. However, the longest possible commitment of a delinquent child to DYS is until the child attains the age of 21. Because G.M. was 16 years old at the time of his adjudication, the court specified that “DYS shall not release this juvenile prior to 21st birthday.” (Emphasis sic.)
+{¶ 3} On June 26, 2009, G.M. filed a motion with the juvenile court requesting judicial release prior to August, 17, 2009 — G.M.’s 21st birthday. The court subsequently denied G.M.’s motion for judicial release and scheduled a hearing on August 17, 2009, to determine G.M.’s classification as a juvenile sex-offender registrant.
+{¶ 4} On August 17, 2009, G.M. turned 21 and was released from the custody of DYS. On August 17 and 18, 2009, the court conducted a juvenile sex-offender classification hearing. During this hearing, G.M.’s counsel objected to the juvenile court’s jurisdiction to proceed with the classification of G.M. after his 21st birthday. The court overruled the objection and continued with the hearing.
+{¶ 5} On August 18, 2009, the juvenile court issued an order classifying G.M. as a tier III juvenile sex-offender registrant, subject to community notification. On October 2, 2009, the court entered its final judgment on the matter. G.M. now appeals, asserting six assignments of error.
+Assignment of Error I
+The Defiance County juvenile court erred when it classified G.M. as a Tier III juvenile sex offender registrant after he turned twenty-one years of age.
+Assignment of Error II
+The trial court abused its discretion when it found that G.M.’s classification as a Tier III juvenile sex offender registrant was offense-based, in violation of R.C. 2950.01(E) through (G).
+Assignment of Error III
+The trial court erred when it ordered G.M. to be subject to community notification.
+Assignment of Error IV
+The trial court erred when it found Senate Bill 10 constitutional as applied to G.M., as the application of Senate Bill 10 to G.M. violates his right to due process as guaranteed by the Fourteenth Amendment to the United States Constitution and Article I, Section 16 of the Ohio Constitution.
+Assignment of Error V
+The retroactive application of Senate Bill 10 to G.M. violates the Ex Post Facto Clause of the United States Constitution and the Retroactivity Clause of Section 28, Article II of the Ohio Constitution.
+Assignment of Error VI
+The juvenile court erred when it applied Senate Bill 10 to G.M., as the law violates his right to equal protection under the law in violation of the Fourteenth Amendment to the United States Constitution; Article 1, Section 2 of the Ohio Constitution.
+The First Assignment of Error
+{¶ 6} In his first assignment of error, G.M. asserts that the juvenile court erred when it issued an order classifying him as a Tier III juvenile sex-offender registrant after he turned 21 years old. Specifically, G.M. argues that once he attained the age of 21, the juvenile court no longer had jurisdiction to classify him.
+{¶ 7} The juvenile court has exclusive original jurisdiction over delinquent minors. This power is derived from Section 1, Article IV of the Ohio Constitution. The juvenile court is established and its jurisdiction is defined by R.C. Chapter 2151. With regard to juvenile sex-offender registration and notification, R.C. 2151.23(A)(15) specifically provides the juvenile court with exclusive original jurisdiction to:
+[CJonduct the hearings, and to make the determinations, adjudications, and orders authorized or required under sections 2152.82 to 2152.86 and Chapter 2950. of the Revised Code regarding a child who has been adjudicated a delinquent child and to refer the duties conferred upon the juvenile court judge under sections 2152.82 to 2152.86 and Chapter 2950. of the Revised Code to magistrates appointed by the juvenile court judge in accordance with Juvenile Rule 40.
+(Emphasis added.)
+{¶ 8} R.C. Chapter 2152 delineates the criminal provisions to be used by juvenile courts in delinquency matters. In delinquency proceedings, R.C. 2152.02(C)(1) defines the term “child” to mean a person who is under 18 years of age, except as otherwise provided in R.C. 2152.02(C)(2) to (7). R.C. 2152.02(C)(6) provides the following exception to the general definition:
+The juvenile court has jurisdiction over a person who is adjudicated a delinquent child or juvenile traffic offender prior to attaining eighteen years of age until the person attains twenty-one years of age, and, for purposes of that jurisdiction related to that adjudication, except as otherwise provided in this division, a person who is so adjudicated a delinquent child or juvenile traffic offender shall be deemed a “child” until the person attains twenty-one years of age.
+(Emphasis added.)
+{¶ 9} According to the Supreme Court of Ohio, the second clause in R.C. 2152.02(C)(6) means that “when a juvenile court is exercising jurisdiction over a person adjudicated a delinquent child pursuant to the matter for which the person was adjudicated delinquent, the person adjudicated delinquent shall be treated as a child until he reaches the age of 21.” (Emphasis added.) In re Andrew, 119 Ohio St.3d 466, 2008-Ohio-4791, 895 N.E.2d 166, ¶ 6.
+{¶ 10} In the present case, the juvenile court adjudicated G.M. as a delinquent child in 2005, when he was 16 years old. According to the jurisdictional statutes above, G.M. was considered a “child” until he reached the age of 21. On August 17, 2009, at 12:01 a.m., G.M. attained the age of 21 and therefore was no longer considered a child within the meaning of R.C. 2152.02(C)(6). See State v. Yarger, 181 Ohio App.3d 132, 2009-Ohio-543, 908 N.E.2d 462, ¶ 22 (stating that “an individual becomes a year older at 12:01 a.m. the day of their birth, rather than at the exact moment of their birth”). On the same day, the juvenile court proceeded with a hearing to determine G.M.’s sex-offender classification. On August 18, 2009 — the day after G.M.’s 21st birthday — the juvenile court issued an order classifying him as a Tier III juvenile sex-offender registrant.
+{¶ 11} Based on the foregoing authority, R.C. 2151.23(A)(15) and 2152.02(C)(6) clearly limit the jurisdiction of the juvenile court to matters regarding a child who has been adjudicated a delinquent child until that child attains the age of 21. Therefore, we must review the relevant statutory provisions governing juvenile sex-offender classification to determine whether that statute grants the juvenile court continuing jurisdiction to classify a delinquent child after the child has attained the age of 21.
+{¶ 12} The juvenile court’s order classifying G.M. as a juvenile sex-offender registrant was issued pursuant to R.C. 2152.83, which provides:
+(A)(1) The court that adjudicates a child a delinquent child shall issue as part of the dispositional order or, if the court commits the child for the delinquent act to the custody of a secure facility, shall issue at the time of the child’s release from the secure facility an order that classifies the child a juvenile offender registrant and specifies that the child has a duty to comply with sections 2950.04, 2950.041, 2950.05, and 2950.06 of the Revised Code.
+(Emphasis added.)
+{¶ 13} Prior to issuing an order classifying a delinquent child as a juvenile sex-offender registrant, the juvenile court must comply R.C. 2152.831(A), which provides:
+If, on or after January 1, 2008, a juvenile court adjudicates a child a delinquent child and classifies the child a juvenile offender registrant pursuant to section 2152.82 or 2152.83 of the Revised Code, before issuing the order that classifies the child a juvenile offender registrant the court shall conduct a hearing to determine whether to classify the child a tier I sex offender/child-victim, offender, a tier II sex offender/child-victim offender, or a tier III sex offender/child-victim offender.
+(Emphasis added.)
+{¶ 14} The statutory provisions above clearly grant the juvenile court the authority to classify a “child” as a juvenile sex-offender registrant. Moreover, the issuance of the classification order must occur at the time of the delinquent child’s release from a secure facility, and the juvenile court must conduct a hearing to determine the classification tier before issuing the classification order.
+{¶ 15} In this case, the juvenile court held the classification hearing upon G.M.’s release from DYS in accordance with the mandates of R.C. 2152.83 and 2152.831(A). However, G.M. argues that at the time of both the hearing and the classification order, he had already attained the age of 21 and thus was no longer a child within the parameters or authority of the foregoing classification statutes.
+{¶ 16} The prosecution argues that G.M. attaining age 21 has no effect on the juvenile court’s jurisdiction over this matter. In support of this position, the prosecution maintains that the statute grants the juvenile court continuing jurisdiction to determine sex-offender classification of a person previously adjudicated a delinquent child because of a sex offense. Specifically, the prosecution directs our attention to the following provision in R.C. 2152.83, the applicable section governing the issuance of G.M.’s classification order.
+(E) An order issued under division (A) or (B) of this section and any determinations included in the order shall remain in effect for the period of time specified in section 2950.07 of the Revised Code, subject to a modification or termination of the order under section 2152.84 of the Revised Code, and section 2152.851 of the Revised Code applies regarding the order and the determinations. The child’s attainment of eighteen or twenty-one years of age does not affect or terminate the order, and the order remains in effect for the period of time described in this division.
+(Emphasis added.)
+{¶ 17} When reviewing the statutory provision above, it is clear that the operative language “the child’s attainment of eighteen or twenty-one years of age does not affect or terminate the order” refers to the classification order issued under R.C. 2152.83(A). However, it is our conclusion that this language speaks to the extension and effect, beyond a child’s 21st birthday, to be given to a classification order that was issued before a child’s 21st birthday. It does not extend the jurisdiction of the juvenile court to issue the classification order after a child has attained age 21.
+{¶ 18} Therefore, the juvenile court did not have jurisdiction to issue the classification order once G.M..attained the age of 21 because, at that time, he was no longer a “child” within the express provisions and scope of the statute. Consequently, the juvenile court was without authority to issue an order classifying G.M. as a Tier III juvenile sex-offender registrant under R.C. 2152.88.
+{¶ 19} We recognize that the legislature may not have anticipated this result. However, as mentioned earlier, we cannot help but note that trial counsel for G.M. brought this issue to the attention of the trial court via a motion for early release, filed in June 2009, some seven weeks prior to G.M.’s 21st birthday. Nevertheless, the motion was summarily denied. Thus, absent a specific statute that extends the jurisdiction of the juvenile court to issue an order classifying a delinquent child as a sex-offender registrant after the child has attained 21, we hold that the provisions in R.C. Chapters 2151 and 2152 specifically limit the jurisdiction of the juvenile court to issue such an order until the child attains age 21 and not beyond. Based on the foregoing, G.M.’s first assignment of error is sustained. Given our determination on his first assignment of error, G.M.’s remaining assignments of error are hereby rendered moot and are accordingly overruled.
+{¶ 20} For all these reasons, the judgment of the Defiance County Court of Common Pleas, Juvenile Division, is reversed.
+Judgment reversed.
+Willamowski, P.J., and Rogers, J., concur.
+. We do not address in this case the issue as to what authority the juvenile court may or may not have after a child’s 21st birthday to issue orders to enforce or otherwise modify a classification order that was entered before the child's 21st birthday.
