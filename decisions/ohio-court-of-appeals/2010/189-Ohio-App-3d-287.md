@@ -1,0 +1,50 @@
+---
+court: "Ohio Court of Appeals"
+docket: "94593"
+decided: "2010-08-26"
+citations: ["189 Ohio App. 3d 287"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Blackmon, J., concurs.", "Stewart, J., dissents."]
+parties: ["In re J.V.; E.V., Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/189/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3870691
+cites_cases: ["104 Ohio St.3d 629", "131 Ohio App.3d 444", "2004-Ohio-7107", "2008 WL 2058676", "2008-Ohio-2368", "2009 WL 342876", "2009 WL 4695358", "2009-Ohio-607", "2009-Ohio-6462", "2010 WL 664144", "2010-Ohio-4017", "2010-Ohio-662", "290 N.E.2d 841", "32 Ohio St.2d 86", "61 O.O.2d 335", "639 N.E.2d 848", "722 N.E.2d 1036", "821 N.E.2d 180", "93 Ohio App.3d 695"]
+---
+
+# In re J.V.
+
+## Majority (Mary Eileen Kilbane, Presiding Judge.)
+
+Mary Eileen Kilbane, Presiding Judge.
+{¶ 1} Appellant, E.V., J.V.’s mother, appeals the trial court’s sua sponte dismissal of her complaint for past child support and expenses filed against the father, J.B. The trial court determined that because the child was now over the age of majority, it lacked subject-matter jurisdiction to award child support to E.V. After a review of the facts and pertinent law, we affirm.
+{¶ 2} The following facts give rise to the instant appeal.
+{¶ 3} On October 15, 2009, E.V., as the sole plaintiff, filed a complaint for past expenses and past child support against J.B., based upon J.B.’s alleged failure to support their 18-year-old child, J.V., born on June 11, 1991. Appellant argued that although J.B. had previously acknowledged that J.V. is his child, J.B. failed to financially contribute to the child’s care.
+{¶ 4} On December 15, 2009, J.B. filed an answer in which he admitted that he had previously acknowledged that J.V. is his child in a 1993 probate matter. J.B. denied the allegations that he had not contributed to J.V.’s care and asserted numerous affirmative defenses, including waiver and laches.
+{¶ 5} On December 21, 2009, the magistrate issued a decision sua sponte dismissing the action for lack of subject-matter jurisdiction, concluding that child support cannot be awarded once a child reaches the age of 18.
+{¶ 6} On January 4, 2010, appellant filed objections to the magistrate’s decision, arguing that the case law cited by the magistrate had since been overruled.
+{¶ 7} On January 8, 2010, the trial court adopted the magistrate’s decision and dismissed appellant’s complaint.
+{¶ 8} Appellant filed the instant appeal, asserting the following assignment of error for our review:
+The trial court erred and abused its discretion in dismissing the mother’s complaint, as the juvenile court retained subject matter jurisdiction.
+{¶ 9} E.V. argues that the trial court had subject-matter jurisdiction to adjudicate her claim and erred in sua sponte dismissing her complaint. After a review of the applicable case law and statutes, we disagree.
+(¶ 10} “ ‘Subject matter jurisdiction is the power conferred on a court to decide a particular matter on its merits and render an enforceable judgment over the action.’ ” Cleveland v. Abrams, 8th Dist. Nos. 92843 and 92844, 2010-Ohio-662, 2010 WL 664144, at ¶ 12, quoting Udelson v. Udelson, 8th Dist. No. 92717, 2009-Ohio-6462, 2009 WL 4695358, ¶ 13. We review a trial court’s dismissal for lack of subject-matter jurisdiction de novo. Id. In conducting a de novo review, this court conducts an independent review of the record and does not defer to the trial court’s decision. State v. Gilbert, 8th Dist. No. 90856, 2009-Ohio-607, 2009 WL 342876, at ¶ 20, citing State v. Perry, 8th Dist. No. 89819, 2008-Ohio-2368, 2008 WL 2058676.
+{¶ 11} In dismissing E.V.’s complaint for lack of subject-matter jurisdiction, the trial court relied on Snider v. Lillie (1997), 131 Ohio App.3d 444, 722 N.E.2d 1036, in which a mother and her 23-year-old daughter brought suit against her alleged father, seeking both to establish paternity pursuant to R.C. 3111.05 and a retroactive child-support award pursuant to R.C. 3111.13. Pursuant to R.C. 3111.05, an action to establish paternity may be brought up to five years after the child reaches the age of majority.
+{¶ 12} In Snider, the court reasoned that establishing paternity and receiving child support are distinct concepts. Therefore, Snider held that while children have an additional five years beyond reaching the age of majority in which to bring paternity actions, child support is designed to meet the current needs of the child, and an action cannot be brought for retroactive child support.
+{¶ 13} Ultimately, several appellate districts were in conflict as to whether courts possessed subject-matter jurisdiction to award retroactive child support to children after they reached the age of majority. The Ohio Supreme Court addressed the issue, overruling Snider, in Carnes v. Kemp, 104 Ohio St.3d 629, 2004-Ohio-7107, 821 N.E.2d 180, and concluded that establishing paternity and seeking child support were interrelated and not separate, distinct concepts as the Snider court reasoned. While Carnes ultimately concluded that a child could bring an action for back child support until the age of 23, Carnes stated that such an action must be filed in conjunction with a parentage action. In the instant case, E.V. simply filed a complaint for back child support without a parentage action, and therefore, the holding in Carnes is inapplicable.
+{¶ 14} Further, in Carnes it was the adult child, not the mother who initiated the action. While Carnes allows a child to file a parentage action until the age of 23, Carnes did not state that a mother could file such an action once the child was over the age of majority. Because E.V.’s action was filed after her child had reached the age of majority, it is the child and not the mother who has any potential claim. Therefore, the dissent’s reliance on Lewis v. Chapin (1994), 93 Ohio App.3d 695, 639 N.E.2d 848, is misplaced, because in Lewis the child was a coplaintiff, whereas in the instant case the mother was the sole party to bring the action.
+{¶ 15} Consequently, E.V.’s sole assignment of error is overruled.
+Judgment affirmed.
+Blackmon, J., concurs.
+Stewart, J., dissents.
+
+## Dissent (Melody J. Stewart, Judge,)
+
+Melody J. Stewart, Judge,
+dissenting.
+{¶ 16} I respectfully dissent from the majority opinion and would find that appellant’s action is a parentage action over which the juvenile court has jurisdiction.
+{¶ 17} In the instant case, paternity was established through a legitimacy filing in probate court pursuant to former R.C. 2105.18. In Lewis v. Chapin (1994), 93 Ohio App.3d 695, 639 N.E.2d 848, this court addressed this method of establishing paternity and its effect on child-support actions. In Lewis, the juvenile court had found that a legitimation order filed in probate court barred a mother’s subsequent parentage action for retroactive support. The juvenile court dismissed the claims for lack of jurisdiction and, in doing so, noted that had the mother not filed an acknowledgment of the parent-child relationship, pursuant to R.C. 2105.18, she could have filed a complaint to determine the parent-child relationship pursuant to Chapter 3111 and been awarded retroactive child support. Id. at 697, 639 N.E.2d 848. On appeal, this court reversed the dismissal for lack of jurisdiction and held that the filing of a legitimation order by a probate court pursuant to R.C. 2105.18 did not preclude the mother from bringing a subsequent “parentage action pursuant to R.C. 3111.01 through 3111.19 for child support arrearages.”
+{¶ 18} In Lewis, we found that the mother’s action for current and retroactive support was a “parentage action,” notwithstanding the fact that “the establishment of parentage, i.e., the father-child relationship, [was] not being sought * * Therefore, I disagree with the majority’s conclusion that the juvenile court lacks jurisdiction over appellant’s action because it is not a “parentage action.” Had appellant not previously consented to the legitimacy filing in probate court, she could have filed a parentage action seeking retroactive child-support payments. However, under the majority decision, because she agreed to the legitimacy filing in probate court, she loses the right to do so. In Lewis, we reasoned that such a result unfairly punished those who had consented to a legitimacy filing.
+{¶ 19} I also disagree with the majority’s statement that R.C. 3111.05 allows the child to file a parentage action until age 23, but does not allow the mother to do so. R.C. 3111.05 states: “An action to determine the existence or nonexistence of the father and child relationship may not be brought later than five years after the child reaches the age of eighteen.” R.C. 3111.04 specifically states: “An action to determine the existence or nonexistence of the father and child relationship may be brought by the child * * *, [or] the child’s mother * * Carnes addressed only a child’s right to bring a parentage action after age 18; it did not address a mother’s right.
+{¶ 20} Jurisdiction of a court connotes the power to hear and decide a case on its merits. Morrison v. Steiner (1972), 32 Ohio St.2d 86, 61 O.O.2d 335, 290 N.E.2d 841, at paragraph one of the syllabus. The juvenile court has jurisdiction over parentage actions. R.C. 3111.06. The provisions of R.C. 3111.04 permit the child’s mother to bring a parentage action. R.C. 3111.13(C) provides that a juvenile court has the authority to make a support order once a parentage determination is made. This authority extends to the award of retroactive child support. Carnes, 104 Ohio St.3d 629, 2004-0hio-7107, 821 N.E.2d 180, at ¶ 17. Accordingly, I would find that appellant’s action for retroactive child support, like the mother’s action in Lewis, is a “parentage action pursuant to R.C. 3111.01 through 3111.19” and, under the provisions of R.C. 3111.05 and 3111.13, the juvenile court has jurisdiction to consider her claims.
