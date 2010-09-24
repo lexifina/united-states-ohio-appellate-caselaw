@@ -1,0 +1,53 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2009 CA 100"
+decided: "2010-09-24"
+citations: ["191 Ohio App. 3d 129"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Fain and Osowik, JJ., concur.", "Thomas J. Osowik, J., of the Sixth Appellate District, sitting by assignment."]
+parties: ["The STATE of Ohio, Appellee, v. ANDERSON, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/191/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3874314
+cites_cases: ["117 Ohio St.3d 261", "2008-Ohio-856", "2009 WL 2855890", "2009-Ohio-4580", "2010-Ohio-4525", "883 N.E.2d 440"]
+---
+
+# State v. Anderson
+
+## Majority (Froelich, Judge.)
+
+Froelich, Judge.
+{¶ 1} Lorrenzo Anderson, pro se, appeals from two orders of the Clark County Court of Common Pleas denying his motions for correction of jail-time credit. For the following reasons, the trial court’s order in case No. 09-CR-327 will be affirmed, the order in case No. 09-CR-44 will be reversed, and Anderson’s sentence will be modified to reflect 174 days of jail-time credit, consistent with the amount ordered in case No. 09-CA-327.
+I
+{¶ 2} Anderson was arrested on January 1, 2009, after he failed to comply with a police officer’s order to stop his vehicle and fled at a high rate of speed. On January 13, 2009, Anderson was indicted on one count of failure to comply with an order or signal of a police officer. Clark C.P. No. 09-CR-20. The docket for that case reflects that bond was set at $25,000.
+{¶ 3} On January 21, 2009, Anderson was charged with possession of heroin, possession of crack cocaine, possession of powder cocaine, and two counts of trafficking in powder cocaine. Clark C.P. No. 09-CR-44. The trial court set bond at $50,000.
+{¶ 4} Due to an error in the indictment in case No. 09-CR-20, Anderson was reindicted on April 20, 2009, for failure to comply with an order or signal of a police officer. Clark C.P. No. 09-CR-327. At arraignment, bond was again set at $25,000. The trial court later dismissed case No. 09-CR-20.
+{¶ 5} In June 2009, Anderson pleaded no contest to possession of heroin, possession of crack cocaine, and possession of powder cocaine in case No. 09-CR-44, and to failure to comply with an order or signal of a police officer in case No. 09-CR-327.
+{¶ 6} Anderson was sentenced in both cases on June 19, 2009. In case No. 09-CR-44, he was sentenced to one year for possession of heroin, seven years for possession of crack cocaine, and four years for possession of powder cocaine, to be served concurrently for a total of seven years; Anderson’s driver’s license was suspended for five years, and he was ordered to pay an aggregate fine of $12,500.
+{¶ 7} In case No. 09-CR-327, Anderson was sentenced to one year in prison and his driver’s license was suspended for nine years. Anderson’s sentence was to be served concurrently with the sentence imposed in case No. 09-CR-44.
+{¶ 8} The trial court awarded jail-time credit in both judgment entries. In case No. 09-CR-44, the court credited Anderson with “jail time served since June 19, 2009 [the date of the sentencing hearing] until conveyance to the penitentiary system.” In case No. 09-CR-327, the court credited Anderson with “jail time served since January 1, 2009 [the date of his arrest on the failure to comply charge] until conveyance to the penitentiary system.”
+{¶ 9} Anderson was continuously incarcerated in the Clark County Jail from January 1, 2009, until his conveyance to the London Correctional Institution on June 24, 2009, as ordered in case No. 09-CR-44. With respect to case No. 09-CR-327, the sheriff conveyed Anderson by “papers only” on June 30, 2009.
+{¶ 10} On August 5, 2009, Anderson filed a “Motion for Correction of Jail Time Credit” in both case Nos. 09-CR-44 and 09-CR-327. He argued that he should have received 174 days of jail-time credit, representing the time that he had spent in the Clark County Jail from January 1, 2009, until June 24, 2009, in both cases. Following a hearing on September 15, 2009, the trial court denied the motions without explanation.
+{¶ 11} Anderson appeals from the denial of his motions.
+II
+{¶ 12} Anderson’s sole assignment of error states:
+{¶ 13} “The trial court errored [sic] in denying defendant-appellant’s postsentence motion for jail time credit. A trial court is mandated to grant jail time credit where a defendant was confined for any reason arising out of the case while in leiu [sic] of bond.”
+{¶ 14} Anderson claims that the trial court erred in denying his motions for jail-time credit. He asserts that because his sentences in the two cases were run concurrently, he should have been credited with 174 days of jail-time credit (January 1, 2009 to June 24, 2009) in both cases and that his release date from prison should be January 1, 2016.
+{¶ 15} Anderson relies upon State v. Fugate, 117 Ohio St.3d 261, 2008-Ohio-856, 883 N.E.2d 440, to support his contention. In Fugate, the Supreme Court of Ohio addressed whether a defendant who is sentenced concurrently on multiple charges is entitled to have jail-time credit applied toward all terms of incarceration. The court noted that jail-time credit is governed by R.C. 2967.191 and the Ohio Administrative Code, and it clarified how credit is to be applied when multiple terms are imposed concurrently rather than consecutively. The court explained:
+{¶ 16} “When a defendant is sentenced to consecutive terms, the terms of imprisonment are served one after another. Jail-time credit applied to one prison term gives full credit that is due, because the credit reduces the entire length of the prison sentence. However, when a defendant is sentenced to concurrent terms, credit must be applied against all terms, because the sentences are served simultaneously. If an offender is sentenced to concurrent terms, applying credit to one term only would, in effect, negate the credit for time that the offender has been held. To deny such credit would constitute a violation of the Equal Protection Clause. Therefore we hold that when a defendant is sentenced to concurrent prison terms for multiple charges, jail-time credit pursuant to R.C. 2967.191 must be applied toward each concurrent prison term.” Fugate at ¶ 22.
+{¶ 17} Discussing Fugate, we have held that “the date on which a subsequent offense was committed is irrelevant to the analysis and result the holding in Fugate requires.” State v. Cole, Montgomery App. No. 23327, 2009-Ohio-4580, 2009 WL 2855890, ¶ 13. We reasoned:
+{¶ 18} “So long as two or more sentences are imposed concurrently, the jail-time credit applicable to each sentence applies to all sentences imposed. Whether the terms of the sentences are identical, as in the present case, or of different lengths, as in Fugate, their respective jail-time credits apply to each term of incarceration made concurrent. On that basis, any shorter jail-time credit for one sentence is subsumed into the longest jail time credit available for any of the concurrent sentences. Otherwise, the defendant is denied the credit to which he is entitled for that longer term.” Id.
+{¶ 19} Although the state acknowledges our reasoning in Cole, it argues that we must affirm the trial court on the ground that Anderson failed to request a transcript of the September 15, 2009 hearing, and “the justification by the trial court in denying Anderson’s motion is not before this Court.” We find the state’s argument to be unpersuasive. The record reflects the essential facts for this court to determine, as a matter of law, whether Anderson should have received 174 days of jail-time credit, in both cases, for time spent in jail in lieu of bond. Although we do not know what occurred at the September 15, 2009 hearing, we see no reason, given the issue presented, why a transcript of that hearing is necessary to address Anderson’s assignment of error. If the state considered the transcript to be necessary, it could have sought to have Anderson file the transcript or it could have ordered the transcript itself. App.R. 9(B).
+{¶ 20} According to the record, Anderson was jailed on January 1, 2009. Bond was set in both criminal cases, and there is no indication in the record that Anderson was released on bond. To the contrary, in case No. 09-CR-327, the court credited Anderson with “jail time served since January 1, 2009 until conveyance to the penitentiary system,” which occurred on June 24, 2009.
+{¶ 21} Because Anderson’s one-year sentence in case No. 09-CR-327 was to be served concurrently with his seven-year sentence in case No. 09-CR-44, the respective jail-time credits apply to each term of incarceration. As we stated in Cole, the shorter amount of jail-time credit (the amount in case No. 09-CA-44) should have been subsumed into the longest jail-time credit available for any of the concurrent sentences, i.e., the 174-day period in case No. 09-CA-327. The trial court erred when, having imposed concurrent sentences in case Nos. 09-CR-44 and 09-CR-327, it failed to credit Anderson for the 174 days of jail time to which he was entitled in case No. 09-CR-327 against the sentence the court imposed in case No. 09-CR — 44.
+{¶ 22} The assignment of error is sustained as to case No. 09-CR-44.
+{¶23} Because the court ordered 174 days of jail-time credit (January 1, 2009 — June 24, 2009) in case No. 09-CR-327, the assignment of error with respect to that case is overruled.
+Ill
+. {¶ 24} Because the court ordered 174 days of jail-time credit in case No. 09-CR-327, the trial court’s denial of Anderson’s motion to correct the credit in that case will be affirmed.
+{¶ 25} The trial court’s denial of Anderson’s motion to correct jail-time credit in case No. 09-CR-44 will be reversed. Anderson’s sentencing entry will be modified to reflect 174 days of jail-time credit, consistent with the amount of credit ordered in case No. 09-CR-327. The case will be returned to the trial court on our special mandate to modify the sentencing entry and to notify the Ohio Department of Rehabilitation and Correction of the modified sentence.
+Judgment accordingly.
+Fain and Osowik, JJ., concur.
+Thomas J. Osowik, J., of the Sixth Appellate District, sitting by assignment.
+. Anderson's motion did not indicate his scheduled release date from prison, although his brief states that he will be released on June 16, 2016. The Ohio Department of Rehabilitation and Correction ("ODRC”) website reflects that Anderson’s seven-year term began on June 24, 2009, and expires on June 16, 2016. Accordingly, it appears that the ODRC has calculated Anderson's release date based on eight days of jail-time credit.
