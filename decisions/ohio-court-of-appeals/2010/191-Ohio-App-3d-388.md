@@ -1,0 +1,34 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2009 CA 120"
+decided: "2010-12-10"
+citations: ["191 Ohio App. 3d 388"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Froelich and Osowik, JJ., concur.", "Osowik, J., of the Sixth District Court of Appeals, sitting by assignment."]
+parties: ["The STATE of Ohio, Appellee, v. HUTCHEN, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/191/cases/0388-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3874406
+cites_cases: ["149 Ohio App.3d 684", "1978 WL 218325", "2002-Ohio-5589", "2007 WL 4554459", "2007-Ohio-7055", "2010-Ohio-6103", "325 N.E.2d 540", "42 Ohio St.2d 46", "71 O.O.2d 26", "778 N.E.2d 648"]
+---
+
+# State v. Hutchen
+
+## Majority (Donovan, Presiding Judge.)
+
+Donovan, Presiding Judge.
+{¶ 1} William Hutchen appeals from the denial of his August 5, 2009 application for the expungement of his February 15, 1964 conviction for carrying a concealed weapon. Hutchen and a codefendant were convicted of the same charge in consolidated cases, and Hutchen was sentenced to a suspended term of six months in jail and fined $500, $400 of which was suspended. The Clark County Court of Common Pleas denied Hutchen’s application for expungement on August 14, 2009, in an entry that provides that “review of the record shows the defendant is not eligible to have his felony conviction expunged. Only ‘first and only’ time offenders are eligible. Defendant is a multiple state offender.” In its brief, the state asserts that “Hutchen filed a motion for reconsideration, which was denied by the trial court on August 28, 2009.” Hutchen’s notice of appeal is dated December 11, 2009, and it states that he appeals from the decision of August 14, 2009.
+{¶ 2} On March 29, 2010, Hutchen filed a document in this court that states, “My name is William Hutchen. I wish to have inclosed [sic] record closed or expunged at my age of 65. I have applied for a security job — but cannot have a felony conviction. Please help me clear my record up.” On April 1, 2010, Hutchen filed a second document that states, “My name is William Boyd Hutchen DOB 10-20-44(65). I feel I fall under the first and only time offenders. This makes me eligible. I was charged with CCW * * *. At the time I honestly did not know what I got myself into. I also thought this was misdimner [sic]. As I stated the first and only time offender fits me. There was no criminal intent. We were going to sell the gun for gas and also the knives. I hope after all this time this case 13270 & 13271 can be forgavin [sic]. Approx 46 years ago I have worked as deputy sheriff and police officer. At no time did I think I had a felony. So please could you drop the felony [and] clean my record up so I could go back to work in security.”
+{¶ 3} On April 26, 2010, we issued an order that provides, “On March 29, 2010 and April 1, 2010, Appellant, William Hutchen, filed two documents in the above-captioned appeal. In each document, Hutchen requests that this Court review the record in case nos. 13270 and 13271 for the possibility of expungement.
+{¶ 4} “ * * *
+{¶ 5} “Upon consideration of the foregoing, this court shall construe the documents filed on March 29, 2010 and April 1, 2010 as Appellant’s Brief.”
+{¶ 6} The state initially asserts that we should dismiss Hutchen’s appeal as untimely pursuant to App.R. 4, which provides that a “party shall file the notice of appeal required by App.R. 3 within thirty days of the later of entry of the judgment or order appealed or, in a civil case, service of the notice of judgment and its entry if service is not made on the party within the three day period in Rule 58(B) of the Ohio Rules of Civil Procedure.” Expungement is a civil proceeding. State v. Londrico (Dec. 28, 1978), Cuyahoga App. No. 38174, 1978 WL 218325, citing State v. Milanovich (1975), 42 Ohio St.2d 46, 49, 71 O.O.2d 26, 325 N.E.2d 540. Civ.R. 58(B) provides, “When the court signs a judgment, the court shall endorse thereon a direction to the clerk to serve upon all parties * * * notice of the judgment and its date of entry upon the journal. Within three days of entering the judgment upon the journal, the clerk shall serve the parties * * * and note the service in the appearance docket. Upon serving the notice and notation of the service in the appearance docket, the service is complete. The failure of the clerk to serve notice does not affect the validity of the judgment or the running of the time for appeal except as provided in App. R. UA).” (Emphasis added.) The trial court failed to endorse upon its judgment the required direction to the clerk, and a notation of its service is not reflected on the journal. Although Hutchen filed his appeal more than 30 days after the date of the decision appealed from, his appeal is nevertheless timely because the time for his appeal has never begun to run. In other words, Hutchen’s appeal was timely filed.
+{¶ 7} R.C. 2953.32 governs expungement:
+{¶ 8} “(B) Upon the filing of an application under this section, the court shall set a date for a hearing and shall notify the prosecutor for the case of the hearing on the application. The prosecutor may object to the granting of the application by filing an objection with the court prior to the date set for the hearing. The prosecutor shall specify in the objection the reasons for believing a denial of the application is justified.” (Emphasis added.)
+{¶ 9} While the criminal docket statement indicates that a hearing occurred on August 14, 2009, the trial court’s entry states merely that the court reviewed the record herein. The trial court’s docket entries do not show that a hearing date was set and that the prosecutor was notified as required by R.C. 2953.32(B). Nor is there any indication that Hutchen was notified of a hearing date. The state makes no mention of a hearing in its brief but asserts merely that the court “considered Hutchen’s application.” Hutchen is entitled to a hearing on his application. Dayton v. P.D., 149 Ohio App.3d 684, 2002-Ohio-5589, 778 N.E.2d 648, ¶ 8 (“The trial court denied P.D.’s application * * * without a hearing and without providing any notice that it intended to act on the application without a hearing. Accordingly, we will remand this matter to the trial court so that the trial court can comply with the statutory provisions of R.C. 2953.32(B)”); State v. Smith, Summit App. No. 23717, 2007-Ohio-7055, 2007 WL 4554459, ¶ 8.
+{¶ 10} The judgment of the trial court is reversed, and the cause is remanded for further proceedings consistent with this opinion.
+Judgment reversed and cause remanded.
+Froelich and Osowik, JJ., concur.
+Osowik, J., of the Sixth District Court of Appeals, sitting by assignment.
