@@ -1,0 +1,77 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2011-CA-3"
+decided: "2011-11-18"
+citations: ["197 Ohio App. 3d 591"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Grady, P.J., concurs.", "Kline, J., dissents.", "Roger L. Kline, J., of the Fourth Appellate District, sitting by assignment."]
+parties: ["The STATE of Ohio, Appellee, v. FISHER, Appellant."]
+source_url: "https://static.case.law/ohio-app-3d/197/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3882810
+cites_cases: ["115 Ohio App.3d 521", "121 Ohio App.3d 445", "1997 WL 142361", "2011-Ohio-5965", "574 N.E.2d 492", "61 Ohio St.3d 259", "671 N.E.2d 343", "684 N.E.2d 668", "685 N.E.2d 836", "700 N.E.2d 336", "79 Ohio Misc.2d 82", "80 Ohio St.3d 89"]
+---
+
+# State v. Fisher
+
+## Majority (Fain, Judge.)
+
+Fain, Judge.
+{¶ 1} Defendant-appellant, Dave W. Fisher, appeals from his conviction and sentence for domestic violence, in violation of R.C. 2919.25(C), a misdemeanor of the fourth degree. Fisher contends both that the trial court erred when it denied his motion for a judgment of acquittal at the conclusion of the state’s case-in-chief and that his conviction is against the manifest weight of the evidence.
+{¶ 2} We conclude that the evidence was insufficient to permit a reasonable finder of fact to conclude, beyond a reasonable doubt, that Fisher, by threat of force, knowingly caused a family member to believe that she was under threat of imminent physical harm. Accordingly, the judgment of the trial court is reversed, and Fisher is discharged.
+I
+{¶ 3} The following evidence was submitted during the state’s case-in-chief.
+{¶ 4} One night in late November 2010, Shirley Fisher was asleep in her estranged husband’s house. Ms. Fisher and Mr. Fisher were completing then-divorce at the time of the incident. At about 3:30 a.m., Ms. Fisher awoke to the sound of the bedroom door being pushed open. Ms. Fisher had placed a serving fork, or carving fork, into the door in order to keep it from opening and, additionally, had placed an armoire in front of the door to prevent it from opening. Located on top of the armoire was a potted plant, a house telephone, and a teddy bear. When Mr. Fisher forced the door open, the armoire and the items on top of the armoire were knocked over onto the floor. The potted plant broke.
+{¶ 5} After Mr. Fisher entered the room, he and Ms. Fisher exchanged words. It is unclear who began the verbal altercation or what exactly was said. Mr. Fisher picked up the now unpotted plant and threw it towards Ms. Fisher. The plant landed on the pillow where Ms. Fisher had been sleeping. Mr. Fisher also threw the telephone, which hit the side of the bed, which was located approximately four to five feet from the door. The telephone fell to the floor. Ms. Fisher testified that she was afraid, as evidenced by the barricaded and jammed door, but that she did not know whether Mr. Fisher was going to try to hurt her. Asked whether she thought it was possible that Mr. Fisher was going to try to hurt her, Ms. Fisher answered, “Absolutely.”
+{¶ 6} Ms. Fisher, up until either that day or shortly before that day, had been sleeping exclusively in a room downstairs. Mr. Fisher, who had not lived at the residence for over three weeks, had been to the house on several occasions and would regularly come into the bedroom where Ms. Fisher was located that evening in order to retrieve his clothes. Mr. Fisher had no knowledge that Ms. Fisher was going to be in that room that evening or that she had barricaded herself in that room with a sharp utensil and a piece of furniture. It is undisputed that Mr. Fisher had a right to be in the residence. After Mr. Fisher obtained a few clothing items, he left the residence. Ms. Fisher called the police to report the incident.
+{¶ 7} In her account to Sergeant Mike Whaley of the Miami County Sheriffs Department, Ms. Fisher neglected to mention that she had barricaded and jammed the door, that Mr. Fisher had explained why he was there, and that she had not slept in that bedroom before that evening. She did, however, tell Sgt. Whaley that she was in “fear for her safety” and that Mr. Fisher seemed intoxicated because he had a lack of balance and “by his action of coming into the room” in that manner. Sgt. Whaley was not able to determine if Mr. Fisher was, in fact, intoxicated. Sgt. Whaley did, however, believe that by the placement of the plant and the location of the phone — between the bed, night stand, and doorway — Ms. Fisher was telling the truth.
+{¶ 8} The following evidence was presented during Fisher’s case-in-chief.
+{¶ 9} Mr. Fisher had been living where the incident occurred since 1972 and had purchased the real property in 1993. The- real property contains Mr. Fisher’s residence, his workshop, and a one-room schoolhouse on almost four acres. While both Mr. and Ms. Fisher had a legal right to be in the house, Mr. Fisher had not slept at the residence for quite some time, because he did not trust Ms. Fisher while he slept.
+{¶ 10} In the morning of the incident, Mr. Fisher had returned to the residence to “get some clothes,” because later that morning he was to be installing equipment at a construction site, and the clothes he needed were kept at the residence. Upon entering the house, Mr. Fisher had no intention of interacting with Ms. Fisher. To his knowledge, Ms. Fisher would be sleeping in the computer room located downstairs from the bedroom. Ms. Fisher had never indicated to Mr. Fisher that she was now sleeping in the bedroom. Upon entering the house, Mr. Fisher noticed that Ms. Fisher was not in the computer room; he believed that was because she was staying with her boyfriend.
+{¶ 11} When Mr. Fisher reached the bedroom, he found the door to be wedged. Due to the age of the house and the fact that the door was frequently stuck during the fall and winter months, Mr. Fisher forced the door open. When that occurred, the door “flung” open, knocking over an armoire, a potted plant, and the telephone. After words were exchanged, Mr. Fisher retrieved the clothing items he had come for, walked out of the room, and left the house. Mr. Fisher denied ever throwing any item during .the incident. Mr. Fisher denied being intoxicated. Mr. Fisher denied ever believing that he put Ms. Fisher in any type of fear.
+{¶ 12} Mr. Fisher had been sleeping at the residence of Don Fisher, his father. That morning, Mr. Fisher arrived at his father’s residence around 4:00 a.m., and seemed calm and collected. He told his father that he had just come from his house, where he had picked up a pair of jeans and his work boots. Mr. Fisher then proceeded to his bedroom. To his father, Mr. Fisher did not appear intoxicated. Shortly thereafter, a deputy sheriff arrived at Don Fisher’s residence and arrested his son.
+II
+{¶ 13} Mr. Fisher’s first assignment of error is as follows:
+{¶ 14} “The trial court should have granted defendant’s motion for acquittal at the conclusion of the case by the state of Ohio.”
+{¶ 15} “In reviewing the record for sufficiency, ‘[t]he relevant inquiry is whether, after viewing the evidence in a light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime proven beyond a reasonable doubt.’ ” State v. Smith (1997), 80 Ohio St.3d 89, 113, 684 N.E.2d 668, quoting State v. Jenks (1991), 61 Ohio St.3d 259, 574 N.E.2d 492, paragraph two of the syllabus.
+{¶ 16} “[I]n order to show that a person violated R..C. 2919.25(C), ‘[i]t must be shown by the prosecution that the victim believed that the offender would cause her imminent physical harm.’ ” Hamilton v. Cameron (1997), 121 Ohio App.3d 445, 449, 700 N.E.2d 336, quoting State v. Sayres (Mar. 26, 1997), Washington App. No. 95CA30, 1997 WL 142361. The state of mind of the victim is an essential element of this crime. Id. In the case before us, Mr. Fisher argues that the state failed to prove, beyond reasonable doubt, that Ms. Fisher believed that he would have caused her imminent physical harm.
+{¶ 17} “Imminent” has been defined by Ohio courts as near at hand or impending. Cincinnati v. Baarlaer (1996), 115 Ohio App.3d 521, 526-527, 685 N.E.2d 836. It has also been defined as requiring the belief of the victim that harm would occur immediately or, in the alternative, that the defendant will cause immediate physical harm. State v. Taylor (1996), 79 Ohio Misc.2d 82, 85, 671 N.E.2d 343.
+{¶ 18} Mr. Fisher entered his household early in the morning with the belief that Ms. Fisher was not in the bedroom they had shared during their marriage. Ms. Fisher had, without any attempt at providing direct or constructive notice, moved into the bedroom. Both of them knew that Mr. Fisher would need access to that room in order to retrieve personal items. Ms. Fisher had not only jammed the door shut, with either a serving or carving fork, she had also placed furniture in front of the door. When Mr. Fisher ultimately opened the door with a reasonable amount of force needed to gain entry and collect the clothing items he came to retrieve, the furniture and items on top of that furniture were knocked off and broken. Regardless of the words that were exchanged or items thrown in the general direction of Ms. Fisher, by her own admission, she did not know whether Mr. Fisher was going to try to hurt her:
+{¶ 19} “Q. Okay. Did you think that he was going to try to — try to hurt you?
+{¶ 20} “A. I don’t know.
+{¶ 21} “Q. Did you think that was possible?
+{¶ 22} “A. Absolutely.
+{¶ 23} “Q. Is that part of the reason you were afraid?
+{¶ 24} “A. I wanted to not — I wanted to wake up at least if he came in there.
+{¶ 25} “Q. Okay.
+{¶ 26} “A. And those — by him — by what he did, woke me up.”
+{¶ 27} We find that her belief that it was “absolutely” possible does not meet the criterion of a belief that Mr. Fisher would cause her imminent harm. At most, her testimony may have established that she was in fear that Mr. Fisher might hurt her, but R.C. 2919.25(C), “strictly construed against the state and liberally construed in favor of the accused,” as required by R.C. 2901.04(A), requires the victim “to believe that the offender will cause imminent physical harm.” By her own admission, Ms. Fisher did not know that he would try to hurt her.
+{¶ 28} R.C. 2919.25(C) provides:
+{¶ 29} “No person, by threat of force, shall knowingly cause a family or household member to believe that the offender will cause imminent physical harm to the family or household member.”
+{¶ 30} Use of the word “will” in a conditional sentence expresses an intention to act in a particular way to accomplish a desired object. As it is used in R.C. 2919.25(C), “will” denotes an intention on the part of the offender to cause the victim imminent physical harm. The conduct the section prohibits is knowingly causing the victim to believe that the offender intends to act on that desire. It is not necessary that the victim must know that the offender will accomplish his desired object, which remains conditioned on his action. All that R.C. 2919.25(C) requires is that the offender has caused the victim to believe that the offender will take the action his desired object requires.
+{¶ 31} It was not the state’s burden to show that the victim believed she would suffer imminent physical harm. The state’s burden was merely to show that the victim believed that the defendant desired to harm her and that he intended to act on that desire. But the victim’s testimony disclaims a belief that defendant intended to so act.
+{¶ 32} The state may rely on evidence other than the victim’s testimony to prove the offense. In particular, the state may offer evidence of the victim’s conduct to prove her state of mind. ’ But absent some sound reason to discount the victim’s declaration, it should be given greater weight than contrary inferences derived from her conduct.
+{¶ 33} Mr. Fisher’s first assignment of error is sustained.
+III
+{¶ 34} Mr. Fisher’s second assignment of error is as follows:
+{¶ 35} “The trial court decision finding defendant guilty is against the manifest weight of the evidence.”
+{¶ 36} In view of our disposition of Mr. Fisher’s first assignment of error, this assignment of error is overruled as moot.
+IV
+{¶ 37} Mr. Fisher’s first assignment of error having been sustained, the judgment of the trial court is reversed, and Mr. Fisher is discharged as to the offense of which he was convicted.
+Judgment reversed.
+Grady, P.J., concurs.
+Kline, J., dissents.
+Roger L. Kline, J., of the Fourth Appellate District, sitting by assignment.
+
+## Dissent (Kline, Judge,)
+
+Kline, Judge,
+dissenting.
+{¶ 38} I respectfully dissent as to the first assignment of error. I agree with the majority that the victim’s “belief that it was ‘absolutely’ possible does not cross the threshold of being a belief that Mr. Fisher would cause her imminent harm.” Thus, this evidence favors the defendant-appellant, not the prosecution. Under our standard of review, however, we are required to review the evidence in a light that favors the prosecution. That is, “[i]n reviewing the record for sufficiency, ‘[t]he relevant inquiry is whether, after viewing the evidence in a light most favorable to the prosecution, any rational trier of fact could have found the essential elements of the crime proven beyond a reasonable doubt.’ ” State v. Smith (1997), 80 Ohio St.3d 89, 113, 684 N.E.2d 668, quoting State v. Jenks (1991), 61 Ohio St.3d 259, 574 N.E.2d 492, paragraph two of the syllabus.
+{¶ 39} Further, I agree with the law as stated in Hamilton v. Cameron (1997), 121 Ohio App.3d 445, 700 N.E.2d 336, which held that in order to show a violation of R.C. 2919.25(C), the state must prove that the victim believed that the offender would cause her imminent physical harm. The state of mind of the victim is an essential element of this offense. “While it is true that victims may change their testimony to protect a spouse, there must be some evidence that the victim thought that the accused would cause imminent physical harm.” Id. at 449, 700 N.E.2d 336.
+{¶ 40} As I stated earlier, I agree with the majority that the victim’s “belief that it was ‘absolutely’ possible does not cross the threshold of being a belief that Mr. Fisher would cause her imminent harm.” But the prosecution is not limited to the victim’s testimony. Instead, as Hamilton notes, the prosecution may use “other evidence [from which] it could be inferred, that the victim thought that the accused would cause imminent physical harm.” Id. Circumstantial evidence and direct evidence “possess the same probative value.” Jenks, paragraph one of the syllabus.
+{¶ 41} Here, in reviewing the other evidence in a light most favorable to the prosecution, I think one could infer, based on the circumstances, that the victim wife thought her husband would cause her imminent physical harm — barricading the door, calling the police, testimony about thrown objects.
+{¶ 42} In conclusion, after viewing the evidence in a light most favorable to the prosecution, I would find that any rational trier of fact could have found the essential elements of domestic violence under R.C. 2919.25(C) proven beyond a reasonable doubt. Consequently, I would overrule the first assignment of error and proceed to address the second assignment of error.
+{¶ 43} Thus, I dissent.
