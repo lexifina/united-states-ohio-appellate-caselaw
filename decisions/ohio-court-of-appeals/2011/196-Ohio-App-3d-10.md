@@ -1,0 +1,58 @@
+---
+court: "Ohio Court of Appeals"
+docket: "2011CA00097"
+decided: "2011-11-28"
+citations: ["196 Ohio App. 3d 10"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hoffman, P.J., and Edwards, J., concur."]
+parties: ["HMEIDAN et al. Appellants, v. RAWAHNEH et al. Appellees."]
+source_url: "https://static.case.law/ohio-app-3d/196/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6947656
+cites_cases: ["109 N.E.2d 265", "158 Ohio St. 313", "2011-Ohio-6149", "23 Akron L.Rev. 2", "30 OBR 78", "30 Ohio St.3d 35", "364 N.E.2d 267", "4 O.O.3d 466", "40 Ohio St.3d 265", "457 N.E.2d 827", "50 Ohio St.2d 317", "506 N.E.2d 212", "533 N.E.2d 325", "626 N.E.2d 99", "628 N.E.2d 1377", "662 N.E.2d 1074", "663 N.E.2d 639", "68 Ohio St.3d 274", "68 Ohio St.3d 509", "75 Ohio St.3d 433", "75 Ohio St.3d 447", "9 OBR 61", "9 Ohio St.3d 12"]
+---
+
+# Hmeidan v. Rawahneh
+
+## Majority (Farmer, Judge.)
+
+Farmer, Judge.
+{¶ 1} On June 16, 2010, appellants, Eddie Hmeidan and Mimi Hmeidan, formerly known as Mimi Hamdan, filed a complaint against appellees, Ziad Rawahneh and Goodtimes Pub & Drive Thru, Inc., stemming from appellee Rawahneh’s purchase of Goodtimes Pub from appellants. At issue were two promissory notes, one in the amount of $175,000, payable to appellant Eddie Hmeidan, and the second in the amount of $100,000, payable to appellant Mimi Hamdan, now known as Mimi Hmeidan. Appellants alleged that there remained an outstanding balance due and payable by appellees in the amount of $85,000. Appellants also alleged that they loaned appellee Rawahneh the amounts of $47,837 and $20,000 that are also outstanding.
+{¶ 2} On February 1, 2011, appellees filed a motion for summary judgment. By judgment entry filed March 30, 2011, the trial court granted the motion.
+{¶ 3} Appellants filed an appeal, and this matter is now before this court for consideration. The assignment of error is as follows:
+{¶ 4} “The trial court erred by granting appellees’ motion for summary judgment as appellees were not entitled to judgment as a matter of law.”
+{¶ 5} Appellants claim that the trial court erred in granting summary judgment for appellees because there exist genuine issues of material fact as to Count I of their complaint. Appellants further claim that Counts II and III were dismissed in error. We agree in part.
+{¶ 6} Summary-judgment motions are to be resolved in light of the dictates of Civ.R. 56. That rule was reaffirmed by the Supreme Court of Ohio in State ex rel. Zimmerman v. Tompkins (1996), 75 Ohio St.3d 447, 448, 663 N.E.2d 639:
+{¶ 7} “Civ.R. 56(C) provides that before summary judgment may be granted, it must be determined that (1) no genuine issue as to any material fact remains to be litigated, (2) the moving party is entitled to judgment as a matter of law, and (3) it appears from the evidence that reasonable minds can come to but one conclusion, and viewing such evidence most strongly in favor of the nonmoving party, that conclusion is adverse to the party against whom the motion for summary judgment is made. State ex rel. Parsons v. Fleming (1994), 68 Ohio St.3d 509, 511, 628 N.E.2d 1377, 1379, citing Temple v. Wean United, Inc. (1977), 50 Ohio St.2d 317, 327, 4 O.O.3d 466, 472, 364 N.E.2d 267, 274.”
+{¶ 8} As an appellate court reviewing summary-judgment motions, we must stand in the shoes of the trial court and review summary judgments on the same standard and evidence as the trial court. Smiddy v. Wedding Party, Inc. (1987), 30 Ohio St.3d 35, 30 OBR 78, 506 N.E.2d 212.
+{¶ 9} In Count I of their complaint, appellants claim that appellees failed to make payments on a promissory note dated October 7, 2005, payable to appellant Eddie Hmeidan, attached to the complaint as Exhibit A.
+{¶ 10} In its judgment entry filed March 30, 2011, the trial court found that the purchase agreement memorialized the fact that the purchase was predicated on one promissory note for $200,000, which had been paid in full:
+{¶ 11} “The Court finds that the Purchase Agreement in this matter provides that its terms constitute all the terms of the agreement, stating:
+{¶ 12} “This Agreement and the schedules and exhibits hereto and the ancillary documents executed hereunder set forth the entire agreement and understanding supersede and cancel any and all prior discussions, correspondence, agreements, or understandings (whether oral or written) between the parties hereto with respect to such matters.
+{¶ 13} “Further, the Court finds that the Purchase Agreement clearly states that only one Promissory Note was contemplated and that the purchase price was a total of two hundred thousand dollars ($200,000.00). The Court finds that the Purchase Agreement is clear and unambiguous and requires no further interpretation.”
+{¶ 14} We concur in the trial court’s decision because it is clearly within the Supreme Court of Ohio’s ruling in Ed Schory & Sons, Inc. v. Soc. Natl. Bank (1996), 75 Ohio St.3d 433, 440, 662 N.E.2d 1074:
+{¶ 15} “ ‘The Parol Evidence Rule was developed centuries ago to protect the integrity of written contracts.’ Shanker, Judicial Misuses of the Word Fraud to Defeat the Parol Evidence Rule and the Statute of Frauds (With Some Cheers and Jeers for the Ohio Supreme Court) (1989), 23 Akron L.Rev. 2. The parol evidence rule is a rule of substantive law that prohibits a party who has entered into a written contract from contradicting the terms of the contract with evidence of alleged or actual agreements. Id. ‘When two parties have made a contract and have expressed it in a writing to which they have both assented as the complete and accurate integration of that contract, evidence, whether parol or otherwise, of antecedent understandings and negotiations will not be admitted for the purpose of varying or contradicting the writing.’ 3 Corbin, Corbin on Contracts (1960) 357, Section 573. See, also, Charles A. Burton, Inc. v. Durkee (1952), 158 Ohio St. 313, 49 O.O.174, 109 N.E.2d 265.
+{¶ 16} “As is apparent from the foregoing, the parol evidence rule will not be overcome by merely alleging that a statement or agreement made prior to an unambiguous written contract is different from that which is contained in the contract. Stated differently, ‘an oral agreement cannot be enforced in preference to a signed writing which pertains to exactly the same subject matter, yet has different terms.’ Marion, supra, 40 Ohio St.3d 265, 533 N.E.2d 325, paragraph three of the syllabus.”
+{¶ 17} In further support of the trial court’s decision, we fail to find that the alleged “second promissory note” would qualify under the best-evidence rule (Evid.R. 1002):
+{¶ 18} “To prove the content of a writing, recording, or photograph, the original writing, recording, or photograph is required, except as otherwise provided in these rules or by statute enacted by the General Assembly not in conflict with a rule of the Supreme Court of Ohio.”
+{¶ 19} The trial court’s decision is silent as to Counts II and III of the complaint. Appellees argued that these counts were barred by appellants’ failure to raise them as compulsory counterclaims in a previous action. Civ.R. 13(A) governs compulsory counterclaims and states the following:
+{¶ 20} “A pleading shall state as a counterclaim any claim which at the time of serving the pleading the pleader has against any opposing party, if it arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim and does not require for its adjudication the presence of third parties of whom the court cannot acquire jurisdiction. But the pleader need not state the claim if (1) at the time the action was commenced the claim was the subject of another pending action, or (2) the opposing party brought suit upon his claim by attachment or other process by which the court did not acquire jurisdiction to render a personal judgment on that claim, and the pleader is not stating any counterclaim under this Rule 13.”
+{¶ 21} In Rettig Ents., Inc. v. Koehler (1994), 68 Ohio St.3d 274, 277, 626 N.E.2d 99, the Supreme Court of Ohio noted the following:
+{¶ 22} “In Geauga Truck & Implement Co. v. Juskiewicz (1984), 9 Ohio St.3d 12, 14, 9 OBR 61, 63, 457 N.E.2d 827, 829, this court stated that ‘[t]he two-pronged test for applying Civ.R. 13(A) is: (1) does the claim exist at the time of serving the pleading * * *; and (2) does the claim arise out of the transaction or occurrence that is the subject matter of the opposing claim.’ If both prongs are met, then the present claim was a compulsory counterclaim in the earlier action and is barred by virtue of Civ.R. 13(A). Id.”
+{¶ 23} Counts II and III of appellants’ complaint allege the following:
+{¶ 24} “14. Following the original conveyance of Plaintiffs’ former business to Defendants, Plaintiffs made a number of additional loans to Defendant Rawahneh in the aggregate amount of Forty-Seven Thousand Eight Hundred Thirty-Seven Dollars ($47,837.00).
+{¶ 25} “15. On or about October 12, 2005, Defendant Rawahneh verified his indebtedness to the Plaintiff Eddie Hmeidan for the aforesaid loans in writing.
+{¶ 26} “17. Defendant Rawahneh has failed to make any payments to Plaintiffs on the aforesaid additional loan.
+{¶ 27} “18. The outstanding principal balance of the additional loan remains at Forty-Seven Thousand Eight Hundred Thirty-Seven Dollars ($47,837.00).
+{¶ 28} “22. On or about July 7, 2007, Plaintiff Eddie Hmeidan made what he was assured would be a ‘short term’ loan to Defendant Rawahneh in the aggregate amount of Twenty Thousand Dollars ($20,000.00).
+{¶ 29} “25. The present outstanding balance of the aforesaid additional loan is Twenty Thousand Dollars ($20,000.00).”
+{¶ 30} Both counts alleged that the loans were made by appellant Eddie Hmeidan.
+{¶ 81} Appellees argue that these claims are barred by Civ.R. 13(A) because they arose out of the same transaction involved in Goodtimes Pub & Drive Thru, Inc. v. Hmeidan, Stark C.P. No. 2009CV00486. In that case, Goodtimes Pub sued Hmeidan for breach of contract in failing to sell the subject real estate via an option agreement in a lease dated October 17, 2005. Goodtimes Pub alleged that it exercised the option under the lease on January 6, 2008. This 2009 lawsuit was filed on February 4, 2009.
+{¶ 32} The obvious issue is whether there is unanimity of interest. Although the sale of Goodtimes Pub is alleged in the matter sub judice, the claim of monies owed is only against an individual, appellee Rawahneh, and not an Ohio corporation. The lease in the 2009 lawsuit involved Mimi Hmeidan, who is an appellant in this case. However, the allegations of Counts II and III are that appellant Eddie Hmeidan loaned the money to appellee Rawahneh for the continued operation of Goodtimes Pub. Although Goodtimes Pub is named in this lawsuit, it is only alleged to be an obligor in Count I, involving the first promissory note.
+{¶ 33} The same transaction test fails sub judice. There is no unanimity of interest, and the 2009 lawsuit was for specific performance of an option on a lease. Counts II and III in this case claim money owed to appellant Eddie Hmeidan, an unnamed party in the 2009 case.
+{¶ 34} We therefore conclude that the trial court did not err as to Count I of appellants’ complaint. In our de novo review of Counts II and III that were not addressed in the trial court’s judgment entry, we find that they are not barred under Civ.R. 13(A).
+{¶ 35} The sole assignment of error is granted in part as to Counts II and III.
+Judgments affirmed in part and reversed in part.
+Hoffman, P.J., and Edwards, J., concur.
