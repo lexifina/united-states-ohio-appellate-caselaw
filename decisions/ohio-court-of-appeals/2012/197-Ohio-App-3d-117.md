@@ -1,0 +1,37 @@
+---
+court: "Ohio Court of Appeals"
+docket: "CA2011-08-144"
+decided: "2012-04-09"
+citations: ["197 Ohio App. 3d 117"]
+reporter: "ohio-app-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ringland and Hendrickson, JJ., concur."]
+parties: ["IRWIN MORTGAGE CORPORATION, Appellee, v. DuPEE, Appellant, et al."]
+source_url: "https://static.case.law/ohio-app-3d/197/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3883509
+cites_cases: ["150 Ohio App.3d 728", "2002-Ohio-7078", "2003 WL 203590", "2003-Ohio-462", "2004 WL 503935", "2004-Ohio-1217", "2005 WL 858182", "2005-Ohio-1763", "2006 WL 2959468", "2006-Ohio-5427", "2012-Ohio-1594", "782 N.E.2d 1225"]
+---
+
+# Irwin Mortgage Corp. v. DuPee
+
+## Majority (Powell, Presiding Judge.)
+
+Powell, Presiding Judge.
+{¶ 1} A homeowner who lost his home in foreclosure asks this court to set aside the trial court’s order confirming the sheriffs sale of the property. The homeowner argues that his property was located in both Butler and Warren counties and the mortgage company did not follow the law and provide the proper notice to others when it failed to file a certified copy of the foreclosure complaint in Warren County. We find that the homeowner had no interest in and was not prejudiced by the lack of notice to others and affirm the trial court’s judgment confirming the sale of the property.
+{¶ 2} For purposes of this appeal, it appears uncontested that defendant-appellant, Kirk M. DuPee, owned the subject property, which was located in Butler and Warren counties. DuPee was in default of payment on the mortgage and note held by plaintiff-appellee, Irwin Mortgage Corporation. Irwin Mortgage filed a complaint in foreclosure and reformation of the mortgage in Butler County Common Pleas Court in 2006.
+{¶ 3} According to the record, an entry of foreclosure was obtained in this case. Thereafter, stays were imposed on two occasions due to DuPee’s bankruptcy filings. The stays were eventually lifted, and the property was sold at sheriffs sale to Irwin Mortgage. The trial court’s entry confirming the sale, ordering the deed, and distributing the sale proceeds was filed on July 1, 2011. DuPee appeals, raising a single assignment of error for review.
+{¶ 4} “The trial court erred when it determined that the sale of the real estate on April 14, 2011 was made in conformity to Ohio law.”
+{¶ 5} DuPee alleges that Irwin Mortgage’s failure to file a certified copy of the complaint in Warren County did not invoke lis pendens, notifying third parties of the pending action, and therefore the judgment is invalid and unenforceable. Irwin Mortgage does not dispute DuPee’s assertion that a copy of the complaint was not filed in Warren County.
+{¶ 6} “Lis pendens is a legal doctrine — literally ‘a pending lawsuit.’ ” Cincinnati ex rel. Ritter v. Cincinnati Reds, L.L.C., 150 Ohio App.3d 728, 2002-Ohio-7078, 782 N.E.2d 1225, ¶ 30 (1st Dist.). The doctrine was codified in Ohio in R.C. 2703.26. Bank of New York v. Barclay, 10th Dist. No. 03AP-844, 2004-0hio-1217, 2004 WL 503935, ¶ 10.
+{¶ 7} The version of R.C. 2703.26 in effect when the complaint was filed in 2006 stated: “When summons has been served or publication made, the action is pending so as to charge third person [sic] with notice of its pendency.” The statute was amended in September 2008 to state: “When a complaint is filed, the action is pending so as to charge a third person with notice of its pendency.” R.C. 2703.26. Both versions state that “[w]hile pending, no interest can be acquired by third persons in the subject of the action, as against the plaintiffs title.” Id.
+{¶ 8} In order for lis pendens to apply, three elements must be present: (1) the property must be of a character to be subject to the rule, (2) the court must have jurisdiction over both the person and the res, and (3) the property or res involved must be sufficiently described in the pleadings; additionally, the litigation must be about some specific thing that must be necessarily affected by the termination of the suit. Natl. Union Fire Ins. Co. v. Hall, 2nd Dist. No. 19331, 2003-Ohio-462, 2003 WL 203590, ¶ 14; see also Civ.R. 3(B) (venue is proper in a county in which the property, or any part of the property, is situated if the subject of the action is real property or tangible personal property).
+{¶ 9} The general intent and effect of the doctrine of lis pendens is to charge third persons with notice of the pendency of an action and to make any interest acquired by such third persons subject to the outcome and judgment or decree of the pending lawsuit. Barclay, 2004-Ohio-1217, 2004 WL 503935, at ¶10.
+{¶ 10} Lis pendens is not a substantive right. Cincinnati Reds, 150 Ohio App.3d 728, 2002-Ohio-7078, 782 N.E.2d 1225, at ¶ 31. It does not create a lien, but charges the purchaser with notice of the pending action. Id. The purpose of lis pendens is to protect the plaintiffs interest in the subject property. Id. Lis pendens does not relate to the power of a court to hear and decide a case on the merits. ABN AMRO Mtge. Group, Inc. v. Roush, 10th Dist. No. 04AP-457, 2005-Ohio-1763, 2005 WL 858182, ¶ 49.
+{¶ 11} Civ.R. 3(F), titled “Venue: notice of pending litigation, transfer or judgments,” provides for the procedure to follow when real property is situated in a county other than the one in which the action is brought. It states that “[w]hen an action affecting the title to or possession of real property or tangible personal property is commenced in a county other than the county in which all of the real property or tangible personal property is situated, the plaintiff shall cause a certified copy of the complaint to be filed with the clerk of the court of common pleas in each county or additional county in which the real property or tangible personal property affected by the action is situated. If the plaintiff fails to file a certified, copy of the complaint, third persons will not be charged with notice of the pendency of the action.” See also R.C. 2703.27.
+{¶ 12} In the instant case, we find that DuPee is not a party whose protection is contemplated by the doctrine of lis pendens. See R.C. 2703.26. DuPee was the defendant-debtor in the foreclosure, he is not the plaintiff; he is not a third party who obtained an interest in the property during the pendency of the foreclosure action. Cincinnati Reds; Barclay; see generally Hall.
+{¶ 13} “Standing” is defined as a “party’s right to make a legal claim or seek judicial enforcement of a duty or right.” Black’s Law Dictionary 1442 (8th Ed.2004). None of the alleged problems associated with the lis pendens issues are causally connected to any injury suffered by DuPee, and a favorable decision on lis pendens would not redress his injury. See Kuhar v. Medina Cty. Bd. of Elections, 9th Dist. No. 06CA0076-M, 2006-Ohio-5427, 2006 WL 2959468, ¶ 8. In other words, we find that DuPee has no interest in and is not prejudiced by the failure to file a copy of the certified complaint in Warren County and has no right to seek judicial enforcement of lis pendens.
+{¶ 14} Accordingly, none of DuPee’s arguments are well taken, and we find no error by the trial court’s confirmation of the sale. DuPee’s single assignment of error is overruled.
+Judgment affirmed.
+Ringland and Hendrickson, JJ., concur.
